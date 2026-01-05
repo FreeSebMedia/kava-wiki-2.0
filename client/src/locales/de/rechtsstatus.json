@@ -1,0 +1,210 @@
+{
+  "page": {
+    "title": "Rechtsstatus & Legalität",
+    "subtitle": "Eine detaillierte juristische Analyse der Situation in Deutschland und der EU",
+    "category": "Recht"
+  },
+  "toc": {
+    "novel-food-status": "Der Novel-Food-Status",
+    "situation-deutschland": "Situation in Deutschland",
+    "arzneimittel-vs-lebensmittel": "Arzneimittel vs. Lebensmittel",
+    "eu-rechtslage": "Die EU-Rechtslage",
+    "downloads": "Rechtsgutachten Download",
+    "faq": "Häufige Fragen (FAQ)",
+    "fazit": "Fazit & Empfehlung"
+  },
+  "intro": {
+    "lead": "Die rechtliche Situation von Kava (<em>Piper methysticum</em>) in Europa ist komplex und oft missverstanden. Nach aktueller juristischer Einschätzung ist Kava in Deutschland und der EU <strong>kein Novel Food</strong> und damit grundsätzlich verkehrsfähig, sofern es nicht als Arzneimittel vermarktet wird.",
+    "alertTitle": "Wichtige Erkenntnis",
+    "alertText": "Kava wurde vor dem 15. Mai 1997 in der EU in nennenswertem Umfang konsumiert. Daher fällt es <strong>nicht</strong> unter die Novel-Food-Verordnung (EU) 2015/2283 und benötigt keine Zulassung als neuartiges Lebensmittel."
+  },
+  "novelFood": {
+    "title": "Der Novel-Food-Status",
+    "p1": "Die entscheidende Frage für die Verkehrsfähigkeit von Kava als Lebensmittel oder Nahrungsergänzungsmittel in der EU ist, ob es als \"neuartiges Lebensmittel\" (Novel Food) eingestuft wird. Die Novel-Food-Verordnung definiert alle Lebensmittel als neuartig, die vor dem <strong>15. Mai 1997</strong> nicht in nennenswertem Umfang in der EU für den menschlichen Verzehr verwendet wurden.",
+    "p2": "Ein aktuelles Rechtsgutachten kommt zu dem eindeutigen Schluss: <strong>Kava ist kein Novel Food.</strong>"
+  },
+  "cards": {
+    "historicalEvidence": {
+      "title": "Historische Belege",
+      "items": [
+        {
+          "label": "Arzneimittelzulassung vor 1997:",
+          "text": "Kava war in Deutschland bereits lange vor 1997 offiziell zugelassen (Kommission E Monographie 1990)."
+        },
+        {
+          "label": "Marktpräsenz:",
+          "text": "Mindestens 24 Pharmaunternehmen verkauften bereits vor 1997 Kava-Extrakte in Europa (Quelle: ETC Group)."
+        },
+        {
+          "label": "Verbreitung:",
+          "text": "Produkte wie \"Antares\" oder \"Kavasporal forte\" waren weit verbreitet und frei verfügbar."
+        }
+      ]
+    },
+    "legalConsequence": {
+      "title": "Rechtliche Konsequenz",
+      "items": [
+        {
+          "label": "Keine Zulassungspflicht:",
+          "text": "Da Kava kein Novel Food ist, muss es keinen langwierigen Zulassungsprozess durchlaufen."
+        },
+        {
+          "label": "Verkehrsfähigkeit:",
+          "text": "Kava-Produkte können als Lebensmittel oder Nahrungsergänzungsmittel legal verkauft werden."
+        },
+        {
+          "label": "Beweislast:",
+          "text": "Behörden müssten beweisen, dass Kava <em>nicht</em> konsumiert wurde – was angesichts der historischen Fakten unmöglich ist."
+        }
+      ]
+    }
+  },
+  "germany": {
+    "title": "Die Situation in Deutschland",
+    "intro": "Deutschland hat eine besondere Geschichte im Umgang mit Kava. Die Entwicklung lässt sich in drei Phasen unterteilen:",
+    "phases": [
+      {
+        "title": "Phase 1: Die Blütezeit (bis 2001)",
+        "text": "Kava war ein beliebtes und anerkanntes pflanzliches Mittel. Die Kommission E (BfArM) bestätigte 1990 die Wirksamkeit bei nervösen Angstzuständen. Es gab zahlreiche zugelassene Präparate in Apotheken und Drogerien."
+      },
+      {
+        "title": "Phase 2: Das Verbot (2002–2014)",
+        "text": "Aufgrund von Verdachtsfällen auf Leberschäden (die später als fragwürdig eingestuft wurden) widerrief das BfArM 2002 die Zulassungen für Kava-Arzneimittel. Dies führte zu einem faktischen Marktverbot."
+      },
+      {
+        "title": "Phase 3: Die Aufhebung (ab 2014/2019)",
+        "text": "Gerichte erklärten das pauschale Verbot für rechtswidrig. 2019 wurde der Widerruf der Zulassungen endgültig aufgehoben. Heute gilt: Das Verbot bezog sich auf <em>Arzneimittel</em>. Als <em>Lebensmittel</em> (unter Beachtung des Nicht-Novel-Food-Status) ist Kava nie explizit verboten worden."
+      }
+    ],
+    "distinction": {
+      "title": "Abgrenzung: Arzneimittel vs. Lebensmittel",
+      "p1": "Ein wichtiger juristischer Aspekt ist die Abgrenzung. Kava darf in Deutschland nicht als Arzneimittel verkauft werden, ohne eine entsprechende Zulassung zu haben (die aktuell kaum ein Hersteller beantragt). Es wird daher als <strong>Lebensmittel</strong>, <strong>Nahrungsergänzungsmittel</strong> oder <strong>Zutat</strong> gehandelt.",
+      "p2": "Händler dürfen keine heilbezogenen Aussagen (\"hilft gegen Angststörung\") treffen, da dies das Produkt zu einem Präsentationsarzneimittel machen würde. Aussagen zur allgemeinen Entspannung oder Tradition sind hingegen im Rahmen des Lebensmittelrechts zu bewerten."
+    }
+  },
+  "eu": {
+    "title": "Die EU-Rechtslage",
+    "intro": "Auf EU-Ebene gibt es kein zentrales Verbot von Kava. Die Regulierung ist jedoch uneinheitlich. Die folgende Karte gibt einen Überblick über die aktuelle Situation in verschiedenen europäischen Ländern:",
+    "table": {
+      "headers": {
+        "country": "Land",
+        "status": "Status",
+        "details": "Details"
+      },
+      "rows": [
+        {
+          "country": "Deutschland",
+          "status": "Legal",
+          "details": "Als Lebensmittel/NEM verkehrsfähig (kein Novel Food). Arzneimittelstatus möglich, aber selten."
+        },
+        {
+          "country": "Polen",
+          "status": "Legal",
+          "details": "Das alte Verbot wurde 2018 explizit aufgehoben. Kava ist frei verkäuflich."
+        },
+        {
+          "country": "Großbritannien",
+          "status": "Eingeschränkt",
+          "details": "Verkauf für den menschlichen Verzehr offiziell noch eingeschränkt, Besitz und Import für Eigenbedarf oft geduldet."
+        },
+        {
+          "country": "Frankreich",
+          "status": "Grauzone",
+          "details": "Strenge Auslegung der Arzneimittelgesetze, aber keine explizite Novel-Food-Sperre."
+        }
+      ]
+    }
+  },
+  "conclusion": {
+    "title": "Fazit & Empfehlung",
+    "text": "Die rechtliche Panikmache der frühen 2000er Jahre ist wissenschaftlich und juristisch überholt. Kava ist in Deutschland und vielen Teilen der EU legal erwerbbar. Verbraucher sollten jedoch darauf achten, <strong>Noble Kava</strong> von zertifizierten Händlern zu kaufen, um Qualität und Sicherheit zu gewährleisten.",
+    "disclaimerTitle": "Rechtlicher Hinweis",
+    "disclaimerText": "Diese Informationen stellen keine Rechtsberatung dar. Die Rechtslage kann sich ändern. Wir empfehlen Händlern und Importeuren, sich vor dem gewerblichen Handel juristisch beraten zu lassen."
+  },
+  "sources": {
+    "title": "Quellen & Referenzen",
+    "items": [
+      "Rechtsgutachten zur Einordnung von Kava als Novel Food (2025), GFY Babilon LLP",
+      "Kommission E Monographie, Bundesanzeiger Nr. 101 vom 1.6.1990",
+      "ETC Group: \"The Kava Boom\", RAFI Communique, 1996/1997",
+      "Verwaltungsgericht Köln, Urteile zur Aufhebung der Widerrufsbescheide",
+      "Verordnung (EU) 2015/2283 über neuartige Lebensmittel"
+    ]
+  },
+  "faq": {
+    "title": "Häufige Fragen zur Legalität (FAQ)",
+    "items": [
+      {
+        "question": "Darf ich Kava aus den USA bestellen?",
+        "answer": "<p class=\"mb-2\"><strong>Grundsätzlich ja, aber mit Vorsicht.</strong> Da Kava in Deutschland nicht als Betäubungsmittel gelistet ist, ist der Import für den privaten Eigenbedarf nicht strafbar im Sinne des Betäubungsmittelgesetzes (BtMG).</p><p>Allerdings kann der Zoll die Sendung abfangen, wenn der Verdacht besteht, dass es sich um ein nicht zugelassenes Arzneimittel handelt. In diesem Fall wird die Sendung meist an den Absender zurückgeschickt oder vernichtet. Es empfiehlt sich daher, bei europäischen Händlern zu bestellen, die die Ware bereits in die EU eingeführt haben.</p>"
+      },
+      {
+        "question": "Ist der Besitz von Kava strafbar?",
+        "answer": "<p><strong>Nein.</strong> Der Besitz von Kava-Wurzelpulver ist in Deutschland und den meisten EU-Ländern legal. Kava unterliegt nicht dem Betäubungsmittelgesetz (BtMG). Es ist eine legale pflanzliche Substanz.</p>"
+      },
+      {
+        "question": "Warum gibt es Kava nicht in der Apotheke?",
+        "answer": "<p class=\"mb-2\">Nach dem Verbot von 2002 (das 2014/2015 aufgehoben wurde) haben viele Pharmahersteller ihre Zulassungen nicht erneuert, da das Verfahren teuer und aufwendig ist.</p><p>Aktuell gibt es in Deutschland kaum zugelassene Kava-Fertigarzneimittel. Kava ist daher primär als Rohstoff (z.B. als \"Badezusatz\" oder ethnobotanisches Anschauungsmaterial) oder in einigen Fällen als Nahrungsergänzungsmittel (in anderen EU-Ländern) erhältlich.</p>"
+      },
+      {
+        "question": "Darf ich Kava im Flugzeug mitnehmen?",
+        "answer": "<p class=\"mb-2\">Innerhalb der EU ist dies in der Regel unproblematisch, solange es sich um Mengen für den Eigenbedarf handelt.</p><p>Bei Reisen außerhalb der EU (z.B. nach Australien, Neuseeland oder in die USA) sollten Sie die dortigen Einfuhrbestimmungen prüfen. In einigen Ländern (z.B. Singapur, Japan) können strengere Regeln gelten. Informieren Sie sich vor Reiseantritt bei der jeweiligen Botschaft.</p>"
+      },
+      {
+        "question": "Ist Kava ein \"Novel Food\"?",
+        "answer": "<p class=\"mb-2\"><strong>Nach herrschender Rechtsauffassung: Nein.</strong></p><p>Ein \"Novel Food\" ist ein Lebensmittel, das vor dem 15. Mai 1997 in der EU nicht in nennenswertem Umfang verzehrt wurde. Da Kava jedoch bereits lange vor diesem Stichtag in Europa (auch als Lebensmittel/Genussmittel in Reformhäusern) und als Arzneimittel präsent war, greift die Novel-Food-Verordnung hier nicht. Dennoch versuchen manche Behörden gelegentlich, Kava als solches einzustufen, was jedoch rechtlich anfechtbar ist.</p>"
+      }
+    ]
+  },
+  "download": {
+    "title": "Rechtsgutachten Download",
+    "description": "Laden Sie hier das vollständige juristische Gutachten zur Einordnung von Kava als Novel Food herunter. Verfügbar in deutscher und englischer Sprache.",
+    "buttonDe": "Gutachten (Deutsch)",
+    "buttonEn": "Legal Opinion (English)",
+    "copyright": {
+      "title": "Urheberrechtlicher Hinweis & Nutzungsbedingungen:",
+      "text": "Das Rechtsgutachten wurde durch <strong>Kava-Mode.com</strong> in Auftrag gegeben.",
+      "cta": "Hochwertiges Nobel-Kava in Deutschland und Europa kaufen."
+    }
+  },
+  "map": {
+    "title": "Rechtsstatus in Europa",
+    "disclaimer": "Hinweis: Diese Karte dient nur zur Orientierung und stellt keine Rechtsberatung dar. Gesetze können sich ändern.",
+    "statusLabels": {
+      "legal": "Legal / Erlaubt",
+      "grey": "Grauzone / Toleriert",
+      "restricted": "Eingeschränkt / Verboten"
+    },
+    "countries": {
+      "IS": { "name": "Island", "details": "Grauzone: Import für Eigenbedarf meist geduldet." },
+      "NO": { "name": "Norwegen", "details": "Streng reguliert: Gilt als Arzneimittel." },
+      "SE": { "name": "Schweden", "details": "Arzneimittelstatus: Kein freier Verkauf." },
+      "FI": { "name": "Finnland", "details": "Arzneimittelstatus: Rezeptpflichtig." },
+      "IE": { "name": "Irland", "details": "Verkaufsverbot für Kava-Produkte." },
+      "UK": { "name": "UK", "details": "Verkauf verboten, Besitz für Eigenbedarf legal." },
+      "DK": { "name": "Dänemark", "details": "Arzneimittelstatus: Rezeptpflichtig." },
+      "EE": { "name": "Estland", "details": "Status unklar, Import oft möglich." },
+      "NL": { "name": "Niederlande", "details": "Grauzone: Verkauf eingeschränkt, Besitz legal." },
+      "DE": { "name": "Deutschland", "details": "Legal: Als Lebensmittel/Zutat verkehrsfähig (nicht als Arznei)." },
+      "PL": { "name": "Polen", "details": "Legal: Verbot wurde 2018 aufgehoben." },
+      "LT": { "name": "Litauen", "details": "Grauzone." },
+      "LV": { "name": "Lettland", "details": "Grauzone." },
+      "BE": { "name": "Belgien", "details": "Grauzone: Import für Eigenbedarf meist möglich." },
+      "LU": { "name": "Luxemburg", "details": "Grauzone." },
+      "CZ": { "name": "Tschechien", "details": "Legal: Keine spezifischen Verbote bekannt." },
+      "SK": { "name": "Slowakei", "details": "Grauzone." },
+      "FR": { "name": "Frankreich", "details": "Streng reguliert: Verkauf von Kava-Produkten untersagt." },
+      "CH": { "name": "Schweiz", "details": "Arzneimittelstatus: Einfuhr kleiner Mengen möglich." },
+      "AT": { "name": "Österreich", "details": "Grauzone: Ähnlich wie DE, aber strengere Auslegung." },
+      "HU": { "name": "Ungarn", "details": "Legal: Keine Verbote." },
+      "PT": { "name": "Portugal", "details": "Grauzone." },
+      "ES": { "name": "Spanien", "details": "Legal: Verkauf und Besitz erlaubt." },
+      "IT": { "name": "Italien", "details": "Grauzone: Verkauf als Lebensmittel oft toleriert." },
+      "SI": { "name": "Slowenien", "details": "Grauzone." },
+      "HR": { "name": "Kroatien", "details": "Grauzone." },
+      "GR": { "name": "Griechenland", "details": "Grauzone." },
+      "BG": { "name": "Bulgarien", "details": "Legal." },
+      "RO": { "name": "Rumänien", "details": "Grauzone." }
+    }
+  }
+}

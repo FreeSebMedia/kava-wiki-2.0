@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Προφίλ ποικιλιών σε λεπτομέρεια",
+    "subtitle": "Λεπτομερή προφίλ των σημαντικότερων ποικιλιών Kava με χημικούς τύπους, επιδράσεις και συστάσεις.",
+    "category": "Ποικιλίες"
+  },
+  "breadcrumbs": {
+    "home": "Αρχική",
+    "sorten": "Ποικιλίες",
+    "current": "Προφίλ"
+  },
+  "toc": {
+    "title": "Περιεχόμενα",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Επισκόπηση",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Αγαπημένα μου",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Φίλτρο επιδράσεων",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady ποικιλίες",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Balanced ποικιλίες",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Heavy ποικιλίες",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Σύγκριση ποικιλιών",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Προέλευση",
+    "chemotype": "Χημικός τύπος",
+    "duration": "Διάρκεια",
+    "strength": "Δύναμη",
+    "hits": "Αποτελέσματα",
+    "low": "Χαμηλή",
+    "high": "Υψηλή",
+    "variety": "Ποικιλία",
+    "region": "Περιοχή",
+    "type": "Τύπος",
+    "bestUse": "Καλύτερη χρήση",
+    "resetFilters": "Επαναφορά φίλτρων",
+    "matchingCriteria": "από {total} ποικιλίες αντιστοιχούν στα κριτήριά σας",
+    "noMatching": "Καμία ποικιλία {category} δεν αντιστοιχεί στα τρέχοντα κριτήρια φίλτρου.",
+    "toComparison": "Για τη διαδραστική σύγκριση ποικιλιών"
+  },
+  "overview": {
+    "intro": "Αυτή η σελίδα προσφέρει μια συνολική επισκόπηση των σημαντικότερων <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a> ποικιλιών, ταξινομημένων κατά τύπο επίδρασης. Χρησιμοποιήστε αυτά τα προφίλ για να βρείτε την τέλεια ποικιλία για τις ανάγκες σας.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Επικεντρωμένο στο κεφάλι, ευφορικό, κοινωνικό. Ιδανικό για την ημέρα.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Ισορροπημένο, πολυδιάστατο. Κατάλληλο για οποιαδήποτε ώρα της ημέρας.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Επικεντρωμένο στο σώμα, κατασταλτικό. Ιδανικό για το βράδυ.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Φίλτρο επιδράσεων",
+    "description": "Φιλτράρετε τις ποικιλίες σύμφωνα με τις επιθυμητές επιδράσεις σας. Μετακινήστε τους ρυθμιστές για να εμφανίσετε μόνο ποικιλίες με τουλάχιστον την επιλεγμένη τιμή.",
+    "euphoria": "Ευφορία",
+    "relaxation": "Χαλάρωση",
+    "sleepy": "Υπνηλία"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady ποικιλίες",
+      "description": "Heady Kavas είναι επικεντρωμένα στο κεφάλι και παράγουν ευφορία, πνευματική διαύγεια και κοινωνικότητα. Είναι ιδανικά για κατανάλωση κατά τη διάρκεια της ημέρας, κοινωνικές περιστάσεις και δημιουργική εργασία. Ο <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">χημικός τύπος</a> αρχίζει τυπικά με 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Κavain</a>)."
+    },
+    "balanced": {
+      "title": "Balanced ποικιλίες",
+      "description": "Balanced Kavas προσφέρουν μια ισορροπημένη επίδραση μεταξύ κεφαλής και σώματος. Είναι πολυδιάστατα και κατάλληλα τόσο για την ημέρα όσο και για το βράδυ. Ιδανικά για <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">λύση άγχους</a> και γενική χαλάρωση."
+    },
+    "heavy": {
+      "title": "Heavy ποικιλίες",
+      "description": "Heavy Kavas είναι επικεντρωμένα στο σώμα και παράγουν βαθιά <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">χαλάρωση μυών</a> και καταστολή. Είναι ιδανικά για το βράδυ, σε <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">προβλήματα ύπνου</a> και για σωματική αποκατάσταση. Ο χημικός τύπος έχει συχνά DHK (2) σε προεξέχουσα θέση."
+    }
+  },
+  "comparison": {
+    "title": "Σύγκριση ποικιλιών",
+    "description": "Αυτός ο πίνακας προσφέρει μια γρήγορη επισκόπηση όλων των σημαντικών ποικιλιών. Χρησιμοποιήστε επίσης το <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">διαδραστικό εργαλείο σύγκρισης</a> για λεπτομερείς συγκρίσεις.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 ώρες.",
+      "strength": 4,
+      "description": "Θρυλικό ευφορικό Kava, όπως το σαμπάνια ανάμεσα στα Kavas.",
+      "recommended": [
+        "Κοινωνικές περιστάσεις",
+        "Δημιουργική εργασία",
+        "Κατανάλωση κατά τη διάρκεια της ημέρας"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 ώρες.",
+      "strength": 4,
+      "description": "Ο λαϊκός Kava από το Vanuatu, πολυδιάστατος με επικεντρωμένη στο κεφάλι αρχική επίδραση.",
+      "recommended": [
+        "Κοινωνικές περιστάσεις",
+        "Κατανάλωση το βράδυ",
+        "Αρχάριοι"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 ώρες.",
+      "strength": 3,
+      "description": "Η πιο δημοφιλής ποικιλία Kava για την ημέρα, ήπια και φιλική προς τους αρχάριους.",
+      "recommended": [
+        "Αρχάριοι",
+        "Εργασία",
+        "Κοινωνικές περιστάσεις"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 ώρες.",
+      "strength": 4,
+      "description": "Ο βασιλικός 'Awa, εξαιρετικά εγκεφαλικός και πνευματικά καθαρός.",
+      "recommended": [
+        "Διαλογισμός",
+        "Δημιουργική εργασία",
+        "Γνωστική"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 ώρες.",
+      "strength": 3,
+      "description": "Σπάνια ευφορική ποικιλία, πολύ εκτιμημένη.",
+      "recommended": [
+        "Κοινωνικές περιστάσεις",
+        "Ανακούφιση διάθεσης"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 ώρες.",
+      "strength": 3,
+      "description": "Ο τέλειος all-rounder, ήπιος και ισορροπημένος.",
+      "recommended": [
+        "Αρχάριοι",
+        "Λύση άγχους",
+        "Καθημερινή χρήση"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 ώρες.",
+      "strength": 4,
+      "description": "Ο λαϊκός Kava από το Vanuatu, αξιόπιστος και πολυδιάστατος.",
+      "recommended": [
+        "Κατανάλωση το βράδυ",
+        "Χαλάρωση",
+        "Αρχάριοι"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 ώρες.",
+      "strength": 4,
+      "description": "Δυνατός Kava με καλή ισορροπία μεταξύ κεφαλής και σώματος.",
+      "recommended": [
+        "Έμπειροι χρήστες",
+        "Κατανάλωση το βράδυ"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 ώρες.",
+      "strength": 3,
+      "description": "Ισορροπημένος Kava από τα Φίτζι, πολυδιάστατος.",
+      "recommended": [
+        "Καθημερινή χρήση",
+        "Χαλάρωση"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 ώρες.",
+      "strength": 5,
+      "description": "Μία από τις πιο ισχυρές Heavy Kavas, βαθιά καταστολή.",
+      "recommended": [
+        "Προβλήματα ύπνου",
+        "Χαλάρωση μυών",
+        "Βράδυ"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 ώρες.",
+      "strength": 5,
+      "description": "Εξαιρετικά ισχυρός Kava από τα Φίτζι, πολύ κατασταλτικός.",
+      "recommended": [
+        "Έμπειροι χρήστες",
+        "Προβλήματα ύπνου"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 ώρες.",
+      "strength": 4,
+      "description": "Μικρός αδελφός του Palasa, λίγο πιο ήπιος αλλά παρόμοιος.",
+      "recommended": [
+        "Heavy αρχάριοι",
+        "Κατανάλωση το βράδυ"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 ώρες.",
+      "strength": 5,
+      "description": "Τελετουργικός χαβανέζικος 'Awa, πολύ ισχυρός.",
+      "recommended": [
+        "Τελετές",
+        "Ύπνος",
+        "Έμπειροι"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Κοινωνικό, Δημιουργικό"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Αρχάριοι, Ημέρα"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Διαλογισμός, Γνωστική"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "243156",
+      "bestUse": "Άγχος, All-rounder"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Βράδυ, Χαλάρωση"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "423561",
+      "bestUse": "Έμπειροι, Βράδυ"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Heavy",
+      "chemotype": "423651",
+      "bestUse": "Ύπνος, Μύες"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Έμπειροι, Ύπνος"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Τελετές, Ύπνος"
+    }
+  ]
+}

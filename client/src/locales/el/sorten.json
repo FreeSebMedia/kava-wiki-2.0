@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Ποικιλίες & Καλλιέργειες",
+    "subtitle": "Ένας ολοκληρωμένος οδηγός στον κόσμο των ποικιλιών Kava: Από Borogu έως Pouni Ono, από Heady έως Heavy.",
+    "category": "Ποικιλίες",
+    "breadcrumb": {
+      "home": "Αρχική σελίδα",
+      "current": "Ποικιλίες"
+    }
+  },
+  "toc": {
+    "title": "Περιεχόμενα",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Εισαγωγή",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "Οι τρεις τύποι δράσης",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Περιοχές καλλιέργειας",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Ποια ποικιλία μου ταιριάζει;",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Εμβαθυντικές άρθρα",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Σήμερα υπάρχουν <strong>πάνω από 100 τεκμηριωμένες ποικιλίες Kava</strong>, οι οποίες διαφέρουν σημαντικά σε προέλευση, χημικό τύπο και δράση. Μόνο στο Vanuatu, την υποτιθέμενη πατρίδα του φυτού, είναι γνωστές περισσότερες από 80 διαφορετικές καλλιέργειες. Αυτή η ποικιλία είναι το αποτέλεσμα περισσότερων από 3.000 ετών στοχευμένης επιλογής από τους πολιτισμούς του Ειρηνικού.",
+      "text": "Οι διαφορές μεταξύ των ποικιλιών δεν είναι μόνο ακαδημαϊκής φύσης – καθορίζουν σε μεγάλο βαθμό ποια δράση θα έχει ένα ποτό Kava. Ένα <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai από το Vanuatu</a> δρα εντελώς διαφορετικά από ένα <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka από τις Φίτζι</a>. Η κατανόηση αυτών των διαφορών είναι το κλειδί για μια συνειδητή και ικανοποιητική εμπειρία Kava."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "Η πιο σημαντική διάκριση που πρέπει να γνωρίζει κάθε καταναλωτής Kava είναι αυτή μεταξύ <strong>Noble Kava</strong> (Ευγενές Kava) και <strong>Tudei Kava</strong>. Αυτή η κατηγοριοποίηση εισήχθη από την κυβέρνηση του Vanuatu και βασίζεται στον <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">χημικό τύπο</a> της αντίστοιχης ποικιλίας.",
+      "noble": {
+        "title": "Noble Kava (Ευγενές Kava)",
+        "items": [
+          "Επιλεγμένο για αιώνες για ευχάριστη δράση",
+          "Ο χημικός τύπος αρχίζει με <strong>2</strong> ή <strong>4</strong>, ποτέ με 5 ή 6",
+          "Έναρξη δράσης: 10-20 λεπτά",
+          "Διάρκεια δράσης: 3-6 ώρες, αποδυναμώνεται καθαρά",
+          "Καμία \"χάση\" την επόμενη μέρα",
+          "Ασφαλές για τακτική χρήση"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Δύο Ημέρες)",
+        "items": [
+          "Ο χημικός τύπος αρχίζει με <strong>5</strong> ή <strong>6</strong> (κυρίαρχος DHM)",
+          "Έναρξη δράσης: 30-90 λεπτά (καθυστερημένη)",
+          "Η δράση διαρκεί εξαιρετικά πολύ (έως 2 ημέρες)",
+          "Συχνά προκαλεί ναυτία και ληθαργία",
+          "\"Κεφάλι\" την επόμενη μέρα",
+          "Απαγορεύεται για εξαγωγή στο Vanuatu"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Προσέξτε κατά την αγορά, ώστε ο προμηθευτής να αναφέρει τον χημικό τύπο και την ακριβή ποικιλία. Αυτή η διαφάνεια είναι ένα καλό σημάδι για αυθεντικό Noble Kava.",
+      "linkText": "Μάθετε περισσότερα για Noble vs. Tudei"
+    },
+    "wirktypen": {
+      "title": "Οι τρεις τύποι δράσης",
+      "intro": "Οι ποικιλίες Noble Kava κατατάσσονται σε τρεις κατηγορίες ανάλογα με την κυρίαρχη δράση τους. Αυτή η κατηγοριοποίηση βασίζεται στον <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">χημικό τύπο</a> – δηλαδή, τη σχετική συγκέντρωση των έξι κύριων <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactone</a>.",
+      "heady": {
+        "title": "Heady",
+        "description": "Επικεντρωμένη δράση: Ευφορία, νοητική διαύγεια, κοινωνικότητα. Ιδανικό για την ημέρα και κοινωνικές περιστάσεις.",
+        "chemotype": "Συχνά αρχίζει με 4 (Kavain) ή 2 (DHK)",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Διάθεση & Κοινωνικότητα"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Ισορροπημένη δράση: Χαλάρωση χωρίς κόπωση, νοητική ηρεμία με σωματική ευεξία.",
+        "chemotype": "Ισορροπημένη αναλογία 4, 2 και 3",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Ανακούφιση από το άγχος"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Σωματική δράση: Βαθιά χαλάρωση μυών, καταστολή, ιδανικό για το βράδυ και για ύπνο.",
+        "chemotype": "Υψηλό ποσοστό DHK (2) στη θέση 1-2",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Ύπνος & Χαλάρωση"
+      },
+      "calculatorLink": "Υπολογιστής χημικού τύπου: Αναλύστε κάθε χημικό τύπο"
+    },
+    "regionen": {
+      "title": "Περιοχές καλλιέργειας σε επισκόπηση",
+      "intro": "Η Kava καλλιεργείται σήμερα σε διάφορες περιοχές του Ειρηνικού. Κάθε περιοχή έχει αναπτύξει τις δικές της ποικιλίες, προσαρμοσμένες στο τοπικό κλίμα και τις πολιτιστικές προτιμήσεις.",
+      "tableHeaders": {
+        "region": "Περιοχή",
+        "count": "Αριθμός ποικιλιών",
+        "localName": "Τοπική ονομασία",
+        "varieties": "Γνωστές ποικιλίες",
+        "characteristics": "Χαρακτηριστικά"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "Η μεγαλύτερη ποικιλία, περιοχή προέλευσης"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Συχνά πιο βαριά, καλή επεξεργασία"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Όλες Noble, μάλλον heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Πολύ ισχυρό, ακριβό"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Παραδοσιακό, τελετουργικό"
+        },
+        {
+          "region": "Papua-Neuguinea",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Μοναδική Noble ποικιλία"
+        }
+      ],
+      "vanuatuLink": "Ποικιλίες από το Vanuatu",
+      "pazifikLink": "Ποικιλίες από τις Φίτζι, Τόνγκα & Χαβάη"
+    },
+    "auswahl": {
+      "title": "Ποια ποικιλία μου ταιριάζει;",
+      "intro": "Η επιλογή της σωστής ποικιλίας Kava εξαρτάται από το επιθυμητό αποτέλεσμα και την ώρα της ημέρας. Ακολουθούν κάποιες οδηγίες:",
+      "recommendations": [
+        {
+          "purpose": "Για κοινωνικές περιστάσεις",
+          "type": "Heady",
+          "description": "Επιλέξτε έναν <strong>Heady</strong> Kava:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Για άγχος & ανησυχία",
+          "type": "Balanced",
+          "description": "Επιλέξτε έναν <strong>Balanced</strong> Kava:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Για χαλάρωση μυών",
+          "type": "Heavy",
+          "description": "Επιλέξτε έναν <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Για ύπνο",
+          "type": "Heavy",
+          "description": "Επιλέξτε έναν <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Ξεκινήστε με έναν <strong>Balanced</strong> Kava όπως το Melo Melo ή το Borogu. Αυτές οι ποικιλίες προσφέρουν μια ευχάριστη, ισορροπημένη εμπειρία χωρίς ακραία αποτελέσματα σε μία κατεύθυνση.",
+      "tipLabel": "Συμβουλή για αρχάριους:"
+    },
+    "unterseiten": {
+      "title": "Εμβαθυντικές άρθρα",
+      "intro": "Εξερευνήστε τις διάφορες πτυχές των ποικιλιών Kava στις εξειδικευμένες υποσελίδες μας:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "Η πιο σημαντική διάκριση: Γιατί το Noble Kava είναι ασφαλές και το Tudei θα πρέπει να αποφεύγεται.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Ποικιλίες από το Vanuatu",
+      "description": "Πάνω από 80 ποικιλίες από την πατρίδα του Kava: Borogu, Melo Melo, Kelai, Palasa και περισσότερα.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Ποικιλίες από τις Φίτζι, Τόνγκα & Χαβάη",
+      "description": "Περιφερειακές σπεσιαλιτέ: Loa Waka, Pouni Ono, 'Awa Moi και τα μοναδικά τους χαρακτηριστικά.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Προφίλ ποικιλιών σε λεπτομέρεια",
+      "description": "Λεπτομερείς περιγραφές των κύριων ποικιλιών με χημικούς τύπους, δράση και συστάσεις.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Πίσω",
+      "title": "Συστατικά"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Επόμενο",
+      "title": "Προετοιμασία"
+    }
+  }
+}

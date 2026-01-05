@@ -1,0 +1,142 @@
+{
+  "header": {
+    "languageSwitcher": "Sprache wechseln"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Botanik",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Einführung in die Botanik" },
+        "pflanze": { "name": "Die Pflanze", "description": "Taxonomie & Piper wichmannii" },
+        "morphologie": { "name": "Morphologie", "description": "Anatomie & Wurzelsystem" },
+        "anbau": { "name": "Anbau & Ökologie", "description": "Kultivierung & Vermehrung" }
+      }
+    },
+    "geschichte": {
+      "name": "Geschichte",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Geschichte von Kava" },
+        "urspruenge": { "name": "Ursprünge", "description": "Vanuatu & Domestikation" },
+        "verbreitung": { "name": "Verbreitung", "description": "Die pazifische Expansion" },
+        "moderne": { "name": "Moderne Geschichte", "description": "Verbot 2002 & Rehabilitation" },
+        "zeitleiste": { "name": "Interaktive Zeitleiste", "description": "5000 Jahre Kava-Geschichte" }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Inhaltsstoffe",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Kavalactone & Chemotypen" },
+        "kavalactone": { "name": "Die 6 Kavalactone", "description": "Detaillierte Wirkungsprofile" },
+        "chemotypen": { "name": "Chemotyp-System", "description": "Noble vs. Tudei erkennen" },
+        "rechner": { "name": "Chemotyp-Rechner", "description": "Interaktives Analyse-Tool" }
+      }
+    },
+    "wirkung": {
+      "name": "Wirkung",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Wirkungsmechanismen" },
+        "angst": { "name": "Angstlösung", "description": "Anxiolytische Wirkung" },
+        "schlaf": { "name": "Schlaf & Entspannung", "description": "Sedative Effekte" },
+        "muskel": { "name": "Muskelentspannung", "description": "Körperliche Entspannung" },
+        "stimmung": { "name": "Stimmung & Soziales", "description": "Euphorisierende Effekte" },
+        "kognition": { "name": "Kognitive Effekte", "description": "Fokus & Reverse Tolerance" }
+      }
+    },
+    "sicherheit": {
+      "name": "Sicherheit",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Sicherheit & Nebenwirkungen" },
+        "leber": { "name": "Lebersicherheit", "description": "Hepatotoxizität & das Verbot 2002" },
+        "wechselwirkungen": { "name": "Wechselwirkungen", "description": "Medikamente & CYP450" },
+        "kontraindikationen": { "name": "Kontraindikationen", "description": "Wann Kava meiden" },
+        "checker": { "name": "Interaktions-Checker", "description": "Medikamente prüfen" }
+      }
+    },
+    "sorten": {
+      "name": "Sorten",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Sorten & Kultivare" },
+        "noble-tudei": { "name": "Noble vs. Tudei", "description": "Die wichtige Unterscheidung" },
+        "vanuatu": { "name": "Vanuatu-Sorten", "description": "Borogu, Melo Melo, Kelai & mehr" },
+        "pazifik": { "name": "Pazifik-Sorten", "description": "Fiji, Tonga, Hawaii, Samoa" },
+        "profile": { "name": "Sortenprofile", "description": "Detaillierte Steckbriefe" },
+        "vergleich": { "name": "Sortenvergleich", "description": "Zwei Sorten vergleichen" }
+      }
+    },
+    "zubereitung": {
+      "name": "Zubereitung",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Zubereitungsmethoden" },
+        "traditionell": { "name": "Traditionelle Methode", "description": "Kneten mit Seihtuch" },
+        "blender": { "name": "Blender-Methode", "description": "Schnelle Zubereitung" },
+        "instant": { "name": "Instant Kava", "description": "Micronized Kava" },
+        "rechner": { "name": "Dosierungsrechner", "description": "Optimale Menge berechnen" }
+      }
+    },
+    "kultur": {
+      "name": "Kultur",
+      "items": {
+        "uebersicht": { "name": "Übersicht", "description": "Kultur & Tradition" },
+        "zeremonien": { "name": "Zeremonien & Rituale", "description": "Yaqona, 'Ava & Nakamal-Rituale" },
+        "nakamal": { "name": "Nakamal & Kava-Bars", "description": "Traditionelle & moderne Orte" },
+        "moderne": { "name": "Moderne Kava-Kultur", "description": "Globale Verbreitung & Renaissance" },
+        "weltkarte": { "name": "Interaktive Weltkarte", "description": "Kava-Regionen erkunden" },
+        "kava-bars": { "name": "Kava-Bar Finder", "description": "Kava-Bars weltweit finden" }
+      }
+    },
+    "mehr": {
+      "name": "Mehr",
+      "items": {
+        "faq": { "name": "FAQ", "description": "Häufige Fragen" },
+        "studien": { "name": "Studien", "description": "Wissenschaftliche Forschung" },
+        "rechtsstatus": { "name": "Rechtsstatus", "description": "Rechtliche Situation" },
+        "glossar": { "name": "Glossar", "description": "Fachbegriffe erklärt" }
+      }
+    }
+  },
+  "footer": {
+    "description": "Das weltweit umfangreichste Wissensportal über Piper methysticum. Wissenschaftlich fundiert, kulturell respektvoll.",
+    "sections": {
+      "wissen": {
+        "title": "Wissen",
+        "links": {
+          "botanik": "Botanik",
+          "geschichte": "Geschichte",
+          "wissenschaft": "Wissenschaft",
+          "sicherheit": "Sicherheit"
+        }
+      },
+      "praxis": {
+        "title": "Praxis",
+        "links": {
+          "zubereitung": "Zubereitung",
+          "sorten": "Sorten & Chemotypen",
+          "rechtsstatus": "Rechtsstatus",
+          "faq": "Häufige Fragen"
+        }
+      },
+      "partner": {
+        "title": "Partner & Buch",
+        "recommendedReading": "Empfohlene Lektüre:",
+        "bookTitle": "\"Kava – Wurzel der Ruhe\""
+      }
+    },
+    "copyright": "Alle Rechte vorbehalten.",
+    "legal": {
+      "impressum": "Impressum",
+      "datenschutz": "Datenschutz"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Home"
+  },
+  "toc": {
+    "title": "Inhalt"
+  },
+  "recommendation": {
+    "label": "Empfehlung",
+    "title": "Premium Noble Kava",
+    "text": "Entdecken Sie zertifizierte Qualität und Reinheit bei unserem offiziellen Partner.",
+    "cta": "Zu Kava-mode.com"
+  }
+}

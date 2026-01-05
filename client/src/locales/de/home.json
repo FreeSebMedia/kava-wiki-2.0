@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Startseite",
+    "description": "Das weltweit umfangreichste Wissensportal über Kava (Piper methysticum). Wissenschaftlich fundiert, kulturell verwurzelt. Alles über Wirkung, Zubereitung, Sorten und Rechtslage."
+  },
+  "hero": {
+    "badge": "Piper methysticum",
+    "title": "Wurzel der Ruhe",
+    "subtitle": "Das umfassende Wissensportal über die pazifische Entspannungswurzel. Wissenschaftlich fundiert, kulturell verwurzelt.",
+    "cta": {
+      "studies": "Wissenschaftliche Studien",
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "stats": [
+    { "label": "Traditionelle Nutzung", "value": "3000+", "suffix": "Jahre" },
+    { "label": "Haupt-Kavalactone", "value": "6", "suffix": "Wirkstoffe" },
+    { "label": "Sorten in Vanuatu", "value": "80+", "suffix": "Kultivare" },
+    { "label": "Wissenschaftliche", "value": "100+", "suffix": "Studien" }
+  ],
+  "intro": {
+    "title": "Ein Geschenk der Natur,",
+    "titleHighlight": "bestätigt durch Wissenschaft.",
+    "text": "Kava (Piper methysticum) ist mehr als nur eine Pflanze. Seit Jahrtausenden ist sie das soziale und spirituelle Zentrum der pazifischen Inselkulturen. Heute bestätigt die moderne Wissenschaft, was die Inselbewohner schon immer wussten: Kava entspannt den Körper und klärt den Geist, ohne die kognitiven Fähigkeiten zu beeinträchtigen.",
+    "quote": "Kava ist die einzige botanische Substanz mit Level-1-Evidenz für die Behandlung von Angstzuständen.",
+    "quoteSource": "— Cochrane Review"
+  },
+  "features": [
+    { "icon": "shield", "title": "Sicherheit", "text": "Aktuelle Forschung widerlegt alte Mythen zur Lebertoxizität bei korrekter Anwendung." },
+    { "icon": "beaker", "title": "Wirkung", "text": "Nachgewiesene anxiolytische (angstlösende) Eigenschaften durch Kavalactone." },
+    { "icon": "history", "title": "Kultur", "text": "Tief verwurzelt in den Traditionen von Vanuatu, Fiji und Tonga." }
+  ],
+  "categories": {
+    "title": "Wissensdatenbank",
+    "subtitle": "Tauchen Sie tief in die Welt von Kava ein. Wählen Sie einen Bereich, um mehr zu erfahren.",
+    "items": [
+      { "title": "Botanik", "desc": "Morphologie, Anbau und Verbreitung", "link": "/botanik" },
+      { "title": "Geschichte", "desc": "Von den Ursprüngen bis zur Moderne", "link": "/geschichte" },
+      { "title": "Inhaltsstoffe", "desc": "Kavalactone und Chemotypen", "link": "/inhaltsstoffe" },
+      { "title": "Studien", "desc": "Klinische Forschung und Evidenz", "link": "/studien" },
+      { "title": "Wirkung", "desc": "Effekte auf Körper und Geist", "link": "/wirkung" },
+      { "title": "Sicherheit", "desc": "Dosierung und Nebenwirkungen", "link": "/sicherheit" },
+      { "title": "Sorten", "desc": "Noble Kava vs. Tudei", "link": "/sorten" },
+      { "title": "Zubereitung", "desc": "Traditionelle und moderne Methoden", "link": "/zubereitung" }
+    ]
+  },
+  "partner": {
+    "label": "Offizieller Partner",
+    "title": "Kava-mode.com",
+    "text": "Europas führende Kava-Marke und weltweiter Großhändler für hochwertiges Noble-Kava. Geprüfte Qualität, direkt von den Farmen im Pazifik.",
+    "cta": "Zum Shop besuchen"
+  },
+  "book": {
+    "label": "Empfohlene Lektüre",
+    "title": "\"Kava – Wurzel der Ruhe\"",
+    "text": "Der umfassende Leitfaden zu Wirkung, Anwendung, Geschichte & Kultur von Sebastian Freidank. Das Standardwerk für jeden Kava-Interessierten.",
+    "cta": "Buch ansehen"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Αλλαγή γλώσσας"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Βοτανική",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Εισαγωγή στη βοτανική"
+        },
+        "pflanze": {
+          "name": "Το Φυτό",
+          "description": "Ταξινόμηση & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Μορφολογία",
+          "description": "Ανατομία & Σύστημα ριζών"
+        },
+        "anbau": {
+          "name": "Καλλιέργεια & Οικολογία",
+          "description": "Καλλιέργεια & Αναπαραγωγή"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "Ιστορία",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Ιστορία του Kava"
+        },
+        "urspruenge": {
+          "name": "Προέλευση",
+          "description": "Vanuatu & Εξημέρωση"
+        },
+        "verbreitung": {
+          "name": "Διάδοση",
+          "description": "Η ειρηνική επέκταση"
+        },
+        "moderne": {
+          "name": "Σύγχρονη Ιστορία",
+          "description": "Απαγόρευση 2002 & Αποκατάσταση"
+        },
+        "zeitleiste": {
+          "name": "Διαδραστική Χρονογραμμή",
+          "description": "5000 χρόνια ιστορίας του Kava"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Συστατικά",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Kavalactone & Χημικοί τύποι"
+        },
+        "kavalactone": {
+          "name": "Οι 6 Kavalactone",
+          "description": "Λεπτομερή προφίλ δράσης"
+        },
+        "chemotypen": {
+          "name": "Χημικός τύπος-Σύστημα",
+          "description": "Αναγνώριση Noble vs. Tudei"
+        },
+        "rechner": {
+          "name": "Χημικός τύπος-Υπολογιστής",
+          "description": "Διαδραστικό εργαλείο ανάλυσης"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Δράση",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Μηχανισμοί δράσης"
+        },
+        "angst": {
+          "name": "Ανακούφιση από το άγχος",
+          "description": "Αντιαγχωτική δράση"
+        },
+        "schlaf": {
+          "name": "Ύπνος & Χαλάρωση",
+          "description": "Κατασταλτικά αποτελέσματα"
+        },
+        "muskel": {
+          "name": "Χαλάρωση μυών",
+          "description": "Σωματική χαλάρωση"
+        },
+        "stimmung": {
+          "name": "Διάθεση & Κοινωνικά",
+          "description": "Ευφορικά αποτελέσματα"
+        },
+        "kognition": {
+          "name": "Γνωστικά αποτελέσματα",
+          "description": "Εστίαση & Αντίστροφη ανοχή"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Ασφάλεια",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Ασφάλεια & Παρενέργειες"
+        },
+        "leber": {
+          "name": "Ασφάλεια ήπατος",
+          "description": "Ηπατοτοξικότητα & η απαγόρευση του 2002"
+        },
+        "wechselwirkungen": {
+          "name": "Αλληλεπιδράσεις",
+          "description": "Φάρμακα & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Αντενδείξεις",
+          "description": "Πότε να αποφεύγεται το Kava"
+        },
+        "checker": {
+          "name": "Ελεγκτής αλληλεπιδράσεων",
+          "description": "Έλεγχος φαρμάκων"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Ποικιλίες",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Ποικιλίες & Καλλιέργειες"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "Η σημαντική διάκριση"
+        },
+        "vanuatu": {
+          "name": "Ποικιλίες Vanuatu",
+          "description": "Borogu, Melo Melo, Kelai & περισσότερα"
+        },
+        "pazifik": {
+          "name": "Ποικιλίες του Ειρηνικού",
+          "description": "Fiji, Tonga, Hawaii, Σαμόα"
+        },
+        "profile": {
+          "name": "Προφίλ ποικιλιών",
+          "description": "Λεπτομερείς περιγραφές"
+        },
+        "vergleich": {
+          "name": "Σύγκριση ποικιλιών",
+          "description": "Σύγκριση δύο ποικιλιών"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Προετοιμασία",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Μεθόδοι προετοιμασίας"
+        },
+        "traditionell": {
+          "name": "Παραδοσιακή μέθοδος",
+          "description": "Ζύμωση με πανί σουρωτηρίου"
+        },
+        "blender": {
+          "name": "Μέθοδος μπλέντερ",
+          "description": "Γρήγορη προετοιμασία"
+        },
+        "instant": {
+          "name": "Instant Kava",
+          "description": "Μικροποιημένο Kava"
+        },
+        "rechner": {
+          "name": "Υπολογιστής δοσολογίας",
+          "description": "Υπολογισμός βέλτιστης ποσότητας"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Κουλτούρα",
+      "items": {
+        "uebersicht": {
+          "name": "Επισκόπηση",
+          "description": "Κουλτούρα & Παράδοση"
+        },
+        "zeremonien": {
+          "name": "Τελετές & Ρίτσα",
+          "description": "Yaqona, 'Ava & Ρίτσα Nakamal"
+        },
+        "nakamal": {
+          "name": "Nakamal & Kava-Bars",
+          "description": "Παραδοσιακοί & σύγχρονοι χώροι"
+        },
+        "moderne": {
+          "name": "Σύγχρονη κουλτούρα Kava",
+          "description": "Παγκόσμια διάδοση & Αναγέννηση"
+        },
+        "weltkarte": {
+          "name": "Διαδραστικός Παγκόσμιος Χάρτης",
+          "description": "Εξερεύνηση περιοχών Kava"
+        },
+        "kava-bars": {
+          "name": "Finder Kava-Bar",
+          "description": "Βρείτε Kava-Bars παγκοσμίως"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Περισσότερα",
+      "items": {
+        "faq": {
+          "name": "Συχνές Ερωτήσεις",
+          "description": "Συχνές ερωτήσεις"
+        },
+        "studien": {
+          "name": "Μελέτες",
+          "description": "Επιστημονική έρευνα"
+        },
+        "rechtsstatus": {
+          "name": "Νομική κατάσταση",
+          "description": "Νομική κατάσταση"
+        },
+        "glossar": {
+          "name": "Γλωσσάριο",
+          "description": "Επεξηγήσεις τεχνικών όρων"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Η πιο εκτενής πηγή γνώσης για το Piper methysticum παγκοσμίως. Επιστημονικά τεκμηριωμένη, πολιτιστικά σεβαστή.",
+    "sections": {
+      "wissen": {
+        "title": "Γνώση",
+        "links": {
+          "botanik": "Βοτανική",
+          "geschichte": "Ιστορία",
+          "wissenschaft": "Επιστήμη",
+          "sicherheit": "Ασφάλεια"
+        }
+      },
+      "praxis": {
+        "title": "Πράξη",
+        "links": {
+          "zubereitung": "Προετοιμασία",
+          "sorten": "Ποικιλίες & Χημικοί τύποι",
+          "rechtsstatus": "Νομική κατάσταση",
+          "faq": "Συχνές Ερωτήσεις"
+        }
+      },
+      "partner": {
+        "title": "Συνεργάτες & Βιβλίο",
+        "recommendedReading": "Προτεινόμενη ανάγνωση:",
+        "bookTitle": "\"Kava – Ρίζα της Ηρεμίας\""
+      }
+    },
+    "copyright": "Όλα τα δικαιώματα διατηρούνται.",
+    "legal": {
+      "impressum": "Εκτύπωση",
+      "datenschutz": "Προστασία Δεδομένων"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Αρχική"
+  },
+  "toc": {
+    "title": "Περιεχόμενο"
+  },
+  "recommendation": {
+    "label": "Σύσταση",
+    "title": "Premium Noble Kava",
+    "text": "Ανακαλύψτε πιστοποιημένη ποιότητα και καθαρότητα από τον επίσημο συνεργάτη μας.",
+    "cta": "Στο Kava-mode.com"
+  }
+}

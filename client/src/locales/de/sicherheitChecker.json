@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Wechselwirkungs-Checker",
+    "subtitle": "Prüfen Sie potenzielle Interaktionen zwischen Ihren Medikamenten und Kava",
+    "category": "Sicherheit",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Sicherheit",
+      "wechselwirkungen": "Wechselwirkungen",
+      "current": "Interaktions-Checker"
+    }
+  },
+  "toc": {
+    "title": "Inhalt",
+    "checker": "Interaktions-Checker",
+    "anleitung": "Anleitung",
+    "kategorien": "Risiko-Kategorien",
+    "haeufige": "Häufig geprüfte Medikamente",
+    "hinweis": "Wichtiger Hinweis"
+  },
+  "ui": {
+    "disclaimerTitle": "Wichtiger Hinweis",
+    "disclaimerText": "Dieser Checker dient nur zur Information und ersetzt keine ärztliche Beratung. Bei Unsicherheiten oder wenn Sie verschreibungspflichtige Medikamente einnehmen, konsultieren Sie immer einen Arzt oder Apotheker.",
+    "inputTitle": "Medikamente eingeben",
+    "inputDescription": "Geben Sie die Namen Ihrer Medikamente ein (Wirkstoff oder Handelsname)",
+    "placeholder": "z.B. Diazepam, Ibuprofen, Sertralin...",
+    "selectedMeds": "Ausgewählte Medikamente:",
+    "checkButton": "Wechselwirkungen prüfen",
+    "commonCategories": "Häufige Medikamentengruppen",
+    "overallAssessment": "Gesamtbewertung",
+    "detailedAnalysis": "Detaillierte Analyse",
+    "category": "Kategorie",
+    "mechanism": "Mechanismus",
+    "affectedEnzymes": "Betroffene CYP-Enzyme",
+    "recommendation": "Empfehlung",
+    "newCheck": "Neue Prüfung",
+    "moreAbout": "Mehr über Wechselwirkungen",
+    "moreInfo": "Weitere Informationen",
+    "liverSafety": "Lebersicherheit & Hepatotoxizität",
+    "contraindications": "Kontraindikationen",
+    "safetyOverview": "Sicherheit & Gesundheit Übersicht",
+    "studies": "Wissenschaftliche Studien"
+  },
+  "intro": {
+    "title": "Medikamenten-Check",
+    "text": "Geben Sie den Namen Ihres Medikaments oder Wirkstoffs ein, um mögliche Wechselwirkungen mit Kava zu prüfen."
+  },
+  "search": {
+    "placeholder": "Medikament oder Wirkstoff eingeben...",
+    "button": "Prüfen",
+    "noResults": "Kein Medikament mit diesem Namen gefunden. Bitte prüfen Sie die Schreibweise oder konsultieren Sie einen Arzt."
+  },
+  "result": {
+    "risk": "Risikostufe",
+    "mechanism": "Mechanismus",
+    "recommendation": "Empfehlung",
+    "alternatives": "Mögliche Alternativen"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "SEHR HOHES RISIKO",
+      "description": "Strikt kontraindiziert - Kombination niemals anwenden"
+    },
+    "high": {
+      "label": "HOHES RISIKO",
+      "description": "Kombination vermeiden - erhebliche Gesundheitsrisiken möglich"
+    },
+    "moderate": {
+      "label": "MODERATES RISIKO",
+      "description": "Vorsicht geboten - nur unter ärztlicher Aufsicht"
+    },
+    "low": {
+      "label": "NIEDRIGES RISIKO",
+      "description": "Wahrscheinlich sicher bei normaler Anwendung"
+    },
+    "none": {
+      "label": "KEIN BEKANNTES RISIKO",
+      "description": "Keine bekannten Wechselwirkungen dokumentiert"
+    }
+  },
+  "anleitung": {
+    "title": "So nutzen Sie den Checker",
+    "steps": [
+      "Geben Sie den Namen Ihres Medikaments oder des Wirkstoffs ein",
+      "Klicken Sie auf \"Prüfen\" oder drücken Sie Enter",
+      "Lesen Sie die Risikobewertung und Empfehlungen",
+      "Im Zweifelsfall immer einen Arzt oder Apotheker konsultieren"
+    ]
+  },
+  "kategorien": {
+    "title": "Risiko-Kategorien erklärt",
+    "high": {
+      "title": "Hohes Risiko",
+      "text": "Kombination sollte unter allen Umständen vermieden werden. Schwere Nebenwirkungen möglich."
+    },
+    "moderate": {
+      "title": "Moderates Risiko",
+      "text": "Kombination nur unter ärztlicher Aufsicht. Dosisanpassung kann erforderlich sein."
+    },
+    "low": {
+      "title": "Niedriges Risiko",
+      "text": "Kombination wahrscheinlich sicher, aber individuelle Reaktionen beachten."
+    },
+    "unknown": {
+      "title": "Unbekannt",
+      "text": "Keine ausreichenden Daten verfügbar. Vorsicht empfohlen."
+    }
+  },
+  "haeufige": {
+    "title": "Häufig geprüfte Medikamente",
+    "clickToCheck": "Klicken Sie auf ein Medikament, um es zu prüfen:"
+  },
+  "hinweis": {
+    "title": "Wichtiger Hinweis",
+    "text": "Dieser Checker dient nur zur allgemeinen Information und ersetzt keine ärztliche Beratung. Die Datenbank ist nicht vollständig und wird kontinuierlich aktualisiert. Bei Unsicherheiten konsultieren Sie immer einen Arzt oder Apotheker.",
+    "disclaimer": "Die Informationen basieren auf wissenschaftlicher Literatur und bekannten Interaktionsmechanismen. Individuelle Reaktionen können variieren."
+  },
+  "navigation": {
+    "continueTitle": "Weiter im Kapitel Sicherheit",
+    "items": [
+      { "title": "Übersicht", "href": "/de/sicherheit", "description": "Zurück zur Sicherheits-Übersicht" },
+      { "title": "Wechselwirkungen", "href": "/de/sicherheit/wechselwirkungen", "description": "Detaillierte Informationen zu Wechselwirkungen" },
+      { "title": "Kontraindikationen", "href": "/de/sicherheit/kontraindikationen", "description": "Wann Kava nicht verwendet werden sollte" }
+    ]
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava-Bar Finder",
+    "description": "Βρες Kava-Bars παγκοσμίως – από τη Φλόριντα μέχρι τη Νέα Ζηλανδία. Με διευθύνσεις, αξιολογήσεις και ώρες λειτουργίας."
+  },
+  "breadcrumb": {
+    "home": "Αρχική",
+    "kultur": "Κουλτούρα",
+    "current": "Kava-Bar Finder"
+  },
+  "viewToggle": {
+    "list": "Λίστα",
+    "map": "Χάρτης"
+  },
+  "search": {
+    "placeholder": "Αναζήτηση κατά όνομα, πόλη ή χώρα...",
+    "resultsCount": "Kava-Bar(s) βρέθηκαν",
+    "resultSingular": "Kava-Bar βρέθηκε",
+    "resultPlural": "Kava-Bars βρέθηκαν"
+  },
+  "filter": {
+    "button": "Φίλτρο",
+    "country": "Χώρα",
+    "allCountries": "Όλες οι χώρες",
+    "region": "Περιοχή/Κράτος",
+    "allRegions": "Όλες οι περιοχές",
+    "minRating": "Ελάχιστη αξιολόγηση",
+    "allRatings": "Όλες οι αξιολογήσεις",
+    "rating4Plus": "4+ αστέρια",
+    "rating45Plus": "4.5+ αστέρια",
+    "clearFilters": "Επαναφορά φίλτρων",
+    "features": "Εγκαταστάσεις"
+  },
+  "featureLabels": {
+    "wifi": "WLAN",
+    "outdoor": "Εξωτερικός χώρος",
+    "food": "Φαγητό",
+    "live-music": "Ζωντανή μουσική",
+    "events": "Εκδηλώσεις",
+    "traditional": "Παραδοσιακή παρασκευή",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Παιχνίδια",
+    "parking": "Χώροι στάθμευσης",
+    "accessible": "Προσβάσιμο",
+    "late-night": "Αργά το βράδυ"
+  },
+  "countryNames": {
+    "US": "ΗΠΑ",
+    "AU": "Αυστραλία",
+    "NZ": "Νέα Ζηλανδία",
+    "DE": "Γερμανία",
+    "UK": "Ηνωμένο Βασίλειο",
+    "CA": "Καναδάς"
+  },
+  "bar": {
+    "verified": "Επιβεβαιωμένο",
+    "address": "Διεύθυνση",
+    "hours": "Ώρες λειτουργίας",
+    "specialties": "Ειδικότητες",
+    "features": "Εγκαταστάσεις",
+    "reviews": "Αξιολογήσεις",
+    "call": "Καλέστε",
+    "website": "Ιστοσελίδα",
+    "route": "Διαδρομή",
+    "routePlan": "Σχεδίαση διαδρομής",
+    "backToList": "Επιστροφή στη λίστα"
+  },
+  "empty": {
+    "title": "Δεν βρέθηκαν Kava-Bars",
+    "description": "Δοκίμασε άλλους όρους αναζήτησης ή φίλτρα.",
+    "resetButton": "Επαναφορά φίλτρων"
+  },
+  "stats": {
+    "title": "Στατιστικά Kava-Bar",
+    "bars": "Kava-Bars",
+    "countries": "Χώρες",
+    "inUSA": "στις ΗΠΑ",
+    "verified": "Επιβεβαιωμένο"
+  },
+  "cta": {
+    "title": "Γνωρίζεις μια Kava-Bar;",
+    "description": "Βοήθησέ μας να επεκτείνουμε τη βάση δεδομένων! Αν γνωρίζεις μια Kava-Bar που δεν είναι εδώ, ενημέρωσέ μας.",
+    "button": "Προτείνετε Kava-Bar"
+  },
+  "related": {
+    "title": "Σχετικές σελίδες",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bars",
+      "subtitle": "Ιστορία της κουλτούρας κατανάλωσης Kava"
+    },
+    "moderne": {
+      "title": "Μοντέρνα κουλτούρα Kava",
+      "subtitle": "Παγκόσμια διάδοση σήμερα"
+    },
+    "weltkarte": {
+      "title": "Διαδραστικός παγκόσμιος χάρτης",
+      "subtitle": "Ανακάλυψε περιοχές Kava"
+    }
+  },
+  "navigation": {
+    "nakamal": "/de/kultur/nakamal",
+    "moderne": "/de/kultur/moderne",
+    "weltkarte": "/de/kultur/weltkarte",
+    "kontakt": "/de/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "Ένα από τα πιο γνωστά δίκτυα Kava-Bar στη Φλόριντα με αυθεντική ατμόσφαιρα και ποιοτικές ποικιλίες Kava από το Vanuatu και τη Φίτζι.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Kava Smoothies"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "Το KavaSutra χρησιμοποιεί την υψηλότερης ποιότητας Kava από το νησί Vanuatu. Χρησιμοποιείται σε τελετές εδώ και χιλιάδες χρόνια.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Kava Flights"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Τοπικά διευθυνόμενο Kava-Bar με επιλογή παραδοσιακά παρασκευασμένων Kava σε χαλαρή ατμόσφαιρα.",
+      "specialties": [
+        "Παραδοσιακή Kava",
+        "Kratom Teas"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Premium Kava-Bar στην καρδιά του Las Olas με πανασιατικό στυλ και μεγάλη ποικιλία από Noble Kava.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Tongan Kava",
+        "Kava Flights"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "Η πρώτη Kava-Bar της παραλίας Madeira! Από τον ιδιοκτήτη του Bula Kafe, της πρώτης Kava-Bar στην Pinellas.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "Χαλαρή Kava-Lounge με την καλύτερη φιδιανή Kava, Hookahs, Kratom και Kava-Comedy-Montag.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Comedy Nights"
+      ]
+    },
+    "roots-miami": {
+      "description": "Αστική Kava-Bar στο Wynwood με καλλιτεχνική ατμόσφαιρα και τακτικές εκδηλώσεις ζωντανής μουσικής.",
+      "specialties": [
+        "House Blend",
+        "Kava Cocktails",
+        "Kratom Teas"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Σύγχρονη Kava-Bar, Lounge και σημείο λιανικής πώλησης στο Μαϊάμι.",
+      "specialties": [
+        "Botanical Blends",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Η έδρα της αλυσίδας Kava Culture με την μεγαλύτερη ποικιλία Kava.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Kava Cocktails",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Μοντέρνα, κομψή εσωτερική/εξωτερική Kava-Bar στην Bonita Springs.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Χαλαρή Kava-Bar στο Clearwater με Happy Hour από 14-17.",
+      "specialties": [
+        "Happy Hour Specials",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Kava Culture στο κέντρο του Fort Myers με Open Mic Nights, τέχνη και νόστιμα Kava-Cocktails.",
+      "specialties": [
+        "Open Mic Nights",
+        "Art Events"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture στο κέντρο του Ορλάντο με χαλαρή ατμόσφαιρα.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kratom Blends"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB με Buddha Blends Vegan Kitchen. Εξωτερικό Beach Bar, τραπέζι μπιλιάρδου, Darts, Open Mics.",
+      "specialties": [
+        "Beach Vibes",
+        "Vegan Food",
+        "Live Music"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture στο Key West - τροπικές δονήσεις και Premium Kava.",
+      "specialties": [
+        "Island Blend",
+        "Tropical Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture στο κέντρο του Τάμπα με αστική ατμόσφαιρα.",
+      "specialties": [
+        "Urban Blend",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture στο South Tampa με χαλαρή γειτονιά.",
+      "specialties": [
+        "Neighborhood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture στην Νάπολη με κομψή ατμόσφαιρα.",
+      "specialties": [
+        "Premium Selection",
+        "Kava Flights"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte με Beach-Vibes, εξωτερικό Beach κοντά στο κανάλι.",
+      "specialties": [
+        "Beach Vibes",
+        "Canal Views"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture στο Estero με βολική τοποθεσία.",
+      "specialties": [
+        "Convenient Location",
+        "Quality Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture στο Lake Mary - χαλαρή ατμόσφαιρα.",
+      "specialties": [
+        "Relaxed Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze είναι μια Kava-Bar στην Τάλαχασι με Kava, τσάι και ένα χαλαρό μέρος για να χαλαρώσεις.",
+      "specialties": [
+        "Student Specials",
+        "Chill Vibes"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Downtown Melbourne FL Island Root Kava Bar.",
+      "specialties": [
+        "Παραδοσιακή Kava",
+        "Κοινοτικές Εκδηλώσεις"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge είναι η Kava-Java-Hookah-Lounge με καφέ, τσάγια, Kava, Kratom και Hookah.",
+      "specialties": [
+        "Hookah",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Οικογενειακά διευθυνόμενο, όλα τα οργανικά φυτικά και τσάγια για μέγιστη ευημερία.",
+      "specialties": [
+        "Organic Botanicals",
+        "Wellness Teas"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors είναι ένα τοπικό Vape Shop και Lounge με Kava και Kratom.",
+      "specialties": [
+        "Vape Products",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge είναι ένα σημείο συνάντησης για δημιουργικούς και ειρηνικούς ανθρώπους.",
+      "specialties": [
+        "Creative Community",
+        "Live Music"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Εθνοβοτανική τσαγιέρα με Kava και Kratom.",
+      "specialties": [
+        "Ethnobotanicals",
+        "Tea Blends"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, Vapor και eHookah απευθείας στον Turnpike. Chill, Relax και Enjoy!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Το Kava Kula προσφέρει Premium-Kava σε μια χαλαρή παραλιακή ατμόσφαιρα.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Το Kava Social είναι ένα κοινωνικό σημείο συνάντησης με Kava, τσάι και κοινοτικές εκδηλώσεις.",
+      "specialties": [
+        "Social Events",
+        "Kava",
+        "Tea"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava προσφέρει αυθεντική Kava για την πανεπιστημιούπολη Gainesville.",
+      "specialties": [
+        "University Vibes",
+        "Premium Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Η Kava Bar Peaceful Warrior στο Jacksonville εστιάζει στην ευημερία και την χαλάρωση.",
+      "specialties": [
+        "Wellness",
+        "Παραδοσιακή Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Η Soul Tribe προσφέρει Kava και μια πνευματική ατμόσφαιρα κοινότητας.",
+      "specialties": [
+        "Spiritual Community",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "Το Kava Tap στην Πενσακόλα - χαλαρή ατμόσφαιρα μπαρ με Kava από το βαρέλι.",
+      "specialties": [
+        "Draft Kava",
+        "Bar Vibes"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala προσφέρει Premium-Kava για το κέντρο της Φλόριντα.",
+      "specialties": [
+        "Central Florida",
+        "Premium Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Το Bula Kafe Orlando φέρνει πανασιακές δονήσεις στην Κεντρική Φλόριντα.",
+      "specialties": [
+        "Pacific Vibes",
+        "Premium Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Purple Lotus Kava Bar στην Πηγή - ο κορυφαίος προορισμός Kava της Αριζόνα.",
+      "specialties": [
+        "Arizona's First",
+        "Premium Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Kava Culture στην Tempe, Αριζόνα - ιδανικό για φοιτητές της ASU.",
+      "specialties": [
+        "Φοιτητές Φιλικοί",
+        "Premium Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "The Root στην Τούσον προσφέρει αυθεντική Kava και Kratom.",
+      "specialties": [
+        "Αυθεντική Kava",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "Το Bula Kava House στο Σαν Ντιέγκο με χαλαρή παραλιακή ατμόσφαιρα.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "Kava Roots στο Σαν Φρανσίσκο - η πρώτη Kava-Bar της περιοχής Bay.",
+      "specialties": [
+        "Bay Area First",
+        "Premium Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava Λος Άντζελες φέρνει Premium-Kava στο Χόλιγουντ.",
+      "specialties": [
+        "Hollywood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Αλκοόλ-free, όλοι οι ηλικιακοί ομάδες ευπρόσδεκτοι, βότανα Lounge με ελιξίρια, εξωτικά και ωμά τρόφιμα.",
+      "specialties": [
+        "Herbal Elixirs",
+        "Raw Food",
+        "All Ages"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "Σερβίρει την καλύτερη παραδοσιακά παρασκευασμένη Kava σε μια διασκεδαστική και κοινωνική ατμόσφαιρα. Η πιο καινοτόμος ιδέα για ένα Chill-Spot!",
+      "specialties": [
+        "Παραδοσιακή Παρασκευή",
+        "Εκπαίδευση Kava"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Φαρμακείο, τσαγιέρα, γκαλερί τέχνης & χώρος μουσικών εκδηλώσεων στην καρδιά του Νότιου Όρεγκον! Εισάγει Kava από το Big Island της Χαβάης.",
+      "specialties": [
+        "Kava Kombucha",
+        "Γκαλερί Τέχνης",
+        "Χώρος Μουσικής"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "Δημοφιλές Kava-Bar στο Όστιν με χαλαρή ατμόσφαιρα, παιχνίδια και κοινοτικές εκδηλώσεις.",
+      "specialties": [
+        "Kava Flights",
+        "Kratom Blends",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture στο Lewisville, Τέξας.",
+      "specialties": [
+        "Premium Kava",
+        "Texas Vibes"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture στο North Fort Worth.",
+      "specialties": [
+        "Premium Kava",
+        "Convenient Location"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - ΤΩΡΑ ΑΝΟΙΧΤΟ στο Οχάιο.",
+      "specialties": [
+        "Premium Kava",
+        "Midwest Vibes"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture στο Toledo, Οχάιο.",
+      "specialties": [
+        "Premium Kava",
+        "Ohio Location"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "Η πρώτη Kava-Bar της Salt Lake City με ποικιλία Premium-Kava και μια φιλόξενη κοινότητα.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Ceremonies"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Η Kava είναι μια ρίζα από τον Νότιο Ειρηνικό. Χρησιμοποιείται ως τελετουργικό ποτό για χαλάρωση και ηρεμία.",
+      "specialties": [
+        "NYC Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "Το KavaSutra είναι η καλύτερη Kava-Bar της Αμερικής με Premium-Kava και άλλα βότανα.",
+      "specialties": [
+        "Premium Kava",
+        "Herbal Blends"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Η Euphorbia είναι μια Kava-Bar που ειδικεύεται σε ποτά με Kava και ωμά επιδόρπια καθώς και φυτά Bonsai.",
+      "specialties": [
+        "Raw Desserts",
+        "Bonsai Plants",
+        "Kava Drinks"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Πλήρης σειρά προϊόντων βοτάνων και Kava, Juice Bar, καπνός, Hookah, προϊόντα Vape - όλα κάτω από μια στέγη.",
+      "specialties": [
+        "Herbal Products",
+        "Juice Bar"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "Η πρώτη Kava-Bar στο Μισούρι! Έλα και δες τι συμβαίνει. Ανοιχτό 7 ημέρες την εβδομάδα.",
+      "specialties": [
+        "Missouri's First",
+        "Παραδοσιακή Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar στο Carrboro, Βόρεια Καρολίνα.",
+      "specialties": [
+        "Premium Kava",
+        "Φοιτητική Ατμόσφαιρα"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar στο Wilmington, Βόρεια Καρολίνα.",
+      "specialties": [
+        "Παραλιακές Δονήσεις",
+        "Premium Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision είναι ένας μοναδικός χώρος co-working και καφέ με ειδικότητες όπως Kava & Kratom.",
+      "specialties": [
+        "Co-Working Space",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Υγιεινές τροφές για ένα υγιές σώμα και Kava! Ο προορισμός Kava της Αλάσκας.",
+      "specialties": [
+        "Acai Bowls",
+        "Smoothies",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture στην Spartanburg, Νότια Καρολίνα.",
+      "specialties": [
+        "Premium Kava",
+        "Νότια Φιλοξενία"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "Η πρώτη αφιερωμένη Kava-Lounge της Αυστραλίας με αυθεντική φιδιανή Kava και πανασιατική φιλοξενία.",
+      "specialties": [
+        "Fiji Waka",
+        "Vanuatu Kava",
+        "Παραδοσιακή Τελετή"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Η Kava-Bar του Μελβούρνης στο Pacific Market με ποικιλία Kava και Kratom.",
+      "specialties": [
+        "Fiji Kava",
+        "Tongan Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "Η αυθεντική Kava-Bar του Μπρίσμπεϊν με φιδιανικό ντεκόρ και παραδοσιακή παρασκευή.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Ceremonies"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "Η αφιερωμένη Kava-Lounge του Όκλαντ στο Victoria Park Market με μια ζεστή, φιλόξενη κοινότητα και Noble Kava από ολόκληρο τον Ειρηνικό.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Waka",
+        "Vanuatu Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Αυθεντική Kava-Bar στο Νότιο Όκλαντ με προσιτές τιμές και μεγάλη ποικιλία από σκόνη Kava.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Kava",
+        "Kava Powder Sales"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "Η πρώτη Kava-Lounge του Βερολίνου στο Kreuzberg με χαλαρή ατμόσφαιρα και τακτικές τελετές Kava.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Ceremonies"
+      ]
+    },
+    "kava-club-london": {
+      "description": "Ο πρώτος Kava-Club του Λονδίνου στο Shoreditch με αστικό περιβάλλον και ποικιλία Premium-Kava.",
+      "specialties": [
+        "Fiji Premium",
+        "Kava Cocktails"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Το φιλόξενο Kava-Cafe του Βανκούβερ με ποικιλία Kava και υγιεινών φαγητών.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Smoothie Bowls"
+      ]
+    }
+  }
+}

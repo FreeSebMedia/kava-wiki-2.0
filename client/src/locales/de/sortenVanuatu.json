@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Sorten aus Vanuatu",
+    "subtitle": "Über 80 Kava-Sorten aus der Heimat der Pflanze: Von Borogu bis Kelai, von Heavy bis Heady.",
+    "category": "Sorten",
+    "breadcrumb": {
+      "home": "Startseite",
+      "sorten": "Sorten",
+      "current": "Vanuatu"
+    }
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "einfuehrung", "title": "Vanuatu – Die Heimat des Kava", "level": 1 },
+      { "id": "borogu", "title": "Borogu", "level": 1 },
+      { "id": "melo-melo", "title": "Melo Melo", "level": 1 },
+      { "id": "kelai", "title": "Kelai", "level": 1 },
+      { "id": "palasa", "title": "Palasa", "level": 1 },
+      { "id": "palarasul", "title": "Palarasul", "level": 1 },
+      { "id": "bir-kar", "title": "Bir Kar", "level": 1 },
+      { "id": "weitere", "title": "Weitere Sorten", "level": 1 }
+    ]
+  },
+  "ui": {
+    "origin": "Herkunft",
+    "chemotype": "Chemotyp",
+    "duration": "Wirkdauer",
+    "hours": "Stunden",
+    "effectProfile": "Wirkungsprofil",
+    "recommendedFor": "Empfohlen für",
+    "tip": "Tipp",
+    "note": "Hinweis",
+    "variety": "Sorte",
+    "type": "Typ",
+    "characteristic": "Besonderheit",
+    "popular": "Beliebt",
+    "legendary": "Legendär"
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "<strong>Vanuatu</strong> ist die vermutete Urheimat des Kava und beherbergt mit über 80 dokumentierten Sorten die größte Vielfalt weltweit. Viele dieser Sorten sind einzigartig für bestimmte Inseln des Archipels und wurden über Jahrhunderte von lokalen Gemeinschaften kultiviert.",
+      "text": "Die Vielfalt Vanuatus erklärt sich durch die isolierte Lage der einzelnen Inseln und die lange Tradition der vegetativen Vermehrung. Da Kava keine Samen produziert, entwickelte jede Insel ihre eigenen Kultivare, angepasst an lokale Böden, Klima und kulturelle Präferenzen. Heute exportiert Vanuatu den Großteil des weltweit konsumierten Kava und hat strenge Qualitätsstandards etabliert, die den Export von Tudei-Sorten verbieten.",
+      "localNames": "<strong>Lokale Namen:</strong> In Vanuatu wird Kava je nach Insel und Sprache unterschiedlich genannt: <em>Kava</em>, <em>Malok</em>, <em>Malogu</em> oder <em>Nakamal</em> (letzteres bezeichnet auch die traditionellen Kava-Bars)."
+    },
+    "borogu": {
+      "name": "Borogu",
+      "badge": "Heady / Balanced",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 Stunden",
+      "description1": "<strong>Borogu</strong> (auch \"Gorgor\" genannt) ist der \"Volks-Kava\" von Vanuatu und eine der am weitesten verbreiteten Sorten weltweit. Er stammt ursprünglich von der Insel Pentecost und ist der Standard in vielen Nakamals (traditionellen Kava-Bars) in Port Vila.",
+      "description2": "Der Chemotyp 243516 zeigt eine ausgewogene Mischung mit DHK an erster Stelle, was für die körperbetonte, entspannende Wirkung verantwortlich ist. Kavain an zweiter Position sorgt für mentale Klarheit.",
+      "effects": [
+        "<strong>Körperliche Entspannung:</strong> Ausgeprägte Muskelentspannung, ideal nach einem langen Tag",
+        "<strong>Mentale Ruhe:</strong> Beruhigt den Geist ohne zu benebeln",
+        "<strong>Schlaffördernd:</strong> Gut geeignet für den Abend, fördert erholsamen Schlaf",
+        "<strong>Zuverlässig:</strong> Konsistente Wirkung, wenig Chargen-Variation"
+      ],
+      "recommendedFor": "Einsteiger, Abendkonsum, <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">Muskelentspannung</a>, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">Schlafförderung</a>"
+    },
+    "meloMelo": {
+      "name": "Melo Melo",
+      "badge": "Balanced",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 Stunden",
+      "description1": "<strong>Melo Melo</strong> verdankt seinen Namen seiner \"mellow\" (sanften) Wirkung. Diese Sorte von der Insel Ambae ist bekannt für ihre außergewöhnlich ausgewogene Wirkung, die weder zu sedierend noch zu stimulierend ist.",
+      "description2": "Der Chemotyp 243156 zeigt ein harmonisches Verhältnis aller Haupt-Kavalactone. Dies macht Melo Melo zu einer der vielseitigsten Sorten, die sowohl tagsüber als auch abends genossen werden kann.",
+      "effects": [
+        "<strong>Ausgewogen:</strong> Perfekte Balance zwischen Kopf- und Körperwirkung",
+        "<strong>Angstlösend:</strong> Hervorragend gegen <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">Angstzustände</a> und Stress",
+        "<strong>Sozial:</strong> Fördert Geselligkeit ohne Müdigkeit",
+        "<strong>Sanfter Geschmack:</strong> Milder als viele andere Sorten"
+      ],
+      "recommendedFor": "Einsteiger, <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">Angstlösung</a>, soziale Anlässe, Allrounder",
+      "tip": "Melo Melo ist eine der besten Sorten für Kava-Einsteiger. Die sanfte, ausgewogene Wirkung gibt einen guten Eindruck davon, was Kava zu bieten hat, ohne zu überwältigen."
+    },
+    "kelai": {
+      "name": "Kelai",
+      "badge": "Heady",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 Stunden",
+      "description1": "<strong>Kelai</strong> ist eine legendäre Sorte von der Insel Epi und gilt als einer der \"headiest\" (kopfbetontesten) Kavas überhaupt. In der Kava-Community wird er oft mit Champagner verglichen – elegant, euphorisch und mit einer gewissen Raffinesse.",
+      "description2": "Der Chemotyp 421365 beginnt mit <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a> (4), dem Kavalacton, das für mentale Klarheit und Euphorie verantwortlich ist. Die relativ kurze Wirkdauer von 2-3 Stunden macht Kelai ideal für den Tag oder frühen Abend.",
+      "effects": [
+        "<strong>Euphorisch:</strong> Ausgeprägte <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">stimmungsaufhellende</a> Wirkung",
+        "<strong>Mental stimulierend:</strong> Fördert Kreativität und Gesprächigkeit",
+        "<strong>Kurze Wirkdauer:</strong> Ideal für kontrollierte Erfahrungen",
+        "<strong>Kaum sedierend:</strong> Macht nicht müde, gut für den Tag"
+      ],
+      "recommendedFor": "Erfahrene Nutzer, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">soziale Anlässe</a>, kreative Arbeit, Tageskonsum",
+      "note": "Kelai ist oft teurer und schwerer zu finden als andere Sorten. Die Insel Epi produziert nur begrenzte Mengen, was zu Engpässen führen kann."
+    },
+    "palasa": {
+      "name": "Palasa",
+      "badge": "Heavy",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 Stunden",
+      "description": "<strong>Palasa</strong> von der Insel Malakula ist einer der potentesten \"Heavy\" Kavas aus Vanuatu. Er ist bekannt für seine tiefe, körperbetonte Wirkung und wird traditionell am späten Abend getrunken.",
+      "effects": [
+        "<strong>Stark sedierend:</strong> Tiefe körperliche Entspannung",
+        "<strong>Muskelentspannend:</strong> Ideal bei <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">Verspannungen</a>",
+        "<strong>Schlaffördernd:</strong> Einer der besten Kavas für <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">erholsamen Schlaf</a>",
+        "<strong>Lang anhaltend:</strong> Wirkung hält 5-7 Stunden an"
+      ],
+      "recommendedFor": "Abendkonsum, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">Schlafprobleme</a>, <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">Muskelentspannung</a>"
+    },
+    "palarasul": {
+      "name": "Palarasul",
+      "badge": "Heavy",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 Stunden",
+      "description": "<strong>Palarasul</strong> ist eng mit Palasa verwandt und stammt ebenfalls von Malakula. Der Name bedeutet \"kleiner Palasa\" und beschreibt eine etwas mildere, aber ähnlich körperbetonte Variante.",
+      "effects": [
+        "<strong>Körperbetont:</strong> Ausgeprägte physische Entspannung",
+        "<strong>Etwas milder:</strong> Weniger überwältigend als Palasa",
+        "<strong>Guter Einstieg:</strong> Für Heavy-Kava-Neulinge geeignet"
+      ]
+    },
+    "birKar": {
+      "name": "Bir Kar",
+      "badge": "Balanced",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 Stunden",
+      "description": "<strong>Bir Kar</strong> (auch \"Birkar\" geschrieben) ist eine ausgewogene Sorte von Malakula mit einem interessanten Wirkungsprofil. Der Name bedeutet \"starker Kava\" in der lokalen Sprache.",
+      "effects": [
+        "<strong>Ausgewogen:</strong> Gute Balance zwischen Kopf und Körper",
+        "<strong>Potent:</strong> Trotz \"Balanced\"-Klassifizierung recht stark",
+        "<strong>Vielseitig:</strong> Tag und Abend geeignet"
+      ]
+    },
+    "weitere": {
+      "title": "Weitere Sorten aus Vanuatu",
+      "intro": "Neben den oben beschriebenen Hauptsorten gibt es in Vanuatu dutzende weitere Noble-Kultivare. Hier eine Auswahl:",
+      "tableHeaders": {
+        "variety": "Sorte",
+        "origin": "Herkunft",
+        "type": "Typ",
+        "characteristic": "Besonderheit"
+      },
+      "tableRows": [
+        { "variety": "Ambae", "origin": "Ambae", "type": "Heavy", "characteristic": "Sehr sedierend, für Schlaf" },
+        { "variety": "Pia", "origin": "Pentecost", "type": "Balanced", "characteristic": "Sanft, gut für Einsteiger" },
+        { "variety": "Silese", "origin": "Pentecost", "type": "Heady", "characteristic": "Euphorisch, selten" },
+        { "variety": "Melmel", "origin": "Diverse", "type": "Balanced", "characteristic": "Ähnlich wie Melo Melo" },
+        { "variety": "Poivota", "origin": "Tanna", "type": "Heavy", "characteristic": "Traditionell, zeremoniell" },
+        { "variety": "Ahouia", "origin": "Diverse", "type": "Balanced", "characteristic": "Mild, angenehm" }
+      ],
+      "profilesLink": "Alle Sortenprofile im Detail"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Weiter im Kapitel Sorten:",
+    "next": {
+      "title": "Sorten aus Fiji, Tonga & Hawaii",
+      "description": "Regionale Spezialitäten: Loa Waka, Pouni Ono, 'Awa Moi und ihre einzigartigen Eigenschaften",
+      "href": "/de/sorten/pazifik"
+    }
+  }
+}

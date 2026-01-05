@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Cultivation & Ecology",
+    "subtitle": "Growth conditions, propagation methods, and the art of traditional kava cultivation.",
+    "category": "Botany"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botany",
+    "current": "Cultivation & Ecology"
+  },
+  "toc": {
+    "vermehrung": "Vegetative Propagation",
+    "stecklinge": "Cutting Propagation",
+    "klima": "Climate Requirements",
+    "boden": "Soil Composition",
+    "pflege": "Care & Growth",
+    "ernte": "Harvest & Maturity",
+    "qualitaet": "Quality Factors",
+    "anbauregionen": "Major Growing Regions"
+  },
+  "intro": {
+    "paragraph1": "The cultivation of kava is an art that has been passed down from generation to generation for thousands of years. Since <em>Piper methysticum</em> is sterile and produces no seeds, the plant is completely dependent on humans. This unique dependency has led to a deep cultural connection between Pacific peoples and their sacred plant."
+  },
+  "vermehrung": {
+    "title": "Vegetative Propagation",
+    "paragraph1": "Kava propagation occurs exclusively <strong>vegetatively through cuttings</strong>. This is a direct consequence of the plant's sterility – a trait that developed through thousands of years of domestication.",
+    "advantages": {
+      "title": "Advantages of Vegetative Propagation",
+      "items": [
+        "Genetic identity with the mother plant",
+        "Preservation of proven variety characteristics",
+        "Predictable chemotype profile",
+        "Faster growth than from seeds",
+        "Proven quality across generations"
+      ]
+    },
+    "challenges": {
+      "title": "Challenges",
+      "items": [
+        "No genetic variation possible",
+        "Susceptibility to diseases (clones)",
+        "Dependence on mother plants",
+        "Limited spread rate",
+        "Risk of variety loss"
+      ]
+    },
+    "stecklinge": {
+      "title": "Cutting Propagation & Planting",
+      "paragraph1": "The traditional method of cutting propagation follows a proven process:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Selection",
+          "description": "Healthy stem sections with 2-3 nodes from a proven mother plant"
+        },
+        {
+          "number": "2",
+          "title": "Cut",
+          "description": "Clean cut below a node, length approx. 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Preparation",
+          "description": "Removal of lower leaves, brief drying of the cut surface"
+        },
+        {
+          "number": "4",
+          "title": "Planting",
+          "description": "Insertion into loose, moist soil in shade, regular watering"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Climate Requirements",
+    "paragraph1": "Kava is a <strong>tropical plant</strong> with specific climate requirements. It thrives only within a relatively narrow range of environmental conditions.",
+    "table": {
+      "headers": {
+        "parameter": "Parameter",
+        "optimal": "Optimal Range",
+        "tolerance": "Tolerance Range",
+        "note": "Note"
+      },
+      "rows": [
+        {
+          "parameter": "Temperature",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "No frost tolerated"
+        },
+        {
+          "parameter": "Rainfall",
+          "optimal": "2,000-3,000 mm/year",
+          "tolerance": "1,500-4,000 mm/year",
+          "note": "Evenly distributed"
+        },
+        {
+          "parameter": "Humidity",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "High humidity preferred"
+        },
+        {
+          "parameter": "Altitude",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Lowland preferred"
+        },
+        {
+          "parameter": "Sunlight",
+          "optimal": "Partial shade",
+          "tolerance": "30-70% shade",
+          "note": "Young plants: more shade"
+        }
+      ]
+    },
+    "alert": "<strong>Shade requirement:</strong> Young kava plants (0-2 years) need about 70-80% shade. As they age, they can tolerate more sunlight but still benefit from partial shade."
+  },
+  "boden": {
+    "title": "Soil Composition",
+    "paragraph1": "Soil composition is one of the most critical factors for successful kava cultivation. The plant has high demands for drainage and nutrient content.",
+    "ideal": {
+      "title": "Ideal Soil Properties",
+      "items": [
+        {
+          "label": "Structure:",
+          "value": "Loose, crumbly, well-aerated"
+        },
+        {
+          "label": "Drainage:",
+          "value": "Excellent – waterlogging quickly leads to root rot"
+        },
+        {
+          "label": "pH Value:",
+          "value": "Slightly acidic to neutral (5.5-6.5)"
+        },
+        {
+          "label": "Organic Content:",
+          "value": "High, rich in humus"
+        },
+        {
+          "label": "Depth:",
+          "value": "At least 60 cm for root development"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "To Avoid",
+      "items": [
+        {
+          "label": "Compacted soils:",
+          "value": "Inhibit root growth"
+        },
+        {
+          "label": "Waterlogging:",
+          "value": "Leads to root rot and fungal infection"
+        },
+        {
+          "label": "Heavy clay soils:",
+          "value": "Poor drainage"
+        },
+        {
+          "label": "Saline soils:",
+          "value": "Kava is salt-sensitive"
+        },
+        {
+          "label": "Nutrient-poor soils:",
+          "value": "Reduce kavalactone content"
+        }
+      ]
+    },
+    "paragraph2": "In traditional growing areas, <strong>volcanic soils</strong> are often preferred. These offer an ideal combination of drainage, mineral content, and structure. In Vanuatu and Fiji, kava plantations are often established on gently sloping hillsides to ensure natural drainage."
+  },
+  "pflege": {
+    "title": "Care & Growth",
+    "paragraph1": "Kava is a relatively low-maintenance plant once established. The most important care measures focus on the first two years.",
+    "table": {
+      "headers": {
+        "phase": "Growth Phase",
+        "period": "Period",
+        "tasks": "Main Tasks",
+        "notes": "Special Notes"
+      },
+      "rows": [
+        {
+          "phase": "Establishment",
+          "period": "0-6 months",
+          "tasks": "Regular watering, ensuring shade",
+          "notes": "Most critical phase"
+        },
+        {
+          "phase": "Juvenile Phase",
+          "period": "6-18 months",
+          "tasks": "Weed control, mulching, fertilizing if needed",
+          "notes": "Rapid growth"
+        },
+        {
+          "phase": "Maturation Phase",
+          "period": "18-36 months",
+          "tasks": "Minimal care, pest control",
+          "notes": "Root development"
+        },
+        {
+          "phase": "Harvest Maturity",
+          "period": "3-5+ years",
+          "tasks": "Quality assessment, harvest preparation",
+          "notes": "Optimal potency"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Harvest & Maturity",
+    "paragraph1": "Harvest timing is crucial for the quality of the final product. One of the most important rules in kava cultivation is: <strong>The older the plant, the more potent and balanced the effect profile.</strong>",
+    "qualitaet": {
+      "title": "Quality Factors at Harvest",
+      "table": {
+        "headers": {
+          "age": "Age at Harvest",
+          "content": "Kavalactone Content",
+          "quality": "Quality Level",
+          "usage": "Usage"
+        },
+        "rows": [
+          {
+            "age": "< 2 years",
+            "content": "Low (3-5%)",
+            "quality": "Immature",
+            "qualityColor": "red",
+            "usage": "Not recommended"
+          },
+          {
+            "age": "2-3 years",
+            "content": "Medium (5-10%)",
+            "quality": "Acceptable",
+            "qualityColor": "yellow",
+            "usage": "Simple products"
+          },
+          {
+            "age": "3-5 years",
+            "content": "High (10-15%)",
+            "quality": "Good",
+            "qualityColor": "green",
+            "usage": "Standard quality"
+          },
+          {
+            "age": "5-7 years",
+            "content": "Very high (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "High-quality products"
+          },
+          {
+            "age": "> 7 years",
+            "content": "Maximum (18-25%)",
+            "quality": "Exceptional",
+            "qualityColor": "purple",
+            "usage": "Ceremonial use"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "For high quality ('Noble Kava'), the plant must grow for at least 3 to 5 years. The older the plant, the more potent and balanced the effect profile typically is.",
+      "author": "Sebastian Freidank, \"Kava – Root of Tranquility\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Major Growing Regions",
+    "paragraph1": "Today, kava is grown in a belt of tropical islands across the Pacific. Each region has developed its own varieties, traditions, and quality characteristics.",
+    "table": {
+      "headers": {
+        "region": "Region",
+        "varieties": "Known Varieties",
+        "characteristics": "Characteristics",
+        "production": "Production"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Greatest variety diversity (80+ cultivars)",
+          "production": "World's largest producer",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Known for \"Waka\" (premium roots)",
+          "production": "Second largest producer"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Very mild, \"creamy\" kavas",
+          "production": "Medium production"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Traditional ceremonies",
+          "production": "Local consumption"
+        },
+        {
+          "region": "Hawaii",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Revival of traditional varieties",
+          "production": "Growing"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Sakau varieties",
+          "characteristics": "Fresh kava juice (\"Sakau\")",
+          "production": "Local consumption"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> is considered the homeland of cultivated kava and still harbors the greatest genetic diversity. From here, the plant was spread by Polynesian seafarers across the entire Pacific – as one of the most important \"Canoe Plants\" that were taken along with every settlement of new islands."
+  },
+  "navigation": {
+    "nextCategory": "Continue to next category:",
+    "nextTitle": "History & Origins",
+    "nextSubtitle": "The 3000-year journey of kava across the Pacific"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "Die Geschichte der Kava",
+    "subtitle": "Eine Reise durch 5.000 Jahre Kava-Geschichte – von der Domestikation in Melanesien bis zur globalen Verbreitung in der modernen Welt.",
+    "category": "Geschichte"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "geschichte": "Geschichte",
+    "zeitleiste": "Zeitleiste"
+  },
+  "ui": {
+    "filter": "Filter",
+    "allEpochs": "Alle Epochen",
+    "readMore": "Mehr erfahren",
+    "loading": "Lädt..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Urgeschichte & Domestikation",
+      "description": "Die Anfänge der Kava-Kultur in Melanesien"
+    },
+    "classical": {
+      "name": "Klassische Pazifik-Ära",
+      "description": "Verbreitung durch Austronesische Expansion"
+    },
+    "colonial": {
+      "name": "Kolonialzeit",
+      "description": "Europäischer Kontakt und Missionierung"
+    },
+    "modern": {
+      "name": "Moderne Ära",
+      "description": "Wissenschaftliche Erforschung und Dekolonisierung"
+    },
+    "contemporary": {
+      "name": "Gegenwart",
+      "description": "Globale Verbreitung und kulturelle Renaissance"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Ursprung & Domestikation",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Verbreitung im Pazifik",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Kolonialzeit",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Wissenschaft & Forschung",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Moderne Ära",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Gegenwart",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "ca. 3000 v. Chr.",
+      "title": "Domestikation von Kava",
+      "description": "In den Regenwäldern Papua-Neuguineas und Vanuatus beginnt die Domestikation von Piper wichmannii zur kultivierten Kava-Pflanze (Piper methysticum).",
+      "details": "Durch selektive Züchtung und vegetative Vermehrung entstehen die ersten Noble Kava-Sorten mit höherem Kavalacton-Gehalt und geringerer Toxizität als die wilde Urform.",
+      "location": "Papua-Neuguinea / Vanuatu",
+      "links": [
+        {
+          "label": "Die Pflanze",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Ursprünge",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "ca. 2500 v. Chr.",
+      "title": "Erste Kava-Zeremonien in Vanuatu",
+      "description": "Auf den Inseln Vanuatus entwickeln sich die ersten rituellen Kava-Zeremonien. Das Nakamal wird zum zentralen Versammlungsort.",
+      "details": "Die Zubereitung durch Kauen der Wurzel durch junge Männer etabliert sich als Tradition. Kava wird zum Medium der Kommunikation mit Ahnen und Geistern.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Zeremonien",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "ca. 1500–1000 v. Chr.",
+      "title": "Lapita-Expansion",
+      "description": "Die Lapita-Kultur verbreitet Kava durch ihre maritime Expansion von Melanesien nach Westpolynesien.",
+      "details": "Archäologische Funde von Lapita-Keramik zeigen die Ausbreitungsrouten. Kava-Pflanzen werden als Stecklinge auf Auslegerkanus transportiert.",
+      "location": "Melanesien → Polynesien"
+    },
+    "fiji-arrival": {
+      "year": "ca. 1000 v. Chr.",
+      "title": "Kava erreicht Fiji",
+      "description": "Kava wird in Fiji eingeführt und als 'Yaqona' bekannt. Einzigartige Zeremonien entwickeln sich um die Tanoa (Kava-Schale).",
+      "details": "Ursprünglich wurde Kava in Fiji durch Mahlen zubereitet, nicht durch Kauen. Die Verbindung zur Ahnenverehrung in den Būrau (Männerhäusern) wird etabliert.",
+      "location": "Fiji",
+      "links": [
+        {
+          "label": "Fiji-Zeremonien",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Pazifik-Sorten",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "ca. 500 v. Chr.",
+      "title": "Kava in Tonga und Samoa",
+      "description": "Die 'Ava-Zeremonie entwickelt sich in Tonga und Samoa zu einer hochformalisierten Tradition mit strenger Hierarchie.",
+      "details": "Die Tou'a (Kava-Mischerin) und der Matāpule (Zeremonienmeister) werden zu wichtigen rituellen Rollen. Die Trinkreihenfolge spiegelt die soziale Ordnung wider.",
+      "location": "Tonga / Samoa",
+      "links": [
+        {
+          "label": "'Ava-Zeremonie",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "ca. 300–500 n. Chr.",
+      "title": "Kava erreicht Hawaii",
+      "description": "Polynesische Seefahrer bringen Kava nach Hawaii, wo es als 'Awa bekannt wird und mit der Göttin Hina verbunden wird.",
+      "details": "In Hawaii entwickelt sich eine einzigartige Kava-Kultur mit Verbindung zu Heilungsritualen der Kahuna (Priester). Die Sorte 'Awa Hiwa wird für zeremonielle Zwecke reserviert.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Hawaii-Sorten",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "ca. 500 n. Chr.",
+      "title": "Sakau-Kultur in Pohnpei",
+      "description": "Auf Pohnpei in Mikronesien entwickelt sich die Sakau-Zeremonie als eigenständige Tradition.",
+      "details": "Die Zubereitung auf einem flachen Stein und das Pressen durch Hibiskusfasern werden charakteristisch für die mikronesische Kava-Kultur.",
+      "location": "Pohnpei (Mikronesien)"
+    },
+    "fiji-tongan-influence": {
+      "year": "ca. 1750",
+      "title": "Tonganischer Einfluss auf Fiji",
+      "description": "Fiji übernimmt tonganische Kava-Zeremonien: Mastikation, Tanoa-Schalen und Bilo-Becher werden Standard.",
+      "details": "Die Sevusevu-Zeremonie als formelle Begrüßung etabliert sich. Christliche Missionare begünstigen die 'zivilisierteren' polynesischen Zeremonien.",
+      "location": "Fiji"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "Erster europäischer Kontakt",
+      "description": "Niederländische Seefahrer unter Jacob Le Maire und Willem Schouten erreichen die Pazifikinseln und dokumentieren erstmals Kava.",
+      "details": "Die Europäer beschreiben das 'seltsame Getränk' der Einheimischen, verstehen aber seine kulturelle Bedeutung nicht.",
+      "location": "Pazifik"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Captain Cooks Dokumentation",
+      "description": "James Cook dokumentiert Kava-Zeremonien während seiner Pazifikreisen ausführlich und bringt Proben nach Europa.",
+      "details": "Cooks Berichte über die 'Ava-Zeremonie in Tonga und Hawaii wecken wissenschaftliches Interesse in Europa. Der Botaniker Johann Georg Forster beschreibt die Pflanze erstmals wissenschaftlich.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Geschichte",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Wissenschaftliche Klassifikation",
+      "description": "Johann Georg Forster klassifiziert Kava als Piper methysticum ('berauschendes Pfeffergewächs').",
+      "details": "Der Name leitet sich vom griechischen 'methystikos' (berauschend) ab. Forster beschreibt die Pflanze in seinem Werk 'De Plantis Esculentis Insularum Oceani Australis'.",
+      "location": "Europa",
+      "links": [
+        {
+          "label": "Botanik",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Missionarische Opposition",
+      "description": "Christliche Missionare bekämpfen Kava als 'heidnisches' Getränk. In einigen Regionen werden Zeremonien verboten.",
+      "details": "Missionare kritisieren das Kauen als unhygienisch und die Zeremonien als 'faul, zersetzend, ja dämonisch'. Auf Ost-Futuna wird die Mastikation 1930 nach Missionarsmandat eingestellt.",
+      "location": "Pazifik",
+      "links": [
+        {
+          "label": "Koloniale Einflüsse",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "Entdeckung der Kavalactone",
+      "description": "Deutsche Chemiker isolieren erstmals die aktiven Wirkstoffe aus Kava und nennen sie 'Kavain'.",
+      "details": "Die Entdeckung legt den Grundstein für die wissenschaftliche Erforschung der Kava-Wirkung und spätere pharmazeutische Anwendungen.",
+      "location": "Deutschland",
+      "links": [
+        {
+          "label": "Kavalactone",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Deutsche Kolonialherrschaft",
+      "description": "Deutschland kontrolliert Teile des Pazifiks (Deutsch-Neuguinea, Samoa). Kava wird wissenschaftlich erforscht.",
+      "details": "Deutsche Wissenschaftler dokumentieren Kava-Sorten und Zubereitungsmethoden. Die Kolonialverwaltung toleriert Kava-Konsum weitgehend.",
+      "location": "Deutsch-Neuguinea / Samoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Louis Lewins Forschung",
+      "description": "Der deutsche Toxikologe Louis Lewin veröffentlicht umfassende Studien über Kava und klassifiziert es als 'Euphorica'.",
+      "details": "Lewins Werk 'Phantastica' wird zum Standardwerk der Psychopharmakologie. Er beschreibt Kava als eines der wichtigsten Genussmittel der Menschheit.",
+      "location": "Deutschland"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Unabhängigkeit & Kulturelle Renaissance",
+      "description": "Pazifikstaaten erlangen Unabhängigkeit. Kava kehrt als Symbol kultureller Identität in den öffentlichen Raum zurück.",
+      "details": "Samoa (1962), Fiji (1970), Tonga (1970), Vanuatu (1980) werden unabhängig. Kava-Zeremonien werden bei Staatsgründungen und offiziellen Anlässen zelebriert.",
+      "location": "Pazifik",
+      "links": [
+        {
+          "label": "Moderne Geschichte",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu wird unabhängig",
+      "description": "Vanuatu erlangt Unabhängigkeit von der französisch-britischen Kolonialherrschaft. Kava wird nationales Symbol.",
+      "details": "Die neue Nation macht Kava zum Teil ihrer Identität. Nakamals werden zu wichtigen sozialen Institutionen in Port Vila und anderen Städten.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "1990er",
+      "title": "Klinische Studien zu Angst",
+      "description": "Erste kontrollierte klinische Studien zeigen die anxiolytische Wirkung von Kava-Extrakten.",
+      "details": "Meta-Analysen bestätigen die Wirksamkeit von Kava bei Angststörungen. Kava-Präparate werden in Europa und den USA als pflanzliche Arzneimittel populär.",
+      "location": "Europa / USA",
+      "links": [
+        {
+          "label": "Studien",
+          "url": "/studien"
+        },
+        {
+          "label": "Wirkung bei Angst",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990er",
+      "title": "Erste Kava-Bars in den USA",
+      "description": "In Florida und Kalifornien eröffnen die ersten westlichen Kava-Bars als alkoholfreie Alternative.",
+      "details": "Die Kava-Bar-Bewegung beginnt in Städten mit pazifischer Diaspora. Fort Lauderdale wird zum Zentrum der amerikanischen Kava-Szene.",
+      "location": "USA (Florida)",
+      "links": [
+        {
+          "label": "Moderne Kava-Kultur",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal & Kava-Bars",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Kava-Verbot in Deutschland",
+      "description": "Deutschland verbietet Kava-Präparate nach Berichten über Leberschäden. Andere EU-Länder folgen.",
+      "details": "Das BfArM widerruft die Zulassung aller Kava-haltigen Arzneimittel. Die Entscheidung basiert auf 30 Verdachtsfällen von Hepatotoxizität, wird aber später als überzogen kritisiert.",
+      "location": "Deutschland / EU",
+      "links": [
+        {
+          "label": "Lebersicherheit",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Rechtsstatus",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Vanuatus Noble-Only-Exportpolitik",
+      "description": "Vanuatu führt strenge Exportrichtlinien ein: Nur Noble Kava-Sorten dürfen exportiert werden.",
+      "details": "Die Politik soll Qualität sichern und den Ruf von Kava schützen. Tudei-Sorten mit höherem DHM/DHK-Gehalt werden vom Export ausgeschlossen.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Noble vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Vanuatu-Sorten",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "WHO-Risikobewertung",
+      "description": "Die WHO veröffentlicht eine umfassende Risikobewertung und stuft traditionell zubereitete Kava als sicher ein.",
+      "details": "Die Bewertung unterscheidet zwischen traditioneller Zubereitung (sicher) und Extrakten (potenziell problematisch). Die Verwendung von Nicht-Wurzel-Teilen wird als Risikofaktor identifiziert.",
+      "location": "International",
+      "links": [
+        {
+          "label": "Sicherheit",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Rehabilitation in Deutschland",
+      "description": "Deutsche Gerichte heben das Kava-Verbot auf. Die ursprüngliche Entscheidung wird als wissenschaftlich unbegründet eingestuft.",
+      "details": "Das Bundesverwaltungsgericht urteilt, dass die Risikobewertung fehlerhaft war. Kava-Produkte können wieder legal verkauft werden.",
+      "location": "Deutschland",
+      "links": [
+        {
+          "label": "Rechtsstatus",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Codex Alimentarius Standard",
+      "description": "Der Codex Alimentarius verabschiedet einen internationalen Standard für Kava als Getränk.",
+      "details": "Der Standard definiert Qualitätskriterien, Kavalacton-Grenzwerte und Kennzeichnungsanforderungen. Ein Meilenstein für den internationalen Handel.",
+      "location": "International"
+    },
+    "global-expansion": {
+      "year": "2020er",
+      "title": "Globale Expansion der Kava-Bars",
+      "description": "Über 200 Kava-Bars eröffnen in den USA. Die 'Sober Curious'-Bewegung treibt das Wachstum.",
+      "details": "Kava wird als alkoholfreie Alternative für soziale Entspannung populär. Städte wie Austin, Denver und New York entwickeln lebhafte Kava-Szenen.",
+      "location": "USA / Europa / Australien",
+      "links": [
+        {
+          "label": "Moderne Kava-Kultur",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020er",
+      "title": "Klimawandel-Herausforderungen",
+      "description": "Pazifische Kava-Farmer kämpfen mit den Auswirkungen des Klimawandels auf ihre Ernten.",
+      "details": "Veränderte Niederschlagsmuster, Zyklone und steigende Temperaturen bedrohen traditionelle Anbaugebiete. Nachhaltige Anbaumethoden werden wichtiger.",
+      "location": "Pazifik",
+      "links": [
+        {
+          "label": "Anbau",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "Heute",
+      "title": "Kulturelle Renaissance",
+      "description": "Junge Pazifik-Generationen gründen 'Kava Collectives' und dokumentieren traditionelles Wissen digital.",
+      "details": "Podcasts, YouTube-Kanäle und Instagram-Accounts verbreiten Kava-Kultur weltweit. Die Verbindung von Tradition und Moderne schafft neue Formen der kulturellen Identität.",
+      "location": "Pazifik / Global",
+      "links": [
+        {
+          "label": "Kultur & Tradition",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Übersicht",
+    "events": "Ereignisse",
+    "epochs": "Epochen",
+    "yearsOfHistory": "Jahre Geschichte",
+    "milestones": "Meilensteine",
+    "keyMilestones": "Wichtige Meilensteine",
+    "relatedPages": "Verwandte Seiten",
+    "noEventsFound": "Keine Ereignisse für diese Filter gefunden.",
+    "bce": "v. Chr.",
+    "origins": "Die Ursprünge",
+    "spreadPacific": "Verbreitung im Pazifik",
+    "modernHistory": "Moderne Geschichte",
+    "interactiveMap": "Interaktive Weltkarte",
+    "resetFilters": "Filter zurücksetzen"
+  }
+}

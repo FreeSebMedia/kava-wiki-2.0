@@ -1,0 +1,160 @@
+{
+  "page": {
+    "title": "Das Chemotyp-System",
+    "subtitle": "Wie der 6-stellige Code die Wirkung einer Kava-Sorte vorhersagt und Noble von Tudei unterscheidet.",
+    "category": "Inhaltsstoffe"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "inhaltsstoffe": "Inhaltsstoffe",
+    "current": "Chemotypen"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "einfuehrung": "Was ist ein Chemotyp?",
+    "nummerierung": "Die Nummerierung der Kavalactone",
+    "lesen": "Einen Chemotyp lesen",
+    "beispiele": "Beispiele & Interpretation",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Tudei-Erkennung anhand des Chemotyps",
+    "wirkungsprofile": "Wirkungsprofile nach Chemotyp",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Balanced Kavas",
+    "qualitaet": "Chemotyp & Qualitätskontrolle"
+  },
+  "einfuehrung": {
+    "paragraph1": "Der <strong>Chemotyp</strong> ist ein 6-stelliger Code, der die sechs Haupt-Kavalactone in absteigender Reihenfolge ihrer Konzentration auflistet. Er funktioniert wie ein \"Fingerabdruck\" für jede Kava-Sorte und ermöglicht es, die erwartete Wirkung vorherzusagen – noch bevor man einen Schluck getrunken hat.",
+    "paragraph2": "Dieses System wurde in den 1980er Jahren von Vincent Lebot entwickelt und ist heute der internationale Standard für die Klassifizierung und Qualitätskontrolle von Kava. Es ist das wichtigste Werkzeug, um hochwertiges \"Noble Kava\" von minderwertigem \"Tudei Kava\" zu unterscheiden."
+  },
+  "nummerierung": {
+    "title": "Die Nummerierung der Kavalactone",
+    "intro": "Jedes der sechs Haupt-Kavalactone ist einer Ziffer zugeordnet. Diese Zuordnung ist historisch bedingt und basiert auf der Reihenfolge ihrer Entdeckung bzw. chromatographischen Elution:",
+    "tableHeaders": {
+      "digit": "Ziffer",
+      "kavalacton": "Kavalacton",
+      "abbreviation": "Kürzel",
+      "effect": "Hauptwirkung"
+    },
+    "tableData": [
+      { "digit": "1", "name": "Desmethoxyyangonin", "abbreviation": "DMY", "effect": "Fokus, Dopamin-Erhöhung" },
+      { "digit": "2", "name": "Dihydrokavain", "abbreviation": "DHK", "effect": "Muskelentspannung, Analgesie" },
+      { "digit": "3", "name": "Yangonin", "abbreviation": "Y", "effect": "CB1-Aktivität, Euphorie" },
+      { "digit": "4", "name": "Kavain", "abbreviation": "K", "effect": "Anxiolytisch, \"Heady\"-Effekt" },
+      { "digit": "5", "name": "Dihydromethysticin", "abbreviation": "DHM", "effect": "Lang sedierend, Tudei-Marker" },
+      { "digit": "6", "name": "Methysticin", "abbreviation": "M", "effect": "Sedierend, neuroprotektiv" }
+    ],
+    "mnemonic": "<strong>Merkhilfe:</strong> Die Ziffern <strong>4</strong> (Kavain) und <strong>2</strong> (Dihydrokavain) sind die \"guten\" Startpositionen für Noble Kava. Die Ziffer <strong>5</strong> (Dihydromethysticin) an den ersten beiden Stellen ist ein Warnsignal für Tudei-Kava."
+  },
+  "lesen": {
+    "title": "Einen Chemotyp lesen",
+    "intro": "Der Chemotyp wird als 6-stellige Zahl geschrieben, wobei jede Position die relative Konzentration angibt:",
+    "positions": [
+      { "rank": "1. Platz", "label": "Höchste Konz.", "example": "4 = Kavain" },
+      { "rank": "2. Platz", "label": "Zweithöchste", "example": "2 = DHK" },
+      { "rank": "3. Platz", "label": "Dritthöchste", "example": "6 = M" },
+      { "rank": "4. Platz", "label": "Vierthöchste", "example": "5 = DHM" },
+      { "rank": "5. Platz", "label": "Fünfthöchste", "example": "3 = Y" },
+      { "rank": "6. Platz", "label": "Niedrigste", "example": "1 = DMY" }
+    ]
+  },
+  "beispiele": {
+    "title": "Beispiele & Interpretation",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Typisches Noble Kava (z.B. Borogu)",
+        "description": "<strong>Kavain</strong> dominiert, gefolgt von <strong>Dihydrokavain</strong>. DHM (5) ist nur auf Platz 4. Erwartete Wirkung: Klare, fokussierte Entspannung mit guter Muskelrelaxation. Kein \"Kater\"."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, körperbetont (z.B. Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> an erster Stelle bedeutet stärkere körperliche Entspannung. Ideal für den Abend. Immer noch Noble, da DHM (5) weit hinten steht."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (z.B. Isa)",
+        "description": "<strong>DHM (5)</strong> an erster Stelle ist ein klares Warnsignal. Erwartete Wirkung: Sehr lange Sedierung (12+ Stunden), mögliche Übelkeit, \"Kater\" am nächsten Tag. Nicht für den regelmäßigen Konsum geeignet."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (z.B. Palimanu)",
+        "description": "<strong>DHM (5)</strong> auf Platz 2 ist ebenfalls problematisch. Auch wenn DHK (2) vorne steht, macht der hohe DHM-Anteil diese Sorte ungeeignet für den Export und regelmäßigen Konsum."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Die Unterscheidung zwischen <strong>Noble Kava</strong> (Edelkava) und <strong>Tudei Kava</strong> (Two-Day Kava) ist fundamental für die Kava-Qualität. Der Name \"Tudei\" kommt daher, dass die Wirkung dieser Sorten bis zu zwei Tage anhalten kann – mit unangenehmen Nebenwirkungen.",
+    "tableHeaders": {
+      "criterion": "Kriterium",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      { "criterion": "Chemotyp-Start", "noble": "Beginnt mit 4 oder 2, nie mit 5", "tudei": "Beginnt oft mit 5 oder hat 5 auf Platz 2" },
+      { "criterion": "Wirkungseintritt", "noble": "Schnell (10-20 Minuten)", "tudei": "Verzögert (30-90 Minuten)" },
+      { "criterion": "Wirkdauer", "noble": "Moderat (3-6 Stunden)", "tudei": "Sehr lang (6-12+ Stunden)" },
+      { "criterion": "Wirkcharakter", "noble": "Klar, entspannt, sozial", "tudei": "Dumpf, sedierend, benommen" },
+      { "criterion": "Nebenwirkungen", "noble": "Minimal bei korrekter Zubereitung", "tudei": "Übelkeit, Kopfschmerzen, \"Kater\"" },
+      { "criterion": "Exportzulassung", "noble": "Ja (reguliert)", "tudei": "Nein (in Vanuatu verboten)" },
+      { "criterion": "Beispiel-Sorten", "noble": "Borogu, Melo Melo, Kelai, Bir Kar", "tudei": "Isa, Palimanu, Wildkava" }
+    ]
+  },
+  "erkennung": {
+    "title": "Tudei-Erkennung anhand des Chemotyps",
+    "intro": "Die einfachste Regel zur Erkennung von Tudei-Kava:",
+    "warningTitle": "Warnsignale",
+    "warnings": ["<strong>5</strong> an Position 1 oder 2", "<strong>5</strong> vor <strong>4</strong> im Chemotyp", "Sehr hoher DHM-Gesamtanteil (>15%)"],
+    "safeTitle": "Sichere Zeichen",
+    "safeIndicators": ["<strong>4</strong> oder <strong>2</strong> an Position 1", "<strong>5</strong> auf Position 4, 5 oder 6", "Kavain-Dominanz (>30%)"]
+  },
+  "wirkungsprofile": {
+    "title": "Wirkungsprofile nach Chemotyp",
+    "intro": "Basierend auf dem Chemotyp lassen sich Noble Kava-Sorten in drei Hauptkategorien einteilen:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavas haben <strong>Kavain (4)</strong> an erster Stelle und zeichnen sich durch eine primär mentale Wirkung aus. Sie fördern Fokus, Klarheit und eine angenehme Stimmungsaufhellung, ohne stark zu sedieren.",
+    "idealTitle": "Ideal für:",
+    "idealFor": ["Soziale Anlässe und Gespräche", "Kreative Arbeit", "Tagsüber oder frühen Abend", "Einsteiger (mildere Wirkung)"],
+    "examples": "<strong>Beispiel-Sorten:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavas haben <strong>Dihydrokavain (2)</strong> an erster Stelle und wirken primär auf den Körper. Sie bieten starke Muskelentspannung und sind ideal zum Abschalten nach einem langen Tag.",
+    "idealTitle": "Ideal für:",
+    "idealFor": ["Abendliche Entspannung", "Stressabbau und Muskelentspannung", "Schlafvorbereitung", "Erfahrene Kava-Trinker"],
+    "examples": "<strong>Beispiel-Sorten:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Balanced Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Balanced Kavas haben eine ausgewogene Verteilung von Kavain und Dihydrokavain und bieten sowohl mentale Klarheit als auch körperliche Entspannung. Sie sind die vielseitigsten Sorten.",
+    "idealTitle": "Ideal für:",
+    "idealFor": ["Tägliche Anwendung", "Meditation und Achtsamkeit", "Vielseitige Nutzung (Tag oder Abend)", "Alle Erfahrungsstufen"],
+    "examples": "<strong>Beispiel-Sorten:</strong> Bir Kar, Melomelo (je nach Charge)"
+  },
+  "qualitaet": {
+    "title": "Chemotyp & Qualitätskontrolle",
+    "intro": "Der Chemotyp ist heute das wichtigste Instrument für die <strong>Qualitätskontrolle</strong> im internationalen Kava-Handel. In Vanuatu, dem größten Kava-Exporteur, ist die Analyse des Chemotyps gesetzlich vorgeschrieben, bevor Kava exportiert werden darf.",
+    "lawTitle": "Vanuatu Kava Act (2002)",
+    "lawText": "Das Kava-Gesetz von Vanuatu legt fest, dass nur <strong>Noble Kava-Sorten</strong> für den Export zugelassen sind. Tudei-Sorten und deren Mischungen sind vom Export ausgeschlossen. Die Einhaltung wird durch Chemotyp-Analysen überprüft.",
+    "lawNote": "Dies ist einer der Gründe, warum Kava aus Vanuatu als besonders hochwertig gilt – es gibt staatliche Qualitätskontrollen, die Tudei-Kontamination verhindern sollen.",
+    "consumerTip": "<strong>Tipp für Verbraucher:</strong> Seriöse Kava-Händler geben den Chemotyp ihrer Produkte an oder können ihn auf Anfrage mitteilen. Wenn ein Händler keine Chemotyp-Informationen bereitstellen kann, ist Vorsicht geboten."
+  },
+  "navigation": {
+    "nextCategory": "Weiter zur nächsten Kategorie:",
+    "sortenTitle": "Sorten & Varietäten",
+    "sortenDescription": "Über 80 dokumentierte Kava-Sorten und ihre Eigenschaften"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Instant Kava",
+    "subtitle": "Die schnellste Art, Kava zu genießen – perfekt für unterwegs oder wenn es schnell gehen muss.",
+    "category": "Zubereitung"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "zubereitung": "Zubereitung",
+    "current": "Instant Kava"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "uebersicht", "title": "Übersicht", "level": 1 },
+      { "id": "was-ist", "title": "Was ist Instant Kava?", "level": 1 },
+      { "id": "arten", "title": "Arten von Instant Kava", "level": 1 },
+      { "id": "anleitung", "title": "Zubereitung", "level": 1 },
+      { "id": "dosierung", "title": "Dosierungsempfehlungen", "level": 1 },
+      { "id": "vergleich", "title": "Vergleich zu anderen Methoden", "level": 1 },
+      { "id": "tipps", "title": "Tipps & Tricks", "level": 1 }
+    ]
+  },
+  "ui": {
+    "prepTime": "Zubereitungszeit",
+    "noFilter": "Kein Filter",
+    "justStir": "Einfach umrühren",
+    "practical": "Praktisch",
+    "idealForTravel": "Ideal für unterwegs",
+    "potency": "Potenz",
+    "advantages": "Vorteile",
+    "disadvantages": "Nachteile",
+    "productType": "Produkttyp",
+    "beginner": "Einsteiger",
+    "regular": "Regulär",
+    "experienced": "Erfahren",
+    "aspect": "Aspekt",
+    "traditional": "Traditionell",
+    "blender": "Blender",
+    "instant": "Instant",
+    "otherMethods": "Andere Zubereitungsmethoden"
+  },
+  "overview": {
+    "intro": "Instant Kava ist die <strong>schnellste und einfachste</strong> Art, Kava zu genießen. Einfach mit Wasser mischen, umrühren und trinken – <strong>kein Kneten, kein Filtern</strong>."
+  },
+  "whatIs": {
+    "title": "Was ist Instant Kava?",
+    "text": "\"Instant Kava\" ist ein Sammelbegriff für Kava-Produkte, die ohne aufwendige Zubereitung konsumiert werden können. Im Gegensatz zu traditionellem Medium Grind Pulver, das geknet und gefiltert werden muss, lösen sich Instant-Produkte direkt in Wasser auf.",
+    "alert": {
+      "title": "Wichtiger Unterschied",
+      "text": "Instant Kava ist <strong>nicht dasselbe</strong> wie Kava-Extrakt-Kapseln oder -Tabletten. Es handelt sich um trinkbare Formen, die das volle Kava-Erlebnis bieten."
+    }
+  },
+  "types": {
+    "title": "Arten von Instant Kava",
+    "items": [
+      {
+        "name": "Micronized Kava",
+        "description": "Ultrafein gemahlenes Wurzelpulver, das sich vollständig in Wasser auflöst.",
+        "pros": ["Schnellste Zubereitung", "Volle Pflanzenstoffe", "Kein Filtern nötig"],
+        "cons": ["Kann Magenprobleme verursachen", "Sandige Textur möglich", "Teurer als Medium Grind"],
+        "potency": "Hoch",
+        "color": "amber"
+      },
+      {
+        "name": "Dehydrierter Kava-Extrakt",
+        "description": "Konzentrierter Extrakt aus traditionell zubereitetem Kava, gefriergetrocknet.",
+        "pros": ["Sehr potent", "Glatte Textur", "Magenfreundlicher"],
+        "cons": ["Am teuersten", "Weniger authentischer Geschmack", "Begrenzte Verfügbarkeit"],
+        "potency": "Sehr hoch",
+        "color": "purple"
+      },
+      {
+        "name": "Kava-Konzentrat (flüssig)",
+        "description": "Fertige Kava-Lösung, nur mit Wasser verdünnen.",
+        "pros": ["Sofort trinkfertig", "Konsistente Stärke", "Praktisch für unterwegs"],
+        "cons": ["Begrenzte Haltbarkeit", "Weniger Auswahl", "Oft mit Zusätzen"],
+        "potency": "Mittel bis hoch",
+        "color": "blue"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Zubereitung",
+    "intro": "Die Zubereitung von Instant Kava ist denkbar einfach – daher der Name!",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Abmessen",
+        "description": "Die gewünschte Menge Instant Kava in ein Glas oder eine Schale geben."
+      },
+      {
+        "number": 2,
+        "title": "Wasser hinzufügen",
+        "description": "200-300ml Wasser (kalt oder warm) hinzugießen."
+      },
+      {
+        "number": 3,
+        "title": "Umrühren & Trinken",
+        "description": "Kräftig umrühren bis aufgelöst, dann in einem Zug trinken."
+      }
+    ],
+    "alert": {
+      "title": "Pro-Tipp: Shaker verwenden",
+      "text": "Ein Protein-Shaker oder Cocktail-Shaker löst Instant Kava viel besser auf als Umrühren. Besonders bei Micronized Kava verhindert das Klumpenbildung."
+    }
+  },
+  "dosage": {
+    "title": "Dosierungsempfehlungen",
+    "note": "<strong>Hinweis:</strong> Diese Werte sind Richtwerte. Die tatsächliche Potenz variiert stark je nach Hersteller und Sorte. Beginnen Sie immer mit einer niedrigen Dosis!",
+    "items": [
+      { "type": "Micronized", "beginner": "2-3g", "regular": "4-6g", "experienced": "6-10g" },
+      { "type": "Dehydrierter Extrakt", "beginner": "1-2g", "regular": "2-4g", "experienced": "4-6g" },
+      { "type": "Konzentrat (flüssig)", "beginner": "15-30ml", "regular": "30-45ml", "experienced": "45-60ml" }
+    ]
+  },
+  "comparison": {
+    "title": "Vergleich zu anderen Methoden",
+    "items": [
+      { "aspect": "Zubereitungszeit", "traditional": "20-25 Min", "blender": "8-10 Min", "instant": "30 Sekunden" },
+      { "aspect": "Aufwand", "traditional": "Hoch", "blender": "Mittel", "instant": "Minimal" },
+      { "aspect": "Potenz", "traditional": "Sehr hoch", "blender": "Hoch", "instant": "Mittel-Hoch" },
+      { "aspect": "Geschmack", "traditional": "Authentisch", "blender": "Intensiv", "instant": "Variiert" },
+      { "aspect": "Kosten pro Portion", "traditional": "Günstig", "blender": "Günstig", "instant": "Teuer" },
+      { "aspect": "Für unterwegs", "traditional": "Unpraktisch", "blender": "Unpraktisch", "instant": "Ideal" }
+    ]
+  },
+  "tips": {
+    "title": "Tipps & Tricks",
+    "items": [
+      {
+        "name": "Mit Saft mischen",
+        "text": "Mischen Sie Instant Kava mit Fruchtsaft statt Wasser. Ananas- oder Mangosaft überdeckt den bitteren Geschmack hervorragend."
+      },
+      {
+        "name": "Kokosmilch-Boost",
+        "text": "Verwenden Sie Kokosmilch statt Wasser. Das Fett verbessert die Aufnahme der Kavalactone und macht den Geschmack cremiger."
+      },
+      {
+        "name": "Reise-Portionen",
+        "text": "Portionieren Sie Instant Kava in kleine Zip-Beutel vor. So haben Sie unterwegs immer die richtige Menge dabei."
+      },
+      {
+        "name": "Kalt genießen",
+        "text": "Instant Kava schmeckt kalt oft besser als warm. Mischen Sie es mit kaltem Wasser und ein paar Eiswürfeln für ein erfrischendes Getränk."
+      }
+    ],
+    "alert": {
+      "title": "Vorsicht bei Micronized Kava",
+      "text": "Micronized Kava enthält alle Pflanzenfasern und kann bei empfindlichen Personen Magenprobleme verursachen. Wenn Sie Übelkeit verspüren, wechseln Sie zu dehydriertem Extrakt oder traditioneller Zubereitung."
+    }
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Traditionelle Knetmethode",
+      "subtitle": "Maximale Potenz, authentisches Erlebnis",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Blender-Methode",
+      "subtitle": "Schnell und effektiv",
+      "href": "/de/zubereitung/blender"
+    },
+    "calculator": {
+      "title": "Dosierungsrechner",
+      "subtitle": "Personalisierte Empfehlungen für Ihre Sorte",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

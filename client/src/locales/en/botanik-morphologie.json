@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morphology",
+    "subtitle": "Detailed anatomy of the Kava plant with special focus on the economically significant root system.",
+    "category": "Botany"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botany",
+    "morphologie": "Morphology"
+  },
+  "toc": {
+    "ueberblick": "Morphological Overview",
+    "wurzelsystem": "The Root System",
+    "stumpf": "The Stump (Corm)",
+    "seitenwurzeln": "The Lateral Roots (Waka)",
+    "kavalactonVerteilung": "Kavalactone Distribution",
+    "staengel": "Stems & Nodes",
+    "blaetter": "Leaves",
+    "blueten": "Flowers & Fruits"
+  },
+  "intro": {
+    "paragraph1": "The morphology of <em>Piper methysticum</em> is the result of millennia of selection. While the above-ground parts of the plant are important for cultivar identification, the true value lies in the underground structures – the complex root system that contains the coveted kavalactones."
+  },
+  "overview": {
+    "title": "Morphological Overview",
+    "paragraph1": "Kava is a perennial, evergreen shrub with a typical growth height of <strong>1.5 to 3 meters</strong>. Under optimal conditions – abundant water, nutrients, and shade – individual plants can reach up to 5 meters.",
+    "table": {
+      "headers": {
+        "plantPart": "Plant Part",
+        "characteristic": "Characteristic",
+        "kavalactoneContent": "Kavalactone Content"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Rootstock (Rhizome)",
+          "characteristic": "Thick, woody, branched",
+          "content": "Very high (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Lateral Roots",
+          "characteristic": "Fine, fibrous, extensive",
+          "content": "Highest content"
+        },
+        "stem": {
+          "name": "Stem (Trunk)",
+          "characteristic": "Knotty, bamboo-like",
+          "content": "Low to medium"
+        },
+        "leaves": {
+          "name": "Leaves",
+          "characteristic": "Heart-shaped, large",
+          "content": "Very low"
+        },
+        "flowers": {
+          "name": "Flowers",
+          "characteristic": "Small, spike-shaped",
+          "content": "Not used"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "The Root System",
+    "paragraph1": "The economically and pharmacologically most important part of the Kava plant is the underground root system. It consists of two main components that differ in their composition and quality.",
+    "qualityAlert": {
+      "title": "Quality Feature:",
+      "text": "High-quality Kava is made exclusively from the roots. The use of above-ground plant parts (stems, leaves) is considered inferior and can lead to unwanted side effects."
+    },
+    "stump": {
+      "title": "The Stump (Corm/Stump)",
+      "paragraph1": "The <strong>stump</strong> is the thick, woody part directly below the soil surface. It forms the central mass of the rootstock and can reach considerable dimensions in older plants.",
+      "properties": {
+        "title": "Properties",
+        "items": [
+          "Weight: 5-25 kg in mature plants",
+          "Diameter: 10-30 cm",
+          "Texture: Hard, woody, fibrous",
+          "Color: Light brown to dark brown"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalactone Profile",
+        "items": [
+          "Total content: Medium to high",
+          "More Dihydromethysticin (DHM)",
+          "Less Kavain than lateral roots",
+          "Tends to be \"heavier\" in effect"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "The Lateral Roots (Lateral Roots / Waka)",
+      "paragraph1": "The <strong>lateral roots</strong> are the finer roots that extend from the stump and spread through the soil. In Fiji, they are called \"Waka\" and are considered the highest quality component.",
+      "properties": {
+        "title": "Properties",
+        "items": [
+          "Diameter: 0.5-3 cm",
+          "Length: Up to several meters",
+          "Texture: Softer, less woody",
+          "Color: Light brown, yellowish"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalactone Profile",
+        "items": [
+          "Total content: Highest of all plant parts",
+          "Higher Kavain proportion",
+          "More balanced effect profile",
+          "Premium quality (\"Waka Grade\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Kavalactone Distribution in the Plant",
+      "paragraph1": "The concentration of kavalactones varies greatly between different plant parts. This has direct implications for the quality and safety of Kava products.",
+      "table": {
+        "headers": {
+          "plantPart": "Plant Part",
+          "kavalactoneContent": "Kavalactone Content",
+          "usage": "Usage",
+          "qualityLevel": "Quality Level"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Lateral Roots (Waka)",
+            "content": "10-20%",
+            "usage": "Premium Kava",
+            "quality": "Highest"
+          },
+          "stump": {
+            "name": "Stump (Corm)",
+            "content": "5-15%",
+            "usage": "Standard Kava",
+            "quality": "High"
+          },
+          "basalStem": {
+            "name": "Basal Stem (Lewena)",
+            "content": "3-8%",
+            "usage": "Mixed or alone",
+            "quality": "Medium"
+          },
+          "upperStem": {
+            "name": "Upper Stem",
+            "content": "1-3%",
+            "usage": "Not recommended",
+            "quality": "Low"
+          },
+          "leaves": {
+            "name": "Leaves",
+            "content": "<1%",
+            "usage": "Not used",
+            "quality": "Unsuitable"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Warning:",
+        "text": "The use of leaves and above-ground stem parts has been linked to historical reports of liver toxicity. High-quality Kava uses exclusively root material."
+      }
+    }
+  },
+  "stems": {
+    "title": "Stems & Nodes",
+    "paragraph1": "The stems (trunks) of Kava are one of the most important features for <strong>cultivar identification</strong>. They grow upright and branch as they age.",
+    "structure": {
+      "title": "Structure",
+      "items": [
+        "<strong>Nodes:</strong> Clearly visible thickenings, similar to bamboo",
+        "<strong>Internodes:</strong> The sections between nodes, variable in length",
+        "<strong>Diameter:</strong> 2-5 cm, depending on age and variety",
+        "<strong>Height:</strong> 1.5-3 m (up to 5 m under optimal conditions)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Variety Features",
+      "paragraph1": "The color and pattern of the stems is a key feature for distinguishing cultivars:",
+      "items": [
+        "<strong>Green:</strong> Common in many standard varieties",
+        "<strong>Spotted:</strong> Characteristic of certain varieties",
+        "<strong>Striped:</strong> Longitudinal stripes in various colors",
+        "<strong>Dark purple/Black:</strong> Rare, often particularly prized varieties"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Leaves",
+    "paragraph1": "Kava leaves are large, prominent, and serve primarily for photosynthesis. They are traditionally not used for Kava preparation.",
+    "characteristics": {
+      "title": "Leaf Characteristics",
+      "formSize": {
+        "title": "Shape & Size",
+        "items": [
+          "Heart-shaped (cordate)",
+          "Width: 15-30 cm",
+          "Length: 20-35 cm",
+          "Alternately arranged"
+        ]
+      },
+      "surface": {
+        "title": "Surface",
+        "items": [
+          "Smooth to slightly hairy",
+          "Glossy on the upper side",
+          "Matte on the underside",
+          "Prominent leaf veins"
+        ]
+      },
+      "color": {
+        "title": "Color",
+        "items": [
+          "Light green to dark green",
+          "Purple shades possible",
+          "Petioles often colored",
+          "Variety-specific variations"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Flowers & Fruits",
+    "paragraph1": "Although <em>Piper methysticum</em> produces flowers, the plant is functionally sterile and does not form viable seeds.",
+    "flowerStructure": {
+      "title": "Flower Structure",
+      "items": [
+        "<strong>Type:</strong> Spike-shaped inflorescences (Spadix)",
+        "<strong>Size:</strong> 3-9 cm long",
+        "<strong>Color:</strong> Greenish-white to yellowish",
+        "<strong>Position:</strong> Opposite the leaves",
+        "<strong>Sex:</strong> Usually unisexual (dioecious)"
+      ]
+    },
+    "sterility": {
+      "title": "Sterility",
+      "paragraph1": "The sterility of <em>P. methysticum</em> is a consequence of high polyploidy (decaploidy). This means:",
+      "items": [
+        "No viable seeds",
+        "Exclusively vegetative propagation",
+        "Complete dependence on humans",
+        "All plants are genetic clones"
+      ]
+    },
+    "paragraph2": "This sterility has far-reaching consequences: Without continuous human cultivation, <em>Piper methysticum</em> would become extinct within a generation. Every Kava plant existing today is the result of an unbroken chain of cutting propagation dating back to the first domestications about 3,000 years ago."
+  },
+  "navigation": {
+    "continueText": "Continue in the Botany chapter:",
+    "nextChapter": {
+      "title": "Cultivation & Ecology",
+      "description": "Cultivation, propagation & growth conditions"
+    }
+  }
+}

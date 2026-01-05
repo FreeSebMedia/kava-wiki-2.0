@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "subtitle": "Die wichtigste Unterscheidung für jeden Kava-Konsumenten: Warum Noble Kava sicher ist und Tudei gemieden werden sollte.",
+    "category": "Sorten",
+    "breadcrumb": {
+      "home": "Startseite",
+      "sorten": "Sorten",
+      "current": "Noble vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "einfuehrung", "title": "Einführung", "level": 1 },
+      { "id": "geschichte", "title": "Geschichte der Klassifizierung", "level": 1 },
+      { "id": "chemische-unterschiede", "title": "Chemische Unterschiede", "level": 1 },
+      { "id": "wirkungsunterschiede", "title": "Wirkungsunterschiede", "level": 1 },
+      { "id": "erkennung", "title": "Tudei erkennen", "level": 1 },
+      { "id": "sicherheit", "title": "Sicherheitsaspekte", "level": 1 }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Die Unterscheidung zwischen <strong>Noble Kava</strong> und <strong>Tudei Kava</strong> ist die fundamentalste Klassifizierung in der Welt des Kava. Sie entscheidet darüber, ob ein Kava-Erlebnis angenehm und sicher oder unangenehm und potenziell schädlich ist.",
+      "text": "Der Begriff \"Tudei\" (auch \"Two-Day\" geschrieben) stammt aus dem Bislama, der Kreolsprache Vanuatus, und bedeutet wörtlich \"zwei Tage\" – ein Hinweis auf die extrem lange Wirkdauer dieser Sorten. Noble Kava hingegen wurde über Jahrhunderte von pazifischen Kulturen für den täglichen Gebrauch selektiert und bietet eine angenehme, kontrollierbare Wirkung."
+    },
+    "geschichte": {
+      "title": "Geschichte der Klassifizierung",
+      "p1": "Die formelle Unterscheidung zwischen Noble und Tudei Kava wurde von der <strong>Regierung Vanuatus</strong> eingeführt, um die Qualität von Export-Kava zu regulieren. Im Jahr 2002 erließ Vanuatu das <strong>Kava Act</strong>, das den Export von Tudei-Sorten verbietet. Diese Gesetzgebung war eine Reaktion auf Berichte über Leberschäden in Europa, die mit minderwertigen Kava-Produkten in Verbindung gebracht wurden.",
+      "p2": "Die Forschung von <strong>Dr. Vincent Lebot</strong>, einem führenden Kava-Wissenschaftler, war entscheidend für die Entwicklung dieser Klassifizierung. Lebot entwickelte Methoden zur chemischen Analyse von Kava-Sorten und identifizierte die <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Chemotypen</a>, die Noble von Tudei unterscheiden.",
+      "quote": "Die Klassifizierung in Noble und Tudei basiert nicht auf subjektiven Präferenzen, sondern auf messbaren chemischen Unterschieden, die direkt mit der Sicherheit und Verträglichkeit korrelieren.",
+      "quoteAuthor": "— Dr. Vincent Lebot, Kava-Forscher"
+    },
+    "chemischeUnterschiede": {
+      "title": "Chemische Unterschiede",
+      "intro": "Der entscheidende Unterschied zwischen Noble und Tudei Kava liegt im <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Chemotyp</a> – der relativen Konzentration der sechs Haupt-<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactone</a>. Der Chemotyp wird als sechsstellige Zahl angegeben, wobei die erste Ziffer das dominante Kavalacton repräsentiert.",
+      "tableHeaders": {
+        "merkmal": "Merkmal",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Chemotyp beginnt mit",
+          "noble": "2 (DHK) oder 4 (Kavain)",
+          "tudei": "5 (DHM) oder 6 (Methysticin)"
+        },
+        {
+          "merkmal": "Dominantes Kavalacton",
+          "noble": "Kavain oder Dihydrokavain",
+          "tudei": "Dihydromethysticin"
+        },
+        {
+          "merkmal": "Flavokavain B Gehalt",
+          "noble": "Niedrig (<0.5%)",
+          "tudei": "Hoch (bis zu 5%)"
+        },
+        {
+          "merkmal": "DHM:Kavain Verhältnis",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Noble Chemotypen (Beispiele)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Alle beginnen mit 2 oder 4 – niemals mit 5 oder 6."
+      },
+      "tudeiCard": {
+        "title": "Tudei Chemotypen (Beispiele)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "Beginnen mit 5 (DHM) oder 6 (Methysticin) – ein Warnsignal."
+      },
+      "calculatorLink": "Chemotyp-Rechner: Analysieren Sie jeden Chemotyp"
+    },
+    "wirkungsunterschiede": {
+      "title": "Wirkungsunterschiede",
+      "intro": "Die chemischen Unterschiede führen zu drastisch verschiedenen Wirkungsprofilen:",
+      "tableHeaders": {
+        "aspekt": "Aspekt",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Wirkungseintritt",
+          "noble": "Schnell (10-20 Minuten)",
+          "tudei": "Verzögert (30-90 Minuten)"
+        },
+        {
+          "aspekt": "Wirkdauer",
+          "noble": "Moderat (3-6 Stunden)",
+          "tudei": "Extrem lang (6-48 Stunden)"
+        },
+        {
+          "aspekt": "Wirkcharakter",
+          "noble": "Klar, entspannt, sozial",
+          "tudei": "Dumpf, benebelt, sedierend"
+        },
+        {
+          "aspekt": "Nächster Tag",
+          "noble": "Kein Hangover",
+          "tudei": "Oft Lethargie, Übelkeit"
+        },
+        {
+          "aspekt": "Nebenwirkungen",
+          "noble": "Selten, mild",
+          "tudei": "Häufig: Übelkeit, Kopfschmerzen"
+        },
+        {
+          "aspekt": "Täglicher Gebrauch",
+          "noble": "Sicher",
+          "tudei": "Nicht empfohlen"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Noble Kava Erfahrung",
+        "text": "Ein typisches Noble-Kava-Erlebnis beginnt mit einem leichten Kribbeln auf den Lippen, gefolgt von einer Welle der Entspannung. Der Geist bleibt klar, während der Körper sich entspannt. Nach 3-4 Stunden klingt die Wirkung sanft ab, und man fühlt sich erfrischt – bereit für einen erholsamen Schlaf oder weitere Aktivitäten."
+      },
+      "tudeiExperience": {
+        "title": "Tudei Kava Erfahrung",
+        "text": "Tudei-Kava wirkt verzögert und schleichend. Die Wirkung ist oft überwältigend sedierend, mit einem \"benebelten\" Gefühl. Am nächsten Tag fühlen sich viele Konsumenten noch immer beeinträchtigt – daher der Name \"Two-Day\". Übelkeit und Kopfschmerzen sind häufig."
+      }
+    },
+    "erkennung": {
+      "title": "Tudei erkennen",
+      "intro": "Leider wird Tudei-Kava manchmal illegal beigemischt oder als Noble verkauft. Hier sind Warnzeichen:",
+      "warningTitle": "Warnzeichen für Tudei-Beimischung",
+      "warnings": [
+        "<strong>Extrem niedriger Preis</strong> – Tudei ist billiger zu produzieren",
+        "<strong>Keine Sortenangabe</strong> – Der Sortenname sollte immer angegeben sein",
+        "<strong>Kein Chemotyp</strong> – Der Chemotyp gibt Aufschluss über die Kavalacton-Zusammensetzung",
+        "<strong>Verzögerter Wirkungseintritt</strong> – Noble wirkt in 10-20 Minuten",
+        "<strong>Extreme Übelkeit</strong> – Mehr als leichte Magenbeschwerden",
+        "<strong>Wirkung am nächsten Tag</strong> – Noble klingt nach 4-6 Stunden ab"
+      ],
+      "acetoneTestTitle": "Acetone-Test",
+      "acetoneTestText": "Ein einfacher Heimtest kann helfen, Tudei zu identifizieren: Der <strong>Acetone-Test</strong>. Dabei wird Kava-Pulver mit Aceton gemischt. Noble Kava färbt das Aceton gelb, während Tudei-Kava eine orange bis rote Färbung erzeugt (aufgrund des hohen Flavokavain-B-Gehalts).",
+      "recommendation": "<strong>Empfehlung:</strong> Achten Sie beim Kauf darauf, dass der Händler den genauen Chemotyp und die Sorte angibt. Diese Informationen zeigen, dass es sich um authentisches Noble Kava handelt."
+    },
+    "sicherheit": {
+      "title": "Sicherheitsaspekte",
+      "intro": "Die Unterscheidung zwischen Noble und Tudei ist nicht nur eine Frage des Komforts, sondern auch der <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">Sicherheit</a>. Die Leberschäden, die in den frühen 2000er Jahren mit Kava in Verbindung gebracht wurden, werden heute größtenteils auf minderwertige Produkte zurückgeführt:",
+      "causes": [
+        "Verwendung von <strong>oberirdischen Pflanzenteilen</strong> (Blätter, Stängel) statt nur Wurzeln",
+        "Beimischung von <strong>Tudei-Sorten</strong> mit hohem Flavokavain-B-Gehalt",
+        "<strong>Aceton-Extraktion</strong> statt traditioneller Wasserzubereitung",
+        "Verwendung von <strong>unreifen Pflanzen</strong> (weniger als 3 Jahre alt)"
+      ],
+      "conclusion": "Noble Kava, traditionell zubereitet aus mindestens 3-5 Jahre alten Wurzeln, hat eine <strong>jahrtausendealte Sicherheitsgeschichte</strong> in den pazifischen Kulturen. Die Regierung Vanuatus und internationale Organisationen wie die <strong>WHO</strong> haben bestätigt, dass Noble Kava bei sachgemäßer Verwendung als sicher gilt.",
+      "moreLink": "Mehr über Kava-Sicherheit erfahren"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Weiter im Kapitel Sorten:",
+    "next": {
+      "title": "Sorten aus Vanuatu",
+      "description": "Über 80 Sorten aus der Heimat des Kava: Borogu, Melo Melo, Kelai und mehr",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

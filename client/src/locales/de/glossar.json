@@ -1,0 +1,533 @@
+{
+  "meta": {
+    "category": "Glossar",
+    "title": "Kava-Glossar",
+    "subtitle": "Über 50 Fachbegriffe rund um Kava – von Kavalactonen bis zur Kava-Zeremonie"
+  },
+  "intro": "Dieses Glossar erklärt die wichtigsten Begriffe rund um Kava. Von chemischen Verbindungen über Zubereitungsmethoden bis hin zu kulturellen Traditionen – hier findest du alle Fachbegriffe verständlich erklärt.",
+  "search": {
+    "placeholder": "Begriff suchen...",
+    "noResults": "Keine Begriffe gefunden für",
+    "clearSearch": "Suche löschen",
+    "resultsCount": "{{count}} Begriff(e) gefunden"
+  },
+  "categories": {
+    "chemie": "Chemie & Inhaltsstoffe",
+    "wirkung": "Wirkung & Effekte",
+    "kultur": "Kultur & Tradition",
+    "sorten": "Sorten & Varietäten",
+    "zubereitung": "Zubereitung",
+    "sicherheit": "Sicherheit"
+  },
+  "toc": {
+    "uebersicht": "Übersicht",
+    "suche": "Suche",
+    "chemie": "Chemie & Inhaltsstoffe",
+    "wirkung": "Wirkung & Effekte",
+    "sorten": "Sorten & Varietäten",
+    "zubereitung": "Zubereitung",
+    "kultur": "Kultur & Tradition",
+    "sicherheit": "Sicherheit"
+  },
+  "ui": {
+    "relatedTerms": "Verwandte Begriffe",
+    "relatedLinks": "Mehr erfahren",
+    "backToTop": "Nach oben",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalactone",
+      "shortDefinition": "Die psychoaktiven Wirkstoffe in Kava",
+      "fullExplanation": "Kavalactone sind eine Gruppe von 18 Lactonen, die für die psychoaktiven Wirkungen von Kava verantwortlich sind. Die **sechs Haupt-Kavalactone** machen etwa 96% des Gesamtgehalts aus: Desmethoxyyangonin (DMY), Dihydrokavain (DHK), Yangonin (Y), Kavain (K), Dihydromethysticin (DHM) und Methysticin (M). Jedes Kavalacton hat ein eigenes Wirkprofil – von angstlösend über muskelentspannend bis sedierend. Der Gesamtgehalt in der Wurzel liegt typischerweise bei 3-20%.",
+      "relatedTerms": ["Chemotyp", "Kavain", "DHK"],
+      "relatedLinks": [
+        { "label": "Die 6 Haupt-Kavalactone", "href": "/de/inhaltsstoffe/kavalactone" },
+        { "label": "Chemotyp-System", "href": "/de/inhaltsstoffe/chemotypen" }
+      ]
+    },
+    "chemotyp": {
+      "term": "Chemotyp",
+      "shortDefinition": "Das chemische Profil einer Kava-Sorte",
+      "fullExplanation": "Der Chemotyp ist ein **6-stelliger Code**, der die Reihenfolge der sechs Haupt-Kavalactone nach Konzentration angibt. Jedes Kavalacton hat eine Nummer: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. Ein Chemotyp wie \"426315\" bedeutet: Kavain (4) ist am höchsten konzentriert, gefolgt von DHK (2), etc. Der Chemotyp bestimmt maßgeblich die Wirkung einer Sorte – ob sie eher \"heady\" (kopflastig, euphorisch) oder \"heavy\" (körperlich, sedierend) ist.",
+      "relatedTerms": ["Kavalactone", "Noble Kava", "Heady", "Heavy"],
+      "relatedLinks": [
+        { "label": "Chemotyp-Rechner", "href": "/de/inhaltsstoffe/rechner" },
+        { "label": "Das Chemotyp-System", "href": "/de/inhaltsstoffe/chemotypen" }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "Das wichtigste Kavalacton für die angstlösende Wirkung",
+      "fullExplanation": "Kavain (Nummer 4 im Chemotyp-System) ist das am besten erforschte Kavalacton und gilt als **Hauptverantwortlicher für die anxiolytische (angstlösende) Wirkung**. Es wirkt auf GABA-Rezeptoren, Dopamin- und Noradrenalin-Transporter. Sorten mit hohem Kavain-Gehalt (4 an erster oder zweiter Stelle im Chemotyp) gelten als besonders hochwertig und werden als \"heady\" bezeichnet. Kavain hat auch neuroprotektive Eigenschaften.",
+      "relatedTerms": ["Kavalactone", "GABA", "Heady"],
+      "relatedLinks": [
+        { "label": "Kavalactone im Detail", "href": "/de/inhaltsstoffe/kavalactone" },
+        { "label": "Angstlösende Wirkung", "href": "/de/wirkung/angst" }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "Das Kavalacton für Muskelentspannung",
+      "fullExplanation": "Dihydrokavain (DHK, Nummer 2 im Chemotyp-System) ist das **stärkste muskelentspannende Kavalacton**. Es wirkt auf spannungsgesteuerte Natriumkanäle und hat lokalanästhetische Eigenschaften – daher das typische Taubheitsgefühl im Mund nach dem Trinken. DHK ist auch für die körperliche Entspannung verantwortlich. Sorten mit hohem DHK-Gehalt (2 an erster Stelle) werden oft als \"heavy\" klassifiziert.",
+      "relatedTerms": ["Kavalactone", "Heavy", "Muskelentspannung"],
+      "relatedLinks": [
+        { "label": "Muskelentspannung", "href": "/de/wirkung/muskel" },
+        { "label": "Kavalactone im Detail", "href": "/de/inhaltsstoffe/kavalactone" }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Stark sedierendes Kavalacton, dominant in Tudei",
+      "fullExplanation": "Dihydromethysticin (DHM, Nummer 5 im Chemotyp-System) ist ein **stark sedierendes Kavalacton**. In hohen Konzentrationen (5 an erster Stelle) ist es typisch für Tudei-Kava und kann zu langanhaltenden Nebenwirkungen führen. In Noble Kava ist DHM in moderaten Mengen vorhanden und trägt zur entspannenden Wirkung bei. DHM hat eine längere Halbwertszeit als Kavain, weshalb Tudei-Effekte bis zu zwei Tage anhalten können.",
+      "relatedTerms": ["Kavalactone", "Tudei", "Heavy"],
+      "relatedLinks": [
+        { "label": "Noble vs. Tudei", "href": "/de/sorten/noble-tudei" }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "Kavalacton mit CB1-Rezeptor-Affinität",
+      "fullExplanation": "Yangonin (Y, Nummer 3 im Chemotyp-System) ist ein einzigartiges Kavalacton, das eine **Affinität zu CB1-Cannabinoid-Rezeptoren** zeigt. Dies könnte zu den stimmungsaufhellenden und leicht euphorisierenden Effekten von Kava beitragen. Yangonin ist auch für die gelbe Farbe von Kava-Extrakten verantwortlich. Es hat entzündungshemmende Eigenschaften und wird auf sein therapeutisches Potenzial untersucht.",
+      "relatedTerms": ["Kavalactone", "Chemotyp"],
+      "relatedLinks": [
+        { "label": "Kavalactone im Detail", "href": "/de/inhaltsstoffe/kavalactone" }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Stimmungsaufhellendes Kavalacton",
+      "fullExplanation": "Desmethoxyyangonin (DMY, Nummer 1 im Chemotyp-System) ist ein **stimmungsaufhellendes Kavalacton** mit MAO-B-hemmenden Eigenschaften. Es kann die Dopamin-Verfügbarkeit im Gehirn erhöhen, was zu seinen euphorisierenden Effekten beiträgt. DMY ist auch für die antidepressive Wirkung von Kava mitverantwortlich. In Kombination mit Kavain verstärkt es die \"heady\" Eigenschaften einer Sorte.",
+      "relatedTerms": ["Kavalactone", "Heady", "Kavain"],
+      "relatedLinks": [
+        { "label": "Kavalactone im Detail", "href": "/de/inhaltsstoffe/kavalactone" }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Sedierendes Kavalacton mit langer Wirkdauer",
+      "fullExplanation": "Methysticin (M, Nummer 6 im Chemotyp-System) ist ein **sedierendes Kavalacton** mit relativ langer Wirkdauer. Es trägt zur körperlichen Entspannung und Schlafförderung bei. Methysticin hat auch antikonvulsive (krampflösende) Eigenschaften. In den meisten Noble-Sorten ist Methysticin in moderaten Mengen vorhanden und ergänzt die Wirkung der anderen Kavalactone.",
+      "relatedTerms": ["Kavalactone", "Heavy", "DHM"],
+      "relatedLinks": [
+        { "label": "Kavalactone im Detail", "href": "/de/inhaltsstoffe/kavalactone" }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "Der wissenschaftliche Name für Kava",
+      "fullExplanation": "Piper methysticum ist der **wissenschaftliche (lateinische) Name** für die Kava-Pflanze. Der Name bedeutet wörtlich \"berauschender Pfeffer\" (von griechisch \"methystikos\" = berauschend). Die Pflanze gehört zur **Familie der Pfeffergewächse (Piperaceae)** und ist eng verwandt mit dem Schwarzen Pfeffer. Kava ist eine sterile Kulturpflanze, die nur vegetativ vermehrt werden kann – ein Hinweis auf ihre jahrtausendealte Domestikation durch den Menschen.",
+      "relatedTerms": ["Piper wichmannii", "Botanik"],
+      "relatedLinks": [
+        { "label": "Die Pflanze", "href": "/de/botanik/pflanze" },
+        { "label": "Botanik Übersicht", "href": "/de/botanik" }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Wilder Vorfahre der Kava-Pflanze",
+      "fullExplanation": "Piper wichmannii ist der **wilde Vorfahre** von Piper methysticum. Diese wilde Art kommt in Papua-Neuguinea und den Salomonen vor und kann sich sexuell fortpflanzen (im Gegensatz zur sterilen Kulturform). Wissenschaftler glauben, dass Kava vor etwa 3.000 Jahren aus Piper wichmannii **domestiziert** wurde. Wilde Kava enthält oft höhere Mengen an unerwünschten Verbindungen und wird nicht für den Konsum empfohlen.",
+      "relatedTerms": ["Piper methysticum", "Tudei"],
+      "relatedLinks": [
+        { "label": "Geschichte", "href": "/de/geschichte" }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkone",
+      "shortDefinition": "Flavonoid-Verbindungen in Kava",
+      "fullExplanation": "Chalkone sind eine Klasse von **Flavonoid-Verbindungen**, die in Kava vorkommen. Die wichtigsten sind Flavokavain A, B und C. Während Flavokavain A und C als relativ unbedenklich gelten, wird **Flavokavain B (FKB)** mit potenzieller Lebertoxizität in Verbindung gebracht. Chalkone kommen hauptsächlich in den oberirdischen Pflanzenteilen und in Tudei-Sorten vor. Noble Kava aus der Wurzel enthält nur geringe Mengen.",
+      "relatedTerms": ["Flavokavain B", "Tudei", "Noble Kava"],
+      "relatedLinks": [
+        { "label": "Sicherheit", "href": "/de/sicherheit" }
+      ]
+    },
+    "extraktion": {
+      "term": "Extraktion",
+      "shortDefinition": "Prozess der Kavalacton-Gewinnung",
+      "fullExplanation": "Extraktion bezeichnet den Prozess, bei dem **Kavalactone aus dem Pflanzenmaterial gelöst** werden. Bei der traditionellen Zubereitung geschieht dies durch Kneten in Wasser – Kavalactone sind fettlöslich und werden durch mechanische Kraft und Emulgierung extrahiert. Industrielle Extrakte verwenden oft Lösungsmittel wie Ethanol oder Aceton. **Wässrige Extrakte** gelten als sicherer, da sie weniger unerwünschte Verbindungen enthalten.",
+      "relatedTerms": ["Kavalactone", "Knetmethode"],
+      "relatedLinks": [
+        { "label": "Zubereitung", "href": "/de/zubereitung" }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobuttersäure",
+      "shortDefinition": "Der wichtigste hemmende Neurotransmitter",
+      "fullExplanation": "GABA (Gamma-Aminobuttersäure) ist der **wichtigste hemmende Neurotransmitter** im zentralen Nervensystem. Er reduziert die neuronale Erregbarkeit und wirkt beruhigend, angstlösend und schlaffördernd. Kavalactone – insbesondere Kavain und DHK – modulieren GABA-Rezeptoren, jedoch auf eine **andere Weise als Benzodiazepine**. Dies erklärt, warum Kava entspannt, ohne die typischen Nebenwirkungen von Schlafmitteln zu haben (keine Abhängigkeit, keine kognitive Beeinträchtigung).",
+      "relatedTerms": ["Kavalactone", "Kavain", "Anxiolyse"],
+      "relatedLinks": [
+        { "label": "Angstlösende Wirkung", "href": "/de/wirkung/angst" },
+        { "label": "Wissenschaftliche Studien", "href": "/de/studien" }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Reverse Tolerance",
+      "germanTerm": "Umgekehrte Toleranz",
+      "shortDefinition": "Phänomen, bei dem Kava mit der Zeit stärker wirkt",
+      "fullExplanation": "Reverse Tolerance ist ein **einzigartiges Phänomen bei Kava**: Im Gegensatz zu den meisten psychoaktiven Substanzen, bei denen man mit der Zeit mehr braucht für die gleiche Wirkung, ist es bei Kava **umgekehrt**. Viele Neulinge spüren beim ersten Mal wenig oder nichts. Nach mehreren Sitzungen (typischerweise 3-7 Tage regelmäßigen Konsums) \"öffnet\" sich der Körper für Kavalactone, und die Wirkung wird deutlich stärker. Die genauen Mechanismen sind noch nicht vollständig verstanden, könnten aber mit der Anreicherung von Kavalactonen im Fettgewebe oder einer Sensibilisierung der Rezeptoren zusammenhängen.",
+      "relatedTerms": ["Kavalactone", "Dosierung"],
+      "relatedLinks": [
+        { "label": "Kognitive Effekte", "href": "/de/wirkung/kognition" },
+        { "label": "Dosierungsrechner", "href": "/de/zubereitung/rechner" }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxiolyse",
+      "germanTerm": "Angstlösung",
+      "shortDefinition": "Die angstlösende Wirkung von Kava",
+      "fullExplanation": "Anxiolyse bezeichnet die **angstlösende Wirkung** einer Substanz. Kava ist eine der wenigen pflanzlichen Substanzen mit **Level-1-Evidenz** für anxiolytische Wirkung (Cochrane Review). Die Anxiolyse erfolgt hauptsächlich durch Modulation von GABA-Rezeptoren und Beeinflussung des limbischen Systems. Im Gegensatz zu Benzodiazepinen verursacht Kava dabei **keine kognitive Beeinträchtigung, keine Abhängigkeit und keine Sedierung** in niedrigen bis mittleren Dosen.",
+      "relatedTerms": ["GABA", "Kavain", "Kavalactone"],
+      "relatedLinks": [
+        { "label": "Angstlösende Wirkung", "href": "/de/wirkung/angst" },
+        { "label": "Wissenschaftliche Studien", "href": "/de/studien" }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Zustand tiefer Kava-Entspannung",
+      "fullExplanation": "\"Krunk\" ist ein umgangssprachlicher Begriff in der Kava-Community für den Zustand **tiefer Entspannung und Wohlbefinden** nach dem Konsum einer ausreichenden Menge Kava. Der Begriff leitet sich möglicherweise von \"drunk\" ab, beschreibt aber einen anderen Zustand: **klarer Geist bei entspanntem Körper**. Typische Anzeichen sind ein Gefühl von Frieden, Muskelentspannung, leichte Euphorie und soziale Offenheit – ohne die Beeinträchtigungen von Alkohol.",
+      "relatedTerms": ["Shell", "Grog"],
+      "relatedLinks": [
+        { "label": "Wirkung", "href": "/de/wirkung" }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Muskelentspannung",
+      "shortDefinition": "Körperliche Entspannungswirkung von Kava",
+      "fullExplanation": "Die **muskelentspannende Wirkung** von Kava ist einer der am deutlichsten spürbaren Effekte. Sie wird hauptsächlich durch DHK (Dihydrokavain) vermittelt, das auf Natriumkanäle in Muskelzellen wirkt. Diese Entspannung ist **nicht mit Schwäche oder Koordinationsproblemen** verbunden – man fühlt sich entspannt, aber nicht beeinträchtigt. Kava wird daher bei Verspannungen, Stress-bedingten Muskelproblemen und als natürliche Alternative zu Muskelrelaxantien geschätzt.",
+      "relatedTerms": ["DHK", "Heavy", "Kavalactone"],
+      "relatedLinks": [
+        { "label": "Muskelentspannung", "href": "/de/wirkung/muskel" }
+      ]
+    },
+    "euphorie": {
+      "term": "Euphorie",
+      "shortDefinition": "Gehobene Stimmung durch Kava",
+      "fullExplanation": "Kava kann eine **milde bis moderate Euphorie** erzeugen, besonders bei Heady-Sorten mit hohem Kavain-Gehalt. Diese Euphorie unterscheidet sich von der durch Alkohol oder andere Substanzen: Sie ist **klar, sozial und nicht enthemmend**. Die Stimmungsaufhellung wird durch die Wirkung von Kavain und DMY auf Dopamin- und Serotonin-Systeme vermittelt. Heady-Sorten wie Kelai, Moi und Pouni Ono sind für ihre euphorisierenden Eigenschaften bekannt.",
+      "relatedTerms": ["Heady", "Kavain", "DMY"],
+      "relatedLinks": [
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" }
+      ]
+    },
+    "sedierung": {
+      "term": "Sedierung",
+      "shortDefinition": "Beruhigende, schlaffördernde Wirkung",
+      "fullExplanation": "Sedierung bezeichnet die **beruhigende und schlaffördernde Wirkung** von Kava, die besonders bei Heavy-Sorten ausgeprägt ist. Sie wird hauptsächlich durch DHM, DHK und Methysticin vermittelt. In niedrigen bis mittleren Dosen ist Kava **nicht sedierend** und erhält die mentale Klarheit. In höheren Dosen oder bei Heavy-Sorten kann jedoch eine deutliche Müdigkeit eintreten. Dies macht Kava zu einer natürlichen Option bei Schlafproblemen.",
+      "relatedTerms": ["Heavy", "DHM", "Schlaf"],
+      "relatedLinks": [
+        { "label": "Schlaf & Entspannung", "href": "/de/wirkung/schlaf" }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotektiv",
+      "shortDefinition": "Schutzwirkung auf Nervenzellen",
+      "fullExplanation": "Neuroprotektive Eigenschaften bezeichnen die **Fähigkeit, Nervenzellen vor Schäden zu schützen**. Studien zeigen, dass Kavain und andere Kavalactone neuroprotektive Effekte haben können – sie schützen Neuronen vor oxidativem Stress und Exzitotoxizität. Dies könnte Kava zu einem interessanten Forschungsgegenstand für neurodegenerative Erkrankungen machen. Die neuroprotektiven Eigenschaften tragen auch dazu bei, dass Kava die kognitive Funktion nicht beeinträchtigt.",
+      "relatedTerms": ["Kavain", "Kavalactone"],
+      "relatedLinks": [
+        { "label": "Wissenschaftliche Studien", "href": "/de/studien" }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgesie",
+      "germanTerm": "Schmerzlinderung",
+      "shortDefinition": "Schmerzlindernde Wirkung von Kava",
+      "fullExplanation": "Analgesie bezeichnet die **schmerzlindernde Wirkung** einer Substanz. Kava hat milde analgetische Eigenschaften, die hauptsächlich durch DHK vermittelt werden. Die lokalanästhetische Wirkung (Taubheit im Mund) ist ein direkter Beweis für diese Eigenschaft. Kava wird traditionell bei **Kopfschmerzen, Zahnschmerzen und Muskelschmerzen** verwendet. Die Schmerzlinderung ist jedoch mild und ersetzt keine medizinische Behandlung bei starken Schmerzen.",
+      "relatedTerms": ["DHK", "Muskelentspannung"],
+      "relatedLinks": [
+        { "label": "Wirkung", "href": "/de/wirkung" }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava-Dermopathie",
+      "germanTerm": "Kava-Hautausschlag",
+      "shortDefinition": "Hautveränderung bei exzessivem Konsum",
+      "fullExplanation": "Kava-Dermopathie ist eine **reversible Hautveränderung**, die bei sehr hohem, langfristigem Kava-Konsum auftreten kann. Sie äußert sich als trockene, schuppige Haut mit einem gelblichen Farbton, besonders an Handflächen, Fußsohlen und Unterarmen. Die Ursache ist wahrscheinlich eine **Störung des Cholesterin-Stoffwechsels** in der Haut. Die Dermopathie verschwindet vollständig nach Reduzierung oder Beendigung des Konsums und ist kein Zeichen von Leberschäden.",
+      "relatedTerms": ["Sicherheit", "Dosierung"],
+      "relatedLinks": [
+        { "label": "Sicherheit", "href": "/de/sicherheit" }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Edle Kava",
+      "shortDefinition": "Hochwertige, traditionell konsumierte Kava-Sorten",
+      "fullExplanation": "Noble Kava bezeichnet **kultivierte Kava-Sorten**, die seit Jahrhunderten für den täglichen Konsum gezüchtet wurden. Sie zeichnen sich durch ein **ausgewogenes Kavalacton-Profil** aus, mit hohem Kavain-Gehalt und niedrigem Gehalt an unerwünschten Verbindungen wie Flavokavain B (FKB). Noble Sorten haben typischerweise 4 oder 2 an den ersten beiden Stellen des Chemotyps. Sie gelten als sicher für den regelmäßigen Konsum und sind die einzigen Sorten, die in Vanuatu legal exportiert werden dürfen.",
+      "relatedTerms": ["Tudei", "Chemotyp", "Flavokavain B"],
+      "relatedLinks": [
+        { "label": "Noble vs. Tudei", "href": "/de/sorten/noble-tudei" },
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "Zwei-Tage-Kava",
+      "shortDefinition": "Wilde oder minderwertige Kava-Sorten",
+      "fullExplanation": "Tudei (von \"two day\") bezeichnet **wilde oder minderwertige Kava-Sorten**, deren Wirkung und Nebenwirkungen bis zu zwei Tage anhalten können. Sie enthalten hohe Mengen an **Flavokavain B (FKB)** und **Dihydromethysticin (DHM)**, die mit Übelkeit, Kopfschmerzen und möglicherweise Lebertoxizität in Verbindung gebracht werden. Tudei-Sorten haben typischerweise 5 (DHM) an erster Stelle des Chemotyps. In Vanuatu ist der Export von Tudei-Kava **verboten**. Seriöse Händler verkaufen ausschließlich Noble Kava.",
+      "relatedTerms": ["Noble Kava", "Flavokavain B", "DHM"],
+      "relatedLinks": [
+        { "label": "Noble vs. Tudei", "href": "/de/sorten/noble-tudei" },
+        { "label": "Sicherheit", "href": "/de/sicherheit" }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Kopflastig",
+      "shortDefinition": "Kava-Sorten mit euphorischer, zerebraler Wirkung",
+      "fullExplanation": "\"Heady\" beschreibt Kava-Sorten, deren Wirkung **primär zerebral und euphorisierend** ist. Diese Sorten haben typischerweise **Kavain (4) an erster oder zweiter Stelle** des Chemotyps. Heady Kavas fördern Geselligkeit, heben die Stimmung und können leicht euphorisierend wirken, ohne stark zu sedieren. Sie eignen sich besonders für soziale Anlässe, kreative Arbeit oder den Nachmittag. Bekannte Heady-Sorten sind Kelai, Moi, Pouni Ono und Silese.",
+      "relatedTerms": ["Heavy", "Balanced", "Kavain", "Chemotyp"],
+      "relatedLinks": [
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" },
+        { "label": "Sortenvergleich", "href": "/de/sorten/vergleich" }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Körperlastig",
+      "shortDefinition": "Kava-Sorten mit stark sedierender, körperlicher Wirkung",
+      "fullExplanation": "\"Heavy\" beschreibt Kava-Sorten, deren Wirkung **primär körperlich und sedierend** ist. Diese Sorten haben typischerweise **DHK (2) oder DHM (5) an erster Stelle** des Chemotyps. Heavy Kavas entspannen die Muskeln stark, fördern den Schlaf und können sehr sedierend wirken. Sie eignen sich besonders für den Abend, bei Schlafproblemen oder zur tiefen Entspannung. Bekannte Heavy-Sorten sind Loa Waka, Hiwa, Palasa und Palarasul.",
+      "relatedTerms": ["Heady", "Balanced", "DHK", "Chemotyp"],
+      "relatedLinks": [
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" },
+        { "label": "Schlaf & Entspannung", "href": "/de/wirkung/schlaf" }
+      ]
+    },
+    "balanced": {
+      "term": "Balanced",
+      "germanTerm": "Ausgewogen",
+      "shortDefinition": "Kava-Sorten mit ausgeglichener Wirkung",
+      "fullExplanation": "\"Balanced\" beschreibt Kava-Sorten, die eine **ausgewogene Mischung aus heady und heavy Eigenschaften** bieten. Diese Sorten haben typischerweise sowohl Kavain (4) als auch DHK (2) in den vorderen Positionen des Chemotyps. Balanced Kavas bieten sowohl mentale Klarheit als auch körperliche Entspannung und sind daher **vielseitig einsetzbar** – vom Nachmittag bis zum Abend. Bekannte Balanced-Sorten sind Borogu, Melo Melo, Bir Kar und Vula Waka.",
+      "relatedTerms": ["Heady", "Heavy", "Chemotyp"],
+      "relatedLinks": [
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" },
+        { "label": "Sortenvergleich", "href": "/de/sorten/vergleich" }
+      ]
+    },
+    "kultivar": {
+      "term": "Kultivar",
+      "shortDefinition": "Gezüchtete Kava-Varietät",
+      "fullExplanation": "Ein Kultivar ist eine **durch Züchtung entstandene Pflanzenvarietät**. Bei Kava gibt es über 100 verschiedene Kultivare, die sich in Chemotyp, Wirkung, Geschmack und Wuchsform unterscheiden. Da Kava steril ist und nur vegetativ vermehrt werden kann, sind Kultivare **genetische Klone** der Mutterpflanze. Bekannte Kultivare sind Borogu, Kelai, Melo Melo, Palasa und viele mehr. Jeder Kultivar hat einen eigenen \"Fingerabdruck\" aus Kavalactonen.",
+      "relatedTerms": ["Noble Kava", "Chemotyp"],
+      "relatedLinks": [
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava aus den Hauptwurzeln",
+      "fullExplanation": "\"Waka\" bezeichnet Kava, das aus den **Hauptwurzeln (laterale Wurzeln)** der Pflanze hergestellt wird. Waka gilt als **höchste Qualitätsstufe**, da die Hauptwurzeln den höchsten Kavalacton-Gehalt haben. Der Begriff stammt aus Fiji und Tonga. Waka ist teurer als Lewena (Stammwurzel), aber potenter und geschmacklich milder. Die meisten Premium-Kavas auf dem Markt sind Waka-Qualität.",
+      "relatedTerms": ["Lewena", "Noble Kava"],
+      "relatedLinks": [
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava aus dem Wurzelstock",
+      "fullExplanation": "\"Lewena\" (auch \"Lawena\") bezeichnet Kava, das aus dem **Wurzelstock (Rhizom)** der Pflanze hergestellt wird. Lewena hat einen **niedrigeren Kavalacton-Gehalt** als Waka, ist aber auch milder im Geschmack und günstiger. Es wird oft als Einsteiger-Kava empfohlen oder für diejenigen, die eine sanftere Wirkung bevorzugen. In Fiji wird Lewena traditionell für den täglichen Konsum verwendet, während Waka für besondere Anlässe reserviert ist.",
+      "relatedTerms": ["Waka", "Noble Kava"],
+      "relatedLinks": [
+        { "label": "Sortenprofile", "href": "/de/sorten/profile" }
+      ]
+    },
+    "green-kava": {
+      "term": "Green Kava",
+      "germanTerm": "Frische Kava",
+      "shortDefinition": "Frisch geerntete, nicht getrocknete Kava",
+      "fullExplanation": "\"Green Kava\" oder \"Fresh Kava\" bezeichnet **frisch geerntete Kava-Wurzeln**, die nicht getrocknet wurden. In den pazifischen Ursprungsländern wird Kava traditionell frisch zubereitet – die Wurzeln werden geschält, zerkleinert und sofort geknetet. Frische Kava hat einen **anderen Geschmack und Wirkung** als getrocknete: oft milder, \"grüner\" im Geschmack und mit schnellerem Wirkungseintritt. Instant Kava wird aus dehydriertem Green Kava Saft hergestellt.",
+      "relatedTerms": ["Instant Kava", "Nakamal"],
+      "relatedLinks": [
+        { "label": "Kultur", "href": "/de/kultur" }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Hawaiianische Bezeichnung für Kava",
+      "fullExplanation": "'Awa ist die **hawaiianische Bezeichnung für Kava**. Hawaii hat eine eigene Kava-Tradition mit einzigartigen Kultivaren wie Moi, Hiwa, Nene und Papa Ele'ele. Hawaiianische 'Awa-Sorten sind oft besonders potent und haben charakteristische Wirkprofile. 'Awa wurde traditionell für **zeremonielle, medizinische und spirituelle Zwecke** verwendet. Die hawaiianische 'Awa-Kultur erlebt derzeit eine Renaissance mit wachsendem Interesse an traditionellen Sorten.",
+      "relatedTerms": ["Kultivar", "Noble Kava"],
+      "relatedLinks": [
+        { "label": "Geschichte", "href": "/de/geschichte" }
+      ]
+    },
+    "medium-grind": {
+      "term": "Medium Grind",
+      "germanTerm": "Mittlere Mahlung",
+      "shortDefinition": "Standard-Mahlgrad für traditionelle Zubereitung",
+      "fullExplanation": "Medium Grind ist der **Standard-Mahlgrad für Kava-Wurzelpulver**, der für die traditionelle Knetmethode und Blender-Zubereitung verwendet wird. Das Pulver hat eine **sandige bis mehlige Konsistenz** und muss durch einen Filterbeutel (75-100 Mikron) geknetet werden, um die Kavalactone zu extrahieren. Medium Grind ist günstiger als Instant/Micronized und liefert bei korrekter Zubereitung die beste Potenz. Die groben Pflanzenfasern werden herausgefiltert.",
+      "relatedTerms": ["Micronized", "Instant Kava", "Knetmethode"],
+      "relatedLinks": [
+        { "label": "Traditionelle Methode", "href": "/de/zubereitung/traditionell" },
+        { "label": "Blender-Methode", "href": "/de/zubereitung/blender" }
+      ]
+    },
+    "micronized": {
+      "term": "Micronized Kava",
+      "germanTerm": "Mikronisierte Kava",
+      "shortDefinition": "Extrem fein vermahlenes Kava ohne Filterung",
+      "fullExplanation": "Micronized Kava ist **extrem fein vermahlenes Wurzelpulver**, bei dem die groben Fasern bereits entfernt wurden. Es kann **direkt in Wasser eingerührt** werden, ohne Kneten oder Filtern. Die Partikel sind so fein, dass sie in Suspension bleiben und mitgetrunken werden. Micronized ist bequemer als Medium Grind, aber teurer und kann bei empfindlichen Mägen eher zu **Übelkeit** führen, da die Fasern mitverzehrt werden.",
+      "relatedTerms": ["Medium Grind", "Instant Kava"],
+      "relatedLinks": [
+        { "label": "Instant Kava Zubereitung", "href": "/de/zubereitung/instant" },
+        { "label": "Dosierungsrechner", "href": "/de/zubereitung/rechner" }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "Sofort-Kava",
+      "shortDefinition": "Dehydrierter Kava-Saft, sofort trinkfertig",
+      "fullExplanation": "Instant Kava ist **dehydrierter \"Green Kava\" Saft** – frischer Kava-Saft, der gefriergetrocknet oder sprühgetrocknet wurde. Es ist die **potenteste und teuerste** Form von Kava, da die Kavalactone bereits extrahiert sind. Instant Kava löst sich sofort in Wasser auf und benötigt kein Kneten oder Filtern. Die Dosierung ist deutlich geringer als bei Medium Grind (2-6g statt 20-50g). Es gilt als die \"Königsklasse\" der Kava-Zubereitung.",
+      "relatedTerms": ["Micronized", "Medium Grind", "Green Kava"],
+      "relatedLinks": [
+        { "label": "Instant Kava Zubereitung", "href": "/de/zubereitung/instant" },
+        { "label": "Dosierungsrechner", "href": "/de/zubereitung/rechner" }
+      ]
+    },
+    "knetmethode": {
+      "term": "Knetmethode",
+      "shortDefinition": "Traditionelle pazifische Zubereitungsart",
+      "fullExplanation": "Die Knetmethode ist die **traditionelle pazifische Art der Kava-Zubereitung**, die seit über 3.000 Jahren praktiziert wird. Medium Grind Pulver wird in einen Filterbeutel gegeben und in warmem Wasser (35-45°C) **10-15 Minuten geknetet und gewrungen**. Durch die mechanische Kraft werden die Kavalactone aus den Pflanzenfasern gelöst und in Wasser emulgiert. Das Ergebnis ist ein milchig-brauner \"Grog\". Diese Methode liefert die **beste Extraktion und Potenz**.",
+      "relatedTerms": ["Medium Grind", "Grog", "Bilo"],
+      "relatedLinks": [
+        { "label": "Traditionelle Methode", "href": "/de/zubereitung/traditionell" },
+        { "label": "Zubereitung Übersicht", "href": "/de/zubereitung" }
+      ]
+    },
+    "second-wash": {
+      "term": "Second Wash",
+      "germanTerm": "Zweiter Aufguss",
+      "shortDefinition": "Wiederverwendung des Kava-Pulvers",
+      "fullExplanation": "Der \"Second Wash\" bezeichnet die **Wiederverwendung des bereits gekneteten Kava-Pulvers** für einen zweiten Durchgang. Nach dem ersten Kneten enthält das Pulver noch etwa **30-50% der ursprünglichen Kavalactone**. Der zweite Aufguss ist schwächer, aber immer noch wirksam. Manche Nutzer kombinieren First und Second Wash, andere trinken sie separat. Ein dritter Aufguss lohnt sich meist nicht mehr.",
+      "relatedTerms": ["Knetmethode", "Medium Grind"],
+      "relatedLinks": [
+        { "label": "Traditionelle Methode", "href": "/de/zubereitung/traditionell" }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Strainer Bag",
+      "germanTerm": "Filterbeutel",
+      "shortDefinition": "Beutel zum Filtern von Kava",
+      "fullExplanation": "Ein Strainer Bag ist ein **Filterbeutel aus Nylon oder Baumwolle**, der zum Kneten und Filtern von Kava verwendet wird. Die ideale Maschenweite liegt bei **75-100 Mikron** – fein genug, um Pflanzenfasern zurückzuhalten, aber durchlässig genug für die Kavalacton-Emulsion. Strainer Bags sind wiederverwendbar und sollten nach jeder Nutzung ausgespült und getrocknet werden. Sie sind ein unverzichtbares Werkzeug für die traditionelle Zubereitung.",
+      "relatedTerms": ["Knetmethode", "Medium Grind"],
+      "relatedLinks": [
+        { "label": "Traditionelle Methode", "href": "/de/zubereitung/traditionell" }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "Eine Portion Kava-Getränk",
+      "fullExplanation": "\"Shell\" ist die gängige Bezeichnung für **eine Portion Kava-Getränk**, typischerweise 100-150ml. Der Begriff stammt von der traditionellen Kokosnussschale (Bilo), aus der Kava getrunken wird. In Kava-Bars bestellt man \"Shells\" – eine Session besteht oft aus 3-6 Shells über mehrere Stunden. Die Dosierung pro Shell variiert je nach Stärke des Grog und persönlicher Präferenz. \"One more shell\" ist ein häufiger Ausruf in der Kava-Community.",
+      "relatedTerms": ["Bilo", "Grog", "Krunk"],
+      "relatedLinks": [
+        { "label": "Dosierungsrechner", "href": "/de/zubereitung/rechner" }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Modernes Kava-Zubereitungsgerät",
+      "fullExplanation": "Der AluBall ist ein **modernes Kava-Zubereitungsgerät**, das die traditionelle Knetmethode vereinfacht. Es besteht aus einer Shaker-Flasche mit einem speziellen Siebball. Medium Grind Pulver wird in den Ball gegeben, Wasser hinzugefügt und 2-3 Minuten geschüttelt. Die Extraktion ist schneller als traditionelles Kneten, aber möglicherweise weniger effizient. Der AluBall ist beliebt für **unterwegs und bei Einsteigern**, die eine einfache Zubereitung bevorzugen.",
+      "relatedTerms": ["Knetmethode", "Medium Grind"],
+      "relatedLinks": [
+        { "label": "Zubereitung Übersicht", "href": "/de/zubereitung" }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "Das fertige Kava-Getränk",
+      "fullExplanation": "\"Grog\" ist die umgangssprachliche Bezeichnung für das **fertige Kava-Getränk**, besonders in Vanuatu und Fiji. Der Name stammt aus der Kolonialzeit und wurde von der britischen Marine übernommen. Traditioneller Kava-Grog hat eine **milchig-braune Farbe** (wie Milchkaffee) und einen erdigen, leicht pfeffrigen Geschmack. In Kava-Bars wird Grog oft in Kokosnussschalen (Bilos) serviert und in einem Zug getrunken.",
+      "relatedTerms": ["Bilo", "Nakamal", "Knetmethode"],
+      "relatedLinks": [
+        { "label": "Kultur", "href": "/de/kultur" },
+        { "label": "Zubereitung", "href": "/de/zubereitung" }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Traditionelle Kokosnussschale zum Trinken",
+      "fullExplanation": "Ein Bilo ist eine **halbe Kokosnussschale**, die traditionell zum Servieren und Trinken von Kava verwendet wird. In Fiji und anderen pazifischen Kulturen ist das Trinken aus dem Bilo Teil des **zeremoniellen Rituals**. Vor dem Trinken klatscht man einmal in die Hände, sagt \"Bula!\" (Fiji) oder \"Mālō!\" (Tonga), trinkt den Inhalt in einem Zug und klatscht dann dreimal. Moderne Kava-Enthusiasten verwenden Bilos für ein authentisches Erlebnis.",
+      "relatedTerms": ["Grog", "Nakamal", "Tanoa"],
+      "relatedLinks": [
+        { "label": "Kultur", "href": "/de/kultur" },
+        { "label": "Geschichte", "href": "/de/geschichte" }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Traditionelle Kava-Bar in Vanuatu",
+      "fullExplanation": "Ein Nakamal ist eine **traditionelle Kava-Bar in Vanuatu**, wo Einheimische und Touristen zusammenkommen, um Kava zu trinken. Ursprünglich bezeichnete der Begriff den Versammlungsort der Männer im Dorf. Moderne Nakamals sind oft einfache Hütten oder offene Bereiche mit Bänken. Kava wird frisch zubereitet und in Schalen serviert. Es gibt strenge **soziale Regeln**: Man spricht leise, verhält sich respektvoll und trinkt in der Dämmerung. Nakamals sind wichtige soziale Treffpunkte.",
+      "relatedTerms": ["Grog", "Bilo", "Vanuatu"],
+      "relatedLinks": [
+        { "label": "Kultur", "href": "/de/kultur" },
+        { "label": "Geschichte", "href": "/de/geschichte/urspruenge" }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Traditionelle Kava-Schüssel aus Holz",
+      "fullExplanation": "Eine Tanoa ist eine **große, flache Holzschüssel**, in der Kava traditionell zubereitet und serviert wird. Sie ist typisch für Fiji, Samoa und Tonga und wird aus einem einzigen Stück Holz geschnitzt, oft mit geschnitzten Beinen. Die Tanoa ist das **Zentrum der Kava-Zeremonie** – der Grog wird darin gemischt und mit einem Bilo an die Teilnehmer verteilt. Hochwertige Tanoas sind Kunstwerke und werden als Familienerbstücke weitergegeben.",
+      "relatedTerms": ["Bilo", "Grog", "Zeremonie"],
+      "relatedLinks": [
+        { "label": "Kultur", "href": "/de/kultur" }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Fijianischer Gruß beim Kava-Trinken",
+      "fullExplanation": "\"Bula!\" ist der **traditionelle fijianische Gruß**, der vor dem Trinken einer Shell Kava ausgerufen wird. Das Wort bedeutet \"Leben\" und drückt gute Wünsche aus. Das Ritual: Einmal klatschen, \"Bula!\" rufen, die Shell in einem Zug leeren, dreimal klatschen. In anderen pazifischen Kulturen gibt es ähnliche Rufe: \"Mālō!\" in Tonga, \"Taki!\" in Vanuatu. Diese Rituale schaffen **Gemeinschaft und Respekt** und sind ein wichtiger Teil der Kava-Kultur.",
+      "relatedTerms": ["Bilo", "Shell", "Nakamal"],
+      "relatedLinks": [
+        { "label": "Kultur", "href": "/de/kultur" }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Potenziell lebertoxische Verbindung in Tudei-Kava",
+      "fullExplanation": "Flavokavain B (FKB) ist ein **Chalkon**, das in höheren Konzentrationen in Tudei-Kava und den oberirdischen Pflanzenteilen (Stängel, Blätter) vorkommt. Es wird mit **potenzieller Lebertoxizität** in Verbindung gebracht und könnte für einige der historischen Leberschäden verantwortlich sein. Noble Kava-Sorten haben **sehr niedrige FKB-Gehalte**. Dies ist einer der Hauptgründe, warum nur Noble Kava für den Konsum empfohlen wird und Tudei-Kava in Vanuatu für den Export verboten ist.",
+      "relatedTerms": ["Tudei", "Noble Kava", "Lebersicherheit"],
+      "relatedLinks": [
+        { "label": "Lebersicherheit", "href": "/de/sicherheit/leber" },
+        { "label": "Noble vs. Tudei", "href": "/de/sorten/noble-tudei" }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Cytochrom P450",
+      "shortDefinition": "Leberenzyme für den Medikamentenabbau",
+      "fullExplanation": "CYP450 (Cytochrom P450) ist eine **Familie von Leberenzymen**, die für den Abbau der meisten Medikamente verantwortlich sind. Kavalactone können bestimmte CYP450-Enzyme **hemmen**, insbesondere CYP2C9, CYP2C19 und CYP3A4. Dies kann den Abbau von Medikamenten verlangsamen und deren Wirkung verstärken. Daher sollte Kava **nicht mit Medikamenten kombiniert** werden, die über diese Enzyme abgebaut werden – insbesondere Benzodiazepine, Antidepressiva und Blutdruckmedikamente.",
+      "relatedTerms": ["Wechselwirkungen", "Lebersicherheit"],
+      "relatedLinks": [
+        { "label": "Wechselwirkungen", "href": "/de/sicherheit/wechselwirkungen" },
+        { "label": "Wechselwirkungs-Checker", "href": "/de/sicherheit/checker" }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Lebersicherheit",
+      "shortDefinition": "Kava und die Leber – Fakten und Mythen",
+      "fullExplanation": "Die Frage der **Lebersicherheit** von Kava war lange umstritten. In den frühen 2000er Jahren führten Berichte über Leberschäden zu Verboten in mehreren Ländern. Spätere Untersuchungen zeigten jedoch, dass die meisten Fälle auf **Tudei-Kava, Extrakte aus oberirdischen Pflanzenteilen oder Vorerkrankungen** zurückzuführen waren. Noble Kava, traditionell zubereitet, gilt als sicher. Die WHO bestätigte 2016, dass \"traditionell zubereitete Kava-Getränke ein akzeptables Sicherheitsprofil haben\".",
+      "relatedTerms": ["Noble Kava", "Tudei", "Flavokavain B"],
+      "relatedLinks": [
+        { "label": "Lebersicherheit", "href": "/de/sicherheit/leber" },
+        { "label": "Wissenschaftliche Studien", "href": "/de/studien" }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Wechselwirkungen",
+      "shortDefinition": "Interaktionen von Kava mit anderen Substanzen",
+      "fullExplanation": "Kava kann **Wechselwirkungen mit verschiedenen Substanzen** haben. Die wichtigsten zu vermeidenden Kombinationen sind: **Alkohol** (verstärkte Lebertoxizität), **Benzodiazepine und Schlafmittel** (verstärkte Sedierung), **Antidepressiva** (CYP450-Interaktionen), **Parkinson-Medikamente** (Dopamin-Interaktionen). Auch andere ZNS-dämpfende Substanzen sollten gemieden werden. Bei regelmäßiger Medikamenteneinnahme sollte vor dem Kava-Konsum ein Arzt konsultiert werden.",
+      "relatedTerms": ["CYP450", "Lebersicherheit"],
+      "relatedLinks": [
+        { "label": "Wechselwirkungen", "href": "/de/sicherheit/wechselwirkungen" },
+        { "label": "Wechselwirkungs-Checker", "href": "/de/sicherheit/checker" }
+      ]
+    },
+    "dosierung": {
+      "term": "Dosierung",
+      "shortDefinition": "Richtige Menge für sicheren Konsum",
+      "fullExplanation": "Die richtige **Dosierung** von Kava hängt von mehreren Faktoren ab: Körpergewicht, Erfahrung, Sorte und Zubereitungsform. Für **Medium Grind** liegt eine typische Session bei 20-50g Pulver, verteilt auf mehrere Shells. Für **Instant Kava** sind 2-6g üblich. Einsteiger sollten mit niedrigen Dosen beginnen und die **Reverse Tolerance** berücksichtigen. Die empfohlene Tageshöchstdosis liegt bei etwa 250mg Kavalactonen. Überdosierung führt zu starker Müdigkeit, aber nicht zu gefährlichen Zuständen.",
+      "relatedTerms": ["Reverse Tolerance", "Shell", "Kavalactone"],
+      "relatedLinks": [
+        { "label": "Dosierungsrechner", "href": "/de/zubereitung/rechner" }
+      ]
+    }
+  }
+}

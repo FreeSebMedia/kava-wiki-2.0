@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Lebersicherheit & Hepatotoxizität",
+    "subtitle": "Eine wissenschaftliche Analyse der Kava-Leber-Kontroverse: Fakten, Mythen und der aktuelle Forschungsstand.",
+    "category": "Sicherheit",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Sicherheit",
+      "current": "Lebersicherheit"
+    }
+  },
+  "toc": {
+    "title": "Inhalt",
+    "zusammenfassung": "Zusammenfassung",
+    "verbot2002": "Das Verbot von 2002",
+    "wasWirklichGeschah": "Was wirklich geschah",
+    "rehabilitation": "Rehabilitation & Gerichtsurteile",
+    "wissenschaft": "Die wissenschaftliche Evidenz",
+    "whoBewertung": "WHO-Bewertung 2007",
+    "emaBewertung": "EMA-Bewertung 2017",
+    "klinischeStudien": "Klinische Studien",
+    "risikofaktoren": "Identifizierte Risikofaktoren",
+    "extrakte": "Extrakt-Typen",
+    "pflanzenteile": "Pflanzenteile",
+    "genetik": "Genetische Faktoren",
+    "komedikation": "Komedikation & Alkohol",
+    "mechanismen": "Mögliche Mechanismen",
+    "empfehlungen": "Praktische Empfehlungen",
+    "quellen": "Quellen"
+  },
+  "navigation": {
+    "continueTitle": "Weiter im Kapitel Sicherheit",
+    "items": [
+      { "title": "Übersicht", "href": "/de/sicherheit", "description": "Zurück zur Sicherheits-Übersicht" },
+      { "title": "Wechselwirkungen", "href": "/de/sicherheit/wechselwirkungen", "description": "Medikamente & CYP450-Interaktionen" },
+      { "title": "Kontraindikationen", "href": "/de/sicherheit/kontraindikationen", "description": "Wann Kava gemieden werden sollte" }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Aktueller wissenschaftlicher Konsens",
+    "intro": "Nach umfassenden Analysen durch WHO, EMA und unabhängige Forscher gilt:",
+    "points": [
+      "Traditionell zubereiteter Kava aus Noble-Sorten ist bei sachgemäßer Anwendung <strong>sicher</strong>",
+      "Schwere Leberschäden sind <strong>extrem selten</strong> (geschätzte Inzidenz: 1:60.000 bis 1:1.000.000)",
+      "Die meisten Fallberichte wiesen <strong>erhebliche Qualitätsmängel</strong> in der Kausalitätsbewertung auf",
+      "Das EU-Verbot von 2002 wurde von deutschen Gerichten als <strong>unverhältnismäßig</strong> eingestuft"
+    ]
+  },
+  "verbot2002": {
+    "title": "Das Verbot von 2002",
+    "intro": "Im Jahr 2002 wurde Kava in Deutschland und vielen anderen europäischen Ländern vom Markt genommen. Das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) widerrief die Zulassungen für Kava-haltige Arzneimittel, nachdem Berichte über schwere Leberschäden eingegangen waren. Diese Entscheidung hatte weitreichende Folgen für den globalen Kava-Markt und die pazifischen Erzeugerländer.",
+    "chronologie": {
+      "title": "Chronologie der Ereignisse",
+      "note": "Für detaillierte Informationen zum aktuellen Rechtsstatus in verschiedenen Ländern siehe",
+      "linkText": "Rechtsstatus & Legalität",
+      "events": [
+        { "date": "1998-2001", "text": "Erste Fallberichte über Leberschäden bei Kava-Anwendern in Europa" },
+        { "date": "Nov 2001", "text": "BfArM ordnet Stufenplan-Verfahren an" },
+        { "date": "Jun 2002", "text": "Widerruf der Zulassungen in Deutschland" },
+        { "date": "2002-2003", "text": "Verbote in UK, Frankreich, Schweiz, Kanada, Australien" },
+        { "date": "2014", "text": "Verwaltungsgericht Köln erklärt Verbot für rechtswidrig" },
+        { "date": "2015", "text": "OVG Münster bestätigt: Verbot war unverhältnismäßig" },
+        { "date": "2019", "text": "Widerruf der Arzneimittelzulassungen endgültig aufgehoben" }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Was wirklich geschah: Eine kritische Analyse",
+    "intro": "Die ursprünglichen Fallberichte, die zum Verbot führten, wurden in den folgenden Jahren intensiv wissenschaftlich untersucht. Dabei zeigten sich erhebliche methodische Mängel:",
+    "probleme": {
+      "title": "Probleme der Fallberichte",
+      "items": [
+        "Unvollständige Dokumentation in über 50% der Fälle",
+        "Keine standardisierte Kausalitätsbewertung (RUCAM)",
+        "Komedikation mit hepatotoxischen Substanzen ignoriert",
+        "Alkoholkonsum oft nicht dokumentiert",
+        "Produktqualität und Pflanzenteile unklar"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Spätere Erkenntnisse",
+      "items": [
+        "Viele Produkte enthielten oberirdische Pflanzenteile",
+        "Acetonische Extrakte zeigten höheres Risiko als wässrige",
+        "Tudei-Kava wurde teilweise als Noble verkauft",
+        "Schimmelkontamination in einigen Produkten nachgewiesen",
+        "Genetische Polymorphismen als Risikofaktor identifiziert"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Rehabilitation durch die Gerichte",
+    "intro": "Nach jahrelangen Rechtsstreitigkeiten kamen deutsche Gerichte zu einem eindeutigen Ergebnis. Das Verwaltungsgericht Köln und später das Oberverwaltungsgericht Münster stellten fest, dass das Verbot <strong>unverhältnismäßig</strong> war und die Behörden die wissenschaftliche Evidenz nicht korrekt bewertet hatten.",
+    "quote": "\"Die vom BfArM angenommene Kausalität zwischen der Einnahme von Kava-Kava-haltigen Arzneimitteln und den aufgetretenen Leberschäden ist nicht hinreichend belegt. Die Risiko-Nutzen-Abwägung wurde fehlerhaft durchgeführt.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "Die wissenschaftliche Evidenz",
+    "intro": "Nach dem Verbot wurden mehrere umfassende wissenschaftliche Bewertungen durchgeführt, die ein differenzierteres Bild der Kava-Sicherheit zeichnen."
+  },
+  "whoBewertung": {
+    "title": "WHO-Bewertung 2007",
+    "intro": "Die Weltgesundheitsorganisation (WHO) führte 2007 eine umfassende Analyse aller verfügbaren Fallberichte durch. Das Ergebnis war aufschlussreich:",
+    "analysisTitle": "WHO-Analyse von 93 Fallberichten",
+    "cases": [
+      { "count": "8", "label": "Fälle \"wahrscheinlich\" kausal", "color": "primary" },
+      { "count": "53", "label": "Fälle \"möglich\" kausal", "color": "amber" },
+      { "count": "32", "label": "Fälle nicht bewertbar", "color": "muted" }
+    ],
+    "note": "Die WHO stellte fest, dass acetonische und ethanolische Extrakte ein höheres Risiko aufwiesen als synthetische Kavalactone, was auf nicht-Kavalacton-Bestandteile als mögliche Ursache hindeutet."
+  },
+  "emaBewertung": {
+    "title": "EMA-Bewertung 2017",
+    "intro": "Die Europäische Arzneimittel-Agentur (EMA) veröffentlichte 2017 einen 103-seitigen Bewertungsbericht, der alle verfügbaren Daten zusammenfasste:",
+    "findings": [
+      { "label": "Klinische Studien", "text": "Keine signifikante Hepatotoxizität in kontrollierten Studien" },
+      { "label": "Nebenwirkungen", "text": "Nur leichte, reversible Transaminasen-Erhöhungen bei wenigen Probanden" },
+      { "label": "Risikofaktoren", "text": "Organische Extrakte, Alkohol, vorbestehende Lebererkrankung, genetische Polymorphismen" }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Evidenz aus klinischen Studien",
+    "intro": "Ein besonders wichtiger Punkt: In kontrollierten klinischen Studien mit standardisierten Kava-Präparaten wurden <strong>keine schweren Leberschäden</strong> beobachtet. Eine systematische Übersicht von Smith & Leiras (2018) analysierte 11 randomisierte Studien und fand keine Hinweise auf Hepatotoxizität.",
+    "tableTitle": "Zusammenfassung der Studienlage",
+    "headers": ["Studie", "Teilnehmer", "Dauer", "Leberschäden"],
+    "studies": [
+      { "study": "Sarris et al. (2013)", "participants": "75", "duration": "6 Wochen", "result": "Keine" },
+      { "study": "Boerner et al. (2003)", "participants": "129", "duration": "8 Wochen", "result": "Keine*" },
+      { "study": "Lehrl (2004)", "participants": "40", "duration": "4 Wochen", "result": "Keine" },
+      { "study": "Cochrane Review (2003)", "participants": "645 (7 Studien)", "duration": "1-24 Wochen", "result": "Keine" }
+    ],
+    "footnote": "*Leichte Transaminasen-Erhöhungen bei 2 Probanden, einer hatte bereits erhöhte Ausgangswerte"
+  },
+  "risikofaktoren": {
+    "title": "Identifizierte Risikofaktoren",
+    "intro": "Die wissenschaftliche Forschung hat mehrere Faktoren identifiziert, die das Risiko für hepatische Nebenwirkungen erhöhen können. Das Verständnis dieser Faktoren ermöglicht eine sichere Anwendung."
+  },
+  "extrakte": {
+    "title": "Extrakt-Typen: Wässrig vs. Organisch",
+    "intro": "Ein zentraler Befund der WHO-Analyse war der Unterschied zwischen verschiedenen Extraktionsverfahren:",
+    "waessrig": {
+      "title": "Wässrige Extrakte (traditionell)",
+      "items": [
+        "Traditionelle Zubereitungsmethode",
+        "Extrahiert primär Kavalactone",
+        "Enthält schützende Glutathione",
+        "Keine dokumentierte Hepatotoxizität in Pazifik-Bevölkerungen",
+        "Von FAO/WHO als sicher eingestuft"
+      ]
+    },
+    "organisch": {
+      "title": "Organische Extrakte (acetonisch/ethanolisch)",
+      "items": [
+        "Industrielle Extraktionsmethode",
+        "Höhere Kavalacton-Konzentration",
+        "Extrahiert auch Flavokavine",
+        "Glutathion wird nicht extrahiert",
+        "Höheres Risiko in WHO-Analyse"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Pflanzenteile: Wurzel vs. oberirdische Teile",
+    "intro": "Die Verwendung verschiedener Pflanzenteile hat erhebliche Auswirkungen auf die Sicherheit:",
+    "tableTitle": "Pipermethystin-Gehalt nach Pflanzenteil",
+    "headers": ["Pflanzenteil", "Pipermethystin", "Sicherheit"],
+    "rows": [
+      { "part": "Wurzel/Rhizom", "content": "Nicht nachweisbar", "safety": "Sicher", "color": "primary" },
+      { "part": "Stängelschalen", "content": "Bis zu 0,85%", "safety": "Problematisch", "color": "amber" },
+      { "part": "Blätter", "content": "Ca. 0,2%", "safety": "Toxisch", "color": "destructive" }
+    ],
+    "note": "Pipermethystin ist ein Alkaloid, das in vitro stark zytotoxisch wirkt und die Mitochondrienfunktion stört (Nerurkar et al., 2004). Es kommt ausschließlich in oberirdischen Pflanzenteilen vor."
+  },
+  "genetik": {
+    "title": "Genetische Faktoren: CYP2D6-Polymorphismen",
+    "intro": "Kavalactone werden primär über das Cytochrom-P450-Enzymsystem metabolisiert, insbesondere über CYP2D6. Genetische Varianten dieses Enzyms können die Metabolisierungsrate erheblich beeinflussen:",
+    "factors": [
+      { "label": "Poor Metabolizers (PM)", "text": "Ca. 5-10% der Europäer haben eine reduzierte CYP2D6-Aktivität, was zu höheren Kavalacton-Spiegeln führen kann" },
+      { "label": "Idiosynkratische Reaktionen", "text": "Einige Fälle könnten auf immunvermittelte Mechanismen zurückzuführen sein" }
+    ]
+  },
+  "komedikation": {
+    "title": "Komedikation & Alkohol",
+    "warning": {
+      "title": "Kritischer Risikofaktor",
+      "text": "Die Kombination von Kava mit Alkohol oder hepatotoxischen Medikamenten erhöht das Risiko für Leberschäden erheblich. In vielen der ursprünglichen Fallberichte war Alkoholkonsum dokumentiert oder nicht ausgeschlossen."
+    },
+    "intro": "Die WHO identifizierte folgende Komedikationen als besonders problematisch:",
+    "items": [
+      "Alkohol (synergistische Hepatotoxizität)",
+      "Paracetamol/Acetaminophen (hepatotoxisch)",
+      "Benzodiazepine (CYP-Interaktion)",
+      "Antipsychotika (CYP-Interaktion)",
+      "Statine (hepatotoxisches Potenzial)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Mögliche Mechanismen der Hepatotoxizität",
+    "intro": "Die genauen Mechanismen, durch die Kava in seltenen Fällen Leberschäden verursachen kann, sind noch nicht vollständig geklärt. Mehrere Hypothesen werden diskutiert:",
+    "hypotheses": [
+      {
+        "title": "1. Chinon-Metabolite",
+        "text": "Kavain und Dihydrokavain können zu reaktiven Chinon-Metaboliten oxidiert werden, die mit zellulären Proteinen reagieren und oxidativen Stress verursachen können (Johnson et al., 2003). Glutathion kann diese Metabolite neutralisieren – ein möglicher Grund, warum wässrige Extrakte (die Glutathion enthalten) sicherer sind."
+      },
+      {
+        "title": "2. Flavokavine",
+        "text": "Flavokavin B zeigt in vitro Zytotoxizität und kann Apoptose in Hepatozyten induzieren. Organische Extrakte enthalten höhere Konzentrationen von Flavokavinen als wässrige Zubereitungen."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Dieses Alkaloid aus oberirdischen Pflanzenteilen ist stark hepatotoxisch und stört die mitochondriale Funktion. Es kommt nicht in der Wurzel vor, kann aber durch Kontamination in Produkte gelangen."
+      },
+      {
+        "title": "4. Idiosynkratische Reaktionen",
+        "text": "Einige Fälle könnten auf immunvermittelte, idiosynkratische Reaktionen zurückzuführen sein, die unabhängig von der Dosis auftreten und genetisch bedingt sind."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktische Empfehlungen für sicheren Konsum",
+    "intro": "Basierend auf der wissenschaftlichen Evidenz lassen sich klare Empfehlungen für einen sicheren Kava-Konsum ableiten:",
+    "checklistTitle": "Checkliste für sicheren Kava-Konsum",
+    "items": [
+      { "label": "Nur Noble-Kava verwenden", "text": "Achten Sie auf die Sortenbezeichnung und kaufen Sie bei vertrauenswürdigen Quellen" },
+      { "label": "Nur Wurzel/Rhizom verwenden", "text": "Keine Produkte mit Blättern oder Stängelschalen" },
+      { "label": "Traditionelle wässrige Zubereitung bevorzugen", "text": "Kneading oder Blender-Methode mit Wasser" },
+      { "label": "Keinen Alkohol konsumieren", "text": "Mindestens 24 Stunden vor und nach Kava-Konsum" },
+      { "label": "Medikamenten-Wechselwirkungen beachten", "text": "Siehe Wechselwirkungen" },
+      { "label": "Bei Lebererkrankungen verzichten", "text": "Siehe Kontraindikationen" },
+      { "label": "Moderate Dosierung einhalten", "text": "Nicht mehr als 250mg Kavalactone pro Tag bei regelmäßigem Konsum" }
+    ],
+    "selfObservation": {
+      "title": "Hinweis zur Selbstbeobachtung",
+      "text": "Bei ungewöhnlicher Müdigkeit, Gelbfärbung der Haut oder Augen, dunklem Urin oder hellem Stuhl sollte der Kava-Konsum sofort eingestellt und ein Arzt aufgesucht werden. Diese Symptome können auf Leberprobleme hindeuten."
+    }
+  },
+  "quellen": {
+    "title": "Quellen & weiterführende Literatur",
+    "officialReports": {
+      "title": "Offizielle Berichte",
+      "items": [
+        { "author": "WHO (2007):", "title": "Assessment of the Risk of Hepatotoxicity with Kava Products.", "source": "World Health Organization Technical Report." },
+        { "author": "FAO/WHO (2016):", "title": "Kava: A Review of the Safety of Traditional and Recreational Beverage Consumption.", "source": "FAO/WHO Technical Report." },
+        { "author": "EMA (2017):", "title": "Assessment Report on Piper methysticum G. Forst., rhizoma.", "source": "EMA/HMPC/450589/2016." }
+      ]
+    },
+    "reviews": {
+      "title": "Wissenschaftliche Übersichtsarbeiten",
+      "items": [
+        { "author": "Teschke R. (2010):", "title": "Kava hepatotoxicity - a clinical review.", "source": "Annals of Hepatology." },
+        { "author": "Teschke R., Lebot V. (2011):", "title": "Kava hepatotoxicity in traditional and modern use.", "source": "British Journal of Clinical Pharmacology." },
+        { "author": "Sarris J. et al. (2011):", "title": "Kava: a comprehensive review of efficacy, safety, and psychopharmacology.", "source": "Australian & New Zealand Journal of Psychiatry." }
+      ]
+    },
+    "moreStudies": "Eine vollständige Liste aller zitierten Studien finden Sie auf unserer",
+    "studiesLink": "Studien-Seite"
+  }
+}

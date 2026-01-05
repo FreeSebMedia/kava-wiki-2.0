@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Zubereitung & Anwendung",
+    "subtitle": "Vom Pulver zum Getränk: Wie man Kava richtig zubereitet, um die maximale Wirkung und den besten Geschmack zu erzielen.",
+    "category": "Zubereitung"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "current": "Zubereitung"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "grundlagen", "title": "Grundlagen der Extraktion", "level": 1 },
+      { "id": "traditionell", "title": "Traditionelle Methode (Kneten)", "level": 1 },
+      { "id": "blender", "title": "Mixer-Methode (Blender)", "level": 1 },
+      { "id": "shaker", "title": "Shaker-Methode (Aluball)", "level": 1 },
+      { "id": "instant", "title": "Instant & Micronized", "level": 1 },
+      { "id": "tipps", "title": "Pro-Tipps für beste Wirkung", "level": 1 }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kavalactone sind <strong>nicht wasserlöslich</strong>, sondern fettlöslich. Sie haften jedoch mechanisch an den Stärkepartikeln der Wurzel.",
+      "text": "Das Ziel jeder Zubereitung ist es daher, diese Partikel durch mechanische Kraft (Kneten, Mixen) aus den Pflanzenfasern zu lösen und in Wasser zu emulgieren. Eine reine \"Tee-Zubereitung\" (nur heißes Wasser aufgießen) funktioniert bei Kava <strong>nicht</strong> effektiv!"
+    },
+    "traditionell": {
+      "title": "Traditionelle Methode (Kneten)",
+      "intro": "Dies ist die beste Methode für maximale Potenz und ein authentisches Erlebnis.",
+      "materialsTitle": "Was Sie brauchen:",
+      "materials": [
+        "Kava-Wurzelpulver (Medium Grind)",
+        "Einen Filterbeutel (Nussmilchbeutel, 75-100 Mikron)",
+        "Eine Schüssel mit warmem (nicht kochendem!) Wasser",
+        "Optional: Ein Schuss Milch oder Kokosmilch (Fett hilft bei der Extraktion)"
+      ],
+      "instructionsTitle": "Anleitung:",
+      "instructions": [
+        "Geben Sie das Pulver in den Filterbeutel (ca. 30-40g pro 500ml Wasser).",
+        "Tauchen Sie den Beutel in das Wasser und lassen Sie ihn kurz einweichen.",
+        "<strong>Kneten und Wringen:</strong> Kneten Sie den Beutel unter Wasser kräftig für 10-15 Minuten. Wringen Sie ihn immer wieder aus. Das Wasser sollte sich milchig-braun färben (\"Grog\").",
+        "Drücken Sie den Beutel ein letztes Mal fest aus.",
+        "Servieren Sie den Kava in Schalen (Shells). Trinken Sie zügig (\"Chug\"), nicht nippen!"
+      ]
+    },
+    "blender": {
+      "title": "Mixer-Methode (Blender)",
+      "intro": "Schneller und oft stärker, aber der Geschmack kann etwas bitterer sein, da mehr Pflanzenstoffe zerkleinert werden.",
+      "instructions": [
+        "Wasser, Kava-Pulver und einen Teelöffel Öl/Fett in einen Standmixer geben.",
+        "Auf hoher Stufe für 3-4 Minuten mixen.",
+        "Die Flüssigkeit durch einen Filterbeutel oder ein feines Sieb in eine Schüssel gießen.",
+        "Die Pflanzenreste im Filter gut ausdrücken."
+      ]
+    },
+    "shaker": {
+      "title": "Shaker-Methode (Aluball)",
+      "intro": "Die modernste und schnellste Methode, ideal für unterwegs.",
+      "text": "Man verwendet spezielle Shaker-Flaschen mit einer Kugel (Aluball), die ein Metallsieb enthält.",
+      "instructions": [
+        "Kava in die Siebkugel füllen.",
+        "Wasser in die Flasche füllen.",
+        "Kugel hineingeben und 1-2 Minuten kräftig schütteln.",
+        "Fertig!"
+      ],
+      "note": "Hinweis: Diese Methode ist oft etwas weniger potent als das traditionelle Kneten, aber sehr bequem."
+    },
+    "instant": {
+      "title": "Instant & Micronized",
+      "intro": "Für alle, die gar keinen Aufwand wollen.",
+      "items": [
+        {
+          "name": "Instant Kava",
+          "description": "Dehydrierter \"Green Kava Saft\". Sehr potent, sehr teuer, löst sich sofort in Wasser. Die \"Königsklasse\"."
+        },
+        {
+          "name": "Micronized Kava",
+          "description": "Extrem fein vermahlenes Wurzelpulver, bei dem die groben Fasern entfernt wurden. Man trinkt es einfach mit. Kann bei empfindlichen Mägen eher zu Übelkeit führen als gefilterter Kava."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Pro-Tipps für beste Wirkung",
+      "alert": {
+        "title": "Die Goldene Regel",
+        "text": "Trinken Sie Kava immer auf <strong>nüchternen Magen</strong> (mindestens 3-4 Stunden nach der letzten Mahlzeit). Die Wirkung ist sonst deutlich schwächer!"
+      },
+      "tips": [
+        {
+          "name": "Reverse Tolerance",
+          "text": "Viele Menschen spüren beim ersten Mal wenig. Der Körper muss sich erst an die Kavalactone \"gewöhnen\". Trinken Sie es ein paar Tage hintereinander."
+        },
+        {
+          "name": "Der \"Chaser\"",
+          "text": "Kava schmeckt erdig und bitter. Halten Sie ein Stück Obst (Ananas, Orange) bereit, um direkt nach dem Trinken hineinzubeißen."
+        },
+        {
+          "name": "Fettquelle",
+          "text": "Essen Sie nach der Kava-Session eine kleine, fetthaltige Mahlzeit (z.B. Pizza, Curry). Dies kann eine zweite Welle der Wirkung auslösen."
+        }
+      ]
+    }
+  }
+}

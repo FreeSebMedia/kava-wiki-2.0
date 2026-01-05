@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "title": "Sorten aus Fiji, Tonga & Hawaii",
+    "subtitle": "Regionale Kava-Spezialitäten aus dem gesamten Pazifik: Von Fijis Yaqona bis zu Hawaiis 'Awa.",
+    "category": "Sorten"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Sorten",
+    "current": "Pazifik"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "fiji", "title": "Fiji – Yaqona", "level": 1 },
+      { "id": "loa-waka", "title": "Loa Waka", "level": 2 },
+      { "id": "tonga", "title": "Tonga – Alle Noble", "level": 1 },
+      { "id": "pouni-ono", "title": "Pouni Ono", "level": 2 },
+      { "id": "hawaii", "title": "Hawaii – 'Awa", "level": 1 },
+      { "id": "moi", "title": "Moi", "level": 2 },
+      { "id": "samoa", "title": "Samoa – 'Ava", "level": 1 },
+      { "id": "andere", "title": "Andere Regionen", "level": 1 }
+    ]
+  },
+  "ui": {
+    "origin": "Herkunft",
+    "type": "Typ",
+    "composition": "Zusammensetzung",
+    "duration": "Wirkdauer",
+    "effectProfile": "Wirkungsprofil",
+    "recommendedFor": "Empfohlen für:",
+    "variety": "Sorte",
+    "speciality": "Besonderheit"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\">In <strong>Fiji</strong> ist Kava unter dem Namen <strong>Yaqona</strong> (ausgesprochen \"Yang-gona\") bekannt und gilt als offizielles Nationalgetränk. Der Name bedeutet \"bitter\" und bezieht sich auf den charakteristischen Geschmack. Ein zweiter Name, <strong>Malogu</strong>, bedeutet \"beruhigen\" und beschreibt die Wirkung.</p><p>Fiji hat <strong>13 dokumentierte Kava-Sorten</strong> und ist bekannt für seine hochwertige Verarbeitung. Besonders geschätzt wird <strong>Waka</strong> – Kava, der ausschließlich aus den Seitenwurzeln (nicht dem Wurzelstock) hergestellt wird und als potenter gilt.</p>",
+    "varieties": [
+      { "name": "Loa Waka", "type": "Heavy", "speciality": "Sehr potent, stark sedierend" },
+      { "name": "Vula Waka", "type": "Balanced", "speciality": "Ausgewogen, vielseitig" },
+      { "name": "Qila Balavu", "type": "Heavy", "speciality": "Lang anhaltend" },
+      { "name": "Matakaro Balavu", "type": "Balanced", "speciality": "Traditionell" },
+      { "name": "Dokobana Loa", "type": "Heavy", "speciality": "Selten, sehr geschätzt" },
+      { "name": "Yalu", "type": "Balanced", "speciality": "Mild, angenehm" }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": ["Heavy", "Sehr Potent"],
+    "origin": "Fiji (diverse Inseln)",
+    "type": "Waka (Seitenwurzeln)",
+    "duration": "5-8 Stunden",
+    "description": "<strong>Loa Waka</strong> ist einer der potentesten Kavas auf dem Markt. \"Loa\" bedeutet in Fijianisch \"dunkel\" und bezieht sich auf die Farbe der Wurzeln. \"Waka\" bezeichnet die hochwertigen Seitenwurzeln. Diese Kombination ergibt einen extrem starken, körperbetonten Kava.",
+    "effects": [
+      { "text": "<strong>Extrem sedierend:</strong> Einer der stärksten \"Heavy\" Kavas" },
+      { "text": "<strong>Tiefe Muskelentspannung:</strong> Ideal bei <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">Verspannungen</a>" },
+      { "text": "<strong>Schlaffördernd:</strong> Perfekt für <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">Schlafprobleme</a>" },
+      { "text": "<strong>Lang anhaltend:</strong> Wirkung kann 5-8 Stunden anhalten" }
+    ],
+    "recommendedFor": "Erfahrene Nutzer, Abendkonsum, schwere Schlafprobleme",
+    "warning": "<strong>Vorsicht:</strong> Loa Waka ist sehr potent. Einsteiger sollten mit einer niedrigeren Dosis beginnen und die Wirkung abwarten, bevor sie nachdosieren."
+  },
+  "tonga": {
+    "title": "Tonga – Alle Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> ist einzigartig in der Kava-Welt: <strong>Alle dort kultivierten Sorten sind Noble</strong>. Es gibt keine Tudei-Sorten in Tonga. Dies macht tonganischen Kava besonders sicher und berechenbar.</p><p>Tonganischer Kava ist bekannt für seine eher <strong>\"heady\"</strong> (kopfbetonte) Wirkung. Die Sorten sind tendenziell weniger sedierend als Fiji- oder Vanuatu-Kava und eignen sich gut für den Tageskonsum und soziale Anlässe.</p>",
+    "varieties": [
+      { "name": "Pouni Ono", "type": "Heady", "speciality": "Beliebteste Sorte, sozial" },
+      { "name": "Leka Hina", "type": "Heady/Balanced", "speciality": "Mild, angenehm" },
+      { "name": "Kava Kula", "type": "Balanced", "speciality": "Traditionell" },
+      { "name": "Kava Fulufulu (Fu'u)", "type": "Balanced", "speciality": "Sanft, gut für Einsteiger" },
+      { "name": "Lekakula", "type": "Heady", "speciality": "Euphorisch" }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": ["Heady", "Einsteiger-freundlich"],
+    "origin": "Tonga",
+    "composition": "Blend (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 Stunden",
+    "description": "<strong>Pouni Ono</strong> ist der wohl bekannteste \"Tages-Kava\" und ein Blend aus mehreren tonganischen Sorten (typischerweise Leka Hina, Kava Kula und Kava Fulufulu). Der Name bedeutet \"sechs Mal\" und bezieht sich auf die traditionelle Zubereitung.",
+    "effects": [
+      { "text": "<strong>Euphorisch:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Stimmungsaufhellend</a> und sozial" },
+      { "text": "<strong>Wach machend:</strong> Kaum sedierend, ideal für den Tag" },
+      { "text": "<strong>Milder Geschmack:</strong> Angenehmer als viele andere Sorten" },
+      { "text": "<strong>Kurze Wirkdauer:</strong> Gut kontrollierbar" }
+    ],
+    "recommendedFor": "Einsteiger, Tageskonsum, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">soziale Anlässe</a>, Arbeit",
+    "tip": "<strong>Tipp:</strong> Pouni Ono ist eine der besten Sorten für Kava-Einsteiger. Der milde Geschmack und die angenehme, nicht überwältigende Wirkung machen den Einstieg leicht."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">In Hawaii wird Kava <strong>'Awa</strong> genannt. Hawaii hat <strong>13 traditionelle Sorten</strong>, die alle als Noble gelten und für den Konsum geeignet sind. Hawaiianischer 'Awa ist bekannt für seine hohe Potenz und seinen einzigartigen Charakter.</p><p>'Awa hat eine besondere kulturelle Bedeutung in Hawaii. Historisch war bestimmter 'Awa dem Adel (Ali'i) vorbehalten. Heute wird hawaiianischer Kava oft frisch zubereitet und ist aufgrund der hohen Produktionskosten teurer als Kava aus anderen Regionen.</p>",
+    "varieties": [
+      { "name": "Moi", "type": "Heady", "speciality": "Königlicher Kava, sehr zerebral" },
+      { "name": "Hiwa", "type": "Heavy", "speciality": "Zeremoniell, stark sedierend" },
+      { "name": "Mahakea", "type": "Balanced", "speciality": "Ausgewogen, vielseitig" },
+      { "name": "Papa Kea", "type": "Heady", "speciality": "Mild, angenehm" },
+      { "name": "Nene", "type": "Balanced", "speciality": "Traditionell" },
+      { "name": "Hanakapi'ai", "type": "Heavy", "speciality": "Selten, sehr geschätzt" }
+    ],
+    "warning": "<strong>Achtung:</strong> In Hawaii werden auch zwei importierte Tudei-Sorten angebaut: <strong>Isa</strong> und <strong>Iwi</strong>. Diese sind nicht einheimisch und sollten gemieden werden."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": ["Heady", "Königlich"],
+    "origin": "Hawaii",
+    "type": "Heady / Zerebral",
+    "duration": "2-4 Stunden",
+    "description": "<strong>Moi</strong> ist der legendäre \"Kava der Könige\". In der hawaiianischen Geschichte war Moi dem Adel (Ali'i) vorbehalten und durfte von Gemeinen nicht konsumiert werden. Heute ist er für seine außergewöhnlich zerebrale, geistig klärende Wirkung bekannt.",
+    "effects": [
+      { "text": "<strong>Extrem zerebral:</strong> Fördert mentale Klarheit und Fokus" },
+      { "text": "<strong>Kreativitätsfördernd:</strong> Ideal für <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kreative Arbeit</a>" },
+      { "text": "<strong>Kaum sedierend:</strong> Macht nicht müde" },
+      { "text": "<strong>Spirituell:</strong> Traditionell für Meditation und Zeremonien" }
+    ],
+    "recommendedFor": "Kreative Arbeit, Meditation, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kognitive Aufgaben</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>In <strong>Samoa</strong> wird Kava <strong>'Ava</strong> genannt. Samoa hat nur <strong>4 dokumentierte Sorten</strong>, aber eine reiche zeremonielle Tradition. Die 'Ava-Zeremonie ist ein wichtiger Teil der samoanischen Kultur und wird bei offiziellen Anlässen durchgeführt.</p>",
+    "varieties": [
+      { "name": "Ava La'au", "type": "Balanced", "speciality": "Traditionell, zeremoniell" },
+      { "name": "Ava Lea", "type": "Heady", "speciality": "Mild, angenehm" },
+      { "name": "Ava Loa", "type": "Heavy", "speciality": "Stärker, sedierend" },
+      { "name": "Ava Tonga", "type": "Balanced", "speciality": "Importiert aus Tonga" }
+    ]
+  },
+  "andere": {
+    "title": "Andere Regionen",
+    "intro": "Neben den Hauptanbaugebieten gibt es Kava auch in einigen anderen pazifischen Regionen:",
+    "regions": [
+      {
+        "name": "Papua-Neuguinea",
+        "description": "PNG hat nur <strong>eine Noble-Sorte</strong>: <strong>Kau kupwe</strong>, die auf der Insel Baluan angebaut wird. Die meisten anderen PNG-Sorten sind Tudei und sollten gemieden werden."
+      },
+      {
+        "name": "Salomonen",
+        "description": "Die Salomonen haben ebenfalls nur <strong>eine Noble-Sorte</strong>: <strong>Melomelo</strong> (nicht zu verwechseln mit Vanuatus Melo Melo, obwohl sie verwandt sein könnten)."
+      },
+      {
+        "name": "Mikronesien",
+        "description": "In den Föderierten Staaten von Mikronesien (Pohnpei) gibt es die Sorte <strong>Rahmwahnger</strong>. Kava hat dort eine wichtige zeremonielle Bedeutung."
+      },
+      {
+        "name": "Wallis und Futuna",
+        "description": "Diese französischen Territorien haben ihre eigenen Kava-Traditionen, aber wenig dokumentierte einzigartige Sorten."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Weiter im Kapitel Sorten:",
+    "nextTitle": "Sortenprofile im Detail",
+    "nextDescription": "Detaillierte Steckbriefe aller wichtigen Sorten mit Chemotypen, Wirkung und Empfehlungen",
+    "nextLink": "/de/sorten/profile"
+  }
+}

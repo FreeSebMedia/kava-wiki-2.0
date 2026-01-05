@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Sortenvergleich",
+    "subtitle": "Vergleichen Sie zwei Kava-Sorten direkt nebeneinander"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Sorten",
+    "current": "Vergleich"
+  },
+  "ui": {
+    "selectVariety": "Sorte auswählen...",
+    "firstVariety": "Erste Sorte",
+    "secondVariety": "Zweite Sorte",
+    "toProfile": "Zum Sortenprofil",
+    "potency": "Potenz",
+    "badgeInfo": "Die <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> Badges zeigen die Differenz zur anderen Sorte"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Balanced",
+    "heavy": "Heavy"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Wirkprofil-Vergleich"
+    },
+    "basicInfo": {
+      "title": "Grundlegende Informationen"
+    },
+    "dosage": {
+      "title": "Empfohlene Dosierung"
+    },
+    "applications": {
+      "title": "Anwendungsgebiete"
+    },
+    "usageTimes": {
+      "title": "Einnahmezeiten"
+    },
+    "kavalactones": {
+      "title": "Kavalacton-Profil"
+    },
+    "notes": {
+      "title": "Anmerkungen"
+    }
+  },
+  "effects": {
+    "euphoria": "Euphorie",
+    "relaxation": "Entspannung",
+    "sedation": "Sedierung",
+    "clarity": "Klarheit",
+    "sociability": "Geselligkeit",
+    "anxiolysis": "Angstlösung"
+  },
+  "info": {
+    "chemotype": "Chemotyp",
+    "duration": "Wirkdauer",
+    "availability": "Verfügbarkeit",
+    "price": "Preis"
+  },
+  "dosageLabels": {
+    "beginner": "Einsteiger",
+    "regular": "Regulär",
+    "experienced": "Erfahren"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Wählen Sie zwei Sorten zum Vergleichen",
+    "description": "Nutzen Sie die Dropdown-Menüs oben, um zwei Kava-Sorten auszuwählen und deren Eigenschaften, Wirkungen und Empfehlungen direkt gegenüberzustellen.",
+    "tips": {
+      "title": "Vergleichstipps",
+      "items": [
+        "Vergleichen Sie Sorten derselben Kategorie für ähnliche Wirkprofile",
+        "Vergleichen Sie Heady vs. Heavy für gegensätzliche Erfahrungen",
+        "Achten Sie auf die Chemotyp-Unterschiede für wissenschaftliche Einblicke"
+      ]
+    },
+    "quickSelections": "Schnellauswahl",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu-Klassiker",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Einsteiger-Empfehlung",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

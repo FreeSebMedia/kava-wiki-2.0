@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "title": "Blender-Methode",
+    "subtitle": "Die schnelle und effektive Art der Kava-Zubereitung – ideal für den modernen Alltag.",
+    "category": "Zubereitung"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "zubereitung": "Zubereitung",
+    "current": "Blender-Methode"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "uebersicht", "title": "Übersicht", "level": 1 },
+      { "id": "material", "title": "Benötigte Materialien", "level": 1 },
+      { "id": "anleitung", "title": "Schritt-für-Schritt Anleitung", "level": 1 },
+      { "id": "vergleich", "title": "Vergleich zur traditionellen Methode", "level": 1 },
+      { "id": "tipps", "title": "Experten-Tipps", "level": 1 }
+    ]
+  },
+  "ui": {
+    "totalTime": "Gesamtzeit",
+    "fast": "Schnell",
+    "lowEffort": "Wenig Aufwand",
+    "highPotency": "Hohe Potenz",
+    "effectiveExtraction": "Effektive Extraktion",
+    "tip": "Tipp",
+    "essential": "Essentiell",
+    "importantForBestResults": "Wichtig für beste Ergebnisse",
+    "aspect": "Aspekt",
+    "traditional": "Traditionell (Kneten)",
+    "blender": "Blender",
+    "otherMethods": "Andere Zubereitungsmethoden"
+  },
+  "overview": {
+    "intro": "Die Blender-Methode ist die <strong>moderne Alternative</strong> zur traditionellen Knetmethode. Sie ist schneller, weniger arbeitsintensiv und liefert trotzdem eine <strong>sehr gute Extraktion</strong>.",
+    "alert": {
+      "title": "Ideal für...",
+      "text": "Einsteiger, die eine einfache Methode suchen, oder erfahrene Nutzer, die wenig Zeit haben. Die Blender-Methode ist auch perfekt für größere Mengen."
+    }
+  },
+  "materials": {
+    "title": "Benötigte Materialien",
+    "essential": [
+      {
+        "name": "Standmixer / Blender",
+        "note": "Mindestens 500 Watt, besser 1000+ Watt"
+      },
+      {
+        "name": "Kava-Wurzelpulver",
+        "type": "Medium Grind",
+        "note": "20-40g je nach Erfahrung"
+      },
+      {
+        "name": "Filterbeutel",
+        "note": "Nussmilchbeutel oder feines Sieb"
+      },
+      {
+        "name": "Warmes Wasser",
+        "note": "400-600ml, handwarm (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Kokosöl oder Kokosmilch",
+        "note": "1 EL – essentiell für gute Extraktion!"
+      },
+      {
+        "name": "Küchenwaage",
+        "note": "Für konsistente Dosierung"
+      },
+      {
+        "name": "Große Schüssel",
+        "note": "Zum Auffangen beim Filtern"
+      }
+    ],
+    "alert": {
+      "title": "Mixer-Anforderungen",
+      "text": "Verwenden Sie einen leistungsstarken Standmixer. Stabmixer oder schwache Mixer extrahieren nicht effektiv und können überhitzen. Ideal sind Hochleistungsmixer wie Vitamix oder Blendtec."
+    }
+  },
+  "steps": {
+    "title": "Schritt-für-Schritt Anleitung",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Zutaten vorbereiten",
+        "duration": "2 Min",
+        "description": "Alle Zutaten abmessen und bereitstellen.",
+        "details": [
+          "Kava-Pulver abwiegen (20-40g je nach Erfahrung)",
+          "Wasser abmessen (400-600ml)",
+          "1 EL Kokosöl oder Kokosmilch bereitstellen",
+          "Filterbeutel und Auffangschüssel bereitlegen"
+        ],
+        "tip": "Das Fett ist bei der Blender-Methode besonders wichtig, da es die Emulsion stabilisiert."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "In den Mixer geben",
+        "duration": "1 Min",
+        "description": "Alle Zutaten in den Standmixer füllen.",
+        "details": [
+          "Zuerst das Wasser einfüllen (handwarm, 35-45°C)",
+          "Dann das Kava-Pulver hinzugeben",
+          "Zum Schluss das Fett (Kokosöl/Kokosmilch) hinzufügen",
+          "Deckel fest verschließen!"
+        ],
+        "tip": "Warmes Wasser verbessert die Extraktion. Kaltes Wasser funktioniert auch, ist aber weniger effektiv."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Mixen",
+        "duration": "3-4 Min",
+        "description": "Auf höchster Stufe mixen für maximale Extraktion.",
+        "details": [
+          "Mixer auf höchste Stufe stellen",
+          "3-4 Minuten durchgehend mixen",
+          "Die Mischung wird schaumig und milchig-braun",
+          "Bei Überhitzung kurze Pausen einlegen"
+        ],
+        "tip": "Längeres Mixen = stärkerer Kava. Aber Vorsicht: Manche Mixer überhitzen nach 4+ Minuten."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filtern",
+        "duration": "3 Min",
+        "description": "Die Mischung durch einen Filterbeutel gießen.",
+        "details": [
+          "Filterbeutel über einer großen Schüssel positionieren",
+          "Langsam die Mixer-Mischung eingießen",
+          "Den Beutel zusammendrücken und auswringen",
+          "Mehrmals fest pressen, bis kaum Flüssigkeit mehr kommt"
+        ],
+        "tip": "Dieser Schritt ist wichtig! Ohne Filtern trinken Sie grobe Fasern mit, die Übelkeit verursachen können."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Servieren",
+        "duration": "Sofort",
+        "description": "Genießen Sie Ihren Blender-Kava!",
+        "details": [
+          "In Schalen oder Tassen füllen",
+          "Optional: Kurz in den Kühlschrank für gekühlten Kava",
+          "In einem Zug trinken ('Chug')",
+          "Chaser (Obst) bereithalten"
+        ],
+        "tip": "Blender-Kava kann etwas bitterer schmecken als traditionell zubereiteter. Ein guter Chaser hilft!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Vergleich zur traditionellen Methode",
+    "conclusion": "<strong>Fazit:</strong> Die Blender-Methode ist ideal für den Alltag und Einsteiger. Für besondere Anlässe oder maximale Potenz ist die traditionelle Methode vorzuziehen.",
+    "items": [
+      { "aspect": "Zubereitungszeit", "traditional": "20-25 Minuten", "blender": "8-10 Minuten", "winner": "blender" },
+      { "aspect": "Potenz", "traditional": "Sehr hoch", "blender": "Hoch bis sehr hoch", "winner": "traditional" },
+      { "aspect": "Geschmack", "traditional": "Milder, erdiger", "blender": "Bitterer, intensiver", "winner": "traditional" },
+      { "aspect": "Aufwand", "traditional": "Hoch (körperlich)", "blender": "Gering", "winner": "blender" },
+      { "aspect": "Ausrüstung", "traditional": "Nur Beutel + Schüssel", "blender": "Standmixer nötig", "winner": "traditional" },
+      { "aspect": "Für Einsteiger", "traditional": "Gut geeignet", "blender": "Sehr gut geeignet", "winner": "blender" }
+    ]
+  },
+  "expertTips": {
+    "title": "Experten-Tipps",
+    "items": [
+      {
+        "name": "Eiswürfel-Trick",
+        "text": "Fügen Sie 2-3 Eiswürfel zum Mixer hinzu. Das kühlt die Mischung während des Mixens und verhindert Überhitzung bei längeren Mixzeiten."
+      },
+      {
+        "name": "Doppelte Filterung",
+        "text": "Filtern Sie zweimal – erst durch einen groben, dann durch einen feinen Beutel. Das ergibt einen glatteren Kava ohne Sediment."
+      },
+      {
+        "name": "Lecithin-Boost",
+        "text": "Ein Teelöffel Sonnenblumen-Lecithin verbessert die Emulsion und kann die Bioverfügbarkeit der Kavalactone erhöhen."
+      },
+      {
+        "name": "Batch-Zubereitung",
+        "text": "Bereiten Sie größere Mengen vor und lagern Sie den gefilterten Kava im Kühlschrank. Hält 2-3 Tage. Vor dem Trinken gut schütteln!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Traditionelle Knetmethode",
+      "subtitle": "Maximale Potenz, authentisches Erlebnis",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Kein Aufwand, sofort trinkfertig",
+      "href": "/de/zubereitung/instant"
+    },
+    "calculator": {
+      "title": "Dosierungsrechner",
+      "subtitle": "Personalisierte Empfehlungen für Ihre Sorte",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

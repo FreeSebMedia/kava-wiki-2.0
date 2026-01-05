@@ -1,0 +1,145 @@
+{
+  "page": {
+    "title": "Sicherheit & Gesundheit",
+    "subtitle": "Fakten statt Mythen: Ein wissenschaftlicher Blick auf Hepatotoxizität, Nebenwirkungen und sicheren Konsum.",
+    "category": "Sicherheit"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "konsens", "title": "Wissenschaftlicher Konsens", "level": 1 },
+      { "id": "kapitel", "title": "Kapitelübersicht", "level": 1 },
+      { "id": "leber", "title": "Lebersicherheit", "level": 2 },
+      { "id": "wechselwirkungen", "title": "Wechselwirkungen", "level": 2 },
+      { "id": "kontraindikationen", "title": "Kontraindikationen", "level": 2 },
+      { "id": "dosierung", "title": "Dosierungsempfehlungen", "level": 1 },
+      { "id": "nebenwirkungen", "title": "Mögliche Nebenwirkungen", "level": 1 },
+      { "id": "checkliste", "title": "Sicherheits-Checkliste", "level": 1 }
+    ]
+  },
+  "konsens": {
+    "title": "Aktueller wissenschaftlicher Konsens",
+    "intro": "Nach umfassenden Analysen durch <strong>WHO</strong>, <strong>EMA</strong> und unabhängige Forscher:",
+    "points": [
+      "Traditionell zubereiteter Kava aus Noble-Sorten ist bei sachgemäßer Anwendung <strong>sicher</strong>",
+      "Schwere Leberschäden sind <strong>extrem selten</strong> (geschätzte Inzidenz: 1:60.000 bis 1:1.000.000)",
+      "Das EU-Verbot von 2002 wurde von deutschen Gerichten als <strong>unverhältnismäßig</strong> eingestuft",
+      "Risiken entstehen primär durch <strong>Qualitätsmängel</strong>, <strong>falsche Pflanzenteile</strong> oder <strong>Mischkonsum</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Kapitelübersicht: Sicherheit im Detail",
+    "intro": "Dieses Kapitel bietet eine umfassende, wissenschaftlich fundierte Analyse aller sicherheitsrelevanten Aspekte von Kava. Klicken Sie auf die Unterseiten für detaillierte Informationen:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Lebersicherheit & Hepatotoxizität",
+        "href": "/de/sicherheit/leber",
+        "description": "Die wissenschaftliche Wahrheit über das Verbot von 2002, WHO- und EMA-Bewertungen, Risikofaktoren und praktische Empfehlungen.",
+        "highlights": ["WHO-Bewertung 2007", "EMA-Report 2017", "Gerichtsurteile", "Risikofaktoren"]
+      },
+      {
+        "icon": "pill",
+        "title": "Wechselwirkungen mit Medikamenten",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalactone hemmen CYP450-Enzyme: Vollständige Übersicht zu Hochrisiko-Kombinationen und moderaten Interaktionen.",
+        "highlights": ["CYP450-System", "Hochrisiko-Kombinationen", "Interaktionstabelle", "Praktische Tipps"]
+      },
+      {
+        "icon": "ban",
+        "title": "Kontraindikationen",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Wann Kava nicht verwendet werden sollte: Absolute und relative Gegenanzeigen für einen sicheren Umgang.",
+        "highlights": ["Lebererkrankungen", "Schwangerschaft", "Parkinson", "Entscheidungshilfe"]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Dosierungsempfehlungen",
+    "intro": "Die optimale Dosis hängt stark von der individuellen Toleranz (\"Reverse Tolerance\") und der Kava-Sorte ab. Beginnen Sie immer mit niedrigeren Dosen.",
+    "boxTitle": "Richtwerte für Kavalactone",
+    "medical": {
+      "title": "Medizinisch (Angst)",
+      "value": "60–240 mg",
+      "unit": "Kavalactone pro Tag"
+    },
+    "traditional": {
+      "title": "Traditionell / Rekreativ",
+      "value": "250–500 mg",
+      "unit": "Kavalactone pro Sitzung"
+    },
+    "tableTitle": "Zubereitung mit Wurzelpulver (Medium Grind)",
+    "table": {
+      "headers": {
+        "level": "Erfahrungslevel",
+        "amount": "Menge",
+        "water": "Wasser"
+      },
+      "rows": [
+        { "level": "Einsteiger", "amount": "2-3 EL (ca. 20-30g)", "water": "300-400ml" },
+        { "level": "Fortgeschrittene", "amount": "4-6 EL (ca. 40-60g)", "water": "500-600ml" }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Mögliche Nebenwirkungen",
+    "intro": "Auch wenn Kava bei sachgemäßer Anwendung sicher ist, können Nebenwirkungen auftreten, besonders bei übermäßigem Konsum.",
+    "frequent": {
+      "title": "Häufig (dosisabhängig)",
+      "items": [
+        { "label": "Müdigkeit:", "value": "Besonders bei \"Heavy\"-Sorten" },
+        { "label": "Übelkeit:", "value": "Bei starken Dosen auf nüchternen Magen" },
+        { "label": "Dehydrierung:", "value": "Kava wirkt diuretisch" }
+      ]
+    },
+    "chronic": {
+      "title": "Bei chronischem Konsum",
+      "items": [
+        { "label": "Kava-Dermopathie:", "value": "Trockene, schuppige Haut (reversibel)" },
+        { "label": "GGT-Erhöhung:", "value": "Leberenzym steigt leicht an (reversibel)" },
+        { "label": "Gewichtsverlust:", "value": "Bei sehr hohem Konsum" }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Sicherheits-Checkliste",
+    "boxTitle": "Für sicheren Kava-Konsum",
+    "items": [
+      "<strong>Nur Noble-Kava</strong> von vertrauenswürdigen Quellen verwenden",
+      "<strong>Nur Wurzel/Rhizom</strong> – keine Blätter oder Stängel",
+      "<strong>Traditionelle wässrige Zubereitung</strong> bevorzugen",
+      "<strong>Keinen Alkohol</strong> – mindestens 24h Abstand"
+    ],
+    "linkItems": [
+      { "text": "<strong>Medikamenten-Check</strong> – ", "linkText": "Wechselwirkungen prüfen", "href": "/de/sicherheit/wechselwirkungen" },
+      { "text": "<strong>Kontraindikationen beachten</strong> – ", "linkText": "Checkliste ansehen", "href": "/de/sicherheit/kontraindikationen" }
+    ],
+    "warning": {
+      "title": "Warnzeichen beachten",
+      "text": "Bei Gelbfärbung von Haut/Augen, dunklem Urin, hellem Stuhl oder ungewöhnlicher Müdigkeit sofort den Konsum einstellen und einen Arzt aufsuchen."
+    }
+  },
+  "quickLinks": {
+    "title": "Detaillierte Informationen",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Lebersicherheit",
+        "description": "Hepatotoxizität & das Verbot 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Wechselwirkungen",
+        "description": "Medikamente & CYP450-Interaktionen",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Kontraindikationen",
+        "description": "Wann Kava gemieden werden sollte",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

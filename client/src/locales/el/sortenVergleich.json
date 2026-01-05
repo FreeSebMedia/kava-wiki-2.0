@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Σύγκριση ποικιλιών",
+    "subtitle": "Συγκρίνετε δύο ποικιλίες Kava δίπλα-δίπλα"
+  },
+  "breadcrumbs": {
+    "home": "Αρχική",
+    "sorten": "Ποικιλίες",
+    "current": "Σύγκριση"
+  },
+  "ui": {
+    "selectVariety": "Επιλέξτε ποικιλία...",
+    "firstVariety": "Πρώτη ποικιλία",
+    "secondVariety": "Δεύτερη ποικιλία",
+    "toProfile": "Στο προφίλ ποικιλίας",
+    "potency": "Δύναμη",
+    "badgeInfo": "Τα <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> σήματα δείχνουν τη διαφορά από την άλλη ποικιλία"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Balanced",
+    "heavy": "Heavy"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Σύγκριση προφίλ δράσης"
+    },
+    "basicInfo": {
+      "title": "Βασικές πληροφορίες"
+    },
+    "dosage": {
+      "title": "Συνιστώμενη δόση"
+    },
+    "applications": {
+      "title": "Περιοχές εφαρμογής"
+    },
+    "usageTimes": {
+      "title": "Χρόνοι λήψης"
+    },
+    "kavalactones": {
+      "title": "Προφίλ Kavalactone"
+    },
+    "notes": {
+      "title": "Σημειώσεις"
+    }
+  },
+  "effects": {
+    "euphoria": "Ευφορία",
+    "relaxation": "Χαλάρωση",
+    "sedation": "Καταστολή",
+    "clarity": "Καθαρότητα",
+    "sociability": "Κοινωνικότητα",
+    "anxiolysis": "Αγχολυτική δράση"
+  },
+  "info": {
+    "chemotype": "Χημικός τύπος",
+    "duration": "Διάρκεια δράσης",
+    "availability": "Διαθεσιμότητα",
+    "price": "Τιμή"
+  },
+  "dosageLabels": {
+    "beginner": "Αρχάριος",
+    "regular": "Κανονικός",
+    "experienced": "Έμπειρος"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Καβίνη",
+    "dhk": "DHK",
+    "methysticin": "Μεθυστικίνη",
+    "dhm": "DHM",
+    "yangonin": "Γιαγκοκίνη",
+    "desmethoxyyangonin": "Δεσμεθοξυγιαγκοκίνη"
+  },
+  "empty": {
+    "title": "Επιλέξτε δύο ποικιλίες για σύγκριση",
+    "description": "Χρησιμοποιήστε τα αναδυόμενα μενού παραπάνω για να επιλέξετε δύο ποικιλίες Kava και να συγκρίνετε άμεσα τα χαρακτηριστικά, τις επιδράσεις και τις συστάσεις τους.",
+    "tips": {
+      "title": "Συμβουλές σύγκρισης",
+      "items": [
+        "Συγκρίνετε ποικιλίες της ίδιας κατηγορίας για παρόμοια προφίλ δράσης",
+        "Συγκρίνετε Heady vs. Heavy για αντίθετες εμπειρίες",
+        "Προσέξτε τις διαφορές χημικού τύπου για επιστημονικές γνώσεις"
+      ]
+    },
+    "quickSelections": "Γρήγορη επιλογή",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Κλασικά από Vanuatu",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Σύσταση για αρχάριους",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

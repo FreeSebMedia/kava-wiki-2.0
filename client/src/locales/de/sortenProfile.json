@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Sortenprofile im Detail",
+    "subtitle": "Detaillierte Steckbriefe der wichtigsten Kava-Sorten mit Chemotypen, Wirkung und Empfehlungen.",
+    "category": "Sorten"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Sorten",
+    "current": "Profile"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "uebersicht", "title": "Übersicht", "level": 1 },
+      { "id": "favoriten", "title": "Meine Favoriten", "level": 1 },
+      { "id": "filter", "title": "Wirkungsfilter", "level": 1 },
+      { "id": "heady", "title": "Heady Sorten", "level": 1 },
+      { "id": "balanced", "title": "Balanced Sorten", "level": 1 },
+      { "id": "heavy", "title": "Heavy Sorten", "level": 1 },
+      { "id": "vergleich", "title": "Sortenvergleich", "level": 1 }
+    ]
+  },
+  "ui": {
+    "origin": "Herkunft",
+    "chemotype": "Chemotyp",
+    "duration": "Wirkdauer",
+    "strength": "Stärke",
+    "hits": "Treffer",
+    "low": "Gering",
+    "high": "Stark",
+    "variety": "Sorte",
+    "region": "Region",
+    "type": "Typ",
+    "bestUse": "Beste Verwendung",
+    "resetFilters": "Filter zurücksetzen",
+    "matchingCriteria": "von {total} Sorten entsprechen Ihren Kriterien",
+    "noMatching": "Keine {category} Sorten entsprechen den aktuellen Filterkriterien.",
+    "toComparison": "Zum interaktiven Sortenvergleich"
+  },
+  "overview": {
+    "intro": "Diese Seite bietet einen umfassenden Überblick über die wichtigsten <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a>-Sorten, geordnet nach ihrem Wirktyp. Nutzen Sie diese Profile, um die perfekte Sorte für Ihre Bedürfnisse zu finden.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Kopfbetont, euphorisch, sozial. Ideal für den Tag.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Ausgewogen, vielseitig. Gut für jede Tageszeit.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Körperbetont, sedierend. Ideal für den Abend.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Wirkungsfilter",
+    "description": "Filtern Sie die Sorten nach Ihren gewünschten Wirkungen. Bewegen Sie die Regler, um nur Sorten mit mindestens dem gewählten Wert anzuzeigen.",
+    "euphoria": "Euphorie",
+    "relaxation": "Entspannung",
+    "sleepy": "Schläfrig"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady Sorten",
+      "description": "Heady Kavas sind kopfbetont und erzeugen Euphorie, mentale Klarheit und Geselligkeit. Sie sind ideal für den Tageskonsum, soziale Anlässe und kreative Arbeit. Der <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Chemotyp</a> beginnt typischerweise mit 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Balanced Sorten",
+      "description": "Balanced Kavas bieten eine ausgewogene Wirkung zwischen Kopf und Körper. Sie sind vielseitig einsetzbar und eignen sich sowohl für den Tag als auch für den Abend. Ideal für <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">Angstlösung</a> und allgemeine Entspannung."
+    },
+    "heavy": {
+      "title": "Heavy Sorten",
+      "description": "Heavy Kavas sind körperbetont und erzeugen tiefe <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">Muskelentspannung</a> und Sedierung. Sie sind ideal für den Abend, bei <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">Schlafproblemen</a> und zur körperlichen Erholung. Der Chemotyp hat oft DHK (2) an prominenter Position."
+    }
+  },
+  "comparison": {
+    "title": "Sortenvergleich",
+    "description": "Diese Tabelle bietet einen schnellen Überblick über alle wichtigen Sorten. Nutzen Sie auch unser <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">interaktives Vergleichstool</a> für detaillierte Gegenüberstellungen.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 Std.",
+      "strength": 4,
+      "description": "Legendärer euphorischer Kava, wie Champagner unter den Kavas.",
+      "recommended": ["Soziale Anlässe", "Kreative Arbeit", "Tageskonsum"],
+      "category": "heady",
+      "effects": { "euphoria": 5, "relaxation": 2, "sleepy": 1 }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 Std.",
+      "strength": 4,
+      "description": "Der Volks-Kava von Vanuatu, vielseitig mit kopfbetonter Anfangswirkung.",
+      "recommended": ["Soziale Anlässe", "Abendkonsum", "Einsteiger"],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": { "euphoria": 3, "relaxation": 4, "sleepy": 3 }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 Std.",
+      "strength": 3,
+      "description": "Der beliebteste Tages-Kava, mild und einsteiger-freundlich.",
+      "recommended": ["Einsteiger", "Arbeit", "Soziale Anlässe"],
+      "category": "heady",
+      "effects": { "euphoria": 4, "relaxation": 3, "sleepy": 2 }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 Std.",
+      "strength": 4,
+      "description": "Der königliche 'Awa, extrem zerebral und geistig klärend.",
+      "recommended": ["Meditation", "Kreative Arbeit", "Kognition"],
+      "category": "heady",
+      "effects": { "euphoria": 4, "relaxation": 2, "sleepy": 1 }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 Std.",
+      "strength": 3,
+      "description": "Seltene euphorische Sorte, sehr geschätzt.",
+      "recommended": ["Soziale Anlässe", "Stimmungsaufhellung"],
+      "category": "heady",
+      "effects": { "euphoria": 5, "relaxation": 2, "sleepy": 1 }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 Std.",
+      "strength": 3,
+      "description": "Der perfekte Allrounder, sanft und ausgewogen.",
+      "recommended": ["Einsteiger", "Angstlösung", "Alltagsgebrauch"],
+      "category": "balanced",
+      "effects": { "euphoria": 3, "relaxation": 4, "sleepy": 2 }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 Std.",
+      "strength": 4,
+      "description": "Der Volks-Kava von Vanuatu, zuverlässig und vielseitig.",
+      "recommended": ["Abendkonsum", "Entspannung", "Einsteiger"],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": { "euphoria": 3, "relaxation": 4, "sleepy": 3 }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 Std.",
+      "strength": 4,
+      "description": "Starker Kava mit guter Balance zwischen Kopf und Körper.",
+      "recommended": ["Erfahrene Nutzer", "Abendkonsum"],
+      "category": "balanced",
+      "effects": { "euphoria": 3, "relaxation": 4, "sleepy": 3 }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 Std.",
+      "strength": 3,
+      "description": "Ausgewogener Fiji-Kava, vielseitig einsetzbar.",
+      "recommended": ["Alltagsgebrauch", "Entspannung"],
+      "category": "balanced",
+      "effects": { "euphoria": 3, "relaxation": 4, "sleepy": 2 }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 Std.",
+      "strength": 5,
+      "description": "Einer der potentesten Heavy Kavas, tiefe Sedierung.",
+      "recommended": ["Schlafprobleme", "Muskelentspannung", "Abend"],
+      "category": "heavy",
+      "effects": { "euphoria": 2, "relaxation": 5, "sleepy": 5 }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 Std.",
+      "strength": 5,
+      "description": "Extrem potenter Fiji-Kava, stark sedierend.",
+      "recommended": ["Erfahrene Nutzer", "Schlafprobleme"],
+      "category": "heavy",
+      "effects": { "euphoria": 2, "relaxation": 5, "sleepy": 5 }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 Std.",
+      "strength": 4,
+      "description": "Kleiner Bruder von Palasa, etwas milder aber ähnlich.",
+      "recommended": ["Heavy-Einsteiger", "Abendkonsum"],
+      "category": "heavy",
+      "effects": { "euphoria": 2, "relaxation": 4, "sleepy": 4 }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 Std.",
+      "strength": 5,
+      "description": "Zeremonieller hawaiianischer 'Awa, sehr stark.",
+      "recommended": ["Zeremonien", "Schlaf", "Erfahrene"],
+      "category": "heavy",
+      "effects": { "euphoria": 2, "relaxation": 5, "sleepy": 5 }
+    }
+  ],
+  "comparisonTable": [
+    { "name": "Kelai", "region": "Vanuatu", "type": "Heady", "chemotype": "421365", "bestUse": "Sozial, Kreativ" },
+    { "name": "Pouni Ono", "region": "Tonga", "type": "Heady", "chemotype": "Blend", "bestUse": "Einsteiger, Tag" },
+    { "name": "Moi", "region": "Hawaii", "type": "Heady", "chemotype": "—", "bestUse": "Meditation, Kognition" },
+    { "name": "Melo Melo", "region": "Vanuatu", "type": "Balanced", "chemotype": "243156", "bestUse": "Angst, Allrounder" },
+    { "name": "Borogu", "region": "Vanuatu", "type": "Heady / Balanced", "chemotype": "243516", "bestUse": "Abend, Entspannung" },
+    { "name": "Bir Kar", "region": "Vanuatu", "type": "Balanced", "chemotype": "423561", "bestUse": "Erfahrene, Abend" },
+    { "name": "Palasa", "region": "Vanuatu", "type": "Heavy", "chemotype": "423651", "bestUse": "Schlaf, Muskel" },
+    { "name": "Loa Waka", "region": "Fiji", "type": "Heavy", "chemotype": "—", "bestUse": "Erfahrene, Schlaf" },
+    { "name": "Hiwa", "region": "Hawaii", "type": "Heavy", "chemotype": "—", "bestUse": "Zeremonien, Schlaf" }
+  ]
+}
