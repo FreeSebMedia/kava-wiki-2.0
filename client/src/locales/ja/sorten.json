@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "品種と栽培品",
+    "subtitle": "ボログからポウニオノまで、ヘディからヘビーまで、カヴァ品種の世界を網羅したガイド。",
+    "category": "品種",
+    "breadcrumb": {
+      "home": "ホーム",
+      "current": "品種"
+    }
+  },
+  "toc": {
+    "title": "目次",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "はじめに",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "ノーブルカヴァとトゥデイカヴァ",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "三つの効果タイプ",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "栽培地域",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "どの品種が私に合うか？",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "詳細記事",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "現在、<strong>100種以上の文書化されたカヴァ品種</strong>が存在し、出自、化学型、効果が大きく異なります。カヴァの発祥地とされるバヌアツには、80種類以上の異なる栽培品が知られています。この多様性は、3000年以上にわたる太平洋文化による選択の結果です。",
+      "text": "品種間の違いは学術的なものにとどまらず、カヴァ飲料がどのような効果をもたらすかを大きく左右します。<a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">バヌアツのケライ</a>は、<a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">フィジーのロアワカ</a>とは全く異なる効果を示します。これらの違いを理解することが、意識的で満足のいくカヴァ体験の鍵です。"
+    },
+    "nobleTudei": {
+      "title": "ノーブルカヴァとトゥデイカヴァ",
+      "intro": "すべてのカヴァ消費者が知っておくべき最も重要な区別は、<strong>ノーブルカヴァ</strong>（エデルカヴァ）と<strong>トゥデイカヴァ</strong>の違いです。この分類はバヌアツ政府によって導入され、各品種の<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学型</a>に基づいています。",
+      "noble": {
+        "title": "ノーブルカヴァ（エデルカヴァ）",
+        "items": [
+          "快適な効果のために何世代にもわたって選択されてきた",
+          "化学型は<strong>2</strong>または<strong>4</strong>で始まり、5や6では決して始まらない",
+          "効果の発現：10-20分",
+          "効果の持続時間：3-6時間、きれいに収束する",
+          "翌日に「二日酔い」がない",
+          "定期的な使用に安全"
+        ],
+        "examples": "ボログ、メロメロ、ケライ、パラサ、ポウニオノ"
+      },
+      "tudei": {
+        "title": "トゥデイカヴァ（ツーデイ）",
+        "items": [
+          "化学型は<strong>5</strong>または<strong>6</strong>（DHM優勢）で始まる",
+          "効果の発現：30-90分（遅延）",
+          "効果が非常に長く持続する（最大2日間）",
+          "しばしば吐き気や無気力を引き起こす",
+          "翌日に「カタル」感覚",
+          "バヌアツでは輸出が禁止されている"
+        ],
+        "examples": "イサ、パリマヌ、ワイルドカヴァ"
+      },
+      "warning": "購入時には、販売者が化学型と正確な品種を示していることを確認してください。この透明性は、本物のノーブルカヴァの良い兆候です。",
+      "linkText": "ノーブルとトゥデイについてもっと知る"
+    },
+    "wirktypen": {
+      "title": "三つの効果タイプ",
+      "intro": "ノーブルカヴァ品種は、その支配的な効果に基づいて三つのカテゴリーに分類されます。この分類は<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学型</a>、つまり六つの主要な<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">カヴァラクトン</a>の相対的な濃度に基づいています。",
+      "heady": {
+        "title": "ヘディ",
+        "description": "頭を強調した効果：幸福感、精神的明晰さ、社交性。日中や社交的な場面に最適。",
+        "chemotype": "しばしば4（カヴァイン）または2（DHK）で始まる",
+        "varieties": "ケライ、ポウニオノ、モイ",
+        "linkText": "気分と社交"
+      },
+      "balanced": {
+        "title": "バランス",
+        "description": "バランスの取れた効果：疲労感のないリラクゼーション、身体的な快適さを伴う精神的な安らぎ。",
+        "chemotype": "4、2、3のバランスの取れた比率",
+        "varieties": "メロメロ、ビルカール、ボログ",
+        "linkText": "不安解消"
+      },
+      "heavy": {
+        "title": "ヘビー",
+        "description": "身体を重視した効果：深い筋肉のリラクゼーション、鎮静、夜間や睡眠に最適。",
+        "chemotype": "高いDHK割合（2）が位置1-2にある",
+        "varieties": "パラサ、パララスル、ロアワカ",
+        "linkText": "睡眠とリラクゼーション"
+      },
+      "calculatorLink": "化学型計算機：各化学型を分析する"
+    },
+    "regionen": {
+      "title": "栽培地域の概要",
+      "intro": "カヴァは現在、太平洋のさまざまな地域で栽培されています。各地域は、地元の気候や文化的な好みに合わせて独自の品種を開発しています。",
+      "tableHeaders": {
+        "region": "地域",
+        "count": "品種数",
+        "localName": "現地名",
+        "varieties": "知られている品種",
+        "characteristics": "特徴"
+      },
+      "tableRows": [
+        {
+          "region": "バヌアツ",
+          "count": "80以上",
+          "localName": "カヴァ、マロク",
+          "varieties": "ボログ、メロメロ、ケライ、パラサ",
+          "characteristics": "最大の多様性、発祥地"
+        },
+        {
+          "region": "フィジー",
+          "count": "13",
+          "localName": "ヤコナ、マログ",
+          "varieties": "ロアワカ、キラバラヴ",
+          "characteristics": "しばしば重く、良好な加工"
+        },
+        {
+          "region": "トンガ",
+          "count": "7",
+          "localName": "カヴァ",
+          "varieties": "ポウニオノ、レカヒナ",
+          "characteristics": "すべてノーブル、ややヘディ"
+        },
+        {
+          "region": "ハワイ",
+          "count": "13",
+          "localName": "'アワ",
+          "varieties": "モイ、ヒワ、パパケア",
+          "characteristics": "非常に強力、高価"
+        },
+        {
+          "region": "サモア",
+          "count": "4",
+          "localName": "'アバ",
+          "varieties": "アバラウ、アバトンガ",
+          "characteristics": "伝統的、儀式的"
+        },
+        {
+          "region": "パプアニューギニア",
+          "count": "1ノーブル",
+          "localName": "カウ",
+          "varieties": "カウクプウェ",
+          "characteristics": "唯一のノーブル品種"
+        }
+      ],
+      "vanuatuLink": "バヌアツの品種",
+      "pazifikLink": "フィジー、トンガ、ハワイの品種"
+    },
+    "auswahl": {
+      "title": "どの品種が私に合うか？",
+      "intro": "適切なカヴァ品種の選択は、望む効果と時間帯によります。以下はガイドラインです：",
+      "recommendations": [
+        {
+          "purpose": "社交的な場面のために",
+          "type": "ヘディ",
+          "description": "<strong>ヘディ</strong>カヴァを選んでください：",
+          "varieties": [
+            "ケライ（バヌアツ）",
+            "ポウニオノ（トンガ）",
+            "モイ（ハワイ）"
+          ]
+        },
+        {
+          "purpose": "ストレスと不安に対抗するために",
+          "type": "バランス",
+          "description": "<strong>バランス</strong>カヴァを選んでください：",
+          "varieties": [
+            "メロメロ（バヌアツ）",
+            "ビルカール（バヌアツ）",
+            "ボログ（バヌアツ）"
+          ]
+        },
+        {
+          "purpose": "筋肉のリラクゼーションのために",
+          "type": "ヘビー",
+          "description": "<strong>ヘビー</strong>カヴァを選んでください：",
+          "varieties": [
+            "パラサ（バヌアツ）",
+            "パララスル（バヌアツ）",
+            "ロアワカ（フィジー）"
+          ]
+        },
+        {
+          "purpose": "眠るために",
+          "type": "ヘビー",
+          "description": "<strong>ヘビー</strong>カヴァを選んでください：",
+          "varieties": [
+            "パラサ（バヌアツ）",
+            "ロアワカ（フィジー）",
+            "アンバエ（バヌアツ）"
+          ]
+        }
+      ],
+      "tip": "<strong>バランス</strong>カヴァ（メロメロやボログなど）から始めてください。これらの品種は、極端な効果がない快適でバランスの取れた体験を提供します。",
+      "tipLabel": "初心者へのヒント："
+    },
+    "unterseiten": {
+      "title": "詳細記事",
+      "intro": "私たちの専門的なサブページでカヴァ品種の各側面を探求してください："
+    }
+  },
+  "subpages": [
+    {
+      "title": "ノーブルカヴァとトゥデイ",
+      "description": "最も重要な区別：なぜノーブルカヴァが安全で、トゥデイを避けるべきか。",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "バヌアツの品種",
+      "description": "カヴァの故郷からの80以上の品種：ボログ、メロメロ、ケライ、パラサなど。",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "フィジー、トンガ、ハワイの品種",
+      "description": "地域特産品：ロアワカ、ポウニオノ、'アワモイとその独自の特性。",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "品種プロフィールの詳細",
+      "description": "主要品種の詳細なプロフィール、化学型、効果、推奨事項。",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "戻る",
+      "title": "成分"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "次へ",
+      "title": "調理法"
+    }
+  }
+}

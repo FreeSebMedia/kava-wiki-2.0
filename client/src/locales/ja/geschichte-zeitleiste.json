@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "カヴァの歴史",
+    "subtitle": "メラネシアでの家畜化から現代世界でのグローバルな普及まで、5,000年のカヴァの歴史を旅する。",
+    "category": "歴史"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "geschichte": "歴史",
+    "zeitleiste": "タイムライン"
+  },
+  "ui": {
+    "filter": "フィルター",
+    "allEpochs": "すべての時代",
+    "readMore": "続きを読む",
+    "loading": "読み込み中..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "先史時代と家畜化",
+      "description": "メラネシアにおけるカヴァ文化の始まり"
+    },
+    "classical": {
+      "name": "古典的な太平洋時代",
+      "description": "オーストロネシアの拡張による普及"
+    },
+    "colonial": {
+      "name": "植民地時代",
+      "description": "ヨーロッパの接触と宣教"
+    },
+    "modern": {
+      "name": "現代の時代",
+      "description": "科学的探求と脱植民地化"
+    },
+    "contemporary": {
+      "name": "現代",
+      "description": "グローバルな普及と文化的ルネサンス"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "起源と家畜化",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "太平洋の広がり",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "植民地時代",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "科学と研究",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "現代",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "現代",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "紀元前3000年頃",
+      "title": "カヴァの domestication",
+      "description": "パプアニューギニアとバヌアツの熱帯雨林で、Piper wichmannii の domestication が始まり、栽培されたカヴァ植物 (Piper methysticum) になります。",
+      "details": "選択的育種と栄養繁殖により、野生の原型よりも高いカバラクトン含量と低い毒性を持つ最初のノーブルカヴァ品種が生まれます。",
+      "location": "パプアニューギニア / バヌアツ",
+      "links": [
+        {
+          "label": "植物",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "起源",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "紀元前2500年頃",
+      "title": "バヌアツでの最初のカヴァ儀式",
+      "description": "バヌアツの島々で最初の儀式的なカヴァ儀式が発展します。ナカマルが中心的な集会所になります。",
+      "details": "若い男性による根の噛み砕きによる調理が伝統として確立されます。カヴァは先祖や精霊とのコミュニケーションの媒体となります。",
+      "location": "バヌアツ",
+      "links": [
+        {
+          "label": "儀式",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "ナカマル",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "紀元前1500–1000年頃",
+      "title": "ラピタの拡張",
+      "description": "ラピタ文化は、メラネシアから西ポリネシアへの海上拡張を通じてカヴァを広めます。",
+      "details": "ラピタ陶器の考古学的発見が拡張ルートを示しています。カヴァ植物はカヌーのアウトリガーに切り取られて運ばれます。",
+      "location": "メラネシア → ポリネシア"
+    },
+    "fiji-arrival": {
+      "year": "紀元前1000年頃",
+      "title": "カヴァがフィジーに到達",
+      "description": "カヴァがフィジーに導入され、'ヤコナ'として知られるようになります。タノア（カヴァボウル）を中心にユニークな儀式が発展します。",
+      "details": "元々カヴァはフィジーで噛むのではなく、挽いて調理されていました。Būrau（男性の家）での先祖崇拝との結びつきが確立されます。",
+      "location": "フィジー",
+      "links": [
+        {
+          "label": "フィジーの儀式",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "太平洋の品種",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "紀元前500年頃",
+      "title": "トンガとサモアのカヴァ",
+      "description": "'アヴァ儀式がトンガとサモアで厳格な階層を持つ高度に形式化された伝統に発展します。",
+      "details": "Tou'a（カヴァの混合者）とMatāpule（儀式の主催者）が重要な儀式的役割となります。飲み順序は社会的秩序を反映します。",
+      "location": "トンガ / サモア",
+      "links": [
+        {
+          "label": "'アヴァ儀式",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "紀元300–500年頃",
+      "title": "カヴァがハワイに到達",
+      "description": "ポリネシアの航海者がカヴァをハワイに持ち込み、'アワ'として知られるようになり、女神ヒナと結びつきます。",
+      "details": "ハワイでは、カヴァ文化がカフナ（司祭）の癒しの儀式と結びついて独自の発展を遂げます。'アワ・ヒワ'の品種は儀式的な目的に予約されます。",
+      "location": "ハワイ",
+      "links": [
+        {
+          "label": "ハワイの品種",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "紀元500年頃",
+      "title": "ポンペイのサカウ文化",
+      "description": "ミクロネシアのポンペイでサカウ儀式が独自の伝統として発展します。",
+      "details": "平らな石の上での調理とハイビスカスの繊維による圧搾がミクロネシアのカヴァ文化の特徴となります。",
+      "location": "ポンペイ（ミクロネシア）"
+    },
+    "fiji-tongan-influence": {
+      "year": "紀元1750年頃",
+      "title": "トンガのフィジーへの影響",
+      "description": "フィジーはトンガのカヴァ儀式を取り入れ、噛むこと、タノアボウル、ビロカップが標準となります。",
+      "details": "セヴセヴ儀式が正式な挨拶として確立されます。キリスト教の宣教師は「より文明的な」ポリネシアの儀式を好みます。",
+      "location": "フィジー"
+    },
+    "european-contact": {
+      "year": "1616年",
+      "title": "最初のヨーロッパ人の接触",
+      "description": "ヤコブ・ル・メールとウィレム・ショウテンのオランダの航海者が太平洋の島々に到達し、初めてカヴァを記録します。",
+      "details": "ヨーロッパ人は先住民の「奇妙な飲み物」を説明しますが、その文化的な重要性を理解していません。",
+      "location": "太平洋"
+    },
+    "cook-documentation": {
+      "year": "1768–1779年",
+      "title": "キャプテン・クックの文書",
+      "description": "ジェームズ・クックが太平洋の航海中にカヴァ儀式を詳細に記録し、サンプルをヨーロッパに持ち帰ります。",
+      "details": "クックのトンガとハワイの'アヴァ儀式'に関する報告は、ヨーロッパでの科学的関心を呼び起こします。植物学者ヨハン・ゲオルク・フォルスターが初めて科学的に植物を記述します。",
+      "location": "トンガ / ハワイ / タヒチ",
+      "links": [
+        {
+          "label": "歴史",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777年",
+      "title": "科学的分類",
+      "description": "ヨハン・ゲオルク・フォルスターがカヴァをPiper methysticum（「酔わせるコショウ科」）として分類します。",
+      "details": "この名前はギリシャ語の'methystikos'（酔わせる）に由来します。フォルスターは彼の著作『De Plantis Esculentis Insularum Oceani Australis』で植物を記述します。",
+      "location": "ヨーロッパ",
+      "links": [
+        {
+          "label": "植物学",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900年",
+      "title": "宣教師の反対",
+      "description": "キリスト教の宣教師はカヴァを「異教徒の」飲み物として攻撃します。一部の地域では儀式が禁止されます。",
+      "details": "宣教師は噛むことを不衛生と批判し、儀式を「怠惰で腐敗し、悪魔的である」とします。東フツナでは1930年に宣教師の命令で噛むことが停止されます。",
+      "location": "太平洋",
+      "links": [
+        {
+          "label": "植民地の影響",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860年",
+      "title": "カバラクトンの発見",
+      "description": "ドイツの化学者が初めてカヴァから活性成分を分離し、'カバイン'と名付けます。",
+      "details": "この発見はカヴァの効果に関する科学的研究と後の医薬品の応用の基礎を築きます。",
+      "location": "ドイツ",
+      "links": [
+        {
+          "label": "カバラクトン",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914年",
+      "title": "ドイツの植民地支配",
+      "description": "ドイツは太平洋の一部（ドイツニューギニア、サモア）を支配します。カヴァは科学的に研究されます。",
+      "details": "ドイツの科学者がカヴァの品種と調理法を文書化します。植民地政府はカヴァの消費を広く容認します。",
+      "location": "ドイツニューギニア / サモア"
+    },
+    "lewin-research": {
+      "year": "1886年",
+      "title": "ルイ・ルウィンの研究",
+      "description": "ドイツの毒物学者ルイ・ルウィンがカヴァに関する包括的な研究を発表し、'ユーフォリカ'として分類します。",
+      "details": "ルウィンの著作『ファンタスティカ』は精神薬理学の標準的な作品となります。彼はカヴァを人類の最も重要な嗜好品の一つとして記述します。",
+      "location": "ドイツ"
+    },
+    "independence-movements": {
+      "year": "1962–1980年",
+      "title": "独立と文化のルネサンス",
+      "description": "太平洋諸国が独立を獲得します。カヴァは文化的アイデンティティの象徴として公共の場に戻ります。",
+      "details": "サモア（1962年）、フィジー（1970年）、トンガ（1970年）、バヌアツ（1980年）が独立します。カヴァ儀式は国家設立や公式な場で祝われます。",
+      "location": "太平洋",
+      "links": [
+        {
+          "label": "現代の歴史",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980年",
+      "title": "バヌアツが独立",
+      "description": "バヌアツがフランス・イギリスの植民地支配から独立します。カヴァは国のシンボルとなります。",
+      "details": "新しい国はカヴァをアイデンティティの一部とします。ナカマルはポートビラや他の都市で重要な社会的機関となります。",
+      "location": "バヌアツ"
+    },
+    "clinical-research": {
+      "year": "1990年代",
+      "title": "不安に関する臨床研究",
+      "description": "最初の対照臨床試験がカヴァ抽出物の抗不安効果を示します。",
+      "details": "メタアナリシスが不安障害におけるカヴァの有効性を確認します。カヴァ製品はヨーロッパとアメリカで植物性医薬品として人気を博します。",
+      "location": "ヨーロッパ / アメリカ",
+      "links": [
+        {
+          "label": "研究",
+          "url": "/studien"
+        },
+        {
+          "label": "不安への効果",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990年代",
+      "title": "アメリカでの最初のカヴァバー",
+      "description": "フロリダとカリフォルニアで最初の西洋のカヴァバーがアルコールの代替としてオープンします。",
+      "details": "カヴァバー運動は太平洋のディアスポラが存在する都市で始まります。フォートローダーデールがアメリカのカヴァシーンの中心となります。",
+      "location": "アメリカ（フロリダ）",
+      "links": [
+        {
+          "label": "現代のカヴァ文化",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "ナカマルとカヴァバー",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002年",
+      "title": "ドイツでのカヴァ禁止",
+      "description": "ドイツは肝臓障害に関する報告を受けてカヴァ製品を禁止します。他のEU諸国も続きます。",
+      "details": "BfArMはすべてのカヴァ含有医薬品の承認を取り消します。この決定は30件の肝毒性の疑いに基づいていますが、後に過剰であると批判されます。",
+      "location": "ドイツ / EU",
+      "links": [
+        {
+          "label": "肝臓の安全性",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "法的地位",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002年",
+      "title": "バヌアツのノーブルのみの輸出政策",
+      "description": "バヌアツは厳しい輸出規則を導入します：ノーブルカヴァ品種のみが輸出されることが許可されます。",
+      "details": "この政策は品質を確保し、カヴァの評判を守ることを目的としています。DHM/DHK含量の高いTudei品種は輸出から除外されます。",
+      "location": "バヌアツ",
+      "links": [
+        {
+          "label": "ノーブルとTudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "バヌアツの品種",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007年",
+      "title": "WHOリスク評価",
+      "description": "WHOは包括的なリスク評価を発表し、伝統的に調理されたカヴァを安全と評価します。",
+      "details": "評価は伝統的な調理（安全）と抽出物（潜在的に問題がある）を区別します。根以外の部分の使用がリスク要因として特定されます。",
+      "location": "国際",
+      "links": [
+        {
+          "label": "安全性",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015年",
+      "title": "ドイツでのリハビリテーション",
+      "description": "ドイツの裁判所がカヴァ禁止を解除します。元の決定は科学的に根拠がないと評価されます。",
+      "details": "連邦行政裁判所はリスク評価が誤っていたと判断します。カヴァ製品は再び合法的に販売されることができます。",
+      "location": "ドイツ",
+      "links": [
+        {
+          "label": "法的地位",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020年",
+      "title": "コーデックス・アリメンタリウス基準",
+      "description": "コーデックス・アリメンタリウスがカヴァを飲料としての国際基準を採択します。",
+      "details": "この基準は品質基準、カバラクトンの限界値、ラベル要件を定義します。国際貿易にとっての画期的な出来事です。",
+      "location": "国際"
+    },
+    "global-expansion": {
+      "year": "2020年代",
+      "title": "カヴァバーのグローバルな拡大",
+      "description": "アメリカで200以上のカヴァバーがオープンします。'ソーバー・キュリアス'運動が成長を促進します。",
+      "details": "カヴァは社交的なリラックスのためのアルコールの代替品として人気を博します。オースティン、デンバー、ニューヨークなどの都市が活気あるカヴァシーンを発展させます。",
+      "location": "アメリカ / ヨーロッパ / オーストラリア",
+      "links": [
+        {
+          "label": "現代のカヴァ文化",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020年代",
+      "title": "気候変動の課題",
+      "description": "太平洋のカヴァ農家は気候変動の影響に苦しんでいます。",
+      "details": "変化する降水パターン、サイクロン、上昇する気温が伝統的な栽培地域を脅かします。持続可能な栽培方法が重要になっています。",
+      "location": "太平洋",
+      "links": [
+        {
+          "label": "栽培",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "現在",
+      "title": "文化のルネサンス",
+      "description": "若い太平洋世代が「カヴァ・コレクティブ」を設立し、伝統的な知識をデジタルで記録します。",
+      "details": "ポッドキャスト、YouTubeチャンネル、Instagramアカウントが世界中にカヴァ文化を広めます。伝統と現代の結びつきが新しい文化的アイデンティティの形を生み出します。",
+      "location": "太平洋 / グローバル",
+      "links": [
+        {
+          "label": "文化と伝統",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "概要",
+    "events": "イベント",
+    "epochs": "時代",
+    "yearsOfHistory": "歴史の年数",
+    "milestones": "マイルストーン",
+    "keyMilestones": "重要なマイルストーン",
+    "relatedPages": "関連ページ",
+    "noEventsFound": "これらのフィルターに対するイベントは見つかりませんでした。",
+    "resetFilters": "フィルターをリセット",
+    "bce": "紀元前",
+    "origins": "起源",
+    "spreadPacific": "太平洋の広がり",
+    "modernHistory": "現代史",
+    "interactiveMap": "インタラクティブな世界地図"
+  }
+}

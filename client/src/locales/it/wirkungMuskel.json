@@ -1,0 +1,233 @@
+{
+  "page": {
+    "title": "Rilassamento Muscolare",
+    "subtitle": "Come le Kavalactone alleviano le tensioni e promuovono il rilassamento fisico.",
+    "category": "Effetto"
+  },
+  "toc": {
+    "title": "Contenuto",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introduzione",
+        "level": 1
+      },
+      {
+        "id": "mechanismen",
+        "title": "Meccanismi d'azione",
+        "level": 1
+      },
+      {
+        "id": "kavalactone",
+        "title": "Kavalactone Rilevanti",
+        "level": 1
+      },
+      {
+        "id": "anwendungen",
+        "title": "Aree di Applicazione",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Chemotipi e Varietà Raccomandati",
+        "level": 1
+      },
+      {
+        "id": "praxis",
+        "title": "Applicazione Pratica",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "wirkung": "Effetto",
+    "current": "Rilassamento Muscolare"
+  },
+  "einfuehrung": {
+    "paragraph1": "L'<strong>effetto rilassante muscolare</strong> del Kava è uno degli effetti più percepibili. Già dopo il primo Shell, una onda di rilassamento inizia a muoversi attraverso il corpo – le tensioni si sciolgono, il corpo si sente \"pesante\" e piacevole.",
+    "paragraph2": "Nell'applicazione tradizionale nel Pacifico, il Kava viene utilizzato da millenni per alleviare i dolori muscolari e la tensione fisica. La ricerca moderna ha chiarito i meccanismi sottostanti."
+  },
+  "mechanismen": {
+    "title": "Meccanismi d'azione",
+    "intro": "L'effetto rilassante muscolare del Kava si basa su diversi meccanismi sinergici che agiscono sia a livello centrale (cervello/midollo spinale) che periferico.",
+    "items": [
+      {
+        "icon": "zap",
+        "title": "Blocco dei Canali del Sodio e del Calcio",
+        "text": "Le Kavalactone bloccano i <strong>canali del sodio e del calcio</strong> dipendenti dalla tensione nelle cellule nervose. Questo riduce l'eccitabilità dei motoneuroni (cellule nervose che controllano i muscoli) e porta a una diminuzione del tono muscolare. Questo meccanismo è anche responsabile dell'effetto <strong>anticonvulsivante</strong>."
+      },
+      {
+        "icon": "activity",
+        "title": "Modulazione Centrale del GABA",
+        "text": "L'aumento dell'effetto del GABA nel cervello e nel midollo spinale riduce la <strong>tensione muscolare centrale</strong>. Il GABA è il principale neurotrasmettitore inibitorio e regola anche il tono muscolare a livello spinale."
+      },
+      {
+        "icon": "heart",
+        "title": "Effetto Periferico",
+        "text": "Alcune Kavalactone agiscono anche direttamente sulla <strong>muscolatura liscia</strong> (ad esempio, nei vasi sanguigni). Questo può portare a una leggera vasodilatazione e spiega la sensazione di calore che molti utenti segnalano."
+      }
+    ],
+    "quote": {
+      "text": "Le Kavalactone bloccano i canali del sodio e del calcio dipendenti dalla tensione a livello neuronale, contribuendo all'effetto rilassante muscolare.",
+      "source": "— Kava – Radice della Calma"
+    }
+  },
+  "kavalactone": {
+    "title": "Kavalactone Rilevanti",
+    "intro": "Non tutte le Kavalactone hanno lo stesso effetto rilassante muscolare. In particolare, due composti si distinguono:",
+    "dhk": {
+      "position": "2",
+      "title": "Dihydrokavain (DHK)",
+      "positionLabel": "Posizione 2 nel Chemotipo",
+      "description": "Il DHK è il <strong>più potente rilassante muscolare</strong> tra le Kavalactone. Agisce principalmente attraverso il blocco dei canali del sodio e ha una componente sedativa marcata.",
+      "profileLabel": "Profilo d'azione:",
+      "profile": "Fortemente rilassante muscolare, sedativo, corporeo. Ideale per l'uso serale e in caso di tensioni."
+    },
+    "dhm": {
+      "position": "5",
+      "title": "Dihydromethysticin (DHM)",
+      "positionLabel": "Posizione 5 nel Chemotipo",
+      "description": "Il DHM ha anch'esso forti proprietà rilassanti muscolari, ma è anche la Kavalactone con la <strong>durata d'azione più lunga</strong>. A concentrazioni elevate può portare a una stanchezza persistente.",
+      "warningLabel": "Attenzione:",
+      "warning": "Alte concentrazioni di DHM (Posizione 1-2) sono tipiche delle varietà Tudei e possono causare sintomi da \"postumi di una sbornia\"."
+    },
+    "table": {
+      "headers": {
+        "kavalacton": "Kavalactone",
+        "relaxation": "Rilassamento Muscolare",
+        "sedation": "Sedazione",
+        "duration": "Durata"
+      },
+      "rows": [
+        {
+          "name": "Dihydrokavain (2)",
+          "relaxation": "⭐⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐",
+          "duration": "Media"
+        },
+        {
+          "name": "Dihydromethysticin (5)",
+          "relaxation": "⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐⭐",
+          "duration": "Lunga"
+        },
+        {
+          "name": "Methysticin (3)",
+          "relaxation": "⭐⭐⭐",
+          "sedation": "⭐⭐⭐",
+          "duration": "Media"
+        },
+        {
+          "name": "Kavain (4)",
+          "relaxation": "⭐⭐",
+          "sedation": "⭐⭐",
+          "duration": "Breve"
+        }
+      ]
+    }
+  },
+  "anwendungen": {
+    "title": "Aree di Applicazione",
+    "intro": "L'effetto rilassante muscolare del Kava può essere utile in diverse problematiche:",
+    "items": [
+      {
+        "title": "Tensioni nella zona del collo/spalle",
+        "text": "Lo stress e il lavoro al computer portano spesso a tensioni croniche. Il Kava può aiutare a scioglierle e migliorare il benessere."
+      },
+      {
+        "title": "Mal di schiena",
+        "text": "Nel caso di mal di schiena di origine muscolare, l'effetto rilassante può portare sollievo. Il Kava non sostituisce il trattamento medico, ma può avere un effetto di supporto."
+      },
+      {
+        "title": "Mal di testa da tensione",
+        "text": "I mal di testa causati da tensioni muscolari nella zona del collo e della testa possono essere alleviati dal rilassamento."
+      },
+      {
+        "title": "Disturbi mestruali",
+        "text": "L'effetto antispasmodico può essere utile in caso di crampi mestruali. Tradizionalmente, il Kava è stato utilizzato nel Pacifico anche per questo scopo."
+      },
+      {
+        "title": "Dopo lo sport",
+        "text": "Per il recupero dopo un allenamento intenso, il Kava può aiutare a rilassare i muscoli e favorire il recupero."
+      },
+      {
+        "title": "Sindrome delle gambe senza riposo",
+        "text": "Alcuni utenti segnalano un sollievo per le gambe inquieti. La combinazione di rilassamento muscolare e ansiolitico può essere efficace."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Chemotipi e Varietà Raccomandati",
+    "intro": "Per una <strong>massima rilassamento muscolare</strong>, dovrebbero essere scelte varietà con alto contenuto di DHK (Posizione 2 al primo o secondo posto). Questi Kava \"Heavy\" sono corporei e ideali per l'uso serale.",
+    "heavy": {
+      "label": "Heavy",
+      "idealFor": "Massimo Rilassamento Muscolare",
+      "varieties": [
+        {
+          "name": "Palasa (Vanuatu)",
+          "chemotype": "423651",
+          "description": "Molto corporeo, forte rilassamento muscolare. Ideale in caso di tensioni."
+        },
+        {
+          "name": "Ambae (Vanuatu)",
+          "chemotype": "246531",
+          "description": "Dominante in DHK, effetto \"Couch-Lock\" marcato."
+        },
+        {
+          "name": "Palarasul (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Fortemente sedativo con buon rilassamento muscolare."
+        },
+        {
+          "name": "Borogu (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Classico con effetto corporeo equilibrato."
+        }
+      ]
+    },
+    "tip": {
+      "title": "Consiglio sul Chemotipo",
+      "text": "Fai attenzione alla <strong>Posizione 2 (DHK)</strong> nel Chemotipo. Più è avanti, più forte è il rilassamento muscolare. Un chemotipo come <strong>246...</strong> o <strong>426...</strong> indica una varietà corporea. Utilizza il <a href=\"/de/inhaltsstoffe/rechner\" class=\"text-primary hover:underline\">Calcolatore di Chemotipo</a> per analizzare le varietà."
+    }
+  },
+  "praxis": {
+    "title": "Applicazione Pratica",
+    "intro": "Per l'applicazione in caso di tensioni muscolari ci sono alcune raccomandazioni:",
+    "boxTitle": "Raccomandazioni per il Rilassamento Muscolare",
+    "tips": [
+      {
+        "label": "Tempistica:",
+        "text": "Meglio la sera, 1-2 ore prima di andare a letto. La componente sedativa delle varietà rilassanti muscolari può rendere stanchi."
+      },
+      {
+        "label": "Dosaggio:",
+        "text": "2-3 Shells (30-45g di polvere) per un effetto corporeo evidente. I principianti dovrebbero iniziare con meno."
+      },
+      {
+        "label": "Combinazione:",
+        "text": "Il calore (bagno caldo, borsa dell'acqua calda) intensifica l'effetto rilassante. Anche leggeri esercizi di stretching possono essere utili."
+      },
+      {
+        "label": "Regolarità:",
+        "text": "In caso di tensioni croniche, può essere utile un'applicazione regolare serale (con pause)."
+      },
+      {
+        "label": "Idratazione:",
+        "text": "Bere abbastanza acqua, poiché il Kava può avere un effetto leggermente disidratante."
+      }
+    ],
+    "feeling": {
+      "title": "La \"Sensazione di Kava\"",
+      "text": "Il rilassamento fisico attraverso il Kava è spesso descritto come una piacevole \"pesantezza\". Gli arti si sentono caldi e rilassati, le tensioni si sciolgono da sole. Questo stato non deve essere confuso con la confusione – la mente rimane lucida, solo il corpo si rilassa profondamente."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Proseguendo nel capitolo Effetto:",
+    "next": {
+      "title": "Umore & Sociale",
+      "description": "Come il Kava migliora l'umore e promuove le interazioni sociali",
+      "href": "/de/wirkung/stimmung"
+    }
+  }
+}

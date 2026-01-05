@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Piper methysticumの植物学",
+    "subtitle": "カヴァ植物の分類学、形態学、生態学への深い洞察。",
+    "category": "植物学"
+  },
+  "toc": {
+    "einfuehrung": "導入",
+    "klassifikation": "科学的分類",
+    "ueberblick": "形態学的概要",
+    "verbreitung": "分布と生息地",
+    "vertiefung": "詳細な記事"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>、一般的にカヴァまたはカヴァカヴァとして知られる、はコショウ科（Piperaceae）の熱帯の低木です。<em>Piper methysticum</em>という名前は「酔わせるコショウ」という意味で、ギリシャ語の<em>methystikos</em>（酔わせる）に由来します。",
+    "paragraph2": "多くの他の精神活性植物とは異なり、カヴァは主要な有効成分としてアルカロイドを含まず、<strong>カヴァラクタones</strong>として知られる独特の化合物のクラスを含んでいます。この植物は数千年にわたり太平洋地域の文化において��心的な役割を果たしており、今日では数千年にわたる人間の選択の結果です。"
+  },
+  "classification": {
+    "title": "科学的分類",
+    "headers": {
+      "rank": "階級",
+      "name": "学名"
+    },
+    "ranks": {
+      "reich": "界",
+      "abteilung": "門",
+      "ordnung": "目",
+      "familie": "科",
+      "gattung": "属",
+      "art": "種"
+    },
+    "values": {
+      "reich": "Plantae (植物)",
+      "abteilung": "Tracheophyta (維管束植物)",
+      "ordnung": "Piperales (コショウ目)",
+      "familie": "Piperaceae (コショウ科)",
+      "gattung": "Piper (コショウ)",
+      "art": "Piper methysticum G. Forst."
+    },
+    "note": "<em>Piper wichmannii</em>が最も近い関連種であり、今日の栽培されたカヴァ植物の野生の原形と見なされています。<em>P. wichmannii</em>（しばしば「野生カヴァ」と呼ばれる）は性行為によって繁殖できる一方で、栽培された<em>P. methysticum</em>は不妊であり、完全に人間に依存しています。"
+  },
+  "morphology": {
+    "title": "形態学的概要",
+    "intro": "カヴァは通常1.5メートルから3メートルの高さに達する常緑の低木で、最適な��件下では5メートルまで成長することがあります。",
+    "aboveGround": {
+      "title": "地上部",
+      "leaves": "<strong>葉:</strong> 大きく、ハート型（心形）、幅20-30 cm",
+      "stems": "<strong>茎:</strong> 節状で、竹のようで、品種特有の色合い",
+      "flowers": "<strong>花:</strong> 穂状、無性（種なし）"
+    },
+    "belowGround": {
+      "title": "地下部",
+      "stump": "<strong>ストンプ（コルム）:</strong> 厚く、木質の根茎",
+      "roots": "<strong>側根（ワカ）:</strong> より細い根、最高のカヴァラクタones含量",
+      "weight": "<strong>重量:</strong> 成熟した植物で5-25 kg（3-5年以上）"
+    }
+  },
+  "distribution": {
+    "title": "分布と生息地",
+    "intro": "カヴァは西太平洋に自生しています。起源地は北バヌアツとされ、ここには最大の遺伝的多様性があります。そこから、ポリネシアの航海者（「カヌー植物」）によって太平洋全体に広がりました。",
+    "regionsIntro": "今日、カヴァは主に以下の地域で栽培されています:",
+    "regions": {
+      "vanuatu": "<strong>バヌアツ:</strong> 80種類以上の品種を持つ世界最大の生産国。",
+      "fiji": "<strong>フィジー:</strong> 「ワカ」（根）と「ルウェナ」（基部茎）で知られています。",
+      "tonga": "<strong>トンガ:</strong> 非常に穏やかで「クリーミーな」カヴァ（例：ポウニオノ）を生産します。",
+      "samoa": "<strong>サモア:</strong> ここではカヴァを「アヴァ」と呼びます。",
+      "hawaii": "<strong>ハワイ:</strong> ここではカヴァを「アワ」と呼びます（例：モイ、マハケア）。",
+      "pohnpei": "<strong>ポンペイとミクロネシア:</strong> 新鮮なカヴァジュース（「サカウ」）の消費で知られています。"
+    }
+  },
+  "subpages": {
+    "title": "詳細な記事",
+    "intro": "カヴァ植物学の特定の側面に関する詳細情報を得るために、以下のサブページを探索してください。",
+    "pflanze": {
+      "title": "植物",
+      "description": "Piper methysticumとその野生の原形Piper wichmanniiとの関係、分類学、命名法。",
+      "topics": [
+        "分類学的配置",
+        "名前の重要性",
+        "家畜化と進化",
+        "生きた文化遺産としてのカヴァ"
+      ]
+    },
+    "morphologie": {
+      "title": "形態学",
+      "description": "経済的に重要な根系に特に焦点を当てたカヴァ植物の詳細な解剖学。",
+      "topics": [
+        "根系（ストンプとワカ）",
+        "カヴァラクタonesの分布",
+        "茎と葉",
+        "花と不妊"
+      ]
+    },
+    "anbau": {
+      "title": "栽培と生態学",
+      "description": "成長条件、繁殖方法、伝統的なカヴァ栽培の技術。",
+      "topics": [
+        "無性繁殖",
+        "気候条件",
+        "土壌特性",
+        "収穫と品質要因"
+      ]
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "言語を切り替える"
+  },
+  "nav": {
+    "botanik": {
+      "name": "植物学",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "植物学の紹介"
+        },
+        "pflanze": {
+          "name": "植物",
+          "description": "分類学 & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "形態学",
+          "description": "解剖学 & 根系"
+        },
+        "anbau": {
+          "name": "栽培 & 生態",
+          "description": "栽培 & 繁殖"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "歴史",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "カヴァの歴史"
+        },
+        "urspruenge": {
+          "name": "起源",
+          "description": "バヌアツ & 家畜化"
+        },
+        "verbreitung": {
+          "name": "普及",
+          "description": "太平洋の拡大"
+        },
+        "moderne": {
+          "name": "現代の歴史",
+          "description": "2002年の禁止 & リハビリテーション"
+        },
+        "zeitleiste": {
+          "name": "インタラクティブタイムライン",
+          "description": "5000年のカヴァの歴史"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "成分",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "カバラクトン & 化学型"
+        },
+        "kavalactone": {
+          "name": "6つのカバラクトン",
+          "description": "詳細な作用プロファイル"
+        },
+        "chemotypen": {
+          "name": "化学型システム",
+          "description": "ノーブルとトゥデイを識別する"
+        },
+        "rechner": {
+          "name": "化学型計算機",
+          "description": "インタラクティブな分析ツール"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "効果",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "作用機序"
+        },
+        "angst": {
+          "name": "不安解消",
+          "description": "抗不安作用"
+        },
+        "schlaf": {
+          "name": "睡眠 & リラクゼーション",
+          "description": "鎮静効果"
+        },
+        "muskel": {
+          "name": "筋肉の弛緩",
+          "description": "身体のリラクゼーション"
+        },
+        "stimmung": {
+          "name": "気分 & 社会性",
+          "description": "多幸感の効果"
+        },
+        "kognition": {
+          "name": "認知効果",
+          "description": "集中 & 逆耐性"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "安全性",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "安全性 & 副作用"
+        },
+        "leber": {
+          "name": "肝臓の安全性",
+          "description": "肝毒性 & 2002年の禁止"
+        },
+        "wechselwirkungen": {
+          "name": "相互作用",
+          "description": "薬物 & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "禁忌",
+          "description": "カヴァを避けるべき時"
+        },
+        "checker": {
+          "name": "相互作用チェッカー",
+          "description": "薬物を確認する"
+        }
+      }
+    },
+    "sorten": {
+      "name": "品種",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "品種 & 栽培品"
+        },
+        "noble-tudei": {
+          "name": "ノーブル vs. トゥデイ",
+          "description": "重要な区別"
+        },
+        "vanuatu": {
+          "name": "バヌアツの品種",
+          "description": "ボログ、メロメロ、ケライ & もっと"
+        },
+        "pazifik": {
+          "name": "太平洋の品種",
+          "description": "フィジー、トンガ、ハワイ、サモア"
+        },
+        "profile": {
+          "name": "品種プロファイル",
+          "description": "詳細なプロフィール"
+        },
+        "vergleich": {
+          "name": "品種比較",
+          "description": "2つの品種を比較する"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "調製",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "調製方法"
+        },
+        "traditionell": {
+          "name": "伝統的な方法",
+          "description": "布でこねる"
+        },
+        "blender": {
+          "name": "ブレンダー法",
+          "description": "迅速な調製"
+        },
+        "instant": {
+          "name": "インスタントカヴァ",
+          "description": "微粉化カヴァ"
+        },
+        "rechner": {
+          "name": "用量計算機",
+          "description": "最適な量を計算する"
+        }
+      }
+    },
+    "kultur": {
+      "name": "文化",
+      "items": {
+        "uebersicht": {
+          "name": "概要",
+          "description": "文化 & 伝統"
+        },
+        "zeremonien": {
+          "name": "儀式 & 祭典",
+          "description": "ヤコナ、'アバ & ナカマルの儀式"
+        },
+        "nakamal": {
+          "name": "ナカマル & カヴァバー",
+          "description": "伝統的 & 現代的な場所"
+        },
+        "moderne": {
+          "name": "現代のカヴァ文化",
+          "description": "世界的な普及 & ルネサンス"
+        },
+        "weltkarte": {
+          "name": "インタラクティブ世界地図",
+          "description": "カヴァ地域を探る"
+        },
+        "kava-bars": {
+          "name": "カヴァバー検索",
+          "description": "世界中のカヴァバーを見つける"
+        }
+      }
+    },
+    "mehr": {
+      "name": "もっと",
+      "items": {
+        "faq": {
+          "name": "FAQ",
+          "description": "よくある質問"
+        },
+        "studien": {
+          "name": "研究",
+          "description": "科学的研究"
+        },
+        "rechtsstatus": {
+          "name": "法的地位",
+          "description": "法的状況"
+        },
+        "glossar": {
+          "name": "用語集",
+          "description": "専門用語の説明"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Piper methysticumに関する世界で最も包括的な知識ポータル。科学的根拠があり、文化的に尊重されています。",
+    "sections": {
+      "wissen": {
+        "title": "知識",
+        "links": {
+          "botanik": "植物学",
+          "geschichte": "歴史",
+          "wissenschaft": "科学",
+          "sicherheit": "安全性"
+        }
+      },
+      "praxis": {
+        "title": "実践",
+        "links": {
+          "zubereitung": "調製",
+          "sorten": "品種 & 化学型",
+          "rechtsstatus": "法的地位",
+          "faq": "よくある質問"
+        }
+      },
+      "partner": {
+        "title": "パートナー & 書籍",
+        "recommendedReading": "推奨読書:",
+        "bookTitle": "\"カヴァ – 静けさの根\""
+      }
+    },
+    "copyright": "すべての権利を保留します。",
+    "legal": {
+      "impressum": "インプリント",
+      "datenschutz": "データ保護"
+    }
+  },
+  "breadcrumbs": {
+    "home": "ホーム"
+  },
+  "toc": {
+    "title": "目次"
+  },
+  "recommendation": {
+    "label": "推奨",
+    "title": "プレミアムノーブルカヴァ",
+    "text": "公式パートナーで認証された品質と純度を発見してください。",
+    "cta": "Kava-mode.comへ"
+  }
+}

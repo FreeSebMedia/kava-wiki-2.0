@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Sicurezza & Salute",
+    "subtitle": "Fatti invece di miti: Uno sguardo scientifico sulla epatotossicità, effetti collaterali e consumo sicuro.",
+    "category": "Sicurezza"
+  },
+  "toc": {
+    "title": "Contenuto",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Consenso scientifico",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Panoramica dei capitoli",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Sicurezza epatica",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interazioni",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Controindicazioni",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Raccomandazioni di dosaggio",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Possibili effetti collaterali",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Lista di controllo per la sicurezza",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Consenso scientifico attuale",
+    "intro": "Dopo ampie analisi da parte di <strong>OMS</strong>, <strong>EMA</strong> e ricercatori indipendenti:",
+    "points": [
+      "Il Kava preparato tradizionalmente da varietà Noble è <strong>sicuro</strong> se usato correttamente",
+      "Danni epatici gravi sono <strong>estremamente rari</strong> (incidenza stimata: 1:60.000 a 1:1.000.000)",
+      "Il divieto dell'UE del 2002 è stato classificato dai tribunali tedeschi come <strong>disproporzionato</strong>",
+      "I rischi derivano principalmente da <strong>difetti di qualità</strong>, <strong>parti vegetali sbagliate</strong> o <strong>consumo misto</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Panoramica dei capitoli: Sicurezza in dettaglio",
+    "intro": "Questo capitolo offre un'analisi completa e scientificamente fondata di tutti gli aspetti rilevanti per la sicurezza del Kava. Clicca sulle sottopagine per informazioni dettagliate:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Sicurezza epatica & Epatotossicità",
+        "href": "/de/sicherheit/leber",
+        "description": "La verità scientifica sul divieto del 2002, valutazioni dell'OMS e dell'EMA, fattori di rischio e raccomandazioni pratiche.",
+        "highlights": [
+          "Valutazione OMS 2007",
+          "Rapporto EMA 2017",
+          "Sentenze giudiziarie",
+          "Fattori di rischio"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interazioni con i farmaci",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Le Kavalactone inibiscono gli enzimi CYP450: Panoramica completa sulle combinazioni ad alto rischio e interazioni moderate.",
+        "highlights": [
+          "Sistema CYP450",
+          "Combinazioni ad alto rischio",
+          "Tabella delle interazioni",
+          "Consigli pratici"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Controindicazioni",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Quando non dovrebbe essere usato il Kava: controindicazioni assolute e relative per un uso sicuro.",
+        "highlights": [
+          "Malattie epatiche",
+          "Gravidanza",
+          "Parkinson",
+          "Guida alla decisione"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Raccomandazioni di dosaggio",
+    "intro": "La dose ottimale dipende fortemente dalla tolleranza individuale (\"Tolleranza inversa\") e dalla varietà di Kava. Inizia sempre con dosi più basse.",
+    "boxTitle": "Valori di riferimento per le Kavalactone",
+    "medical": {
+      "title": "Medico (Ansia)",
+      "value": "60–240 mg",
+      "unit": "Kavalactone al giorno"
+    },
+    "traditional": {
+      "title": "Tradizionale / Ricreativo",
+      "value": "250–500 mg",
+      "unit": "Kavalactone per seduta"
+    },
+    "tableTitle": "Preparazione con polvere di radice (macinatura media)",
+    "table": {
+      "headers": {
+        "level": "Livello di esperienza",
+        "amount": "Quantità",
+        "water": "Acqua"
+      },
+      "rows": [
+        {
+          "level": "Principiante",
+          "amount": "2-3 cucchiai (circa 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Avanzato",
+          "amount": "4-6 cucchiai (circa 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Possibili effetti collaterali",
+    "intro": "Anche se il Kava è sicuro se usato correttamente, possono verificarsi effetti collaterali, specialmente con un consumo eccessivo.",
+    "frequent": {
+      "title": "Comuni (dipendenti dalla dose)",
+      "items": [
+        {
+          "label": "Affaticamento:",
+          "value": "Particolarmente con varietà \"Heavy\""
+        },
+        {
+          "label": "Nausea:",
+          "value": "Con dosi elevate a stomaco vuoto"
+        },
+        {
+          "label": "Disidratazione:",
+          "value": "Il Kava ha un effetto diuretico"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Con consumo cronico",
+      "items": [
+        {
+          "label": "Dermopatia da Kava:",
+          "value": "Pelle secca e squamosa (reversibile)"
+        },
+        {
+          "label": "Aumento della GGT:",
+          "value": "Gli enzimi epatici aumentano leggermente (reversibile)"
+        },
+        {
+          "label": "Perdita di peso:",
+          "value": "Con consumo molto elevato"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Lista di controllo per la sicurezza",
+    "boxTitle": "Per un consumo sicuro di Kava",
+    "items": [
+      "<strong>Utilizzare solo Kava Noble</strong> da fonti affidabili",
+      "<strong>Solo radice/rizoma</strong> – nessuna foglia o stelo",
+      "<strong>Preferire la preparazione acquosa tradizionale</strong>",
+      "<strong>Nessun alcol</strong> – almeno 24 ore di distanza"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Controllo dei farmaci</strong> – ",
+        "linkText": "Controllare le interazioni",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Prestare attenzione alle controindicazioni</strong> – ",
+        "linkText": "Vedi la lista di controllo",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Prestare attenzione ai segnali di avvertimento",
+      "text": "In caso di ingiallimento della pelle/occhi, urine scure, feci chiare o affaticamento insolito, interrompere immediatamente il consumo e consultare un medico."
+    }
+  },
+  "quickLinks": {
+    "title": "Informazioni dettagliate",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Sicurezza epatica",
+        "description": "Epatotossicità & il divieto del 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interazioni",
+        "description": "Farmaci & interazioni CYP450",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Controindicazioni",
+        "description": "Quando evitare il Kava",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

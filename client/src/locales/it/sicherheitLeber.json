@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Sicurezza epatica & Epatotossicità",
+    "subtitle": "Un'analisi scientifica della controversia sul fegato del Kava: fatti, miti e stato attuale della ricerca.",
+    "category": "Sicurezza",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Sicurezza",
+      "current": "Sicurezza epatica"
+    }
+  },
+  "toc": {
+    "title": "Indice",
+    "zusammenfassung": "Sintesi",
+    "verbot2002": "Il divieto del 2002",
+    "wasWirklichGeschah": "Cosa è realmente successo",
+    "rehabilitation": "Riabilitazione & Sentenze",
+    "wissenschaft": "L'evidenza scientifica",
+    "whoBewertung": "Valutazione OMS 2007",
+    "emaBewertung": "Valutazione EMA 2017",
+    "klinischeStudien": "Studi clinici",
+    "risikofaktoren": "Fattori di rischio identificati",
+    "extrakte": "Tipi di estratti",
+    "pflanzenteile": "Parti della pianta",
+    "genetik": "Fattori genetici",
+    "komedikation": "Comedicazione & Alcol",
+    "mechanismen": "Possibili meccanismi",
+    "empfehlungen": "Raccomandazioni pratiche",
+    "quellen": "Fonti"
+  },
+  "zusammenfassung": {
+    "title": "Consenso scientifico attuale",
+    "intro": "Dopo ampie analisi da parte dell'OMS, EMA e ricercatori indipendenti, si considera:",
+    "points": [
+      "Il Kava preparato tradizionalmente da varietà nobili è <strong>sicuro</strong> se utilizzato correttamente",
+      "Danni epatici gravi sono <strong>estremamente rari</strong> (incidenza stimata: 1:60.000 a 1:1.000.000)",
+      "La maggior parte dei casi riportati presentava <strong>significativi difetti di qualità</strong> nella valutazione di causalità",
+      "Il divieto dell'UE del 2002 è stato classificato dai tribunali tedeschi come <strong>disproporzionato</strong>"
+    ]
+  },
+  "verbot2002": {
+    "title": "Il divieto del 2002",
+    "intro": "Nel 2002, il Kava è stato ritirato dal mercato in Germania e in molti altri paesi europei. L'Istituto federale per i medicinali e i prodotti medici (BfArM) ha revocato le autorizzazioni per i medicinali contenenti Kava dopo che erano pervenute segnalazioni di gravi danni epatici. Questa decisione ha avuto ampie ripercussioni sul mercato globale del Kava e sui paesi produttori del Pacifico.",
+    "chronologie": {
+      "title": "Cronologia degli eventi",
+      "note": "Per informazioni dettagliate sullo stato legale attuale in vari paesi, vedere",
+      "linkText": "Stato legale & Legalità",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Primi casi di danni epatici in utilizzatori di Kava in Europa"
+        },
+        {
+          "date": "Nov 2001",
+          "text": "Il BfArM ordina un procedimento a tappe"
+        },
+        {
+          "date": "Giu 2002",
+          "text": "Revoca delle autorizzazioni in Germania"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Divieti nel Regno Unito, Francia, Svizzera, Canada, Australia"
+        },
+        {
+          "date": "2014",
+          "text": "Il tribunale amministrativo di Colonia dichiara il divieto illegittimo"
+        },
+        {
+          "date": "2015",
+          "text": "L'OVG di Münster conferma: il divieto era sproporzionato"
+        },
+        {
+          "date": "2019",
+          "text": "Revoca definitiva delle autorizzazioni per i medicinali"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Cosa è realmente successo: Un'analisi critica",
+    "intro": "I rapporti originali che hanno portato al divieto sono stati oggetto di intense indagini scientifiche negli anni successivi. Sono emersi significativi difetti metodologici:",
+    "probleme": {
+      "title": "Problemi dei rapporti di caso",
+      "items": [
+        "Documentazione incompleta in oltre il 50% dei casi",
+        "Nessuna valutazione di causalità standardizzata (RUCAM)",
+        "Comedicazione con sostanze epatotossiche ignorata",
+        "Consumo di alcol spesso non documentato",
+        "Qualità del prodotto e parti della pianta poco chiare"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Scoperte successive",
+      "items": [
+        "Molti prodotti contenevano parti aeree della pianta",
+        "Gli estratti acetici mostrano un rischio maggiore rispetto a quelli acquosi",
+        "Il Kava Tudei è stato parzialmente venduto come Noble",
+        "Contaminazione da muffa in alcuni prodotti dimostrata",
+        "Polimorfismi genetici identificati come fattore di rischio"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Riabilitazione da parte dei tribunali",
+    "intro": "Dopo anni di contenziosi legali, i tribunali tedeschi hanno raggiunto un risultato chiaro. Il tribunale amministrativo di Colonia e successivamente il tribunale amministrativo superiore di Münster hanno stabilito che il divieto era <strong>disproporzionato</strong> e che le autorità non avevano valutato correttamente l'evidenza scientifica.",
+    "quote": "\"La causalità assunta dal BfArM tra l'assunzione di medicinali contenenti Kava-Kava e i danni epatici verificatisi non è sufficientemente dimostrata. La valutazione rischio-beneficio è stata condotta in modo errato.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "L'evidenza scientifica",
+    "intro": "Dopo il divieto, sono state condotte diverse valutazioni scientifiche complete che tracciano un quadro più sfumato della sicurezza del Kava."
+  },
+  "whoBewertung": {
+    "title": "Valutazione OMS 2007",
+    "intro": "L'Organizzazione Mondiale della Sanità (OMS) ha condotto nel 2007 un'analisi completa di tutti i rapporti di caso disponibili. Il risultato è stato rivelatore:",
+    "analysisTitle": "Analisi OMS di 93 rapporti di caso",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Casi \"probabilmente\" causali",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Casi \"possibilmente\" causali",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Casi non valutabili",
+        "color": "muted"
+      }
+    ],
+    "note": "L'OMS ha osservato che gli estratti acetici ed etanolici presentavano un rischio maggiore rispetto alle Kavalactone sintetiche, suggerendo che componenti non Kavalactone potrebbero essere una causa possibile."
+  },
+  "emaBewertung": {
+    "title": "Valutazione EMA 2017",
+    "intro": "L'Agenzia Europea per i Medicinali (EMA) ha pubblicato nel 2017 un rapporto di valutazione di 103 pagine che riassume tutti i dati disponibili:",
+    "findings": [
+      {
+        "label": "Studi clinici",
+        "text": "Nessuna epatotossicità significativa in studi controllati"
+      },
+      {
+        "label": "Effetti collaterali",
+        "text": "Solo lievi aumenti reversibili delle transaminasi in pochi soggetti"
+      },
+      {
+        "label": "Fattori di rischio",
+        "text": "Estratti organici, alcol, malattie epatiche preesistenti, polimorfismi genetici"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Evidenza da studi clinici",
+    "intro": "Un punto particolarmente importante: negli studi clinici controllati con preparati di Kava standardizzati, non sono stati osservati <strong>danni epatici gravi</strong>. Una revisione sistematica di Smith & Leiras (2018) ha analizzato 11 studi randomizzati e non ha trovato evidenze di epatotossicità.",
+    "tableTitle": "Sintesi della situazione degli studi",
+    "headers": [
+      "Studio",
+      "Partecipanti",
+      "Durata",
+      "Danni epatici"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 settimane",
+        "result": "Nessuno"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 settimane",
+        "result": "Nessuno*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 settimane",
+        "result": "Nessuno"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 studi)",
+        "duration": "1-24 settimane",
+        "result": "Nessuno"
+      }
+    ],
+    "footnote": "*Leggeri aumenti delle transaminasi in 2 soggetti, uno aveva già valori di base elevati"
+  },
+  "risikofaktoren": {
+    "title": "Fattori di rischio identificati",
+    "intro": "La ricerca scientifica ha identificato diversi fattori che possono aumentare il rischio di effetti collaterali epatici. Comprendere questi fattori consente un uso sicuro."
+  },
+  "extrakte": {
+    "title": "Tipi di estratti: Acquosi vs. Organici",
+    "intro": "Un risultato centrale dell'analisi dell'OMS è stata la differenza tra i vari metodi di estrazione:",
+    "waessrig": {
+      "title": "Estratti acquosi (tradizionali)",
+      "items": [
+        "Metodo di preparazione tradizionale",
+        "Estrae principalmente Kavalactone",
+        "Contiene Glutatione protettiva",
+        "Nessuna epatotossicità documentata nelle popolazioni del Pacifico",
+        "Classificato come sicuro dalla FAO/OMS"
+      ]
+    },
+    "organisch": {
+      "title": "Estratti organici (acetici/etanolici)",
+      "items": [
+        "Metodo di estrazione industriale",
+        "Maggiore concentrazione di Kavalactone",
+        "Estrae anche Flavokavine",
+        "Glutatione non viene estratto",
+        "Maggiore rischio nell'analisi OMS"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Parti della pianta: Radice vs. Parti aeree",
+    "intro": "L'uso di diverse parti della pianta ha un impatto significativo sulla sicurezza:",
+    "tableTitle": "Contenuto di Pipermethystin per parte della pianta",
+    "headers": [
+      "Parte della pianta",
+      "Pipermethystin",
+      "Sicurezza"
+    ],
+    "rows": [
+      {
+        "part": "Radice/Rizoma",
+        "content": "Non rilevabile",
+        "safety": "Sicuro",
+        "color": "primary"
+      },
+      {
+        "part": "Scaglie di stelo",
+        "content": "Fino a 0,85%",
+        "safety": "Problematico",
+        "color": "amber"
+      },
+      {
+        "part": "Foglie",
+        "content": "Circa 0,2%",
+        "safety": "Tossico",
+        "color": "destructive"
+      }
+    ],
+    "note": "Il Pipermethystin è un alcaloide che in vitro è altamente citotossico e interferisce con la funzione mitocondriale (Nerurkar et al., 2004). Si trova esclusivamente nelle parti aeree della pianta."
+  },
+  "genetik": {
+    "title": "Fattori genetici: Polimorfismi CYP2D6",
+    "intro": "Le Kavalactone vengono principalmente metabolizzate attraverso il sistema enzimatico del citocromo P450, in particolare tramite CYP2D6. Le varianti genetiche di questo enzima possono influenzare significativamente il tasso di metabolismo:",
+    "factors": [
+      {
+        "label": "Poor Metabolizers (PM)",
+        "text": "Circa il 5-10% degli europei ha un'attività CYP2D6 ridotta, il che può portare a livelli più elevati di Kavalactone"
+      },
+      {
+        "label": "Reazioni idiosincratiche",
+        "text": "Alcuni casi potrebbero essere attribuibili a meccanismi immuno-mediati"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Comedicazione & Alcol",
+    "warning": {
+      "title": "Fattore di rischio critico",
+      "text": "La combinazione di Kava con alcol o farmaci epatotossici aumenta notevolmente il rischio di danni epatici. In molti dei rapporti di caso originali, il consumo di alcol era documentato o non escluso."
+    },
+    "intro": "L'OMS ha identificato le seguenti comedicazioni come particolarmente problematiche:",
+    "items": [
+      "Alcol (epatotossicità sinergica)",
+      "Paracetamolo/Acetaminofene (epatotossico)",
+      "Benzodiazepine (interazione CYP)",
+      "Antipsicotici (interazione CYP)",
+      "Statine (potenziale epatotossico)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Possibili meccanismi di epatotossicità",
+    "intro": "I meccanismi esatti attraverso i quali il Kava può causare danni epatici in rari casi non sono ancora completamente chiariti. Vengono discusse diverse ipotesi:",
+    "hypotheses": [
+      {
+        "title": "1. Metaboliti chinonici",
+        "text": "Kavain e Dihydrokavain possono essere ossidati a metaboliti chinonici reattivi, che possono reagire con proteine cellulari e causare stress ossidativo (Johnson et al., 2003). Il glutatione può neutralizzare questi metaboliti – un possibile motivo per cui gli estratti acquosi (che contengono glutatione) sono più sicuri."
+      },
+      {
+        "title": "2. Flavokavine",
+        "text": "Il Flavokavin B mostra citotossicità in vitro e può indurre apoptosi negli epatociti. Gli estratti organici contengono concentrazioni più elevate di flavokavine rispetto alle preparazioni acquose."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Questo alcaloide si trova solo nelle parti aeree della pianta ed è altamente citotossico. Inibisce la catena respiratoria mitocondriale e può portare alla morte cellulare."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Raccomandazioni pratiche per la massima sicurezza",
+    "items": [
+      {
+        "label": "Varietà nobili",
+        "text": "Acquistare solo varietà di Kava nobili verificate da commercianti affidabili"
+      },
+      {
+        "label": "Radice",
+        "text": "Utilizzare solo prodotti a base di radice e rizoma, nessuna parte aerea della pianta"
+      },
+      {
+        "label": "Preparazione acquosa",
+        "text": "Preferire il metodo di preparazione tradizionale"
+      },
+      {
+        "label": "Nessun alcol",
+        "text": "Almeno 24 ore di distanza dal consumo di alcol"
+      },
+      {
+        "label": "Valori epatici",
+        "text": "Controllo annuale dei valori epatici in caso di consumo regolare"
+      },
+      {
+        "label": "Segnali di avvertimento",
+        "text": "Interrompere immediatamente in caso di ittero, urine scure o affaticamento insolito"
+      }
+    ]
+  }
+}

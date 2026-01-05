@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "形態学",
+    "subtitle": "経済的に重要な根系に特に焦点を当てたKava植物の詳細な解剖学。",
+    "category": "植物学"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "植物学",
+    "morphologie": "形態学"
+  },
+  "toc": {
+    "ueberblick": "形態的概要",
+    "wurzelsystem": "根系",
+    "stumpf": "コルム（根茎）",
+    "seitenwurzeln": "側根（ワカ）",
+    "kavalactonVerteilung": "カバラクトンの分布",
+    "staengel": "茎と節",
+    "blaetter": "葉",
+    "blueten": "花と果実"
+  },
+  "intro": {
+    "paragraph1": "<em>Piper methysticum</em>の形態は、何千年にもわたる選択の結果です。植物の地上部分は品種の識別に重要ですが、実際の価値は地下構造、すなわち求められるカバラクトンを含む複雑な根系にあります。"
+  },
+  "overview": {
+    "title": "形態的概要",
+    "paragraph1": "カバは、典型的な成長高さが<strong>1.5から3メートル</strong>の耐久性のある常緑低木です。最適な条件下では、水、栄養素、日陰が豊富で、個々の植物は最大5メートルに達することがあります。",
+    "table": {
+      "headers": {
+        "plantPart": "植物部分",
+        "characteristic": "特徴",
+        "kavalactoneContent": "カバラクトン含量"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "根茎（リゾーム）",
+          "characteristic": "太く、木質で、分岐している",
+          "content": "非常に高い（3-20%）"
+        },
+        "lateralRoots": {
+          "name": "側根",
+          "characteristic": "細く、繊維質で、広がっている",
+          "content": "最高の含量"
+        },
+        "stem": {
+          "name": "茎（幹）",
+          "characteristic": "節があり、竹のよう",
+          "content": "低から中程度"
+        },
+        "leaves": {
+          "name": "葉",
+          "characteristic": "ハート型で、大きい",
+          "content": "非常に低い"
+        },
+        "flowers": {
+          "name": "花",
+          "characteristic": "小さく、穂状",
+          "content": "使用されない"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "根系",
+    "paragraph1": "カバ植物の経済的および薬理学的に最も重要な部分は、地下の根系です。これは、組成と品質が異なる2つの主要な成分から成ります。",
+    "qualityAlert": {
+      "title": "品質特性：",
+      "text": "高品質のカバは、根からのみ作られます。地上の植物部分（茎、葉）の使用は低品質と見なされ、望ましくない副作用を引き起こす可能性があります。"
+    },
+    "stump": {
+      "title": "コルム（根茎）",
+      "paragraph1": "<strong>コルム</strong>は、地表のすぐ下にある太く木質の部分です。これは根茎の中心的な質量を形成し、古い植物ではかなりの大きさに達することがあります。",
+      "properties": {
+        "title": "特性",
+        "items": [
+          "重量：成熟した植物で5-25 kg",
+          "直径：10-30 cm",
+          "質感：硬く、木質で、繊維質",
+          "色：淡茶色から濃茶色"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "カバラクトンプロファイル",
+        "items": [
+          "総含量：中から高",
+          "より多くのジヒドロメチスチシン（DHM）",
+          "側根よりも少ないカバイン",
+          "効果が「重い」傾向"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "側根（ラテラルルーツ / ワカ）",
+      "paragraph1": "<strong>側根</strong>は、コルムから出て土壌に広がる細い根です。フィジーでは「ワカ」と呼ばれ、最も高品質な成分と見なされています。",
+      "properties": {
+        "title": "特性",
+        "items": [
+          "直径：0.5-3 cm",
+          "長さ：数メートルまで",
+          "質感：柔らかく、木質が少ない",
+          "色：淡茶色、黄色がかっている"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "カバラクトンプロファイル",
+        "items": [
+          "総含量：すべての植物部分の中で最高",
+          "より高いカバイン含量",
+          "バランスの取れた効果プロファイル",
+          "プレミアム品質（「ワカグレード」）"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "植物内のカバラクトンの分布",
+      "paragraph1": "カバラクトンの濃度は、さまざまな植物部分間で大きく異なります。これは、カバ製品の品質と安全性に直接影響を与えます。",
+      "table": {
+        "headers": {
+          "plantPart": "植物部分",
+          "kavalactoneContent": "カバラクトン含量",
+          "usage": "使用",
+          "qualityLevel": "品質レベル"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "側根（ワカ）",
+            "content": "10-20%",
+            "usage": "プレミアムカバ",
+            "quality": "最高"
+          },
+          "stump": {
+            "name": "コルム（根茎）",
+            "content": "5-15%",
+            "usage": "スタンダードカバ",
+            "quality": "高い"
+          },
+          "basalStem": {
+            "name": "基部幹（ルウェナ）",
+            "content": "3-8%",
+            "usage": "混合または単独",
+            "quality": "中"
+          },
+          "upperStem": {
+            "name": "上部幹",
+            "content": "1-3%",
+            "usage": "推奨されない",
+            "quality": "低い"
+          },
+          "leaves": {
+            "name": "葉",
+            "content": "<1%",
+            "usage": "使用されない",
+            "quality": "不適切"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "警告：",
+        "text": "葉や地上の茎部分の使用は、肝毒性に関する歴史的な報告と関連しています。質の高いカバは、根材料のみを使用します。"
+      }
+    }
+  },
+  "stems": {
+    "title": "茎と節",
+    "paragraph1": "カバの茎（幹）は、<strong>品種識別</strong>のための最も重要な特徴の一つです。彼らは直立して成長し、年齢とともに分岐します。",
+    "structure": {
+      "title": "構造",
+      "items": [
+        "<strong>節（ノード）：</strong> 明確に見える肥厚、竹のように",
+        "<strong>間節：</strong> 節の間の部分、長さは可変",
+        "<strong>直径：</strong> 2-5 cm、年齢と品種による",
+        "<strong>高さ：</strong> 1.5-3 m（最適な条件下で最大5 m）"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "品種特徴",
+      "paragraph1": "茎の色と模様は、品種を区別するための重要な特徴です：",
+      "items": [
+        "<strong>緑：</strong> 多くの標準品種で一般的",
+        "<strong>斑点：</strong> 特定の品種に特徴的",
+        "<strong>縞模様：</strong> 様々な色の縦のストライプ",
+        "<strong>濃紫/黒：</strong> 珍しい、しばしば特に評価される品種"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "葉",
+    "paragraph1": "カバの葉は大きく、目立ち、主に光合成に使用されます。伝統的にカバの調製には使用されません。",
+    "characteristics": {
+      "title": "葉の特性",
+      "formSize": {
+        "title": "形状とサイズ",
+        "items": [
+          "ハート型（コルダート）",
+          "幅：15-30 cm",
+          "長さ：20-35 cm",
+          "互生配置"
+        ]
+      },
+      "surface": {
+        "title": "表面",
+        "items": [
+          "滑らかからわずかに毛羽立つ",
+          "上面は光沢がある",
+          "下面はマット",
+          "明確な葉脈"
+        ]
+      },
+      "color": {
+        "title": "色",
+        "items": [
+          "淡緑から濃緑",
+          "紫の色合いが可能",
+          "葉柄はしばしば色が付いている",
+          "品種特有の変異"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "花と果実",
+    "paragraph1": "<em>Piper methysticum</em>は花を生成しますが、植物は機能的に不妊であり、生命力のある種子を形成しません。",
+    "flowerStructure": {
+      "title": "花の構造",
+      "items": [
+        "<strong>タイプ：</strong> 穂状の花序（スパディクス）",
+        "<strong>サイズ：</strong> 3-9 cmの長さ",
+        "<strong>色：</strong> 緑がかった白から黄色がかっている",
+        "<strong>位置：</strong> 葉に対して対生",
+        "<strong>性別：</strong> 主に一性（雌雄異株）"
+      ]
+    },
+    "sterility": {
+      "title": "不妊",
+      "paragraph1": "<em>P. methysticum</em>の不妊は、高い多倍体性（デカポロイディ）によるものです。これは意味します：",
+      "items": [
+        "生命力のある種子はない",
+        "完全に栄養繁殖",
+        "人間に完全に依存",
+        "すべての植物は遺伝的クローン"
+      ]
+    },
+    "paragraph2": "この不妊は広範な結果をもたらします：継続的な人間の栽培がなければ、<em>Piper methysticum</em>は1世代内に絶滅します。今日存在するすべてのカバ植物は、約3000年前の最初の家畜化まで遡る切り取り繁殖の途切れない連鎖の結果です。"
+  },
+  "navigation": {
+    "continueText": "植物学の章を続ける：",
+    "nextChapter": {
+      "title": "栽培と生態",
+      "description": "栽培、繁殖、成長条件"
+    }
+  }
+}

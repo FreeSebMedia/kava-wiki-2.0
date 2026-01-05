@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "フィジー、トンガ、ハワイの品種",
+    "subtitle": "フィジーのヤコナからハワイのアワまで、太平洋全体の地域特産カヴァ。",
+    "category": "品種"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "sorten": "品種",
+    "current": "太平洋"
+  },
+  "toc": {
+    "title": "目次",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "フィジー – ヤコナ",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "ロア・ワカ",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "トンガ – アレ・ノーブル",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "ポウニ・オノ",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "ハワイ – アワ",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "モイ",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "サモア – アヴァ",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "その他の地域",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "原産地",
+    "type": "タイプ",
+    "composition": "成分",
+    "duration": "効果の持続時間",
+    "effectProfile": "効果プロファイル",
+    "recommendedFor": "推奨対象:",
+    "variety": "品種",
+    "speciality": "特性"
+  },
+  "fiji": {
+    "title": "フィジー – ヤコナ",
+    "intro": "<p class=\"lead text-xl\">フィジーではカヴァは<strong>ヤコナ</strong>（発音は「ヤンゴナ」）として知られ、公式な国民飲料とされています。この名前は「苦い」という意味で、特有の味を指します。もう一つの名前<strong>マログ</strong>は「落ち着かせる」という意味で、その効果を表しています。</p><p>フィジーには<strong>13種類のカヴァ品種</strong>が記録されており、高品質な加工で知られています。特に<strong>ワカ</strong>は、側根（根茎ではなく）からのみ作られ、強力なものとされています。</p>",
+    "varieties": [
+      {
+        "name": "ロア・ワカ",
+        "type": "ヘビー",
+        "speciality": "非常に強力で、強い鎮静作用"
+      },
+      {
+        "name": "ヴラ・ワカ",
+        "type": "バランス",
+        "speciality": "バランスが良く、多用途"
+      },
+      {
+        "name": "キラ・バラヴ",
+        "type": "ヘビー",
+        "speciality": "持続性がある"
+      },
+      {
+        "name": "マタカロ・バラヴ",
+        "type": "バランス",
+        "speciality": "伝統的"
+      },
+      {
+        "name": "ドコバナ・ロア",
+        "type": "ヘビー",
+        "speciality": "珍しく、非常に評価されている"
+      },
+      {
+        "name": "ヤル",
+        "type": "バランス",
+        "speciality": "マイルドで快適"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "ロア・ワカ",
+    "badges": [
+      "ヘビー",
+      "非常に強力"
+    ],
+    "origin": "フィジー（多様な島々）",
+    "type": "ワカ（側根）",
+    "duration": "5-8時間",
+    "description": "<strong>ロア・ワカ</strong>は市場で最も強力なカヴァの一つです。「ロア」はフィジー語で「暗い」を意味し、根の色を指します。「ワカ」は高品質な側根を指します。この組み合わせは非常に強力で、身体に影響を与えるカヴァを生み出します。",
+    "effects": [
+      {
+        "text": "<strong>極めて鎮静作用が強い:</strong> 最も強力な「ヘビー」カヴァの一つ"
+      },
+      {
+        "text": "<strong>深い筋肉のリラックス:</strong> <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">緊張</a>に最適"
+      },
+      {
+        "text": "<strong>睡眠促進:</strong> <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">睡眠問題</a>に最適"
+      },
+      {
+        "text": "<strong>持続性がある:</strong> 効果は5-8時間持続する可能性がある"
+      }
+    ],
+    "recommendedFor": "経験者、夜の消費、重度の睡眠問題",
+    "warning": "<strong>注意:</strong> ロア・ワカは非常に強力です。初心者は低用量から始め、効果を待ってから追加摂取するべきです。"
+  },
+  "tonga": {
+    "title": "トンガ – アレ・ノーブル",
+    "intro": "<p class=\"lead text-xl\"><strong>トンガ</strong>はカヴァの世界で独特です: <strong>そこで栽培されるすべての品種はノーブルです</strong>。トンガにはTudei品種は存在しません。これにより、トンガのカヴァは特に安全で予測可能です。</p><p>トンガのカヴァは、比較的<strong>「ヘディ」</strong>（頭に影響を与える）効果で知られています。品種はフィジーやバヌアツのカヴァよりも鎮静作用が少なく、日中の消費や社交の場に適しています。</p>",
+    "varieties": [
+      {
+        "name": "ポウニ・オノ",
+        "type": "ヘディ",
+        "speciality": "最も人気のある品種、社交的"
+      },
+      {
+        "name": "レカ・ヒナ",
+        "type": "ヘディ/バランス",
+        "speciality": "マイルドで快適"
+      },
+      {
+        "name": "カヴァ・クーラ",
+        "type": "バランス",
+        "speciality": "伝統的"
+      },
+      {
+        "name": "カヴァ・フルフル（フウ）",
+        "type": "バランス",
+        "speciality": "穏やかで、初心者に適している"
+      },
+      {
+        "name": "レカクーラ",
+        "type": "ヘディ",
+        "speciality": "ユーフォリック"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "ポウニ・オノ",
+    "badges": [
+      "ヘディ",
+      "初心者向け"
+    ],
+    "origin": "トンガ",
+    "composition": "ブレンド（レカ・ヒナ、カヴァ・クーラ、フウ）",
+    "duration": "3-4時間",
+    "description": "<strong>ポウニ・オノ</strong>はおそらく最も有名な「デイカヴァ」で、いくつかのトンガの品種（通常はレカ・ヒナ、カヴァ・クーラ、カヴァ・フルフル）のブレンドです。この名前は「6回」を意味し、伝統的な調理法を指します。",
+    "effects": [
+      {
+        "text": "<strong>ユーフォリック:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">気分を明るくする</a>と社交的"
+      },
+      {
+        "text": "<strong>覚醒:</strong> 鎮静作用がほとんどなく、日中に最適"
+      },
+      {
+        "text": "<strong>マイルドな味:</strong> 他の多くの品種よりも快適"
+      },
+      {
+        "text": "<strong>短い効果の持続時間:</strong> よくコントロール可能"
+      }
+    ],
+    "recommendedFor": "初心者、日中の消費、<a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">社交の場</a>、仕事",
+    "tip": "<strong>ヒント:</strong> ポウニ・オノはカヴァ初心者にとって最良の品種の一つです。マイルドな味と快適で圧倒されない効果が、始めやすくしています。"
+  },
+  "hawaii": {
+    "title": "ハワイ – アワ",
+    "intro": "<p class=\"lead text-xl\">ハワイではカヴァは<strong>アワ</strong>と呼ばれています。ハワイには<strong>13種類の伝統的な品種</strong>があり、すべてノーブルと見なされ、消費に適しています。ハワイのアワはその高いポテンシャルと独特のキャラクターで知られています。</p><p>アワはハワイで特別な文化的意義を持っています。歴史的には、特定のアワは貴族（アリイ）にのみ許可されていました。今日、ハワイのカヴァはしばしば新鮮に調理され、他の地域のカヴァよりも生産コストが高いため、価格も高くなっています。</p>",
+    "varieties": [
+      {
+        "name": "モイ",
+        "type": "ヘディ",
+        "speciality": "王室のカヴァ、非常に精神的"
+      },
+      {
+        "name": "ヒワ",
+        "type": "ヘビー",
+        "speciality": "儀式用、強い鎮静作用"
+      },
+      {
+        "name": "マハケア",
+        "type": "バランス",
+        "speciality": "バランスが良く、多用途"
+      },
+      {
+        "name": "パパ・ケア",
+        "type": "ヘディ",
+        "speciality": "マイルドで快適"
+      },
+      {
+        "name": "ネネ",
+        "type": "バランス",
+        "speciality": "伝統的"
+      },
+      {
+        "name": "ハナカピアイ",
+        "type": "ヘビー",
+        "speciality": "珍しく、非常に評価されている"
+      }
+    ],
+    "warning": "<strong>注意:</strong> ハワイでは、2種類の輸入されたTudei品種も栽培されています: <strong>イサ</strong>と<strong>イウィ</strong>。これらは在来種ではなく、避けるべきです。"
+  },
+  "moi": {
+    "name": "モイ",
+    "badges": [
+      "ヘディ",
+      "王室"
+    ],
+    "origin": "ハワイ",
+    "type": "ヘディ / 精神的",
+    "duration": "2-4時間",
+    "description": "<strong>モイ</strong>は「王のカヴァ」として伝説的です。ハワイの歴史では、モイは貴族（アリイ）にのみ許可され、一般人は消費できませんでした。今日では、非常に精神的で、心をクリアにする効果で知られています。",
+    "effects": [
+      {
+        "text": "<strong>極めて精神的:</strong> メンタルの明瞭さと集中力を促進"
+      },
+      {
+        "text": "<strong>創造性を促進:</strong> <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">創造的な作業</a>に最適"
+      },
+      {
+        "text": "<strong>ほとんど鎮静作用がない:</strong> 疲れさせない"
+      },
+      {
+        "text": "<strong>精神的:</strong> 伝統的に瞑想や儀式に使用される"
+      }
+    ],
+    "recommendedFor": "創造的な作業、瞑想、<a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">認知的なタスク</a>"
+  },
+  "samoa": {
+    "title": "サモア – アヴァ",
+    "intro": "<p>サモアではカヴァは<strong>アヴァ</strong>と呼ばれています。サモアには<strong>4種類の記録された品種</strong>がありますが、豊かな儀式的伝統があります。アヴァの儀式はサモア文化の重要な部分であり、公式な場で行われます。</p>",
+    "varieties": [
+      {
+        "name": "アヴァ・ラアウ",
+        "type": "バランス",
+        "speciality": "伝統的、儀式的"
+      },
+      {
+        "name": "アヴァ・レア",
+        "type": "ヘディ",
+        "speciality": "マイルドで快適"
+      },
+      {
+        "name": "アヴァ・ロア",
+        "type": "ヘビー",
+        "speciality": "より強力で、鎮静作用がある"
+      },
+      {
+        "name": "アヴァ・トンガ",
+        "type": "バランス",
+        "speciality": "トンガから輸入"
+      }
+    ]
+  },
+  "andere": {
+    "title": "その他の地域",
+    "intro": "主要な栽培地域の他にも、いくつかの他の太平洋地域でカヴァが栽培されています:",
+    "regions": [
+      {
+        "name": "パプアニューギニア",
+        "description": "PNGには<strong>1種類のノーブル品種</strong>があります: <strong>カウ・クプウェ</strong>、バルアン島で栽培されています。ほとんどの他のPNG品種はTudeiであり、避けるべきです。"
+      },
+      {
+        "name": "ソロモン諸島",
+        "description": "ソロモン諸島にも<strong>1種類のノーブル品種</strong>があります: <strong>メロメロ</strong>（バヌアツのメロメロとは異なりますが、関連している可能性があります）。"
+      },
+      {
+        "name": "ミクロネシア",
+        "description": "ミクロネシア連邦（ポンペイ）には<strong>ラームワンガー</strong>という品種があります。カヴァはそこで重要な儀式的意義を持っています。"
+      },
+      {
+        "name": "ワリスとフツナ",
+        "description": "これらのフランスの領土には独自のカヴァの伝統がありますが、独特な品種はほとんど記録されていません。"
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "次の章: 品種:",
+    "nextTitle": "品種プロファイルの詳細",
+    "nextDescription": "すべての主要な品種の詳細なプロフィール、化学型、効果、推奨事項",
+    "nextLink": "/de/sorten/profile"
+  }
+}

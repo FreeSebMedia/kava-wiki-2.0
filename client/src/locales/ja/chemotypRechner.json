@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "ケモタイプ計算機",
+    "subtitle": "6桁のケモタイプを入力して、期待される効果と推奨事項を確認してください。",
+    "category": "インタラクティブ"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "inhaltsstoffe": "成分",
+    "current": "ケモタイプ計算機"
+  },
+  "toc": {
+    "title": "目次",
+    "rechner": "ケモタイプ計算機",
+    "anleitung": "使い方",
+    "beispiele": "例のケモタイプ",
+    "legende": "カヴァラクトンの伝説"
+  },
+  "rechner": {
+    "title": "ケモタイプを入力",
+    "subtitle": "1から6の6桁、各数字を一度だけ",
+    "placeholder": "例：426531",
+    "analyzeButton": "分析する",
+    "knownVariety": "既知の品種"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "デスメトキシヤンゴニン",
+      "short": "DMY",
+      "effect": "集中 & 幸福感",
+      "description": "ドーパミンを増加させ、集中力と軽い幸福感を促進する"
+    },
+    "2": {
+      "name": "ジヒドロカヴァイン",
+      "short": "DHK",
+      "effect": "筋肉の弛緩",
+      "description": "強力な筋肉弛緩作用と鎮痛効果"
+    },
+    "3": {
+      "name": "ヤンゴニン",
+      "short": "Y",
+      "effect": "CB1活性",
+      "description": "エンドカンナビノイドシステムに作用し、軽い刺激効果"
+    },
+    "4": {
+      "name": "カヴァイン",
+      "short": "K",
+      "effect": "抗不安作用",
+      "description": "不安解消と精神的明晰さの主要成分"
+    },
+    "5": {
+      "name": "ジヒドロメチスチシン",
+      "short": "DHM",
+      "effect": "長時間の鎮静",
+      "description": "強力な鎮静作用、分解が遅い – Tudeiマーカー"
+    },
+    "6": {
+      "name": "メチスチシン",
+      "short": "M",
+      "effect": "鎮静",
+      "description": "鎮静作用と神経保護作用"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "無効",
+      "description": "有効な6桁のケモタイプを入力してください（数字1-6、各数字を一度だけ）。"
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "このケモタイプはTudeiカヴァを示しています。DHM (5) が位置1または2にある場合、非常に長い効果の持続と副作用の可能性があります。"
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "カヴァインが主成分の品種で、主に精神的な効果があります。社交的な場面や創造的な作業に最適です。"
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "カヴァインとDHKが最初の位置にあるバランスの取れた品種。精神的明晰さと身体の弛緩を組み合わせています。"
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "ジヒドロカヴァインが主成分の品種で、主に身体的な効果があります。リラックスやストレス解消に最適です。"
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "精神的および身体的効果の混合を持つバランスの取れた品種。多用途に使用できます。"
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) が目立つ位置にある – Tudeiカヴァの典型",
+    "tudeiSideEffects": "可能な副作用：吐き気、長引く「二日酔い」、ぼんやり感",
+    "tudeiNotRecommended": "定期的な摂取には適していません",
+    "dhmPosition1": "位置1のDHM：非常に強力で持続的な鎮静",
+    "dhmPosition2": "位置2のDHM：鎮静が増加し、効果が長く続く"
+  },
+  "strengths": {
+    "headyClear": "明確で集中した効果、強い鎮静なし",
+    "headyMood": "良い気分の改善と不安解消",
+    "headyBeginner": "初心者に最適",
+    "headyBalancedBest": "頭と体の効果の理想的な組み合わせ",
+    "headyBalancedMental": "穏やかなリラックスを伴う精神的明晰さ",
+    "headyBalancedBody": "強い鎮静なしの軽い筋肉の弛緩",
+    "heavyMuscle": "強力な筋肉の弛緩",
+    "heavyPain": "良い鎮痛効果",
+    "heavyRelax": "深い身体のリラックス",
+    "balancedBoth": "身体と精神に対するバランスの取れた効果",
+    "balancedVersatile": "多用途に使用可能",
+    "balancedDaily": "日常的に良い品種",
+    "methysticinNeuro": "メチスチシンが目立つ：良い神経保護特性",
+    "yangoninStim": "ヤンゴニンが目立つ：軽い刺激成分",
+    "dmyDopamine": "DMYが目立つ：ドーパミン効果の強化、より多くの幸福感"
+  },
+  "effects": {
+    "headyEffects": [
+      "精神的明晰さ",
+      "不安解消",
+      "軽い幸福感"
+    ],
+    "headyBalancedEffects": [
+      "精神的明晰さ",
+      "軽い筋肉の弛緩",
+      "気分の改善"
+    ],
+    "heavyEffects": [
+      "筋肉の弛緩",
+      "身体の安静",
+      "睡眠促進"
+    ],
+    "balancedEffects": [
+      "バランスの取れたリラックス",
+      "適度な不安解消",
+      "軽い筋肉の弛緩"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "社交的な場面",
+      "創造的な作業",
+      "日中または早い夕方"
+    ],
+    "headyBalancedUse": [
+      "多用途の使用",
+      "リラックスを伴う社交的な場面",
+      "午後から夕方"
+    ],
+    "heavyUse": [
+      "夜のリラックス",
+      "身体的な疲労の後",
+      "睡眠の準備"
+    ],
+    "balancedUse": [
+      "日常的な使用",
+      "瞑想",
+      "柔軟な利用"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "カヴァラクトンの順序",
+    "strengthsTitle": "このケモタイプの強み",
+    "dominantEffects": "主な効果",
+    "recommendedUseTitle": "推奨される使用法"
+  },
+  "anleitung": {
+    "title": "使い方",
+    "paragraph1": "ケモタイプは、6桁のコードで、6つの主要なカヴァラクトンをその濃度の降順にリストします。最初の数字は最も高い濃度のカヴァラクトンを示し、最後の数字は最も低いものを示します。",
+    "rulesTitle": "重要なルール:",
+    "rules": [
+      {
+        "label": "位置1 = 4 (カヴァイン)",
+        "text": "\"ヘディ\"カヴァ – 精神的効果、集中、不安解消"
+      },
+      {
+        "label": "位置1 = 2 (DHK)",
+        "text": "\"ヘビー\"カヴァ – 身体的効果、筋肉の弛緩"
+      },
+      {
+        "label": "位置1または2 = 5 (DHM)",
+        "text": "⚠️ Tudeiカヴァ – 非常に長い効果、可能な副作用"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "例のケモタイプ",
+    "intro": "分析するために例のケモタイプをクリックしてください：",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "カヴァラクトンの伝説",
+    "intro": "6つの主要なカヴァラクトンとその効果の概要："
+  },
+  "hint": {
+    "title": "注意:",
+    "text": "この分析は一般的なガイドラインに基づいています。実際の効果は、品質、調製、個々の感受性によって異なる場合があります。詳細な情報については、私たちのページを訪れてください。",
+    "linkText": "ケモタイプシステム"
+  }
+}

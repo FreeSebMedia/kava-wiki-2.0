@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Preparazione & Applicazione",
+    "subtitle": "Dalla polvere alla bevanda: Come preparare correttamente il Kava per ottenere il massimo effetto e il miglior sapore.",
+    "category": "Preparazione"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "current": "Preparazione"
+  },
+  "toc": {
+    "title": "Contenuto",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Fondamenti dell'estrazione",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Metodo tradizionale (Impastare)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Metodo del frullatore (Blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Metodo dello shaker (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instant & Micronizzato",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Pro-Tips per il miglior effetto",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Le Kavalactone sono <strong>non solubili in acqua</strong>, ma solubili in grasso. Tuttavia, si attaccano meccanicamente alle particelle di amido della radice.",
+      "text": "L'obiettivo di ogni preparazione è quindi quello di liberare queste particelle dalle fibre vegetali attraverso la forza meccanica (impastare, frullare) e emulsionarle in acqua. Una pura \"preparazione del tè\" (solo acqua calda) non funziona <strong>efficacemente</strong> con il Kava!"
+    },
+    "traditionell": {
+      "title": "Metodo tradizionale (Impastare)",
+      "intro": "Questo è il metodo migliore per una potenza massima e un'esperienza autentica.",
+      "materialsTitle": "Cosa ti serve:",
+      "materials": [
+        "Polvere di radice di Kava (macinatura media)",
+        "Un sacchetto filtrante (sacchetto per latte vegetale, 75-100 micron)",
+        "Una ciotola con acqua calda (non bollente!)",
+        "Facoltativo: Un po' di latte o latte di cocco (il grasso aiuta nell'estrazione)"
+      ],
+      "instructionsTitle": "Istruzioni:",
+      "instructions": [
+        "Metti la polvere nel sacchetto filtrante (circa 30-40g per 500ml d'acqua).",
+        "Immergi il sacchetto nell'acqua e lascialo in ammollo brevemente.",
+        "<strong>Impastare e strizzare:</strong> Impasta energicamente il sacchetto sott'acqua per 10-15 minuti. Strizzalo ripetutamente. L'acqua dovrebbe diventare di un colore marrone latteo (\"Grog\").",
+        "Strizza il sacchetto un'ultima volta.",
+        "Servi il Kava in ciotole (Shells). Bevi rapidamente (\"Chug\"), non sorseggiare!"
+      ]
+    },
+    "blender": {
+      "title": "Metodo del frullatore (Blender)",
+      "intro": "Più veloce e spesso più forte, ma il sapore può essere un po' più amaro, poiché vengono frantumate più sostanze vegetali.",
+      "instructions": [
+        "Metti acqua, polvere di Kava e un cucchiaino di olio/grasso in un frullatore.",
+        "Frulla ad alta velocità per 3-4 minuti.",
+        "Versa il liquido attraverso un sacchetto filtrante o un colino fine in una ciotola.",
+        "Strizza bene i residui vegetali nel filtro."
+      ]
+    },
+    "shaker": {
+      "title": "Metodo dello shaker (Aluball)",
+      "intro": "Il metodo più moderno e veloce, ideale per viaggiare.",
+      "text": "Si utilizzano bottiglie shaker speciali con una pallina (Aluball) che contiene un setaccio metallico.",
+      "instructions": [
+        "Riempi la pallina con il Kava.",
+        "Riempi la bottiglia con acqua.",
+        "Metti la pallina dentro e agita energicamente per 1-2 minuti.",
+        "Fatto!"
+      ],
+      "note": "Nota: Questo metodo è spesso un po' meno potente rispetto all'impastamento tradizionale, ma molto comodo."
+    },
+    "instant": {
+      "title": "Instant & Micronizzato",
+      "intro": "Per chi non vuole alcuno sforzo.",
+      "items": [
+        {
+          "name": "Kava Instant",
+          "description": "Succo di Kava \"Green\" disidratato. Molto potente, molto costoso, si scioglie immediatamente in acqua. La \"classe regina\"."
+        },
+        {
+          "name": "Kava Micronizzato",
+          "description": "Polvere di radice macinata estremamente fine, da cui sono state rimosse le fibre grossolane. Si beve semplicemente così com'è. Può causare nausea in stomaci sensibili più del Kava filtrato."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Pro-Tips per il miglior effetto",
+      "alert": {
+        "title": "La Regola d'Oro",
+        "text": "Bevi sempre il Kava a <strong>stomaco vuoto</strong> (almeno 3-4 ore dopo l'ultimo pasto). Altrimenti, l'effetto sarà notevolmente più debole!"
+      },
+      "tips": [
+        {
+          "name": "Tolleranza inversa",
+          "text": "Molte persone non sentono molto la prima volta. Il corpo deve prima \"abituarsi\" alle Kavalactone. Bevi per alcuni giorni di seguito."
+        },
+        {
+          "name": "Il \"Chaser\"",
+          "text": "Il Kava ha un sapore terroso e amaro. Tieni a disposizione un pezzo di frutta (ananas, arancia) da mordere subito dopo aver bevuto."
+        },
+        {
+          "name": "Fonte di grasso",
+          "text": "Dopo la sessione di Kava, mangia un piccolo pasto ricco di grassi (ad es. pizza, curry). Questo può innescare una seconda ondata di effetto."
+        }
+      ]
+    }
+  }
+}

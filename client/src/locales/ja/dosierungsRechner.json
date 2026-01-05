@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "用量計算機",
+    "subtitle": "品種、経験、調理方法に基づいて最適なKavaの用量を計算します。",
+    "category": "調理"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "zubereitung": "調理",
+    "current": "用量計算機"
+  },
+  "toc": {
+    "title": "目次",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "用量計算機",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "あなたの推奨",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "重要な注意事項",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "影響要因",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Kava品種を選択",
+    "selectStrainPlaceholder": "-- 品種を選択 --",
+    "potency": "ポテンシー",
+    "experienceLevel": "経験レベル",
+    "experienceLevels": {
+      "beginner": {
+        "label": "初心者",
+        "desc": "最初の数週間"
+      },
+      "regular": {
+        "label": "レギュラー",
+        "desc": "数ヶ月"
+      },
+      "experienced": {
+        "label": "経験者",
+        "desc": "1年以上"
+      }
+    },
+    "prepMethod": "調理方法",
+    "methods": {
+      "traditional": {
+        "label": "伝統的",
+        "desc": "こねる"
+      },
+      "blender": {
+        "label": "ブレンダー",
+        "desc": "ミキサー"
+      },
+      "instant": {
+        "label": "インスタント",
+        "desc": "微粉化"
+      }
+    },
+    "bodyWeight": "体重",
+    "kg": "kg",
+    "calculate": "用量を計算",
+    "instantPowder": "インスタントパウダー",
+    "mediumGrind": "中挽きパウダー",
+    "water": "水",
+    "kavalactones": "Kavalactone（推定）",
+    "prepTime": "調理時間",
+    "min": "分",
+    "toPrepGuide": "調理ガイドへ"
+  },
+  "results": {
+    "title": "あなたの個人的な推奨",
+    "bestTime": {
+      "title": "最適な使用時間",
+      "heady": "日中、社交の場や創造的な活動に",
+      "heavy": "夜、リラックスや就寝前に",
+      "balanced": "柔軟、いつでも適している"
+    },
+    "tip": {
+      "title": "この品種のヒント",
+      "default": "最良の効果のために空腹時にこの品種を楽しんでください。"
+    }
+  },
+  "notes": {
+    "title": "重要な注意事項",
+    "safety": {
+      "title": "一般的な安全注意事項",
+      "items": [
+        "Kavaは常に<strong>空腹時</strong>に飲んでください（食後3-4時間）",
+        "まずは<strong>低用量</strong>から始めて、徐々に増やしてください",
+        "<strong>逆耐性：</strong>最初の数回は効果が弱い場合があります",
+        "Kavaを<strong>アルコール</strong>や薬と組み合わせないでください",
+        "肝疾患や妊娠中の場合：<strong>Kavaは避けてください</strong>"
+      ]
+    },
+    "about": {
+      "title": "この計算機について",
+      "text": "計算された値は、平均的なKavalacton含量と経験則に基づく<strong>参考値</strong>です。実際の効果は、個々の感受性、ロット、製造者によって異なる場合があります。"
+    }
+  },
+  "factors": {
+    "title": "用量に影響を与える要因",
+    "items": [
+      {
+        "title": "品種のポテンシー",
+        "text": "異なる品種は異なるKavalacton含量を持っています。Loa Wakaのような5つ星の品種は、Pouni Onoのような穏やかな3つ星の品種よりも少ない粉末を必要とします。"
+      },
+      {
+        "title": "体重",
+        "text": "体重が重い人は、同じ効果を得るために通常より多くのKavaを必要とします。計算機はそれに応じて推奨を調整します。"
+      },
+      {
+        "title": "調理方法",
+        "text": "インスタント/微粉化Kavaは中挽きよりも濃縮されています。ブレンダー法は、伝統的なこねる方法よりも少し効率的に抽出します。"
+      },
+      {
+        "title": "経験レベル",
+        "text": "「逆耐性」により、経験豊富なユーザーは同じ効果を得るためにしばしば少ないKavaを必要とします。初心者は低用量から始めるべきです。"
+      }
+    ]
+  },
+  "navigation": {
+    "title": "調理ガイド",
+    "traditional": {
+      "title": "伝統的な方法",
+      "time": "20-25分",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "ブレンダー法",
+      "time": "8-10分",
+      "href": "/de/zubereitung/blender"
+    },
+    "instant": {
+      "title": "インスタントKava",
+      "time": "30秒",
+      "href": "/de/zubereitung/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "世界で最高のヘディKavaの一つとされています。入手可能性は限られています。",
+    "borogu": "バヌアツで最も飲まれているKava。非常に信頼性があります。",
+    "pouni-ono": "一貫した品質の非常に人気のある初心者向けKava。",
+    "moi": "最も希少で高価なKavaの一つ。ハワイの儀式に伝統的に使用されます。",
+    "melo-melo": "非常に人気のある初心者向けKavaで、強い抗不安作用があります。",
+    "bir-kar": "その強さと信頼性で知られています。",
+    "palasa": "初心者には推奨されません。非常にポテンシーが高いです。",
+    "loa-waka": "市販されている中で最も強力なKavaの一つ。",
+    "hiwa": "伝統的に儀式的な目的でのみ使用されます。非常に希少です。",
+    "vula-waka": "フィジーの人気のあるオールラウンダー。",
+    "silese": "最も陶酔感のある品種の一つです。",
+    "palarasul": "ヘビーKavaへの良い入門です。"
+  }
+}

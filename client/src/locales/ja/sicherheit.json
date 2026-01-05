@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "安全性と健康",
+    "subtitle": "神話ではなく事実：肝毒性、副作用、安全な消費に関する科学的視点。",
+    "category": "安全性"
+  },
+  "toc": {
+    "title": "目次",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "科学的合意",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "章の概要",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "肝臓の安全性",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "相互作用",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "禁忌",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "用量の推奨",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "可能な副作用",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "安全チェックリスト",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "現在の科学的合意",
+    "intro": "<strong>WHO</strong>、<strong>EMA</strong>、および独立した研究者による包括的な分析によると：",
+    "points": [
+      "適切に使用されたノーブル品種の伝統的に調製されたカバは<strong>安全</strong>です",
+      "重度の肝障害は<strong>非常に稀</strong>です（推定発生率：1:60,000から1:1,000,000）",
+      "2002年のEU禁止はドイツの裁判所によって<strong>不当</strong>と見なされました",
+      "リスクは主に<strong>品質の欠陥</strong>、<strong>誤った植物の部分</strong>、または<strong>混合消費</strong>によって生じます"
+    ]
+  },
+  "kapitel": {
+    "title": "章の概要：安全性の詳細",
+    "intro": "この章では、カバの安全性に関連するすべての側面についての包括的で科学的に裏付けられた分析を提供します。詳細情報については、サブページをクリックしてください：",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "肝臓の安全性と肝毒性",
+        "href": "/de/sicherheit/leber",
+        "description": "2002年の禁止に関する科学的真実、WHOおよびEMAの評価、リスク要因、実用的な推奨事項。",
+        "highlights": [
+          "WHO評価 2007",
+          "EMAレポート 2017",
+          "裁判所の判決",
+          "リスク要因"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "薬物との相互作用",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "カバラクトンはCYP450酵素を抑制します：高リスクの組み合わせと中程度の相互作用に関する完全な概要。",
+        "highlights": [
+          "CYP450システム",
+          "高リスクの組み合わせ",
+          "相互作用表",
+          "実用的なヒント"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "禁忌",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "カバを使用すべきでない場合：安全な取り扱いのための絶対的および相対的禁忌。",
+        "highlights": [
+          "肝疾患",
+          "妊娠",
+          "パーキンソン病",
+          "意思決定支援"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "用量の推奨",
+    "intro": "最適な用量は、個々の耐性（「逆耐性」）とカバの品種によって大きく異なります。常に低用量から始めてください。",
+    "boxTitle": "カバラクトンの指標",
+    "medical": {
+      "title": "医療用（不安）",
+      "value": "60–240 mg",
+      "unit": "カバラクトン/日"
+    },
+    "traditional": {
+      "title": "伝統的 / レクリエーション",
+      "value": "250–500 mg",
+      "unit": "カバラクトン/セッション"
+    },
+    "tableTitle": "根粉（中挽き）での調製",
+    "table": {
+      "headers": {
+        "level": "経験レベル",
+        "amount": "量",
+        "water": "水"
+      },
+      "rows": [
+        {
+          "level": "初心者",
+          "amount": "2-3 大さじ（約 20-30g）",
+          "water": "300-400ml"
+        },
+        {
+          "level": "中級者",
+          "amount": "4-6 大さじ（約 40-60g）",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "可能な副作用",
+    "intro": "カバは適切に使用されれば安全ですが、特に過剰消費の場合には副作用が発生する可能性があります。",
+    "frequent": {
+      "title": "頻繁（用量依存）",
+      "items": [
+        {
+          "label": "疲労：",
+          "value": "特に「ヘビー」品種で"
+        },
+        {
+          "label": "吐き気：",
+          "value": "空腹時の高用量で"
+        },
+        {
+          "label": "脱水：",
+          "value": "カバは利尿作用があります"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "慢性的な消費の場合",
+      "items": [
+        {
+          "label": "カバ皮膚病：",
+          "value": "乾燥した鱗状の皮膚（可逆的）"
+        },
+        {
+          "label": "GGTの上昇：",
+          "value": "肝酵素がわずかに上昇します（可逆的）"
+        },
+        {
+          "label": "体重減少：",
+          "value": "非常に高い消費の場合"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "安全チェックリスト",
+    "boxTitle": "安全なカバ消費のために",
+    "items": [
+      "<strong>信頼できる供給元からのノーブルカバのみを使用</strong>",
+      "<strong>根/根茎のみ</strong> – 葉や茎は使用しない",
+      "<strong>伝統的な水分調製</strong>を優先する",
+      "<strong>アルコールを避ける</strong> – 最低24時間の間隔"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>薬物チェック</strong> – ",
+        "linkText": "相互作用を確認する",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>禁忌に注意</strong> – ",
+        "linkText": "チェックリストを見る",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "警告サインに注意",
+      "text": "皮膚/目の黄変、濃い尿、明るい便、または異常な疲労が見られた場合は、すぐに消費を中止し、医師に相談してください。"
+    }
+  },
+  "quickLinks": {
+    "title": "詳細情報",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "肝臓の安全性",
+        "description": "肝毒性と2002年の禁止",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "相互作用",
+        "description": "薬物とCYP450の相互作用",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "禁忌",
+        "description": "カバを避けるべき場合",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

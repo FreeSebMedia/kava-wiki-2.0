@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "相互作用チェッカー",
+    "subtitle": "あなたの薬とKavaの間の潜在的な相互作用を確認してください",
+    "category": "安全性",
+    "breadcrumbs": {
+      "home": "ホーム",
+      "sicherheit": "安全性",
+      "wechselwirkungen": "相互作用",
+      "current": "相互作用チェッカー"
+    }
+  },
+  "toc": {
+    "title": "目次",
+    "checker": "相互作用チェッカー",
+    "anleitung": "使い方",
+    "kategorien": "リスクカテゴリー",
+    "haeufige": "よく確認される薬",
+    "hinweis": "重要な注意"
+  },
+  "ui": {
+    "disclaimerTitle": "重要な注意",
+    "disclaimerText": "このチェッカーは情報提供のみを目的としており、医療アドバイスに代わるものではありません。疑問がある場合や処方薬を服用している場合は、必ず医師または薬剤師に相談してください。",
+    "inputTitle": "薬を入力",
+    "inputDescription": "あなたの薬の名前を入力してください（有効成分または商標名）",
+    "placeholder": "例：ジアゼパム、イブプロフェン、セルトラリン...",
+    "selectedMeds": "選択された薬:",
+    "checkButton": "相互作用を確認",
+    "commonCategories": "一般的な薬のグループ",
+    "overallAssessment": "総合評価",
+    "detailedAnalysis": "詳細な分析",
+    "category": "カテゴリー",
+    "mechanism": "メカニズム",
+    "affectedEnzymes": "影響を受けるCYP酵素",
+    "recommendation": "推奨",
+    "newCheck": "新しいチェック",
+    "moreAbout": "相互作用についてもっと知る",
+    "moreInfo": "さらなる情報",
+    "liverSafety": "肝臓の安全性と肝毒性",
+    "contraindications": "禁忌",
+    "safetyOverview": "安全性と健康の概要",
+    "studies": "科学的研究"
+  },
+  "intro": {
+    "title": "薬のチェック",
+    "text": "あなたの薬または有効成分の名前を入力して、Kavaとの可能な相互作用を確認してください。"
+  },
+  "search": {
+    "placeholder": "薬または有効成分を入力...",
+    "button": "確認",
+    "noResults": "この名前の薬は見つかりませんでした。スペルを確認するか、医師に相談してください。"
+  },
+  "result": {
+    "risk": "リスクレベル",
+    "mechanism": "メカニズム",
+    "recommendation": "推奨",
+    "alternatives": "可能な代替品"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "非常に高いリスク",
+      "description": "厳格に禁忌 - 絶対に組み合わせてはいけません"
+    },
+    "high": {
+      "label": "高いリスク",
+      "description": "組み合わせを避ける - 健康に対する重大なリスクがある可能性があります"
+    },
+    "moderate": {
+      "label": "中程度のリスク",
+      "description": "注意が必要 - 医師の監視下でのみ"
+    },
+    "low": {
+      "label": "低いリスク",
+      "description": "通常の使用でおそらく安全"
+    },
+    "none": {
+      "label": "既知のリスクなし",
+      "description": "知られている相互作用は文書化されていません"
+    }
+  },
+  "anleitung": {
+    "title": "チェッカーの使い方",
+    "steps": [
+      "あなたの薬または有効成分の名前を入力してください",
+      "「確認」をクリックするか、Enterを押してください",
+      "リスク評価と推奨を読みます",
+      "疑問がある場合は必ず医師または薬剤師に相談してください"
+    ]
+  },
+  "kategorien": {
+    "title": "リスクカテゴリーの説明",
+    "high": {
+      "title": "高いリスク",
+      "text": "組み合わせはあらゆる状況で避けるべきです。重篤な副作用の可能性があります。"
+    },
+    "moderate": {
+      "title": "中程度のリスク",
+      "text": "医師の監視下でのみ組み合わせるべきです。用量調整が必要な場合があります。"
+    },
+    "low": {
+      "title": "低いリスク",
+      "text": "組み合わせはおそらく安全ですが、個々の反応に注意してください。"
+    },
+    "unknown": {
+      "title": "不明",
+      "text": "十分なデータがありません。注意が推奨されます。"
+    }
+  },
+  "haeufige": {
+    "title": "よく確認される薬",
+    "clickToCheck": "薬をクリックして確認してください:"
+  },
+  "hinweis": {
+    "title": "重要な注意",
+    "text": "このチェッカーは一般的な情報提供のみを目的としており、医療アドバイスに代わるものではありません。データベースは完全ではなく、継続的に更新されています。疑問がある場合は必ず医師または薬剤師に相談してください。",
+    "disclaimer": "情報は科学文献と知られている相互作用メカニズムに基づいています。個々の反応は異なる場合があります。"
+  },
+  "navigation": {
+    "continueTitle": "安全性の章を続ける",
+    "items": [
+      {
+        "title": "概要",
+        "href": "/de/sicherheit",
+        "description": "安全性の概要に戻る"
+      },
+      {
+        "title": "相互作用",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "相互作用に関する詳細情報"
+      },
+      {
+        "title": "禁忌",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Kavaを使用すべきでない場合"
+      }
+    ]
+  }
+}

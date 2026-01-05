@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "品種比較",
+    "subtitle": "2つのカヴァ品種を直接比較する"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "sorten": "品種",
+    "current": "比較"
+  },
+  "ui": {
+    "selectVariety": "品種を選択...",
+    "firstVariety": "最初の品種",
+    "secondVariety": "2番目の品種",
+    "toProfile": "品種プロフィールへ",
+    "potency": "ポテンシー",
+    "badgeInfo": "この <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> バッジは他の品種との違いを示します"
+  },
+  "categories": {
+    "heady": "ヘディ",
+    "balanced": "バランス",
+    "heavy": "ヘビー"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "効果プロフィール比較"
+    },
+    "basicInfo": {
+      "title": "基本情報"
+    },
+    "dosage": {
+      "title": "推奨用量"
+    },
+    "applications": {
+      "title": "適用分野"
+    },
+    "usageTimes": {
+      "title": "摂取時間"
+    },
+    "kavalactones": {
+      "title": "カヴァラクタントプロフィール"
+    },
+    "notes": {
+      "title": "注釈"
+    }
+  },
+  "effects": {
+    "euphoria": "ユーフォリア",
+    "relaxation": "リラクゼーション",
+    "sedation": "鎮静",
+    "clarity": "明瞭さ",
+    "sociability": "社交性",
+    "anxiolysis": "不安解消"
+  },
+  "info": {
+    "chemotype": "化学型",
+    "duration": "効果の持続時間",
+    "availability": "入手可能性",
+    "price": "価格"
+  },
+  "dosageLabels": {
+    "beginner": "初心者",
+    "regular": "レギュラー",
+    "experienced": "経験者"
+  },
+  "kavalactoneLabels": {
+    "kavain": "カヴァイン",
+    "dhk": "DHK",
+    "methysticin": "メチスチシン",
+    "dhm": "DHM",
+    "yangonin": "ヤンゴニン",
+    "desmethoxyyangonin": "デスメトキシヤンゴニン"
+  },
+  "empty": {
+    "title": "比較する2つの品種を選択してください",
+    "description": "上のドロップダウンメニューを使用して2つのカヴァ品種を選択し、それらの特性、効果、および推奨を直接比較してください。",
+    "tips": {
+      "title": "比較のヒント",
+      "items": [
+        "同じカテゴリーの品種を比較して類似の効果プロフィールを得る",
+        "ヘディとヘビーを比較して対照的な体験を得る",
+        "科学的な洞察のために化学型の違いに注意する"
+      ]
+    },
+    "quickSelections": "クイックセレクション",
+    "suggestions": [
+      {
+        "label": "ヘディ対ヘビー",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "バヌアツのクラシック",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "初心者向け推奨",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "品種プロファイルの詳細",
+    "subtitle": "化学型、効果、推奨事項を含む主要なKava品種の詳細なプロフィール。",
+    "category": "品種"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "sorten": "品種",
+    "current": "プロフィール"
+  },
+  "toc": {
+    "title": "目次",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "概要",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "お気に入り",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "効果フィルター",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "ヘディ品種",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "バランスの取れた品種",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "ヘビー品種",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "品種比較",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "原産地",
+    "chemotype": "化学型",
+    "duration": "効果の持続時間",
+    "strength": "強さ",
+    "hits": "ヒット",
+    "low": "低い",
+    "high": "強い",
+    "variety": "品種",
+    "region": "地域",
+    "type": "タイプ",
+    "bestUse": "最適な使用法",
+    "resetFilters": "フィルターをリセット",
+    "matchingCriteria": "{total}品種があなたの基準に合っています",
+    "noMatching": "現在のフィルター基準に合う{category}品種はありません。",
+    "toComparison": "インタラクティブな品種比較へ"
+  },
+  "overview": {
+    "intro": "このページでは、効果のタイプに基づいて整理された主要な<a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">ノーブルKava</a>品種の包括的な概要を提供します。これらのプロフィールを利用して、あなたのニーズに最適な品種を見つけてください。",
+    "categories": [
+      {
+        "name": "ヘディ",
+        "description": "頭を重視し、幸福感をもたらし、社交的。日中に最適。",
+        "color": "yellow"
+      },
+      {
+        "name": "バランスの取れた",
+        "description": "バランスが取れており、多用途。どの時間帯にも適しています。",
+        "color": "blue"
+      },
+      {
+        "name": "ヘビー",
+        "description": "身体を重視し、鎮静効果がある。夜に最適。",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "効果フィルター",
+    "description": "希望する効果に基づいて品種をフィルタリングします。スライダーを動かして、選択した値以上の品種のみを表示します。",
+    "euphoria": "幸福感",
+    "relaxation": "リラクゼーション",
+    "sleepy": "眠気"
+  },
+  "sections": {
+    "heady": {
+      "title": "ヘディ品種",
+      "description": "ヘディKavaは頭を重視し、幸福感、精神的明晰さ、社交性を生み出します。日中の消費、社交イベント、創造的な作業に最適です。<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学型</a>は通常、4（<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">カバイン</a>）から始まります。"
+    },
+    "balanced": {
+      "title": "バランスの取れた品種",
+      "description": "バランスの取れたKavaは、頭と身体の間で均衡の取れた効果を提供します。多用途で、日中にも夜にも適しています。<a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">不安解消</a>や一般的なリラクゼーションに最適です。"
+    },
+    "heavy": {
+      "title": "ヘビー品種",
+      "description": "ヘビーKavaは身体を重視し、深い<a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">筋肉のリラクゼーション</a>と鎮静を生み出します。夜間や<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">睡眠問題</a>、身体の回復に最適です。化学型はしばしばDHK（2）が目立つ位置にあります。"
+    }
+  },
+  "comparison": {
+    "title": "品種比較",
+    "description": "この表は、すべての主要な品種の迅速な概要を提供します。詳細な対比のために、私たちの<a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">インタラクティブな比較ツール</a>もご利用ください。",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "エピ、バヌアツ",
+      "chemotype": "421365",
+      "duration": "2-3時間",
+      "strength": 4,
+      "description": "伝説的な幸福感をもたらすKava、Kavaのシャンパンのような存在。",
+      "recommended": [
+        "社交イベント",
+        "創造的な作業",
+        "日中の消費"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "ペンテコスト、バヌアツ",
+      "chemotype": "243516",
+      "duration": "4-6時間",
+      "strength": 4,
+      "description": "バヌアツの民衆Kava、頭を重視した初期効果を持つ多用途な品種。",
+      "recommended": [
+        "社交イベント",
+        "夜の消費",
+        "初心者"
+      ],
+      "badge": "ヘディ / バランスの取れた",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "トンガ",
+      "chemotype": "ブレンド",
+      "duration": "3-4時間",
+      "strength": 3,
+      "description": "最も人気のある日中用Kava、穏やかで初心者に優しい。",
+      "recommended": [
+        "初心者",
+        "仕事",
+        "社交イベント"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "ハワイ",
+      "chemotype": "—",
+      "duration": "2-4時間",
+      "strength": 4,
+      "description": "王室の'Awa、非常に知的で精神をクリアにする。",
+      "recommended": [
+        "瞑想",
+        "創造的な作業",
+        "認知"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "ペンテコスト、バヌアツ",
+      "chemotype": "—",
+      "duration": "2-3時間",
+      "strength": 3,
+      "description": "珍しい幸福感をもたらす品種、非常に評価されています。",
+      "recommended": [
+        "社交イベント",
+        "気分を明るくする"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "アンバエ、バヌアツ",
+      "chemotype": "243156",
+      "duration": "3-5時間",
+      "strength": 3,
+      "description": "完璧なオールラウンダー、穏やかでバランスが取れています。",
+      "recommended": [
+        "初心者",
+        "不安解消",
+        "日常使用"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (バランスの取れた)",
+      "origin": "ペンテコスト、バヌアツ",
+      "chemotype": "243516",
+      "duration": "4-6時間",
+      "strength": 4,
+      "description": "バヌアツの民衆Kava、信頼性が高く多用途。",
+      "recommended": [
+        "夜の消費",
+        "リラクゼーション",
+        "初心者"
+      ],
+      "badge": "ヘディ / バランスの取れた",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "マラクラ、バヌアツ",
+      "chemotype": "423561",
+      "duration": "4-5時間",
+      "strength": 4,
+      "description": "頭と身体の間で良いバランスを持つ強力なKava。",
+      "recommended": [
+        "経験者",
+        "夜の消費"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "フィジー",
+      "chemotype": "—",
+      "duration": "4-5時間",
+      "strength": 3,
+      "description": "バランスの取れたフィジーKava、多用途。",
+      "recommended": [
+        "日常使用",
+        "リラクゼーション"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "マラクラ、バヌアツ",
+      "chemotype": "423651",
+      "duration": "5-7時間",
+      "strength": 5,
+      "description": "最も強力なヘビーKavaの一つ、深い鎮静効果。",
+      "recommended": [
+        "睡眠問題",
+        "筋肉のリラクゼーション",
+        "夜"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "フィジー",
+      "chemotype": "—",
+      "duration": "5-8時間",
+      "strength": 5,
+      "description": "非常に強力なフィジーKava、強い鎮静効果。",
+      "recommended": [
+        "経験者",
+        "睡眠問題"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "マラクラ、バヌアツ",
+      "chemotype": "426531",
+      "duration": "5-7時間",
+      "strength": 4,
+      "description": "Palasaの小さな兄弟、やや穏やかだが似ています。",
+      "recommended": [
+        "ヘビー初心者",
+        "夜の消費"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "ハワイ",
+      "chemotype": "—",
+      "duration": "4-6時間",
+      "strength": 5,
+      "description": "儀式用のハワイの'Awa、非常に強力。",
+      "recommended": [
+        "儀式",
+        "睡眠",
+        "経験者"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "バヌアツ",
+      "type": "ヘディ",
+      "chemotype": "421365",
+      "bestUse": "社交、創造"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "トンガ",
+      "type": "ヘディ",
+      "chemotype": "ブレンド",
+      "bestUse": "初心者、日中"
+    },
+    {
+      "name": "Moi",
+      "region": "ハワイ",
+      "type": "ヘディ",
+      "chemotype": "—",
+      "bestUse": "瞑想、認知"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "バヌアツ",
+      "type": "バランスの取れた",
+      "chemotype": "243156",
+      "bestUse": "不安、オールラウンダー"
+    },
+    {
+      "name": "Borogu",
+      "region": "バヌアツ",
+      "type": "ヘディ / バランスの取れた",
+      "chemotype": "243516",
+      "bestUse": "夜、リラクゼーション"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "バヌアツ",
+      "type": "バランスの取れた",
+      "chemotype": "423561",
+      "bestUse": "経験者、夜"
+    },
+    {
+      "name": "Palasa",
+      "region": "バヌアツ",
+      "type": "ヘビー",
+      "chemotype": "423651",
+      "bestUse": "睡眠、筋肉"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "フィジー",
+      "type": "ヘビー",
+      "chemotype": "—",
+      "bestUse": "経験者、睡眠"
+    },
+    {
+      "name": "Hiwa",
+      "region": "ハワイ",
+      "type": "ヘビー",
+      "chemotype": "—",
+      "bestUse": "儀式、睡眠"
+    }
+  ]
+}

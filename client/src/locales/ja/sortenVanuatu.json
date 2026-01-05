@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "バヌアツの品種",
+    "subtitle": "ボログからケライまで、ヘビーからヘディまで、植物の故郷からの80以上のカバ品種。",
+    "category": "品種",
+    "breadcrumb": {
+      "home": "ホーム",
+      "sorten": "品種",
+      "current": "バヌアツ"
+    }
+  },
+  "toc": {
+    "title": "目次",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "バヌアツ – カバの故郷",
+        "level": 1
+      },
+      {
+        "id": "borogu",
+        "title": "ボログ",
+        "level": 1
+      },
+      {
+        "id": "melo-melo",
+        "title": "メロメロ",
+        "level": 1
+      },
+      {
+        "id": "kelai",
+        "title": "ケライ",
+        "level": 1
+      },
+      {
+        "id": "palasa",
+        "title": "パラサ",
+        "level": 1
+      },
+      {
+        "id": "palarasul",
+        "title": "パララスル",
+        "level": 1
+      },
+      {
+        "id": "bir-kar",
+        "title": "ビルカル",
+        "level": 1
+      },
+      {
+        "id": "weitere",
+        "title": "その他の品種",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "原産地",
+    "chemotype": "化学型",
+    "duration": "効果の持続時間",
+    "hours": "時間",
+    "effectProfile": "効果プロファイル",
+    "recommendedFor": "推奨対象",
+    "tip": "ヒント",
+    "note": "注意",
+    "variety": "品種",
+    "type": "タイプ",
+    "characteristic": "特徴",
+    "popular": "人気",
+    "legendary": "伝説的"
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "<strong>バヌアツ</strong>はカバの起源とされ、80以上の記録された品種を持つ世界最大の多様性を誇ります。これらの品種の多くは、群島の特定の島に特有であり、地元のコミュニティによって何世代にもわたり栽培されてきました。",
+      "text": "バヌアツの多様性は、各島の孤立した位置と、栄養繁殖の長い伝統によって説明されます。カバは種子を生産しないため、各島は地元の土壌、気候、文化的好みに合わせて独自の栽培品種を発展させました。現在、バヌアツは世界中で消費されるカバの大部分を輸出しており、Tudei品種の輸出を禁止する厳格な品質基準を確立しています。",
+      "localNames": "<strong>現地名:</strong> バヌアツでは、島や言語によってカバの呼び名が異なります: <em>カバ</em>、<em>マロク</em>、<em>マログ</em>、または<em>ナカマル</em>（後者は伝統的なカババーも指します）。"
+    },
+    "borogu": {
+      "name": "ボログ",
+      "badge": "ヘディ / バランス",
+      "origin": "ペンテコスト、バヌアツ",
+      "chemotype": "243516",
+      "duration": "4-6時間",
+      "description1": "<strong>ボログ</strong>（「ゴルゴル」とも呼ばれる）は、バヌアツの「民衆のカバ」であり、世界中で最も広く普及している品種の一つです。元々はペンテコスト島から来ており、ポートビラの多くのナカマル（伝統的なカババー）で標準となっています。",
+      "description2": "化学型243516は、DHKが最初に来るバランスの取れた混合を示し、身体的でリラックスした効果をもたらします。2番目の位置にあるカバインは、精神的な明晰さを提供します。",
+      "effects": [
+        "<strong>身体的リラックス:</strong> 明確な筋肉の緊張緩和、長い一日の後に最適",
+        "<strong>精神的安らぎ:</strong> ぼんやりさせることなく心を落ち着ける",
+        "<strong>睡眠促進:</strong> 夜に適しており、快適な睡眠を促進する",
+        "<strong>信頼性:</strong> 一貫した効果、少ないバッチの変動"
+      ],
+      "recommendedFor": "初心者、夜の消費、<a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">筋肉の緊張緩和</a>、<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">睡眠促進</a>"
+    },
+    "meloMelo": {
+      "name": "メロメロ",
+      "badge": "バランス",
+      "origin": "アンバエ、バヌアツ",
+      "chemotype": "243156",
+      "duration": "3-5時間",
+      "description1": "<strong>メロメロ</strong>は、その「メロウ」（穏やかな）効果にちなんで名付けられました。このアンバエ島の品種は、過度に鎮静的でも刺激的でもない、非常にバランスの取れた効果で知られています。",
+      "description2": "化学型243156は、すべての主要なカバラクトンの調和の取れた比率を示します。これにより、メロメロは日中でも夜間でも楽しむことができる、最も多用途な品種の一つとなっています。",
+      "effects": [
+        "<strong>バランス:</strong> 頭と身体の効果の完璧なバランス",
+        "<strong>不安軽減:</strong> <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">不安状態</a>やストレスに非常に効果的",
+        "<strong>社交的:</strong> 疲れを感じさせずに社交性を促進する",
+        "<strong>穏やかな味:</strong> 他の多くの品種よりもマイルド"
+      ],
+      "recommendedFor": "初心者、<a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">不安解消</a>、社交的な場面、オールラウンダー",
+      "tip": "メロメロはカバ初心者に最適な品種の一つです。穏やかでバランスの取れた効果は、圧倒されることなくカバの提供するものを良く理解させてくれます。"
+    },
+    "kelai": {
+      "name": "ケライ",
+      "badge": "ヘディ",
+      "origin": "エピ、バヌアツ",
+      "chemotype": "421365",
+      "duration": "2-3時間",
+      "description1": "<strong>ケライ</strong>はエピ島の伝説的な品種であり、最も「ヘディ」なカバの一つと見なされています。カバコミュニティでは、しばしばシャンパンに例えられます - エレガントで、陶酔感があり、洗練されています。",
+      "description2": "化学型421365は、精神的な明晰さと陶酔感をもたらすカバイン（4）から始まります。2-3時間の比較的短い効果の持続時間は、日中や早い夕方に最適です。",
+      "effects": [
+        "<strong>陶酔感:</strong> 明確な<a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">気分を高揚させる</a>効果",
+        "<strong>精神的刺激:</strong> 創造性とおしゃべりを促進する",
+        "<strong>短い効果の持続時間:</strong> 制御された体験に最適",
+        "<strong>ほとんど鎮静的でない:</strong> 疲れを感じさせず、日中に適している"
+      ],
+      "recommendedFor": "経験者、<a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">社交的な場面</a>、創造的な作業、日中の消費",
+      "note": "ケライは他の品種よりも高価で見つけにくいことが多いです。エピ島は限られた量しか生産しないため、供給不足が生じる可能性があります。"
+    },
+    "palasa": {
+      "name": "パラサ",
+      "badge": "ヘビー",
+      "origin": "マラクラ、バヌアツ",
+      "chemotype": "423651",
+      "duration": "5-7時間",
+      "description": "<strong>パラサ</strong>はマラクラ島の最も強力な「ヘビー」カバの一つです。深い身体的効果で知られ、伝統的に遅い時間に飲まれます。",
+      "effects": [
+        "<strong>強い鎮静作用:</strong> 深い身体的リラックス",
+        "<strong>筋肉の緊張緩和:</strong> <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">緊張</a>に最適",
+        "<strong>睡眠促進:</strong> <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">快適な睡眠</a>のための最高のカバの一つ",
+        "<strong>長持ち:</strong> 効果は5-7時間持続"
+      ],
+      "recommendedFor": "夜の消費、<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">睡眠問題</a>、<a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">筋肉の緊張緩和</a>"
+    },
+    "palarasul": {
+      "name": "パララスル",
+      "badge": "ヘビー",
+      "origin": "マラクラ、バヌアツ",
+      "chemotype": "426531",
+      "duration": "5-7時間",
+      "description": "<strong>パララスル</strong>はパラサに密接に関連しており、同じくマラクラから来ています。名前は「小さなパラサ」を意味し、やや穏やかで、しかし同様に身体的なバリエーションを表しています。",
+      "effects": [
+        "<strong>身体的:</strong> 明確な身体的リラックス",
+        "<strong>やや穏やか:</strong> パラサよりも圧倒的でない",
+        "<strong>良い入門:</strong> ヘビー・カバ初心者に適している"
+      ]
+    },
+    "birKar": {
+      "name": "ビルカル",
+      "badge": "バランス",
+      "origin": "マラクラ、バヌアツ",
+      "chemotype": "423561",
+      "duration": "4-5時間",
+      "description": "<strong>ビルカル</strong>（「ビルカル」とも書かれる）は、マラクラのバランスの取れた品種で、興味深い効果プロファイルを持っています。名前は現地の言語で「強いカバ」を意味します。",
+      "effects": [
+        "<strong>バランス:</strong> 頭と身体の良いバランス",
+        "<strong>強力:</strong> 「バランス」分類にもかかわらず、かなり強い",
+        "<strong>多用途:</strong> 日中と夜間の両方に適している"
+      ]
+    },
+    "weitere": {
+      "title": "バヌアツのその他の品種",
+      "intro": "上記の主要品種に加えて、バヌアツには数十の他のノーブル栽培品種があります。以下はその一部です:",
+      "tableHeaders": {
+        "variety": "品種",
+        "origin": "原産地",
+        "type": "タイプ",
+        "characteristic": "特徴"
+      },
+      "tableRows": [
+        {
+          "variety": "アンバエ",
+          "origin": "アンバエ",
+          "type": "ヘビー",
+          "characteristic": "非常に鎮静的、睡眠用"
+        },
+        {
+          "variety": "ピア",
+          "origin": "ペンテコスト",
+          "type": "バランス",
+          "characteristic": "穏やかで、初心者に最適"
+        },
+        {
+          "variety": "シレセ",
+          "origin": "ペンテコスト",
+          "type": "ヘディ",
+          "characteristic": "陶酔感があり、珍しい"
+        },
+        {
+          "variety": "メルメル",
+          "origin": "多様",
+          "type": "バランス",
+          "characteristic": "メロメロに似ている"
+        },
+        {
+          "variety": "ポイボタ",
+          "origin": "タンナ",
+          "type": "ヘビー",
+          "characteristic": "伝統的、儀式的"
+        },
+        {
+          "variety": "アウイア",
+          "origin": "多様",
+          "type": "バランス",
+          "characteristic": "マイルドで、心地よい"
+        }
+      ],
+      "profilesLink": "すべての品種プロファイルの詳細"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "品種の章を続ける:",
+    "next": {
+      "title": "フィジー、トンガ、ハワイの品種",
+      "description": "地域の特産品: ロアワカ、ポウニオノ、アワモイとその独自の特性",
+      "href": "/de/sorten/pazifik"
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "植物",
+    "subtitle": "分類学、命名法およびPiper methysticumとその野生の原種との関係。",
+    "category": "植物学"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "植物学",
+    "pflanze": "植物"
+  },
+  "toc": {
+    "taxonomie": "分類学的地位",
+    "name": "名前の意味",
+    "wichmannii": "Piper wichmannii – 野生の原種",
+    "unterschiede": "栽培種との違い",
+    "domestikation": "家畜化と進化",
+    "kulturgut": "カヴァを生きた文化遺産として"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>は普通の作物ではありません。これは何千年にもわたる人間の選択の結果であり、現在は栽培された形態としてのみ存在します。野生の個体群はもはや存在せず、世界中のすべてのカヴァ植物は人間の手によって伝えられたクローンです。"
+  },
+  "taxonomie": {
+    "title": "分類学的地位",
+    "intro": "カヴァは<strong>Piperaceae</strong>（コショウ科）に属し、最も古い被子植物の科の一つです。この科には約3,600種が含まれ、5属に分類され、その中にはよく知られた黒コショウ（<em>Piper nigrum</em>）も含まれます。",
+    "table": {
+      "headers": {
+        "rank": "分類ランク",
+        "classification": "分類",
+        "note": "注記"
+      },
+      "rows": {
+        "reich": {
+          "rank": "界",
+          "classification": "Plantae",
+          "note": "植物"
+        },
+        "unterreich": {
+          "rank": "亜界",
+          "classification": "Tracheobionta",
+          "note": "維管束植物"
+        },
+        "abteilung": {
+          "rank": "門",
+          "classification": "Magnoliophyta",
+          "note": "被子植物"
+        },
+        "klasse": {
+          "rank": "綱",
+          "classification": "Magnoliopsida",
+          "note": "双子葉植物"
+        },
+        "ordnung": {
+          "rank": "目",
+          "classification": "Piperales",
+          "note": "コショウ目"
+        },
+        "familie": {
+          "rank": "科",
+          "classification": "Piperaceae",
+          "note": "コショウ科"
+        },
+        "gattung": {
+          "rank": "属",
+          "classification": "<em>Piper</em> L.",
+          "note": "世界中に約2,000種"
+        },
+        "art": {
+          "rank": "種",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "1786年に初めて記載"
+        }
+      }
+    },
+    "forster": "初めての記載は1786年に<strong>ヨハン・ゲオルク・アダム・フォルスター</strong>によって行われました。彼はジェームス・クックの第二次世界周航に同行したドイツの自然科学者です。フォルスターはこの植物とその使用法を太平洋の島々で記録しました。"
+  },
+  "name": {
+    "title": "名前の意味",
+    "intro": "学名<em>Piper methysticum</em>は、ラテン語とギリシャ語の組み合わせです：",
+    "piper": {
+      "title": "Piper",
+      "description": "ラテン語で「コショウ」を意味します。コショウ科に属し、根のわずかに辛い味を指します。"
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "ギリシャ語の<em>μεθυστικός</em>（methystikos）から来ており、「酔わせる」または「酩酊させる」という意味です。植物の精神活性作用を説明しています。"
+    },
+    "localNames": {
+      "intro": "「カヴァ」という名前自体は、太平洋のオーストロネシア語から来ています。さまざまな地域で異なる名称が存在します：",
+      "headers": {
+        "region": "地域",
+        "name": "現地名",
+        "meaning": "意味"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "バヌアツ",
+          "name": "カヴァ、マロク",
+          "meaning": "\"苦い\""
+        },
+        "fiji": {
+          "region": "フィジー",
+          "name": "ヤコナ",
+          "meaning": "\"苦い根\""
+        },
+        "tonga": {
+          "region": "トンガ",
+          "name": "カヴァ",
+          "meaning": "\"辛い、苦い\""
+        },
+        "samoa": {
+          "region": "サモア",
+          "name": "'アバ",
+          "meaning": "\"苦い\""
+        },
+        "hawaii": {
+          "region": "ハワイ",
+          "name": "'アワ",
+          "meaning": "\"苦い\""
+        },
+        "pohnpei": {
+          "region": "ポンペイ",
+          "name": "サカウ",
+          "meaning": "\"カヴァ飲料\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – 野生の原種",
+    "intro": "<em>Piper methysticum</em>の最も近い親種は<strong>Piper wichmannii</strong>であり、これは現在の栽培されたカヴァの野生の原種と見なされています。この種は、パプアニューギニア、ソロモン諸島、北バヌアツに自然に分布しています。",
+    "alert": "<strong>重要：</strong><em>Piper wichmannii</em>は時々「ワイルドカヴァ」と呼ばれ、地元で消費されます。しかし、異なるカバラクトンプロファイルを含み、栽培されたエレガントカヴァ品種よりも耐性が低いと見なされています。",
+    "differences": {
+      "title": "<em>P. methysticum</em>と<em>P. wichmannii</em>の違い",
+      "headers": {
+        "feature": "特徴",
+        "methysticum": "<em>P. methysticum</em>（栽培種）",
+        "wichmannii": "<em>P. wichmannii</em>（野生種）"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "繁殖",
+          "methysticum": "不妊、無性繁殖のみ",
+          "wichmannii": "有性、種子を生成"
+        },
+        "chromosomen": {
+          "feature": "染色体数",
+          "methysticum": "デカポイド（2n = 130）",
+          "wichmannii": "二倍体（2n = 26）"
+        },
+        "kavalacton": {
+          "feature": "カバラクトン含量",
+          "methysticum": "高い、最適化されている",
+          "wichmannii": "低い、変動する"
+        },
+        "chemotyp": {
+          "feature": "化学型",
+          "methysticum": "耐性のために選択されている",
+          "wichmannii": "しばしば「トゥデイ」に似ている"
+        },
+        "verbreitung": {
+          "feature": "分布",
+          "methysticum": "人間によってのみ",
+          "wichmannii": "自然分布"
+        },
+        "nutzung": {
+          "feature": "伝統的利用",
+          "methysticum": "何千年も記録されている",
+          "wichmannii": "限られている、しばしば避けられる"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "家畜化と進化",
+    "intro": "カヴァの家畜化はおそらく約<strong>3,000年前</strong>に北バヌアツで始まりました。遺伝学的研究は、<em>Piper methysticum</em>が<em>Piper wichmannii</em>から繰り返しの交雑と多倍体化によって生じたことを示しています。",
+    "changes": "家畜化のプロセスは、いくつかの重要な変化をもたらしました：",
+    "cards": {
+      "polyploidie": {
+        "title": "多倍体の増加",
+        "description": "<em>P. wichmannii</em>が二倍体（2n = 26）であるのに対し、<em>P. methysticum</em>はデカポイド（2n = 130）です。この染色体数の増加は、より大きな根と高いカバラクトン含量をもたらしました。"
+      },
+      "fertilitaet": {
+        "title": "生殖能力の喪失",
+        "description": "高い多倍体は不妊を引き起こしました。植物は花を生成しますが、実行可能な種子は生成しません。これにより、完全に人間に依存することになりました。"
+      },
+      "wirkprofil": {
+        "title": "最適化された作用プロファイル",
+        "description": "選択的な選抜により、より快適な効果と良好な耐性を持つ品種が優先されました。これにより、今日の「エレガントカヴァ」品種が生まれました。"
+      },
+      "sortenvielfalt": {
+        "title": "品種の多様性",
+        "description": "今日、バヌアツだけで80以上の記録された栽培品種が存在します。各品種は独自の化学型プロファイルと特有の効果特性を持っています。"
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "カヴァを生きた文化遺産として",
+    "paragraph1": "カヴァは自ら繁殖できないため、現在存在するすべての植物は人間の継続的な伝承の結果です。挿し木は世代から世代へ、家族から家族へ、村から村へと受け継がれました。",
+    "quote": {
+      "text": "カヴァは南太平洋における意図的な選択的農業の最も古い記録された例の一つです。この植物は生きた文化遺産であり、世代から世代へと受け継がれています。",
+      "author": "セバスチャン・フライダンク、「カヴァ – 安らぎの根」"
+    },
+    "paragraph2": "原産国では、カヴァは単なる作物として見られるだけでなく、しばしば<strong>生きた存在</strong>としても見なされます – 名前、性格、歴史を持っています。個々の植物に名前が付けられ、儀式で崇拝されることは珍しくありません。この人間と植物の深い結びつきが、カヴァを効果的であるだけでなく、意味のあるものにしています。",
+    "paragraph3": "人間への依存は影の側面も持っています：継続的な栽培がなければ、<em>Piper methysticum</em>は一世代のうちに絶滅します。これは、カヴァの栽培と取引に伴う責任を強調しています。"
+  },
+  "navigation": {
+    "nextChapter": "植物学の章を続ける：",
+    "morphologie": {
+      "title": "形態学",
+      "description": "カヴァ植物の解剖学と根系"
+    }
+  }
+}

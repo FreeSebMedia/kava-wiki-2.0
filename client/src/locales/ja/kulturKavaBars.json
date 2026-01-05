@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "カヴァバー検索",
+    "description": "フロリダからニュージーランドまで、世界中のカヴァバーを見つけましょう。住所、評価、営業時間付き。"
+  },
+  "breadcrumb": {
+    "home": "ホーム",
+    "kultur": "文化",
+    "current": "カヴァバー検索"
+  },
+  "viewToggle": {
+    "list": "リスト",
+    "map": "地図"
+  },
+  "search": {
+    "placeholder": "名前、都市、または国で検索...",
+    "resultsCount": "カヴァバーが見つかりました",
+    "resultSingular": "カヴァバーが見つかりました",
+    "resultPlural": "カヴァバーが見つかりました"
+  },
+  "filter": {
+    "button": "フィルター",
+    "country": "国",
+    "allCountries": "すべての国",
+    "region": "地域/州",
+    "allRegions": "すべての地域",
+    "minRating": "最低評価",
+    "allRatings": "すべての評価",
+    "rating4Plus": "4+ 星",
+    "rating45Plus": "4.5+ 星",
+    "clearFilters": "フィルターをリセット",
+    "features": "設備"
+  },
+  "featureLabels": {
+    "wifi": "Wi-Fi",
+    "outdoor": "屋外エリア",
+    "food": "食事",
+    "live-music": "ライブ音楽",
+    "events": "イベント",
+    "traditional": "伝統的な調理",
+    "kratom": "クラトム",
+    "cbd": "CBD",
+    "games": "ゲーム",
+    "parking": "駐車場",
+    "accessible": "バリアフリー",
+    "late-night": "深夜営業"
+  },
+  "countryNames": {
+    "US": "アメリカ",
+    "AU": "オーストラリア",
+    "NZ": "ニュージーランド",
+    "DE": "ドイツ",
+    "UK": "イギリス",
+    "CA": "カナダ"
+  },
+  "bar": {
+    "verified": "認証済み",
+    "address": "住所",
+    "hours": "営業時間",
+    "specialties": "特産品",
+    "features": "設備",
+    "reviews": "レビュー",
+    "call": "電話する",
+    "website": "ウェブサイト",
+    "route": "ルート",
+    "routePlan": "ルートを計画",
+    "backToList": "リストに戻る"
+  },
+  "empty": {
+    "title": "カヴァバーが見つかりませんでした",
+    "description": "他の検索語やフィルターを試してください。",
+    "resetButton": "フィルターをリセット"
+  },
+  "stats": {
+    "title": "カヴァバー統計",
+    "bars": "カヴァバー",
+    "countries": "国",
+    "inUSA": "アメリカで",
+    "verified": "認証済み"
+  },
+  "cta": {
+    "title": "カヴァバーを知っていますか？",
+    "description": "データベースを拡張する手助けをしてください！ここにリストされていないカヴァバーを知っている場合は、お知らせください。",
+    "button": "カヴァバーを提案する"
+  },
+  "related": {
+    "title": "関連ページ",
+    "nakamal": {
+      "title": "ナカマルとカヴァバー",
+      "subtitle": "カヴァ飲文化の歴史"
+    },
+    "moderne": {
+      "title": "現代のカヴァ文化",
+      "subtitle": "今日のグローバルな普及"
+    },
+    "weltkarte": {
+      "title": "インタラクティブな世界地図",
+      "subtitle": "カヴァ地域を発見"
+    }
+  },
+  "navigation": {
+    "nakamal": "/ja/kultur/nakamal",
+    "moderne": "/ja/kultur/moderne",
+    "weltkarte": "/ja/kultur/weltkarte",
+    "kontakt": "/ja/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "フロリダで最も有名なカヴァバーのチェーンの一つで、オーセンティックな雰囲気とバヌアツやフィジーの高品質なカヴァを提供しています。",
+      "specialties": [
+        "バヌアツ ボログ",
+        "フィジー ワカ",
+        "カヴァスムージー"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutraはバヌアツ島からの最高品質のカヴァを使用しています。何千年も儀式で使用されています。",
+      "specialties": [
+        "バヌアツ プレミアム",
+        "カヴァフライト"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "リラックスした雰囲気の中で、伝統的に調理されたカヴァの選択肢を提供する地元のカヴァバーです。",
+      "specialties": [
+        "伝統的なカヴァ",
+        "クラトムティー"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "ラスオラスの中心にあるプレミアムカヴァバーで、太平洋の雰囲気と多様なノーブルカヴァを提供しています。",
+      "specialties": [
+        "フィジー ロア ワカ",
+        "トンガのカヴァ",
+        "カヴァフライト"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "マデイラビーチの初のカヴァバー！ピネラスの初のカヴァバーのオーナーによるものです。",
+      "specialties": [
+        "ビーチブレンド",
+        "フィジー ワカ"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "最高級のフィジーのカヴァ、フーカー、クラトム、カヴァコメディーの月曜日を提供するリラックスしたカヴァラウンジです。",
+      "specialties": [
+        "フィジー カヴァ",
+        "カヴァオケ",
+        "コメディーナイト"
+      ]
+    },
+    "roots-miami": {
+      "description": "ウィンウッドにある都会的なカヴァバーで、アートな雰囲気と定期的なライブ音楽イベントを提供しています。",
+      "specialties": [
+        "ハウスブレンド",
+        "カヴァカクテル",
+        "クラトムティー"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "マイアミにある現代的なカヴァバー、ラウンジ、リテールロケーションです。",
+      "specialties": [
+        "ボタニカルブレンド",
+        "CBDカヴァ"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "カヴァカルチャーフランチャイズチェーンの本部で、最も多様なカヴァの選択肢を提供しています。",
+      "specialties": [
+        "プレミアムバヌアツ",
+        "カヴァカクテル",
+        "クラトム"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "ボニータスプリングスにある現代的で洗練されたインドア/アウトドアのカヴァバーです。",
+      "specialties": [
+        "バヌアツ ストーン",
+        "フィジー ワカ"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "クリアウォーターにあるリラックスしたカヴァバーで、14時から17時までハッピーアワーを提供しています。",
+      "specialties": [
+        "ハッピーアワースペシャル",
+        "カヴァショット"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "フォートマイヤーズのダウンタウンにあるカヴァカルチャーで、オープンマイクナイト、アート、そして美味しいカヴァカクテルを提供しています。",
+      "specialties": [
+        "オープンマイクナイト",
+        "アートイベント"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "オーランドのダウンタウンにあるカヴァカルチャーで、リラックスした雰囲気を提供しています。",
+      "specialties": [
+        "バヌアツカヴァ",
+        "クラトムブレンド"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "カヴァカルチャーFMBは、ブッダブレンドのビーガンキッチンを提供します。屋外ビーチバー、ビリヤード台、ダーツ、オープンマイクがあります。",
+      "specialties": [
+        "ビーチの雰囲気",
+        "ビーガンフード",
+        "ライブ音楽"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "キーウェストのカヴァカルチャー - トロピカルな雰囲気とプレミアムカヴァを提供します。",
+      "specialties": [
+        "アイランドブレンド",
+        "トロピカルカヴァ"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "タンパのダウンタウンにあるカヴァカルチャーで、都会的な雰囲気を提供しています。",
+      "specialties": [
+        "アーバンブレンド",
+        "カヴァショット"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "サウスタンパのカヴァカルチャーで、リラックスした近所の雰囲気を提供しています。",
+      "specialties": [
+        "近所の雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "ネイプルズのカヴァカルチャーで、上品な雰囲気を提供しています。",
+      "specialties": [
+        "プレミアムセレクション",
+        "カヴァフライト"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "ポートシャーロットのカヴァカルチャーで、ビーチの雰囲気と運河の眺めを提供しています。",
+      "specialties": [
+        "ビーチの雰囲気",
+        "運河の眺め"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "エステロのカヴァカルチャーで、便利なロケーションを提供しています。",
+      "specialties": [
+        "便利なロケーション",
+        "高品質のカヴァ"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "レイクメアリーのカヴァカルチャー - リラックスした雰囲気を提供しています。",
+      "specialties": [
+        "リラックスした雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "カヴァカゼはタラハシーにあるカヴァバーで、カヴァ、ティー、リラックスするための場所を提供しています。",
+      "specialties": [
+        "学生向けスペシャル",
+        "チルな雰囲気"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "メルボルンFLのダウンタウンにあるアイランドルートカヴァバーです。",
+      "specialties": [
+        "伝統的なカヴァ",
+        "コミュニティイベント"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "ダルマフーカーラウンジは、カヴァ、ティー、クラトム、フーカーを提供するカヴァ・ジャバ・フーカーラウンジです。",
+      "specialties": [
+        "フーカー",
+        "カヴァ",
+        "クラトム"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "家族経営の、すべてオーガニックのボタニカルとティーで、最大の健康を提供します。",
+      "specialties": [
+        "オーガニックボタニカル",
+        "ウェルネスティー"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "ジョニー・ベイパーズは、カヴァとクラトムを提供する地元のベイプショップとラウンジです。",
+      "specialties": [
+        "ベイプ製品",
+        "カヴァ",
+        "クラトム"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "ロータイドラウンジは、クリエイティブで平和な頭を持つ人々の集まる場所です。",
+      "specialties": [
+        "クリエイティブコミュニティ",
+        "ライブ音楽"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "カヴァとクラトムを提供するエスノボタニカルティーバーです。",
+      "specialties": [
+        "エスノボタニカル",
+        "ティーブレンド"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "ターンパイクのすぐそばにあるカヴァ、ベイパー、eフーカーです。チルしてリラックスして楽しんでください！",
+      "specialties": [
+        "ベイプ",
+        "カヴァ",
+        "eフーカー"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "カヴァクーラは、リラックスしたビーチの雰囲気でプレミアムカヴァを提供します。",
+      "specialties": [
+        "ビーチの雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "カヴァソーシャルは、カヴァ、ティー、コミュニティイベントを提供する社交の場です。",
+      "specialties": [
+        "社交イベント",
+        "カヴァ",
+        "ティー"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "ナカヴァは、大学都市ゲインズビルに本物のカヴァを提供します。",
+      "specialties": [
+        "大学の雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "ジャクソンビルのピースフルウォリアーカヴァバーは、ウェルネスとリラクゼーションに焦点を当てています。",
+      "specialties": [
+        "ウェルネス",
+        "伝統的なカヴァ"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "ソウルトライブは、カヴァとスピリチュアルなコミュニティの雰囲気を提供します。",
+      "specialties": [
+        "スピリチュアルコミュニティ",
+        "カヴァ"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "ペンサコーラのカヴァタップ - カヴァをタップで提供するリラックスしたバーの雰囲気。",
+      "specialties": [
+        "ドラフトカヴァ",
+        "バーの雰囲気"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "ナカヴァオカラはフロリダ中央部にプレミアムカヴァを提供します。",
+      "specialties": [
+        "フロリダ中央部",
+        "プレミアムカヴァ"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "ブーラカフェオーランドは、中央フロリダに太平洋の雰囲気をもたらします。",
+      "specialties": [
+        "太平洋の雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "フェニックスのパープルロータスカヴァバー - アリゾナのプレミアカヴァの目的地。",
+      "specialties": [
+        "アリゾナのファースト",
+        "プレミアムカヴァ"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "アリゾナ州テンピのカヴァカルチャー - ASUの学生に最適。",
+      "specialties": [
+        "学生に優しい",
+        "プレミアムカヴァ"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "ツーソンのルートは、本物のカヴァとクラトムを提供します。",
+      "specialties": [
+        "本物のカヴァ",
+        "クラトム"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "サンディエゴのブーラカヴァハウスは、リラックスしたビーチの雰囲気を提供します。",
+      "specialties": [
+        "ビーチの雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "サンフランシスコのカヴァルーツ - ベイエリア初のカヴァバー。",
+      "specialties": [
+        "ベイエリアファースト",
+        "プレミアムカヴァ"
+      ]
+    },
+    "nakava-la": {
+      "description": "ナカヴァロサンゼルスは、ハリウッドにプレミアムカヴァをもたらします。",
+      "specialties": [
+        "ハリウッドの雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "アルコールフリー、すべての年齢層歓迎、エリクサー、エキゾチック、ローフードのハーブラウンジ。",
+      "specialties": [
+        "ハーブエリクサー",
+        "ローフード",
+        "すべての年齢"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "楽しい社交的な雰囲気で、最高の伝統的に調理されたカヴァを提供します。チルスポットの革新的なアイデア！",
+      "specialties": [
+        "伝統的な調理",
+        "カヴァ教育"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "南オレゴンの中心にある薬局、ティーガーデン、アートギャラリー、音楽イベント会場！ハワイのビッグアイランドからカヴァを輸入。",
+      "specialties": [
+        "カヴァコンブチャ",
+        "アートギャラリー",
+        "音楽会場"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "オースティンの人気カヴァバーで、リラックスした雰囲気、ゲーム、コミュニティイベントを提供しています。",
+      "specialties": [
+        "カヴァフライト",
+        "クラトムブレンド",
+        "コンブチャ"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "テキサス州ルイスビルのカヴァカルチャー。",
+      "specialties": [
+        "プレミアムカヴァ",
+        "テキサスの雰囲気"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "ノースフォートワースのカヴァカルチャー。",
+      "specialties": [
+        "プレミアムカヴァ",
+        "便利なロケーション"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "カヴァカルチャーアライアンス - オハイオ州で今オープン。",
+      "specialties": [
+        "プレミアムカヴァ",
+        "ミッドウエストの雰囲気"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "オハイオ州トレドのカヴァカルチャー。",
+      "specialties": [
+        "プレミアムカヴァ",
+        "オハイオのロケーション"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "ソルトレイクシティ初のカヴァバーで、プレミアムカヴァの選択肢と温かいコミュニティを提供します。",
+      "specialties": [
+        "バヌアツカヴァ",
+        "カヴァセレモニー"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "カヴァは南太平洋の根です。リラックスし、落ち着くための儀式的な飲み物として使用されます。",
+      "specialties": [
+        "NYCの雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutraはアメリカで最高のカヴァバーで、プレミアムカヴァと他のハーブを提供します。",
+      "specialties": [
+        "プレミアムカヴァ",
+        "ハーブブレンド"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "ユーフォルビアは、カヴァを注入した飲み物とローデザート、ボンサイ植物を専門とするカヴァバーです。",
+      "specialties": [
+        "ローデザート",
+        "ボンサイ植物",
+        "カヴァドリンク"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "ハーブとカヴァ製品の完全なライン、ジュースバー、タバコ、フーカー、ベイプ製品 - すべてが一つの屋根の下に。",
+      "specialties": [
+        "ハーブ製品",
+        "ジュースバー"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "ミズーリ州初のカヴァバー！来て、何が起こっているのか見てください。週7日営業。",
+      "specialties": [
+        "ミズーリ州初",
+        "伝統的なカヴァ"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "ノースカロライナ州キャーボロにあるクレイブカヴァバー。",
+      "specialties": [
+        "プレミアムカヴァ",
+        "大学の町の雰囲気"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "ノースカロライナ州ウィルミントンにあるカット5カヴァバー。",
+      "specialties": [
+        "海岸の雰囲気",
+        "プレミアムカヴァ"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "インビジョンは、カヴァとクラトムなどの特産品を提供するユニークなコワーキングスペースとカフェです。",
+      "specialties": [
+        "コワーキングスペース",
+        "カヴァ & クラトム"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "健康的な体のための健康的な食事とカヴァ！アラスカのカヴァの目的地。",
+      "specialties": [
+        "アサイボウル",
+        "スムージー",
+        "カヴァ"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "サウスカロライナ州スパータンバーグのカヴァカルチャー。",
+      "specialties": [
+        "プレミアムカヴァ",
+        "南部のホスピタリティ"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "オーストラリア初の専用カヴァラウンジで、オーセンティックなフィジーのカヴァと太平洋のホスピタリティを提供します。",
+      "specialties": [
+        "フィジー ワカ",
+        "バヌアツカヴァ",
+        "伝統的な儀式"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "メルボルンのパシフィックマーケットにあるカヴァバーで、カヴァとクラトムの選択肢を提供します。",
+      "specialties": [
+        "フィジーカヴァ",
+        "トンガのカヴァ"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "ブリスベンのオーセンティックなカヴァバーで、フィジーの装飾と伝統的な調理を提供します。",
+      "specialties": [
+        "フィジー ワカ",
+        "カヴァセレモニー"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "オークランドの専用カヴァラウンジで、ビクトリアパークマーケットにあり、温かく迎え入れるコミュニティとノーブルカヴァを提供します。",
+      "specialties": [
+        "トンガのカヴァ",
+        "フィジー ワカ",
+        "バヌアツカヴァ"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "南オークランドにある本物のカヴァバーで、手頃な価格と多様なカヴァパウダーを提供しています。",
+      "specialties": [
+        "トンガのカヴァ",
+        "フィジーカヴァ",
+        "カヴァパウダー販売"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "ベルリンの初のカヴァラウンジで、クロイツベルクにあり、リラックスした雰囲気と定期的なカヴァセレモニーを提供しています。",
+      "specialties": [
+        "バヌアツカヴァ",
+        "カヴァセレモニー"
+      ]
+    },
+    "kava-club-london": {
+      "description": "ロンドン初のカヴァクラブで、ショーディッチにあり、都会的な雰囲気とプレミアムカヴァの選択肢を提供しています。",
+      "specialties": [
+        "フィジー プレミアム",
+        "カヴァカクテル"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "バンクーバーの居心地の良いカヴァカフェで、カヴァと健康的な食事の選択肢を提供しています。",
+      "specialties": [
+        "バヌアツカヴァ",
+        "カヴァスムージーボウル"
+      ]
+    }
+  }
+}
