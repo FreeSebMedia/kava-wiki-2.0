@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Valmistus & Käyttö",
+    "subtitle": "Jauheesta juomaan: Kuinka valmistaa Kavaa oikein maksimaalisen vaikutuksen ja parhaan maun saavuttamiseksi.",
+    "category": "Valmistus"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "current": "Valmistus"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Uutteen perusteet",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Perinteinen menetelmä (Vaivaaminen)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Sekoittimen menetelmä (Blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Shaker-menetelmä (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instant & Mikronisoitu",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Ammattilaisvinkit parhaan vaikutuksen saavuttamiseksi",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kavalaktonit ovat <strong>ei vesiliukoisia</strong>, vaan rasvaliukoisia. Ne tarttuvat kuitenkin mekaanisesti juuren tärkkelysrauhasiin.",
+      "text": "Jokaisen valmistuksen tavoite on siten irrottaa nämä hiukkaset mekaanisella voimalla (vaivaaminen, sekoittaminen) kasvikuiduista ja emulgoida ne veteen. Pelkkä \"teevalmistus\" (vain kuuma vesi päälle) ei toimi Kavan kanssa <strong>tehokkaasti</strong>!"
+    },
+    "traditionell": {
+      "title": "Perinteinen menetelmä (Vaivaaminen)",
+      "intro": "Tämä on paras menetelmä maksimaaliseen tehoon ja aitoon kokemukseen.",
+      "materialsTitle": "Mitä tarvitset:",
+      "materials": [
+        "Kava-juurijauhe (keskikarkea)",
+        "Suodatinpussi (pähkinämaitopussi, 75-100 mikronia)",
+        "Kulho lämmintä (ei kiehuvaa!) vettä",
+        "Valinnainen: Loraus maitoa tai kookosmaitoa (rasva auttaa uuttamisessa)"
+      ],
+      "instructionsTitle": "Ohjeet:",
+      "instructions": [
+        "Laita jauhe suodatinpussiin (noin 30-40g per 500ml vettä).",
+        "Upota pussi veteen ja anna sen liota hetken.",
+        "<strong>Vaivaaminen ja puristaminen:</strong> Vaivaa pussia voimakkaasti veden alla 10-15 minuuttia. Purista sitä jatkuvasti. Veden tulisi muuttua maitomaiseksi ruskeaksi (\"Grog\").",
+        "Purista pussia vielä kerran kunnolla.",
+        "Tarjoile Kava kulhoissa (Shells). Juo nopeasti (\"Chug\"), älä siemaile!"
+      ]
+    },
+    "blender": {
+      "title": "Sekoittimen menetelmä (Blender)",
+      "intro": "Nopea ja usein voimakkaampi, mutta maku voi olla hieman karvas, koska enemmän kasvimateriaalia murskataan.",
+      "instructions": [
+        "Laita vettä, Kava-jauhetta ja teelusikallinen öljyä/rasvaa tehosekoittimeen.",
+        "Sekoita korkealla teholla 3-4 minuuttia.",
+        "Kaada neste suodatinpussin tai hienon siivilän läpi kulhoon.",
+        "Purista kasvimateriaalit suodattimessa hyvin."
+      ]
+    },
+    "shaker": {
+      "title": "Shaker-menetelmä (Aluball)",
+      "intro": "Nykyisin moderni ja nopein menetelmä, ihanteellinen matkalla.",
+      "text": "Käytetään erityisiä shaker-pulloja, joissa on pallo (Aluball), joka sisältää metallisiivilän.",
+      "instructions": [
+        "Täytä Kava siiviläpalloon.",
+        "Täytä pullo vedellä.",
+        "Laita pallo sisään ja ravista voimakkaasti 1-2 minuuttia.",
+        "Valmis!"
+      ],
+      "note": "Huomautus: Tämä menetelmä on usein hieman vähemmän tehokas kuin perinteinen vaivaaminen, mutta erittäin kätevä."
+    },
+    "instant": {
+      "title": "Instant & Mikronisoitu",
+      "intro": "Kaikille, jotka eivät halua vaivata ollenkaan.",
+      "items": [
+        {
+          "name": "Instant Kava",
+          "description": "Kuivattu \"Vihreä Kava Mehu\". Erittäin voimakas, erittäin kallis, liukenee heti veteen. \"Kuningasluokka\"."
+        },
+        {
+          "name": "Mikronisoitu Kava",
+          "description": "Erittäin hienoksi jauhettu juurijauhe, josta karkea kuitu on poistettu. Sitä juodaan vain sellaisenaan. Voi aiheuttaa herkillä vatsalla enemmän pahoinvointia kuin suodatettu Kava."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Ammattilaisvinkit parhaan vaikutuksen saavuttamiseksi",
+      "alert": {
+        "title": "Kultainen sääntö",
+        "text": "Juo Kavaa aina <strong>tyhjään vatsaan</strong> (vähintään 3-4 tuntia viimeisen aterian jälkeen). Muuten vaikutus on huomattavasti heikompi!"
+      },
+      "tips": [
+        {
+          "name": "Käänteinen toleranssi",
+          "text": "Monet ihmiset kokevat ensimmäisellä kerralla vähän. Kehon on ensin \"totuttava\" kavalaktoniin. Juo sitä muutaman päivän peräkkäin."
+        },
+        {
+          "name": "\"Chaser\"",
+          "text": "Kava maistuu maamaiselta ja karvaalta. Pidä pala hedelmää (ananas, appelsiini) valmiina purtavaksi heti juomisen jälkeen."
+        },
+        {
+          "name": "Rasvalähde",
+          "text": "Syö pienen rasvaisen aterian (esim. pizza, curry) Kava-istunnon jälkeen. Tämä voi laukaista toisen aallon vaikutuksesta."
+        }
+      ]
+    }
+  }
+}

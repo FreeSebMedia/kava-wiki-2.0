@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Viljely & Ekologia",
+    "subtitle": "Kasvatusolosuhteet, lisääntymismenetelmät ja perinteisen Kava-viljelyn taide.",
+    "category": "Botaniikka"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botaniikka",
+    "current": "Viljely & Ekologia"
+  },
+  "toc": {
+    "vermehrung": "Vegetatiivinen lisääntyminen",
+    "stecklinge": "Verson hankinta",
+    "klima": "Ilmasto-olosuhteet",
+    "boden": "Maaperän laatu",
+    "pflege": "Hoito & Kasvu",
+    "ernte": "Sadonkorjuu & Kypsyysaika",
+    "qualitaet": "Laatutekijät",
+    "anbauregionen": "Tärkeimmät viljelyalueet"
+  },
+  "intro": {
+    "paragraph1": "Kavan viljely on taidetta, joka on siirtynyt sukupolvelta toiselle tuhansien vuosien ajan. Koska <em>Piper methysticum</em> on steriili eikä tuota siemeniä, kasvi on täysin ihmisen varassa. Tämä ainutlaatuinen riippuvuus on johtanut syvään kulttuuriseen yhteyteen Tyynenmeren kansojen ja heidän pyhän kasviensa välillä."
+  },
+  "vermehrung": {
+    "title": "Vegetatiivinen lisääntyminen",
+    "paragraph1": "Kavan lisääntyminen tapahtuu yksinomaan <strong>vegetatiivisesti versoista</strong>. Tämä on suora seuraus kasvin steriilisyydestä – ominaisuudesta, joka on syntynyt vuosituhansien kestäneestä kesyttämisestä.",
+    "advantages": {
+      "title": "Vegetatiivisen lisääntymisen edut",
+      "items": [
+        "Geneettinen identiteetti emokasvin kanssa",
+        "Hyväksyttyjen lajikeominaisuuksien säilyttäminen",
+        "Ennustettava kemotyyppiprofiili",
+        "Nopeampi kasvu kuin siemenistä",
+        "Hyväksytty laatu sukupolvien ajan"
+      ]
+    },
+    "challenges": {
+      "title": "Haasteet",
+      "items": [
+        "Ei geneettistä vaihtelua mahdollista",
+        "Alttius sairauksille (klonit)",
+        "Riippuvuus emokasveista",
+        "Rajoitettu leviämisnopeus",
+        "Lajikkeiden menettämisen riski"
+      ]
+    },
+    "stecklinge": {
+      "title": "Verson hankinta & Istutus",
+      "paragraph1": "Perinteinen versojen hankintamenetelmä seuraa hyväksyttyä prosessia:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Valinta",
+          "description": "Terveitä varsiosia, joissa on 2-3 solmua hyväksytyltä emokasvilta"
+        },
+        {
+          "number": "2",
+          "title": "Leikkaus",
+          "description": "Siisti leikkaus solmun alapuolelta, pituus noin 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Valmistelu",
+          "description": "Alalehtien poistaminen, leikkauspinnan lyhyt kuivaaminen"
+        },
+        {
+          "number": "4",
+          "title": "Istutus",
+          "description": "Asetetaan löysään, kosteaan maahan varjossa, säännöllinen kastelu"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Ilmasto-olosuhteet",
+    "paragraph1": "Kava on <strong>trooppinen kasvi</strong> tietyillä ilmasto-olosuhteilla. Se menestyy vain suhteellisen kapealla ympäristöolosuhteiden alueella.",
+    "table": {
+      "headers": {
+        "parameter": "Parametri",
+        "optimal": "Ihanteellinen alue",
+        "tolerance": "Sietokykyalue",
+        "note": "Huomautus"
+      },
+      "rows": [
+        {
+          "parameter": "Lämpötila",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Ei sietä jäätymistä"
+        },
+        {
+          "parameter": "Sateet",
+          "optimal": "2.000-3.000 mm/vuosi",
+          "tolerance": "1.500-4.000 mm/vuosi",
+          "note": "Tasaisesti jakautunut"
+        },
+        {
+          "parameter": "Ilmankosteus",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Korkea kosteus on suositeltavaa"
+        },
+        {
+          "parameter": "Korkeus",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Matalat alueet suositeltavia"
+        },
+        {
+          "parameter": "Auringonvalo",
+          "optimal": "Puolivarjo",
+          "tolerance": "30-70% varjoa",
+          "note": "Nuoret kasvit: enemmän varjoa"
+        }
+      ]
+    },
+    "alert": "<strong>Varjontarve:</strong> Nuoret Kava-kasvit (0-2 vuotta) tarvitsevat noin 70-80% varjoa. Iän myötä ne voivat sietää enemmän auringonvaloa, mutta hyötyvät edelleen osittaisesta varjosta."
+  },
+  "boden": {
+    "title": "Maaperän laatu",
+    "paragraph1": "Maaperän laatu on yksi kriittisimmistä tekijöistä onnistuneessa Kava-viljelyssä. Kasvi asettaa korkeita vaatimuksia vedenpoistolle ja ravinteiden sisällölle.",
+    "ideal": {
+      "title": "Ihanteelliset maaperäominaisuudet",
+      "items": [
+        {
+          "label": "Rakenne:",
+          "value": "Löysä, mureneva, hyvin ilmastoitu"
+        },
+        {
+          "label": "Vedenpoisto:",
+          "value": "Erinomainen – seisova vesi johtaa nopeasti juurimätään"
+        },
+        {
+          "label": "pH-arvo:",
+          "value": "Hieman hapan tai neutraali (5,5-6,5)"
+        },
+        {
+          "label": "Orgaaninen sisältö:",
+          "value": "Korkea, runsas humus"
+        },
+        {
+          "label": "Syvyys:",
+          "value": "Vähintään 60 cm juurten kehitykselle"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Vältettävät asiat",
+      "items": [
+        {
+          "label": "Tiivistyneet maaperät:",
+          "value": "Häiritsevät juurten kasvua"
+        },
+        {
+          "label": "Seisova vesi:",
+          "value": "Johtaa juurimätään ja sienitautiin"
+        },
+        {
+          "label": "Raskaat savimaat:",
+          "value": "Huono vedenpoisto"
+        },
+        {
+          "label": "Suolapitoiset maaperät:",
+          "value": "Kava on suolalle herkkä"
+        },
+        {
+          "label": "Ravinteetön maaperä:",
+          "value": "Vähentää kavalaktonipitoisuutta"
+        }
+      ]
+    },
+    "paragraph2": "Perinteisillä viljelyalueilla suositaan usein <strong>tuliperäisiä maita</strong>. Nämä tarjoavat ihanteellisen yhdistelmän vedenpoistoa, mineraalipitoisuutta ja rakennetta. Vanuatulla ja Fidžillä Kava-istutukset tehdään usein kevyesti kalteville rinteille luonnollisen vedenpoiston varmistamiseksi."
+  },
+  "pflege": {
+    "title": "Hoito & Kasvu",
+    "paragraph1": "Kava on suhteellisen helppohoitoinen kasvi, kun se on vakiintunut. Tärkeimmät hoitotoimenpiteet keskittyvät kahteen ensimmäiseen vuoteen.",
+    "table": {
+      "headers": {
+        "phase": "Kasvuvaihe",
+        "period": "Aika",
+        "tasks": "Päätehtävät",
+        "notes": "Erityispiirteet"
+      },
+      "rows": [
+        {
+          "phase": "Vakiintuminen",
+          "period": "0-6 kuukautta",
+          "tasks": "Säännöllinen kastelu, varjon varmistaminen",
+          "notes": "Kriittisin vaihe"
+        },
+        {
+          "phase": "Nuoruusvaihe",
+          "period": "6-18 kuukautta",
+          "tasks": "Rikkaruohojen hallinta, multaus, tarvittaessa lannoitus",
+          "notes": "Nopea kasvu"
+        },
+        {
+          "phase": "Kypsyysvaihe",
+          "period": "18-36 kuukautta",
+          "tasks": "Minimaalinen hoito, tuholaisten hallinta",
+          "notes": "Juurtuminen"
+        },
+        {
+          "phase": "Sadonkorjuukypsyys",
+          "period": "3-5+ vuotta",
+          "tasks": "Laatuarviointi, sadonkorjuuvalmistelut",
+          "notes": "Ihanteellinen potentiaali"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Sadonkorjuu & Kypsyysaika",
+    "paragraph1": "Sadonkorjuuaika on ratkaiseva lopputuotteen laadulle. Yksi tärkeimmistä säännöistä Kava-viljelyssä on: <strong>Mitkä vanhempi kasvi, sitä voimakkaampi ja tasapainoisempi vaikutusprofiili.</strong>",
+    "qualitaet": {
+      "title": "Laatutekijät sadonkorjuussa",
+      "table": {
+        "headers": {
+          "age": "Ikä sadonkorjuussa",
+          "content": "Kavalaktonipitoisuus",
+          "quality": "Laatutaso",
+          "usage": "Käyttö"
+        },
+        "rows": [
+          {
+            "age": "< 2 vuotta",
+            "content": "Matala (3-5%)",
+            "quality": "Kypsymätön",
+            "qualityColor": "red",
+            "usage": "Ei suositella"
+          },
+          {
+            "age": "2-3 vuotta",
+            "content": "Keskitaso (5-10%)",
+            "quality": "Hyväksyttävä",
+            "qualityColor": "yellow",
+            "usage": "Yksinkertaiset tuotteet"
+          },
+          {
+            "age": "3-5 vuotta",
+            "content": "Korkea (10-15%)",
+            "quality": "Hyvä",
+            "qualityColor": "green",
+            "usage": "Standardi-laatu"
+          },
+          {
+            "age": "5-7 vuotta",
+            "content": "Erittäin korkea (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Korkealaatuiset tuotteet"
+          },
+          {
+            "age": "> 7 vuotta",
+            "content": "Maksimi (18-25%)",
+            "quality": "Poikkeuksellinen",
+            "qualityColor": "purple",
+            "usage": "Seremoniallinen käyttö"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Korkean laadun ('Noble Kava') saavuttamiseksi kasvin on oltava vähintään 3-5 vuotta vanha. Mitä vanhempi kasvi, sitä voimakkaampi ja tasapainoisempi vaikutusprofiili on yleensä.",
+      "author": "Sebastian Freidank, \"Kava – Rauhan juuri\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Tärkeimmät viljelyalueet",
+    "paragraph1": "Kavaa viljellään nykyään trooppisten saarten vyöhykkeellä Tyynellämerellä. Jokaisella alueella on omat lajikkeensa, perinteensä ja laatumerkkiensä.",
+    "table": {
+      "headers": {
+        "region": "Alue",
+        "varieties": "Tunnetut lajikkeet",
+        "characteristics": "Erityispiirteet",
+        "production": "Tuotanto"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Suurin lajikevaihtoehto (80+ kultivaria)",
+          "production": "Maailman suurin tuottaja",
+          "highlight": true
+        },
+        {
+          "region": "Fidži",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Tunnettu 'Waka' (Premium-juuret)",
+          "production": "Toiseksi suurin tuottaja"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Erittäin mieto, 'kermaisa' kava",
+          "production": "Keskitasoinen tuotanto"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Perinteiset seremonialliset",
+          "production": "Paikallinen kulutus"
+        },
+        {
+          "region": "Havaiji",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Perinteisten lajikkeiden elvyttäminen",
+          "production": "Kasvava"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Sakau-lajikkeet",
+          "characteristics": "Tuore Kava-mehu ('Sakau')",
+          "production": "Paikallinen kulutus"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> on kultivoidun kavan alkuperämaa ja siellä on edelleen suurin geneettinen monimuotoisuus. Täältä kasvi levisi polynesialaisilla merimiehillä koko Tyynellemerelle – yhtenä tärkeimmistä 'Canoe Plants', joita otettiin mukaan uusille saarille asuttaessa."
+  },
+  "navigation": {
+    "nextCategory": "Siirry seuraavaan kategoriaan:",
+    "nextTitle": "Historia & Alkuperä",
+    "nextSubtitle": "Kavan 3000-vuotinen matka Tyynellämerellä"
+  }
+}

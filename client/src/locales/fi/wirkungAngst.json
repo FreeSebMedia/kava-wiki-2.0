@@ -1,0 +1,278 @@
+{
+  "page": {
+    "title": "Pelonratkaisu & Anksiolyysi",
+    "subtitle": "Kuinka Kava lievittää pelkoja luonnollisesti – vaikutusmekanismit, tutkimukset ja suositellut lajikkeet.",
+    "category": "Vaikutus"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Johdanto",
+        "level": 1
+      },
+      {
+        "id": "wirkmechanismus",
+        "title": "Vaikutusmekanismi",
+        "level": 1
+      },
+      {
+        "id": "gaba-system",
+        "title": "GABA-järjestelmä",
+        "level": 2
+      },
+      {
+        "id": "weitere-mechanismen",
+        "title": "Lisämekanismit",
+        "level": 2
+      },
+      {
+        "id": "studienlage",
+        "title": "Tieteellinen tutkimustilanne",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Kava vs. Bentsodiatsepiinit",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Suositellut kemotyypit & lajikkeet",
+        "level": 1
+      },
+      {
+        "id": "anwendung",
+        "title": "Käytännön soveltaminen",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Etusivu",
+    "wirkung": "Vaikutus",
+    "current": "Pelonratkaisu"
+  },
+  "einfuehrung": {
+    "paragraph1": "Kavan <strong>pelonratkaiseva vaikutus</strong> (anxiolyysi) on parhaiten dokumentoitu ja tieteellisesti tutkittu ominaisuus. Tyynenmeren kansat ovat käyttäneet kasvia vuosituhansia löytääkseen sisäisen rauhan – ja nykyaikainen tutkimus vahvistaa tämän perinteisen käytön.",
+    "paragraph2": "Toisin kuin farmakologiset anksiolyyttiset lääkkeet, kuten bentsodiatsepiinit, Kava vaikuttaa <strong>ilman kognitiivisia rajoituksia</strong>. Mieli pysyy kirkkaana ja keskittyneenä, kun jännitys ja huolet häipyvät. Tätä ainutlaatuista tilaa kuvataan usein \"hereillä olevaksi rentoutumiseksi\" tai \"aktiiviseksi rauhoittumiseksi\"."
+  },
+  "wirkmechanismus": {
+    "title": "Vaikutusmekanismi",
+    "intro": "Kavan anksiolyyttinen vaikutus perustuu monimutkaiseen vuorovaikutukseen useiden neurobiologisten mekanismien välillä. Keskiössä on <strong>GABA-järjestelmän</strong> modulaatio, mutta myös muut neurotransmitterijärjestelmät ovat mukana.",
+    "gaba": {
+      "title": "GABA-järjestelmä",
+      "intro": "GABA (gamma-aminovoihappo) on tärkein inhiboiva neurotransmitteri aivoissa. Kun GABA sitoutuu sen reseptoriin, kloridikanava avautuu, negatiiviset ionit virtaavat hermosoluun ja tämä tulee vähemmän herkiksi. Tuloksena: <strong>Rauhoittuminen, rentoutuminen, pelonratkaisu</strong>.",
+      "boxTitle": "GABA-modulaation prosessi",
+      "steps": [
+        "Kavalaktonit (esim. Kavain) kulkeutuvat verenkierron kautta aivoihin",
+        "Sitoutuminen GABA-A-reseptoriin hermosoluissa (eri kohdassa kuin bentsodiatsepiinit)",
+        "Kloridikanavan avautuminen → Cl⁻-ionien lisääntynyt virtaus",
+        "Neuronin hyperpolarisaatio → neuronin herkkyys laskee",
+        "Tuntuva vaikutus: Rauhoittuminen, pelonratkaisu, lihasrentoutuminen"
+      ],
+      "conclusion": "Kritiikkipiste bentsodiatsepiineihin verrattuna: Kavalaktonit sitoutuvat <strong>eri kohtaan GABA-A-reseptorissa</strong>. Tämä selittää, miksi Kava ei aiheuta riippuvuutta ja ei heikennä kognitiivisia toimintoja."
+    },
+    "weitere": {
+      "title": "Lisämekanismit",
+      "items": [
+        {
+          "title": "Natrium-/kalsiumkanavien esto",
+          "text": "Kavalaktonit estävät jänniteherkkiä natrium- ja kalsiumkanavia. Tämä vähentää hermosolujen herkkyyttä ja edistää rauhoittavaa vaikutusta. Tämä mekanismi on myös vastuussa <strong>antikonvulsivisesta</strong> (kouristuksia estävä) vaikutuksesta."
+        },
+        {
+          "title": "MAO-B-estäminen",
+          "text": "Jotkut kavalaktonit (erityisesti desmetoksiyangoniini) estävät monoamiinioksidaasi-B-entsyymiä. Tämä hidastaa dopamiinin hajoamista ja edistää <strong>mielialan kohottavaa</strong> vaikutusta – ilman klassisten MAO-estäjien riskejä."
+        },
+        {
+          "title": "Noradrenaliinin takaisinotto",
+          "text": "Noradrenaliinin takaisinoton esto edistää <strong>keskittymiskykyä</strong> ilman hermostuneisuutta. Tämä selittää \"hereillä olevan rentoutumisen\", joka erottaa Kavan rauhoittavista aineista."
+        },
+        {
+          "title": "CB1-reseptorin affiniteetti",
+          "text": "Yangonin on todistettu olevan affiniteetti CB1-reseptoriin endokannabinoidijärjestelmässä. Tämä selittää Kavan vaikutuksen kevyen <strong>euforisoivan</strong> komponentin."
+        }
+      ]
+    }
+  },
+  "studienlage": {
+    "title": "Tieteellinen tutkimustilanne",
+    "intro": "Kavan anksiolyyttinen vaikutus on todistettu useissa kliinisissä tutkimuksissa. <strong>Cochrane-metaanalyysi</strong> vuodelta 2003 (päivitetty 2018) tiivisti tulokset ja päätyi myönteiseen johtopäätökseen.",
+    "boxTitle": "Tärkeitä tutkimustuloksia",
+    "studies": [
+      {
+        "name": "Cochrane-arvio (Pittler & Ernst, 2003):",
+        "text": "Analyysi 11 satunnaistetusta kontrolloidusta tutkimuksesta, joissa oli yhteensä 645 osallistujaa. Kava osoitti merkittävää ylivoimaa plaseboon verrattuna ahdistuksen hoidossa."
+      },
+      {
+        "name": "Sarris et al. (2013):",
+        "text": "Kaksinkertainen sokko, plasebokontrolloitu tutkimus, jossa oli 75 osallistujaa, joilla oli yleistynyt ahdistuneisuushäiriö. Kava-uutteella (120-240 mg kavalaktonia/päivä) oli merkittävä vaikutus ahdistusoireiden vähenemiseen."
+      },
+      {
+        "name": "Lehrl (2004):",
+        "text": "Vertailututkimus Kavan ja oksatsepaamin (bentsodiatsepiini) välillä. Molemmat osoittivat vertailukelpoista anksiolyyttista vaikutusta, mutta Kava ilman kognitiivista heikentymistä."
+      }
+    ],
+    "quote": {
+      "text": "Tutkimustilanne Kavan osalta on erityisen vahva ahdistuksen lievittämisessä. Tutkimukset osoittavat fysiologisten stressimarkkereiden (esim. sydämen syke, kortisoli) vähenemistä Kava-uutteiden tai perinteisten juomien nauttimisen jälkeen.",
+      "source": "— Kava – Rauhan juuri"
+    }
+  },
+  "vergleich": {
+    "title": "Kava vs. Bentsodiatsepiinit",
+    "intro": "Vertailu Kavan ja bentsodiatsepiinien välillä on erityisen valaiseva, koska molemmat vaikuttavat GABA-järjestelmään, mutta hyvin erilaisin tuloksin.",
+    "table": {
+      "headers": {
+        "property": "Ominaisuus",
+        "kava": "Kava",
+        "benzo": "Bentsodiatsepiinit"
+      },
+      "rows": [
+        {
+          "property": "Anksiolyyttinen vaikutus",
+          "kava": "Vahva, mutta lempeä",
+          "benzo": "Erittäin vahva"
+        },
+        {
+          "property": "Kognitiivinen toiminta",
+          "kava": "Säilyy tai paranee",
+          "benzo": "Heikentynyt"
+        },
+        {
+          "property": "Sedaatio",
+          "kava": "Vähäinen tai kohtuullinen",
+          "benzo": "Vahva"
+        },
+        {
+          "property": "Riippuvuuspotentiaali",
+          "kava": "Erittäin vähäinen",
+          "benzo": "Korkea (muutamassa viikossa)"
+        },
+        {
+          "property": "Sietokyvyn kehittyminen",
+          "kava": "Käänteinen sietokyky",
+          "benzo": "Nopea sietokyvyn kehittyminen"
+        },
+        {
+          "property": "Vieroitusoireet",
+          "kava": "Ei tunnettuja",
+          "benzo": "Vaikeat, mahdollisesti vaaralliset"
+        },
+        {
+          "property": "Vuorovaikutukset",
+          "kava": "Vähäiset",
+          "benzo": "Lukuisa"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Kavan edut",
+      "items": [
+        "Ei riippuvuuden kehittymistä edes pitkäaikaisessa käytössä",
+        "Mielentila pysyy kirkkaana – ihanteellinen työ- ja sosiaalisiin tilanteisiin",
+        "Ei \"krapulaa\" tai rebound-pelkoa seuraavana päivänä",
+        "Voidaan ottaa tarpeen mukaan ilman sietokyvyn kehittymistä",
+        "Luonnollinen tuote, jolla on vuosituhansia vanha perinne"
+      ]
+    }
+  },
+  "chemotypen": {
+    "title": "Suositellut kemotyypit & lajikkeet",
+    "intro": "Kavan <strong>anksiolyyttiseen vaikutukseen</strong> suositellaan erityisesti lajikkeita, joissa on korkea kavainpitoisuus (sijainti 4 kemotyypissä). Nämä \"Heady\" Kavat vaikuttavat ensisijaisesti henkisesti ja pitävät mielen kirkkaana.",
+    "headyLabel": "Heady",
+    "idealFor": "Ihanteellinen pelonratkaisuun",
+    "varieties": [
+      {
+        "name": "Borogu (Vanuatu)",
+        "chemotype": "426531",
+        "description": "Klassinen Noble Kava, tasapainoinen kevyellä Heady-tendenssillä. Ihanteellinen aloittelijoille."
+      },
+      {
+        "name": "Kelai (Vanuatu)",
+        "chemotype": "423165",
+        "description": "Erittäin anksiolyyttinen, erittäin suosittu. Kirkas, keskittynyt rentoutuminen."
+      },
+      {
+        "name": "Melo Melo (Vanuatu)",
+        "chemotype": "463251",
+        "description": "Heady, jossa on kevyttä euforiaa. Ihanteellinen sosiaalisiin tilanteisiin."
+      },
+      {
+        "name": "Pouni Ono (Tonga)",
+        "chemotype": "426315",
+        "description": "Mielialaa kohottava ja pelkoa lievittävä. Premium-laatu."
+      }
+    ],
+    "warning": {
+      "title": "Ei suositella pelonratkaisuun",
+      "text": "<strong>Tudei-lajikkeet</strong> (tunnistettavissa DHM:stä sijainnissa 1 tai 2, esim. kemotyyppi 526431) eivät sovellu pelon hoitoon. Ne vaikuttavat voimakkaasti rauhoittavasti ja voivat aiheuttaa väsymystä seuraavana päivänä. Myös erittäin \"Heavy\" lajikkeet voivat olla haitallisia, kun kirkkaus on toivottavaa."
+    }
+  },
+  "anwendung": {
+    "title": "Käytännön soveltaminen",
+    "intro": "Ahdistustilojen hoidossa on erilaisia strategioita riippuen siitä, onko kyse akuutista tilanteesta vai pitkäaikaisesta tuesta.",
+    "acute": {
+      "title": "Akuutissa ahdistuksessa",
+      "items": [
+        {
+          "label": "Annostus:",
+          "text": "1-2 Shells (noin 15-30g jauhetta)"
+        },
+        {
+          "label": "Valmistus:",
+          "text": "Perinteisesti vedessä vaivattu"
+        },
+        {
+          "label": "Vaikutuksen alkaminen:",
+          "text": "15-30 minuuttia"
+        },
+        {
+          "label": "Lajike:",
+          "text": "Heady Kava (esim. Kelai, Borogu)"
+        },
+        {
+          "label": "Vinkki:",
+          "text": "Tyhjään vatsaan nopeamman vaikutuksen saavuttamiseksi"
+        }
+      ]
+    },
+    "daily": {
+      "title": "Päivittäiseksi tueksi",
+      "items": [
+        {
+          "label": "Annostus:",
+          "text": "100-250 mg kavalaktonia/päivä"
+        },
+        {
+          "label": "Muoto:",
+          "text": "Perinteinen juoma tai kapselit"
+        },
+        {
+          "label": "Aika:",
+          "text": "Illalla tai tarpeen mukaan"
+        },
+        {
+          "label": "Huomio:",
+          "text": "\"Käänteinen sietokyky\" – vaikutus voi voimistua ajan myötä"
+        },
+        {
+          "label": "Tauko:",
+          "text": "1-2 päivää viikossa suositellaan"
+        }
+      ]
+    },
+    "reverseTolerance": {
+      "title": "Käänteinen sietokyky",
+      "text": "Ainutlaatuinen ilmiö Kavan kohdalla: Toisin kuin useimmilla psykoaktiivisilla aineilla, vaikutus voi säännöllisessä käytössä <strong>voimistua</strong>, ei heikentyä. Aloittelijat tarvitsevat usein suurempia annoksia, kun taas kokeneet käyttäjät pärjäävät vähemmällä. Tämä tekee Kava:sta kestävän vaihtoehdon pitkäaikaiseen ahdistuksen hallintaan."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Jatkuu luvussa Vaikutus:",
+    "next": {
+      "title": "Uni & Rentoutuminen",
+      "description": "Kuinka Kava parantaa unta ja edistää syvää rentoutumista",
+      "href": "/fi/vaikutus/uni"
+    }
+  }
+}

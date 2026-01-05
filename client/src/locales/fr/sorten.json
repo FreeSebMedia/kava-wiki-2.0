@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Variétés & Cultivars",
+    "subtitle": "Un guide complet à travers le monde des variétés de Kava : De Borogu à Pouni Ono, de Heady à Heavy.",
+    "category": "Variétés",
+    "breadcrumb": {
+      "home": "Page d'accueil",
+      "current": "Variétés"
+    }
+  },
+  "toc": {
+    "title": "Sommaire",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introduction",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "Les trois types d'effets",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Régions de culture",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Quelle variété me convient ?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Articles approfondis",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Aujourd'hui, il existe <strong>plus de 100 variétés de Kava documentées</strong>, qui diffèrent considérablement par leur origine, leur chimotype et leur effet. Rien qu'à Vanuatu, le supposé berceau de la plante, plus de 80 cultivars différents sont connus. Cette diversité est le résultat de plus de 3 000 ans de sélection ciblée par les cultures pacifiques.",
+      "text": "Les différences entre les variétés ne sont pas seulement d'ordre académique – elles déterminent en grande partie l'effet d'une boisson à base de Kava. Un <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai de Vanuatu</a> agit complètement différemment d'un <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka de Fiji</a>. Comprendre ces différences est la clé d'une expérience de Kava consciente et satisfaisante."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "La distinction la plus importante que tout consommateur de Kava doit connaître est celle entre <strong>Noble Kava</strong> (Kava noble) et <strong>Tudei Kava</strong>. Cette classification a été introduite par le gouvernement de Vanuatu et est basée sur le <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chimotype</a> de chaque variété.",
+      "noble": {
+        "title": "Noble Kava (Kava noble)",
+        "items": [
+          "Sélectionné pendant des siècles pour son effet agréable",
+          "Chimotype commence par <strong>2</strong> ou <strong>4</strong>, jamais par 5 ou 6",
+          "Début de l'effet : 10-20 minutes",
+          "Durée de l'effet : 3-6 heures, s'estompe proprement",
+          "Pas de \"gueule de bois\" le lendemain",
+          "Sûr pour une utilisation régulière"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Kava de deux jours)",
+        "items": [
+          "Chimotype commence par <strong>5</strong> ou <strong>6</strong> (dominant en DHM)",
+          "Début de l'effet : 30-90 minutes (retardé)",
+          "L'effet dure extrêmement longtemps (jusqu'à 2 jours)",
+          "Provoque souvent des nausées et de la léthargie",
+          "\"Sentiment de gueule de bois\" le lendemain",
+          "Interdit à l'exportation à Vanuatu"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Lorsque vous achetez, assurez-vous que le vendeur indique le chimotype et la variété exacte. Cette transparence est un bon signe pour un Noble Kava authentique.",
+      "linkText": "En savoir plus sur Noble vs. Tudei"
+    },
+    "wirktypen": {
+      "title": "Les trois types d'effets",
+      "intro": "Les variétés de Noble Kava sont classées en trois catégories selon leur effet dominant. Cette classification est basée sur le <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chimotype</a> – c'est-à-dire la concentration relative des six principaux <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactones</a>.",
+      "heady": {
+        "title": "Heady",
+        "description": "Effet centré sur la tête : Euphorie, clarté mentale, sociabilité. Idéal pour la journée et les occasions sociales.",
+        "chemotype": "Commence souvent par 4 (Kavain) ou 2 (DHK)",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Humeur & Social"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Effet équilibré : Relaxation sans fatigue, calme mental avec bien-être physique.",
+        "chemotype": "Proportions équilibrées de 4, 2 et 3",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Résolution de l'anxiété"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Effet centré sur le corps : Profonde relaxation musculaire, sédation, idéal pour le soir et pour dormir.",
+        "chemotype": "Haute proportion de DHK (2) en position 1-2",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Sommeil & Relaxation"
+      },
+      "calculatorLink": "Calculateur de chimotype : Analysez chaque chimotype"
+    },
+    "regionen": {
+      "title": "Aperçu des régions de culture",
+      "intro": "Le Kava est aujourd'hui cultivé dans différentes régions du Pacifique. Chaque région a développé ses propres variétés adaptées au climat local et aux préférences culturelles.",
+      "tableHeaders": {
+        "region": "Région",
+        "count": "Nombre de variétés",
+        "localName": "Nom local",
+        "varieties": "Variétés connues",
+        "characteristics": "Caractéristiques"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "La plus grande diversité, région d'origine"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Souvent plus lourd, bonne transformation"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Tous nobles, plutôt heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Très puissant, cher"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Traditionnel, cérémoniel"
+        },
+        {
+          "region": "Papouasie-Nouvelle-Guinée",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Unique variété noble"
+        }
+      ],
+      "vanuatuLink": "Variétés de Vanuatu",
+      "pazifikLink": "Variétés de Fiji, Tonga & Hawaii"
+    },
+    "auswahl": {
+      "title": "Quelle variété me convient ?",
+      "intro": "Le choix de la bonne variété de Kava dépend de l'effet souhaité et du moment de la journée. Voici un guide :",
+      "recommendations": [
+        {
+          "purpose": "Pour des occasions sociales",
+          "type": "Heady",
+          "description": "Choisissez un Kava <strong>Heady</strong> :",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Contre le stress & l'anxiété",
+          "type": "Balanced",
+          "description": "Choisissez un Kava <strong>Balanced</strong> :",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Pour la relaxation musculaire",
+          "type": "Heavy",
+          "description": "Choisissez un Kava <strong>Heavy</strong> :",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Pour s'endormir",
+          "type": "Heavy",
+          "description": "Choisissez un Kava <strong>Heavy</strong> :",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Commencez avec un Kava <strong>Balanced</strong> comme Melo Melo ou Borogu. Ces variétés offrent une expérience agréable et équilibrée sans effets extrêmes dans une direction.",
+      "tipLabel": "Conseil pour les débutants :"
+    },
+    "unterseiten": {
+      "title": "Articles approfondis",
+      "intro": "Explorez les différents aspects des variétés de Kava dans nos sous-pages spécialisées :"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "La distinction la plus importante : Pourquoi le Noble Kava est sûr et pourquoi le Tudei doit être évité.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Variétés de Vanuatu",
+      "description": "Plus de 80 variétés de la patrie du Kava : Borogu, Melo Melo, Kelai, Palasa et plus.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Variétés de Fiji, Tonga & Hawaii",
+      "description": "Spécialités régionales : Loa Waka, Pouni Ono, 'Awa Moi et leurs caractéristiques uniques.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Profils de variétés en détail",
+      "description": "Fiches détaillées des principales variétés avec chimotypes, effets et recommandations.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Retour",
+      "title": "Ingrédients"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Suivant",
+      "title": "Préparation"
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Vaihda kieltä"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Botaniikka",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Johdatus botaniikkaan"
+        },
+        "pflanze": {
+          "name": "Kasvi",
+          "description": "Taksonomia & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Morfologia",
+          "description": "Anatomia & juuristo"
+        },
+        "anbau": {
+          "name": "Viljely & Ekologia",
+          "description": "Kultivointi & lisääntyminen"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "Historia",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Kavan historia"
+        },
+        "urspruenge": {
+          "name": "Alkuperät",
+          "description": "Vanuatu & kesyttäminen"
+        },
+        "verbreitung": {
+          "name": "Levinneisyys",
+          "description": "Tyynenmeren laajentuminen"
+        },
+        "moderne": {
+          "name": "Moderni historia",
+          "description": "Kielto 2002 & kuntoutus"
+        },
+        "zeitleiste": {
+          "name": "Interaktiivinen aikajana",
+          "description": "5000 vuotta Kavan historiaa"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Ainesosat",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Kavalaktonit & kemotyypit"
+        },
+        "kavalactone": {
+          "name": "6 Kavalaktonia",
+          "description": "Yksityiskohtaiset vaikutusprofiilit"
+        },
+        "chemotypen": {
+          "name": "Kemotyyppijärjestelmä",
+          "description": "Noble vs. Tudei tunnistaminen"
+        },
+        "rechner": {
+          "name": "Kemotyyppilaskuri",
+          "description": "Interaktiivinen analyysityökalu"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Vaikutus",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Vaikutusmekanismit"
+        },
+        "angst": {
+          "name": "Ahdistuksen lievitys",
+          "description": "Anksiolyyttinen vaikutus"
+        },
+        "schlaf": {
+          "name": "Uni & rentoutuminen",
+          "description": "Sedatiiviset vaikutukset"
+        },
+        "muskel": {
+          "name": "Lihasten rentoutuminen",
+          "description": "Fyysinen rentoutuminen"
+        },
+        "stimmung": {
+          "name": "Tunnelma & sosiaalisuus",
+          "description": "Euforiset vaikutukset"
+        },
+        "kognition": {
+          "name": "Kognitiiviset vaikutukset",
+          "description": "Keskittyminen & käänteinen toleranssi"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Turvallisuus",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Turvallisuus & haittavaikutukset"
+        },
+        "leber": {
+          "name": "Maksaturvallisuus",
+          "description": "Hepatotoksisuus & kielto 2002"
+        },
+        "wechselwirkungen": {
+          "name": "Vuorovaikutukset",
+          "description": "Lääkkeet & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Vasta-aiheet",
+          "description": "Milloin välttää Kavaa"
+        },
+        "checker": {
+          "name": "Vuorovaikutustarkistin",
+          "description": "Tarkista lääkkeet"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Lajikkeet",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Lajikkeet & kultivarit"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "Tärkeä ero"
+        },
+        "vanuatu": {
+          "name": "Vanuatu-lajikkeet",
+          "description": "Borogu, Melo Melo, Kelai & lisää"
+        },
+        "pazifik": {
+          "name": "Tyynenmeren lajikkeet",
+          "description": "Fiji, Tonga, Hawaii, Samoa"
+        },
+        "profile": {
+          "name": "Lajikeprofiilit",
+          "description": "Yksityiskohtaiset esittelyt"
+        },
+        "vergleich": {
+          "name": "Lajikkeiden vertailu",
+          "description": "Vertaa kahta lajiketta"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Valmistus",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Valmistusmenetelmät"
+        },
+        "traditionell": {
+          "name": "Perinteinen menetelmä",
+          "description": "Vaivaaminen siiviläliinalla"
+        },
+        "blender": {
+          "name": "Blender-menetelmä",
+          "description": "Nopea valmistus"
+        },
+        "instant": {
+          "name": "Instant Kava",
+          "description": "Mikronisoitu Kava"
+        },
+        "rechner": {
+          "name": "Annoslaskuri",
+          "description": "Laske optimaalinen määrä"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Kulttuuri",
+      "items": {
+        "uebersicht": {
+          "name": "Yhteenveto",
+          "description": "Kulttuuri & perinne"
+        },
+        "zeremonien": {
+          "name": "Seremoniat & rituaalit",
+          "description": "Yaqona, 'Ava & Nakamal-rituaalit"
+        },
+        "nakamal": {
+          "name": "Nakamal & Kava-baari",
+          "description": "Perinteiset & modernit paikat"
+        },
+        "moderne": {
+          "name": "Moderni Kava-kulttuuri",
+          "description": "Globaalit leviämiset & renessanssi"
+        },
+        "weltkarte": {
+          "name": "Interaktiivinen maailmankartta",
+          "description": "Tutki Kava-alueita"
+        },
+        "kava-bars": {
+          "name": "Kava-baarihakija",
+          "description": "Löydä Kava-baareja ympäri maailmaa"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Lisää",
+      "items": {
+        "faq": {
+          "name": "UKK",
+          "description": "Usein kysytyt kysymykset"
+        },
+        "studien": {
+          "name": "Tutkimukset",
+          "description": "Tieteellinen tutkimus"
+        },
+        "rechtsstatus": {
+          "name": "Oikeudellinen asema",
+          "description": "Oikeudellinen tilanne"
+        },
+        "glossar": {
+          "name": "Sanasto",
+          "description": "Erikoistermit selitetty"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Maailman laajin tietoportaali Piper methysticumista. Tieteellisesti perusteltu, kulttuurisesti kunnioittava.",
+    "sections": {
+      "wissen": {
+        "title": "Tieto",
+        "links": {
+          "botanik": "Botaniikka",
+          "geschichte": "Historia",
+          "wissenschaft": "Tiede",
+          "sicherheit": "Turvallisuus"
+        }
+      },
+      "praxis": {
+        "title": "Käytännöt",
+        "links": {
+          "zubereitung": "Valmistus",
+          "sorten": "Lajikkeet & kemotyypit",
+          "rechtsstatus": "Oikeudellinen asema",
+          "faq": "Usein kysytyt kysymykset"
+        }
+      },
+      "partner": {
+        "title": "Kumppanit & Kirja",
+        "recommendedReading": "Suositeltava lukeminen:",
+        "bookTitle": "\"Kava – Rauhan juurikas\""
+      }
+    },
+    "copyright": "Kaikki oikeudet pidätetään.",
+    "legal": {
+      "impressum": "Impressum",
+      "datenschutz": "Tietosuoja"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Koti"
+  },
+  "toc": {
+    "title": "Sisältö"
+  },
+  "recommendation": {
+    "label": "Suositus",
+    "title": "Premium Noble Kava",
+    "text": "Tutustu sertifioituun laatuun ja puhtauteen viralliselta kumppaniltamme.",
+    "cta": "Käy Kava-mode.com"
+  }
+}

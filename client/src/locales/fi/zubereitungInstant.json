@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "title": "Instant Kava",
+    "subtitle": "Nopein tapa nauttia Kavaa – täydellinen matkalle tai kun kiire on päällä.",
+    "category": "Valmistus"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "zubereitung": "Valmistus",
+    "current": "Instant Kava"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Yleiskatsaus",
+        "level": 1
+      },
+      {
+        "id": "was-ist",
+        "title": "Mitä on Instant Kava?",
+        "level": 1
+      },
+      {
+        "id": "arten",
+        "title": "Instant Kavan tyypit",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Valmistus",
+        "level": 1
+      },
+      {
+        "id": "dosierung",
+        "title": "Annossuositukset",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Vertailu muihin menetelmiin",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Vinkit & Niksi",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "prepTime": "Valmistusaika",
+    "noFilter": "Ei suodatinta",
+    "justStir": "Sekoita vain",
+    "practical": "Käytännöllinen",
+    "idealForTravel": "Ihanteellinen matkalle",
+    "potency": "Voimakkuus",
+    "advantages": "Edut",
+    "disadvantages": "Haitat",
+    "productType": "Tuotetyyppi",
+    "beginner": "Aloittelija",
+    "regular": "Normaali",
+    "experienced": "Kokenut",
+    "aspect": "Näkökulma",
+    "traditional": "Perinteinen",
+    "blender": "Sekoittaja",
+    "instant": "Instant",
+    "otherMethods": "Muut valmistusmenetelmät"
+  },
+  "overview": {
+    "intro": "Instant Kava on <strong>nopein ja helpoin</strong> tapa nauttia Kavaa. Yksinkertaisesti sekoita veteen, sekoita ja nauti – <strong>ei vaivamista, ei suodattamista</strong>."
+  },
+  "whatIs": {
+    "title": "Mitä on Instant Kava?",
+    "text": "\"Instant Kava\" on kattotermi Kava-tuotteille, joita voidaan nauttia ilman monimutkaista valmistusta. Toisin kuin perinteinen Medium Grind -jauhe, joka on vaivattava ja suodatettava, Instant-tuotteet liukenevat suoraan veteen.",
+    "alert": {
+      "title": "Tärkeä ero",
+      "text": "Instant Kava ei ole <strong>sama</strong> kuin Kava-uute-kapselit tai -tabletit. Ne ovat juotavia muotoja, jotka tarjoavat täyden Kava-kokemuksen."
+    }
+  },
+  "types": {
+    "title": "Instant Kavan tyypit",
+    "items": [
+      {
+        "name": "Mikronisoitu Kava",
+        "description": "Erittäin hienoksi jauhettu juurijauhe, joka liukenee täysin veteen.",
+        "pros": [
+          "Nopein valmistus",
+          "Täydet kasviainesosat",
+          "Ei suodatusta tarvita"
+        ],
+        "cons": [
+          "Voi aiheuttaa vatsavaivoja",
+          "Hiekkamainen rakenne mahdollinen",
+          "Kalliimpi kuin Medium Grind"
+        ],
+        "potency": "Korkea",
+        "color": "meripihka"
+      },
+      {
+        "name": "Kuivattu Kava-uute",
+        "description": "Keskitetty uute perinteisesti valmistetusta Kavasta, pakastekuivattu.",
+        "pros": [
+          "Erittäin voimakas",
+          "Sileä rakenne",
+          "Vatsaystävällinen"
+        ],
+        "cons": [
+          "Kallein",
+          "Vähemmän aito maku",
+          "Rajoitettu saatavuus"
+        ],
+        "potency": "Erittäin korkea",
+        "color": "violetti"
+      },
+      {
+        "name": "Kava-konsentraatti (nestemäinen)",
+        "description": "Valmis Kava-liuos, vain laimennettavaksi vedellä.",
+        "pros": [
+          "Heti juotavaksi valmis",
+          "Johdonmukainen vahvuus",
+          "Käytännöllinen matkalle"
+        ],
+        "cons": [
+          "Rajoitettu säilyvyys",
+          "Vähemmän valikoimaa",
+          "Usein lisäaineita"
+        ],
+        "potency": "Keskitaso korkeaksi",
+        "color": "sininen"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Valmistus",
+    "intro": "Instant Kavan valmistus on äärimmäisen helppoa – siksi se on nimeltään näin!",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Mittaaminen",
+        "description": "Haluttu määrä Instant Kavaa laitetaan lasiin tai kulhoon."
+      },
+      {
+        "number": 2,
+        "title": "Lisää vettä",
+        "description": "Kaada 200-300ml vettä (kylmää tai lämmintä) mukaan."
+      },
+      {
+        "number": 3,
+        "title": "Sekoita & Nauti",
+        "description": "Sekoita voimakkaasti kunnes liukenee, sitten juo yhdellä kertaa."
+      }
+    ],
+    "alert": {
+      "title": "Pro-vinkki: Käytä shakeria",
+      "text": "Proteiinishakeri tai cocktail-shakeri liuottaa Instant Kavan paljon paremmin kuin sekoittaminen. Erityisesti Mikronisoitu Kava estää paakkuuntumista."
+    }
+  },
+  "dosage": {
+    "title": "Annossuositukset",
+    "note": "<strong>Huom:</strong> Nämä arvot ovat suuntaa-antavia. Todellinen voimakkuus vaihtelee suuresti valmistajan ja lajikkeen mukaan. Aloita aina pienellä annoksella!",
+    "items": [
+      {
+        "type": "Mikronisoitu",
+        "beginner": "2-3g",
+        "regular": "4-6g",
+        "experienced": "6-10g"
+      },
+      {
+        "type": "Kuivattu uute",
+        "beginner": "1-2g",
+        "regular": "2-4g",
+        "experienced": "4-6g"
+      },
+      {
+        "type": "Konsentraatti (nestemäinen)",
+        "beginner": "15-30ml",
+        "regular": "30-45ml",
+        "experienced": "45-60ml"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Vertailu muihin menetelmiin",
+    "items": [
+      {
+        "aspect": "Valmistusaika",
+        "traditional": "20-25 min",
+        "blender": "8-10 min",
+        "instant": "30 sekuntia"
+      },
+      {
+        "aspect": "Vaivannäkö",
+        "traditional": "Korkea",
+        "blender": "Keskitaso",
+        "instant": "Minimal"
+      },
+      {
+        "aspect": "Voimakkuus",
+        "traditional": "Erittäin korkea",
+        "blender": "Korkea",
+        "instant": "Keskitaso-Korkea"
+      },
+      {
+        "aspect": "Maku",
+        "traditional": "Aito",
+        "blender": "Intensiivinen",
+        "instant": "Vaihtelee"
+      },
+      {
+        "aspect": "Kustannukset per annos",
+        "traditional": "Edullinen",
+        "blender": "Edullinen",
+        "instant": "Kallis"
+      },
+      {
+        "aspect": "Matkalle",
+        "traditional": "Epäkäytännöllinen",
+        "blender": "Epäkäytännöllinen",
+        "instant": "Ihanteellinen"
+      }
+    ]
+  },
+  "tips": {
+    "title": "Vinkit & Niksi",
+    "items": [
+      {
+        "name": "Sekoita mehuun",
+        "text": "Sekoita Instant Kava hedelmämehuun veden sijasta. Ananas- tai mangomehu peittää hyvin kitkerän maun."
+      },
+      {
+        "name": "Kookosmaito-boost",
+        "text": "Käytä kookosmaitoa veden sijasta. Rasva parantaa Kavalaktonien imeytymistä ja tekee mausta kermaisemman."
+      },
+      {
+        "name": "Matka-annokset",
+        "text": "Annosta Instant Kava pieniin zip-pusseihin etukäteen. Näin sinulla on aina oikea määrä mukana matkalla."
+      },
+      {
+        "name": "Nauti kylmänä",
+        "text": "Instant Kava maistuu usein kylmänä paremmalta kuin lämpimänä. Sekoita se kylmään veteen ja muutamaan jääpalaan raikastavaksi juomaksi."
+      }
+    ],
+    "alert": {
+      "title": "Varovaisuutta Mikronisoidun Kavan kanssa",
+      "text": "Mikronisoitu Kava sisältää kaikki kasvikuidut ja voi aiheuttaa vatsavaivoja herkille henkilöille. Jos tunnet pahoinvointia, siirry kuivattuun uutteeseen tai perinteiseen valmistukseen."
+    }
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Perinteinen vaivausmenetelmä",
+      "subtitle": "Maksimaalinen voimakkuus, aito kokemus",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Sekoittajamenetelmä",
+      "subtitle": "Nopea ja tehokas",
+      "href": "/de/zubereitung/blender"
+    },
+    "calculator": {
+      "title": "Annossovitin",
+      "subtitle": "Henkilökohtaiset suositukset lajikkeellesi",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

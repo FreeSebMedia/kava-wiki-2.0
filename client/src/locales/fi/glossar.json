@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Sanasto",
+    "title": "Kava-sanasto",
+    "subtitle": "Yli 50 asiantuntijatermiä Kavaan liittyen – Kavalaktonista Kava-seremoniaan"
+  },
+  "intro": "Tämä sanasto selittää tärkeimmät Kavaan liittyvät termit. Kemiallisista yhdisteistä valmistusmenetelmiin ja kulttuuriperinteisiin – täältä löydät kaikki asiantuntijatermit ymmärrettävästi selitettyinä.",
+  "search": {
+    "placeholder": "Etsi termi...",
+    "noResults": "Ei löytynyt termejä hakusanalla",
+    "clearSearch": "Tyhjennä haku",
+    "resultsCount": "{{count}} termiä löytyi"
+  },
+  "categories": {
+    "chemie": "Kemia & Ainesosat",
+    "wirkung": "Vaikutus & Tehosteet",
+    "kultur": "Kulttuuri & Perinteet",
+    "sorten": "Lajikkeet & Varietaatit",
+    "zubereitung": "Valmistus",
+    "sicherheit": "Turvallisuus"
+  },
+  "toc": {
+    "uebersicht": "Yhteenveto",
+    "suche": "Haku",
+    "chemie": "Kemia & Ainesosat",
+    "wirkung": "Vaikutus & Tehosteet",
+    "sorten": "Lajikkeet & Varietaatit",
+    "zubereitung": "Valmistus",
+    "kultur": "Kulttuuri & Perinteet",
+    "sicherheit": "Turvallisuus"
+  },
+  "ui": {
+    "relatedTerms": "Liittyvät termit",
+    "relatedLinks": "Lisätietoja",
+    "backToTop": "Ylös",
+    "showMore": "Näytä lisää",
+    "showLess": "Näytä vähemmän"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalaktonit",
+      "shortDefinition": "Psykoaktiiviset yhdisteet Kavaassa",
+      "fullExplanation": "Kavalaktonit ovat 18 laktonin ryhmä, jotka ovat vastuussa Kavan psykoaktiivisista vaikutuksista. **Kuusi pääkavalaktonia** muodostaa noin 96% kokonaismäärästä: Desmethoxyyangonin (DMY), Dihydrokavainin (DHK), Yangonin (Y), Kavainin (K), Dihydromethystisiinin (DHM) ja Methystisiinin (M). Jokaisella kavalaktonilla on oma vaikutusprofiilinsa – ahdistusta lievittävistä lihaksia rentouttaviin ja rauhoittaviin. Kokonaismäärä juurissa on tyypillisesti 3-20%.",
+      "relatedTerms": [
+        "Kemotyyppi",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kuusi pääkavalaktonia",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Kemotyyppijärjestelmä",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Kemotyyppi",
+      "shortDefinition": "Kava-lajikkeen kemiallinen profiili",
+      "fullExplanation": "Kemotyyppi on **6-numeroinen koodi**, joka osoittaa kuuden pääkavalaktonin järjestyksen pitoisuuden mukaan. Jokaisella kavalaktonilla on oma numero: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. Kemotyyppi kuten \"426315\" tarkoittaa: Kavain (4) on korkeimmassa pitoisuudessa, jota seuraa DHK (2), jne. Kemotyyppi määrittää merkittävästi lajikkeen vaikutuksen – onko se enemmän \"heady\" (pääpainotteinen, euforinen) vai \"heavy\" (kehoon vaikuttava, rauhoittava).",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kemotyyppilaskuri",
+          "href": "/de/inhaltsstoffe/rechner"
+        },
+        {
+          "label": "Kemotyyppijärjestelmä",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "Tärkein kavalaktoni ahdistusta lievittävään vaikutukseen",
+      "fullExplanation": "Kavain (numero 4 kemotyyppijärjestelmässä) on parhaiten tutkittu kavalaktoni ja sitä pidetään **pääasiallisena syynä ahdistusta lievittävään vaikutukseen**. Se vaikuttaa GABA-reseptoreihin, dopamiini- ja noradrenaliinikuljettajiin. Korkean kavain-pitoisuuden omaavat lajikkeet (4 ensimmäisellä tai toisella sijalla kemotyypissä) pidetään erityisen korkealaatuisina ja niitä kutsutaan \"heady\". Kavainilla on myös neuroprotektiivisia ominaisuuksia.",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonit yksityiskohtaisesti",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Ahdistusta lievittävä vaikutus",
+          "href": "/de/wirkung/angst"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "Kavalaktoni lihasten rentoutumiseen",
+      "fullExplanation": "Dihydrokavain (DHK, numero 2 kemotyyppijärjestelmässä) on **vahvin lihaksia rentouttava kavalaktoni**. Se vaikuttaa jännityksen säätelemille natriumkanaville ja sillä on paikallispuuduttavia ominaisuuksia – siksi tyypillinen puutuminen suussa juomisen jälkeen. DHK on myös vastuussa fyysisestä rentoutumisesta. Korkean DHK-pitoisuuden omaavat lajikkeet (2 ensimmäisellä sijalla) luokitellaan usein \"heavy\".",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Heavy",
+        "Lihasten rentoutuminen"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lihasten rentoutuminen",
+          "href": "/de/wirkung/muskel"
+        },
+        {
+          "label": "Kavalaktonit yksityiskohtaisesti",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Vahvasti rauhoittava kavalaktoni, hallitseva Tudeissa",
+      "fullExplanation": "Dihydromethysticin (DHM, numero 5 kemotyyppijärjestelmässä) on **vahvasti rauhoittava kavalaktoni**. Suurissa pitoisuuksissa (5 ensimmäisellä sijalla) se on tyypillinen Tudei-Kavalle ja voi aiheuttaa pitkäkestoisia haittavaikutuksia. Noble Kava -lajikkeissa DHM on kohtuullisina määrinä ja se edistää rentoutumista. DHM:llä on pidempi puoliintumisaika kuin kavainilla, minkä vuoksi Tudei-vaikutukset voivat kestää jopa kaksi päivää.",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "Kavalaktoni, jolla on CB1-reseptori-affiniteetti",
+      "fullExplanation": "Yangonin (Y, numero 3 kemotyyppijärjestelmässä) on ainutlaatuinen kavalaktoni, joka osoittaa **affiniteettia CB1-kannabinoidireseptoreihin**. Tämä voi vaikuttaa Kavan mielialaa kohottaviin ja lievästi euforisiin vaikutuksiin. Yangonin on myös vastuussa Kava-uutteiden keltaisesta väristä. Sillä on tulehdusta ehkäiseviä ominaisuuksia ja sen terapeuttista potentiaalia tutkitaan.",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Kemotyyppi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonit yksityiskohtaisesti",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Mielialaa kohottava kavalaktoni",
+      "fullExplanation": "Desmethoxyyangonin (DMY, numero 1 kemotyyppijärjestelmässä) on **mielialaa kohottava kavalaktoni** MAO-B-estävillä ominaisuuksilla. Se voi lisätä dopamiinin saatavuutta aivoissa, mikä osaltaan vaikuttaa sen euforisiin vaikutuksiin. DMY on myös osaltaan vastuussa Kavan masennuslääkkeellisestä vaikutuksesta. Yhdessä kavainin kanssa se vahvistaa lajikkeen \"heady\" ominaisuuksia.",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonit yksityiskohtaisesti",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Rauhoittava kavalaktoni, jolla on pitkä vaikutusaika",
+      "fullExplanation": "Methysticin (M, numero 6 kemotyyppijärjestelmässä) on **rauhoittava kavalaktoni**, jolla on suhteellisen pitkä vaikutusaika. Se edistää fyysistä rentoutumista ja unen laatua. Methysticinillä on myös antikonvulsantteja (kouristuksia estäviä) ominaisuuksia. Useimmissa Noble-lajikkeissa Methysticin on kohtuullisina määrinä ja se täydentää muiden kavalaktonien vaikutusta.",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonit yksityiskohtaisesti",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "Tieteellinen nimi Kavaalle",
+      "fullExplanation": "Piper methysticum on **tieteellinen (latinalainen) nimi** Kava-kasville. Nimi tarkoittaa kirjaimellisesti \"huumaava pippuri\" (kreikasta \"methystikos\" = huumaava). Kasvi kuuluu **pippurikasvien perheeseen (Piperaceae)** ja on läheistä sukua mustalle pippurille. Kava on steriili viljelykasvi, jota voidaan lisätä vain vegetatiivisesti – viittaus sen tuhansia vuosia kestäneeseen kesyttämiseen ihmisen toimesta.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botaniikka"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kasvi",
+          "href": "/de/botanik/pflanze"
+        },
+        {
+          "label": "Botaniikan yhteenveto",
+          "href": "/de/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Kava-kasvin villi esi-isä",
+      "fullExplanation": "Piper wichmannii on **Piper methysticumin villi esi-isä**. Tämä villi laji esiintyy Papua-Uudessa-Guineassa ja Salomonsaarilla ja se voi lisääntyä seksuaalisesti (toisin kuin steriili viljelymuoto). Tutkijat uskovat, että Kava on kesytetty Piper wichmannii:stä noin 3 000 vuotta sitten. Villissä Kava:ssa on usein korkeampia määriä ei-toivottuja yhdisteitä, eikä sitä suositella kulutettavaksi.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historia",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkonit",
+      "shortDefinition": "Flavonoidiyhdisteitä Kavaassa",
+      "fullExplanation": "Chalkonit ovat **flavonoidiyhdisteiden** luokka, jota esiintyy Kavaassa. Tärkeimmät ovat Flavokavain A, B ja C. Vaikka Flavokavain A ja C pidetään suhteellisen vaarattomina, **Flavokavain B (FKB)** yhdistetään mahdolliseen maksamyrkyllisyyteen. Chalkonit esiintyvät pääasiassa kasvin maanpäällisissä osissa ja Tudei-lajikkeissa. Noble Kava juurista sisältää vain pieniä määriä.",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Turvallisuus",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Uutto",
+      "shortDefinition": "Kavalaktonin eristysprosessi",
+      "fullExplanation": "Uutto tarkoittaa prosessia, jossa **kavalaktonit liuotetaan kasvimateriaalista**. Perinteisessä valmistuksessa tämä tapahtuu vaivaamalla vedessä – kavalaktonit ovat rasvaliukoisia ja ne eristetään mekaanisen voiman ja emulgoinnin avulla. Teolliset uutteet käyttävät usein liuottimia kuten etanolia tai asetonin. **Vesiuutteet** pidetään turvallisempina, koska ne sisältävät vähemmän ei-toivottuja yhdisteitä.",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Vaivamenetelmä"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Valmistus",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobutyric Acid",
+      "shortDefinition": "Tärkein estävä neurotransmitteri",
+      "fullExplanation": "GABA (Gamma-Aminobutyric Acid) on **tärkein estävä neurotransmitteri** keskushermostossa. Se vähentää neuronien herkkyyttä ja vaikuttaa rauhoittavasti, ahdistusta lievittävästi ja unta edistävästi. Kavalaktonit – erityisesti kavain ja DHK – moduloivat GABA-reseptoreita, mutta **eri tavalla kuin bentsodiatsepiinit**. Tämä selittää, miksi Kava rentouttaa ilman tyypillisiä unilääkkeiden haittavaikutuksia (ei riippuvuutta, ei kognitiivista heikentymistä).",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Kavain",
+        "Ahdistus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Ahdistusta lievittävä vaikutus",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Tieteelliset tutkimukset",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Käänteinen toleranssi",
+      "germanTerm": "Umgekehrte Toleranz",
+      "shortDefinition": "Ilmiö, jossa Kava vaikuttaa voimakkaammin ajan myötä",
+      "fullExplanation": "Käänteinen toleranssi on **ainutlaatuinen ilmiö Kavan kohdalla**: Toisin kuin useimpien psykoaktiivisten aineiden kohdalla, joissa tarvitaan enemmän aikaa myöhemmin saman vaikutuksen saavuttamiseksi, Kavan kohdalla se on **päinvastoin**. Monet aloittelijat kokevat ensimmäisellä kerralla vain vähän tai ei mitään. Useiden sessioiden jälkeen (tyypillisesti 3-7 päivää säännöllistä käyttöä) keho \"avautuu\" kavalaktonille, ja vaikutus voimistuu merkittävästi. Tarkkoja mekanismeja ei vielä täysin ymmärretä, mutta ne voivat liittyä kavalaktonien kertymiseen rasvakudokseen tai reseptorien herkistymiseen.",
+      "relatedTerms": [
+        "Kavalaktonit",
+        "Annostus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kognitiiviset vaikutukset",
+          "href": "/de/wirkung/kognition"
+        },
+        {
+          "label": "Annostuslaskuri",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Ahdistuslievitys",
+      "germanTerm": "Angstlösung",
+      "shortDefinition": "Kavan ahdistusta lievittävä vaikutus",
+      "fullExplanation": "Ahdistuslievitys tarkoittaa **aineen ahdistusta lievittävää vaikutusta**. Kava on yksi harvoista kasviainesosista, joilla on **taso-1-todisteet** ahdistusta lievittävälle vaikutukselle (Cochrane Review). Ahdistuslievitys tapahtuu pääasiassa GABA-reseptorien modulaation ja limbisen järjestelmän vaikuttamisen kautta. Toisin kuin bentsodiatsepiinit, Kava ei aiheuta **kognitiivista heikentymistä, riippuvuutta eikä rauhoittumista** alhaisilla ja keskikokoisilla annoksilla.",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalaktonit"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Ahdistusta lievittävä vaikutus",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Tieteelliset tutkimukset",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Syvä Kava-rentoutumisen tila",
+      "fullExplanation": "\"Krunk\" on slangitermi Kava-yhteisössä, joka viittaa tilaan **syvästä rentoutumisesta ja hyvinvoinnista** riittävän Kava-määrän nauttimisen jälkeen. Termi saattaa juontaa juurensa sanasta \"drunk\", mutta kuvaa eri tilaa: **selkeä mieli rentoutuneessa kehossa**. Tyypillisiä merkkejä ovat rauhan tunne, lihasten rentoutuminen, kevyt euforia ja sosiaalinen avoimuus – ilman alkoholin haittavaikutuksia.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Vaikutus",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Lihasten rentoutuminen",
+      "shortDefinition": "Kavan fyysinen rentouttava vaikutus",
+      "fullExplanation": "Kavan **lihaksia rentouttava vaikutus** on yksi selkeimmin tuntuvista tehosteista. Sitä välittää pääasiassa DHK (Dihydrokavain), joka vaikuttaa lihassolujen natriumkanaviin. Tämä rentoutuminen ei liity **heikkouteen tai koordinaatio-ongelmiin** – tuntee itsensä rentoutuneeksi, mutta ei heikoksi. Kavaa arvostetaan siksi jännityksistä, stressiin liittyvistä lihasongelmista ja luonnollisena vaihtoehtona lihasrelaksanteille.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalaktonit"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lihasten rentoutuminen",
+          "href": "/de/wirkung/muskel"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Euforia",
+      "shortDefinition": "Kavan aiheuttama kohonnut mieliala",
+      "fullExplanation": "Kava voi aiheuttaa **lievää tai kohtuullista euforiaa**, erityisesti Heady-lajikkeissa, joissa on korkea kavain-pitoisuus. Tämä euforia eroaa alkoholista tai muista aineista: se on **selkeää, sosiaalista ja ei estävää**. Mielialan kohottaminen tapahtuu kavainin ja DMY:n vaikutuksesta dopamiini- ja serotoniinjärjestelmiin. Heady-lajikkeet kuten Kelai, Moi ja Pouni Ono ovat tunnettuja euforisista ominaisuuksistaan.",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Rauhoittuminen",
+      "shortDefinition": "Rauhoittava, unta edistävä vaikutus",
+      "fullExplanation": "Rauhoittuminen tarkoittaa Kavan **rauhoittavaa ja unta edistävää vaikutusta**, joka on erityisen voimakas Heavy-lajikkeissa. Sitä välittävät pääasiassa DHM, DHK ja Methysticin. Alhaisilla ja keskikokoisilla annoksilla Kava ei ole **rauhoittava** ja säilyttää henkisen selkeyden. Kuitenkin korkeammilla annoksilla tai Heavy-lajikkeissa voi esiintyä merkittävää väsymystä. Tämä tekee Kavasta luonnollisen vaihtoehdon unihäiriöihin.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Uni"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Uni & Rentoutuminen",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotektiivinen",
+      "shortDefinition": "Suojavaikutus hermosoluille",
+      "fullExplanation": "Neuroprotektiiviset ominaisuudet tarkoittavat **kykyä suojata hermosoluja vaurioilta**. Tutkimukset osoittavat, että kavain ja muut kavalaktonit voivat olla neuroprotektiivisia – ne suojaavat neuroneja oksidatiiviselta stressiltä ja eksitotoksisuudelta. Tämä voisi tehdä Kavasta mielenkiintoisen tutkimuskohteen neurodegeneratiivisille sairauksille. Neuroprotektiiviset ominaisuudet auttavat myös varmistamaan, että Kava ei heikennä kognitiivista toimintaa.",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalaktonit"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tieteelliset tutkimukset",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgesia",
+      "germanTerm": "Schmerzlinderung",
+      "shortDefinition": "Kavan kipua lievittävä vaikutus",
+      "fullExplanation": "Analgesia tarkoittaa **aineen kipua lievittävää vaikutusta**. Kava omaa lieviä analgeettisia ominaisuuksia, joita välittää pääasiassa DHK. Paikallispuuduttava vaikutus (puutuminen suussa) on suora todiste tästä ominaisuudesta. Kavaa käytetään perinteisesti **päänsärkyihin, hammassärkyihin ja lihaskipuihin**. Kivunlievitys on kuitenkin lievää eikä se korvaa lääketieteellistä hoitoa voimakkaissa kiputiloissa.",
+      "relatedTerms": [
+        "DHK",
+        "Lihasten rentoutuminen"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Vaikutus",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava-dermopatia",
+      "germanTerm": "Kava-Hautausschlag",
+      "shortDefinition": "Ihovaurio liiallisessa käytössä",
+      "fullExplanation": "Kava-dermopatia on **käänteinen ihovaurio**, joka voi ilmetä erittäin korkeassa, pitkäaikaisessa Kavan käytössä. Se ilmenee kuivana, hilseilevänä ihona, jossa on kellertävä sävy, erityisesti kämmenissä, jalkapohjissa ja kyynärvarsissa. Syynä on todennäköisesti **kolesterolin aineenvaihdunnan häiriö** ihossa. Dermopatia häviää täysin käytön vähentämisen tai lopettamisen jälkeen, eikä se ole merkki maksavaurioista.",
+      "relatedTerms": [
+        "Turvallisuus",
+        "Annostus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Turvallisuus",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Edle Kava",
+      "shortDefinition": "Korkealaatuiset, perinteisesti käytetyt Kava-lajikkeet",
+      "fullExplanation": "Noble Kava viittaa **viljeltyihin Kava-lajikkeisiin**, joita on kasvatettu päivittäiseen käyttöön vuosisatojen ajan. Ne erottuvat **tasapainoisesta kavalaktoniprofiilista**, jossa on korkea kavain-pitoisuus ja alhainen määrä ei-toivottuja yhdisteitä, kuten Flavokavain B (FKB). Noble-lajikkeilla on tyypillisesti 4 tai 2 ensimmäisillä paikoilla kemotyypissä. Ne pidetään turvallisina säännölliseen käyttöön ja ovat ainoita lajikkeita, joita voidaan laillisesti viedä Vanuatusta.",
+      "relatedTerms": [
+        "Tudei",
+        "Kemotyyppi",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "Zwei-Tage-Kava",
+      "shortDefinition": "Villieläin tai huonolaatuiset Kava-lajikkeet",
+      "fullExplanation": "Tudei (\"two day\" - kahden päivän) viittaa **villeihin tai huonolaatuisiin Kava-lajikkeisiin**, joiden vaikutus ja haittavaikutukset voivat kestää jopa kaksi päivää. Ne sisältävät suuria määriä **Flavokavain B (FKB)** ja **Dihydromethysticiiniä (DHM)**, jotka on yhdistetty pahoinvointiin, päänsärkyyn ja mahdolliseen maksamyrkyllisyyteen. Tudei-lajikkeilla on tyypillisesti 5 (DHM) ensimmäisellä sijalla kemotyypissä. Vanuatussa Tudei-Kavan vienti on **kielletty**. Vakavat kauppiaat myyvät vain Noble Kavaa.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Turvallisuus",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Kopflastig",
+      "shortDefinition": "Kava-lajikkeet, joilla on euforinen, aivoja aktivoiva vaikutus",
+      "fullExplanation": "\"Heady\" kuvaa Kava-lajikkeita, joiden vaikutus on **pääasiassa aivoihin vaikuttava ja euforinen**. Näillä lajikkeilla on tyypillisesti **kavain (4) ensimmäisellä tai toisella sijalla** kemotyypissä. Heady Kavat edistävät sosiaalisuutta, parantavat mielialaa ja voivat vaikuttaa lievästi euforisesti ilman voimakasta rauhoittumista. Ne sopivat erityisesti sosiaalisiin tilaisuuksiin, luovaan työhön tai iltapäivään. Tunnettuja Heady-lajikkeita ovat Kelai, Moi, Pouni Ono ja Silese.",
+      "relatedTerms": [
+        "Heavy",
+        "Tasapainoinen",
+        "Kavain",
+        "Kemotyyppi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Lajikevertailu",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Körperlastig",
+      "shortDefinition": "Kava-lajikkeet, joilla on voimakkaasti rauhoittava, kehoon vaikuttava vaikutus",
+      "fullExplanation": "\"Heavy\" kuvaa Kava-lajikkeita, joiden vaikutus on **pääasiassa kehoon vaikuttava ja rauhoittava**. Näillä lajikkeilla on tyypillisesti **DHK (2) tai DHM (5) ensimmäisellä sijalla** kemotyypissä. Heavy Kavat rentouttavat lihaksia voimakkaasti, edistävät unta ja voivat olla erittäin rauhoittavia. Ne sopivat erityisesti iltaan, unihäiriöihin tai syvään rentoutumiseen. Tunnettuja Heavy-lajikkeita ovat Loa Waka, Hiwa, Palasa ja Palarasul.",
+      "relatedTerms": [
+        "Heady",
+        "Tasapainoinen",
+        "DHK",
+        "Kemotyyppi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Uni & Rentoutuminen",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Tasapainoinen",
+      "germanTerm": "Ausgewogen",
+      "shortDefinition": "Kava-lajikkeet, joilla on tasapainoinen vaikutus",
+      "fullExplanation": "\"Tasapainoinen\" kuvaa Kava-lajikkeita, jotka tarjoavat **tasapainoisen sekoituksen heady ja heavy ominaisuuksia**. Näillä lajikkeilla on tyypillisesti sekä kavain (4) että DHK (2) etuosa kemotyypissä. Tasapainoiset Kavat tarjoavat sekä henkistä selkeyttä että fyysistä rentoutumista ja ovat siten **monikäyttöisiä** – iltapäivästä iltaan. Tunnettuja Tasapainoisia lajikkeita ovat Borogu, Melo Melo, Bir Kar ja Vula Waka.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Kemotyyppi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Lajikevertailu",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Kultivari",
+      "shortDefinition": "Kehitetty Kava-varietee",
+      "fullExplanation": "Kultivari on **jalostuksen kautta syntynyt kasvilajike**. Kava-lajikkeita on yli 100 erilaista, jotka eroavat kemotyypiltään, vaikutuksiltaan, maultaan ja kasvutavaltaan. Koska Kava on steriili ja sitä voidaan lisätä vain vegetatiivisesti, kultivarit ovat **geneettisiä klooneja** emokasvista. Tunnettuja kultivareita ovat Borogu, Kelai, Melo Melo, Palasa ja monet muut. Jokaisella kultivarilla on oma \"sormenjälkensä\" kavalaktonien osalta.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Kemotyyppi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava pääjuurista",
+      "fullExplanation": "\"Waka\" tarkoittaa Kavaa, joka valmistetaan **pääjuurista (lateraaliset juuret)**. Waka on **korkein laatuluokka**, koska pääjuurilla on korkein kavalaktonipitoisuus. Termi on peräisin Fijiltä ja Tongalta. Waka on kalliimpaa kuin Lewena (varrenjuuri), mutta voimakkaampaa ja maku on miedompi. Suurin osa markkinoilla olevista premium-Kavista on Waka-laatua.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava juuristosta",
+      "fullExplanation": "\"Lewena\" (myös \"Lawena\") tarkoittaa Kavaa, joka valmistetaan **juuristosta (rhizoma)**. Lewena on **alhaisempi kavalaktonipitoisuus** kuin Waka, mutta myös miedompi maku ja edullisempi. Sitä suositellaan usein aloittelijoille tai niille, jotka haluavat lempeämmän vaikutuksen. Fijillä Lewenaa käytetään perinteisesti päivittäiseen kulutukseen, kun taas Waka on varattu erityisiin tilaisuuksiin.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Lajikeprofiilit",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Vihreä Kava",
+      "germanTerm": "Frische Kava",
+      "shortDefinition": "Tuoreita, ei kuivatettuja Kava-juuria",
+      "fullExplanation": "\"Vihreä Kava\" tai \"Tuore Kava\" tarkoittaa **tuoreita Kava-juuria**, joita ei ole kuivatettu. Tyypillisesti Tyynenmeren alkuperämaissa Kava valmistetaan tuoreena – juuret kuoritaan, pilkotaan ja vaivataan heti. Tuore Kava on **erilainen maku ja vaikutus** kuin kuivatettu: usein miedompi, \"vihreämpi\" maultaan ja nopeampi vaikutusaika. Instant Kava valmistetaan dehydroidusta vihreästä Kava-mehusta.",
+      "relatedTerms": [
+        "Instant Kava",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kulttuuri",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Havaijilainen nimitys Kavaalle",
+      "fullExplanation": "'Awa on **havaijilainen nimitys Kavaalle**. Havaijilla on oma Kava-perinteensä ainutlaatuisilla kultivareilla kuten Moi, Hiwa, Nene ja Papa Ele'ele. Havaijilaiset 'Awa-lajikkeet ovat usein erityisen voimakkaita ja niillä on ominaisia vaikutusprofiileja. 'Awa:ta on perinteisesti käytetty **seremoniallisesti, lääketieteellisesti ja hengellisiin tarkoituksiin**. Havaijilainen 'Awa-kulttuuri elää tällä hetkellä renessanssia, ja perinteisiin lajikkeisiin on kasvavaa kiinnostusta.",
+      "relatedTerms": [
+        "Kultivari",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historia",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Keskikarkea jauhaminen",
+      "germanTerm": "Mittlere Mahlung",
+      "shortDefinition": "Vakiomyllyaste perinteiseen valmistukseen",
+      "fullExplanation": "Keskikarkea jauhaminen on **vakiomyllyaste Kava-juurijauheelle**, jota käytetään perinteisessä vaivamenetelmässä ja blenderivalmistuksessa. Jauheessa on **hiekkaista tai jauhomaisia koostumuksia** ja se on vaivattava suodatinpussissa (75-100 mikronia) kavalaktonien eristämiseksi. Keskikarkea jauhaminen on edullisempaa kuin Instant/Mikronisoitu ja tuottaa oikealla valmistuksella parhaan tehon. Karkeat kasvikuidut suodatetaan pois.",
+      "relatedTerms": [
+        "Mikronisoitu",
+        "Instant Kava",
+        "Vaivamenetelmä"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perinteinen menetelmä",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Blender-menetelmä",
+          "href": "/de/zubereitung/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Mikronisoitu Kava",
+      "germanTerm": "Mikronisierte Kava",
+      "shortDefinition": "Erittäin hienoksi jauhettu Kava ilman suodatusta",
+      "fullExplanation": "Mikronisoitu Kava on **erittäin hienoksi jauhettu juurijauhe**, josta karkeat kuidut on jo poistettu. Sitä voidaan **sekoittaa suoraan veteen** ilman vaivaamista tai suodattamista. Partikkelit ovat niin hienoja, että ne pysyvät suspensiossa ja niitä juodaan. Mikronisoitu on kätevämpää kuin keskikarkea jauhaminen, mutta kalliimpaa ja voi aiheuttaa herkillä vatsalla **pahoinvointia**, koska kuidut nautitaan.",
+      "relatedTerms": [
+        "Keskikarkea jauhaminen",
+        "Instant Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava valmistus",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Annostuslaskuri",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "Sofort-Kava",
+      "shortDefinition": "Dehydroitu Kava-mehu, heti juotavaksi",
+      "fullExplanation": "Instant Kava on **dehydroitu \"Vihreä Kava\" mehu** – tuore Kava-mehu, joka on pakastettu tai suihku-kuivattu. Se on **voimakkain ja kallein** Kavan muoto, koska kavalaktonit on jo eristetty. Instant Kava liukenee heti veteen eikä vaadi vaivaamista tai suodattamista. Annostus on huomattavasti pienempi kuin keskikarkeassa jauhamisessa (2-6g verrattuna 20-50g). Sitä pidetään Kava-valmistuksen \"kuninkaallisena luokkana\".",
+      "relatedTerms": [
+        "Mikronisoitu",
+        "Keskikarkea jauhaminen",
+        "Vihreä Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava valmistus",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Annostuslaskuri",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Vaivamenetelmä",
+      "shortDefinition": "Perinteinen Tyynenmeren valmistustapa",
+      "fullExplanation": "Vaivamenetelmä on **perinteinen Tyynenmeren Kavan valmistustapa**, jota on harjoitettu yli 3 000 vuotta. Keskikarkeaa jauhetta laitetaan suodatinpussiin ja vaivataan lämpimässä vedessä (35-45°C) **10-15 minuuttia**. Mekaanisen voiman avulla kavalaktonit liuotetaan kasvikuiduista ja emulgoituvat veteen. Tuloksena on maitomainen ruskea \"Grog\". Tämä menetelmä tuottaa **parhaan eristyksen ja tehon**.",
+      "relatedTerms": [
+        "Keskikarkea jauhaminen",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perinteinen menetelmä",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Valmistuksen yhteenveto",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Toinen pesu",
+      "germanTerm": "Zweiter Aufguss",
+      "shortDefinition": "Kava-jauheen uudelleenkäyttö",
+      "fullExplanation": "\"Toinen pesu\" tarkoittaa **jo vaivatun Kava-jauheen uudelleenkäyttöä** toista kertaa. Ensimmäisen vaivauksen jälkeen jauhe sisältää vielä noin **30-50% alkuperäisistä kavalaktonista**. Toinen pesu on heikompi, mutta silti tehokas. Jotkut käyttäjät yhdistävät ensimmäisen ja toisen pesun, toiset juovat ne erikseen. Kolmas pesu ei yleensä ole enää kannattava.",
+      "relatedTerms": [
+        "Vaivamenetelmä",
+        "Keskikarkea jauhaminen"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perinteinen menetelmä",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Suodatinpussi",
+      "germanTerm": "Filterbeutel",
+      "shortDefinition": "Pussi Kavan suodattamiseen",
+      "fullExplanation": "Suodatinpussi on **nylonista tai puuvillasta valmistettu suodatinpussi**, jota käytetään Kavan vaivamiseen ja suodattamiseen. Ihanteellinen silmäkoko on **75-100 mikronia** – tarpeeksi hieno pitämään kasvikuidut takaisin, mutta tarpeeksi läpäisevä kavalaktoniemulsion läpi. Suodatinpussit ovat uudelleenkäytettäviä ja ne on huuhdeltava ja kuivattava jokaisen käytön jälkeen. Ne ovat välttämätön työkalu perinteisessä valmistuksessa.",
+      "relatedTerms": [
+        "Vaivamenetelmä",
+        "Keskikarkea jauhaminen"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perinteinen menetelmä",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "Yksi annos Kava-juomaa",
+      "fullExplanation": "\"Shell\" on yleinen nimitys **yhdelle annokselle Kava-juomaa**, tyypillisesti 100-150ml. Termi juontaa juurensa perinteisestä kookospähkinäkuoresta (Bilo), josta Kavaa juodaan. Kava-baareissa tilataan \"Shells\" – yksi sessio koostuu usein 3-6 Shellistä usean tunnin aikana. Annostus per Shell vaihtelee Grog:n vahvuuden ja henkilökohtaisen mieltymyksen mukaan. \"Yksi lisää shell\" on yleinen huuto Kava-yhteisössä.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Annostuslaskuri",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Moderni Kavan valmistuslaite",
+      "fullExplanation": "AluBall on **moderni Kavan valmistuslaite**, joka yksinkertaistaa perinteistä vaivamenetelmää. Se koostuu shaker-pullosta, jossa on erityinen suodatinpallo. Keskikarkeaa jauhetta laitetaan palloon, vettä lisätään ja ravistetaan 2-3 minuuttia. Eristys on nopeampaa kuin perinteisessä vaivauksessa, mutta mahdollisesti vähemmän tehokasta. AluBall on suosittu **matkalla ja aloittelijoille**, jotka suosivat helppoa valmistusta.",
+      "relatedTerms": [
+        "Vaivamenetelmä",
+        "Keskikarkea jauhaminen"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Valmistuksen yhteenveto",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "Valmis Kava-juoma",
+      "fullExplanation": "\"Grog\" on slangitermi **valmiille Kava-juomalle**, erityisesti Vanuatussa ja Fijillä. Nimi juontaa juurensa kolonialiselta ajalta ja se on peräisin brittiläiseltä merivoimilta. Perinteinen Kava-Grogilla on **maitomainen ruskea väri** (kuten maitokahvi) ja maanläheinen, hieman pippurinen maku. Kava-baareissa Grog tarjoillaan usein kookospähkinäkuorissa (Bilos) ja se juodaan yhdellä kertaa.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Vaivamenetelmä"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kulttuuri",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Valmistus",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Perinteinen kookospähkinäkuori juomiseen",
+      "fullExplanation": "Bilo on **puolikas kookospähkinäkuori**, jota käytetään perinteisesti Kavan tarjoamiseen ja juomiseen. Fijillä ja muissa Tyynenmeren kulttuureissa juominen Bilosta on osa **seremoniallista rituaalia**. Ennen juomista taputetaan kerran käsiä yhteen, sanotaan \"Bula!\" (Fiji) tai \"Mālō!\" (Tonga), juodaan sisältö yhdellä kertaa ja taputetaan sitten kolme kertaa. Nykyajan Kava-intoilijat käyttävät Biloja autenttisen kokemuksen saamiseksi.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kulttuuri",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historia",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Perinteinen Kava-baari Vanuatussa",
+      "fullExplanation": "Nakamal on **perinteinen Kava-baari Vanuatussa**, jossa paikalliset ja turistit kokoontuvat juomaan Kavaa. Alun perin termi viittasi miesten kokoontumispaikkaan kylässä. Nykyajan Nakamalit ovat usein yksinkertaisia majoja tai avoimia alueita, joissa on penkkejä. Kava valmistetaan tuoreena ja tarjoillaan kulhoissa. Siellä on tiukat **sosiaaliset säännöt**: puhutaan hiljaa, käyttäydytään kunnioittavasti ja juodaan hämärässä. Nakamalit ovat tärkeitä sosiaalisia kokoontumispaikkoja.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kulttuuri",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historia",
+          "href": "/de/geschichte/urspruenge"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Perinteinen puinen Kava-kulho",
+      "fullExplanation": "Tanoa on **suuri, litteä puukulho**, jossa Kava valmistetaan ja tarjoillaan perinteisesti. Se on tyypillinen Fijille, Samoalle ja Tongalle ja se on veistetty yhdestä puunpalasta, usein veistetyillä jaloilla. Tanoa on **Kava-seremonian keskipiste** – Grog sekoitetaan siihen ja jaetaan osallistujille Bilon kautta. Laadukkaat Tanoat ovat taideteoksia ja niitä siirretään perheiden perintönä.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Seremonia"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kulttuuri",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Fijiläinen tervehdys Kava-juomisen yhteydessä",
+      "fullExplanation": "\"Bula!\" on **perinteinen fijiläinen tervehdys**, joka huudetaan ennen Kava Shellin juomista. Sana tarkoittaa \"elämää\" ja ilmaisee hyviä toiveita. Rituaali: taputetaan kerran, huudetaan \"Bula!\", tyhjennetään Shell yhdellä kertaa, taputetaan kolme kertaa. Muissa Tyynenmeren kulttuureissa on samankaltaisia huutoja: \"Mālō!\" Tongassa, \"Taki!\" Vanuatussa. Nämä rituaalit luovat **yhteisöllisyyttä ja kunnioitusta** ja ovat tärkeä osa Kava-kulttuuria.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kulttuuri",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Mahdollisesti maksamyrkyllinen yhdiste Tudei-Kavassa",
+      "fullExplanation": "Flavokavain B (FKB) on **chalkoni**, jota esiintyy korkeammissa pitoisuuksissa Tudei-Kavassa ja maanpäällisissä kasvin osissa (varret, lehdet). Sitä yhdistetään **mahdolliseen maksamyrkyllisyyteen** ja se voisi olla vastuussa joistakin historiallisista maksavaurioista. Noble Kava -lajikkeilla on **erittäin alhaiset FKB-pitoisuudet**. Tämä on yksi pääsyistä, miksi vain Noble Kava on suositeltavaa kulutettavaksi ja Tudei-Kava on kielletty vientiin Vanuatusta.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Maksaturvallisuus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Maksaturvallisuus",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Cytochrom P450",
+      "shortDefinition": "Maksassa lääkkeiden hajoamisesta vastaavat entsyymit",
+      "fullExplanation": "CYP450 (Cytochrom P450) on **maksassa olevien entsyymien perhe**, jotka ovat vastuussa useimpien lääkkeiden hajoamisesta. Kavalaktonit voivat **estää** tiettyjä CYP450-entsyymejä, erityisesti CYP2C9, CYP2C19 ja CYP3A4. Tämä voi hidastaa lääkkeiden hajoamista ja vahvistaa niiden vaikutusta. Siksi Kavaa **ei tulisi yhdistää lääkkeisiin**, jotka hajoavat näiden entsyymien kautta – erityisesti bentsodiatsepiineihin, masennuslääkkeisiin ja verenpainelääkkeisiin.",
+      "relatedTerms": [
+        "Vuorovaikutukset",
+        "Maksaturvallisuus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Vuorovaikutukset",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Vuorovaikutustarkistin",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Maksaturvallisuus",
+      "shortDefinition": "Kava ja maksa – faktat ja myytit",
+      "fullExplanation": "Kavan **maksaturvallisuus** on ollut pitkään kiistanalainen kysymys. 2000-luvun alussa raportit maksavaurioista johtivat kieltoihin useissa maissa. Myöhemmät tutkimukset ovat kuitenkin osoittaneet, että useimmat tapaukset liittyivät **Tudei-Kavaan, maanpäällisiin kasvin osiin tai ennakkosairauksiin**. Noble Kava, perinteisesti valmistettuna, pidetään turvallisena. WHO vahvisti vuonna 2016, että \"perinteisesti valmistetut Kava-juomat omaavat hyväksyttävän turvallisuusprofiilin\".",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Maksaturvallisuus",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Tieteelliset tutkimukset",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Vuorovaikutukset",
+      "shortDefinition": "Kavan vuorovaikutukset muiden aineiden kanssa",
+      "fullExplanation": "Kava voi **olla vuorovaikutuksessa erilaisten aineiden kanssa**. Tärkeimmät yhdistettävät yhdistelmät ovat: **alkoholi** (voimistaa maksamyrkyllisyyttä), **bentsodiatsepiinit ja unilääkkeet** (voimistaa rauhoittumista), **masennuslääkkeet** (CYP450-vuorovaikutukset), **Parkinson-lääkkeet** (dopamiini-vuorovaikutukset). Myös muut keskushermostoa rauhoittavat aineet tulisi välttää. Säännöllisesti lääkkeitä käyttävien tulisi keskustella lääkärin kanssa ennen Kavan käyttöä.",
+      "relatedTerms": [
+        "CYP450",
+        "Maksaturvallisuus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Vuorovaikutukset",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Vuorovaikutustarkistin",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Annostus",
+      "shortDefinition": "Oikea määrä turvalliseen kulutukseen",
+      "fullExplanation": "Oikea **annostus** Kavaa riippuu useista tekijöistä: kehon painosta, kokemuksesta, lajikkeesta ja valmistustavasta. **Keskikarkealle jauhamiselle** tyypillinen sessio on 20-50g jauhetta, jaettuna useisiin Shelliin. **Instant Kavalle** on tyypillistä 2-6g. Aloittelijoiden tulisi aloittaa alhaisilla annoksilla ja ottaa huomioon **käänteinen toleranssi**. Suositeltu päivittäinen enimmäisannos on noin 250mg kavalaktonia. Yliannostus johtaa voimakkaaseen väsymykseen, mutta ei vaarallisiin tiloihin.",
+      "relatedTerms": [
+        "Käänteinen toleranssi",
+        "Shell",
+        "Kavalaktonit"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Annostuslaskuri",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    }
+  }
+}

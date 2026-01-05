@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Etusivu",
+    "description": "Maailman laajin tietopankki Kava (Piper methysticum) -kasvista. Tieteellisesti perusteltu, kulttuurisesti juurtunut. Kaikki vaikutuksista, valmistuksesta, lajikkeista ja lainsäädännöstä."
+  },
+  "hero": {
+    "badge": "Piper methysticum",
+    "title": "Rauhan juuri",
+    "subtitle": "Kattava tietopankki Tyynenmeren rentoutusjuuresta. Tieteellisesti perusteltu, kulttuurisesti juurtunut.",
+    "cta": {
+      "studies": "Tieteelliset tutkimukset",
+      "learnMore": "Lisätietoja"
+    }
+  },
+  "stats": [
+    {
+      "label": "Perinteinen käyttö",
+      "value": "3000+",
+      "suffix": "vuotta"
+    },
+    {
+      "label": "Pää-Kavalaktonit",
+      "value": "6",
+      "suffix": "vaikuttavaa ainetta"
+    },
+    {
+      "label": "Lajikkeet Vanuatulta",
+      "value": "80+",
+      "suffix": "viljelykasvia"
+    },
+    {
+      "label": "Tieteellisiä",
+      "value": "100+",
+      "suffix": "tutkimusta"
+    }
+  ],
+  "intro": {
+    "title": "Luonnon lahja,",
+    "titleHighlight": "vahvistettu tieteellä.",
+    "text": "Kava (Piper methysticum) on enemmän kuin pelkkä kasvi. Tuhansien vuosien ajan se on ollut Tyynenmeren saarikulttuurien sosiaalinen ja hengellinen keskus. Nykyään moderni tiede vahvistaa sen, mitä saarten asukkaat ovat aina tienneet: Kava rentouttaa kehoa ja selkeyttää mieltä ilman kognitiivisten kykyjen heikentämistä.",
+    "quote": "Kava on ainoa kasvi, jolla on taso-1 näyttö ahdistuksen hoitoon.",
+    "quoteSource": "— Cochrane Review"
+  },
+  "features": [
+    {
+      "icon": "shield",
+      "title": "Turvallisuus",
+      "text": "Nykyiset tutkimukset kumoavat vanhat myytit maksan myrkyllisyydestä oikeassa käytössä."
+    },
+    {
+      "icon": "beaker",
+      "title": "Vaikutus",
+      "text": "Todistetut anxiolyyttiset (ahdistusta lievittävät) ominaisuudet Kavalaktonien kautta."
+    },
+    {
+      "icon": "history",
+      "title": "Kulttuuri",
+      "text": "Syvästi juurtunut Vanuatun, Fijin ja Tongan perinteisiin."
+    }
+  ],
+  "categories": {
+    "title": "Tietopankki",
+    "subtitle": "Sukella syvälle Kavan maailmaan. Valitse alue saadaksesi lisätietoja.",
+    "items": [
+      {
+        "title": "Kasvitiede",
+        "desc": "Morfolgia, viljely ja levinneisyys",
+        "link": "/kasvitiede"
+      },
+      {
+        "title": "Historia",
+        "desc": "Alkuperistä nykyaikaan",
+        "link": "/historia"
+      },
+      {
+        "title": "Ainesosat",
+        "desc": "Kavalaktonit ja kemotyypit",
+        "link": "/ainesosat"
+      },
+      {
+        "title": "Tutkimukset",
+        "desc": "Kliininen tutkimus ja näyttö",
+        "link": "/tutkimukset"
+      },
+      {
+        "title": "Vaikutus",
+        "desc": "Vaikutukset kehoon ja mieleen",
+        "link": "/vaikutus"
+      },
+      {
+        "title": "Turvallisuus",
+        "desc": "Annostus ja sivuvaikutukset",
+        "link": "/turvallisuus"
+      },
+      {
+        "title": "Lajikkeet",
+        "desc": "Noble Kava vs. Tudei",
+        "link": "/lajikkeet"
+      },
+      {
+        "title": "Valmistus",
+        "desc": "Perinteiset ja modernit menetelmät",
+        "link": "/valmistus"
+      }
+    ]
+  },
+  "partner": {
+    "label": "Virallinen kumppani",
+    "title": "Kava-mode.com",
+    "text": "Euroopan johtava Kava-brändi ja maailmanlaajuinen tukkumyyjä korkealaatuiselle Noble-Kavalle. Testattu laatu suoraan Tyynenmeren tiloilta.",
+    "cta": "Vieraile kaupassa"
+  },
+  "book": {
+    "label": "Suositeltava lukeminen",
+    "title": "\"Kava – Rauhan juuri\"",
+    "text": "Kattava opas Kavan vaikutuksista, käytöstä, historiasta ja kulttuurista Sebastian Freidankilta. Vakava teos jokaiselle Kava-kiinnostuneelle.",
+    "cta": "Katso kirja"
+  }
+}

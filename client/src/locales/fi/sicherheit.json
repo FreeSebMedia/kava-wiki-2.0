@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Turvallisuus & Terveys",
+    "subtitle": "Faktat eivät myyttejä: Tieteellinen katsaus hepatotoksisuuteen, sivuvaikutuksiin ja turvalliseen käyttöön.",
+    "category": "Turvallisuus"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Tieteellinen konsensus",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Luvun yleiskatsaus",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Maksaturvallisuus",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Vuorovaikutukset",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Vasta-aiheet",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Annossuositukset",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Mahdolliset sivuvaikutukset",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Turvallisuuslista",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Nykyinen tieteellinen konsensus",
+    "intro": "Laaja-alaisten analyysien jälkeen <strong>WHO</strong>:n, <strong>EMA</strong>:n ja itsenäisten tutkijoiden toimesta:",
+    "points": [
+      "Perinteisesti valmistettu Kava Noble-lajikkeista on asianmukaisella käytöllä <strong>turvallista</strong>",
+      "Vakavat maksavauriot ovat <strong>äärimmäisen harvinaisia</strong> (arvioitu esiintyvyys: 1:60.000 - 1:1.000.000)",
+      "EU:n kielto vuodelta 2002 on saksalaisten tuomioistuinten mukaan <strong>epäoikeudenmukainen</strong>",
+      "Riskit johtuvat pääasiassa <strong>laadun puutteista</strong>, <strong>vääristä kasvin osista</strong> tai <strong>yhdistelmäkäytöstä</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Luvun yleiskatsaus: Turvallisuus yksityiskohtaisesti",
+    "intro": "Tämä luku tarjoaa kattavan, tieteellisesti perustellun analyysin kaikista Kavan turvallisuuteen liittyvistä näkökohdista. Klikkaa alisivuille saadaksesi yksityiskohtaisia tietoja:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Maksaturvallisuus & Hepatotoksisuus",
+        "href": "/de/sicherheit/leber",
+        "description": "Tieteellinen totuus vuoden 2002 kiellosta, WHO:n ja EMA:n arvioista, riskitekijöistä ja käytännön suosituksista.",
+        "highlights": [
+          "WHO:n arvio 2007",
+          "EMA-raportti 2017",
+          "Tuomioistuimen päätökset",
+          "Riskitekijät"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Vuorovaikutukset lääkkeiden kanssa",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalaktonit estävät CYP450-entsyymejä: Kattava yleiskatsaus korkean riskin yhdistelmistä ja kohtuullisista vuorovaikutuksista.",
+        "highlights": [
+          "CYP450-järjestelmä",
+          "Korkean riskin yhdistelmät",
+          "Vuorovaikutustaulukko",
+          "Käytännön vinkit"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Vasta-aiheet",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Milloin Kavaa ei tulisi käyttää: Absoluuttiset ja suhteelliset vasta-aiheet turvalliseen käyttöön.",
+        "highlights": [
+          "Maksasairaudet",
+          "Raskaus",
+          "Parkinson",
+          "Päätöksentukiväline"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Annossuositukset",
+    "intro": "Optimaalinen annos riippuu suuresti yksilöllisestä sietokyvystä (\"käänteinen sietokyky\") ja Kava-lajikkeesta. Aloita aina pienemmillä annoksilla.",
+    "boxTitle": "Suositukset Kavalaktonille",
+    "medical": {
+      "title": "Lääketieteellinen (ahdistus)",
+      "value": "60–240 mg",
+      "unit": "Kavalaktonia päivässä"
+    },
+    "traditional": {
+      "title": "Perinteinen / Viihteellinen",
+      "value": "250–500 mg",
+      "unit": "Kavalaktonia kerralla"
+    },
+    "tableTitle": "Valmistus juurijauheella (keskikarkea)",
+    "table": {
+      "headers": {
+        "level": "Kokemusaste",
+        "amount": "Määrä",
+        "water": "Vesi"
+      },
+      "rows": [
+        {
+          "level": "Aloittelija",
+          "amount": "2-3 rkl (noin 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Kokenut",
+          "amount": "4-6 rkl (noin 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Mahdolliset sivuvaikutukset",
+    "intro": "Vaikka Kava on asianmukaisella käytöllä turvallista, sivuvaikutuksia voi esiintyä, erityisesti liiallisessa käytössä.",
+    "frequent": {
+      "title": "Yleisimmät (annoksesta riippuen)",
+      "items": [
+        {
+          "label": "Väsyneisyys:",
+          "value": "Erityisesti \"Heavy\"-lajikkeilla"
+        },
+        {
+          "label": "Pahoinvointi:",
+          "value": "Voimakkailla annoksilla tyhjään vatsaan"
+        },
+        {
+          "label": "Nestehukka:",
+          "value": "Kava toimii diureettisesti"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Kroonisessa käytössä",
+      "items": [
+        {
+          "label": "Kava-dermopatia:",
+          "value": "Kuiva, hilseilevä iho (käännettävissä)"
+        },
+        {
+          "label": "GGT:n nousu:",
+          "value": "Maksentsyymin lievä nousu (käännettävissä)"
+        },
+        {
+          "label": "Painonlasku:",
+          "value": "Erittäin korkealla kulutuksella"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Turvallisuuslista",
+    "boxTitle": "Turvalliseen Kava-käyttöön",
+    "items": [
+      "<strong>Käytä vain Noble-Kavaa</strong> luotettavista lähteistä",
+      "<strong>Käytä vain juurta/rhizomea</strong> – ei lehtiä tai varsia",
+      "<strong>Suosi perinteistä vesivalmistusta</strong>",
+      "<strong>Ei alkoholia</strong> – vähintään 24h väli"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Lääkkeiden tarkistus</strong> – ",
+        "linkText": "Tarkista vuorovaikutukset",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Huomioi vasta-aiheet</strong> – ",
+        "linkText": "Katso tarkistuslista",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Varoitusmerkit",
+      "text": "Jos ihon/ silmien keltainen väri, tumma virtsa, vaalea uloste tai epätavallinen väsyneisyys ilmenee, lopeta käyttö välittömästi ja ota yhteys lääkäriin."
+    }
+  },
+  "quickLinks": {
+    "title": "Yksityiskohtaiset tiedot",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Maksaturvallisuus",
+        "description": "Hepatotoksisuus & kielto 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Vuorovaikutukset",
+        "description": "Lääkkeet & CYP450-vuorovaikutukset",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Vasta-aiheet",
+        "description": "Milloin Kavaa tulisi välttää",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

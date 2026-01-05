@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kava-maailmankartta",
+    "description": "Tutustu Tyynenmeren Kava-alueisiin – alkuperästä Vanuatulta nykyaikaiseen levinneisyyteen länsimaissa. Napsauta merkkiä saadaksesi lisätietoja paikallisista perinteistä."
+  },
+  "breadcrumb": {
+    "home": "Etusivu",
+    "kultur": "Kulttuuri",
+    "current": "Maailmankartta"
+  },
+  "filter": {
+    "all": "Kaikki alueet",
+    "origin": "Alkuperäalue",
+    "major": "Pääviljelyalue",
+    "secondary": "Toissijainen alue",
+    "diaspora": "Diaspora & Länsi"
+  },
+  "map": {
+    "backToOverview": "Takaisin yleiskatsaukseen"
+  },
+  "detail": {
+    "varietiesTitle": "Kava-lajikkeet",
+    "culturalSignificance": "Kulttuurinen merkitys",
+    "today": "Tänään",
+    "readMore": "Lue lisää"
+  },
+  "grid": {
+    "title": "Kaikki Kava-alueet"
+  },
+  "stats": {
+    "originRegions": "Alkuperäalueet",
+    "majorAreas": "Pääviljelyalueet",
+    "totalRegions": "Yhteensä alueita",
+    "yearsTradition": "Vuosia perinnettä"
+  },
+  "related": {
+    "title": "Liittyvät aiheet",
+    "zeremonien": {
+      "title": "Seremoniat",
+      "subtitle": "Rituaalit & protokollat"
+    },
+    "nakamal": {
+      "title": "Nakamal",
+      "subtitle": "Kava-baareja ympäri maailmaa"
+    },
+    "sorten": {
+      "title": "Lajikkeet",
+      "subtitle": "Tutki lajikkeita"
+    },
+    "geschichte": {
+      "title": "Historia",
+      "subtitle": "3000 vuotta Kavaa"
+    }
+  },
+  "navigation": {
+    "zeremonien": "/fi/kulttuuri/zeremonien",
+    "nakamal": "/fi/kulttuuri/nakamal",
+    "sorten": "/fi/lajikkeet",
+    "geschichte": "/fi/historia"
+  }
+}

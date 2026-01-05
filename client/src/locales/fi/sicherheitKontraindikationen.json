@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Vasta-aiheet",
+    "subtitle": "Milloin Kavaa ei tulisi käyttää: Absoluuttiset ja suhteelliset vasta-aiheet turvalliseen käyttöön.",
+    "category": "Turvallisuus",
+    "breadcrumbs": {
+      "home": "Koti",
+      "sicherheit": "Turvallisuus",
+      "current": "Vasta-aiheet"
+    }
+  },
+  "toc": {
+    "title": "Sisältö",
+    "zusammenfassung": "Yhteenveto",
+    "absolute": "Absoluuttiset vasta-aiheet",
+    "leber": "Maksasairaudet",
+    "schwangerschaft": "Raskaus & imetys",
+    "kinder": "Lapset & nuoret",
+    "relative": "Suhteelliset vasta-aiheet",
+    "parkinson": "Parkinsonin tauti",
+    "depression": "Vakava masennus",
+    "operation": "Ennen leikkauksia",
+    "fahren": "Ajaminen & koneiden käyttö",
+    "vorsicht": "Erityistä varovaisuutta",
+    "genetik": "Geneettiset tekijät",
+    "alter": "Iäkkäät ihmiset",
+    "entscheidungshilfe": "Päätöksenteon apuväline",
+    "quellen": "Lähteet"
+  },
+  "navigation": {
+    "continueTitle": "Jatka turvallisuusluvussa",
+    "items": [
+      {
+        "title": "Yhteenveto",
+        "href": "/fi/turvallisuus",
+        "description": "Palaa turvallisuuden yhteenvetoon"
+      },
+      {
+        "title": "Maksaturvallisuus",
+        "href": "/fi/turvallisuus/maksa",
+        "description": "Hepatotoksisuus & kielto 2002"
+      },
+      {
+        "title": "Vuorovaikutukset",
+        "href": "/fi/turvallisuus/vuorovaikutukset",
+        "description": "Lääkkeet & CYP450-vuorovaikutukset"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Tärkeä yhteenveto",
+    "intro": "Vaikka Kavaa pidetään turvallisena asianmukaisessa käytössä, on olemassa tiettyjä tilanteita, joissa sen käyttöä ei suositella tai se on vasta-aiheista:",
+    "absolut": {
+      "title": "Absoluuttisesti vasta-aiheista:",
+      "items": [
+        "Maksasairaudet",
+        "Raskaus & imetys",
+        "Alle 18-vuotiaat lapset"
+      ]
+    },
+    "relativ": {
+      "title": "Suhteelliset vasta-aiheet:",
+      "items": [
+        "Parkinsonin tauti",
+        "Vakava masennus",
+        "Ennen suunniteltuja leikkauksia"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Absoluuttiset vasta-aiheet",
+    "intro": "Seuraavissa tiloissa Kavaa <strong>ei tule käyttää missään olosuhteissa</strong>. Riski ylittää selvästi mahdolliset hyödyt."
+  },
+  "leber": {
+    "title": "Maksasairaudet",
+    "label": "Tiukasti vasta-aiheista",
+    "intro": "Maksasairauksista kärsivien henkilöiden tulisi täysin välttää Kavaa:",
+    "items": [
+      {
+        "name": "Hepatiitti (A, B, C)",
+        "text": "Aktiivinen tai krooninen maksatulehdus"
+      },
+      {
+        "name": "Maksakirroosi",
+        "text": "Riippumatta vaiheesta"
+      },
+      {
+        "name": "Rasvamaksa",
+        "text": "Alkoholinen ja ei-alkoholinen rasvamaksasairaus"
+      },
+      {
+        "name": "Kohonneet maksa-arvot",
+        "text": "Selittämätön ALT-, AST- ja GGT-arvojen nousu"
+      },
+      {
+        "name": "Aikaisemmat maksavauriot",
+        "text": "Vaikka nykyisin normalisoituneet"
+      }
+    ],
+    "reasonLabel": "Perustelu:",
+    "reason": "Maksat ovat keskeinen elin Kavalaktonien aineenvaihdunnassa. Rajoittuneessa maksatoiminnassa metaboliitit voivat kertyä ja lisätä riskiä lisävaurioille."
+  },
+  "schwangerschaft": {
+    "title": "Raskaus & imetys",
+    "label": "Tiukasti vasta-aiheista",
+    "intro": "Kavaa ei tulisi käyttää raskauden ja imetyksen aikana:",
+    "items": [
+      {
+        "name": "Ei turvallisuustietoja",
+        "text": "Raskauden aikana ei ole kontrolloituja tutkimuksia turvallisuudesta"
+      },
+      {
+        "name": "Plasman läpäisevyys",
+        "text": "Kavalaktonit voivat ylittää istukkabarriäärin"
+      },
+      {
+        "name": "Äidinmaito",
+        "text": "Kavalaktonit siirtyvät äidinmaitoon"
+      },
+      {
+        "name": "Kohtu-rauhoittava vaikutus",
+        "text": "Kavain voi rentouttaa kohdun lihaksia"
+      }
+    ],
+    "traditionLabel": "Perinteinen käytäntö:",
+    "tradition": "Tyynenmeren kulttuureissa Kavaa ei perinteisesti käytetä raskaana olevien tai imettävien naisten toimesta."
+  },
+  "kinder": {
+    "title": "Lapset & nuoret",
+    "label": "Ei suositella alle 18-vuotiaille",
+    "intro": "Kavaa ei tulisi käyttää lapsilla ja nuorilla:",
+    "items": [
+      {
+        "name": "Kehitys",
+        "text": "Vaikutuksia aivojen kehitykseen ei ole tutkittu"
+      },
+      {
+        "name": "Metabolismi",
+        "text": "Lapset aineenvaihduntavat aineita eri tavalla kuin aikuiset"
+      },
+      {
+        "name": "Ei tutkimuksia",
+        "text": "Ei kliinisiä tietoja tälle ikäryhmälle"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Suhteelliset vasta-aiheet",
+    "intro": "Seuraavissa tiloissa on erityistä varovaisuutta. Käyttö voi olla mahdollista tietyissä olosuhteissa, mutta se tulisi tehdä vain huolellisen harkinnan jälkeen ja mieluiten lääkärin kanssa keskustellen."
+  },
+  "parkinson": {
+    "title": "Parkinsonin tauti",
+    "label": "Ei suositella",
+    "intro": "Kava voi pahentaa Parkinsonin oireita:",
+    "items": [
+      {
+        "name": "Dopamiini-antagonismi",
+        "text": "Kava voi heikentää dopaminergisiä vaikutuksia"
+      },
+      {
+        "name": "Levodopa-vuorovaikutus",
+        "text": "Voi vähentää levodopan tehoa"
+      },
+      {
+        "name": "Tapausraportit",
+        "text": "Oireiden paheneminen Kavan käytön aikana on dokumentoitu"
+      }
+    ],
+    "caseReportLabel": "Tapausraportti:",
+    "caseReport": "Schelosky et al. (1995) raportoivat 45-vuotiaasta naisesta, jolla oli Parkinson, jonka oireet pahenivat merkittävästi Kavan käytön aikana."
+  },
+  "depression": {
+    "title": "Vakava masennus",
+    "label": "Varovaisuutta noudatettava",
+    "intro": "Vakavan masennuksen yhteydessä on noudatettava varovaisuutta:",
+    "items": [
+      {
+        "name": "Keskushermoston masennus",
+        "text": "Kava voi lisätä väsymystä"
+      },
+      {
+        "name": "Lääkkeiden vuorovaikutus",
+        "text": "Vuorovaikutuksia masennuslääkkeiden kanssa mahdollisia"
+      },
+      {
+        "name": "Itsehoito",
+        "text": "Voi viivästyttää ammatillista hoitoa"
+      }
+    ],
+    "noteLabel": "Huomautus:",
+    "note": "Kevyessä tai keskivaikeassa ahdistuksessa Kava voi olla hyödyllinen, mutta vakavassa masennuksessa ammatillisen hoidon tulisi olla etusijalla."
+  },
+  "operation": {
+    "title": "Ennen suunniteltuja leikkauksia",
+    "label": "Lopeta 2 viikkoa ennen",
+    "intro": "Kava tulisi lopettaa ennen suunniteltuja leikkauksia:",
+    "items": [
+      {
+        "name": "Anestesia-vuorovaikutus",
+        "text": "Voi voimistaa anestesia-aineiden vaikutusta"
+      },
+      {
+        "name": "Verenvuotoriski",
+        "text": "Mahdollinen vuorovaikutus verenohennuslääkkeiden kanssa"
+      },
+      {
+        "name": "Maksatoiminta",
+        "text": "Tärkeä anestesia-aineiden aineenvaihdunnassa"
+      }
+    ],
+    "recommendation": "Suositus: Lopeta Kavan käyttö vähintään 2 viikkoa ennen suunniteltua leikkausta ja ilmoita anestesialääkärille aikaisemmasta käytöstä."
+  },
+  "fahren": {
+    "title": "Ajaminen & koneiden käyttö",
+    "label": "Rajoitettu ajokyky",
+    "intro": "Kava voi heikentää reaktiokykyä:",
+    "items": [
+      {
+        "name": "Sedaatio",
+        "text": "Väsymys ja hidastuneet reaktiot mahdollisia"
+      },
+      {
+        "name": "Annoksesta riippuva",
+        "text": "Suuremmat annokset heikentävät enemmän"
+      },
+      {
+        "name": "Yksilölliset erot",
+        "text": "Herkkä vaihtelee suuresti"
+      }
+    ],
+    "noteLabel": "Huomautus:",
+    "note": "Toisin kuin bentsodiatsepiinit, tutkimukset osoittavat, että Kava heikentää kognitiivista toimintaa vähemmän. Silti on tärkeää tuntea oma reaktiosi ennen ajamista."
+  },
+  "vorsicht": {
+    "title": "Erityistä varovaisuutta",
+    "intro": "Tietyissä väestöryhmissä on kiinnitettävä erityistä huomiota, vaikka tiukkaa vasta-aihetta ei olisikaan."
+  },
+  "genetik": {
+    "title": "Geneettiset tekijät (CYP2D6-polymorfismit)",
+    "label": "Lisääntynyt herkkyys mahdollinen",
+    "intro": "Noin 5-10% Euroopan väestöstä on \"heikkoja aineenvaihduttajia\" CYP2D6:n osalta:",
+    "items": [
+      {
+        "name": "Hitaampi aineenvaihdunta",
+        "text": "Kavalaktonit pysyvät kehossa pidempään"
+      },
+      {
+        "name": "Korkeammat veritasot",
+        "text": "Vahvistettu vaikutus ja haittavaikutukset"
+      },
+      {
+        "name": "Tunnistus",
+        "text": "Epätavallisen voimakas reaktio normaaleihin annoksiin"
+      }
+    ],
+    "recommendationLabel": "Suositus:",
+    "recommendation": "Jos reagoit epätavallisen herkästi Kavaan, geneettinen tekijä voi olla läsnä. Aloita pienemmillä annoksilla."
+  },
+  "alter": {
+    "title": "Iäkkäät ihmiset",
+    "label": "Säädetty annostus suositeltavaa",
+    "intro": "Iäkkäiden ihmisten kohdalla on noudatettava erityistä varovaisuutta:",
+    "items": [
+      {
+        "name": "Vähenneet maksatoiminnot",
+        "text": "Hitaampi aineenvaihdunta iän myötä"
+      },
+      {
+        "name": "Polyfarmasia",
+        "text": "Korkeampi vuorovaikutusriskin mahdollisuus"
+      },
+      {
+        "name": "Kaatumisriski",
+        "text": "Sedaatio voi lisätä kaatumisriskiä"
+      }
+    ],
+    "recommendationLabel": "Suositus:",
+    "recommendation": "Aloita puolella tavallisesta annoksesta ja lisää hitaasti."
+  },
+  "entscheidungshilfe": {
+    "title": "Päätöksenteon apuväline: Onko Kava minulle sopiva?",
+    "selfCheck": {
+      "title": "Itse-tarkistus ennen Kavan käyttöä",
+      "nicht": {
+        "title": "Kava ei ole SOPIVA, jos:",
+        "items": [
+          "Sinulla on tai on ollut maksasairaus",
+          "Olet raskaana tai imetät",
+          "Olet alle 18-vuotias",
+          "Käytät säännöllisesti alkoholia",
+          "Käytät bentsodiatsepiineja tai antipsykoottisia lääkkeitä",
+          "Käytät verenohennuslääkkeitä"
+        ]
+      },
+      "arzt": {
+        "title": "Keskustele lääkärisi kanssa, jos:",
+        "items": [
+          "Sinulla on Parkinsonin tauti",
+          "Kärsit vakavasta masennuksesta",
+          "Käytät säännöllisesti lääkkeitä",
+          "Sinulla on suunniteltu leikkaus",
+          "Olet yli 65-vuotias"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava voi olla sopiva, jos:",
+        "items": [
+          "Olet terve etkä kärsi maksavaivoista",
+          "Et käytä mitään edellä mainituista lääkkeistä",
+          "Et juo alkoholia tai juot vain satunnaisesti",
+          "Olet aikuinen (yli 18-vuotias)",
+          "Et ole raskaana tai imetä"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Yleinen suositus",
+      "text": "Epäselvissä tilanteissa ota yhteyttä lääkäriin tai apteekkihenkilökuntaan ennen Kavan käyttöä, erityisesti jos käytät säännöllisesti lääkkeitä tai sinulla on terveysongelmia."
+    }
+  },
+  "warnzeichen": {
+    "title": "Varoitusmerkit: Milloin sinun tulisi lopettaa heti",
+    "intro": "Lopeta käyttö heti ja hakeudu lääkäriin, jos:",
+    "items": [
+      {
+        "name": "Keltaisuus",
+        "text": "iholla tai silmissä (ikterus)"
+      },
+      {
+        "name": "Tumma virtsa",
+        "text": "(olutvärinen)"
+      },
+      {
+        "name": "Vaalea uloste",
+        "text": "(väritön)"
+      },
+      {
+        "name": "Epätavallinen väsymys",
+        "text": "tai heikkous"
+      },
+      {
+        "name": "Pahoinvointi",
+        "text": "tai ruokahaluttomuus"
+      },
+      {
+        "name": "Kivut",
+        "text": "oikeassa ylävatsassa"
+      }
+    ],
+    "note": "Nämä oireet voivat viitata maksavaivoihin ja vaativat välitöntä lääkärin arviointia."
+  },
+  "quellen": {
+    "title": "Lähteet",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Arviointiraportti Piper methysticum G. Forst., rhizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "Arviointi Kava-tuotteiden hepatotoksisuuden riskistä.",
+        "source": "WHO:n tekninen raportti."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava ja dopamiiniantagonismi.",
+        "source": "Neurologian, neurokirurgian ja psykiatrian aikakauslehti."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: kattava katsaus tehokkuuteen, turvallisuuteen ja psykofarmakologiaan.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "Täydellinen luettelo kaikista viitatusta tutkimuksesta löytyy",
+    "studiesLink": "tutkimussivultamme"
+  }
+}

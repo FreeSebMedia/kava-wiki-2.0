@@ -1,0 +1,139 @@
+{
+  "page": {
+    "title": "Vaikutus & Tehosteet",
+    "subtitle": "Miltä Kava tuntuu? Yksityiskohtainen kuvaus psyykkisistä ja fyysisistä vaikutuksista.",
+    "category": "Vaikutus"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "neurobiologie": "Neurobiologiset Mekanismit",
+    "psyche": "Psyykkinen Vaikutus",
+    "koerper": "Fyysinen Vaikutus",
+    "wirkungstypen": "Päihdyttävä, Raskas & Tasapainoinen",
+    "dauer": "Kesto & Kehitys",
+    "unterseiten": "Yksityiskohtaiset Tiedot"
+  },
+  "intro": {
+    "paragraph1": "Kavaa kutsutaan usein \"luonnolliseksi bentsodiatsepiiniksi\", mutta tämä vertaus on harhaanjohtava. Vaikka se toimii voimakkaasti ahdistusta lievittävästi ja rentouttavasti, se pitää mielen kirkkaana ja keskittyneenä toisin kuin alkoholi tai lääkkeelliset rauhoittavat.",
+    "paragraph2": "Tila kuvataan usein \"aktiiviseksi rentoutumiseksi\": Tuntee itsensä rauhalliseksi ja tyytyväiseksi, mutta on täysin toimintakykyinen ja sosiaalisesti avoin."
+  },
+  "neurobiologie": {
+    "title": "Neurobiologiset Mekanismit",
+    "intro": "Kavan vaikutus perustuu monimutkaiseen vuorovaikutukseen eri mekanismien välillä aivoissa:",
+    "mechanisms": [
+      {
+        "title": "GABA-reseptorin Modulaatio",
+        "description": "Kavalaktonit sitoutuvat GABA-A-reseptoreihin (samalla tavalla kuin diatsepaami), mutta eri sitoutumiskohtaan. Tämä vahvistaa kehon oman välittäjäaineen GABA:n vaikutusta, mikä johtaa rentoutumiseen ja ahdistuksen lievitykseen."
+      },
+      {
+        "title": "Natrium- & Kalsiumkanavan Estäminen",
+        "description": "Tämä vähentää hermosolujen herkkyyttä ja on vastuussa lihaksia rentouttavasta ja kouristuksia estävästä vaikutuksesta."
+      },
+      {
+        "title": "MAO-B Estäminen",
+        "description": "Jotkut kavalaktonit estävät monoamiinioksidaasi-B-entsyymiä, mikä hidastaa dopamiinin hajoamista. Tämä selittää lievästi euforisen ja mielialaa kohottavan vaikutuksen."
+      },
+      {
+        "title": "Noradrenaliinin Uudelleenotto Estäminen",
+        "description": "Edistää keskittymistä ilman hermostuneisuutta."
+      }
+    ]
+  },
+  "psyche": {
+    "title": "Psyykkinen Vaikutus",
+    "positiv": {
+      "title": "Positiivinen",
+      "items": [
+        "Voimakas ahdistuksen lievitys (anxiolyysi)",
+        "Mielialan kohottaminen & Euforia",
+        "Lisääntynyt sosiaalisuus & Puheliaisuus",
+        "Mielentila & Keskittyminen",
+        "Stressin vähentäminen & Rauhallisuus",
+        "Kärsivällisyys & Hyväksyntä"
+      ]
+    },
+    "neutral": {
+      "title": "Neutraali / Negatiivinen (ylipitoisuudessa)",
+      "items": [
+        "Väsyneisyys (raskaat lajikkeet)",
+        "Välinpitämättömyys",
+        "Kevyet koordinaatiohäiriöt",
+        "Pahoinvointi (Kava-pahoinvointi)"
+      ]
+    }
+  },
+  "koerper": {
+    "title": "Fyysinen Vaikutus",
+    "paragraph1": "Hyvän Kava-vaikutuksen ensimmäinen merkki on usein <strong>puutuminen suussa</strong> (kavalaktonien paikallispuuduttava vaikutus).",
+    "paragraph2": "Tämän jälkeen seuraa rentoutumisen aalto, joka alkaa usein raajoista. Lihasjännitykset hellittävät, keho tuntuu \"raskaalta\" ja miellyttävältä. Kivut (esim. selkäkipu) voivat lievittyä."
+  },
+  "wirkungstypen": {
+    "title": "Päihdyttävä, Raskas & Tasapainoinen",
+    "intro": "Kaikki Kava ei vaikuta samalla tavalla. Kemotyypin mukaan erotellaan kolme pääkategoriaa:",
+    "types": [
+      {
+        "name": "Heady",
+        "label": "Päihdyttävä & Sosiaalinen",
+        "description": "Hallitseva kavaini. Vaikuttaa mielialaa kohottavasti, euforisesti ja puheliaasti. Ihanteellinen päivällä tai sosiaalisissa tilaisuuksissa. Ei juuri väsyttä.",
+        "examples": "Pouni Ono (Tonga), Kelai (Vanuatu), Moi (Hawaii)"
+      },
+      {
+        "name": "Heavy",
+        "label": "Kehopainotteinen & Rauhoittava",
+        "description": "Hallitseva dihydrokavaini ja metystitsiini. Vaikuttaa voimakkaasti lihaksia rentouttavasti ja unta edistävästi. Keho tuntuu raskaalta (\"sohvalla lukitseminen\"). Ihanteellinen iltaisin.",
+        "examples": "Borogu (Vanuatu), Ambae (Vanuatu)"
+      },
+      {
+        "name": "Balanced",
+        "label": "Tasapainoinen",
+        "description": "Sekoitus molemmista. Aloittaa usein \"Heady\" ja siirtyy sitten fyysiseen rentoutumiseen.",
+        "examples": "Melo Melo (Vanuatu), Loa Waka (Fiji)"
+      }
+    ]
+  },
+  "dauer": {
+    "title": "Kesto & Kehitys",
+    "items": [
+      {
+        "label": "Alku",
+        "value": "10-20 minuuttia nauttimisen jälkeen (tyhjään vatsaan)."
+      },
+      {
+        "label": "Huippu",
+        "value": "Noin 30-60 minuutin kuluttua."
+      },
+      {
+        "label": "Kesto",
+        "value": "Päävaikutus kestää noin 2-3 tuntia. Hieman huomaamaton rentoutuminen (\"Afterglow\") voi kestää jopa 6-8 tuntia."
+      },
+      {
+        "label": "Uni",
+        "value": "Kava edistää syvää, virkistävää unta ilman \"krapulaa\" seuraavana aamuna. Monet käyttäjät raportoivat erityisen raikkaasta heräämisestä."
+      }
+    ]
+  },
+  "subpages": {
+    "title": "Yksityiskohtaiset Tiedot",
+    "intro": "Napsauta alla olevia kortteja saadaksesi lisätietoja eri vaikutusalueista – tieteellisin taustatiedoin, suositelluilla kemotyypeillä ja käytännön sovellustiedoilla.",
+    "angst": {
+      "title": "Ahdistuksen lievitys",
+      "description": "Kuinka Kava lievittää ahdistusta ja toimii luonnollisena anksiolyyttinä"
+    },
+    "schlaf": {
+      "title": "Uni & Rentoutuminen",
+      "description": "Rauhoittavat vaikutukset ja käyttö unihäiriöissä"
+    },
+    "muskel": {
+      "title": "Lihasten Rentoutuminen",
+      "description": "Fyysinen rentoutuminen ja jännitysten lievitys"
+    },
+    "stimmung": {
+      "title": "Mieliala & Sosiaalisuus",
+      "description": "Euforisoivat vaikutukset ja Kavan sosiaalinen vaikutus"
+    },
+    "kognition": {
+      "title": "Kognitiiviset Vaikutukset",
+      "description": "Keskittyminen, mielentila ja käänteisen toleranssin ilmiö"
+    }
+  }
+}

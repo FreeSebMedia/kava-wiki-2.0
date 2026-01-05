@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Vuorovaikutustarkistin",
+    "subtitle": "Tarkista mahdolliset vuorovaikutukset lääkkeidesi ja Kavan välillä",
+    "category": "Turvallisuus",
+    "breadcrumbs": {
+      "home": "Etusivu",
+      "sicherheit": "Turvallisuus",
+      "wechselwirkungen": "Vuorovaikutukset",
+      "current": "Vuorovaikutustarkistin"
+    }
+  },
+  "toc": {
+    "title": "Sisältö",
+    "checker": "Vuorovaikutustarkistin",
+    "anleitung": "Ohjeet",
+    "kategorien": "Riskiluokat",
+    "haeufige": "Usein tarkastetut lääkkeet",
+    "hinweis": "Tärkeä huomautus"
+  },
+  "ui": {
+    "disclaimerTitle": "Tärkeä huomautus",
+    "disclaimerText": "Tämä tarkistin on vain tiedoksi eikä korvaa lääkärin neuvontaa. Epäselvissä tapauksissa tai jos käytät reseptilääkkeitä, ota aina yhteyttä lääkäriin tai apteekkariin.",
+    "inputTitle": "Syötä lääkkeet",
+    "inputDescription": "Syötä lääkkeidesi nimet (vaikuttava aine tai kauppanimi)",
+    "placeholder": "esim. Diazepam, Ibuprofeeni, Sertraliini...",
+    "selectedMeds": "Valitut lääkkeet:",
+    "checkButton": "Tarkista vuorovaikutukset",
+    "commonCategories": "Yleiset lääkeryhmät",
+    "overallAssessment": "Yhteenvartio",
+    "detailedAnalysis": "Yksityiskohtainen analyysi",
+    "category": "Kategoria",
+    "mechanism": "Mekanismi",
+    "affectedEnzymes": "Vaikuttavat CYP-entsyymit",
+    "recommendation": "Suositus",
+    "newCheck": "Uusi tarkistus",
+    "moreAbout": "Lisätietoja vuorovaikutuksista",
+    "moreInfo": "Lisätietoja",
+    "liverSafety": "Maksaturvallisuus & Hepatotoksisuus",
+    "contraindications": "Vasta-aiheet",
+    "safetyOverview": "Turvallisuus & Terveys Yhteenveto",
+    "studies": "Tieteelliset tutkimukset"
+  },
+  "intro": {
+    "title": "Lääkkeiden tarkistus",
+    "text": "Syötä lääkkeesi tai vaikuttavan aineen nimi tarkistaaksesi mahdolliset vuorovaikutukset Kavan kanssa."
+  },
+  "search": {
+    "placeholder": "Syötä lääke tai vaikuttava aine...",
+    "button": "Tarkista",
+    "noResults": "Tällä nimellä ei löytynyt lääkettä. Tarkista kirjoitusasu tai ota yhteyttä lääkäriin."
+  },
+  "result": {
+    "risk": "Riskitaso",
+    "mechanism": "Mekanismi",
+    "recommendation": "Suositus",
+    "alternatives": "Mahdolliset vaihtoehdot"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "ERITTÄIN KORKEA RISKI",
+      "description": "Tiukasti vasta-aiheinen - yhdistelmää ei koskaan tule käyttää"
+    },
+    "high": {
+      "label": "KORKEA RISKI",
+      "description": "Yhdistelmää tulee välttää - merkittäviä terveysriskejä mahdollisesti"
+    },
+    "moderate": {
+      "label": "KOHTALAINEN RISKI",
+      "description": "Varovaisuutta noudatettava - vain lääkärin valvonnassa"
+    },
+    "low": {
+      "label": "MATALA RISKI",
+      "description": "Todennäköisesti turvallinen normaalissa käytössä"
+    },
+    "none": {
+      "label": "EI TUNNETTUJA RISKEJÄ",
+      "description": "Ei tunnettuja vuorovaikutuksia dokumentoitu"
+    }
+  },
+  "anleitung": {
+    "title": "Näin käytät tarkistinta",
+    "steps": [
+      "Syötä lääkkeesi tai vaikuttavan aineen nimi",
+      "Napsauta \"Tarkista\" tai paina Enter",
+      "Lue riskinarviointi ja suositukset",
+      "Epäselvissä tapauksissa ota aina yhteyttä lääkäriin tai apteekkariin"
+    ]
+  },
+  "kategorien": {
+    "title": "Riskiluokat selitetty",
+    "high": {
+      "title": "Korkea riski",
+      "text": "Yhdistelmää tulee välttää kaikissa olosuhteissa. Vakavia haittavaikutuksia mahdollisesti."
+    },
+    "moderate": {
+      "title": "Kohtalainen riski",
+      "text": "Yhdistelmää vain lääkärin valvonnassa. Annoksen säätö voi olla tarpeen."
+    },
+    "low": {
+      "title": "Matala riski",
+      "text": "Yhdistelmä todennäköisesti turvallinen, mutta yksilölliset reaktiot huomioitava."
+    },
+    "unknown": {
+      "title": "Tuntematon",
+      "text": "Ei riittäviä tietoja saatavilla. Varovaisuutta suositellaan."
+    }
+  },
+  "haeufige": {
+    "title": "Usein tarkastetut lääkkeet",
+    "clickToCheck": "Napsauta lääkettä tarkistaaksesi sen:"
+  },
+  "hinweis": {
+    "title": "Tärkeä huomautus",
+    "text": "Tämä tarkistin on vain yleistä tietoa varten eikä korvaa lääkärin neuvontaa. Tietokanta ei ole täydellinen ja sitä päivitetään jatkuvasti. Epäselvissä tapauksissa ota aina yhteyttä lääkäriin tai apteekkariin.",
+    "disclaimer": "Tiedot perustuvat tieteelliseen kirjallisuuteen ja tunnettuun vuorovaikutusmekanismiin. Yksilölliset reaktiot voivat vaihdella."
+  },
+  "navigation": {
+    "continueTitle": "Jatka turvallisuusluvussa",
+    "items": [
+      {
+        "title": "Yhteenveto",
+        "href": "/fi/turvallisuus",
+        "description": "Takaisin turvallisuuden yhteenvetoon"
+      },
+      {
+        "title": "Vuorovaikutukset",
+        "href": "/fi/turvallisuus/vuorovaikutukset",
+        "description": "Yksityiskohtaisia tietoja vuorovaikutuksista"
+      },
+      {
+        "title": "Vasta-aiheet",
+        "href": "/fi/turvallisuus/vasta-aiheet",
+        "description": "Milloin Kavaa ei tulisi käyttää"
+      }
+    ]
+  }
+}

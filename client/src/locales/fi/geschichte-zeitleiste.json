@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "Kavan historia",
+    "subtitle": "Matka 5 000 vuoden Kava-historiaan – kotieläinjalostuksesta Melanesiaan nykyaikaisen maailman globaaliin leviämiseen.",
+    "category": "Historia"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "geschichte": "Historia",
+    "zeitleiste": "Aikajana"
+  },
+  "ui": {
+    "filter": "Suodata",
+    "allEpochs": "Kaikki aikakaudet",
+    "readMore": "Lue lisää",
+    "loading": "Ladataan..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Esihistoria & Kesyttämistä",
+      "description": "Kavan kulttuurin alkuvaiheet Melanesian alueella"
+    },
+    "classical": {
+      "name": "Klassinen Tyynenmeren aikakausi",
+      "description": "Leviäminen austronesialaisen laajentumisen myötä"
+    },
+    "colonial": {
+      "name": "Koloniaalikausi",
+      "description": "Eurooppalainen kontakti ja lähetystyö"
+    },
+    "modern": {
+      "name": "Moderni aikakausi",
+      "description": "Tieteellinen tutkimus ja dekolonisaatio"
+    },
+    "contemporary": {
+      "name": "Nykyisyys",
+      "description": "Globaalinen leviäminen ja kulttuurinen renessanssi"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Alkuperä & Kesyttäminen",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Levinneisyys Tyynellämerellä",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Kolonialismin Aika",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Tiede & Tutkimus",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Moderni Aika",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Nykyhetki",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "noin 3000 eKr.",
+      "title": "Kavan kesyttäminen",
+      "description": "Papua-Uuden-Guinean ja Vanuatun sademetsissä alkaa Piper wichmannii -kasvin kesyttäminen viljellyksi Kava-kasviksi (Piper methysticum).",
+      "details": "Valikoivan jalostuksen ja vegetatiivisen lisääntymisen kautta syntyvät ensimmäiset Noble Kava -lajikkeet, joilla on korkeampi kavalaktonipitoisuus ja alhaisempi toksisuus kuin villillä alkuperäisellä muodolla.",
+      "location": "Papua-Uuden-Guinea / Vanuatu",
+      "links": [
+        {
+          "label": "Kasvi",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Alkuperät",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "noin 2500 eKr.",
+      "title": "Ensimmäiset Kava-seremoniat Vanuatulla",
+      "description": "Vanuatun saarilla kehittyvät ensimmäiset rituaaliset Kava-seremoniat. Nakamalista tulee keskeinen kokoontumispaikka.",
+      "details": "Juuri nuorten miesten perinteeksi vakiintuu juurien pureskelu. Kava toimii viestintävälineenä esi-isien ja henkien kanssa.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Seremoniat",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "noin 1500–1000 eKr.",
+      "title": "Lapita-laajentuminen",
+      "description": "Lapita-kulttuuri levittää Kavaa merellisen laajentumisensa myötä Melanesian alueelta Länsi-Polynesiaan.",
+      "details": "Lapita-keramiikan arkeologiset löydöt osoittavat leviämisreittejä. Kava-kasveja kuljetetaan pistokkaina kanootteihin.",
+      "location": "Melanesia → Polynesia"
+    },
+    "fiji-arrival": {
+      "year": "noin 1000 eKr.",
+      "title": "Kava saapuu Fijille",
+      "description": "Kava tuodaan Fijille ja se tunnetaan nimellä 'Yaqona'. Ainulaatuiset seremoniat kehittyvät Tanoa (Kava-astia) ympärille.",
+      "details": "Alun perin Kava valmistettiin Fijillä jauhamalla, ei pureskelemalla. Yhteys esi-isien kunnioittamiseen Būraussa (miesten taloissa) vakiintuu.",
+      "location": "Fiji",
+      "links": [
+        {
+          "label": "Fiji-seremoniat",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Tyynenmeren lajikkeet",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "noin 500 eKr.",
+      "title": "Kava Tongan ja Samoan alueella",
+      "description": "'Ava-seremonia kehittyy Tongassa ja Samoalla korkeasti formalisoituneeksi perinteeksi tiukalla hierarkialla.",
+      "details": "Tou'a (Kava-sekoittaja) ja Matāpule (seremoniamestari) nousevat tärkeiksi rituaalisiksi rooleiksi. Juomajärjestys heijastaa sosiaalista järjestystä.",
+      "location": "Tonga / Samoa",
+      "links": [
+        {
+          "label": "'Ava-seremonia",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "noin 300–500 jKr.",
+      "title": "Kava saapuu Hawaiiin",
+      "description": "Polynesialaiset merimiehet tuovat Kavaa Hawaiiin, jossa se tunnetaan nimellä 'Awa' ja liitetään jumalattareen Hinaan.",
+      "details": "Hawaiilla kehittyy ainutlaatuinen Kava-kulttuuri, joka liittyy Kahuna (pappien) parannusrituaaleihin. 'Awa Hiwa -lajike varataan seremoniallisia tarkoituksia varten.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Hawaii-lajikkeet",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "noin 500 jKr.",
+      "title": "Sakau-kulttuuri Pohnpeillä",
+      "description": "Pohnpeillä Mikronesian alueella Sakau-seremonia kehittyy itsenäiseksi perinteeksi.",
+      "details": "Valmistus matalalla kivellä ja hibiskuskuorten puristaminen ovat tyypillisiä mikronesialaiselle Kava-kulttuurille.",
+      "location": "Pohnpei (Mikronesia)"
+    },
+    "fiji-tongan-influence": {
+      "year": "noin 1750",
+      "title": "Tongan vaikutus Fijille",
+      "description": "Fiji omaksuu tongalaisia Kava-seremonioita: pureskelu, Tanoa-astiat ja Bilo-mukit tulevat standardiksi.",
+      "details": "Sevusevu-seremonia muodollisena tervehtimisenä vakiintuu. Kristilliset lähetyssaarnaajat suosivat 'sivistyneempiä' polynesialaisia seremonioita.",
+      "location": "Fiji"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "Ensimmäinen eurooppalainen kontakti",
+      "description": "Alankomaalaiset merimiehet Jacob Le Maire ja Willem Schouten saavuttavat Tyynenmeren saarten ja dokumentoivat ensimmäistä kertaa Kavan.",
+      "details": "Eurooppalaiset kuvaavat paikallisten 'outoa juomaa', mutta eivät ymmärrä sen kulttuurista merkitystä.",
+      "location": "Tyynimeri"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Kapteeni Cookin dokumentaatio",
+      "description": "James Cook dokumentoi Kava-seremonioita yksityiskohtaisesti Tyynenmeren matkoillaan ja tuo näytteitä Eurooppaan.",
+      "details": "Cookin raportit 'Ava-seremoniasta Tongassa ja Hawaiiilla herättävät tieteellistä kiinnostusta Euroopassa. Kasvitieteilijä Johann Georg Forster kuvaa kasvin ensimmäistä kertaa tieteellisesti.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Historia",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Tieteellinen luokittelu",
+      "description": "Johann Georg Forster luokittelee Kavan Piper methysticumiksi ('huumaava pippurikasvi').",
+      "details": "Nimi juontaa juurensa kreikan 'methystikos' (huumaava) sanasta. Forster kuvaa kasvin teoksessaan 'De Plantis Esculentis Insularum Oceani Australis'.",
+      "location": "Eurooppa",
+      "links": [
+        {
+          "label": "Kasvitiede",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Lähetyssaarnaajien vastustus",
+      "description": "Kristilliset lähetyssaarnaajat taistelevat Kavaa vastaan 'pakanallisena' juomana. Joillakin alueilla seremonioita kielletään.",
+      "details": "Lähetyssaarnaajat kritisoivat pureskelua epähygieeniseksi ja seremonioita 'laiskoiksi, rappeutuviksi, jopa demoniseksi'. Itä-Futunalla pureskelu lopetetaan vuonna 1930 lähetyssaarnaajien määräyksestä.",
+      "location": "Tyynimeri",
+      "links": [
+        {
+          "label": "Kolonialaiset vaikutukset",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "Kavalaktonien löytö",
+      "description": "Saksalaiset kemistit eristävät ensimmäistä kertaa Kavan aktiiviset aineet ja nimeävät ne 'Kavainiksi'.",
+      "details": "Löytö luo perustan Kavan vaikutuksen tieteelliselle tutkimukselle ja myöhemmille lääketieteellisille sovelluksille.",
+      "location": "Saksa",
+      "links": [
+        {
+          "label": "Kavalaktonit",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Saksalainen kolonialisointi",
+      "description": "Saksa hallitsee osia Tyynestä merestä (Saksalainen Uusi-Guinea, Samoa). Kavaa tutkitaan tieteellisesti.",
+      "details": "Saksalaiset tutkijat dokumentoivat Kava-lajikkeita ja valmistusmenetelmiä. Siirtomaahallinto sietää Kavan kulutusta laajalti.",
+      "location": "Saksalainen Uusi-Guinea / Samoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Louis Lewinin tutkimus",
+      "description": "Saksalainen toksikologi Louis Lewin julkaisee kattavia tutkimuksia Kavasta ja luokittelee sen 'Euphorica'-luokkaan.",
+      "details": "Lewinin teos 'Phantastica' tulee psykofarmakologian standarditeokseksi. Hän kuvaa Kavaa yhdeksi ihmiskunnan tärkeimmistä nautintoaineista.",
+      "location": "Saksa"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Itsenäisyys & kulttuurinen renessanssi",
+      "description": "Tyynenmeren valtiot saavuttavat itsenäisyyden. Kava palaa kulttuurisen identiteetin symbolina julkiseen tilaan.",
+      "details": "Samoa (1962), Fiji (1970), Tonga (1970), Vanuatu (1980) saavat itsenäisyyden. Kava-seremonioita juhlitaan valtioiden perustamisissa ja virallisissa tilaisuuksissa.",
+      "location": "Tyynimeri",
+      "links": [
+        {
+          "label": "Moderni historia",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu itsenäistyy",
+      "description": "Vanuatu saavuttaa itsenäisyyden ranskalais-brittiläisestä kolonialisoinnista. Kava tulee kansalliseksi symboliksi.",
+      "details": "Uusi kansakunta tekee Kavasta osan identiteettiään. Nakamalit muuttuvat tärkeiksi sosiaalisiksi instituutioiksi Port Vilassa ja muissa kaupungeissa.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "1990-luku",
+      "title": "Kliiniset tutkimukset ahdistuksesta",
+      "description": "Ensimmäiset kontrolloidut kliiniset tutkimukset osoittavat Kava-uuteiden ahdistusta lievittävän vaikutuksen.",
+      "details": "Meta-analyysit vahvistavat Kavan tehokkuuden ahdistuneisuushäiriöissä. Kava-valmisteet tulevat Euroopassa ja Yhdysvalloissa suosituiksi kasvilääkkeinä.",
+      "location": "Eurooppa / Yhdysvallat",
+      "links": [
+        {
+          "label": "Tutkimukset",
+          "url": "/studien"
+        },
+        {
+          "label": "Vaikutus ahdistukseen",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990-luku",
+      "title": "Ensimmäiset Kava-baari Yhdysvalloissa",
+      "description": "Floridassa ja Kaliforniassa avataan ensimmäiset länsimaailman Kava-baarit alkoholittomana vaihtoehtona.",
+      "details": "Kava-baari -liike alkaa kaupungeissa, joissa on Tyynenmeren diasporaa. Fort Lauderdaleista tulee amerikkalaisen Kava-kulttuurin keskus.",
+      "location": "Yhdysvallat (Florida)",
+      "links": [
+        {
+          "label": "Moderni Kava-kulttuuri",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal & Kava-baarit",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Kava-kielto Saksassa",
+      "description": "Saksa kieltää Kava-valmisteet raporttien jälkeen maksavaurioista. Muut EU-maat seuraavat perässä.",
+      "details": "BfArM peruuttaa kaikkien Kava-pitoisten lääkkeiden hyväksynnän. Päätös perustuu 30 epäilytapaukseen hepatotoksisuudesta, mutta myöhemmin sitä kritisoidaan liioitelluksi.",
+      "location": "Saksa / EU",
+      "links": [
+        {
+          "label": "Maksaturvallisuus",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Oikeudellinen status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Vanuatun Noble-vain vientipolitiikka",
+      "description": "Vanuatu ottaa käyttöön tiukat vientiohjeet: vain Noble Kava -lajikkeita saa viedä.",
+      "details": "Politiikan tavoitteena on varmistaa laatu ja suojella Kavan mainetta. Tudei-lajikkeet, joilla on korkeampi DHM/DHK-pitoisuus, suljetaan viennistä pois.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Noble vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Vanuatun lajikkeet",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "WHO:n riskinarviointi",
+      "description": "WHO julkaisee kattavan riskinarvioinnin ja luokittelee perinteisesti valmistetun Kavan turvalliseksi.",
+      "details": "Arviointi erottelee perinteisen valmistuksen (turvallinen) ja uutteet (mahdollisesti ongelmalliset). Ei-juuriosien käyttö tunnistetaan riskitekijäksi.",
+      "location": "Kansainvälinen",
+      "links": [
+        {
+          "label": "Turvallisuus",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Rehabilitaatio Saksassa",
+      "description": "Saksalaiset tuomioistuimet kumoavat Kava-kielon. Alkuperäinen päätös luokitellaan tieteellisesti perusteettomaksi.",
+      "details": "Liittovaltion hallintotuomioistuin toteaa, että riskinarviointi oli virheellinen. Kava-tuotteita voidaan jälleen myydä laillisesti.",
+      "location": "Saksa",
+      "links": [
+        {
+          "label": "Oikeudellinen status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Codex Alimentarius -standardi",
+      "description": "Codex Alimentarius hyväksyy kansainvälisen standardin Kavalle juomana.",
+      "details": "Standardi määrittelee laatuvaatimuksia, kavalaktonin raja-arvoja ja merkintävaatimuksia. Virstanpylväs kansainväliselle kaupalle.",
+      "location": "Kansainvälinen"
+    },
+    "global-expansion": {
+      "year": "2020-luku",
+      "title": "Kava-baareiden globaali laajentuminen",
+      "description": "Yli 200 Kava-baari avataan Yhdysvalloissa. 'Sober Curious' -liike edistää kasvua.",
+      "details": "Kava tulee alkoholittomaksi vaihtoehdoksi sosiaaliseen rentoutumiseen. Kaupungit kuten Austin, Denver ja New York kehittävät vilkasta Kava-kulttuuria.",
+      "location": "Yhdysvallat / Eurooppa / Australia",
+      "links": [
+        {
+          "label": "Moderni Kava-kulttuuri",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020-luku",
+      "title": "Ilmastonmuutoksen haasteet",
+      "description": "Tyynenmeren Kava-farmerit taistelevat ilmastonmuutoksen vaikutuksia vastaan satoihinsa.",
+      "details": "Muuttuvat sademäärät, syklonit ja nousevat lämpötilat uhkaavat perinteisiä viljelyalueita. Kestävä viljelytapa tulee tärkeämmäksi.",
+      "location": "Tyynimeri",
+      "links": [
+        {
+          "label": "Viljely",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "Tänään",
+      "title": "Kulttuurinen renessanssi",
+      "description": "Nuoret Tyynenmeren sukupolvet perustavat 'Kava-collectiveja' ja dokumentoivat perinteistä tietoa digitaalisesti.",
+      "details": "Podcastit, YouTube-kanavat ja Instagram-tilit levittävät Kava-kulttuuria ympäri maailmaa. Perinteen ja modernin yhdistäminen luo uusia kulttuurisen identiteetin muotoja.",
+      "location": "Tyynimeri / Globaali",
+      "links": [
+        {
+          "label": "Kulttuuri & Perinne",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Yhteenveto",
+    "events": "Tapahtumat",
+    "epochs": "Aikakaudet",
+    "yearsOfHistory": "Vuodet historiassa",
+    "milestones": "Virstanpylväät",
+    "keyMilestones": "Keskeiset virstanpylväät",
+    "relatedPages": "Liittyvät sivut",
+    "noEventsFound": "Näille suodattimille ei löytynyt tapahtumia.",
+    "resetFilters": "Nollaa suodattimet",
+    "bce": "eKr",
+    "origins": "Alkuperät",
+    "spreadPacific": "Leviäminen Tyynellämerellä",
+    "modernHistory": "Nykyhistoria",
+    "interactiveMap": "Interaktiivinen maailmankartta"
+  }
+}

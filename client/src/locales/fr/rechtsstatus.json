@@ -1,0 +1,297 @@
+{
+  "page": {
+    "title": "Statut juridique & Légalité",
+    "subtitle": "Une analyse juridique détaillée de la situation en Allemagne et dans l'UE",
+    "category": "Droit"
+  },
+  "toc": {
+    "novel-food-status": "Le statut Novel Food",
+    "situation-deutschland": "Situation en Allemagne",
+    "arzneimittel-vs-lebensmittel": "Médicaments vs. Aliments",
+    "eu-rechtslage": "La législation de l'UE",
+    "downloads": "Téléchargement d'avis juridiques",
+    "faq": "Questions Fréquemment Posées (FAQ)",
+    "fazit": "Conclusion & Recommandation"
+  },
+  "intro": {
+    "lead": "La situation juridique de Kava (<em>Piper methysticum</em>) en Europe est complexe et souvent mal comprise. Selon l'évaluation juridique actuelle, Kava n'est <strong>pas un Novel Food</strong> en Allemagne et dans l'UE et peut donc être commercialisé, à condition qu'il ne soit pas commercialisé en tant que médicament.",
+    "alertTitle": "Découverte importante",
+    "alertText": "Kava a été consommé dans l'UE en quantité significative avant le 15 mai 1997. Il ne tombe donc <strong>pas</strong> sous le règlement Novel Food (UE) 2015/2283 et ne nécessite pas d'approbation en tant que nouvel aliment."
+  },
+  "novelFood": {
+    "title": "Le statut Novel Food",
+    "p1": "La question cruciale pour la commercialisation de Kava en tant qu'aliment ou complément alimentaire dans l'UE est de savoir s'il est classé comme \"nouvel aliment\" (Novel Food). Le règlement Novel Food définit tous les aliments comme nouveaux s'ils n'ont pas été utilisés de manière significative dans l'UE pour la consommation humaine avant le <strong>15 mai 1997</strong>.",
+    "p2": "Un avis juridique récent conclut sans équivoque : <strong>Kava n'est pas un Novel Food.</strong>"
+  },
+  "cards": {
+    "historicalEvidence": {
+      "title": "Preuves historiques",
+      "items": [
+        {
+          "label": "Approbation de médicament avant 1997 :",
+          "text": "Kava était déjà officiellement approuvé en Allemagne longtemps avant 1997 (Monographie de la Commission E 1990)."
+        },
+        {
+          "label": "Présence sur le marché :",
+          "text": "Au moins 24 entreprises pharmaceutiques vendaient déjà des extraits de Kava en Europe avant 1997 (Source : ETC Group)."
+        },
+        {
+          "label": "Diffusion :",
+          "text": "Des produits comme \"Antares\" ou \"Kavasporal forte\" étaient largement disponibles et en vente libre."
+        }
+      ]
+    },
+    "legalConsequence": {
+      "title": "Conséquence légale",
+      "items": [
+        {
+          "label": "Pas d'obligation d'approbation :",
+          "text": "Puisque Kava n'est pas un Novel Food, il n'a pas besoin de passer par un long processus d'approbation."
+        },
+        {
+          "label": "Commercialisation :",
+          "text": "Les produits à base de Kava peuvent être légalement vendus en tant qu'aliments ou compléments alimentaires."
+        },
+        {
+          "label": "Charge de la preuve :",
+          "text": "Les autorités devraient prouver que Kava n'a <em>pas</em> été consommé – ce qui est impossible compte tenu des faits historiques."
+        }
+      ]
+    }
+  },
+  "germany": {
+    "title": "La situation en Allemagne",
+    "intro": "L'Allemagne a une histoire particulière concernant Kava. Le développement peut être divisé en trois phases :",
+    "phases": [
+      {
+        "title": "Phase 1 : L'âge d'or (jusqu'en 2001)",
+        "text": "Kava était un remède à base de plantes populaire et reconnu. La Commission E (BfArM) a confirmé en 1990 son efficacité contre les troubles anxieux. Il y avait de nombreux préparations autorisées dans les pharmacies et les drogueries."
+      },
+      {
+        "title": "Phase 2 : L'interdiction (2002–2014)",
+        "text": "En raison de cas suspects de dommages hépatiques (qui ont ensuite été jugés douteux), le BfArM a révoqué en 2002 les autorisations pour les médicaments à base de Kava. Cela a conduit à une interdiction de facto sur le marché."
+      },
+      {
+        "title": "Phase 3 : L'abrogation (à partir de 2014/2019)",
+        "text": "Les tribunaux ont déclaré l'interdiction générale illégale. En 2019, la révocation des autorisations a été annulée définitivement. Aujourd'hui, il est clair que l'interdiction concernait les <em>médicaments</em>. En tant qu'<em>aliment</em> (en tenant compte du statut non Novel Food), Kava n'a jamais été explicitement interdit."
+      }
+    ],
+    "distinction": {
+      "title": "Distinction : Médicaments vs. Aliments",
+      "p1": "Un aspect juridique important est la distinction. Kava ne peut pas être vendu en Allemagne en tant que médicament sans une autorisation appropriée (que peu de fabricants demandent actuellement). Il est donc commercialisé en tant que <strong>aliment</strong>, <strong>complément alimentaire</strong> ou <strong>ingrédient</strong>.",
+      "p2": "Les commerçants ne doivent pas faire d'allégations liées à la santé (\"aide contre les troubles anxieux\"), car cela ferait de ce produit un médicament à présenter. En revanche, les déclarations concernant la relaxation générale ou la tradition doivent être évaluées dans le cadre de la législation alimentaire."
+    }
+  },
+  "eu": {
+    "title": "La législation de l'UE",
+    "intro": "Au niveau de l'UE, il n'existe pas d'interdiction centrale de Kava. Cependant, la réglementation est inégale. La carte suivante donne un aperçu de la situation actuelle dans différents pays européens :",
+    "table": {
+      "headers": {
+        "country": "Pays",
+        "status": "Statut",
+        "details": "Détails"
+      },
+      "rows": [
+        {
+          "country": "Allemagne",
+          "status": "Légal",
+          "details": "Commercialisable en tant qu'aliment/complément alimentaire (pas un Novel Food). Statut de médicament possible, mais rare."
+        },
+        {
+          "country": "Pologne",
+          "status": "Légal",
+          "details": "L'ancienne interdiction a été explicitement levée en 2018. Kava est librement disponible."
+        },
+        {
+          "country": "Royaume-Uni",
+          "status": "Restreint",
+          "details": "Vente pour la consommation humaine officiellement encore restreinte, possession et importation pour usage personnel souvent tolérées."
+        },
+        {
+          "country": "France",
+          "status": "Zone grise",
+          "details": "Interprétation stricte des lois sur les médicaments, mais pas de blocage explicite sur les Novel Foods."
+        }
+      ]
+    }
+  },
+  "conclusion": {
+    "title": "Conclusion & Recommandation",
+    "text": "La panique juridique des années 2000 est désormais dépassée sur le plan scientifique et juridique. Kava est légalement disponible en Allemagne et dans de nombreuses parties de l'UE. Cependant, les consommateurs devraient veiller à acheter du <strong>Noble Kava</strong> auprès de commerçants certifiés pour garantir qualité et sécurité.",
+    "disclaimerTitle": "Avertissement légal",
+    "disclaimerText": "Ces informations ne constituent pas un conseil juridique. La législation peut changer. Nous recommandons aux commerçants et aux importateurs de se faire conseiller juridiquement avant de procéder à des transactions commerciales."
+  },
+  "sources": {
+    "title": "Sources & Références",
+    "items": [
+      "Avis juridique sur la classification de Kava en tant que Novel Food (2025), GFY Babilon LLP",
+      "Monographie de la Commission E, Bulletin fédéral n° 101 du 1.6.1990",
+      "ETC Group : \"The Kava Boom\", RAFI Communique, 1996/1997",
+      "Tribunal administratif de Cologne, jugements sur l'annulation des décisions de révocation",
+      "Règlement (UE) 2015/2283 concernant les nouveaux aliments"
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées sur la Légalité (FAQ)",
+    "items": [
+      {
+        "question": "Puis-je commander Kava des États-Unis ?",
+        "answer": "<p class=\"mb-2\"><strong>En principe oui, mais avec prudence.</strong> Étant donné que Kava n'est pas classé comme stupéfiant en Allemagne, l'importation pour un usage personnel n'est pas punissable au sens de la loi sur les stupéfiants (BtMG).</p><p>Cependant, les douanes peuvent intercepter l'envoi s'il existe des soupçons qu'il s'agit d'un médicament non autorisé. Dans ce cas, l'envoi est généralement renvoyé à l'expéditeur ou détruit. Il est donc conseillé de commander auprès de commerçants européens qui ont déjà introduit la marchandise dans l'UE.</p>"
+      },
+      {
+        "question": "La possession de Kava est-elle illégale ?",
+        "answer": "<p><strong>Non.</strong> La possession de poudre de racine de Kava est légale en Allemagne et dans la plupart des pays de l'UE. Kava ne relève pas de la loi sur les stupéfiants (BtMG). C'est une substance végétale légale.</p>"
+      },
+      {
+        "question": "Pourquoi Kava n'est-il pas disponible en pharmacie ?",
+        "answer": "<p class=\"mb-2\">Après l'interdiction de 2002 (qui a été levée en 2014/2015), de nombreux fabricants pharmaceutiques n'ont pas renouvelé leurs autorisations, car la procédure est coûteuse et complexe.</p><p>Actuellement, il existe peu de médicaments à base de Kava autorisés en Allemagne. Kava est donc principalement disponible en tant que matière première (par exemple, en tant que \"additif de bain\" ou matériel d'ethnobotanique) ou dans certains cas en tant que complément alimentaire (dans d'autres pays de l'UE).</p>"
+      },
+      {
+        "question": "Puis-je emporter Kava dans l'avion ?",
+        "answer": "<p class=\"mb-2\">Au sein de l'UE, cela est généralement sans problème, tant qu'il s'agit de quantités pour un usage personnel.</p><p>Pour les voyages en dehors de l'UE (par exemple, vers l'Australie, la Nouvelle-Zélande ou les États-Unis), vous devez vérifier les réglementations d'importation en vigueur. Dans certains pays (par exemple, Singapour, Japon), des règles plus strictes peuvent s'appliquer. Renseignez-vous auprès de l'ambassade concernée avant de partir.</p>"
+      },
+      {
+        "question": "Kava est-il un \"Novel Food\" ?",
+        "answer": "<p class=\"mb-2\"><strong>Selon l'opinion juridique dominante : Non.</strong></p><p>Un \"Novel Food\" est un aliment qui n'a pas été consommé de manière significative dans l'UE avant le 15 mai 1997. Cependant, Kava était déjà présent en Europe longtemps avant cette date limite (également en tant qu'aliment/produit de consommation dans les magasins de produits naturels) et en tant que médicament, le règlement Novel Food ne s'applique donc pas ici. Néanmoins, certaines autorités tentent parfois de classer Kava comme tel, ce qui est cependant contestable sur le plan juridique.</p>"
+      }
+    ]
+  },
+  "download": {
+    "title": "Téléchargement d'avis juridiques",
+    "description": "Téléchargez ici l'avis juridique complet sur la classification de Kava en tant que Novel Food. Disponible en allemand et en anglais.",
+    "buttonDe": "Avis (Allemand)",
+    "buttonEn": "Legal Opinion (English)",
+    "copyright": {
+      "title": "Avertissement de droits d'auteur & Conditions d'utilisation :",
+      "text": "L'avis juridique a été commandé par <strong>Kava-Mode.com</strong>.",
+      "cta": "Achetez du Kava Noble de haute qualité en Allemagne et en Europe."
+    }
+  },
+  "map": {
+    "title": "Statut juridique en Europe",
+    "disclaimer": "Remarque : Cette carte est uniquement à titre d'orientation et ne constitue pas un conseil juridique. Les lois peuvent changer.",
+    "statusLabels": {
+      "legal": "Légal / Autorisé",
+      "grey": "Zone grise / Toléré",
+      "restricted": "Restreint / Interdit"
+    },
+    "countries": {
+      "IS": {
+        "name": "Islande",
+        "details": "Zone grise : Importation pour usage personnel généralement tolérée."
+      },
+      "NO": {
+        "name": "Norvège",
+        "details": "Réglementation stricte : Considéré comme un médicament."
+      },
+      "SE": {
+        "name": "Suède",
+        "details": "Statut de médicament : Pas de vente libre."
+      },
+      "FI": {
+        "name": "Finlande",
+        "details": "Statut de médicament : Prescription requise."
+      },
+      "IE": {
+        "name": "Irlande",
+        "details": "Interdiction de vente pour les produits à base de Kava."
+      },
+      "UK": {
+        "name": "Royaume-Uni",
+        "details": "Vente interdite, possession pour usage personnel légale."
+      },
+      "DK": {
+        "name": "Danemark",
+        "details": "Statut de médicament : Prescription requise."
+      },
+      "EE": {
+        "name": "Estonie",
+        "details": "Statut incertain, importation souvent possible."
+      },
+      "NL": {
+        "name": "Pays-Bas",
+        "details": "Zone grise : Vente restreinte, possession légale."
+      },
+      "DE": {
+        "name": "Allemagne",
+        "details": "Légal : Commercialisable en tant qu'aliment/ingrédient (pas en tant que médicament)."
+      },
+      "PL": {
+        "name": "Pologne",
+        "details": "Légal : L'interdiction a été levée en 2018."
+      },
+      "LT": {
+        "name": "Lituanie",
+        "details": "Zone grise."
+      },
+      "LV": {
+        "name": "Lettonie",
+        "details": "Zone grise."
+      },
+      "BE": {
+        "name": "Belgique",
+        "details": "Zone grise : Importation pour usage personnel généralement possible."
+      },
+      "LU": {
+        "name": "Luxembourg",
+        "details": "Zone grise."
+      },
+      "CZ": {
+        "name": "République tchèque",
+        "details": "Légal : Aucune interdiction spécifique connue."
+      },
+      "SK": {
+        "name": "Slovaquie",
+        "details": "Zone grise."
+      },
+      "FR": {
+        "name": "France",
+        "details": "Réglementation stricte : Vente de produits à base de Kava interdite."
+      },
+      "CH": {
+        "name": "Suisse",
+        "details": "Statut de médicament : Importation de petites quantités possible."
+      },
+      "AT": {
+        "name": "Autriche",
+        "details": "Zone grise : Semblable à DE, mais interprétation plus stricte."
+      },
+      "HU": {
+        "name": "Hongrie",
+        "details": "Légal : Pas d'interdictions."
+      },
+      "PT": {
+        "name": "Portugal",
+        "details": "Zone grise."
+      },
+      "ES": {
+        "name": "Espagne",
+        "details": "Légal : Vente et possession autorisées."
+      },
+      "IT": {
+        "name": "Italie",
+        "details": "Zone grise : Vente en tant qu'aliment souvent tolérée."
+      },
+      "SI": {
+        "name": "Slovénie",
+        "details": "Zone grise."
+      },
+      "HR": {
+        "name": "Croatie",
+        "details": "Zone grise."
+      },
+      "GR": {
+        "name": "Grèce",
+        "details": "Zone grise."
+      },
+      "BG": {
+        "name": "Bulgarie",
+        "details": "Légal."
+      },
+      "RO": {
+        "name": "Roumanie",
+        "details": "Zone grise."
+      }
+    }
+  }
+}

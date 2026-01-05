@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Kemotyyppilaskuri",
+    "subtitle": "Syötä 6-numeroinen kemotyyppi ja saa tietoa odotetusta vaikutuksesta ja suosituksista.",
+    "category": "Interaktiivinen"
+  },
+  "breadcrumbs": {
+    "home": "Etusivu",
+    "inhaltsstoffe": "Ainesosat",
+    "current": "Kemotyyppilaskuri"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "rechner": "Kemotyyppilaskuri",
+    "anleitung": "Näin se toimii",
+    "beispiele": "Esimerkkikemotyypit",
+    "legende": "Kavalaktonilegendat"
+  },
+  "rechner": {
+    "title": "Syötä kemotyyppi",
+    "subtitle": "6 numeroa 1-6, jokainen tarkalleen kerran",
+    "placeholder": "esim. 426531",
+    "analyzeButton": "Analysoi",
+    "knownVariety": "Tunnettu lajike"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmetoksijangoniini",
+      "short": "DMY",
+      "effect": "Keskittyminen & Euforia",
+      "description": "Lisää dopamiinia, edistää keskittymistä ja kevyttä euforiaa"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Lihasrentoutus",
+      "description": "Vahva lihasrentoutus ja kipua lievittävä vaikutus"
+    },
+    "3": {
+      "name": "Jangoniini",
+      "short": "Y",
+      "effect": "CB1-aktiivisuus",
+      "description": "Vaikuttaa endokannabinoidijärjestelmään, kevyesti stimuloiva"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Ahdistusta lievittävä",
+      "description": "Pääasiallinen vaikuttava aine ahdistuksen lievittämiseen ja henkiseen selkeyteen"
+    },
+    "5": {
+      "name": "Dihydrometystisiini",
+      "short": "DHM",
+      "effect": "Pitkäaikaisesti rauhoittava",
+      "description": "Vahvasti rauhoittava, hidas hajoaminen – Tudei-merkki"
+    },
+    "6": {
+      "name": "Metystisiini",
+      "short": "M",
+      "effect": "Rauhoittava",
+      "description": "Rauhoittava ja neuroprotektiivinen"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Virheellinen",
+      "description": "Ole hyvä ja syötä voimassa oleva 6-numeroinen kemotyyppi (numerot 1-6, jokainen tarkalleen kerran)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Tämä kemotyyppi viittaa Tudei-kavaan. DHM (5) sijainnissa 1 tai 2 tarkoittaa erittäin pitkää vaikutusaikaa mahdollisine sivuvaikutuksineen."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Kavain-dominantti lajike, jolla on ensisijaisesti henkinen vaikutus. Ihanteellinen sosiaalisiin tilaisuuksiin ja luovaan työhön."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Tasapainoinen lajike, jossa kavain ja DHK ovat ensimmäisillä paikoilla. Yhdistää henkisen selkeyden fyysiseen rentoutumiseen."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Dihydrokavain-dominantti lajike, jolla on ensisijaisesti fyysinen vaikutus. Ihanteellinen rentoutumiseen ja stressin lievittämiseen."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Tasapainoinen lajike, jossa on sekoitus henkistä ja fyysistä vaikutusta. Monikäyttöinen."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) näkyvällä paikalla – tyypillistä Tudei-kavalle",
+    "tudeiSideEffects": "Mahdolliset sivuvaikutukset: pahoinvointi, pitkä 'krapula', huimaus",
+    "tudeiNotRecommended": "Ei sovellu säännölliseen käyttöön",
+    "dhmPosition1": "DHM sijainnissa 1: Erittäin voimakas, pitkäkestoinen rauhoittava vaikutus",
+    "dhmPosition2": "DHM sijainnissa 2: Lisääntynyt rauhoittava vaikutus, pidempi vaikutusaika"
+  },
+  "strengths": {
+    "headyClear": "Selkeä, keskittynyt vaikutus ilman voimakasta rauhoittavaa vaikutusta",
+    "headyMood": "Hyvä mielialan kohottaminen ja ahdistuksen lievittäminen",
+    "headyBeginner": "Ihanteellinen aloittelijoille",
+    "headyBalancedBest": "Ihanteellinen yhdistelmä pään ja kehon vaikutusta",
+    "headyBalancedMental": "Henkinen selkeys kevyellä rentoutumisella",
+    "headyBalancedBody": "Kevyt lihasrentoutus ilman voimakasta rauhoittavaa vaikutusta",
+    "heavyMuscle": "Vahva lihasrentoutus",
+    "heavyPain": "Hyvä kipua lievittävä vaikutus",
+    "heavyRelax": "Syvä fyysinen rentoutuminen",
+    "balancedBoth": "Tasapainoinen vaikutus kehoon ja mieleen",
+    "balancedVersatile": "Monikäyttöinen",
+    "balancedDaily": "Hyvä arkilajike",
+    "methysticinNeuro": "Metystisiini näkyvissä: Hyvät neuroprotektiiviset ominaisuudet",
+    "yangoninStim": "Jangoniini näkyvissä: Kevyesti stimuloiva komponentti",
+    "dmyDopamine": "DMY näkyvissä: Voimistunut dopamiini-vaikutus, enemmän euforiaa"
+  },
+  "effects": {
+    "headyEffects": [
+      "Henkinen selkeys",
+      "Ahdistuksen lievitys",
+      "Kevyt euforia"
+    ],
+    "headyBalancedEffects": [
+      "Henkinen selkeys",
+      "Kevyt lihasrentoutus",
+      "Mielialan kohottaminen"
+    ],
+    "heavyEffects": [
+      "Lihasrentoutus",
+      "Fyysinen rauhoittuminen",
+      "Unen edistäminen"
+    ],
+    "balancedEffects": [
+      "Tasapainoinen rentoutuminen",
+      "Kohtuullinen ahdistuksen lievitys",
+      "Kevyt lihasrentoutus"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Sosiaaliset tilaisuudet",
+      "Luova työ",
+      "Päivällä tai aikaisena iltana"
+    ],
+    "headyBalancedUse": [
+      "Monipuolinen käyttö",
+      "Sosiaaliset tilaisuudet rentoutumisen kanssa",
+      "Iltapäivästä iltaan"
+    ],
+    "heavyUse": [
+      "Iltarentoutuminen",
+      "Fyysisen rasituksen jälkeen",
+      "Unen valmistelu"
+    ],
+    "balancedUse": [
+      "Päivittäinen käyttö",
+      "Meditaatio",
+      "Joustava käyttö"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalaktonien järjestys",
+    "strengthsTitle": "Tämän kemotyypin vahvuudet",
+    "dominantEffects": "Dominantit vaikutukset",
+    "recommendedUseTitle": "Suositeltu käyttö"
+  },
+  "anleitung": {
+    "title": "Näin se toimii",
+    "paragraph1": "Kemotyyppi on 6-numeroinen koodi, joka luettelee kuusi pääkavalaktonia laskevassa järjestyksessä niiden pitoisuuden mukaan. Ensimmäinen numero edustaa kavalaktonia, jolla on korkein pitoisuus, viimeinen numero sitä, jolla on alhaisin.",
+    "rulesTitle": "Tärkeimmät säännöt:",
+    "rules": [
+      {
+        "label": "Sijainti 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava – henkinen vaikutus, keskittyminen, ahdistuksen lievitys"
+      },
+      {
+        "label": "Sijainti 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – fyysinen vaikutus, lihasrentoutus"
+      },
+      {
+        "label": "Sijainti 1 tai 2 = 5 (DHM)",
+        "text": "⚠️ Tudei-Kava – erittäin pitkä vaikutus, mahdolliset sivuvaikutukset"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Esimerkkikemotyypit",
+    "intro": "Napsauta esimerkkikemotyyppiä analysoidaksesi sitä:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalaktonilegendat",
+    "intro": "Yhteenveto kaikista kuudesta pääkavalaktonista ja niiden vaikutuksista:"
+  },
+  "hint": {
+    "title": "Huomautus:",
+    "text": "Tämä analyysi perustuu yleisiin ohjeisiin. Todellinen vaikutus voi vaihdella laadun, valmistustavan ja yksilöllisen herkkyyden mukaan. Lisätietoja saat sivultamme",
+    "linkText": "Kemotyyppijärjestelmä"
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava-Bar Etsijä",
+    "description": "Löydä Kava-baareja ympäri maailmaa – Floridasta Uuteen-Seelantiin. Osoitteet, arvostelut ja aukioloajat."
+  },
+  "breadcrumb": {
+    "home": "Koti",
+    "kultur": "Kulttuuri",
+    "current": "Kava-Bar Etsijä"
+  },
+  "viewToggle": {
+    "list": "Lista",
+    "map": "Kartta"
+  },
+  "search": {
+    "placeholder": "Etsi nimen, kaupungin tai maan mukaan...",
+    "resultsCount": "Kava-Bar(eja) löytynyt",
+    "resultSingular": "Kava-Bar löytynyt",
+    "resultPlural": "Kava-Bars löytynyt"
+  },
+  "filter": {
+    "button": "Suodatin",
+    "country": "Maa",
+    "allCountries": "Kaikki maat",
+    "region": "Alue/Osavaltio",
+    "allRegions": "Kaikki alueet",
+    "minRating": "Minimiluokitus",
+    "allRatings": "Kaikki arvostelut",
+    "rating4Plus": "4+ tähteä",
+    "rating45Plus": "4.5+ tähteä",
+    "clearFilters": "Nollaa suodattimet",
+    "features": "Ominaisuudet"
+  },
+  "featureLabels": {
+    "wifi": "WLAN",
+    "outdoor": "Ulkotila",
+    "food": "Ruoka",
+    "live-music": "Live-musiikki",
+    "events": "Tapahtumat",
+    "traditional": "Perinteinen valmistus",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Pelit",
+    "parking": "Pysäköinti",
+    "accessible": "Esteetön",
+    "late-night": "Myöhäiset aukioloajat"
+  },
+  "countryNames": {
+    "US": "Yhdysvallat",
+    "AU": "Australia",
+    "NZ": "Uusi-Seelanti",
+    "DE": "Saksa",
+    "UK": "Iso-Britannia",
+    "CA": "Kanada"
+  },
+  "bar": {
+    "verified": "Vahvistettu",
+    "address": "Osoite",
+    "hours": "Aukioloajat",
+    "specialties": "Erikoisuudet",
+    "features": "Ominaisuudet",
+    "reviews": "Arvostelut",
+    "call": "Soita",
+    "website": "Verkkosivusto",
+    "route": "Reitti",
+    "routePlan": "Suunnittele reitti",
+    "backToList": "Takaisin listaan"
+  },
+  "empty": {
+    "title": "Ei Kava-Bars löytynyt",
+    "description": "Kokeile muita hakusanoja tai suodattimia.",
+    "resetButton": "Nollaa suodattimet"
+  },
+  "stats": {
+    "title": "Kava-Bar Tilastot",
+    "bars": "Kava-Bars",
+    "countries": "Maat",
+    "inUSA": "Yhdysvalloissa",
+    "verified": "Vahvistettu"
+  },
+  "cta": {
+    "title": "Tunnetko Kava-Barin?",
+    "description": "Auta meitä laajentamaan tietokantaa! Jos tiedät Kava-Barin, jota ei ole listattu täällä, kerro meille.",
+    "button": "Ehdota Kava-Baria"
+  },
+  "related": {
+    "title": "Liittyvät sivut",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bars",
+      "subtitle": "Kava-juomakulttuurin historia"
+    },
+    "moderne": {
+      "title": "Moderni Kava-Kulttuuri",
+      "subtitle": "Globaalit leviämiset tänään"
+    },
+    "weltkarte": {
+      "title": "Interaktiivinen Maailmankartta",
+      "subtitle": "Tutki Kava-alueita"
+    }
+  },
+  "navigation": {
+    "nakamal": "/fi/kulttuuri/nakamal",
+    "moderne": "/fi/kulttuuri/moderne",
+    "weltkarte": "/fi/kulttuuri/weltkarte",
+    "kontakt": "/fi/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "Yksi tunnetuimmista Kava-bariketjuista Floridassa, jossa on aito tunnelma ja korkealaatuisia Kava-lajikkeita Vanuatulta ja Fidžiltä.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Kava Smoothiet"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra käyttää korkealaatuista Kavaa Vanuatun saarelta. Käytetty seremonioissa vuosituhansia.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Kava Lento"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Paikallisesti johdettu Kava-Bar, jossa on valikoima perinteisesti valmistettuja Kavasia rentouttavassa ympäristössä.",
+      "specialties": [
+        "Perinteinen Kava",
+        "Kratom Teet"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Premium Kava-Bar Las Olasin sydämessä, jossa on Tyynenmeren tunnelmaa ja laaja valikoima Noble Kava-lajikkeita.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Tongan Kava",
+        "Kava Lento"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "Madeira Beachin ensimmäinen Kava-Bar! Bula Kafen omistajalta, joka on Pinellasin ensimmäinen Kava-Bar.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "Rentouttava Kava-lounge, jossa on hienointa fidžialaista Kavaa, hookah, kratomia ja Kava-komediaa maanantaisin.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Komediaillat"
+      ]
+    },
+    "roots-miami": {
+      "description": "Urbaani Kava-Bar Wynwoodissa taiteellisessa ympäristössä ja säännöllisissä live-musiikkitapahtumissa.",
+      "specialties": [
+        "House Blend",
+        "Kava Cocktaileja",
+        "Kratom Teet"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Nykyajan Kava-Bar, lounge ja vähittäismyyntipaikka Miamissa.",
+      "specialties": [
+        "Botaaniset sekoitukset",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Kava Culture -franchising-ketjun pääkonttori, jossa on suurin valikoima Kava-lajikkeita.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Kava Cocktaileja",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Moderni, tyylikäs sisä-/ulkokava-bar Bonita Springsissä.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Rentouttava Kava-Bar Clearwaterissa, jossa on Happy Hour klo 14-17.",
+      "specialties": [
+        "Happy Hour Erikoistarjoukset",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Downtown Fort Myers Kava Culture, jossa on Open Mic -illat, taidetta ja herkullisia Kava-cocktaileja.",
+      "specialties": [
+        "Open Mic -illat",
+        "Taide Tapahtumat"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture Downtown Orlandossa rentouttavassa ympäristössä.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kratom-sekoitukset"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB, jossa on Buddha Blends Vegan Kitchen. Ulkoilma-ranta-baari, biljardi, darts, Open Mics.",
+      "specialties": [
+        "Ranta Tunnelma",
+        "Vegaaninen Ruoka",
+        "Live Musiikki"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture Key Westissä - trooppiset tunnelmat ja Premium Kava.",
+      "specialties": [
+        "Saarten sekoitus",
+        "Trooppinen Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture Downtown Tampassa urbaanissa ympäristössä.",
+      "specialties": [
+        "Urbaani sekoitus",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture South Tampassa rentouttavassa naapurustotunnelmassa.",
+      "specialties": [
+        "Naapuruston Tunnelma",
+        "Premium Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture Napolissa hienostuneessa ympäristössä.",
+      "specialties": [
+        "Premium Valikoima",
+        "Kava Lento"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte Beach -tunnelmalla, ulkoilma-ranta kanavan varrella.",
+      "specialties": [
+        "Ranta Tunnelma",
+        "Kanavan Näkymät"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture Estero, jossa on kätevä sijainti.",
+      "specialties": [
+        "Kätevä Sijainti",
+        "Laadukas Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture Lake Maryssä - rentouttava tunnelma.",
+      "specialties": [
+        "Rentouttava Tunnelma",
+        "Premium Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze on Kava-Bar Tallahasseessa, jossa on Kavaa, teetä ja rentoutumiseen tarkoitettu paikka.",
+      "specialties": [
+        "Opiskelija Erikoistarjoukset",
+        "Rentouttava Tunnelma"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Downtown Melbourne FL Island Root Kava Bar.",
+      "specialties": [
+        "Perinteinen Kava",
+        "Yhteisötapahtumat"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge on Kava-Java-Hookah-Lounge, jossa on kahvia, teetä, Kavaa, Kratomia ja hookah.",
+      "specialties": [
+        "Hookah",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Perheomisteinen, kaikki orgaaniset kasvit ja teet maksimaaliseen hyvinvointiin.",
+      "specialties": [
+        "Orgaaniset Kasvit",
+        "Hyvinvointi Teet"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors on paikallinen vape-kauppa ja lounge, jossa on Kavaa ja Kratomia.",
+      "specialties": [
+        "Vape Tuotteet",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge on luovien ja rauhallisten mielten kokoontumispaikka.",
+      "specialties": [
+        "Luova Yhteisö",
+        "Live Musiikki"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Etnobotaaninen tee-baari Kava ja Kratom.",
+      "specialties": [
+        "Etnobotaaniset",
+        "Teeseokset"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, Vapor ja eHookah suoraan Turnpikeltä. Chill, Rentoudu ja Nauti!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula tarjoaa Premium-Kavaa rentouttavassa ranta-ympäristössä.",
+      "specialties": [
+        "Ranta Tunnelma",
+        "Premium Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava Social on sosiaalinen kokoontumispaikka, jossa on Kavaa, teetä ja yhteisötapahtumia.",
+      "specialties": [
+        "Sosiaaliset Tapahtumat",
+        "Kava",
+        "Tee"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava tarjoaa aitoa Kavaa yliopistokaupungissa Gainesville.",
+      "specialties": [
+        "Yliopistotunnelma",
+        "Premium Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Peaceful Warrior Kava Bar Jacksonvilleissa keskittyen hyvinvointiin ja rentoutumiseen.",
+      "specialties": [
+        "Hyvinvointi",
+        "Perinteinen Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe tarjoaa Kavaa ja hengellisen yhteisön tunnelman.",
+      "specialties": [
+        "Hengellinen Yhteisö",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "The Kava Tap Pensacolassa - rentouttava baaritunnelma Kavaa hanasta.",
+      "specialties": [
+        "Hanasta Kava",
+        "Baaritunnelma"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala tarjoaa Premium-Kavaa Keski-Floridassa.",
+      "specialties": [
+        "Keski-Florida",
+        "Premium Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe Orlando tuo Tyynenmeren tunnelmat Keski-Floridaan.",
+      "specialties": [
+        "Tyynenmeren Tunnelmat",
+        "Premium Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Purple Lotus Kava Bar Phoenixissä - Arizonan Premier-Kava-kohde.",
+      "specialties": [
+        "Arizonan Ensimmäinen",
+        "Premium Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Kava Culture Tempe, Arizonassa - ihanteellinen ASU-opiskelijoille.",
+      "specialties": [
+        "Opiskelijaystävällinen",
+        "Premium Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "The Root Tucsonissa tarjoaa aitoa Kavaa ja Kratomia.",
+      "specialties": [
+        "Aito Kava",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "Bula Kava House San Diegossa rentouttavassa ranta-tunnelmassa.",
+      "specialties": [
+        "Ranta Tunnelma",
+        "Premium Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "Kava Roots San Franciscossa - Bay Arean ensimmäinen Kava-Bar.",
+      "specialties": [
+        "Bay Arean Ensimmäinen",
+        "Premium Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava Los Angeles tuo Premium-Kavaa Hollywoodiin.",
+      "specialties": [
+        "Hollywood Tunnelmat",
+        "Premium Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Alkoholiton, kaikille ikäryhmille avoin, yrttilounge eliksiireillä, eksoottisilla ja raakaruoalla.",
+      "specialties": [
+        "Yrttieliksiirit",
+        "Raakaruoat",
+        "Kaikki Ikäryhmät"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "Tarjoaa parasta perinteisesti valmistettua Kavaa viihdyttävässä ja sosiaalisessa ympäristössä. Innovatiivisin idea rentoutumispaikaksi!",
+      "specialties": [
+        "Perinteinen Valmistus",
+        "Kava Koulutus"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Apteekki, teepuutarha, taidegalleria & musiikkitapahtumapaikka Etelä-Oregonin sydämessä! Tuodaan Kavaa Big Islandilta Havaijilta.",
+      "specialties": [
+        "Kava Kombucha",
+        "Taidegalleria",
+        "Musiikkitapahtuma"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "Austinin suosittu Kava-Bar rentouttavassa ympäristössä, pelejä ja yhteisötapahtumia.",
+      "specialties": [
+        "Kava Lento",
+        "Kratom-sekoitukset",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture Lewisvillessä, Texas.",
+      "specialties": [
+        "Premium Kava",
+        "Texas Tunnelmat"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture North Fort Worthissa.",
+      "specialties": [
+        "Premium Kava",
+        "Kätevä Sijainti"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - NYT AUKI Ohiossa.",
+      "specialties": [
+        "Premium Kava",
+        "Keski-Lännen Tunnelmat"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture Toledo, Ohiossa.",
+      "specialties": [
+        "Premium Kava",
+        "Ohion Sijainti"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "Salt Lake Cityn ensimmäinen Kava-Bar, jossa on valikoima Premium-Kavaa ja kutsuva yhteisö.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Seremoniat"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Kava on juurikasvi Etelä-Tyynellämerellä. Käytetään seremoniallisena juomana rentoutumiseen ja rauhoittumiseen.",
+      "specialties": [
+        "NYC Tunnelmat",
+        "Premium Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra on Amerikan hienoin Kava-Bar, jossa on Premium-Kavaa ja muita yrttejä.",
+      "specialties": [
+        "Premium Kava",
+        "Yrttisekoitukset"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia on Kava-Bar, joka on erikoistunut Kava-infusoituihin juomiin ja raaka-jälkiruokiin sekä bonsai-kasveihin.",
+      "specialties": [
+        "Raaka Jälkiruoat",
+        "Bonsai Kasvit",
+        "Kava Juomat"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Täydellinen valikoima yrttejä ja Kava-tuotteita, mehu-baari, tupakka, hookah, vape-tuotteet - kaikki saman katon alla.",
+      "specialties": [
+        "Yrttituotteet",
+        "Mehu Baari"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "Ensimmäinen Kava-Bar Missourissa! Tule ja näe, mistä on kyse. Auki 7 päivää viikossa.",
+      "specialties": [
+        "Missourin Ensimmäinen",
+        "Perinteinen Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar Carrborossa, Pohjois-Carolinassa.",
+      "specialties": [
+        "Premium Kava",
+        "Yliopistokaupungin Tunnelmat"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar Wilmingtonissa, Pohjois-Carolinassa.",
+      "specialties": [
+        "Rannikkotunnelmat",
+        "Premium Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision on ainutlaatuinen yhteisötyötila ja kahvila, jossa on erikoisuuksia kuten Kava & Kratom.",
+      "specialties": [
+        "Yhteisötyötila",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Terveellinen ruoka terveelle keholle ja Kavaa! Alaskan Kava-kohde.",
+      "specialties": [
+        "Acai Kulhot",
+        "Smoothiet",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture Spartanburgissa, Etelä-Carolinassa.",
+      "specialties": [
+        "Premium Kava",
+        "Eteläiset Vieraanvaraisuus"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "Australian ensimmäinen omistettu Kava-lounge, jossa on aitoa fidžialaista Kavaa ja Tyynenmeren vieraanvaraisuutta.",
+      "specialties": [
+        "Fiji Waka",
+        "Vanuatu Kava",
+        "Perinteinen Seremonia"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Melbournen Kava-Bar Pacific Marketissa, jossa on valikoima Kavaa ja Kratomia.",
+      "specialties": [
+        "Fiji Kava",
+        "Tongan Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "Brisbanen aito Kava-Bar fidžialaisella sisustuksella ja perinteisellä valmistuksella.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Seremoniat"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "Aucklandin omistettu Kava-lounge Victoria Park Marketissa lämpimällä, kutsuvalla yhteisöllä ja Noble Kava -lajikkeilla koko Tyyneltämereltä.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Waka",
+        "Vanuatu Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Aito Kava-Bar Etelä-Aucklandissa kohtuuhintaan ja laajalla valikoimalla Kava-jauheita.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Kava",
+        "Kava Jauhemyynnit"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "Berliinin ensimmäinen Kava-lounge Kreuzbergissä rentouttavassa ympäristössä ja säännöllisissä Kava-seremonioissa.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Seremoniat"
+      ]
+    },
+    "kava-club-london": {
+      "description": "Lontoon ensimmäinen Kava-klubi Shoreditchissä urbaanissa ympäristössä ja valikoimalla Premium-Kavaa.",
+      "specialties": [
+        "Fiji Premium",
+        "Kava Cocktaileja"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Vancouverin kodikas Kava-kahvila, jossa on valikoima Kavaa ja terveellisiä ruokia.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Smoothie Kulhot"
+      ]
+    }
+  }
+}

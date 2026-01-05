@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Page d'accueil",
+    "description": "Le portail de connaissances le plus complet au monde sur le Kava (Piper methysticum). Scientifiquement fondé, culturellement enraciné. Tout sur les effets, la préparation, les variétés et la législation."
+  },
+  "hero": {
+    "badge": "Piper methysticum",
+    "title": "Racine de la tranquillité",
+    "subtitle": "Le portail de connaissances complet sur la racine de relaxation pacifique. Scientifiquement fondé, culturellement enraciné.",
+    "cta": {
+      "studies": "Études scientifiques",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "stats": [
+    {
+      "label": "Utilisation traditionnelle",
+      "value": "3000+",
+      "suffix": "ans"
+    },
+    {
+      "label": "Principales Kavalactones",
+      "value": "6",
+      "suffix": "substances actives"
+    },
+    {
+      "label": "Variétés à Vanuatu",
+      "value": "80+",
+      "suffix": "cultivars"
+    },
+    {
+      "label": "Scientifiques",
+      "value": "100+",
+      "suffix": "études"
+    }
+  ],
+  "intro": {
+    "title": "Un cadeau de la nature,",
+    "titleHighlight": "confirmé par la science.",
+    "text": "Le Kava (Piper methysticum) est plus qu'une simple plante. Depuis des millénaires, il est le centre social et spirituel des cultures insulaires du Pacifique. Aujourd'hui, la science moderne confirme ce que les habitants des îles ont toujours su : le Kava détend le corps et clarifie l'esprit, sans nuire aux capacités cognitives.",
+    "quote": "Le Kava est la seule substance botanique avec des preuves de niveau 1 pour le traitement des troubles anxieux.",
+    "quoteSource": "— Cochrane Review"
+  },
+  "features": [
+    {
+      "icon": "shield",
+      "title": "Sécurité",
+      "text": "Les recherches actuelles réfutent les anciens mythes sur la toxicité hépatique en cas d'utilisation correcte."
+    },
+    {
+      "icon": "beaker",
+      "title": "Effet",
+      "text": "Propriétés anxiolytiques (anti-anxiété) prouvées grâce aux Kavalactones."
+    },
+    {
+      "icon": "history",
+      "title": "Culture",
+      "text": "Profondément enraciné dans les traditions de Vanuatu, des Fidji et de Tonga."
+    }
+  ],
+  "categories": {
+    "title": "Base de connaissances",
+    "subtitle": "Plongez profondément dans le monde du Kava. Choisissez un domaine pour en savoir plus.",
+    "items": [
+      {
+        "title": "Botanique",
+        "desc": "Morphologie, culture et distribution",
+        "link": "/botanique"
+      },
+      {
+        "title": "Histoire",
+        "desc": "Des origines à la modernité",
+        "link": "/histoire"
+      },
+      {
+        "title": "Ingrédients",
+        "desc": "Kavalactones et chimiotypes",
+        "link": "/ingredients"
+      },
+      {
+        "title": "Études",
+        "desc": "Recherche clinique et preuves",
+        "link": "/etudes"
+      },
+      {
+        "title": "Effet",
+        "desc": "Effets sur le corps et l'esprit",
+        "link": "/effet"
+      },
+      {
+        "title": "Sécurité",
+        "desc": "Dosage et effets secondaires",
+        "link": "/securite"
+      },
+      {
+        "title": "Variétés",
+        "desc": "Kava noble vs. Tudei",
+        "link": "/varietes"
+      },
+      {
+        "title": "Préparation",
+        "desc": "Méthodes traditionnelles et modernes",
+        "link": "/preparation"
+      }
+    ]
+  },
+  "partner": {
+    "label": "Partenaire officiel",
+    "title": "Kava-mode.com",
+    "text": "La principale marque de Kava en Europe et grossiste mondial de Kava noble de haute qualité. Qualité vérifiée, directement des fermes du Pacifique.",
+    "cta": "Visitez la boutique"
+  },
+  "book": {
+    "label": "Lecture recommandée",
+    "title": "\"Kava – Racine de la tranquillité\"",
+    "text": "Le guide complet sur les effets, l'application, l'histoire et la culture par Sebastian Freidank. L'ouvrage de référence pour tout amateur de Kava.",
+    "cta": "Voir le livre"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "title": "Perinteinen vaivausmenetelmä",
+    "subtitle": "Aito tyyni tapa valmistaa Kavaa – maksimaalinen teho ja aito kokemus.",
+    "category": "Valmistus"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "zubereitung": "Valmistus",
+    "current": "Perinteinen menetelmä"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Yhteenveto",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Tarvittavat materiaalit",
+        "level": 1
+      },
+      {
+        "id": "vorbereitung",
+        "title": "Valmistelu",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Vaiheittainen ohje",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Asiantuntijavinkit",
+        "level": 1
+      },
+      {
+        "id": "fehler",
+        "title": "Yleiset virheet",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Kokonaisaika",
+    "bestPotency": "Paras teho",
+    "maxExtraction": "Maksimaalinen uutto",
+    "authentic": "Aito",
+    "traditionalMethod": "Perinteinen menetelmä",
+    "tip": "Vinkki",
+    "essential": "Olennainen",
+    "optionalRecommended": "Valinnainen (suositeltu)",
+    "mistake": "Virhe",
+    "consequence": "Seuraus",
+    "solution": "Ratkaisu",
+    "otherMethods": "Muut valmistusmenetelmät"
+  },
+  "overview": {
+    "intro": "Perinteinen vaivausmenetelmä on <strong>alkuperäinen tyyni tapa</strong> valmistaa Kavaa, jota on harjoitettu yli 3 000 vuotta. Se tuottaa <strong>vahvimman uuton</strong> ja aidoimman makuelämyksen.",
+    "alert": {
+      "title": "Miksi tämä menetelmä?",
+      "text": "Kavalaktonit ovat rasvaliukoisia, eivät vesiliukoisia. Ne tarttuvat juuren tärkkelysraekkeisiin. Mekaanisella vaivauksella nämä hiukkaset liukenevat ja emulsioituvat veteen – siksi tämä menetelmä on niin tehokas."
+    }
+  },
+  "materials": {
+    "title": "Tarvittavat materiaalit",
+    "essential": [
+      {
+        "name": "Kava-juurijauhe",
+        "type": "Keskikarkea jauhe",
+        "note": "15-50g kokemuksen ja halutun vahvuuden mukaan"
+      },
+      {
+        "name": "Suodatinpussi",
+        "type": "Pähkinämaitopussi",
+        "note": "75-100 mikronin silmäkoko, uudelleenkäytettävä"
+      },
+      {
+        "name": "Iso kulho",
+        "type": "",
+        "note": "Vähintään 1 litran tilavuus"
+      },
+      {
+        "name": "Lämmin vesi",
+        "type": "",
+        "note": "35-45°C, kädenlämpöinen – EI kiehuvaa!"
+      }
+    ],
+    "optional": [
+      {
+        "name": "Kookosmaito tai täysmaito",
+        "note": "1-2 rkl – rasva parantaa uuttoa"
+      },
+      {
+        "name": "Keittiövaaka",
+        "note": "Tarkkaa annostelua varten"
+      },
+      {
+        "name": "Kookospähkinän kuori (Bilo)",
+        "note": "Aitoa kokemusta varten"
+      },
+      {
+        "name": "Chaser (hedelmä)",
+        "note": "Ananas, appelsiini tai mango makua vastaan"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Valmistelu",
+    "alert": {
+      "title": "Tärkeää: Tyhjällä vatsalla",
+      "text": "Juokaa Kavaa aina <strong>tyhjällä vatsalla</strong> – vähintään 3-4 tuntia viimeisestä ateriasta. Muuten vaikutus on huomattavasti heikompi tai jää kokonaan saamatta!"
+    },
+    "text": "Ennen aloittamista varmista, että kaikki materiaalit ovat valmiina. Valmistus tulisi tehdä yhdellä kertaa, ilman keskeytyksiä."
+  },
+  "steps": {
+    "title": "Vaiheittainen ohje",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Jauheen mittaaminen",
+        "duration": "1 min",
+        "description": "Mittaa haluttu määrä Kava-jauhetta.",
+        "details": [
+          "Aloittelijat: 15-20g per annos",
+          "Normaali: 25-35g per annos",
+          "Kokenut: 35-50g per annos",
+          "Käytä keskikarkeaa jauhetta parhaan tuloksen saavuttamiseksi"
+        ],
+        "tip": "Hyödynnä annostelulaskinta saadaksesi henkilökohtaisia suosituksia lajikkeesi ja kokemuksesi perusteella."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Veden valmistelu",
+        "duration": "2 min",
+        "description": "Valmistele lämmin vesi isossa kulhossa.",
+        "details": [
+          "Veden lämpötila: 35-45°C (kädenlämpöinen)",
+          "Veden määrä: 300-500ml per annos",
+          "Valinnainen: Lisää 1-2 rkl kookosmaitoa tai täysmaitoa",
+          "ÄLÄ KOSKAAN käytä kiehuvaa vettä!"
+        ],
+        "tip": "Rasva parantaa Kavalaktonien uuttoa merkittävästi. Kookosmaito on perinteinen ja maku on ihanteellinen."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Liottaminen",
+        "duration": "5 min",
+        "description": "Anna jauheen liota suodatinpussissa.",
+        "details": [
+          "Laita jauhe pähkinämaitopussiin (75-100 mikronia)",
+          "Sulje tai kierrä pussi",
+          "Upota lämmitettyyn veteen",
+          "Anna levätä 5 minuuttia, jotta jauhe kostuu"
+        ],
+        "tip": "Liottaminen on tärkeää! Se avaa kasvikuituja ja tekee Kavalaktonit helpommin saataville."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Vaivaaminen",
+        "duration": "10-15 min",
+        "description": "Tärkein vaihe: Voimakas vaivaaminen veden alla.",
+        "details": [
+          "Vaivaa ja hiero pussia voimakkaasti veden alla",
+          "Paina, purista ja väännä rytmikkäästi",
+          "Vesi muuttuu yhä maitomaisemmaksi ruskeaksi",
+          "Vaivaa vähintään 10 minuuttia, mieluiten 15 minuuttia"
+        ],
+        "tip": "Mitä pidempään ja voimakkaammin vaivaat, sitä vahvemmaksi Kava tulee. Väri pitäisi olla kuin maitokahvia."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Puristaminen",
+        "duration": "2 min",
+        "description": "Purista pussi täysin tyhjäksi.",
+        "details": [
+          "Ota pussi vedestä",
+          "Purista tiukasti kulhon ylle",
+          "Väännä useita kertoja, kunnes nestettä tulee vain vähän",
+          "Valinnainen: Toista toista uuttoa tuoreella vedellä"
+        ],
+        "tip": "Toinen uutto ('Second Wash') on heikompi, mutta silti tehokas. Ihanteellinen laimentamiseen."
+      },
+      {
+        "id": "schritt6",
+        "number": 6,
+        "title": "Tarjoilu",
+        "duration": "Välittömästi",
+        "description": "Nauti tuoreena valmistettu Kava!",
+        "details": [
+          "Kaada kookospähkinän kuoreen (Bilo) tai kuppiin",
+          "Perinteisesti Kava juodaan yhdellä kertaa ('Chug')",
+          "Älä siemaile – se pidentää kitkerää makua",
+          "Pidä 'Chaser' (hedelmäpala) valmiina"
+        ],
+        "tip": "Taputa käsiäsi yhteen ennen juomista ja sano 'Bula!' – se on perinteinen tyynen tapa."
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Asiantuntijavinkit",
+    "items": [
+      {
+        "name": "Second Wash",
+        "text": "Ensimmäisen uuton jälkeen voit vaivata jauhetta uudelleen tuoreella vedellä. 'Second Wash' on heikompi, mutta ihanteellinen laimentamiseen tai aloittelijoille."
+      },
+      {
+        "name": "Rasvaboosti",
+        "text": "Syö pieni, rasvapitoinen ateria 30-60 minuuttia Kavan jälkeen. Tämä voi laukaista 'toisen aallon' vaikutuksesta, koska rasva vapauttaa jäljelle jääneet Kavalaktonit."
+      },
+      {
+        "name": "Käänteinen sietokyky",
+        "text": "Monet aloittelijat kokevat ensimmäisellä kerralla vähän. Kehon on ensin 'totuttava' Kavalaktoniin. Juokaa Kavaa useita päiviä peräkkäin täyden vaikutuksen saavuttamiseksi."
+      },
+      {
+        "name": "Lämpötilan tarkistus",
+        "text": "Testaa vesi kyynärpäällä – sen pitäisi tuntua mukavan lämpimältä, kuin vauvan kylpyvedeltä. Liian kuuma tuhoaa vaikuttavat aineet!"
+      }
+    ]
+  },
+  "commonMistakes": {
+    "title": "Yleisien virheiden välttäminen",
+    "items": [
+      {
+        "mistake": "Kiehuvaa vettä käyttää",
+        "consequence": "Tuhoaa Kavalaktonit ja tekee Kavasta tehottoman",
+        "solution": "Käytä aina kädenlämpöistä vettä (35-45°C)"
+      },
+      {
+        "mistake": "Liian lyhyt vaivaaminen",
+        "consequence": "Heikko vaikutus, hukattu jauhe",
+        "solution": "Vaivaa kärsivällisesti vähintään 10-15 minuuttia"
+      },
+      {
+        "mistake": "Kavaa kuten teetä kaataa",
+        "consequence": "Vähän vaikutusta, koska Kavalaktonit eivät ole vesiliukoisia",
+        "solution": "Mekaaninen uutto vaivaamalla on olennainen"
+      },
+      {
+        "mistake": "Juoda ruokailun jälkeen",
+        "consequence": "Voimakkaasti vähentynyt vaikutus",
+        "solution": "Ole tyhjällä vatsalla vähintään 3-4 tuntia"
+      },
+      {
+        "mistake": "Liian hienoa jauhetta (Mikronisoitu) vaivata",
+        "consequence": "Tukkii suodattimen, huono koostumus",
+        "solution": "Käytä keskikarkeaa jauhetta perinteisessä menetelmässä"
+      }
+    ]
+  },
+  "navigation": {
+    "blender": {
+      "title": "Blender-menetelmä",
+      "subtitle": "Nopea ja usein vahvempi",
+      "href": "/fi/valmistus/blender"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Ei vaivannäköä, heti juotavaksi",
+      "href": "/fi/valmistus/instant"
+    },
+    "calculator": {
+      "title": "Annostelulaskin",
+      "subtitle": "Henkilökohtaiset suositukset lajikkeellesi",
+      "href": "/fi/valmistus/laskin"
+    }
+  }
+}

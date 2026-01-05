@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morphologie",
+    "subtitle": "Anatomie détaillée de la plante de Kava avec un accent particulier sur le système racinaire économiquement important.",
+    "category": "Botanique"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanique",
+    "morphologie": "Morphologie"
+  },
+  "toc": {
+    "ueberblick": "Aperçu morphologique",
+    "wurzelsystem": "Le système racinaire",
+    "stumpf": "Le corme (Corm)",
+    "seitenwurzeln": "Les racines latérales (Waka)",
+    "kavalactonVerteilung": "Distribution des Kavalactones",
+    "staengel": "Tiges & Nœuds",
+    "blaetter": "Feuilles",
+    "blueten": "Fleurs & Fruits"
+  },
+  "intro": {
+    "paragraph1": "La morphologie de <em>Piper methysticum</em> est le résultat de millénaires de sélection. Alors que les parties aériennes de la plante sont importantes pour l'identification des variétés, la véritable valeur réside dans les structures souterraines – le complexe système racinaire qui contient les Kavalactones recherchées."
+  },
+  "overview": {
+    "title": "Aperçu morphologique",
+    "paragraph1": "Le Kava est un arbuste vivace et toujours vert avec une hauteur de croissance typique de <strong>1,5 à 3 mètres</strong>. Dans des conditions optimales – beaucoup d'eau, de nutriments et d'ombre – certaines plantes peuvent atteindre jusqu'à 5 mètres.",
+    "table": {
+      "headers": {
+        "plantPart": "Partie de la plante",
+        "characteristic": "Caractéristique",
+        "kavalactoneContent": "Teneur en Kavalactones"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Rhizome",
+          "characteristic": "Épais, ligneux, ramifié",
+          "content": "Très élevé (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Racines latérales",
+          "characteristic": "Fines, fibreuses, étendues",
+          "content": "Teneur la plus élevée"
+        },
+        "stem": {
+          "name": "Tige (Tronc)",
+          "characteristic": "Noueux, semblable au bambou",
+          "content": "Faible à moyen"
+        },
+        "leaves": {
+          "name": "Feuilles",
+          "characteristic": "En forme de cœur, grandes",
+          "content": "Très faible"
+        },
+        "flowers": {
+          "name": "Fleurs",
+          "characteristic": "Petites, en épis",
+          "content": "Non utilisé"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "Le système racinaire",
+    "paragraph1": "La partie économiquement et pharmacologiquement la plus importante de la plante de Kava est le système racinaire souterrain. Il se compose de deux composants principaux qui diffèrent par leur composition et leur qualité.",
+    "qualityAlert": {
+      "title": "Caractéristique de qualité:",
+      "text": "Le Kava de haute qualité est fabriqué exclusivement à partir des racines. L'utilisation de parties aériennes de la plante (tiges, feuilles) est considérée comme de qualité inférieure et peut entraîner des effets secondaires indésirables."
+    },
+    "stump": {
+      "title": "Le corme (Corm/Stump)",
+      "paragraph1": "Le <strong>corme</strong> est la partie épaisse et ligneuse juste sous la surface du sol. Il forme la masse centrale du rhizome et peut atteindre des dimensions considérables chez les plantes plus âgées.",
+      "properties": {
+        "title": "Propriétés",
+        "items": [
+          "Poids: 5-25 kg chez les plantes matures",
+          "Diamètre: 10-30 cm",
+          "Texture: Dur, ligneux, fibreux",
+          "Couleur: Brun clair à brun foncé"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Profil des Kavalactones",
+        "items": [
+          "Teneur totale: Moyenne à élevée",
+          "Plus de Dihydromethysticine (DHM)",
+          "Moins de Kavain que dans les racines latérales",
+          "Tend à être \"plus lourd\" dans l'effet"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "Les racines latérales (Lateral Roots / Waka)",
+      "paragraph1": "Les <strong>racines latérales</strong> sont les racines plus fines qui partent du corme et s'étendent dans le sol. À Fidji, elles sont appelées \"Waka\" et sont considérées comme le composant de la plus haute qualité.",
+      "properties": {
+        "title": "Propriétés",
+        "items": [
+          "Diamètre: 0,5-3 cm",
+          "Longueur: Jusqu'à plusieurs mètres",
+          "Texture: Plus douce, moins ligneuse",
+          "Couleur: Brun clair, jaunâtre"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Profil des Kavalactones",
+        "items": [
+          "Teneur totale: La plus élevée de toutes les parties de la plante",
+          "Teneur en Kavain plus élevée",
+          "Profil d'effet plus équilibré",
+          "Qualité premium (\"Waka Grade\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Distribution des Kavalactones dans la plante",
+      "paragraph1": "La concentration des Kavalactones varie considérablement entre les différentes parties de la plante. Cela a des conséquences directes sur la qualité et la sécurité des produits à base de Kava.",
+      "table": {
+        "headers": {
+          "plantPart": "Partie de la plante",
+          "kavalactoneContent": "Teneur en Kavalactones",
+          "usage": "Utilisation",
+          "qualityLevel": "Niveau de qualité"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Racines latérales (Waka)",
+            "content": "10-20%",
+            "usage": "Kava premium",
+            "quality": "La plus haute"
+          },
+          "stump": {
+            "name": "Corme (Corm)",
+            "content": "5-15%",
+            "usage": "Kava standard",
+            "quality": "Élevé"
+          },
+          "basalStem": {
+            "name": "Tronc basal (Lewena)",
+            "content": "3-8%",
+            "usage": "Mélangé ou seul",
+            "quality": "Moyen"
+          },
+          "upperStem": {
+            "name": "Tronc supérieur",
+            "content": "1-3%",
+            "usage": "Non recommandé",
+            "quality": "Faible"
+          },
+          "leaves": {
+            "name": "Feuilles",
+            "content": "<1%",
+            "usage": "Non utilisé",
+            "quality": "Inapproprié"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Avertissement:",
+        "text": "L'utilisation de feuilles et de parties aériennes de tiges a été associée à des rapports historiques de toxicité hépatique. Le Kava de haute qualité utilise exclusivement du matériel racinaire."
+      }
+    }
+  },
+  "stems": {
+    "title": "Tiges & Nœuds",
+    "paragraph1": "Les tiges (troncs) de Kava sont l'une des caractéristiques les plus importantes pour l'<strong>identification des variétés</strong>. Elles poussent droit et se ramifient avec l'âge.",
+    "structure": {
+      "title": "Structure",
+      "items": [
+        "<strong>Nœuds (Nodes):</strong> Épaississements visibles, semblables à ceux du bambou",
+        "<strong>Entre-nœuds:</strong> Les sections entre les nœuds, variables en longueur",
+        "<strong>Diamètre:</strong> 2-5 cm, selon l'âge et la variété",
+        "<strong>Hauteur:</strong> 1,5-3 m (jusqu'à 5 m dans des conditions optimales)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Caractéristiques des variétés",
+      "paragraph1": "La couleur et le motif des tiges sont une caractéristique clé pour distinguer les cultivars :",
+      "items": [
+        "<strong>Vert:</strong> Fréquent chez de nombreuses variétés standards",
+        "<strong>Marbré:</strong> Caractéristique de certaines variétés",
+        "<strong>Rayé:</strong> Rayures longitudinales de différentes couleurs",
+        "<strong>Violet foncé/Noir:</strong> Variétés rares, souvent particulièrement prisées"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Feuilles",
+    "paragraph1": "Les feuilles de Kava sont grandes, frappantes et servent principalement à la photosynthèse. Elles ne sont traditionnellement pas utilisées pour la préparation du Kava.",
+    "characteristics": {
+      "title": "Caractéristiques des feuilles",
+      "formSize": {
+        "title": "Forme & Taille",
+        "items": [
+          "En forme de cœur (cordé)",
+          "Largeur: 15-30 cm",
+          "Longueur: 20-35 cm",
+          "Alternées"
+        ]
+      },
+      "surface": {
+        "title": "Surface",
+        "items": [
+          "Lisse à légèrement velue",
+          "Brillante sur le dessus",
+          "Mate sur le dessous",
+          "Veines bien marquées"
+        ]
+      },
+      "color": {
+        "title": "Couleur",
+        "items": [
+          "Vert clair à vert foncé",
+          "Nuances violettes possibles",
+          "Pétioles souvent colorés",
+          "Variations spécifiques aux variétés"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Fleurs & Fruits",
+    "paragraph1": "Bien que <em>Piper methysticum</em> produise des fleurs, la plante est fonctionnellement stérile et ne forme pas de graines viables.",
+    "flowerStructure": {
+      "title": "Structure des fleurs",
+      "items": [
+        "<strong>Type:</strong> Inflorescences en épis (Spadix)",
+        "<strong>Taille:</strong> 3-9 cm de long",
+        "<strong>Couleur:</strong> Vert-blanc à jaunâtre",
+        "<strong>Position:</strong> Opposée aux feuilles",
+        "<strong>Sexe:</strong> Généralement unisexe (dioïque)"
+      ]
+    },
+    "sterility": {
+      "title": "Stérilité",
+      "paragraph1": "La stérilité de <em>P. methysticum</em> est le résultat d'une polyploïdie élevée (décaploïdie). Cela signifie :",
+      "items": [
+        "Pas de graines viables",
+        "Reproduction exclusivement végétative",
+        "Dépendance totale de l'homme",
+        "Toutes les plantes sont des clones génétiques"
+      ]
+    },
+    "paragraph2": "Cette stérilité a des conséquences profondes : sans culture humaine continue, <em>Piper methysticum</em> s'éteindrait en une génération. Chaque plante de Kava existante aujourd'hui est le résultat d'une chaîne ininterrompue de multiplication par bouturage, remontant aux premières domestications il y a environ 3 000 ans."
+  },
+  "navigation": {
+    "continueText": "Continuer dans le chapitre Botanique :",
+    "nextChapter": {
+      "title": "Culture & Écologie",
+      "description": "Cultivation, reproduction & conditions de croissance"
+    }
+  }
+}

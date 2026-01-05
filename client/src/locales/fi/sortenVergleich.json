@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Lajivertailu",
+    "subtitle": "Vertaile kahta Kava-lajiketta vierekkäin"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "sorten": "Lajikkeet",
+    "current": "Vertailu"
+  },
+  "ui": {
+    "selectVariety": "Valitse lajike...",
+    "firstVariety": "Ensimmäinen lajike",
+    "secondVariety": "Toinen lajike",
+    "toProfile": "Lajikeprofiiliin",
+    "potency": "Teho",
+    "badgeInfo": "<span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> Merkit osoittavat eron toiseen lajikkeeseen"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Tasapainoinen",
+    "heavy": "Raskas"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Vaikutusprofiilin vertailu"
+    },
+    "basicInfo": {
+      "title": "Perustiedot"
+    },
+    "dosage": {
+      "title": "Suositeltu annostus"
+    },
+    "applications": {
+      "title": "Käyttöalueet"
+    },
+    "usageTimes": {
+      "title": "Käyttöajat"
+    },
+    "kavalactones": {
+      "title": "Kavalaktoniprofiili"
+    },
+    "notes": {
+      "title": "Huomiot"
+    }
+  },
+  "effects": {
+    "euphoria": "Euforia",
+    "relaxation": "Rentoutuminen",
+    "sedation": "Sedaatio",
+    "clarity": "Selkeys",
+    "sociability": "Sosiaalisuus",
+    "anxiolysis": "Ahdistuksen lievitys"
+  },
+  "info": {
+    "chemotype": "Kemotyyppi",
+    "duration": "Vaikutuksen kesto",
+    "availability": "Saatavuus",
+    "price": "Hinta"
+  },
+  "dosageLabels": {
+    "beginner": "Aloittelija",
+    "regular": "Säännöllinen",
+    "experienced": "Kokenut"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Valitse kaksi lajiketta vertailtavaksi",
+    "description": "Käytä ylhäällä olevia pudotusvalikoita valitaksesi kaksi Kava-lajiketta ja vertaillaksesi niiden ominaisuuksia, vaikutuksia ja suosituksia suoraan.",
+    "tips": {
+      "title": "Vertailuvinkit",
+      "items": [
+        "Vertaile saman kategorian lajikkeita saadaksesi samanlaisia vaikutusprofiileja",
+        "Vertaile Heady vs. Heavy saadaksesi vastakkaisia kokemuksia",
+        "Kiinnitä huomiota kemotyyppieroihin saadaksesi tieteellisiä näkemyksiä"
+      ]
+    },
+    "quickSelections": "Nopea valinta",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu-klassikot",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Aloittelijasuositus",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

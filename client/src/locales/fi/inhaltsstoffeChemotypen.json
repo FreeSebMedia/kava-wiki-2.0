@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "Kemotyyppijärjestelmä",
+    "subtitle": "Kuinka 6-numeroinen koodi ennustaa Kava-lajikkeen vaikutuksia ja erottaa Noble ja Tudei.",
+    "category": "Ainesosat"
+  },
+  "breadcrumbs": {
+    "home": "Etusivu",
+    "inhaltsstoffe": "Ainesosat",
+    "current": "Kemotyypit"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "einfuehrung": "Mikä on kemotyyppi?",
+    "nummerierung": "Kavalaktonien numerointi",
+    "lesen": "Kemotyypin lukeminen",
+    "beispiele": "Esimerkkejä & Tulkitseminen",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Tudei-tunnistus kemotyypin avulla",
+    "wirkungsprofile": "Vaikutusprofiilit kemotyypin mukaan",
+    "heady": "Heady Kavat",
+    "heavy": "Heavy Kavat",
+    "balanced": "Tasapainoiset Kavat",
+    "qualitaet": "Kemotyyppi & Laadunvalvonta"
+  },
+  "einfuehrung": {
+    "paragraph1": "Kemotyyppi on <strong>6-numeroinen koodi</strong>, joka listaa kuusi pääkavalaktonia niiden pitoisuuden laskevassa järjestyksessä. Se toimii kuin \"sormenjälki\" jokaiselle Kava-lajikkeelle ja mahdollistaa odotettavan vaikutuksen ennustamisen – vielä ennen kuin on ottanut kulauksen.",
+    "paragraph2": "Tämä järjestelmä kehitettiin 1980-luvulla Vincent Lebotin toimesta ja se on nykyään kansainvälinen standardi Kavan luokittelussa ja laadunvalvonnassa. Se on tärkein työkalu erottamaan korkealaatuinen \"Noble Kava\" huonolaatuisesta \"Tudei Kava\"."
+  },
+  "nummerierung": {
+    "title": "Kavalaktonien numerointi",
+    "intro": "Jokaiselle kuudelle pääkavalaktonille on annettu numero. Tämä järjestys on historiallinen ja perustuu niiden löytämisjärjestykseen tai kromatografiseen eluutioon:",
+    "tableHeaders": {
+      "digit": "Numero",
+      "kavalacton": "Kavalakton",
+      "abbreviation": "Lyhenne",
+      "effect": "Päävaikutus"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Keskittyminen, dopamiinitason nousu"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Lihasrentoutus, kipulääkitys"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "CB1-aktiivisuus, euforia"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Ahdistusta lievittävä, \"Heady\"-vaikutus"
+      },
+      {
+        "digit": "5",
+        "name": "Dihydromethystisiini",
+        "abbreviation": "DHM",
+        "effect": "Pitkä sedatiivinen, Tudei-merkki"
+      },
+      {
+        "digit": "6",
+        "name": "Methystisiini",
+        "abbreviation": "M",
+        "effect": "Sedatiivinen, neuroprotektiivinen"
+      }
+    ],
+    "mnemonic": "<strong>Muistivihje:</strong> Numerot <strong>4</strong> (Kavain) ja <strong>2</strong> (Dihydrokavain) ovat \"hyviä\" lähtöasemia Noble Kava. Numero <strong>5</strong> (Dihydromethystisiini) ensimmäisissä kahdessa paikassa on varoitusmerkki Tudei-Kavasta."
+  },
+  "lesen": {
+    "title": "Kemotyypin lukeminen",
+    "intro": "Kemotyyppi kirjoitetaan 6-numeroisena lukuna, jossa jokainen paikka osoittaa suhteellisen pitoisuuden:",
+    "positions": [
+      {
+        "rank": "1. Sija",
+        "label": "Korkein pitoisuus",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "2. Sija",
+        "label": "Toiseksi korkein",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3. Sija",
+        "label": "Kolmanneksi korkein",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4. Sija",
+        "label": "Neljänneksi korkein",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5. Sija",
+        "label": "Viidenneksi korkein",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6. Sija",
+        "label": "Alhaisin",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Esimerkkejä & Tulkitseminen",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Tyypillinen Noble Kava (esim. Borogu)",
+        "description": "<strong>Kavain</strong> dominoi, jota seuraa <strong>Dihydrokavain</strong>. DHM (5) on vain sijalla 4. Odotettu vaikutus: Selkeä, keskittynyt rentoutuminen hyvällä lihasrentoutuksella. Ei \"krapulaa\"."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, kehollinen (esim. Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> ensimmäisellä sijalla tarkoittaa voimakkaampaa kehollista rentoutumista. Ihanteellinen iltaan. Silti Noble, koska DHM (5) on kaukana takana."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (esim. Isa)",
+        "description": "<strong>DHM (5)</strong> ensimmäisellä sijalla on selkeä varoitusmerkki. Odotettu vaikutus: Erittäin pitkä sedaatio (12+ tuntia), mahdollinen pahoinvointi, \"krapula\" seuraavana päivänä. Ei sovellu säännölliseen käyttöön."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (esim. Palimanu)",
+        "description": "<strong>DHM (5)</strong> sijalla 2 on myös ongelmallinen. Vaikka DHK (2) on edellä, korkea DHM-osuus tekee tästä lajikkeesta sopimattoman vientiin ja säännölliseen käyttöön."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Ero <strong>Noble Kava</strong> (jalokava) ja <strong>Tudei Kava</strong> (kaksipäiväinen kava) välillä on perustavanlaatuinen Kavan laadulle. Nimi \"Tudei\" tulee siitä, että näiden lajikkeiden vaikutus voi kestää jopa kaksi päivää – epämiellyttävien sivuvaikutusten kanssa.",
+    "tableHeaders": {
+      "criterion": "Kriteeri",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Kemotyypin alku",
+        "noble": "Aloittaa 4:llä tai 2:lla, ei koskaan 5:llä",
+        "tudei": "Aloittaa usein 5:llä tai on 5 sijalla 2"
+      },
+      {
+        "criterion": "Vaikutuksen alkaminen",
+        "noble": "Nopea (10-20 minuuttia)",
+        "tudei": "Viivästynyt (30-90 minuuttia)"
+      },
+      {
+        "criterion": "Vaikutuksen kesto",
+        "noble": "Kohtuullinen (3-6 tuntia)",
+        "tudei": "Erittäin pitkä (6-12+ tuntia)"
+      },
+      {
+        "criterion": "Vaikutuksen luonne",
+        "noble": "Selkeä, rentoutunut, sosiaalinen",
+        "tudei": "Tylsä, sedatiivinen, huimaava"
+      },
+      {
+        "criterion": "Sivuvaikutukset",
+        "noble": "Minimaaliset oikealla valmistuksella",
+        "tudei": "Pahoinvointi, päänsärky, \"krapula\""
+      },
+      {
+        "criterion": "Vientilupa",
+        "noble": "Kyllä (säädelty)",
+        "tudei": "Ei (kielletty Vanuatulla)"
+      },
+      {
+        "criterion": "Esimerkkilajikkeet",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wildkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Tudei-tunnistus kemotyypin avulla",
+    "intro": "Yksinkertaisin sääntö Tudei-Kavan tunnistamiseen:",
+    "warningTitle": "Varoitusmerkit",
+    "warnings": [
+      "<strong>5</strong> sijalla 1 tai 2",
+      "<strong>5</strong> ennen <strong>4</strong> kemotyypissä",
+      "Erittäin korkea DHM-osuus (>15%)"
+    ],
+    "safeTitle": "Turvalliset merkit",
+    "safeIndicators": [
+      "<strong>4</strong> tai <strong>2</strong> sijalla 1",
+      "<strong>5</strong> sijalla 4, 5 tai 6",
+      "Kavain-dominanssi (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Vaikutusprofiilit kemotyypin mukaan",
+    "intro": "Kemotyypin perusteella Noble Kava -lajikkeet voidaan jakaa kolmeen pääkategoriaan:"
+  },
+  "heady": {
+    "title": "Heady Kavat",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavat sisältävät <strong>Kavain (4)</strong> ensimmäisellä sijalla ja niillä on ensisijaisesti henkinen vaikutus. Ne edistävät keskittymistä, selkeyttä ja mielialan kohottamista ilman voimakasta sedaatioita.",
+    "idealTitle": "Ihanteellinen:",
+    "idealFor": [
+      "Sosiaaliset tilaisuudet ja keskustelut",
+      "Luova työ",
+      "Päivällä tai aikaisessa illassa",
+      "Aloittelijat (lievempi vaikutus)"
+    ],
+    "examples": "<strong>Esimerkkilajikkeet:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavat",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavat sisältävät <strong>Dihydrokavain (2)</strong> ensimmäisellä sijalla ja vaikuttavat ensisijaisesti kehoon. Ne tarjoavat voimakasta lihasrentoutusta ja ovat ihanteellisia rentoutumiseen pitkän päivän jälkeen.",
+    "idealTitle": "Ihanteellinen:",
+    "idealFor": [
+      "Illallinen rentoutuminen",
+      "Stressin lievitys ja lihasrentoutus",
+      "Nukkumaan valmistautuminen",
+      "Kokenut Kava-juoja"
+    ],
+    "examples": "<strong>Esimerkkilajikkeet:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Tasapainoiset Kavat",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Tasapainoiset Kavat sisältävät tasapainoisen jakautumisen Kavainista ja Dihydrokavainista ja tarjoavat sekä henkistä selkeyttä että kehollista rentoutumista. Ne ovat monipuolisimpia lajikkeita.",
+    "idealTitle": "Ihanteellinen:",
+    "idealFor": [
+      "Päivittäinen käyttö",
+      "Meditaatio ja tietoisuus",
+      "Monipuolinen käyttö (päivällä tai illalla)",
+      "Kaikki kokemustasot"
+    ],
+    "examples": "<strong>Esimerkkilajikkeet:</strong> Bir Kar, Melomelo (eri eristä riippuen)"
+  },
+  "qualitaet": {
+    "title": "Kemotyyppi & Laadunvalvonta",
+    "intro": "Kemotyyppi on nykyään tärkein väline <strong>laadunvalvonnassa</strong> kansainvälisessä Kava-kaupassa. Vanuatulla, joka on suurin Kavan viejä, kemotyypin analyysi on lain mukaan pakollista ennen Kavan vientiä.",
+    "lawTitle": "Vanuatu Kava Act (2002)",
+    "lawText": "Vanuatun Kava-laki määrää, että vain <strong>Noble Kava -lajikkeet</strong> ovat sallittuja vientiin. Tudei-lajikkeet ja niiden seokset on suljettu pois viennistä. Noudattamista valvotaan kemotyypin analyyseillä.",
+    "lawNote": "Tämä on yksi syy siihen, miksi Vanuatulta tuleva Kava on erityisen korkealaatuista – valtion laadunvalvontaa, joka estää Tudei-kontaminaation.",
+    "consumerTip": "<strong>Vinkki kuluttajille:</strong> Luotettavat Kava-kauppiaat ilmoittavat tuotteidensa kemotyypin tai voivat kertoa sen pyynnöstä. Jos kauppias ei voi antaa kemotyyppitietoja, on syytä olla varovainen."
+  },
+  "navigation": {
+    "nextCategory": "Siirry seuraavaan kategoriaan:",
+    "sortenTitle": "Lajikkeet & Varietaatit",
+    "sortenDescription": "Yli 80 dokumentoitua Kava-lajiketta ja niiden ominaisuuksia"
+  }
+}

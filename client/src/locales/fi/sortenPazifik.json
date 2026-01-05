@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Lajit Fijiltä, Tongalta ja Havaijilta",
+    "subtitle": "Alueelliset Kava-erikoisuudet koko Tyyneltämereltä: Fijin Yaqonasta Havaijin 'Awaan.",
+    "category": "Lajit"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "sorten": "Lajit",
+    "current": "Tyynimeri"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fiji – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Kaikki Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Muut alueet",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Alkuperä",
+    "type": "Tyyppi",
+    "composition": "Koostumus",
+    "duration": "Vaikutusaika",
+    "effectProfile": "Vaikutusprofiili",
+    "recommendedFor": "Suositellaan:",
+    "variety": "Laji",
+    "speciality": "Erikoisuus"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\">Fijillä Kava tunnetaan nimellä <strong>Yaqona</strong> (lausutaan \"Yang-gona\") ja se on virallinen kansallinen juoma. Nimi tarkoittaa \"karvas\" ja viittaa sen ominaismakuun. Toinen nimi, <strong>Malogu</strong>, tarkoittaa \"rauhoittaa\" ja kuvaa vaikutusta.</p><p>Fijillä on <strong>13 dokumentoitua Kava-lajia</strong> ja se on tunnettu korkealaatuisesta käsittelystään. Erityisesti arvostetaan <strong>Waka</strong> - Kavaa, joka valmistetaan yksinomaan sivujuurista (ei juurakosta) ja jota pidetään voimakkaana.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Raskas",
+        "speciality": "Erittäin voimakas, voimakkaasti rauhoittava"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Tasapainoinen",
+        "speciality": "Tasapainoinen, monipuolinen"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Raskas",
+        "speciality": "Pitkäkestoinen"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Tasapainoinen",
+        "speciality": "Perinteinen"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Raskas",
+        "speciality": "Harvinainen, erittäin arvostettu"
+      },
+      {
+        "name": "Yalu",
+        "type": "Tasapainoinen",
+        "speciality": "Mieto, miellyttävä"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Raskas",
+      "Erittäin voimakas"
+    ],
+    "origin": "Fiji (eri saarten)",
+    "type": "Waka (sivujuuret)",
+    "duration": "5-8 tuntia",
+    "description": "<strong>Loa Waka</strong> on yksi markkinoiden voimakkaimmista Kava-lajeista. \"Loa\" tarkoittaa fijiläisessä \"tumma\" ja viittaa juurten väriin. \"Waka\" tarkoittaa korkealaatuisia sivujuuria. Tämä yhdistelmä tuottaa äärimmäisen voimakkaan, kehoon vaikuttavan Kavan.",
+    "effects": [
+      {
+        "text": "<strong>Äärimmäisen rauhoittava:</strong> Yksi voimakkaimmista \"Raskas\" Kavoista"
+      },
+      {
+        "text": "<strong>Syvä lihasrentoutus:</strong> Ihanteellinen <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">jännityksiin</a>"
+      },
+      {
+        "text": "<strong>Unentukeminen:</strong> Täydellinen <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">unihäiriöihin</a>"
+      },
+      {
+        "text": "<strong>Pitkäkestoinen:</strong> Vaikutus voi kestää 5-8 tuntia"
+      }
+    ],
+    "recommendedFor": "Kokenut käyttäjä, iltakäyttö, vaikeat unihäiriöt",
+    "warning": "<strong>Varoitus:</strong> Loa Waka on erittäin voimakas. Aloittelijoiden tulisi aloittaa pienemmällä annoksella ja odottaa vaikutusta ennen lisäannostelua."
+  },
+  "tonga": {
+    "title": "Tonga – Kaikki Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> on ainutlaatuinen Kava-maailmassa: <strong>Kaikki siellä viljellyt lajikkeet ovat Noble</strong>. Tongassa ei ole Tudei-lajikkeita. Tämä tekee tongalaisesta Kavasta erityisen turvallista ja ennustettavaa.</p><p>Tongalainen Kava tunnetaan enemmän <strong>\"heady\"</strong> (pään vaikutus) vaikutuksestaan. Lajikkeet ovat yleensä vähemmän rauhoittavia kuin Fijin tai Vanuatun Kava ja soveltuvat hyvin päivittäiseen käyttöön ja sosiaalisiin tilaisuuksiin.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "Suosituin lajike, sosiaalinen"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Tasapainoinen",
+        "speciality": "Mieto, miellyttävä"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Tasapainoinen",
+        "speciality": "Perinteinen"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Tasapainoinen",
+        "speciality": "Lempeä, hyvä aloittelijoille"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euforinen"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Aloittelijaystävällinen"
+    ],
+    "origin": "Tonga",
+    "composition": "Seos (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 tuntia",
+    "description": "<strong>Pouni Ono</strong> on ehkä tunnetuin \"päivä-Kava\" ja sekoitus useista tongalaisista lajikkeista (tyypillisesti Leka Hina, Kava Kula ja Kava Fulufulu). Nimi tarkoittaa \"kuusi kertaa\" ja viittaa perinteiseen valmistustapaan.",
+    "effects": [
+      {
+        "text": "<strong>Euforinen:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Mielialan kohottava</a> ja sosiaalinen"
+      },
+      {
+        "text": "<strong>Virvoittava:</strong> Vähän rauhoittava, ihanteellinen päivälle"
+      },
+      {
+        "text": "<strong>Mieto maku:</strong> Miellyttävämpi kuin monet muut lajikkeet"
+      },
+      {
+        "text": "<strong>Lyhyt vaikutusaika:</strong> Hyvin hallittavissa"
+      }
+    ],
+    "recommendedFor": "Aloittelijat, päivittäinen käyttö, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">sosiaaliset tilaisuudet</a>, työ",
+    "tip": "<strong>Vinkki:</strong> Pouni Ono on yksi parhaista lajikkeista Kava-aloittelijoille. Miedon maun ja miellyttävän, ei ylivoimaisen vaikutuksen ansiosta aloittaminen on helppoa."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">Havaijilla Kava tunnetaan nimellä <strong>'Awa</strong>. Havaijilla on <strong>13 perinteistä lajiketta</strong>, jotka kaikki ovat Noble ja soveltuvat kulutukseen. Havaijilainen 'Awa on tunnettu korkeasta potentiaalistaan ja ainutlaatuisesta luonteestaan.</p><p>'Awalla on erityinen kulttuurinen merkitys Havaijilla. Historiallisesti tietty 'Awa oli varattu aatelistolle (Ali'i). Nykyään havaijilaista Kavaa valmistetaan usein tuoreena ja se on korkeiden tuotantokustannusten vuoksi kalliimpaa kuin muista alueista tuleva Kava.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Kuningas Kava, erittäin aivoihin vaikuttava"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Raskas",
+        "speciality": "Seremoniallinen, voimakkaasti rauhoittava"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Tasapainoinen",
+        "speciality": "Tasapainoinen, monipuolinen"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Mieto, miellyttävä"
+      },
+      {
+        "name": "Nene",
+        "type": "Tasapainoinen",
+        "speciality": "Perinteinen"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Raskas",
+        "speciality": "Harvinainen, erittäin arvostettu"
+      }
+    ],
+    "warning": "<strong>Huomio:</strong> Havaijilla viljellään myös kahta tuotu Tudei-lajiketta: <strong>Isa</strong> ja <strong>Iwi</strong>. Nämä eivät ole kotoperäisiä ja niitä tulisi välttää."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Kuningallinen"
+    ],
+    "origin": "Hawaii",
+    "type": "Heady / Aivoihin vaikuttava",
+    "duration": "2-4 tuntia",
+    "description": "<strong>Moi</strong> on legendaarinen \"Kavojen kuningas\". Havaijilaisessa historiassa Moi oli varattu aatelistolle (Ali'i) ja sitä ei saanut kuluttaa tavallisten ihmisten. Nykyään se tunnetaan poikkeuksellisen aivoihin vaikuttavasta, henkisesti selkeyttävästä vaikutuksestaan.",
+    "effects": [
+      {
+        "text": "<strong>Äärimmäisen aivoihin vaikuttava:</strong> Edistää henkistä selkeyttä ja keskittymistä"
+      },
+      {
+        "text": "<strong>Luovuutta edistävä:</strong> Ihanteellinen <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">luovaan työhön</a>"
+      },
+      {
+        "text": "<strong>Vähän rauhoittava:</strong> Ei väsyttävä"
+      },
+      {
+        "text": "<strong>Hengellinen:</strong> Perinteisesti meditaatioon ja seremonioihin"
+      }
+    ],
+    "recommendedFor": "Luova työ, meditaatio, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kognitiiviset tehtävät</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>Samooassa Kava tunnetaan nimellä <strong>'Ava</strong>. Samoalla on vain <strong>4 dokumentoitua lajiketta</strong>, mutta rikas seremoniallinen perinne. 'Ava-seremonia on tärkeä osa samoalaista kulttuuria ja sitä pidetään virallisissa tilaisuuksissa.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Tasapainoinen",
+        "speciality": "Perinteinen, seremoniallinen"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Mieto, miellyttävä"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Raskas",
+        "speciality": "Voimakkaampi, rauhoittava"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Tasapainoinen",
+        "speciality": "Tuotu Tongasta"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Muut alueet",
+    "intro": "Pääviljelyalueiden lisäksi Kavaa löytyy myös joiltakin muilta Tyynenmeren alueilta:",
+    "regions": [
+      {
+        "name": "Papua-Uuden-Guinea",
+        "description": "PNG:llä on vain <strong>yksi Noble-lajike</strong>: <strong>Kau kupwe</strong>, jota viljellään Baluan saarella. Suurin osa muista PNG-lajikkeista on Tudei ja niitä tulisi välttää."
+      },
+      {
+        "name": "Salomonsaarten",
+        "description": "Salomonsaarten alueella on myös vain <strong>yksi Noble-lajike</strong>: <strong>Melomelo</strong> (ei sekoiteta Vanuatun Melo Melon kanssa, vaikka ne voisivat olla sukua)."
+      },
+      {
+        "name": "Mikronesia",
+        "description": "Mikronesian liittovaltioissa (Pohnpei) on lajike <strong>Rahmwahnger</strong>. Kava on siellä tärkeä seremoniallinen merkitys."
+      },
+      {
+        "name": "Wallis ja Futuna",
+        "description": "Nämä ranskalaiset territoriot omaavat omat Kava-perinteensä, mutta vähän dokumentoituja ainutlaatuisia lajikkeita."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Jatka Lajit-luvussa:",
+    "nextTitle": "Lajiprofiilit yksityiskohtaisesti",
+    "nextDescription": "Yksityiskohtaiset esittelyt kaikista tärkeistä lajikkeista kemotyypeittäin, vaikutuksiltaan ja suosituksiltaan",
+    "nextLink": "/de/sorten/profile"
+  }
+}

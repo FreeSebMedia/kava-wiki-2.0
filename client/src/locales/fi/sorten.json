@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Lajit & Kultivarit",
+    "subtitle": "Kattava opas Kava-lajien maailmaan: Borogusta Pouni Onoon, Headysta Heavyyn.",
+    "category": "Lajit",
+    "breadcrumb": {
+      "home": "Etusivu",
+      "current": "Lajit"
+    }
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Johdanto",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "Kolme vaikutustyyppiä",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Viljelyalueet",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Mikä lajike sopii minulle?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Syventävät artikkelit",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Nykyään on olemassa <strong>yli 100 dokumentoitua Kava-lajiketta</strong>, jotka eroavat toisistaan alkuperän, kemotyyppien ja vaikutusten suhteen. Pelkästään Vanuatulla, joka on kasvin oletettu alkuperämaa, tunnetaan yli 80 erilaista kultivaria. Tämä monimuotoisuus on tulosta yli 3 000 vuoden kestäneestä tavoitteellisesta valinnasta Tyynenmeren kulttuurien toimesta.",
+      "text": "Lajikkeiden erot eivät ole vain akateemisia – ne määrittävät merkittävästi, millaista vaikutusta Kava-juoma tuottaa. <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai Vanuatulta</a> vaikuttaa täysin eri tavalla kuin <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka Fidžiltä</a>. Näiden erojen ymmärtäminen on avain tietoiseen ja tyydyttävään Kava-kokemukseen."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "Tärkein ero, jonka jokaisen Kava-kuluttajan on tunnettava, on <strong>Noble Kava</strong> (jalokava) ja <strong>Tudei Kava</strong> välillä. Tämä luokittelu on otettu käyttöön Vanuatun hallituksen toimesta ja se perustuu kunkin lajikkeen <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kemotyyppiin</a>.",
+      "noble": {
+        "title": "Noble Kava (jalokava)",
+        "items": [
+          "Vuosisatojen ajan valittu miellyttävän vaikutuksen vuoksi",
+          "Kemotyyppi alkaa <strong>2</strong> tai <strong>4</strong>, ei koskaan 5 tai 6",
+          "Vaikutuksen alkaminen: 10-20 minuuttia",
+          "Vaikutuksen kesto: 3-6 tuntia, häipyy puhtaasti",
+          "Ei \"krapulaa\" seuraavana päivänä",
+          "Turvallinen säännölliseen käyttöön"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Kaksi päivää)",
+        "items": [
+          "Kemotyyppi alkaa <strong>5</strong> tai <strong>6</strong> (DHM-dominantti)",
+          "Vaikutuksen alkaminen: 30-90 minuuttia (viivästynyt)",
+          "Vaikutus kestää erittäin pitkään (jopa 2 päivää)",
+          "Usein aiheuttaa pahoinvointia ja lethargiaa",
+          "\"Krapula\"-tunne seuraavana päivänä",
+          "Vanuatulla kielletty vientiin"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Ostaessasi varmista, että myyjä ilmoittaa kemotyypin ja tarkan lajikkeen. Tämä läpinäkyvyys on hyvä merkki aidosta Noble Kava -tuotteesta.",
+      "linkText": "Lisätietoja Noble vs. Tudeista"
+    },
+    "wirktypen": {
+      "title": "Kolme vaikutustyyppiä",
+      "intro": "Noble Kava -lajikkeet jaotellaan kolmen päävaikutuksen mukaan. Tämä jako perustuu <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kemotyyppiin</a> – eli kuuden pää-<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">kavalaktonin</a> suhteelliseen pitoisuuteen.",
+      "heady": {
+        "title": "Heady",
+        "description": "Päähän kohdistuva vaikutus: Euforia, henkinen selkeys, seurallisuus. Ihanteellinen päivälle ja sosiaalisiin tilaisuuksiin.",
+        "chemotype": "Usein alkaa 4:stä (kavain) tai 2:sta (DHK)",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Tunnelma & Sosiaalisuus"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Tasapainoinen vaikutus: Rentoutumista ilman väsymystä, henkistä rauhaa fyysisen hyvinvoinnin kanssa.",
+        "chemotype": "Tasapainoinen suhde 4, 2 ja 3",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Ahdistuksen lievitys"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Kehon kohdistuva vaikutus: Syvä lihasrentoutuminen, sedaatio, ihanteellinen iltaan ja nukkumiseen.",
+        "chemotype": "Korkea DHK-pitoisuus (2) asemissa 1-2",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Uni & Rentoutuminen"
+      },
+      "calculatorLink": "Kemotyyppilaskuri: Analysoi jokainen kemotyyppi"
+    },
+    "regionen": {
+      "title": "Viljelyalueet yleiskatsauksena",
+      "intro": "Kavaa viljellään nykyään eri alueilla Tyynellämerellä. Jokaisella alueella on kehitetty omat lajikkeensa, jotka on mukautettu paikalliseen ilmastoon ja kulttuurisiin mieltymyksiin.",
+      "tableHeaders": {
+        "region": "Alue",
+        "count": "Lajike määrä",
+        "localName": "Paikallinen nimi",
+        "varieties": "Tunnetut lajikkeet",
+        "characteristics": "Ominaisuudet"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "Suurin monimuotoisuus, alkuperäalue"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Usein raskaampi, hyvä käsittely"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Kaikki Noble, enemmän heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Erittäin voimakas, kallis"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Perinteinen, seremoniallinen"
+        },
+        {
+          "region": "Papua-Uuden-Guinea",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Ainoa Noble-lajike"
+        }
+      ],
+      "vanuatuLink": "Lajikkeet Vanuatulta",
+      "pazifikLink": "Lajikkeet Fidžiltä, Tonga & Hawaii"
+    },
+    "auswahl": {
+      "title": "Mikä lajike sopii minulle?",
+      "intro": "Oikean Kava-lajikkeen valinta riippuu haluamastasi vaikutuksesta ja vuorokaudenajasta. Tässä on suuntaviivoja:",
+      "recommendations": [
+        {
+          "purpose": "Sosiaalisille tilaisuuksille",
+          "type": "Heady",
+          "description": "Valitse <strong>Heady</strong> Kava:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Stressiä & ahdistusta vastaan",
+          "type": "Balanced",
+          "description": "Valitse <strong>Balanced</strong> Kava:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Lihasten rentoutumiseen",
+          "type": "Heavy",
+          "description": "Valitse <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Nukahtamiseen",
+          "type": "Heavy",
+          "description": "Valitse <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Aloita <strong>Balanced</strong> Kava:lla, kuten Melo Melo tai Borogu. Nämä lajikkeet tarjoavat miellyttävän, tasapainoisen kokemuksen ilman äärimmäisiä vaikutuksia suuntaan tai toiseen.",
+      "tipLabel": "Vinkki aloittelijoille:"
+    },
+    "unterseiten": {
+      "title": "Syventävät artikkelit",
+      "intro": "Tutustu Kava-lajien eri puoliin erikoistuneilla alasivuillamme:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "Tärkein ero: Miksi Noble Kava on turvallista ja Tudeita tulisi välttää.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Lajikkeet Vanuatulta",
+      "description": "Yli 80 lajiketta Kavan kotimaasta: Borogu, Melo Melo, Kelai, Palasa ja paljon muuta.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Lajikkeet Fidžiltä, Tonga & Hawaii",
+      "description": "Alueelliset erikoisuudet: Loa Waka, Pouni Ono, 'Awa Moi ja niiden ainutlaatuiset ominaisuudet.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Lajikeprofiilit yksityiskohtaisesti",
+      "description": "Yksityiskohtaiset esittelyt tärkeimmistä lajikkeista kemotyypeistä, vaikutuksista ja suosituksista.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Takaisin",
+      "title": "Ainesosat"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Seuraava",
+      "title": "Valmistus"
+    }
+  }
+}

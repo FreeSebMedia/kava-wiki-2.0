@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Nakamal & Kava-baari",
+    "subtitle": "Perinteisistä kokoontumistaloista moderneihin Kava-baareihin – Kava-kulttuurin sosiaalinen arkkitehtuuri",
+    "category": "Kulttuuri"
+  },
+  "breadcrumbs": {
+    "home": "Etusivu",
+    "kultur": "Kulttuuri",
+    "current": "Nakamal"
+  },
+  "toc": {
+    "einfuehrung": "Johdanto",
+    "traditionell": "Perinteinen Nakamal",
+    "atmosphaere": "Tunnelma & Säännöt",
+    "architektur": "Arkkitehtuuri",
+    "modern": "Modernit Kava-baari",
+    "regionen": "Alueelliset erot",
+    "etikette": "Nakamal-etiketti",
+    "besuch": "Vieraile Nakamalissa"
+  },
+  "intro": {
+    "lead": "Nakamal on paljon enemmän kuin vain paikka, jossa juodaan Kavaa – se on Vanuatun sosiaalisen elämän sydän ja malli Kava-baareille ympäri maailmaa.",
+    "p1": "Melanesialaisessa kulttuurissa Nakamal toimii kokoontumistalona, yhteisökeskuksena ja hengellisenä paikkana. Täällä ratkaistaan konflikteja, kerrotaan tarinoita, solmitaan liittoumia ja vaalitaan yhteyttä esi-isiin.",
+    "p2": "Nykyään Vanuatun perinteisten Nakamalien lisäksi on moderneja Kava-baareja Port Vilassa, Suvassa, Aucklandissa ja jopa lännen kaupungeissa kuten Melbournessa, Los Angelesissa ja Berliinissä. Kaikki jakavat yhteisiä periaatteita: rauha, kunnioitus ja yhteisöllisyys."
+  },
+  "traditional": {
+    "title": "Perinteinen Nakamal",
+    "intro": "Vanuatun perinteisissä kyläyhteisöissä Nakamal on <strong>keskeinen kokoontumispaikka</strong> – paikka, joka on usein varattu vain miehille (vaikka tämä muuttuu kaupunkialueilla).",
+    "functionsTitle": "Nakamalin toiminnot",
+    "functions": [
+      {
+        "icon": "users",
+        "title": "Yhteisön kokoontumispaikka",
+        "desc": "Päivittäinen kokoontumispaikka kyläläisille työn jälkeen"
+      },
+      {
+        "icon": "scale",
+        "title": "Konfliktinratkaisu",
+        "desc": "Riitoja ratkaistaan täällä rauhallisesti Kava-vaikutuksen alaisena"
+      },
+      {
+        "icon": "landmark",
+        "title": "Poliittinen neuvonta",
+        "desc": "Tärkeitä kyläpäätöksiä käsitellään Nakamalissa"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Hengellinen yhteys",
+        "desc": "Yhteydenpito esi-isien henkiin rituaalisten Kava-seremonioiden kautta"
+      },
+      {
+        "icon": "book",
+        "title": "Tietämyksen siirto",
+        "desc": "Suullinen perinteiden, myyttien ja kastomien siirto"
+      },
+      {
+        "icon": "handshake",
+        "title": "Vieraiden vastaanotto",
+        "desc": "Vieraiden vastaanottaminen ja liittoumien solmiminen"
+      }
+    ],
+    "genderNote": "Perinteisesti Nakamal on <strong>miesten tila</strong>. Monissa kylissä naisilta on kielletty pääsy Nakamaliin tai Kavan juonti. Tämä perinne vaihtelee kuitenkin saarten välillä ja löystyy yhä enemmän kaupunkialueilla."
+  },
+  "atmosphere": {
+    "title": "Tunnelma & Säännöt",
+    "intro": "Nakamal on <strong>rauhoittumisen ja mietiskelyn</strong> paikka. Tunnelma poikkeaa perustavanlaatuisesti lännen baareista.",
+    "rulesTitle": "Nakamalin säännöt",
+    "rules": [
+      {
+        "rule": "Puhukaa hiljaa",
+        "explanation": "Kova puhe ja nauru ovat sopimattomia – puhutaan vaimeasti"
+      },
+      {
+        "rule": "Hämyinen valaistus",
+        "explanation": "Kava tekee silmistä valonarkoja (\"Kava-silmät\") – kirkasta valoa vältetään"
+      },
+      {
+        "rule": "Ei kovaa musiikkia",
+        "explanation": "Hiljaisuus tai hiljaiset perinteiset äänet ovat normi"
+      },
+      {
+        "rule": "Kunnioittava käytös",
+        "explanation": "Riidat ja aggressiivinen käytös ovat tabuja"
+      },
+      {
+        "rule": "Ei syömistä",
+        "explanation": "Perinteisesti Nakamalissa ei syödä – Kavaa juodaan tyhjään vatsaan"
+      },
+      {
+        "rule": "Minimivisiitti",
+        "explanation": "Pysytään hetki ja juodaan useita kulhoja ennen lähtöä"
+      }
+    ],
+    "sensoryBox": {
+      "title": "Aistielämys",
+      "sight": "Hämyvaloa, usein vain kynttilöitä tai heikkoja lamppuja",
+      "sound": "Vaimeat äänet, sirkat, kookospähkinöiden hiljainen kolina",
+      "smell": "Maanläheinen Kava-tuoksu, sekoitettuna trooppiseen yöilmaan",
+      "taste": "Tuoreen Kavan pippurinen, maanläheinen maku",
+      "feel": "Kasvava rentoutuminen, yhteisöllisyyden tunne"
+    }
+  },
+  "architecture": {
+    "title": "Nakamalin arkkitehtuuri",
+    "intro": "Perinteiset Nakamalit ovat yksinkertaisia, mutta käytännöllisiä rakenteita, jotka sopeutuvat trooppiseen ympäristöön.",
+    "elementsTitle": "Tyypilliset elementit",
+    "elements": [
+      {
+        "element": "Katettu alue",
+        "description": "Palmulehdistä tai aallotetusta levystä tehty katto suojaa sateelta"
+      },
+      {
+        "element": "Avoimet sivut",
+        "description": "Hyvä ilmanvaihto avoimien tai puoliksi avoimien seinien kautta"
+      },
+      {
+        "element": "Keskus tulipaikka",
+        "description": "Joissakin Nakamaleissa lämpöä ja valoa varten"
+      },
+      {
+        "element": "Penkit tai matot",
+        "description": "Yksinkertaiset istuimet puusta tai punotuista matoista"
+      },
+      {
+        "element": "Kava-valmistusalue",
+        "description": "Alue, jossa on morttari, siivilä ja vesikannu"
+      },
+      {
+        "element": "Sylkemisalue",
+        "description": "Alue tai oja sylkemistä varten kulhojen välillä"
+      }
+    ],
+    "tannaStyle": {
+      "title": "Tanna-tyyli",
+      "desc": "Tannalla Nakamalit ovat usein pyöreitä rakenteita luonnonmateriaaleista, jotka sulautuvat maisemaan. Pyhä banyan-puu sijaitsee usein lähellä."
+    },
+    "urbanStyle": {
+      "title": "Kaupunkityyli",
+      "desc": "Port Vilassa Nakamalit vaihtelevat yksinkertaisista majoista betonirakenteisiin neonvaloilla – tunnelma pysyy kuitenkin perinteisenä."
+    }
+  },
+  "modern": {
+    "title": "Modernit Kava-baari",
+    "intro": "Vanuatun ulkopuolella Nakamal-käsite on kehittynyt moderneiksi <strong>Kava-baareiksi</strong> – paikoiksi, jotka yhdistävät perinteiset arvot nykyaikaiseen mukavuuteen.",
+    "typesTitle": "Kava-baari tyypit",
+    "types": [
+      {
+        "type": "Aito-perinteinen",
+        "locations": "Port Vila, Suva, Nukuʻalofa",
+        "description": "Perinteinen tunnelma tuoreella Kavalla, yksinkertaisella sisustuksella ja paikallisella yleisöllä"
+      },
+      {
+        "type": "Diaspora-Nakamalit",
+        "locations": "Auckland, Sydney, Melbourne",
+        "description": "Tyynenmeren yhteisöjen ylläpitämiä, expatriatejen kokoontumispaikka, perinteisiä ja moderneja elementtejä"
+      },
+      {
+        "type": "Lännen Kava-baari",
+        "locations": "Florida, Kalifornia, New York, Berliini",
+        "description": "Moderni ympäristö, usein Kava-cocktaileilla, kahvilatunnelma, lännen yleisölle"
+      },
+      {
+        "type": "Kava-kahvilat",
+        "locations": "Kansainvälisesti",
+        "description": "Kombinaatio kahvilasta ja Kava-baarista, usein teetä, kahvia ja Kava-seoksia"
+      }
+    ],
+    "comparisonTitle": "Perinteinen vs. Moderni",
+    "comparison": [
+      {
+        "aspect": "Valmistus",
+        "traditional": "Tuoreena valmistettu, usein pureskeltu tai jauhettu",
+        "modern": "Usein pikakava tai valmiiksi valmistettu"
+      },
+      {
+        "aspect": "Tunnelma",
+        "traditional": "Erittäin rauhallinen, hämyinen valaistus",
+        "modern": "Rentouttava, mutta usein enemmän viihdettä"
+      },
+      {
+        "aspect": "Yleisö",
+        "traditional": "Paikallinen yhteisö, usein vain miehiä",
+        "modern": "Monimuotoinen yleisö, kaikki sukupuolet"
+      },
+      {
+        "aspect": "Lisätarjonta",
+        "traditional": "Vain Kavaa",
+        "modern": "Usein välipaloja, muita juomia, joskus ruokaa"
+      },
+      {
+        "aspect": "Hinnat",
+        "traditional": "Erittäin edullinen (50-100 Vatu kulholta)",
+        "modern": "Kalliimpi ($5-15 kulholta)"
+      }
+    ]
+  },
+  "regions": {
+    "title": "Alueelliset erot",
+    "intro": "Kava-juomapaikat vaihtelevat alueittain tunnelmaltaan ja perinteiltään.",
+    "places": [
+      {
+        "flag": "🇻🇺",
+        "country": "Vanuatu",
+        "name": "Nakamal",
+        "description": "Alkuperä – perinteiset kylänakamalit ja modernit kaupunkiversiot Port Vilassa. Vahvin Kava, aidoimmat kokemukset.",
+        "highlight": "Yli 400 Nakamalia pelkästään Port Vilassa"
+      },
+      {
+        "flag": "🇫🇯",
+        "country": "Fiji",
+        "name": "Kava Circle",
+        "description": "Vähemmän institutionaalinen kuin Vanuatussa – Kavaa juodaan kodeissa, kokoontumisissa ja epämuodollisissa ryhmissä.",
+        "highlight": "Tanoa (Kava-kulho) keskipisteenä"
+      },
+      {
+        "flag": "🇹🇴",
+        "country": "Tonga",
+        "name": "Faikava",
+        "description": "Rakenteellisempi kuin Fijissä – Tu'i Kava johtaa seremoniaa. Juodaan myös moderneissa \"Kalapu\" (klubeissa).",
+        "highlight": "Tiukka hierarkia tarjoilujärjestyksessä"
+      },
+      {
+        "flag": "🇼🇸",
+        "country": "Samoa",
+        "name": "'Ava Circle",
+        "description": "Viralliset seremoniat Taupoun valmistamana. Moderneja versioita \"Kava Baareista\" Apia:ssa.",
+        "highlight": "Erittäin rituaalinen valmistus"
+      },
+      {
+        "flag": "🇺🇸",
+        "country": "USA",
+        "name": "Kava Bar",
+        "description": "Lännen tyyli kahvilatunnelmalla. Erityisen suosittu Floridassa ja Kaliforniassa. Usein yhdistettynä Kratomiin.",
+        "highlight": "Yli 300 Kava-baari Floridassa"
+      },
+      {
+        "flag": "🇳🇿",
+        "country": "Uusi-Seelanti",
+        "name": "Kava Club",
+        "description": "Tyynenmeren yhteisöjen ylläpitämä. Tärkeä kokoontumispaikka tongalaisille, samolaisille ja fidschiläisille Aucklandissa.",
+        "highlight": "Yhteys kotimaahan diasporassa"
+      }
+    ]
+  },
+  "etiquette": {
+    "title": "Nakamal-etiketti",
+    "intro": "Olipa kyseessä perinteinen Nakamal Vanuatussa tai Kava-baari Floridassa – tietyt perussäännöt pätevät kaikkialla.",
+    "dosTitle": "Mitä tehdä",
+    "dos": [
+      "Puhukaa hiljaa ja olkaa kunnioittavia",
+      "Juokaa Kava yhdellä siemauksella (\"High tide\")",
+      "Palauttakaa tyhjät kulhot",
+      "Ottakaa aikaa – Kava ei ole nopea juoma",
+      "Seuratkaa rituaaleissa ohjeita",
+      "\"Bula!\" (Fiji) tai \"Malomalō!\" (Vanuatu) sanokaa"
+    ],
+    "dontsTitle": "Mitä välttää",
+    "donts": [
+      "Älkää olko äänekkäitä tai huutakaa",
+      "Älkää juoko Kavaa pieninä siemauksina",
+      "Älkää olko kärsimättömiä",
+      "Älkää ottako kuvia ilman kutsua",
+      "Älkää tuoko tai sekoittako alkoholia",
+      "Älkää neuvotelko hinnoista"
+    ],
+    "tipBox": {
+      "title": "Vinkki ensikertalaisille",
+      "text": "Jos vierailette ensimmäistä kertaa Nakamalissa tai Kava-baarissa, kysykää henkilökunnalta neuvoa. Useimmat ovat ylpeitä voidessaan selittää perinteitä uusille tulokkaille ja auttavat mielellään vahvuuden valinnassa."
+    }
+  },
+  "visit": {
+    "title": "Vieraile Nakamalissa",
+    "intro": "Suunnitteletko vierailua perinteisessä Nakamalissa tai Kava-baarissa? Tässä käytännön vinkkejä:",
+    "stepsTitle": "Askel askeleelta",
+    "steps": [
+      {
+        "step": "Saapuminen",
+        "desc": "Nakamalit avautuvat tyypillisesti auringonlaskun aikaan (17-18). Älä saavu liian aikaisin."
+      },
+      {
+        "step": "Tilaaminen",
+        "desc": "Valitse \"High tide\" (täysi kulho) ja \"Low tide\" (puolikas kulho) välillä. Aloita aloittelijana puolikkaalla kulholla."
+      },
+      {
+        "step": "Odottaminen",
+        "desc": "Tuore valmistus kestää muutaman minuutin. Hyödynnä aikaa tunnelman aistimiseen."
+      },
+      {
+        "step": "Juominen",
+        "desc": "Juokaa kulho yhdellä siemauksella. Sylje sitten, jos haluat (oja on usein saatavilla)."
+      },
+      {
+        "step": "Odottaminen & Tunteminen",
+        "desc": "Odota 10-15 minuuttia ennen kuin tilaat toisen kulhon. Tunne vaikutus."
+      },
+      {
+        "step": "Nauttiminen",
+        "desc": "Pysy hetki, keskustele hiljaa, nauti rauhallisesta tunnelmasta."
+      }
+    ],
+    "costsTitle": "Tyypilliset kustannukset",
+    "costs": [
+      {
+        "location": "Vanuatu (perinteinen)",
+        "price": "50-150 Vatu (~€0,40-1,20)",
+        "note": "Erittäin edullinen, tuore Kava"
+      },
+      {
+        "location": "Fiji",
+        "price": "FJ$2-5 (~€0,80-2)",
+        "note": "Hieman kalliimpi kuin Vanuatussa"
+      },
+      {
+        "location": "Uusi-Seelanti/Australia",
+        "price": "NZ$5-15 (~€3-8)",
+        "note": "Diaspora-hinnat"
+      },
+      {
+        "location": "USA/Eurooppa",
+        "price": "$8-18 (~€7-16)",
+        "note": "Lännen Kava-baari hinnat"
+      }
+    ],
+    "findTitle": "Löydä Nakamalit",
+    "findText": "Port Vilassa on yli 400 Nakamalia – et tule löytämään vaikeuksia löytää sellaista. Tyynenmeren ulkopuolella käytä Kava-baari hakemistoja tai kysy Tyynenmeren yhteisöiltä. Meidän <a href=\"/de/kultur/kava-bars\">Kava-baari kartta</a> auttaa sinua löytämään paikkoja lähelläsi."
+  },
+  "navigation": {
+    "title": "Lue lisää",
+    "back": {
+      "label": "Edellinen luku",
+      "title": "Seremoniat & Rituaalit",
+      "href": "/de/kultur/zeremonien"
+    },
+    "next": {
+      "label": "Seuraava luku",
+      "title": "Moderni Kava-kulttuuri",
+      "href": "/de/kultur/moderne"
+    }
+  },
+  "related": {
+    "title": "Liittyvät aiheet",
+    "links": [
+      {
+        "label": "Seremoniat & Rituaalit",
+        "href": "/de/kultur/zeremonien"
+      },
+      {
+        "label": "Perinteinen valmistus",
+        "href": "/de/zubereitung/traditionell"
+      },
+      {
+        "label": "Kava-baari kartta",
+        "href": "/de/kultur/kava-bars"
+      },
+      {
+        "label": "Vanuatun lajikkeet",
+        "href": "/de/sorten/vanuatu"
+      },
+      {
+        "label": "Sanasto: Nakamal",
+        "href": "/de/glossar#nakamal"
+      }
+    ]
+  }
+}

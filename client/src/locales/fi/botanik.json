@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Piper methysticum - Botaniikka",
+    "subtitle": "Syvällinen katsaus Kava-kasvin taksonomiaan, morfologiaan ja ekologiaan.",
+    "category": "Botaniikka"
+  },
+  "toc": {
+    "einfuehrung": "Johdanto",
+    "klassifikation": "Tieteellinen luokittelu",
+    "ueberblick": "Morfologinen yleiskatsaus",
+    "verbreitung": "Levinneisyys & Elinympäristö",
+    "vertiefung": "Syventävät artikkelit"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>, yleisesti tunnettu nimellä Kava tai Kava-Kava, on trooppinen pensas pippurikasvien perheestä (Piperaceae). Nimi <em>Piper methysticum</em> tarkoittaa suomeksi \"huumaavaa pippuria\" (kreikasta <em>methystikos</em> = huumaava).",
+    "paragraph2": "Toisin kuin monet muut psykoaktiiviset kasvit, Kava ei sisällä alkaloideja pääasiallisina vaikuttavina aineina, vaan ainutlaatuinen yhdisteiden luokka, jota kutsutaan <strong>Kavalaktoneiksi</strong>. Kasvi on ollut keskeisessä roolissa Tyynenmeren kulttuureissa tuhansien vuosien ajan ja on nykyään tulos vuosituhansien ihmisen valinnasta."
+  },
+  "classification": {
+    "title": "Tieteellinen luokittelu",
+    "headers": {
+      "rank": "Rang",
+      "name": "Tieteellinen nimi"
+    },
+    "ranks": {
+      "reich": "Kunta",
+      "abteilung": "Osasto",
+      "ordnung": "Lahko",
+      "familie": "Heimo",
+      "gattung": "Suku",
+      "art": "Laji"
+    },
+    "values": {
+      "reich": "Plantae (kasvit)",
+      "abteilung": "Tracheophyta (putkilokasvit)",
+      "ordnung": "Piperales (pippurikasvit)",
+      "familie": "Piperaceae (pippurikasvit)",
+      "gattung": "Piper (pippuri)",
+      "art": "Piper methysticum G. Forst."
+    },
+    "note": "Lähin sukulaislaji on <em>Piper wichmannii</em>, jota pidetään nykyisen viljellyn Kava-kasvin villinä esimuotona. Vaikka <em>P. wichmannii</em> (usein kutsuttu \"Villiksi Kavaksi\") voi lisääntyä seksuaalisesti, viljelty <em>P. methysticum</em> on steriili ja täysin ihmisen riippuvainen."
+  },
+  "morphology": {
+    "title": "Morfologinen yleiskatsaus",
+    "intro": "Kava on monivuotinen, ikivihreä pensas, joka tyypillisesti saavuttaa korkeuden 1,5–3 metriä, mutta optimaalisten olosuhteiden alla se voi kasvaa jopa 5 metriin.",
+    "aboveGround": {
+      "title": "Ylämmaapuolet",
+      "leaves": "<strong>Lehdet:</strong> Suuret, sydämenmuotoiset (cordat), 20-30 cm leveät",
+      "stems": "<strong>Varret:</strong> Solakka, bambumainen, lajikohtainen väri",
+      "flowers": "<strong>Kukat:</strong> Kukkavihkot, steriilit (ei siemeniä)"
+    },
+    "belowGround": {
+      "title": "Alamaapuolet",
+      "stump": "<strong>Tyvi (Corm):</strong> Paksu, puumainen juurakko",
+      "roots": "<strong>Sivujuuret (Waka):</strong> Hienommat juuret, korkein kavalaktone-pitoisuus",
+      "weight": "<strong>Paino:</strong> 5-25 kg kypsissä kasveissa (3-5+ vuotta)"
+    }
+  },
+  "distribution": {
+    "title": "Levinneisyys & Elinympäristö",
+    "intro": "Kava on kotoisin lännen Tyynestämerestä. Sen alkuperäalue sijaitsee pohjoisessa Vanuatussa, jossa on suurin geneettinen monimuotoisuus. Sieltä kasvi levisi polynesialaisilta merenkulkijoilta (\"Canoe Plants\") koko Tyynellemerelle.",
+    "regionsIntro": "Nykyään Kavaa viljellään pääasiassa seuraavilla alueilla:",
+    "regions": {
+      "vanuatu": "<strong>Vanuatu:</strong> Maailman suurin tuottaja yli 80 eri lajikkeella.",
+      "fiji": "<strong>Fiji:</strong> Tunnettu \"Waka\" (juuret) ja \"Lewena\" (perusvarsi).",
+      "tonga": "<strong>Tonga:</strong> Tuottaa erittäin miedosti, \"kermaista\" Kavaa (esim. Pouni Ono).",
+      "samoa": "<strong>Samoa:</strong> Kava tunnetaan täällä nimellä 'Ava.",
+      "hawaii": "<strong>Hawaii:</strong> Kava tunnetaan täällä nimellä 'Awa (esim. Moi, Mahakea).",
+      "pohnpei": "<strong>Pohnpei & Mikronesia:</strong> Tunnettu tuoreen Kava-mehun kulutuksesta (\"Sakau\")."
+    }
+  },
+  "subpages": {
+    "title": "Syventävät artikkelit",
+    "intro": "Tutustu seuraaviin alisivuihin saadaksesi yksityiskohtaisia tietoja Kava-botaniikan erityisistä näkökohdista.",
+    "pflanze": {
+      "title": "Kasvi",
+      "description": "Taksonomia, nimistö ja suhde Piper methysticum ja sen villi esimuoto Piper wichmannii.",
+      "topics": [
+        "Taksonominen luokittelu",
+        "Nimen merkitys",
+        "Kultivointi & Evoluutio",
+        "Kava elävänä kulttuuriperintönä"
+      ]
+    },
+    "morphologie": {
+      "title": "Morfologia",
+      "description": "Yksityiskohtainen Kava-kasvin anatomia erityisesti taloudellisesti merkittävän juurijärjestelmän osalta.",
+      "topics": [
+        "Juurijärjestelmä (Tyvi & Waka)",
+        "Kavalaktoneen jakautuminen",
+        "Varret & Lehdet",
+        "Kukat & Steriiliys"
+      ]
+    },
+    "anbau": {
+      "title": "Viljely & Ekologia",
+      "description": "Kasvuolosuhteet, lisääntymismenetelmät ja perinteisen Kavan viljelyn taide.",
+      "topics": [
+        "Vegetatiivinen lisääntyminen",
+        "Ilmasto-olosuhteet",
+        "Maaperän laatu",
+        "Sadonkorjuu & Laadun tekijät"
+      ]
+    }
+  }
+}

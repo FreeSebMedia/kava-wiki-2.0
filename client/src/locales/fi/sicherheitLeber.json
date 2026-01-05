@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Maksaturvallisuus & Hepatotoksisuus",
+    "subtitle": "Tieteellinen analyysi Kava-maksakohusta: Faktat, myytit ja nykyinen tutkimustilanne.",
+    "category": "Turvallisuus",
+    "breadcrumbs": {
+      "home": "Etusivu",
+      "sicherheit": "Turvallisuus",
+      "current": "Maksaturvallisuus"
+    }
+  },
+  "toc": {
+    "title": "Sisältö",
+    "zusammenfassung": "Yhteenveto",
+    "verbot2002": "Vuoden 2002 kielto",
+    "wasWirklichGeschah": "Mitä todella tapahtui",
+    "rehabilitation": "Rehabilitaatio & Oikeuden päätökset",
+    "wissenschaft": "Tieteellinen näyttö",
+    "whoBewertung": "WHO-arvio 2007",
+    "emaBewertung": "EMA-arvio 2017",
+    "klinischeStudien": "Kliiniset tutkimukset",
+    "risikofaktoren": "Tunnistetut riskitekijät",
+    "extrakte": "Uutteet",
+    "pflanzenteile": "Kasvinosat",
+    "genetik": "Geneettiset tekijät",
+    "komedikation": "Komedikaatio & Alkoholi",
+    "mechanismen": "Mahdolliset mekanismit",
+    "empfehlungen": "Käytännön suositukset",
+    "quellen": "Lähteet"
+  },
+  "zusammenfassung": {
+    "title": "Nykyinen tieteellinen konsensus",
+    "intro": "WHO:n, EMA:n ja itsenäisten tutkijoiden perusteellisten analyysien mukaan:",
+    "points": [
+      "Perinteisesti valmistettu Kava Noble-lajikkeista on asianmukaisella käytöllä <strong>turvallista</strong>",
+      "Vakavat maksavauriot ovat <strong>äärimmäisen harvinaisia</strong> (arvioitu esiintyvyys: 1:60 000 - 1:1 000 000)",
+      "Useimmissa tapausraporteissa oli <strong>merkittäviä laatuongelmia</strong> kausaliteettianalyysissä",
+      "EU:n vuodelta 2002 oleva kielto on saksalaisten tuomioistuinten mukaan <strong>epäoikeudenmukainen</strong>"
+    ]
+  },
+  "verbot2002": {
+    "title": "Vuoden 2002 kielto",
+    "intro": "Vuonna 2002 Kava poistettiin markkinoilta Saksassa ja monissa muissa Euroopan maissa. Liittovaltion lääkkeiden ja lääkintätuotteiden instituutti (BfArM) peruutti Kava-valmisteiden hyväksynnät sen jälkeen, kun oli saatu raportteja vakavista maksavaurioista. Tämä päätös vaikutti laajasti globaalin Kava-markkinan ja Tyynenmeren tuottajamaiden tilanteeseen.",
+    "chronologie": {
+      "title": "Tapahtumien aikajana",
+      "note": "Yksityiskohtaisia tietoja eri maiden nykyisestä oikeustilasta varten katso",
+      "linkText": "Oikeustila & Laillisuus",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Ensimmäiset tapausraportit maksavaurioista Kava-käyttäjillä Euroopassa"
+        },
+        {
+          "date": "Marraskuu 2001",
+          "text": "BfArM määrää vaiheittaisen menettelyn"
+        },
+        {
+          "date": "Kesäkuu 2002",
+          "text": "Hyväksyntöjen peruuttaminen Saksassa"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Kieltoja Isossa-Britanniassa, Ranskassa, Sveitsissä, Kanadassa, Australiassa"
+        },
+        {
+          "date": "2014",
+          "text": "Kölnin hallintotuomioistuin julistaa kiellon laittomaksi"
+        },
+        {
+          "date": "2015",
+          "text": "Münsterin hallinto-oikeus vahvistaa: kielto oli epäoikeudenmukainen"
+        },
+        {
+          "date": "2019",
+          "text": "Lääkkeiden hyväksyntöjen peruuttaminen lopullisesti kumottu"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Mitä todella tapahtui: Kriittinen analyysi",
+    "intro": "Alkuperäiset tapausraportit, jotka johtivat kieltoon, tutkittiin intensiivisesti tieteellisesti seuraavina vuosina. Tällöin ilmeni merkittäviä metodologisia puutteita:",
+    "probleme": {
+      "title": "Tapausraporttien ongelmat",
+      "items": [
+        "Puutteellinen dokumentaatio yli 50 %:ssa tapauksista",
+        "Ei standardoitua kausaliteettianalyysiä (RUCAM)",
+        "Komedikaatio hepatotoksisten aineiden kanssa jätetty huomiotta",
+        "Alkoholin käyttö usein dokumentoimatta",
+        "Tuotteen laatu ja kasvinosat epäselviä"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Myöhemmät havainnot",
+      "items": [
+        "Monet tuotteet sisälsivät maanpäällisiä kasvinosia",
+        "Asetoniset uutteet osoittivat suurempaa riskiä kuin vesiuutteet",
+        "Tudei-Kavaa myytiin osittain Noble-lajikkeena",
+        "Homekontaminaatiota havaittu joissakin tuotteissa",
+        "Geneettiset polymorfismit tunnistettu riskitekijänä"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Rehabilitaatio tuomioistuimissa",
+    "intro": "Pitkän oikeusprosessin jälkeen saksalaiset tuomioistuimet tulivat selkeään päätökseen. Kölnin hallintotuomioistuin ja myöhemmin Münsterin hallinto-oikeus totesivat, että kielto oli <strong>epäoikeudenmukainen</strong> ja viranomaiset eivät olleet arvioineet tieteellistä näyttöä oikein.",
+    "quote": "\"BfArM:n hyväksymä kausaliteetti Kava-Kava-valmisteiden käytön ja esiintyneiden maksavaurioiden välillä ei ole riittävästi todistettu. Riskin ja hyödyn arviointi on suoritettu virheellisesti.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "Tieteellinen näyttö",
+    "intro": "Kieltojen jälkeen suoritettiin useita kattavia tieteellisiä arviointeja, jotka piirsivät monipuolisemman kuvan Kavan turvallisuudesta."
+  },
+  "whoBewertung": {
+    "title": "WHO-arvio 2007",
+    "intro": "Maailman terveysjärjestö (WHO) suoritti vuonna 2007 kattavan analyysin kaikista saatavilla olevista tapausraporteista. Tulokset olivat valaisevia:",
+    "analysisTitle": "WHO:n analyysi 93 tapausraportista",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Tapaukset \"todennäköisesti\" kausaalisia",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Tapaukset \"mahdollisesti\" kausaalisia",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Tapaukset ei arvioitavissa",
+        "color": "muted"
+      }
+    ],
+    "note": "WHO totesi, että asetoniset ja etanoliset uutteet osoittivat suurempaa riskiä kuin synteettiset Kavalaktonit, mikä viittaa siihen, että ei-Kavalakton-aineet voisivat olla mahdollinen syy."
+  },
+  "emaBewertung": {
+    "title": "EMA-arvio 2017",
+    "intro": "Euroopan lääkevirasto (EMA) julkaisi vuonna 2017 103-sivuisen arviointiraportin, joka tiivisti kaikki saatavilla olevat tiedot:",
+    "findings": [
+      {
+        "label": "Kliiniset tutkimukset",
+        "text": "Ei merkittävää hepatotoksisuutta kontrolloiduissa tutkimuksissa"
+      },
+      {
+        "label": "Haittavaikutukset",
+        "text": "Vain lieviä, palautuvia transaminaasitasojen nousuja harvoilla koehenkilöillä"
+      },
+      {
+        "label": "Riskitekijät",
+        "text": "Orgaaniset uutteet, alkoholi, ennestään olemassa oleva maksasairaus, geneettiset polymorfismit"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Todisteet kliinisistä tutkimuksista",
+    "intro": "Erityisen tärkeä seikka: Kontrolloiduissa kliinisissä tutkimuksissa, joissa käytettiin standardoituja Kava-valmisteita, <strong>vakavia maksavaurioita</strong> ei havaittu. Smith & Leirasin (2018) systemaattinen katsaus analysoi 11 satunnaistettua tutkimusta eikä löytänyt viitteitä hepatotoksisuudesta.",
+    "tableTitle": "Tutkimustilanteen yhteenveto",
+    "headers": [
+      "Tutkimus",
+      "Osallistujat",
+      "Kesto",
+      "Maksavauriot"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 viikkoa",
+        "result": "Ei mitään"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 viikkoa",
+        "result": "Ei mitään*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 viikkoa",
+        "result": "Ei mitään"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 tutkimusta)",
+        "duration": "1-24 viikkoa",
+        "result": "Ei mitään"
+      }
+    ],
+    "footnote": "*Lievät transaminaasitasojen nousut 2 koehenkilöllä, joista yhdellä oli jo kohonneet lähtötasot"
+  },
+  "risikofaktoren": {
+    "title": "Tunnistetut riskitekijät",
+    "intro": "Tieteellinen tutkimus on tunnistanut useita tekijöitä, jotka voivat lisätä riskiä maksasairauksille. Näiden tekijöiden ymmärtäminen mahdollistaa turvallisen käytön."
+  },
+  "extrakte": {
+    "title": "Uutetyypit: Vesiliukoiset vs. Orgaaniset",
+    "intro": "WHO-analyysin keskeinen havainto oli ero eri uuttomenetelmien välillä:",
+    "waessrig": {
+      "title": "Vesiuutteet (perinteiset)",
+      "items": [
+        "Perinteinen valmistusmenetelmä",
+        "Uuttaa pääasiassa Kavalaktonit",
+        "Sisältää suojaavia glutationeja",
+        "Ei dokumentoitua hepatotoksisuutta Tyynenmeren väestöissä",
+        "FAO/WHO on luokitellut turvalliseksi"
+      ]
+    },
+    "organisch": {
+      "title": "Orgaaniset uutteet (asetoniset/etanoliset)",
+      "items": [
+        "Teollinen uuttomenetelmä",
+        "Korkeampi Kavalaktonipitoisuus",
+        "Uuttaa myös flavokavineja",
+        "Glutationia ei uuteta",
+        "Korkeampi riski WHO-analyysissä"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Kasvinosat: Juuri vs. maanpäälliset osat",
+    "intro": "Eri kasvinosien käyttö vaikuttaa merkittävästi turvallisuuteen:",
+    "tableTitle": "Pipermethystin-pitoisuus kasvinosittain",
+    "headers": [
+      "Kasvinosat",
+      "Pipermethystin",
+      "Turvallisuus"
+    ],
+    "rows": [
+      {
+        "part": "Juuri/Rhizoma",
+        "content": "Ei havaittavissa",
+        "safety": "Turvallinen",
+        "color": "primary"
+      },
+      {
+        "part": "Varren kuoret",
+        "content": "Jopa 0,85%",
+        "safety": "Ongelmallinen",
+        "color": "amber"
+      },
+      {
+        "part": "Lehdet",
+        "content": "Noin 0,2%",
+        "safety": "Myrkyllinen",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystin on alkaloidi, joka on in vitro voimakkaasti sytotoksinen ja häiritsee mitokondrioiden toimintaa (Nerurkar et al., 2004). Se esiintyy vain maanpäällisissä kasvinosissa."
+  },
+  "genetik": {
+    "title": "Geneettiset tekijät: CYP2D6-polymorfismit",
+    "intro": "Kavalaktonit metaboloituvat pääasiassa sytokromi-P450-entsyymijärjestelmän kautta, erityisesti CYP2D6:n kautta. Tämän entsyymin geneettiset variantit voivat vaikuttaa merkittävästi metabolianopeuteen:",
+    "factors": [
+      {
+        "label": "Heikot metaboloijat (PM)",
+        "text": "Noin 5-10 % eurooppalaisista omaa vähentynyttä CYP2D6-aktiivisuutta, mikä voi johtaa korkeampiin Kavalaktonipitoisuuksiin"
+      },
+      {
+        "label": "Idiosynkraattiset reaktiot",
+        "text": "Jotkut tapaukset saattavat johtua immunivälitteisistä mekanismeista"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Komedikaatio & Alkoholi",
+    "warning": {
+      "title": "Kriittinen riskitekijä",
+      "text": "Kavan yhdistäminen alkoholiin tai hepatotoksisiin lääkkeisiin lisää merkittävästi maksavaurioiden riskiä. Monissa alkuperäisissä tapausraporteissa alkoholin käyttö oli dokumentoitu tai ei ollut suljettu pois."
+    },
+    "intro": "WHO tunnisti seuraavat komedikatiot erityisen ongelmallisiksi:",
+    "items": [
+      "Alkoholi (synergistinen hepatotoksisuus)",
+      "Parasetamoli/Acetaminofeeni (hepatotoksinen)",
+      "Bentsodiatsepiinit (CYP-interaktio)",
+      "Antipsykootit (CYP-interaktio)",
+      "Statinit (hepatotoksinen potentiaali)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Mahdolliset hepatotoksisuuden mekanismit",
+    "intro": "Tarkkoja mekanismeja, joiden kautta Kava voi harvinaisissa tapauksissa aiheuttaa maksavaurioita, ei ole vielä täysin selvitetty. Useita hypoteeseja käsitellään:",
+    "hypotheses": [
+      {
+        "title": "1. Kinonimetaboliitit",
+        "text": "Kavain ja dihydrokavain voivat hapettua reaktiivisiksi kinonimetaboliiteiksi, jotka reagoivat soluproteiinien kanssa ja voivat aiheuttaa oksidatiivista stressiä (Johnson et al., 2003). Glutationi voi neutraloida näitä metaboliitteja – mahdollinen syy siihen, miksi vesiuutteet (jotka sisältävät glutationia) ovat turvallisempia."
+      },
+      {
+        "title": "2. Flavokavine",
+        "text": "Flavokaviini B osoittaa in vitro sytotoksisuutta ja voi indusoida apoptoosia hepatosyyteissä. Orgaaniset uutteet sisältävät korkeampia pitoisuuksia flavokavineja kuin vesiliukoiset valmisteet."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Tätä alkaloidia esiintyy vain maanpäällisissä kasvinosissa ja se on voimakkaasti sytotoksinen. Se estää mitokondrioiden hengitysketjun ja voi johtaa solukuolemaan."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Käytännön suositukset maksimaalisen turvallisuuden saavuttamiseksi",
+    "items": [
+      {
+        "label": "Noble-lajikkeet",
+        "text": "Osta vain varmennettuja Noble-Kava-lajikkeita luotettavilta myyjiltä"
+      },
+      {
+        "label": "Juuri",
+        "text": "Käytä vain juurta ja rhizoma-tuotteita, ei maanpäällisiä kasvinosia"
+      },
+      {
+        "label": "Vesiliukoinen valmistus",
+        "text": "Suosi perinteistä valmistusmenetelmää"
+      },
+      {
+        "label": "Ei alkoholia",
+        "text": "Vähintään 24 tunnin väli alkoholin käytön kanssa"
+      },
+      {
+        "label": "Maksaarvot",
+        "text": "Säännöllisessä käytössä vuotuinen maksaarvojen tarkistus"
+      },
+      {
+        "label": "Varoitusmerkit",
+        "text": "Jos ilmenee keltaisuutta, tummaa virtsaa tai epätavallista väsymystä, lopeta välittömästi"
+      }
+    ]
+  }
+}

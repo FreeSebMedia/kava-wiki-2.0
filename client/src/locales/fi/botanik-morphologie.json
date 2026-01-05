@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morphologia",
+    "subtitle": "Yksityiskohtainen Kava-kasvin anatomia, erityisesti taloudellisesti merkittävän juuristojärjestelmän osalta.",
+    "category": "Kasvitiede"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Kasvitiede",
+    "morphologie": "Morphologia"
+  },
+  "toc": {
+    "ueberblick": "Morphologinen yleiskatsaus",
+    "wurzelsystem": "Juuristojärjestelmä",
+    "stumpf": "Tukijuuristo (Corm)",
+    "seitenwurzeln": "Sivujuuret (Waka)",
+    "kavalactonVerteilung": "Kavalaktonin jakautuminen",
+    "staengel": "Varret & Solmut",
+    "blaetter": "Lehdet",
+    "blueten": "Kukat & Hedelmät"
+  },
+  "intro": {
+    "paragraph1": "Kava-kasvin <em>Piper methysticum</em> morfologia on tulos vuosituhansien valinnasta. Vaikka kasvin maanpäälliset osat ovat tärkeitä lajikkeiden tunnistamisessa, todellinen arvo piilee maan alla olevissa rakenteissa – monimutkaisessa juuristojärjestelmässä, joka sisältää haluttuja kavalaktooneja."
+  },
+  "overview": {
+    "title": "Morphologinen yleiskatsaus",
+    "paragraph1": "Kava on kestävä, ikivihreä pensas, jonka tyypillinen kasvukorkeus on <strong>1,5–3 metriä</strong>. Optimaalisissa olosuhteissa – runsaasti vettä, ravinteita ja varjoa – yksittäiset kasvit voivat saavuttaa jopa 5 metriä.",
+    "table": {
+      "headers": {
+        "plantPart": "Kasvin osa",
+        "characteristic": "Ominaisuus",
+        "kavalactoneContent": "Kavalaktonipitoisuus"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Juuri (Rhizom)",
+          "characteristic": "Paksu, puumainen, haarautunut",
+          "content": "Erittäin korkea (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Sivujuuret",
+          "characteristic": "Hienot, kuitumaiset, laajentuneet",
+          "content": "Korkein pitoisuus"
+        },
+        "stem": {
+          "name": "Varret (Runko)",
+          "characteristic": "Solmuiset, bambumaiset",
+          "content": "Matala–keskitaso"
+        },
+        "leaves": {
+          "name": "Lehdet",
+          "characteristic": "Sydämenmuotoiset, suuret",
+          "content": "Erittäin alhainen"
+        },
+        "flowers": {
+          "name": "Kukat",
+          "characteristic": "Pienet, tähkämäiset",
+          "content": "Ei käytetä"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "Juuristojärjestelmä",
+    "paragraph1": "Kava-kasvin taloudellisesti ja farmakologisesti tärkein osa on maan alla oleva juuristojärjestelmä. Se koostuu kahdesta pääkomponentista, jotka eroavat koostumukseltaan ja laadultaan.",
+    "qualityAlert": {
+      "title": "Laatuominaisuus:",
+      "text": "Korkealaatuinen Kava valmistetaan yksinomaan juurista. Maanpäällisten kasvin osien (varret, lehdet) käyttöä pidetään huonolaatuisena ja se voi aiheuttaa ei-toivottuja sivuvaikutuksia."
+    },
+    "stump": {
+      "title": "Tukijuuristo (Corm/Tukijuuristo)",
+      "paragraph1": "Tukijuuristo on paksu, puumainen osa suoraan maanpinnan alla. Se muodostaa juuriston keskeisen massan ja voi vanhemmilla kasveilla saavuttaa huomattavat mitat.",
+      "properties": {
+        "title": "Ominaisuudet",
+        "items": [
+          "Paino: 5-25 kg kypsissä kasveissa",
+          "Halkaisija: 10-30 cm",
+          "Rakenne: Kova, puumainen, kuitumainen",
+          "Väri: Vaaleanruskea–tummanruskea"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalaktoniprofiili",
+        "items": [
+          "Kokonaispitoisuus: Keskitaso–korkea",
+          "Enemmän Dihydromethysticiniä (DHM)",
+          "Vähemmän Kavainia kuin sivujuurilla",
+          "Tendenssi \"raskaan\" vaikutuksen suuntaan"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "Sivujuuret (Lateral Roots / Waka)",
+      "paragraph1": "Sivujuuret ovat hienompia juuria, jotka lähtevät tukijuuristosta ja leviävät maahan. Fidžillä niitä kutsutaan \"Waka\":ksi ja ne katsotaan korkealaatuisimmaksi komponentiksi.",
+      "properties": {
+        "title": "Ominaisuudet",
+        "items": [
+          "Halkaisija: 0,5-3 cm",
+          "Pituus: Jopa useita metrejä",
+          "Rakenne: Pehmeä, vähemmän puumainen",
+          "Väri: Vaaleanruskea, kellertävä"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalaktoniprofiili",
+        "items": [
+          "Kokonaispitoisuus: Korkein kaikista kasvin osista",
+          "Korkeampi Kavain-pitoisuus",
+          "Tasapainoisempi vaikutusprofiili",
+          "Premium-laatu (\"Waka Grade\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Kavalaktonin jakautuminen kasviin",
+      "paragraph1": "Kavalaktonien pitoisuus vaihtelee suuresti eri kasvin osien välillä. Tämä vaikuttaa suoraan Kava-tuotteiden laatuun ja turvallisuuteen.",
+      "table": {
+        "headers": {
+          "plantPart": "Kasvin osa",
+          "kavalactoneContent": "Kavalaktonipitoisuus",
+          "usage": "Käyttö",
+          "qualityLevel": "Laatutaso"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Sivujuuret (Waka)",
+            "content": "10-20%",
+            "usage": "Premium-Kava",
+            "quality": "Korkein"
+          },
+          "stump": {
+            "name": "Tukijuuristo (Corm)",
+            "content": "5-15%",
+            "usage": "Standard-Kava",
+            "quality": "Korkea"
+          },
+          "basalStem": {
+            "name": "Perusrunko (Lewena)",
+            "content": "3-8%",
+            "usage": "Sekoitettu tai yksin",
+            "quality": "Keskitaso"
+          },
+          "upperStem": {
+            "name": "Ylärunko",
+            "content": "1-3%",
+            "usage": "Ei suositella",
+            "quality": "Matala"
+          },
+          "leaves": {
+            "name": "Lehdet",
+            "content": "<1%",
+            "usage": "Ei käytetä",
+            "quality": "Sopimaton"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Varoitus:",
+        "text": "Lehtien ja maanpäällisten varren osien käyttö on yhdistetty historiallisiin raportteihin maksamyrkyllisyydestä. Korkealaatuinen Kava käyttää yksinomaan juurimateriaalia."
+      }
+    }
+  },
+  "stems": {
+    "title": "Varret & Solmut",
+    "paragraph1": "Kavan varret (runko) ovat yksi tärkeimmistä ominaisuuksista <strong>lajikkeiden tunnistamisessa</strong>. Ne kasvavat pystysuoraan ja haarautuvat iän myötä.",
+    "structure": {
+      "title": "Rakenne",
+      "items": [
+        "<strong>Solmut (Nodes):</strong> Selvästi näkyvät paksuudet, samankaltaiset kuin bambussa",
+        "<strong>Internodit:</strong> Osat solmujen välillä, vaihteleva pituus",
+        "<strong>Halkaisija:</strong> 2-5 cm, riippuen iästä ja lajikkeesta",
+        "<strong>Korkeus:</strong> 1,5-3 m (jopa 5 m optimaalisissa olosuhteissa)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Lajikeominaisuudet",
+      "paragraph1": "Varren väri ja kuviointi ovat avainominaisuus kultivarien erottamisessa:",
+      "items": [
+        "<strong>Vihreä:</strong> Yleinen monilla standardilajikkeilla",
+        "<strong>Laikkuinen:</strong> Ominainen tietyille lajikkeille",
+        "<strong>Raidallinen:</strong> Pitkittäisiä raitoja eri väreissä",
+        "<strong>Tummanvioletti/Musta:</strong> Harvinaiset, usein erityisesti arvostetut lajikkeet"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Lehdet",
+    "paragraph1": "Kavan lehdet ovat suuria, näyttäviä ja paljolti fotosynteesiä varten. Niitä ei perinteisesti käytetä Kava-valmistuksessa.",
+    "characteristics": {
+      "title": "Lehden ominaisuudet",
+      "formSize": {
+        "title": "Muoto & Koko",
+        "items": [
+          "Sydämenmuotoinen (cordat)",
+          "Leveys: 15-30 cm",
+          "Pituus: 20-35 cm",
+          "Vaihteleva järjestys"
+        ]
+      },
+      "surface": {
+        "title": "Pinta",
+        "items": [
+          "Sileä tai hieman karvainen",
+          "Kiiltävä ylhäältä",
+          "Matta alapuolelta",
+          "Selkeät lehtisuonet"
+        ]
+      },
+      "color": {
+        "title": "Väri",
+        "items": [
+          "Vaaleanvihreä–tummanvihreä",
+          "Violetti sävy mahdollinen",
+          "Lehtivarret usein värillisiä",
+          "Lajikesidonnaiset vaihtelut"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Kukat & Hedelmät",
+    "paragraph1": "Vaikka <em>Piper methysticum</em> tuottaa kukkia, kasvi on toiminnallisesti steriili eikä muodosta elinkelpoisia siemeniä.",
+    "flowerStructure": {
+      "title": "Kukkastruktuuri",
+      "items": [
+        "<strong>Tyyppi:</strong> Tähkämäiset kukinnot (Spadix)",
+        "<strong>Koko:</strong> 3-9 cm pitkä",
+        "<strong>Väri:</strong> Vihreänvalkoinen–kellertävä",
+        "<strong>Sijainti:</strong> Vastakkain lehtien kanssa",
+        "<strong>Sukupuoli:</strong> Usein yksisukupuolinen (dioecious)"
+      ]
+    },
+    "sterility": {
+      "title": "Steriliteetti",
+      "paragraph1": "Kavan <em>P. methysticum</em> steriliteetti on seurausta korkeasta polyploidisuudesta (dekaploidisuus). Tämä tarkoittaa:",
+      "items": [
+        "Ei elinkelpoisia siemeniä",
+        "Ainoastaan vegetatiivinen lisääntyminen",
+        "Täydellinen riippuvuus ihmisestä",
+        "Kaikki kasvit ovat geneettisiä klooneja"
+      ]
+    },
+    "paragraph2": "Tällä steriliteetillä on laajoja seurauksia: Ilman jatkuvaa ihmisen viljelyä <em>Piper methysticum</em> kuolisi sukupolvessa. Jokainen nykyisin olemassa oleva Kava-kasvi on tulos keskeytymättömästä pistokaslisäyksestä, joka ulottuu ensimmäisiin kotiviljelyihin noin 3 000 vuotta sitten."
+  },
+  "navigation": {
+    "continueText": "Jatka Kasvitiede-luvussa:",
+    "nextChapter": {
+      "title": "Viljely & Ekologia",
+      "description": "Viljely, lisääntyminen & Kasvatusolosuhteet"
+    }
+  }
+}

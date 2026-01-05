@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Lajiprofiilit yksityiskohtaisesti",
+    "subtitle": "Yksityiskohtaiset esittelyt tärkeimmistä Kava-lajikkeista kemotyyppien, vaikutusten ja suositusten kanssa.",
+    "category": "Lajit"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "sorten": "Lajit",
+    "current": "Profiilit"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Yhteenveto",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Suosikkini",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Vaikutussuodatin",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady-lajit",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Tasapainoiset lajikkeet",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Raskaat lajikkeet",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Lajivertailu",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Alkuperä",
+    "chemotype": "Kemotyyppi",
+    "duration": "Vaikutusaika",
+    "strength": "Vahvuus",
+    "hits": "Tulokset",
+    "low": "Vähäinen",
+    "high": "Vahva",
+    "variety": "Lajike",
+    "region": "Alue",
+    "type": "Tyyppi",
+    "bestUse": "Paras käyttö",
+    "resetFilters": "Nollaa suodattimet",
+    "matchingCriteria": "yhteensopivaa {total} lajia vastaavat kriteerisi",
+    "noMatching": "Ei {category} lajia vastaa nykyisiä suodatinvaatimuksia.",
+    "toComparison": "Siirry interaktiiviseen lajivertailuun"
+  },
+  "overview": {
+    "intro": "Tämä sivu tarjoaa kattavan yleiskatsauksen tärkeimmistä <a href=\"/fi/lajit/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a> -lajikkeista, järjestettynä niiden vaikutustyypin mukaan. Hyödynnä näitä profiileja löytääksesi täydellisen lajikkeen tarpeisiisi.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Päähän kohdistuva, euforinen, sosiaalinen. Ihanteellinen päivälle.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Tasapainoinen, monipuolinen. Hyvä mihin tahansa vuorokauden aikaan.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Kehon painottava, rauhoittava. Ihanteellinen illalle.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Vaikutussuodatin",
+    "description": "Suodata lajikkeet haluamiesi vaikutusten mukaan. Siirrä liukusäätimiä, jotta näet vain lajikkeet, joilla on vähintään valittu arvo.",
+    "euphoria": "Euforia",
+    "relaxation": "Rentoutuminen",
+    "sleepy": "Väsyttävä"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady-lajit",
+      "description": "Heady Kavat ovat päähän kohdistuvia ja tuottavat euforiaa, henkistä selkeyttä ja seurallisuutta. Ne ovat ihanteellisia päivittäiseen käyttöön, sosiaalisiin tilaisuuksiin ja luovaan työhön. <a href=\"/fi/aineet/kemotyypit\" class=\"text-primary hover:underline\">Kemotyyppi</a> alkaa tyypillisesti 4:stä (<a href=\"/fi/aineet/kavalaktonit\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Tasapainoiset lajikkeet",
+      "description": "Tasapainoiset Kavat tarjoavat tasapainoisen vaikutuksen pään ja kehon välillä. Ne ovat monipuolisia ja sopivat sekä päivään että iltaan. Ihanteellinen <a href=\"/fi/vaikutus/ahdistus\" class=\"text-primary hover:underline\">ahdistuksen lievittämiseen</a> ja yleiseen rentoutumiseen."
+    },
+    "heavy": {
+      "title": "Raskaat lajikkeet",
+      "description": "Raskaat Kavat ovat kehoon kohdistuvia ja tuottavat syvää <a href=\"/fi/vaikutus/lihakset\" class=\"text-primary hover:underline\">lihasten rentoutumista</a> ja rauhoittumista. Ne ovat ihanteellisia iltaan, <a href=\"/fi/vaikutus/unihäiriöt\" class=\"text-primary hover:underline\">unihäiriöihin</a> ja fyysiseen palautumiseen. Kemotyyppi sisältää usein DHK (2) merkittävällä paikalla."
+    }
+  },
+  "comparison": {
+    "title": "Lajivertailu",
+    "description": "Tämä taulukko tarjoaa nopean yleiskatsauksen kaikista tärkeimmistä lajikkeista. Hyödynnä myös meidän <a href=\"/fi/lajit/vertailu\" class=\"text-primary hover:underline\">interaktiivista vertailutyökalua</a> yksityiskohtaisiin vertailuihin.",
+    "link": "/fi/lajit/vertailu"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 tuntia",
+      "strength": 4,
+      "description": "Legendaarinen euforinen Kava, kuin samppanja Kavoista.",
+      "recommended": [
+        "Sosiaaliset tilaisuudet",
+        "Luova työ",
+        "Päivittäinen käyttö"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 tuntia",
+      "strength": 4,
+      "description": "Vanuatun kansankava, monipuolinen ja päähän kohdistuva aloitusvaikutus.",
+      "recommended": [
+        "Sosiaaliset tilaisuudet",
+        "Iltakäyttö",
+        "Aloittelijat"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 tuntia",
+      "strength": 3,
+      "description": "Suosituin päivittäinen Kava, mieto ja aloittelijaystävällinen.",
+      "recommended": [
+        "Aloittelijat",
+        "Työ",
+        "Sosiaaliset tilaisuudet"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 tuntia",
+      "strength": 4,
+      "description": "Kuningas 'Awa, äärimmäisen aivoihin kohdistuva ja henkisesti selkeyttävä.",
+      "recommended": [
+        "Meditaatio",
+        "Luova työ",
+        "Kognitio"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 tuntia",
+      "strength": 3,
+      "description": "Harvinainen euforinen lajike, erittäin arvostettu.",
+      "recommended": [
+        "Sosiaaliset tilaisuudet",
+        "Mielialan kohottaminen"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 tuntia",
+      "strength": 3,
+      "description": "Täydellinen monikäyttöinen, lempeä ja tasapainoinen.",
+      "recommended": [
+        "Aloittelijat",
+        "Ahdistuksen lievittäminen",
+        "Päivittäinen käyttö"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Tasapainoinen)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 tuntia",
+      "strength": 4,
+      "description": "Vanuatun kansankava, luotettava ja monipuolinen.",
+      "recommended": [
+        "Iltakäyttö",
+        "Rentoutuminen",
+        "Aloittelijat"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 tuntia",
+      "strength": 4,
+      "description": "Vahva Kava, hyvä tasapaino pään ja kehon välillä.",
+      "recommended": [
+        "Kokeneet käyttäjät",
+        "Iltakäyttö"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 tuntia",
+      "strength": 3,
+      "description": "Tasapainoinen Fiji-Kava, monipuolinen.",
+      "recommended": [
+        "Päivittäinen käyttö",
+        "Rentoutuminen"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 tuntia",
+      "strength": 5,
+      "description": "Yksi voimakkaimmista Heavy Kavoista, syvä rauhoittuminen.",
+      "recommended": [
+        "Unihäiriöt",
+        "Lihasten rentoutuminen",
+        "Ilta"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 tuntia",
+      "strength": 5,
+      "description": "Äärimmäisen voimakas Fiji-Kava, voimakkaasti rauhoittava.",
+      "recommended": [
+        "Kokeneet käyttäjät",
+        "Unihäiriöt"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 tuntia",
+      "strength": 4,
+      "description": "Palasan pikkuveli, hieman miedompi mutta samanlainen.",
+      "recommended": [
+        "Heavy-aloittelijat",
+        "Iltakäyttö"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 tuntia",
+      "strength": 5,
+      "description": "Seremoniallinen hawaiilainen 'Awa, erittäin voimakas.",
+      "recommended": [
+        "Seremoniat",
+        "Uni",
+        "Kokeneet"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Sosiaalinen, Luova"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Aloittelijat, Päivä"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Meditaatio, Kognitio"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Tasapainoinen",
+      "chemotype": "243156",
+      "bestUse": "Ahdistus, Monikäyttöinen"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Ilta, Rentoutuminen"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Tasapainoinen",
+      "chemotype": "423561",
+      "bestUse": "Kokeneet, Ilta"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Raskas",
+      "chemotype": "423651",
+      "bestUse": "Uni, Lihakset"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Raskas",
+      "chemotype": "—",
+      "bestUse": "Kokeneet, Uni"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Raskas",
+      "chemotype": "—",
+      "bestUse": "Seremoniat, Uni"
+    }
+  ]
+}

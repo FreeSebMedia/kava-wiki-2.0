@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "FAQ – Kaikki Kavaasta",
+    "badge": "Usein kysytyt kysymykset",
+    "description": "Vastauksia yleisimpiin kysymyksiin Kavaasta – vaikutuksesta ja annostuksesta turvallisuuteen ja laillisuuteen. Tieteellisesti perusteltua ja ymmärrettävästi selitetty."
+  },
+  "ui": {
+    "searchPlaceholder": "Etsi kysymystä...",
+    "categories": "Kategoriat",
+    "all": "Kaikki",
+    "results": "Tulokset",
+    "clearFilters": "Tyhjennä suodattimet",
+    "noResults": "Ei tuloksia löytynyt",
+    "noResultsHint": "Kokeile muita hakusanoja tai valitse toinen kategoria.",
+    "showAll": "Näytä kaikki kysymykset",
+    "relatedArticles": "Lisäartikkelit:",
+    "questionNotAnswered": "Eikö kysymyksesi ole mukana?",
+    "contactHint": "Ota meihin yhteyttä, niin autamme mielellämme. Laajennamme usein FAQ:ta kysymyksienne perusteella.",
+    "getInTouch": "Ota yhteyttä",
+    "viewGlossary": "Näytä sanasto"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "Perusteet",
+      "description": "Perustietoa Kavaasta, sen alkuperästä ja botaniikasta"
+    },
+    "wirkung": {
+      "name": "Vaikutus & Tehot",
+      "description": "Kuinka Kava vaikuttaa, vaikutuksen kesto ja kokemukset"
+    },
+    "sicherheit": {
+      "name": "Turvallisuus & Sivuvaikutukset",
+      "description": "Sivuvaikutukset, riskit ja yhteisvaikutukset"
+    },
+    "dosierung": {
+      "name": "Annostus & Käyttö",
+      "description": "Suositellut määrät ja erilaiset käyttötavat"
+    },
+    "zubereitung": {
+      "name": "Valmistus",
+      "description": "Perinteiset ja modernit valmistusmenetelmät"
+    },
+    "kauf": {
+      "name": "Osto & Laillisuus",
+      "description": "Hankintapaikat ja oikeudellinen tilanne Saksassa ja EU:ssa"
+    },
+    "vergleiche": {
+      "name": "Vertailut",
+      "description": "Kava verrattuna muihin ravintolisään"
+    },
+    "kultur": {
+      "name": "Kulttuuri & Perinteet",
+      "description": "Seremoniat, perinteet ja kulttuurinen merkitys"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "Mitä on Kava (Kava-Kava)?",
+      "answer": "Kava (Piper methysticum) on kasvilaji pippurikasvien (Piperaceae) perheestä, jota on viljelty Tyynellämerellä yli 3000 vuotta. Nimi tarkoittaa suomeksi \"huumaava pippuri\". Kasvin juuret sisältävät kavalaktonia – bioaktiivisia yhdisteitä, joilla on rentouttavia, ahdistusta lievittäviä ja mielialaa kohottavia ominaisuuksia. Kavaa valmistetaan perinteisesti juomaksi, ja sillä on keskeinen rooli Vanuatun, Fijin, Tongan, Samoan ja Havaijin kulttuureissa.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "Piper methysticum botaniikka"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Kavan historia"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Mitä tarkoittaa Piper methysticum?",
+      "answer": "Piper methysticum on Kava-kasvin tieteellinen (latinalainen) nimi. \"Piper\" tarkoittaa pippuria ja viittaa pippurikasvien kasviheimoon. \"Methysticum\" tulee kreikan sanasta \"methystikos\" ja tarkoittaa \"huumaava\" tai \"juopottava\". Nimi annettiin vuonna 1777 Johann Georg Forsterin toimesta, joka kuvasi kasvia tieteellisesti James Cookin toisella maailmanympärimatkalla.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "Kava-kasvi"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "Mistä Kava on alun perin kotoisin?",
+      "answer": "Kava on alun perin kotoisin lännen Tyyneltämereltä, ja Vanuatu on sen alkuperäalue. Siellä on suurin geneettinen monimuotoisuus yli 80 eri lajikkeen kanssa. Kasvi on domestikoitu noin 3000 vuotta sitten villistä lajista Piper wichmannii ja levinnyt polynesialaisilta merimiehiltä \"Canoe Plant\" -nimisenä koko Tyynellemerelle – Fijille, Tongalle, Samoalle, Havaijille ja Pohnpeille.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "Interaktiivinen Kava-maailmankartta"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Kavan historia"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "Mitä on Kava-juuri?",
+      "answer": "Kava-juuri on kasvin osa, jota käytetään juoman valmistukseen. Se koostuu kahdesta pääosasta: juurakosta (tunnetaan myös nimellä \"Corm\" tai \"Lewena\") – paksusta, puumaisesta juuristosta – ja sivujuurista (\"Waka\"), joilla on korkein kavalaktonipitoisuus. Kypsä Kava-kasvi (3-5 vuotta vanha) voi kehittää juurakon, joka painaa 5-25 kg. Vain maan alla olevia osia tulisi käyttää, koska lehdet ja varret voivat sisältää ei-toivottuja yhdisteitä.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "Kava-kasvin morfologia"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "Mitä on Noble Kava?",
+      "answer": "Noble Kava tarkoittaa Kava-lajikkeita, joita on perinteisesti viljelty päivittäiseen käyttöön ja joilla on suotuisa kavalaktoniprofiili. Ne erottuvat miellyttävästä vaikutuksesta, hyvästä siedettävyydestä ja vähäisistä sivuvaikutuksista. Vastakohtana ovat \"Tudei\" (Kaksi päivää) -lajikkeet, joilla on voimakkaammat, pidempikestoiset ja usein epämiellyttävät vaikutukset. Noble-lajikkeet kuten Borogu, Melomelo, Palarasul tai Pouni Ono sopivat säännölliseen käyttöön. Ostaessasi on aina tärkeää kiinnittää huomiota merkintään \"Noble\".",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "Kava-lajikkeet"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "Kuinka Kava vaikuttaa?",
+      "answer": "Kava vaikuttaa pääasiassa kavalaktonien kautta, jotka vuorovaikuttavat aivojen GABA-järjestelmän kanssa. Vaikutukset sisältävät: lihasten rentoutumista, ahdistuksen ja stressin vähenemistä, lievää euforiaa ja kohonnutta mielialaa, parantunutta seurallisuutta kirkkaalla mielellä sekä edistää rauhoittavaa unta. Toisin kuin alkoholi, Kava ei heikennä henkistä selkeyttä. Vaikutus alkaa tyypillisesti 15-30 minuuttia nauttimisen jälkeen ja kestää 2-4 tuntia.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "Kavan vaikutus"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "Kavalaktonit"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "Kuinka kauan Kava vaikuttaa?",
+      "answer": "Kavan vaikutuksen kesto vaihtelee annoksen, lajikkeen ja yksilöllisen herkkyyden mukaan. Tyypillisesti vaikutus alkaa 15-30 minuutin kuluttua ja saavuttaa huippunsa noin 1-2 tunnin kuluttua. Päävaikutus kestää 2-4 tuntia, ja miellyttävä rentoutumisen tunne voi kestää vielä pidempään. Suuremmilla annoksilla tai voimakkaammilla lajikkeilla vaikutus voi tuntua jopa 6 tuntia. Unettavuutta edistävä vaikutus voi kestää koko yön."
+    },
+    "kava-gegen-angst": {
+      "question": "Auttaako Kava ahdistukseen?",
+      "answer": "Kyllä, Kava on osoittanut lukuisissa kliinisissä tutkimuksissa ahdistusta lievittäviä (anxiolyyttisiä) vaikutuksia. Vuoden 2003 Cochrane-meta-analyysi vahvisti sen tehokkuuden ahdistuneisuushäiriöissä. Kavalaktonit vaikuttavat GABA-reseptoreihin samalla tavalla kuin bentsodiatsepiinit, mutta ilman riippuvuuspotentiaalia. Kava voi auttaa yleistyneessä ahdistuneisuushäiriössä, sosiaalisessa ahdistuksessa ja stressiperäisessä jännityksessä. Tärkeää: Diagnosoitujen ahdistuneisuushäiriöiden kohdalla käyttö tulisi keskustella lääkärin kanssa.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Tieteelliset tutkimukset"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "Kava ahdistuksessa"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "Voiko Kava auttaa masennukseen?",
+      "answer": "Jotkut tutkimukset viittaavat siihen, että Kava:lla on mielialaa kohottavia ominaisuuksia. Melbournen yliopiston tutkimus (2013) osoitti positiivisia vaikutuksia lievissä ja keskivaikeissa masennuksissa. Vaikutus johtuu dopamiini- ja serotoniinireseptorien modulaatiosta. Kava ei kuitenkaan ole korvike ammatilliselle masennushoidolle. Diagnosoitujen masennushäiriöiden kohdalla lääkärin konsultointi on aina suositeltavaa, erityisesti jos käytetään jo masennuslääkkeitä.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Tieteelliset tutkimukset"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "Parantaako Kava unta?",
+      "answer": "Kyllä, Kava voi parantaa unen laatua. Kavalaktonien rentouttava vaikutus auttaa nukahtamaan ja edistää syvempää, virkistävämpää unta. Toisin kuin monet unilääkkeet, Kava ei aiheuta seuraavan aamun \"krapulaa\". Tutkimukset osoittavat, että Kava on erityisen tehokas stressiperäisissä unihäiriöissä. Unen edistämiseksi suositellaan Kavan nauttimista 1-2 tuntia ennen nukkumaanmenoa. Lajikkeet, joilla on korkea DHM- ja DHK-pitoisuus (kuten Borogu), ovat erityisen unta edistäviä.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "Kava parempaan uneen"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "Mitkä ovat Kavan sivuvaikutukset?",
+      "answer": "Kun Noble Kava -lajikkeita käytetään oikein, sivuvaikutukset ovat harvinaisia ja lieviä. Mahdollisia sivuvaikutuksia ovat: tilapäinen puutuminen huulissa ja kielessä (normaalia), lievä pahoinvointi tyhjään vatsaan nautittuna, uneliaisuus (erityisesti suurilla annoksilla) ja kroonisen ylensyönnin seurauksena palautuva ihon hilseily (\"Kava-dermopatia\"). Tärkeää on käyttää puhdasta juurijauhetta Noble-lajikkeista ja välttää alkoholia nauttimisen aikana.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "Kavan turvallisuus"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "Sivuvaikutukset yksityiskohtaisesti"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "Onko Kava haitallista maksalle?",
+      "answer": "Kysymys maksatoksisuudesta on monimutkainen. Saksan Kava-kielto vuodelta 2002 perustui raportteihin maksavaurioista, jotka kuitenkin johtuvat pääasiassa huonolaatuisista tuotteista (lehtien/varsien käyttö juurien sijaan), Tudei-lajikkeista (ei päivittäiseen käyttöön soveltuvia), alkoholiuuteista ja lääkkeiden yhteisvaikutuksista. Tutkimukset osoittavat, että perinteisesti valmistettu Noble Kava on turvallista terveille aikuisille. Silti maksasairauksista kärsivien tulisi välttää Kavaa, ja säännöllisten käyttäjien tulisi tarkistaa maksaarvonsa.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "Kava ja maksa"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei Kava"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "Onko Kava huume?",
+      "answer": "Kava ei ole huume huumausaineiden lainsäädännön mukaan. Se on perinteinen juoma, jolla on psykoaktiivisia vaikutuksia, kuten kahvi tai tee. Kava ei aiheuta riippuvuutta, ei kehitä toleranssia eikä sillä ole väärinkäyttöpotentiaalia. WHO on luokitellut Kavan \"ei-addiktiiviseksi\". Useimmissa maissa Kava on laillisesti saatavilla. Vaikutus on lievästi rentouttava, ei huumaava kuten alkoholi tai laittomat aineet."
+    },
+    "kava-alkohol": {
+      "question": "Voiko Kavaa yhdistää alkoholiin?",
+      "answer": "Ei, Kavaa ei tulisi yhdistää alkoholiin. Molemmat aineet vaikuttavat GABA-järjestelmään ja voivat vahvistaa toistensa vaikutuksia, mikä voi johtaa liialliseen rauhoittumiseen. Lisäksi molemmat aineet metaboloituvat maksassa, mikä lisää kuormitusta. Perinteisessä Tyynenmeren kulttuurissa Kavaa kulutetaan vaihtoehtona alkoholille, ei yhdessä sen kanssa. Odota vähintään 24 tuntia alkoholin ja Kavan kulutuksen välillä.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "Yhteisvaikutukset"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "Kuinka annostella Kavaa oikein?",
+      "answer": "Suositeltu annostus Kava-jauheelle on 2-4 ruokalusikallista (noin 15-30g) per istunto, jaettuna 2-3 kulhoon. Aloittelijoille suositellaan alhaisemman annoksen (1-2 rkl) aloittamista. Kavalaktoniannoksen ei tulisi ylittää 250mg per kerta. Tärkeää: Kava saavuttaa täyden vaikutuksensa usein vasta säännöllisen käytön jälkeen useiden päivien ajan (\"käänteinen toleranssi\"). Älä käytä yli 300mg kavalaktonia päivässä pitkiä aikoja.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Kavan valmistus"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "Miten Kavaa kannattaa nauttia?",
+      "answer": "Perinteinen menetelmä on valmistaa juomaksi: Kava-jauhe vaivataan veteen ja suodatetaan siivilän läpi. Juoma nautitaan kulhoista (\"Shells\"), tyypillisesti 2-3 kulhoa per istunto 10-15 minuutin välein. Vaihtoehtoisesti on saatavilla pikakavaa (helppo liuottaa veteen), kapseleita tai tinktuuroita. Paras vaikutus saavutetaan kevyesti tyhjällä mahalla, noin 2-3 tuntia viimeisen aterian jälkeen. Pienen välipalan nauttiminen juomisen jälkeen voi vahvistaa vaikutusta.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Perinteinen valmistus"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "Voiko Kavaa juoda päivittäin?",
+      "answer": "Kyllä, Tyynenmeren kulttuureissa Kavaa kulutetaan perinteisesti päivittäin. Lännen käytössä suositellaan säännöllisiä taukoja (esim. 1-2 päivää viikossa ilman Kavaa). Päivittäisessä käytössä annoksen tulisi pysyä kohtuullisena ja käytettävä vain Noble Kava -lajikkeita. Säännöllisten käyttäjien tulisi tarkistaa maksaarvonsa vuosittain. Tärkeää: Juoda riittävästi vettä ja huolehtia terveellisestä ruokavaliosta."
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "Mikä on parempaa: Kava-jauhe vai kapselit?",
+      "answer": "Kava-jauhe tarjoaa autenttisimmat kokemukset ja parhaan vaikutuksen, mutta vaatii valmistusta. Kapselit ovat käteviä matkassa, mutta sisältävät usein vähemmän kavalaktonia ja vaikuttavat heikommin. Pikakava on hyvä kompromissi – helppo liuottaa veteen, hyvä vaikutus. Aloittelijoille suositellaan pikakavaa tai keskikarkeaa jauhetta. Vahvinta vaikutusta varten: perinteisesti valmistettu jauhe. Kapselit sopivat satunnaiseen, matalatehoiseen käyttöön."
+    },
+    "kava-zubereitung": {
+      "question": "Kuinka Kavaa valmistetaan perinteisesti?",
+      "answer": "Perinteinen valmistus: 1) 2-4 rkl Kava-jauhetta laitetaan kangaspussiin tai pähkinämaitopussiin. 2) Laitetaan kulhoon, jossa on noin 500ml lämmintä (ei kuumaa!) vettä. 3) Vaivataan 5-10 minuuttia ja puristetaan, kunnes vesi muuttuu maitomaiseksi ruskeaksi. 4) Pussi puristetaan ja poistetaan. 5) Tarjoillaan kulhoissa ja nautitaan nopeasti. Maku on maapohjainen ja hieman karvas – tämä on normaalia. Palanen hedelmää \"chaserina\" auttaa makua vastaan.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Perinteinen valmistus"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "Pikakava"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "Miltä Kava maistuu?",
+      "answer": "Kavalla on ominainen, maapohjainen maku, jota usein kuvataan \"opittuna makuna\". Maku on hieman karvas, pippurinen ja maapohjainen, jossa on tiettyä terävyyttä. Juomisen jälkeen huulissa ja kielessä esiintyy tilapäistä puutumista – merkki aktiivisista kavalaktonista. Vinkkejä parantamiseen: juo Kavaa kylmänä, sekoita kookosmaitoon tai syö pala ananasta/mangosta \"chaserina\". Ajan myötä makuun tottuu."
+    },
+    "kava-tee": {
+      "question": "Voiko Kavaa valmistaa teeksi?",
+      "answer": "Kavaa ei tulisi valmistaa normaalina teenä kiehuvalla vedellä, koska korkeat lämpötilat voivat tuhota kavalaktonit. Käytä lämmintä vettä (noin 40°C). Kaupoissa myytävät \"Kava-tee\" -tuotteet sisältävät usein vain pieniä määriä Kavaa ja ovat vähemmän tehokkaita kuin perinteisesti valmistettu Kava-jauhe. Parhaan vaikutuksen saavuttamiseksi suositellaan perinteistä vaivausmenetelmää keskikarkeasta Kava-jauheesta tai korkealaatuisesta pikakavasta.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Valmistusmenetelmät"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "Onko Kava laillista Saksassa?",
+      "answer": "Kavan oikeudellinen tilanne Saksassa on monimutkainen. Vuonna 2002 Kava kiellettiin lääkkeenä sen jälkeen, kun raporteissa oli havaittu maksavaurioita. Tämä kielto kumottiin vuonna 2014 liittovaltion hallintotuomioistuimessa, koska tieteellinen perusta oli riittämätön. Tällä hetkellä Kavan tuonti ja hallussapito henkilökohtaista käyttöä varten on laillista. Myynti ravintolisänä tai lääkkeenä on kuitenkin edelleen rajoitettua. Kavaa voi tilata EU:n ulkopuolelta (esim. Alankomaat, UK) tai suoraan Tyyneltämereltä.",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "Kavan oikeudellinen status"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "Mistä voi ostaa Kavaa?",
+      "answer": "Kavaa voi hankkia eri tavoin: 1) Verkkokaupoista Tyyneltämereltä (Vanuatu, Fiji) – paras laatu, mutta pidempi toimitusaika. 2) Eurooppalaisilta kauppiailta (UK, Alankomaat) – nopeampi toimitus, hyvä valikoima. 3) Erikoistuneista Kava-baareista – paikan päällä nautittavaksi. Saksalaisista päivittäistavarakaupoista (DM, Rossmann) tai apteekeista Kavaa ei tällä hetkellä löydy. Ostaessasi kiinnitä huomiota: Noble Kava -lajikkeet, puhdas juuri (ei lehtiä/varsia), laboratoriotestit ja alkuperätiedot.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "Kava-baarihakemisto"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "Onko Kavaa saatavilla DM:ssä tai apteekissa?",
+      "answer": "Ei, Kavaa ei tällä hetkellä ole saatavilla DM:ssä, Rossmannissa eikä saksalaisissa apteekeissa. Tämä johtuu Saksan sääntelytilanteesta, joka rajoittaa Kavan myyntiä ravintolisänä tai lääkkeenä. Homeopaattiset valmisteet, joissa on Piper methysticum (vahvasti laimennettuna), olivat aiemmin saatavilla apteekeissa, mutta ovat myös harvinaisia. Aitoa Kava-jauhetta varten sinun on turvauduttava erikoistuneisiin verkkokauppoihin."
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "Onko Kava jälleen saatavilla?",
+      "answer": "Kyllä, Kava on jälleen saatavilla, vaikka ei saksalaisessa vähittäiskaupassa. Kielto kumottiin vuonna 2014, ja Kavaa voidaan laillisesti tuoda henkilökohtaista käyttöä varten. Paras hankintapaikka ovat erikoistuneet verkkokaupat Tyyneltämereltä (Vanuatu, Fiji, Tonga) tai eurooppalaiset toimittajat (UK, Alankomaat). Laatu ja saatavuus ovat parantuneet merkittävästi viime vuosina, ja Saksassa on kasvava Kava-harrastajien yhteisö."
+    },
+    "kava-vs-ashwagandha": {
+      "question": "Mikä on ero Kavan ja Ashwagandhan välillä?",
+      "answer": "Kava ja Ashwagandha ovat molemmat adaptogeenisiä kasveja, mutta eroavat merkittävästi: Kava vaikuttaa nopeasti (15-30 min.) ja akuutisti rentouttavasti, mikä on ihanteellista tilanteelliseen ahdistukseen tai stressiin. Ashwagandha vaikuttaa pitkällä aikavälillä viikkojen aikana ja säätelee kortisolitasoja. Kavaa valmistetaan juomaksi, Ashwagandhaa otetaan yleensä kapselina. Kava:lla on huomattava psykoaktiivinen vaikutus, Ashwagandha on hienovaraisempi. Molempia voidaan yhdistää, jolloin Kava on sopiva akuutteihin tilanteisiin ja Ashwagandha pitkäaikaiseen stressinsietoon."
+    },
+    "kava-vs-baldrian": {
+      "question": "Mikä on ero Kavan ja Baldrian välillä?",
+      "answer": "Kava ja Baldrian (Valerian) ovat molemmat rentouttavia, mutta niillä on erilaiset profiilit: Kava vaikuttaa voimakkaammin ahdistusta lievittävästi ja edistää seurallisuutta kirkkaalla mielellä. Baldrian on ensisijaisesti unta edistävä ja voi aiheuttaa uneliaisuutta. Kava:lla on nopeampi vaikutus (15-30 min.), Baldrian tarvitsee usein useita viikkoja säännöllistä käyttöä. Kavan maku on maapohjainen, Baldrian haisee ja maistuu epämiellyttävältä. Kava on parempi sosiaalisiin tilanteisiin, Baldrian parempi puhtaana unilääkkeenä."
+    },
+    "kava-vs-kratom": {
+      "question": "Mikä on ero Kavan ja Kratomin välillä?",
+      "answer": "Kava ja Kratom ovat täysin erilaisia eivätkä niitä tulisi sekoittaa: Kava sisältää kavalaktonia ja vaikuttaa rentouttavasti ilman riippuvuuspotentiaalia. Kratom sisältää alkaloideja (Mitragynin), jotka vaikuttavat opioidi-reseptoreihin ja joilla on riippuvuuspotentiaalia. Kava on useimmissa maissa laillista, Kratom on monissa maissa (mukaan lukien Saksa) kielletty tai säännelty. Kava:lla on pitkä perinne turvallisesta käytöstä, Kratom on liitetty terveysriskeihin. Suosittelemme Kratomista pidättäytymistä."
+    },
+    "kava-alternative": {
+      "question": "Mitkä ovat vaihtoehtoja Kavalle?",
+      "answer": "Luonnolliset vaihtoehdot Kavalle rentoutumiseen ja ahdistuksen lievittämiseen sisältävät: Ashwagandha (adaptogeeni, pitkäaikainen), Baldrian (unta edistävä), Passionskukka (lievästi ahdistusta lievittävä), L-teaniini (teestä, edistää rentoutumista), Magnesium (lihasten rentoutuminen), CBD (kannabidioli, laillinen Saksassa). Mikään näistä vaihtoehdoista ei kuitenkaan tarjoa Kavan ainutlaatuista profiilia, jossa yhdistyvät rentoutuminen, seurallisuus ja henkinen selkeys. Parasta vaihtoehtoa alkoholille sosiaalisissa tilanteissa ei ole Kavan todellista korviketta."
+    },
+    "kava-zeremonie": {
+      "question": "Mitä on Kava-seremonia?",
+      "answer": "Kava-seremonia on perinteinen rituaali Tyynellämerellä, jossa Kavaa valmistetaan ja nautitaan yhdessä. Seremonia seuraa tiukkoja protokollia: Kuka valmistaa Kavan? Kuka saa ensimmäisen kulhon? Missä järjestyksessä juodaan? Fijillä seremoniaa kutsutaan \"Sevusevu\" ja se on osa virallisia valtiollisia toimia. Tongassa ja Samoalla on erittäin muodollisia 'Ava-seremonioita, joissa on määritellyt roolit. Seremonia symboloi kunnioitusta, vieraanvaraisuutta ja sosiaalista sidettä.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "Seremoniat & Rituaalit"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "Mitä on Nakamal?",
+      "answer": "Nakamal on perinteinen Kava-juomapaikka Vanuatulla. Alun perin se oli miesten talo, jossa kyläyhteisö kokoontui illalla juomaan Kavaa. Nykyään \"Nakamal\" viittaa myös moderneihin Kava-baareihin Port Vilassa ja muissa kaupungeissa. Tunnelma on rauhallinen ja kunnioittava – istutaan yhdessä, juodaan useita kulhoja ja käydään hiljaisia keskusteluja. Nakamalit ovat sosiaalisia tasapainopaikkoja, joissa eri taustoista tulevat ihmiset kokoontuvat yhteen.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal & Kava-Baarit"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "Mitä nimiä Kava:lla on eri kulttuureissa?",
+      "answer": "Kavalla on eri Tyynenmeren kulttuureissa erilaisia nimiä: Vanuatu: Kava tai Malok. Fiji: Yaqona (lausutaan \"Yang-gona\"). Tonga: Kava tai 'Ava. Samoa: 'Ava. Havaiji: 'Awa. Pohnpei: Sakau. Papua-Uusi-Guinea: Kava. Tieteellinen nimi Piper methysticum tarkoittaa \"huumaavaa pippuria\". Saksassa käytetään nimityksiä Kava, Kava-Kava ja Rauschpfeffer."
+    },
+    "relatedLinks": [
+      {
+        "href": "/de/glossar",
+        "label": "Sanasto"
+      }
+    ]
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

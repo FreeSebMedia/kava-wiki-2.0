@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Blender-menetelmä",
+    "subtitle": "Nopea ja tehokas tapa valmistaa Kavaa – ihanteellinen moderniin arkeen.",
+    "category": "Valmistus"
+  },
+  "breadcrumbs": {
+    "home": "Etusivu",
+    "zubereitung": "Valmistus",
+    "current": "Blender-menetelmä"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Yhteenveto",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Tarvittavat materiaalit",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Vaiheittainen ohje",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Vertailu perinteiseen menetelmään",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Asiantuntijavinkit",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Kokonaisaika",
+    "fast": "Nopea",
+    "lowEffort": "Vähän vaivannäköä",
+    "highPotency": "Korkea teho",
+    "effectiveExtraction": "Tehokas uutto",
+    "tip": "Vinkki",
+    "essential": "Olennainen",
+    "importantForBestResults": "Tärkeä parhaiden tulosten saavuttamiseksi",
+    "aspect": "Osa-alue",
+    "traditional": "Perinteinen (vaivaaminen)",
+    "blender": "Blender",
+    "otherMethods": "Muut valmistusmenetelmät"
+  },
+  "overview": {
+    "intro": "Blender-menetelmä on <strong>nykyaikainen vaihtoehto</strong> perinteiselle vaivausmenetelmälle. Se on nopeampi, vähemmän työläs ja silti tuottaa <strong>erittäin hyvän uuton</strong>.",
+    "alert": {
+      "title": "Ihanteellinen...",
+      "text": "Aloittelijoille, jotka etsivät helppoa menetelmää, tai kokeneille käyttäjille, joilla on vähän aikaa. Blender-menetelmä on myös täydellinen suuremmille määrille."
+    }
+  },
+  "materials": {
+    "title": "Tarvittavat materiaalit",
+    "essential": [
+      {
+        "name": "Tehosekoitin / Blender",
+        "note": "Vähintään 500 wattia, mieluiten 1000+ wattia"
+      },
+      {
+        "name": "Kava-juurijauhe",
+        "type": "Keskikarkea",
+        "note": "20-40g kokemuksesta riippuen"
+      },
+      {
+        "name": "Suodatinpussi",
+        "note": "Pähkinämaitopussi tai hieno siivilä"
+      },
+      {
+        "name": "Lämmin vesi",
+        "note": "400-600ml, kädenlämpöinen (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Kookosöljy tai kookosmaito",
+        "note": "1 rkl – olennainen hyvä uutto varten!"
+      },
+      {
+        "name": "Keittiövaaka",
+        "note": "Johdonmukaista annostelua varten"
+      },
+      {
+        "name": "Iso kulho",
+        "note": "Suodattamisen aikana keräämiseen"
+      }
+    ],
+    "alert": {
+      "title": "Tehosekoittimen vaatimukset",
+      "text": "Käytä tehokasta tehosekoitinta. Sukasekoittimet tai heikot sekoittimet eivät uuta tehokkaasti ja voivat ylikuumentua. Ihanteellisia ovat teho-sekoittimet kuten Vitamix tai Blendtec."
+    }
+  },
+  "steps": {
+    "title": "Vaiheittainen ohje",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Ainesosien valmistelu",
+        "duration": "2 min",
+        "description": "Mittaa ja valmistele kaikki ainesosat.",
+        "details": [
+          "Punnitse Kava-jauhe (20-40g kokemuksesta riippuen)",
+          "Mittaa vesi (400-600ml)",
+          "Valmistele 1 rkl kookosöljyä tai kookosmaitoa",
+          "Aseta suodatinpussi ja keräyskulho valmiiksi"
+        ],
+        "tip": "Rasva on erityisen tärkeä blender-menetelmässä, koska se stabiloi emulsion."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Lisää sekoittimeen",
+        "duration": "1 min",
+        "description": "Kaada kaikki ainesosat tehosekoittimeen.",
+        "details": [
+          "Kaada ensin vesi (kädenlämpöinen, 35-45°C)",
+          "Lisää sitten Kava-jauhe",
+          "Lisää lopuksi rasva (kookosöljy/kookosmaito)",
+          "Sulje kansi tiiviisti!"
+        ],
+        "tip": "Lämmin vesi parantaa uuttoa. Kylmä vesi toimii myös, mutta on vähemmän tehokasta."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Sekoita",
+        "duration": "3-4 min",
+        "description": "Sekoita korkeimmalla teholla maksimaalisen uuton saavuttamiseksi.",
+        "details": [
+          "Aseta sekoitin korkeimmalle teholla",
+          "Sekoita 3-4 minuuttia jatkuvasti",
+          "Seos muuttuu vaahtomaiseksi ja maitomaiseksi ruskeaksi",
+          "Ota lyhyitä taukoja ylikuumenemisen estämiseksi"
+        ],
+        "tip": "Pidempi sekoitus = vahvempi Kava. Mutta varo: jotkut sekoittimet ylikuumentuvat yli 4 minuutin."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Suodata",
+        "duration": "3 min",
+        "description": "Kaada seos suodatinpussin läpi.",
+        "details": [
+          "Aseta suodatinpussi suuren kulhon päälle",
+          "Kaada hitaasti sekoitus kulhoon",
+          "Purista pussia ja käännä se ympäri",
+          "Purista useita kertoja, kunnes nestettä tulee vain vähän"
+        ],
+        "tip": "Tämä vaihe on tärkeä! Ilman suodatusta juot karkeita kuituja, jotka voivat aiheuttaa pahoinvointia."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Tarjoile",
+        "duration": "Välittömästi",
+        "description": "Nauti Blender-Kavastasi!",
+        "details": [
+          "Kaada kulhoihin tai kuppeihin",
+          "Valinnainen: Laita hetkeksi jääkaappiin viilennettyä Kavaa varten",
+          "Juotava yhdellä kertaa ('Chug')",
+          "Valmista chaser (hedelmä) valmiiksi"
+        ],
+        "tip": "Blender-Kava voi maistua hieman kitkerältä verrattuna perinteisesti valmistettuun. Hyvä chaser auttaa!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Vertailu perinteiseen menetelmään",
+    "conclusion": "<strong>Yhteenveto:</strong> Blender-menetelmä on ihanteellinen arkeen ja aloittelijoille. Erityisiin tilaisuuksiin tai maksimaaliseen tehoon perinteinen menetelmä on suositeltavampi.",
+    "items": [
+      {
+        "aspect": "Valmistusaika",
+        "traditional": "20-25 minuuttia",
+        "blender": "8-10 minuuttia",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Teho",
+        "traditional": "Erittäin korkea",
+        "blender": "Korkea tai erittäin korkea",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Maku",
+        "traditional": "Miedompi, maaperäinen",
+        "blender": "Kitkerämpi, intensiivinen",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Vaivannäkö",
+        "traditional": "Korkea (fyysinen)",
+        "blender": "Vähäinen",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Välineet",
+        "traditional": "Vain pussi + kulho",
+        "blender": "Tehosekoitin tarpeen",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Aloittelijoille",
+        "traditional": "Hyvin sopiva",
+        "blender": "Erittäin hyvin sopiva",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Asiantuntijavinkit",
+    "items": [
+      {
+        "name": "Jääkuutio-trikki",
+        "text": "Lisää 2-3 jääkuutiota sekoittimeen. Tämä jäähdyttää seosta sekoittamisen aikana ja estää ylikuumenemisen pidempien sekoitusaikojen aikana."
+      },
+      {
+        "name": "Kaksinkertainen suodatus",
+        "text": "Suodata kahdesti – ensin karkealla, sitten hienolla pussilla. Tämä tuottaa tasaisemman Kavan ilman sedimenttiä."
+      },
+      {
+        "name": "Lecitiini-boost",
+        "text": "Teelusikallinen auringonkukka-lecitiiniä parantaa emulsiota ja voi lisätä Kavalaktonien biologista hyötyosuutta."
+      },
+      {
+        "name": "Erävalmistus",
+        "text": "Valmista suurempia määriä ja säilytä suodatettu Kava jääkaapissa. Kestää 2-3 päivää. Ravista hyvin ennen juomista!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Perinteinen vaivausmenetelmä",
+      "subtitle": "Maksimaalinen teho, aito kokemus",
+      "href": "/fi/valmistus/perinteinen"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Ei vaivannäköä, heti juotavaksi",
+      "href": "/fi/valmistus/instant"
+    },
+    "calculator": {
+      "title": "Annostelulaskuri",
+      "subtitle": "Personoidut suositukset lajikkeellesi",
+      "href": "/fi/valmistus/laskuri"
+    }
+  }
+}

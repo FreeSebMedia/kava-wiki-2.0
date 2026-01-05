@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Método de licuadora",
+    "subtitle": "La forma rápida y efectiva de preparar Kava – ideal para la vida moderna.",
+    "category": "Preparación"
+  },
+  "breadcrumbs": {
+    "home": "Inicio",
+    "zubereitung": "Preparación",
+    "current": "Método de licuadora"
+  },
+  "toc": {
+    "title": "Contenido",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Resumen",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Materiales necesarios",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Instrucciones paso a paso",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Comparación con el método tradicional",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Consejos de expertos",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Tiempo total",
+    "fast": "Rápido",
+    "lowEffort": "Poco esfuerzo",
+    "highPotency": "Alta potencia",
+    "effectiveExtraction": "Extracción efectiva",
+    "tip": "Consejo",
+    "essential": "Esencial",
+    "importantForBestResults": "Importante para los mejores resultados",
+    "aspect": "Aspecto",
+    "traditional": "Tradicional (amasado)",
+    "blender": "Licuadora",
+    "otherMethods": "Otros métodos de preparación"
+  },
+  "overview": {
+    "intro": "El método de licuadora es la <strong>alternativa moderna</strong> al método tradicional de amasado. Es más rápido, requiere menos trabajo y aún así proporciona una <strong>muy buena extracción</strong>.",
+    "alert": {
+      "title": "Ideal para...",
+      "text": "Principiantes que buscan un método sencillo, o usuarios experimentados que tienen poco tiempo. El método de licuadora también es perfecto para cantidades más grandes."
+    }
+  },
+  "materials": {
+    "title": "Materiales necesarios",
+    "essential": [
+      {
+        "name": "Licuadora",
+        "note": "Al menos 500 vatios, mejor 1000+ vatios"
+      },
+      {
+        "name": "Polvo de raíz de Kava",
+        "type": "Molienda media",
+        "note": "20-40g según la experiencia"
+      },
+      {
+        "name": "Bolsas de filtro",
+        "note": "Bolsas para leche de nuez o tamiz fino"
+      },
+      {
+        "name": "Agua tibia",
+        "note": "400-600ml, tibia al tacto (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Aceite de coco o leche de coco",
+        "note": "1 cucharada – ¡esencial para una buena extracción!"
+      },
+      {
+        "name": "Báscula de cocina",
+        "note": "Para una dosificación consistente"
+      },
+      {
+        "name": "Gran tazón",
+        "note": "Para recoger al filtrar"
+      }
+    ],
+    "alert": {
+      "title": "Requisitos de la licuadora",
+      "text": "Utilice una licuadora potente. Las batidoras de mano o licuadoras débiles no extraen de manera efectiva y pueden sobrecalentarse. Los licuadoras de alto rendimiento como Vitamix o Blendtec son ideales."
+    }
+  },
+  "steps": {
+    "title": "Instrucciones paso a paso",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Preparar los ingredientes",
+        "duration": "2 min",
+        "description": "Medir y preparar todos los ingredientes.",
+        "details": [
+          "Pesar el polvo de Kava (20-40g según la experiencia)",
+          "Medir el agua (400-600ml)",
+          "Preparar 1 cucharada de aceite de coco o leche de coco",
+          "Tener lista la bolsa de filtro y el tazón de recolección"
+        ],
+        "tip": "La grasa es especialmente importante en el método de licuadora, ya que estabiliza la emulsión."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Agregar a la licuadora",
+        "duration": "1 min",
+        "description": "Llenar la licuadora con todos los ingredientes.",
+        "details": [
+          "Primero agregar el agua (tibia, 35-45°C)",
+          "Luego añadir el polvo de Kava",
+          "Por último, agregar la grasa (aceite de coco/leche de coco)",
+          "¡Cerrar bien la tapa!"
+        ],
+        "tip": "El agua tibia mejora la extracción. El agua fría también funciona, pero es menos efectiva."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Licuar",
+        "duration": "3-4 min",
+        "description": "Licuar a la máxima velocidad para una extracción máxima.",
+        "details": [
+          "Ajustar la licuadora a la velocidad máxima",
+          "Licuar continuamente durante 3-4 minutos",
+          "La mezcla se volverá espumosa y de color marrón lechoso",
+          "Hacer pausas cortas si se sobrecalienta"
+        ],
+        "tip": "Licuar más tiempo = Kava más fuerte. Pero cuidado: algunas licuadoras se sobrecalientan después de 4+ minutos."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filtrar",
+        "duration": "3 min",
+        "description": "Verter la mezcla a través de una bolsa de filtro.",
+        "details": [
+          "Colocar la bolsa de filtro sobre un gran tazón",
+          "Verter lentamente la mezcla de la licuadora",
+          "Exprimir y escurrir la bolsa",
+          "Presionar varias veces hasta que salga poca o ninguna líquido"
+        ],
+        "tip": "¡Este paso es importante! Sin filtrar, beberá fibras gruesas que pueden causar náuseas."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Servir",
+        "duration": "Inmediato",
+        "description": "¡Disfruta de tu Kava de licuadora!",
+        "details": [
+          "Verter en tazones o tazas",
+          "Opcional: Refrigerar brevemente para un Kava frío",
+          "Beber de un trago ('Chug')",
+          "Tener un chaser (fruta) a mano"
+        ],
+        "tip": "El Kava de licuadora puede tener un sabor algo más amargo que el preparado tradicional. ¡Un buen chaser ayuda!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Comparación con el método tradicional",
+    "conclusion": "<strong>Conclusión:</strong> El método de licuadora es ideal para el día a día y para principiantes. Para ocasiones especiales o máxima potencia, se prefiere el método tradicional.",
+    "items": [
+      {
+        "aspect": "Tiempo de preparación",
+        "traditional": "20-25 minutos",
+        "blender": "8-10 minutos",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Potencia",
+        "traditional": "Muy alta",
+        "blender": "Alta a muy alta",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Sabor",
+        "traditional": "Suave, terroso",
+        "blender": "Amargo, intenso",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Esfuerzo",
+        "traditional": "Alto (físico)",
+        "blender": "Bajo",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Equipamiento",
+        "traditional": "Solo bolsa + tazón",
+        "blender": "Se necesita licuadora",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Para principiantes",
+        "traditional": "Bien adecuado",
+        "blender": "Muy bien adecuado",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Consejos de expertos",
+    "items": [
+      {
+        "name": "Truco de cubitos de hielo",
+        "text": "Agregue 2-3 cubitos de hielo a la licuadora. Esto enfría la mezcla durante el licuado y evita el sobrecalentamiento en tiempos de licuado más largos."
+      },
+      {
+        "name": "Filtración doble",
+        "text": "Filtrar dos veces – primero a través de una bolsa gruesa, luego a través de una bolsa fina. Esto produce un Kava más suave sin sedimento."
+      },
+      {
+        "name": "Aumento de lecitina",
+        "text": "Una cucharadita de lecitina de girasol mejora la emulsión y puede aumentar la biodisponibilidad de las Kavalactonas."
+      },
+      {
+        "name": "Preparación por lotes",
+        "text": "Prepare cantidades más grandes y almacene el Kava filtrado en el refrigerador. Dura de 2 a 3 días. ¡Agitar bien antes de beber!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Método tradicional de amasado",
+      "subtitle": "Máxima potencia, experiencia auténtica",
+      "href": "/es/preparacion/tradicional"
+    },
+    "instant": {
+      "title": "Kava instantáneo",
+      "subtitle": "Sin esfuerzo, listo para beber de inmediato",
+      "href": "/es/preparacion/instantaneo"
+    },
+    "calculator": {
+      "title": "Calculadora de dosificación",
+      "subtitle": "Recomendaciones personalizadas para su variedad",
+      "href": "/es/preparacion/calculadora"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Annoslaskuri",
+    "subtitle": "Laske optimaalinen Kava-annoksesi lajikkeen, kokemuksen ja valmistusmenetelmän perusteella.",
+    "category": "Valmistus"
+  },
+  "breadcrumbs": {
+    "home": "Koti",
+    "zubereitung": "Valmistus",
+    "current": "Annoslaskuri"
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Annoslaskuri",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Suosituksesi",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Tärkeitä huomioita",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Vaikuttavat tekijät",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Valitse Kava-lajike",
+    "selectStrainPlaceholder": "-- Valitse lajike --",
+    "potency": "Voimakkuus",
+    "experienceLevel": "Kokemusaste",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Aloittelija",
+        "desc": "Ensimmäiset viikot"
+      },
+      "regular": {
+        "label": "Säännöllinen",
+        "desc": "Useita kuukausia"
+      },
+      "experienced": {
+        "label": "Kokenut",
+        "desc": "Yli 1 vuosi"
+      }
+    },
+    "prepMethod": "Valmistusmenetelmä",
+    "methods": {
+      "traditional": {
+        "label": "Perinteinen",
+        "desc": "Vaivaaminen"
+      },
+      "blender": {
+        "label": "Blender",
+        "desc": "Sekoittaja"
+      },
+      "instant": {
+        "label": "Instant",
+        "desc": "Mikronisoitu"
+      }
+    },
+    "bodyWeight": "Kehonpaino",
+    "kg": "kg",
+    "calculate": "Laske annos",
+    "instantPowder": "Instant-jauhe",
+    "mediumGrind": "Keskikarkea jauhe",
+    "water": "Vesi",
+    "kavalactones": "Kavalaktonit (arvioitu)",
+    "prepTime": "Valmistusaika",
+    "min": "Min",
+    "toPrepGuide": "Valmistusohjeeseen"
+  },
+  "results": {
+    "title": "Henkilökohtainen suosituksesi",
+    "bestTime": {
+      "title": "Paras käyttöaika",
+      "heady": "Päivällä, sosiaalisiin tilaisuuksiin tai luoviin aktiviteetteihin",
+      "heavy": "Illalla, rentoutumiseen tai ennen nukkumaanmenoa",
+      "balanced": "Joustava, sopii mihin tahansa vuorokauden aikaan"
+    },
+    "tip": {
+      "title": "Vinkki tälle lajikkeelle",
+      "default": "Nauti tätä lajiketta tyhjään vatsaan parhaan vaikutuksen saavuttamiseksi."
+    }
+  },
+  "notes": {
+    "title": "Tärkeitä huomioita",
+    "safety": {
+      "title": "Yleiset turvallisuusohjeet",
+      "items": [
+        "Juo Kavaa aina <strong>tyhjään vatsaan</strong> (3-4h syömisen jälkeen)",
+        "Aloita <strong>alhaisemmalla annoksella</strong> ja lisää hitaasti",
+        "<strong>Käänteinen toleranssi:</strong> Ensimmäisillä kerroilla vaikutus voi olla heikompi",
+        "Älä yhdistä Kavaa <strong>alkoholiin</strong> tai lääkkeisiin",
+        "Maksasairauksien tai raskauden aikana: <strong>Ei Kavaa</strong>"
+      ]
+    },
+    "about": {
+      "title": "Tietoa tästä laskurista",
+      "text": "Lasketut arvot ovat <strong>suuntaa-antavia</strong> keskimääräisten kavalaktonipitoisuuksien ja kokemustietojen perusteella. Todellinen vaikutus voi vaihdella yksilöllisen herkkyyden, erän ja valmistajan mukaan."
+    }
+  },
+  "factors": {
+    "title": "Vaikuttavat tekijät annokseen",
+    "items": [
+      {
+        "title": "Lajikkeen voimakkuus",
+        "text": "Eri lajikkeilla on erilaiset kavalaktonipitoisuudet. 5-tähden lajike kuten Loa Waka tarvitsee vähemmän jauhetta kuin miedompi 3-tähden lajike kuten Pouni Ono."
+      },
+      {
+        "title": "Kehonpaino",
+        "text": "Raskaammat henkilöt tarvitsevat yleensä enemmän Kavaa saman vaikutuksen saavuttamiseksi. Laskuri säätää suosituksen sen mukaisesti."
+      },
+      {
+        "title": "Valmistusmenetelmä",
+        "text": "Instant/Mikronisoitu Kava on tiiviimpää kuin keskikarkea. Blender-menetelmä uutaa hieman tehokkaammin kuin perinteinen vaivaaminen."
+      },
+      {
+        "title": "Kokemusaste",
+        "text": "Käänteisen toleranssin vuoksi kokeneet käyttäjät tarvitsevat usein vähemmän Kavaa saman vaikutuksen saavuttamiseksi. Aloittelijoiden tulisi aloittaa alhaisilla annoksilla."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Valmistusohjeet",
+    "traditional": {
+      "title": "Perinteinen menetelmä",
+      "time": "20-25 Min",
+      "href": "/fi/valmistus/perinteinen"
+    },
+    "blender": {
+      "title": "Blender-menetelmä",
+      "time": "8-10 Min",
+      "href": "/fi/valmistus/blender"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "time": "30 Sek",
+      "href": "/fi/valmistus/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Käytetään yhtenä parhaista Heady Kava -lajikkeista maailmassa. Rajoitettu saatavuus.",
+    "borogu": "Yleisimmin juotu Kava Vanuatulla. Erittäin luotettava.",
+    "pouni-ono": "Erittäin suosittu aloittelijakava, jolla on johdonmukainen laatu.",
+    "moi": "Yksi harvinaisimmista ja kalleimmista Kavoista. Perinteisesti käytetty havaijilaisissa seremonioissa.",
+    "melo-melo": "Erittäin suosittu aloittelijakava, jolla on voimakas ahdistusta lievittävä vaikutus.",
+    "bir-kar": "Tunnetaan voimakkuudestaan ja luotettavuudestaan.",
+    "palasa": "Ei suositella aloittelijoille. Erittäin voimakas.",
+    "loa-waka": "Yksi vahvimmista kaupallisesti saatavilla olevista Kavoista.",
+    "hiwa": "Perinteisesti käytetty vain seremoniallisissa tarkoituksissa. Erittäin harvinainen.",
+    "vula-waka": "Suosittu monikäyttöinen Kava Fidžiltä.",
+    "silese": "Yksi euforisimmista lajikkeista ylipäätään.",
+    "palarasul": "Hyvä aloitus Heavy Kava -lajikkeisiin."
+  }
+}

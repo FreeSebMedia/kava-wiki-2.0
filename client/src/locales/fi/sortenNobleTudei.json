@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "subtitle": "Tärkein ero jokaiselle Kava-käyttäjälle: Miksi Noble Kava on turvallista ja Tudeita tulisi välttää.",
+    "category": "Lajikkeet",
+    "breadcrumb": {
+      "home": "Etusivu",
+      "sorten": "Lajikkeet",
+      "current": "Noble vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "Sisältö",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Johdanto",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "Luokittelun historia",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "Kemialliset erot",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "Vaikutuserot",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "Tudein tunnistaminen",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "Turvallisuusnäkökohdat",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Ero <strong>Noble Kava</strong>:n ja <strong>Tudei Kava</strong>:n välillä on perustavin luokittelu Kava-maailmassa. Se päättää, onko Kava-kokemus miellyttävä ja turvallinen vai epämiellyttävä ja mahdollisesti haitallinen.",
+      "text": "Termi \"Tudei\" (myös kirjoitettuna \"Two-Day\") on peräisin Bislama-kielestä, Vanuatun kreolikielestä, ja tarkoittaa kirjaimellisesti \"kaksi päivää\" – viittaus näiden lajikkeiden äärimmäisen pitkään vaikutusaikaan. Noble Kava puolestaan on vuosisatojen ajan ollut Tyynenmeren kulttuurien valitsema päivittäiseen käyttöön, ja se tarjoaa miellyttävän, hallittavissa olevan vaikutuksen."
+    },
+    "geschichte": {
+      "title": "Luokittelun historia",
+      "p1": "Virallinen ero Noble- ja Tudei-Kavan välillä otettiin käyttöön <strong>Vanuatun hallituksen</strong> toimesta, jotta voitaisiin säädellä vientikavan laatua. Vuonna 2002 Vanuatu hyväksyi <strong>Kava-lain</strong>, joka kieltää Tudei-lajikkeiden viennin. Tämä lainsäädäntö oli reaktio Euroopassa esiintyneisiin maksavaurioita koskeviin raportteihin, jotka liittyivät huonolaatuisiin Kava-tuotteisiin.",
+      "p2": "<strong>Dr. Vincent Lebot</strong>:n tutkimus, joka on johtava Kava-tutkija, oli ratkaisevaa tämän luokittelun kehittämisessä. Lebot kehitti menetelmiä Kava-lajikkeiden kemialliseen analysointiin ja tunnisti <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kemotyypit</a>, jotka erottavat Noblen Tudeista.",
+      "quote": "Luokittelu Noble- ja Tudei-kavaan perustuu ei-subjektiivisiin mieltymyksiin, vaan mitattavissa oleviin kemiallisiin eroihin, jotka korreloivat suoraan turvallisuuden ja siedettävyyden kanssa.",
+      "quoteAuthor": "— Dr. Vincent Lebot, Kava-tutkija"
+    },
+    "chemischeUnterschiede": {
+      "title": "Kemialliset erot",
+      "intro": "Keskeinen ero Noble- ja Tudei-Kavan välillä on <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kemotyyppi</a> – kuuden pää-<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">kavalaktonin</a> suhteellinen pitoisuus. Kemotyyppi ilmoitetaan kuusinumeroisena lukuna, jossa ensimmäinen numero edustaa hallitsevaa kavalaktonia.",
+      "tableHeaders": {
+        "merkmal": "Ominaisuus",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Kemotyyppi alkaa",
+          "noble": "2 (DHK) tai 4 (Kavain)",
+          "tudei": "5 (DHM) tai 6 (Methysticin)"
+        },
+        {
+          "merkmal": "Hallitseva kavalaktoni",
+          "noble": "Kavain tai Dihydrokavain",
+          "tudei": "Dihydromethysticin"
+        },
+        {
+          "merkmal": "Flavokavain B -pitoisuus",
+          "noble": "Matala (<0.5%)",
+          "tudei": "Korkea (jopa 5%)"
+        },
+        {
+          "merkmal": "DHM:Kavain-suhde",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Noble Kemotyypit (esimerkkejä)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Kaikki alkavat 2 tai 4 – ei koskaan 5 tai 6."
+      },
+      "tudeiCard": {
+        "title": "Tudei Kemotyypit (esimerkkejä)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "Alkaa 5 (DHM) tai 6 (Methysticin) – varoitussignaali."
+      },
+      "calculatorLink": "Kemotyyppilaskuri: Analysoi jokainen kemotyyppi"
+    },
+    "wirkungsunterschiede": {
+      "title": "Vaikutuserot",
+      "intro": "Kemialliset erot johtavat dramaattisesti erilaisiin vaikutusprofiileihin:",
+      "tableHeaders": {
+        "aspekt": "Aspekti",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Vaikutuksen alkaminen",
+          "noble": "Nopea (10-20 minuuttia)",
+          "tudei": "Viivästynyt (30-90 minuuttia)"
+        },
+        {
+          "aspekt": "Vaikutuksen kesto",
+          "noble": "Kohtuullinen (3-6 tuntia)",
+          "tudei": "Äärimmäisen pitkä (6-48 tuntia)"
+        },
+        {
+          "aspekt": "Vaikutuksen luonne",
+          "noble": "Selkeä, rentouttava, sosiaalinen",
+          "tudei": "Hämärä, sumuinen, rauhoittava"
+        },
+        {
+          "aspekt": "Seuraava päivä",
+          "noble": "Ei krapulaa",
+          "tudei": "Usein lethargiaa, pahoinvointia"
+        },
+        {
+          "aspekt": "Haittavaikutukset",
+          "noble": "Harvoin, lieviä",
+          "tudei": "Usein: pahoinvointia, päänsärkyä"
+        },
+        {
+          "aspekt": "Päivittäinen käyttö",
+          "noble": "Turvallista",
+          "tudei": "Ei suositella"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Noble Kava -kokemus",
+        "text": "Tyypillinen Noble-Kava-kokemus alkaa kevyellä pistelyllä huulilla, jota seuraa rentoutumisen aalto. Mieli pysyy kirkkaana, kun keho rentoutuu. 3-4 tunnin jälkeen vaikutus laskee pehmeästi, ja tuntee itsensä virkistyneeksi – valmis rauhalliseen uneen tai muihin aktiviteetteihin."
+      },
+      "tudeiExperience": {
+        "title": "Tudei Kava -kokemus",
+        "text": "Tudei-Kava vaikuttaa viivästyneesti ja hiipien. Vaikutus on usein ylivoimaisesti rauhoittava, ja tuntuu \"sumuiselta\". Seuraavana päivänä monet käyttäjät tuntevat edelleen vaikutuksia – siksi nimi \"Two-Day\". Pahoinvointi ja päänsärky ovat yleisiä."
+      }
+    },
+    "erkennung": {
+      "title": "Tudein tunnistaminen",
+      "intro": "Valitettavasti Tudei-Kavaa saatetaan joskus laittomasti sekoittaa tai myydä Noble Kavana. Tässä on varoitusmerkkejä:",
+      "warningTitle": "Varoitusmerkit Tudei-sekoituksesta",
+      "warnings": [
+        "<strong>Äärimmäisen alhainen hinta</strong> – Tudei on halvempaa tuottaa",
+        "<strong>Ei lajikenimeä</strong> – Lajikenimi tulisi aina ilmoittaa",
+        "<strong>Ei kemotyyppiä</strong> – Kemotyyppi kertoo kavalaktonikoostumuksesta",
+        "<strong>Viivästynyt vaikutuksen alkaminen</strong> – Noble vaikuttaa 10-20 minuutissa",
+        "<strong>Äärimmäinen pahoinvointi</strong> – Enemmän kuin lieviä vatsavaivoja",
+        "<strong>Vaikutus seuraavana päivänä</strong> – Noble laskee 4-6 tunnin jälkeen"
+      ],
+      "acetoneTestTitle": "Asetonitesti",
+      "acetoneTestText": "Yksinkertainen kotitesti voi auttaa tunnistamaan Tudein: <strong>Asetonitesti</strong>. Tässä Kava-jauhe sekoitetaan asetonin kanssa. Noble Kava värjää asetonin keltaiseksi, kun taas Tudei-Kava tuottaa oranssia tai punaista väriä (korkean Flavokavain B -pitoisuuden vuoksi).",
+      "recommendation": "<strong>Suositus:</strong> Kiinnitä ostaessasi huomiota siihen, että myyjä ilmoittaa tarkat kemotyypit ja lajikkeet. Nämä tiedot osoittavat, että kyseessä on aito Noble Kava."
+    },
+    "sicherheit": {
+      "title": "Turvallisuusnäkökohdat",
+      "intro": "Ero Noble- ja Tudei-kavan välillä ei ole vain mukavuuskysymys, vaan myös <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">turvallisuus</a>. Varhaisten 2000-luvun maksavauriot, jotka liitettiin Kavaan, johtuvat nykyään pääasiassa huonolaatuisista tuotteista:",
+      "causes": [
+        "Käyttö <strong>pinnallisista kasvin osista</strong> (lehdet, varret) vain juurien sijaan",
+        "Tudei-lajikkeiden <strong>sekoittaminen</strong> korkean Flavokavain B -pitoisuuden kanssa",
+        "<strong>Asetoniuuttaminen</strong> perinteisen vesivalmistuksen sijaan",
+        "Käyttö <strong>kypsymättömistä kasveista</strong> (alle 3 vuotta vanhoista)"
+      ],
+      "conclusion": "Noble Kava, joka valmistetaan perinteisesti vähintään 3-5 vuotta vanhoista juurista, omaa <strong>tuhansien vuosien turvallisuushistorian</strong> Tyynenmeren kulttuureissa. Vanuatun hallitus ja kansainväliset organisaatiot, kuten <strong>WHO</strong>, ovat vahvistaneet, että Noble Kava on turvallista asianmukaisessa käytössä.",
+      "moreLink": "Lisätietoja Kavan turvallisuudesta"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Jatka Lajikkeet-luvussa:",
+    "next": {
+      "title": "Lajikkeet Vanuatusta",
+      "description": "Yli 80 lajiketta Kavan kotimaasta: Borogu, Melo Melo, Kelai ja muita",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "page": {
+    "title": "Lihasten rentoutuminen",
+    "subtitle": "Miten Kavalaktonit lievittävät jännityksiä ja edistävät fyysistä rentoutumista.",
+    "category": "Vaikutus"
+  },
+  "breadcrumbs": {
+    "home": "Etusivu",
+    "wirkung": "Vaikutus",
+    "current": "Lihasten rentoutuminen"
+  },
+  "toc": {
+    "einfuehrung": "Johdanto",
+    "mechanismen": "Vaikutusmekanismit",
+    "kavalactone": "Merkittävät Kavalaktonit",
+    "anwendungen": "Käyttöalueet",
+    "chemotypen": "Suositellut kemotyypit & lajikkeet",
+    "praxis": "Käytännön soveltaminen"
+  },
+  "intro": {
+    "paragraph1": "Kavan <strong>lihaksia rentouttava vaikutus</strong> on yksi selkeimmin tuntuvista vaikutuksista. Jo ensimmäisen Shellin jälkeen rentoutumisen aalto alkaa liikkua kehossa – jännitykset hellittävät, keho tuntuu \"raskaalta\" ja miellyttävältä.",
+    "paragraph2": "Perinteisessä käytössä Tyynellämerellä Kavaa on käytetty tuhansia vuosia lihaskipujen ja fyysisen jännityksen lievittämiseen. Nykyajan tutkimus on selvittänyt taustalla olevat mekanismit."
+  },
+  "mechanismen": {
+    "title": "Vaikutusmekanismit",
+    "intro": "Kavan lihaksia rentouttava vaikutus perustuu useisiin synergistisiin mekanismeihin, jotka vaikuttavat sekä keskushermostossa (aivot/selkäydin) että ääreishermostossa.",
+    "natrium": {
+      "title": "Natrium- ja kalsiumkanavien esto",
+      "description": "Kavalaktonit estävät jänniteherkkiä <strong>natrium- ja kalsiumkanavia</strong> hermosoluissa. Tämä vähentää motoneuronien (lihaksia ohjaavien hermosolujen) herkkyyttä ja johtaa lihasjänteyden vähenemiseen. Tämä mekanismi on myös vastuussa <strong>antikonvulsivisesta</strong> (kramppia lievittävä) vaikutuksesta."
+    },
+    "gaba": {
+      "title": "Keskushermoston GABA-modulaatio",
+      "description": "GABA:n vaikutuksen voimistaminen aivoissa ja selkäytimessä vähentää <strong>keskushermoston lihasjänteyttä</strong>. GABA on tärkein estävä neurotransmitteri ja säätelee myös lihasjänteyttä selkäytimessä."
+    },
+    "peripher": {
+      "title": "Ääreishermoston vaikutus",
+      "description": "Jotkut kavalaktonit vaikuttavat myös suoraan <strong>lihaksikkaaseen lihaskudokseen</strong> (esim. verisuonissa). Tämä voi johtaa lievään verisuonten laajentumiseen ja selittää lämpötilan tunteen, jota monet käyttäjät raportoivat."
+    },
+    "quote": "Kavalaktonit estävät jänniteherkkiä natrium- ja kalsiumkanavia neuronitasolla, mikä edistää lihaksia rentouttavaa vaikutusta.",
+    "quoteSource": "Kava – Rauhan juuri"
+  },
+  "kavalactone": {
+    "title": "Merkittävät Kavalaktonit",
+    "intro": "Kaikki kavalaktonit eivät vaikuta yhtä voimakkaasti lihasten rentoutumiseen. Erityisesti kaksi yhdistettä erottuu:",
+    "dhk": {
+      "title": "Dihydrokavain (DHK)",
+      "position": "Sijainti 2 kemotyypissä",
+      "description": "DHK on <strong>vahvin lihaksia rentouttava</strong> kavalakton. Se vaikuttaa ensisijaisesti natriumkanavien eston kautta ja sillä on voimakas sedatiivinen komponentti.",
+      "profile": "Vahvasti lihaksia rentouttava, sedatiivinen, kehollinen. Ihanteellinen iltakäyttöön ja jännityksiin."
+    },
+    "dhm": {
+      "title": "Dihydromethysticin (DHM)",
+      "position": "Sijainti 5 kemotyypissä",
+      "description": "DHM:llä on myös voimakkaat lihaksia rentouttavat ominaisuudet, mutta se on myös kavalakton, jolla on <strong>pitkäkestoisin vaikutus</strong>. Korkeissa pitoisuuksissa se voi johtaa pitkäaikaiseen väsymykseen.",
+      "warning": "Korkeat DHM-pitoisuudet (sijainti 1-2) ovat tyypillisiä Tudei-lajikkeille ja voivat aiheuttaa \"krapula\"-oireita."
+    },
+    "tableHeaders": {
+      "kavalacton": "Kavalakton",
+      "muskelentspannung": "Lihasten rentoutuminen",
+      "sedierung": "Sedaatio",
+      "dauer": "Kesto"
+    },
+    "tableData": [
+      {
+        "name": "Dihydrokavain (2)",
+        "muskel": "⭐⭐⭐⭐⭐",
+        "sedierung": "⭐⭐⭐⭐",
+        "dauer": "Keskimääräinen"
+      },
+      {
+        "name": "Dihydromethysticin (5)",
+        "muskel": "⭐⭐⭐⭐",
+        "sedierung": "⭐⭐⭐⭐⭐",
+        "dauer": "Pitkä"
+      },
+      {
+        "name": "Methysticin (3)",
+        "muskel": "⭐⭐⭐",
+        "sedierung": "⭐⭐⭐",
+        "dauer": "Keskimääräinen"
+      },
+      {
+        "name": "Kavain (4)",
+        "muskel": "⭐⭐",
+        "sedierung": "⭐⭐",
+        "dauer": "Lyhyt"
+      }
+    ],
+    "profileLabel": "Vaikutusprofiili",
+    "warningLabel": "Varoitus"
+  },
+  "anwendungen": {
+    "title": "Käyttöalueet",
+    "intro": "Kavan lihaksia rentouttava vaikutus voi olla hyödyllinen erilaisissa vaivoissa:",
+    "areas": [
+      {
+        "title": "Jännitykset niska-/hartia-alueella",
+        "description": "Stressi ja näyttötyö johtavat usein kroonisiin jännityksiin. Kava voi auttaa niiden lievittämisessä ja hyvinvoinnin parantamisessa."
+      },
+      {
+        "title": "Selkäkipu",
+        "description": "Lihaksista johtuvassa selkäkivussa rentouttava vaikutus voi tuoda helpotusta. Kava ei korvaa lääkärinhoitoa, mutta voi toimia tukena."
+      },
+      {
+        "title": "Jännityspäänsärky",
+        "description": "Päänsäryt, jotka johtuvat lihasjännityksistä niska- ja pääalueella, voivat helpottua rentoutumisen myötä."
+      },
+      {
+        "title": "Kuukautiskivut",
+        "description": "Kramppia lievittävä vaikutus voi olla hyödyllinen kuukautiskrampeissa. Perinteisesti Kavaa on käytetty myös tähän tarkoitukseen Tyynellämerellä."
+      },
+      {
+        "title": "Urheilun jälkeen",
+        "description": "Intensiivisen harjoittelun jälkeen Kava voi auttaa rentouttamaan lihaksia ja edistämään palautumista."
+      },
+      {
+        "title": "Levottomat jalat -oireyhtymä",
+        "description": "Jotkut käyttäjät raportoivat helpotuksesta levottomista jaloista. Lihasten rentoutumisen ja ahdistuksen lievityksen yhdistelmä voi olla tehokas."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Suositellut kemotyypit & lajikkeet",
+    "intro": "Maksimaalisen <strong>lihasten rentoutumisen</strong> saavuttamiseksi tulisi valita lajikkeita, joissa on korkea DHK-osuus (sijainti 2 ensimmäisellä tai toisella sijalla). Nämä \"Heavy\" Kavat ovat kehollisia ja ihanteellisia iltakäyttöön.",
+    "heavyLabel": "Heavy",
+    "heavyTitle": "Maksimaalinen lihasten rentoutuminen",
+    "varieties": [
+      {
+        "name": "Palasa (Vanuatu)",
+        "chemotype": "423651",
+        "description": "Erittäin kehollinen, voimakas lihasten rentoutuminen. Ihanteellinen jännityksiin."
+      },
+      {
+        "name": "Ambae (Vanuatu)",
+        "chemotype": "246531",
+        "description": "DHK-dominantti, voimakas \"Couch-Lock\" -vaikutus."
+      },
+      {
+        "name": "Palarasul (Vanuatu)",
+        "chemotype": "426531",
+        "description": "Voimakkaasti sedatiivinen hyvällä lihasten rentoutumisella."
+      },
+      {
+        "name": "Borogu (Vanuatu)",
+        "chemotype": "426531",
+        "description": "Klassikko tasapainoisella kehollisella vaikutuksella."
+      }
+    ],
+    "tipTitle": "Kemotyyppivinkki",
+    "tipText": "Kiinnitä huomiota <strong>sijaintiin 2 (DHK)</strong> kemotyypissä. Mitä edempänä, sitä voimakkaampi lihasten rentoutuminen. Kemotyyppi kuten <strong>246...</strong> tai <strong>426...</strong> osoittaa kehollista lajiketta. Käytä kemotyyppilaskuria lajikkeiden analysoimiseen.",
+    "rechnerLink": "Kemotyyppilaskuri"
+  },
+  "praxis": {
+    "title": "Käytännön soveltaminen",
+    "intro": "Lihasjännitysten hoidossa on muutamia suosituksia:",
+    "empfehlungenTitle": "Suositukset lihasten rentoutumiseen",
+    "empfehlungen": [
+      {
+        "label": "Ajastus",
+        "text": "Parhaiten illalla, 1-2 tuntia ennen nukkumaanmenoa. Lihaksia rentouttavien lajikkeiden sedatiivinen komponentti voi tehdä väsyneeksi."
+      },
+      {
+        "label": "Annostus",
+        "text": "2-3 Shelliä (30-45g jauhetta) selkeän kehollisen vaikutuksen saavuttamiseksi. Aloittelijoiden tulisi aloittaa pienemmällä annoksella."
+      },
+      {
+        "label": "Yhdistelmä",
+        "text": "Lämpö (kuuma kylpy, lämpötyyny) vahvistaa rentouttavaa vaikutusta. Myös kevyet venyttelyharjoitukset voivat olla hyödyllisiä."
+      },
+      {
+        "label": "Säännöllisyys",
+        "text": "Kroonisten jännitysten kohdalla säännöllinen iltakäyttö (taukojen kanssa) voi olla järkevää."
+      },
+      {
+        "label": "Nesteytys",
+        "text": "Juoda riittävästi vettä, sillä Kava voi vaikuttaa kevyesti kuivattavasti."
+      }
+    ],
+    "gefuehlTitle": "\"Kava-tunne\"",
+    "gefuehlText": "Kavan kautta saavutettu fyysinen rentoutuminen kuvataan usein miellyttävänä \"raskautena\". Raajat tuntuvat lämpimiltä ja rentoutuneilta, jännitykset hellittävät kuin itsestään. Tätä tilaa ei tule sekoittaa huimaamiseen – mieli pysyy kirkkaana, vain keho rentoutuu syvästi."
+  },
+  "navigation": {
+    "nextChapter": "Jatka luvussa Vaikutus:",
+    "nextTitle": "Tunnelma & Sosiaalinen",
+    "nextDescription": "Miten Kava kohottaa tunnelmaa ja edistää sosiaalisia vuorovaikutuksia"
+  }
+}

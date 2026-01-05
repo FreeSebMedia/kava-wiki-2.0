@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "Kasvi",
+    "subtitle": "Taksonomia, nimistö ja suhde Piper methysticum -lajin ja sen villin esimuodon välillä.",
+    "category": "Kasvitiede"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Kasvitiede",
+    "pflanze": "Kasvi"
+  },
+  "toc": {
+    "taxonomie": "Taksonominen luokittelu",
+    "name": "Nimen merkitys",
+    "wichmannii": "Piper wichmannii – Villin esimuoto",
+    "unterschiede": "Eroja viljellyn lajin kanssa",
+    "domestikation": "Domestikaatio & evoluutio",
+    "kulturgut": "Kava elävänä kulttuuriperintönä"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> ei ole tavallinen hyötykasvi. Se on tulos tuhansien vuosien ihmisen valinnasta ja esiintyy nykyään vain viljeltynä muotona. Villit populaatiot eivät enää ole olemassa – jokainen Kava-kasvi maailmassa on klooni, joka on siirtynyt ihmisen käsissä."
+  },
+  "taxonomie": {
+    "title": "Taksonominen luokittelu",
+    "intro": "Kava kuuluu <strong>Piperaceae</strong>-perheeseen (pippurikasvit), joka on yksi vanhimmista kukkakasvien perheistä. Tämä perhe sisältää noin 3 600 lajia 5 suvussa, mukaan lukien tunnettu mustapippuri (<em>Piper nigrum</em>).",
+    "table": {
+      "headers": {
+        "rank": "Taksonominen taso",
+        "classification": "Luokittelu",
+        "note": "Huomautus"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Kunta",
+          "classification": "Plantae",
+          "note": "Kasvit"
+        },
+        "unterreich": {
+          "rank": "Alakunta",
+          "classification": "Tracheobionta",
+          "note": "Verisuonikasvit"
+        },
+        "abteilung": {
+          "rank": "Osasto",
+          "classification": "Magnoliophyta",
+          "note": "Peittäjäsiemeniset"
+        },
+        "klasse": {
+          "rank": "Luokka",
+          "classification": "Magnoliopsida",
+          "note": "Kaksisirkkaiset"
+        },
+        "ordnung": {
+          "rank": "Laji",
+          "classification": "Piperales",
+          "note": "Pippurilajit"
+        },
+        "familie": {
+          "rank": "Perhe",
+          "classification": "Piperaceae",
+          "note": "Pippurikasvit"
+        },
+        "gattung": {
+          "rank": "Suku",
+          "classification": "<em>Piper</em> L.",
+          "note": "Noin 2 000 lajia maailmanlaajuisesti"
+        },
+        "art": {
+          "rank": "Laji",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "Ensimmäinen kuvaus 1786"
+        }
+      }
+    },
+    "forster": "Ensimmäinen kuvaus tehtiin 1786 <strong>Johann Georg Adam Forsterin</strong> toimesta, saksalaisen luonnontieteilijän, joka seurasi James Cookia tämän toisella maailmanmatkalla. Forster dokumentoi kasvin ja sen käytön Tyynenmeren saarilla."
+  },
+  "name": {
+    "title": "Nimen merkitys",
+    "intro": "Tieteellinen nimi <em>Piper methysticum</em> on yhdistelmä latinaa ja kreikkaa:",
+    "piper": {
+      "title": "Piper",
+      "description": "Latinaksi \"pippuri\". Viittaa kuulumiseen pippurikasvien perheeseen ja juuren lievästi pippuriseen makuun."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "Kreikan <em>μεθυστικός</em> (methystikos) = \"huumaava\" tai \"juovuttava\". Kuvaa kasvin psykoaktiivista vaikutusta."
+    },
+    "localNames": {
+      "intro": "Nimi \"Kava\" itsessään on peräisin Tyynenmeren austronesialaisista kielistä. Eri alueilla on erilaisia nimityksiä:",
+      "headers": {
+        "region": "Alue",
+        "name": "Paikallinen nimi",
+        "meaning": "Merkitys"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Kipeä\""
+        },
+        "fiji": {
+          "region": "Fiji",
+          "name": "Yaqona",
+          "meaning": "\"Kipeä juuri\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Pippurinen, karvas\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Kipeä\""
+        },
+        "hawaii": {
+          "region": "Hawaii",
+          "name": "'Awa",
+          "meaning": "\"Kipeä\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Kava-juoma\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – Villin esimuoto",
+    "intro": "Lähin sukulaislaji <em>Piper methysticum</em> -lajille on <strong>Piper wichmannii</strong>, joka katsotaan nykyisen viljellyn Kavan villiksi esimuodoksi. Tämä laji esiintyy luonnollisesti Papua-Uudessa-Guineassa, Salomonsaarilla ja pohjoisessa Vanuatussa.",
+    "alert": "<strong>Tärkeää:</strong> <em>Piper wichmannii</em> kutsutaan joskus \"Villiksi Kavaksi\" ja sitä kulutetaan paikallisesti. Se sisältää kuitenkin erilaisen kavalaktoniprofiilin ja sitä pidetään vähemmän siedettävänä kuin viljeltyjä hienokava-lajikkeita.",
+    "differences": {
+      "title": "Eroja P. methysticum ja P. wichmannii välillä",
+      "headers": {
+        "feature": "Ominaisuus",
+        "methysticum": "<em>P. methysticum</em> (viljelty)",
+        "wichmannii": "<em>P. wichmannii</em> (villinä)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Käyminen",
+          "methysticum": "Steril, vain vegetatiivinen",
+          "wichmannii": "Fertil, tuottaa siemeniä"
+        },
+        "chromosomen": {
+          "feature": "Kromosomiluku",
+          "methysticum": "Dekaploidinen (2n = 130)",
+          "wichmannii": "Diploidinen (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Kavalaktonipitoisuus",
+          "methysticum": "Korkeampi, optimoitu",
+          "wichmannii": "Alhaisempi, vaihteleva"
+        },
+        "chemotyp": {
+          "feature": "Kemotyyppi",
+          "methysticum": "Valittu siedettävyyden mukaan",
+          "wichmannii": "Usein \"Tudei\"-tyyppinen"
+        },
+        "verbreitung": {
+          "feature": "Levinneisyys",
+          "methysticum": "Vain ihmisten kautta",
+          "wichmannii": "Luonnollinen levinneisyys"
+        },
+        "nutzung": {
+          "feature": "Perinteinen käyttö",
+          "methysticum": "Tuhansia vuosia dokumentoitu",
+          "wichmannii": "Rajoitettu, usein vältetty"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Domestikaatio & evoluutio",
+    "intro": "Kavan domestikaatio alkoi todennäköisesti noin <strong>3 000 vuotta</strong> sitten pohjoisessa Vanuatussa. Geneettiset tutkimukset osoittavat, että <em>Piper methysticum</em> on syntynyt toistuvasta hybridisaatiosta ja polyploidisoinnista <em>Piper wichmannii</em> -lajista.",
+    "changes": "Domestikaatioprosessi johti useisiin merkittäviin muutoksiin:",
+    "cards": {
+      "polyploidie": {
+        "title": "Lisääntynyt polyploidisuus",
+        "description": "Kun <em>P. wichmannii</em> on diploidinen (2n = 26), <em>P. methysticum</em> on dekaploidinen (2n = 130). Tämä kromosomien määrän lisääntyminen johti suurempiin juuriin ja korkeampaan kavalaktonipitoisuuteen."
+      },
+      "fertilitaet": {
+        "title": "Fertiliteetin menetys",
+        "description": "Korkea polyploidisuus johti steriiliyteen. Kasvi tuottaa kyllä kukkia, mutta ei elinkelpoisia siemeniä. Tämä teki siitä täysin riippuvaisen ihmisistä."
+      },
+      "wirkprofil": {
+        "title": "Optimoitu vaikutusprofiili",
+        "description": "Tavoitteellinen valinta johti lajikkeiden suosimiseen, joilla on miellyttävämpi vaikutus ja parempi siedettävyys. Tämä johti nykyisten \"hienokava\"-lajikkeiden syntymiseen."
+      },
+      "sortenvielfalt": {
+        "title": "Lajikevaihtoehdot",
+        "description": "Nykyään Vanuatussa on yli 80 dokumentoitua kultivaria. Jokaisella lajikkeella on ainutlaatuinen kemotyyppiprofiili ja ominaiset vaikutusominaisuudet."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "Kava elävänä kulttuuriperintönä",
+    "paragraph1": "Koska Kava ei voi lisääntyä itsenäisesti, jokainen nykyisin olemassa oleva kasvi on tulos keskeytymättömästä ihmisten välittämisestä. Pistokkaita on siirretty sukupolvelta toiselle, perheestä perheeseen, kylästä kylään.",
+    "quote": {
+      "text": "Kava on siten yksi vanhimmista dokumentoiduista esimerkeistä tietoisesta valikoivasta maataloudesta Etelä-Tyynellämerellä. Kasvi on elävä kulttuuriperintö – siirretty sukupolvelta toiselle.",
+      "author": "Sebastian Freidank, \"Kava – Rauhan juuri\""
+    },
+    "paragraph2": "Alkuperämaissa Kavaa ei nähdä vain hyötykasvina, vaan usein myös <strong>elävänä olentona</strong> – nimellä, luonteella ja historialla. Ei ole epätavallista, että yksittäisiä kasveja nimetään ja niitä kunnioitetaan rituaaleissa. Tämä syvä yhteys ihmisen ja kasvin välillä tekee Kavasta ei vain tehokkaan, vaan myös merkityksellisen.",
+    "paragraph3": "Ihmisten riippuvuus tuo myös varjopuolen: Ilman jatkuvaa viljelyä <em>Piper methysticum</em> kuolisi sukupolvessa. Tämä korostaa vastuuta, joka liittyy Kavan viljelyyn ja kauppaan."
+  },
+  "navigation": {
+    "nextChapter": "Jatka kasvitieteen luvussa:",
+    "morphologie": {
+      "title": "Morfologia",
+      "description": "Kavan kasvin anatomia & juurijärjestelmä"
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Lääkkeiden vuorovaikutukset",
+    "subtitle": "Kavalaktonit estävät tärkeitä maksaentsyymejä: Mitä sinun on tiedettävä CYP450-vuorovaikutuksista ja turvallisista yhdistelmistä.",
+    "category": "Turvallisuus",
+    "breadcrumbs": {
+      "home": "Etusivu",
+      "sicherheit": "Turvallisuus",
+      "current": "Vuorovaikutukset"
+    }
+  },
+  "toc": {
+    "title": "Sisältö",
+    "zusammenfassung": "Yhteenveto",
+    "cyp450": "CYP450-järjestelmä",
+    "welcheEnzyme": "Vaikuttavat entsyymit",
+    "klinischeBedeutung": "Kliininen merkitys",
+    "hochrisiko": "Korkean riskin yhdistelmät",
+    "alkohol": "Alkoholi",
+    "benzodiazepine": "Bentsodiatsepiinit & unilääkkeet",
+    "antipsychotika": "Antipsykootit",
+    "antikoagulantien": "Veritulpat",
+    "moderatesRisiko": "Kohtalainen riski",
+    "antidepressiva": "Masennuslääkkeet",
+    "antikonvulsiva": "Antikonvulsantit",
+    "parkinson": "Parkinson-lääkkeet",
+    "hepatotoxisch": "Hepatotoksiset lääkkeet",
+    "tabelle": "Vuorovaikutustaulukko",
+    "empfehlungen": "Käytännön suositukset",
+    "quellen": "Lähteet"
+  },
+  "navigation": {
+    "continueTitle": "Jatka turvallisuusluvussa",
+    "items": [
+      {
+        "title": "Yhteenveto",
+        "href": "/fi/turvallisuus",
+        "description": "Palaa turvallisuuden yhteenvedoon"
+      },
+      {
+        "title": "Maksaturvallisuus",
+        "href": "/fi/turvallisuus/maksa",
+        "description": "Hepatotoksisuus & kielto 2002"
+      },
+      {
+        "title": "Vasta-aiheet",
+        "href": "/fi/turvallisuus/vasta-aiheet",
+        "description": "Milloin Kavaa tulisi välttää"
+      },
+      {
+        "title": "Vuorovaikutustarkistin",
+        "href": "/fi/turvallisuus/tarkistin",
+        "description": "Tarkista lääkkeesi"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Tärkeä varoitus",
+    "intro": "Kava sisältää <strong>korkean potentiaalin lääkkeiden vuorovaikutuksiin</strong> estämällä sytokromi-P450-entsyymejä. Älä koskaan yhdistä Kavaa seuraavien kanssa:",
+    "items": [
+      {
+        "name": "Alkoholi",
+        "text": "Voimistunut sedaatio ja maksatoksisuus"
+      },
+      {
+        "name": "Bentsodiatsepiinit",
+        "text": "Hengitysdepressioriski"
+      },
+      {
+        "name": "Antipsykootit",
+        "text": "Voimistunut sedaatio, liikehäiriöt"
+      },
+      {
+        "name": "Veritulpat",
+        "text": "Verenvuotoriski"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "Sytokromi-P450-järjestelmä",
+    "intro": "Sytokromi-P450-järjestelmä (CYP450) on entsyymiperhe maksassa, joka on vastuussa useimpien lääkkeiden metaboloitumisesta. Kun aine estää näitä entsyymejä, muiden aineiden hajoaminen hidastuu – niiden vaikutus ja sivuvaikutukset voivat näin ollen voimistua.",
+    "importance": {
+      "title": "Miksi tämä on tärkeää?",
+      "text": "Noin <strong>70-80% kaikista lääkkeistä</strong> metaboloituu CYP450-entsyymien kautta. Kun Kava estää näitä entsyymejä, muiden lääkkeiden pitoisuus veressä voi nousta – joskus vaarallisille tasoille. Tämä pätee erityisesti lääkkeisiin, joilla on <strong>kapea terapeuttinen ikkuna</strong>, joissa pienet annosmuutokset voivat vaikuttaa suuresti."
+    }
+  },
+  "enzyme": {
+    "title": "Mitä entsyymejä estetään?",
+    "intro": "Mathews et al. (2002) ja muut tutkijat ovat osoittaneet, että kavalaktonit estävät useita tärkeitä CYP450-entsyymejä:",
+    "headers": [
+      "Entsyymi",
+      "Estovoima",
+      "Tärkeät substraatit (esimerkit)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Vahva",
+        "substrates": "Kofeiini, teofylliini, klozapiini, olantsapiini"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Vahva",
+        "substrates": "Varfariini, fenytoiini, tulehduskipulääkkeet (ibuprofeeni)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Kohtalainen",
+        "substrates": "omepratsoli, diatsepaami, klopidogreeli"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Kohtalainen",
+        "substrates": "kodeiini, tramadoli, monet masennuslääkkeet"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Vahva",
+        "substrates": "Bentsodiatsepiinit, statiinit, monet antibiootit"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Kliininen merkitys",
+    "text": "Russmann et al. (2005) osoittivat, että myös perinteiset vesiliukoiset Kava-uuteet estävät CYP1A2:ta ihmisillä. Estäminen oli annosriippuvaista ja kliinisesti merkittävää. Tämä tarkoittaa, että jopa perinteisesti valmistettu Kava voi aiheuttaa vuorovaikutuksia.",
+    "positive": {
+      "title": "Positiivinen sivuvaikutus?",
+      "text": "CYP1A2-estäminen voisi teoriassa tarjota suojaavan vaikutuksen tiettyjä ympäristön karsinogeenejä vastaan, jotka aktivoituvat tämän entsyymin kautta. Tämä voisi selittää, miksi Tyynenmeren väestöillä, huolimatta korkeasta Kavan kulutuksesta, on alhaiset syöpäluvut."
+    }
+  },
+  "hochrisiko": {
+    "title": "Korkean riskin yhdistelmät",
+    "intro": "Seuraavia yhdistelmiä tulisi <strong>välttää kaikissa olosuhteissa</strong>. Ne voivat johtaa vakaviin, mahdollisesti hengenvaarallisiin sivuvaikutuksiin."
+  },
+  "alkohol": {
+    "title": "Alkoholi",
+    "risk": "ERITTÄIN KORKEA",
+    "intro": "Kavan ja alkoholin yhdistelmä on erityisen vaarallinen useista syistä:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Synergistinen sedaatio",
+        "text": "Molemmat aineet vaikuttavat sedatiivisesti keskushermostoon. Yhdistetty vaikutus on voimakkaampi kuin yksittäisten vaikutusten summa."
+      },
+      {
+        "number": "2.",
+        "label": "Additiivinen hepatotoksisuus",
+        "text": "Molemmat aineet metaboloituvat maksassa ja voivat kuormittaa sitä. Yhdistelmä lisää merkittävästi maksan vaurioitumisen riskiä."
+      },
+      {
+        "number": "3.",
+        "label": "CYP-vuorovaikutus",
+        "text": "Alkoholi vaikuttaa myös CYP-entsyymeihin, mikä voi johtaa ennakoimattomiin vuorovaikutuksiin."
+      }
+    ],
+    "recommendation": "Suositus: Vähintään 24 tunnin väli alkoholin ja Kavan kulutuksen välillä."
+  },
+  "benzodiazepine": {
+    "title": "Bentsodiatsepiinit & unilääkkeet",
+    "risk": "ERITTÄIN KORKEA",
+    "intro": "Bentsodiatsepiinit (diazepami, loratsepaami, alpratsolaami jne.) ja Z-aineet (zolpidemi, zopicloni) eivät koskaan saa olla Kavan kanssa:",
+    "points": [
+      {
+        "label": "Voimistunut sedaatio",
+        "text": "Molemmat vaikuttavat GABA-reseptoreihin ja voimistavat toisiaan"
+      },
+      {
+        "label": "Hengitysdepressio",
+        "text": "Yhdistelmä voi vaarallisesti hidastaa hengitystä"
+      },
+      {
+        "label": "CYP3A4-estäminen",
+        "text": "Kava hidastaa bentsodiatsepiinien hajoamista, mikä pidentää niiden vaikutusta"
+      }
+    ],
+    "caseReportLabel": "Tapausraportti:",
+    "caseReport": "Almeida & Grimsley (1996) raportoivat 54-vuotiaasta miehestä, joka joutui puolikoomaiseen tilaan Kavan ja alpratsolaamin yhdistelmän jälkeen."
+  },
+  "antipsychotika": {
+    "title": "Antipsykootit",
+    "risk": "KORKEA",
+    "intro": "Antipsykootit kuten haloperidoli, risperidoni, olantsapiini ja klozapiini:",
+    "points": [
+      {
+        "label": "Voimistunut sedaatio",
+        "text": "Additiivinen CNS-vaikutus"
+      },
+      {
+        "label": "Ekstrapyramidaaliset oireet",
+        "text": "Lisääntynyt riski liikehäiriöille"
+      },
+      {
+        "label": "CYP1A2/CYP2D6-estäminen",
+        "text": "Hitaampi hajoaminen, korkeammat veritasot"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Veritulpat (verenvuotoa estävät lääkkeet)",
+    "risk": "KORKEA",
+    "intro": "Varfariini ja muut K-vitamiiniantagonistit:",
+    "points": [
+      {
+        "label": "CYP2C9-estäminen",
+        "text": "Kava estää entsyymin, joka hajottaa varfariinia"
+      },
+      {
+        "label": "Kohonnut INR",
+        "text": "Voimistunut verenvuototaipumus"
+      },
+      {
+        "label": "Verenvuotoriski",
+        "text": "Voi johtaa vaarallisiin sisäisiin verenvuotoihin"
+      }
+    ],
+    "recommendation": "Veritulppia käytettäessä Kava on vasta-aiheinen."
+  },
+  "moderatesRisiko": {
+    "title": "Kohtalaisen riskin yhdistelmät",
+    "intro": "Seuraavat yhdistelmät vaativat varovaisuutta ja niitä tulisi käyttää vain lääkärin kanssa keskustelun jälkeen. Annoksen säätö voi olla tarpeen."
+  },
+  "antidepressiva": {
+    "title": "Masennuslääkkeet",
+    "risk": "KOHTALAINEN",
+    "ssri": {
+      "title": "SSRI:t (fluoksetiini, sertraliini, paroksetiini jne.):",
+      "items": [
+        "CYP2D6-estäminen voi hidastaa hajoamista",
+        "Teoreettinen riski serotoniinioireyhtymästä (vähäinen)",
+        "Voimistunut sedaatio mahdollinen"
+      ]
+    },
+    "snri": {
+      "title": "SNRI:t (venlafaksiini, duloksetiini):",
+      "items": [
+        "Samanlaiset vuorovaikutukset kuin SSRI:lla",
+        "CYP2D6-estäminen merkittävä venlafaksiinille"
+      ]
+    },
+    "mao": {
+      "title": "MAO-estäjät:",
+      "items": [
+        "Kava estää MAO-B:tä (heikosti)",
+        "Teoreettinen riski, mutta kliinisesti vähän dokumentoitu",
+        "Varovaisuutta irreversiibelien MAO-estäjien kanssa"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Antikonvulsantit (epilepsialääkkeet)",
+    "risk": "KOHTALAINEN",
+    "intro": "Fenytoiini, karbamatsepiini, valproaatti ja muut antikonvulsantit:",
+    "points": [
+      {
+        "label": "CYP-vuorovaikutukset",
+        "text": "Muutokset veritasoissa mahdollisia"
+      },
+      {
+        "label": "Voimistunut sedaatio",
+        "text": "Additiivinen CNS-vaikutus"
+      },
+      {
+        "label": "Kouristusten hallinta",
+        "text": "Saattaa heikentyä"
+      }
+    ],
+    "note": "Epilepsian yhteydessä Kavaa tulisi käyttää vain lääkärin valvonnassa."
+  },
+  "parkinson": {
+    "title": "Parkinson-lääkkeet",
+    "risk": "KOHTALAINEN - KORKEA",
+    "intro": "Levodopa ja dopamiiniagonistit:",
+    "points": [
+      {
+        "label": "Dopamiiniantagonismi",
+        "text": "Kava voisi heikentää levodopan vaikutusta"
+      },
+      {
+        "label": "Tapausraportti",
+        "text": "Parkinson-oireiden paheneminen Kavan käytön aikana dokumentoitu"
+      }
+    ],
+    "recommendation": "Parkinson-taudissa Kava on vasta-aiheinen."
+  },
+  "hepatotoxisch": {
+    "title": "Hepatotoksiset lääkkeet",
+    "risk": "KOHTALAINEN",
+    "intro": "Lääkkeet, joilla on tunnettu hepatotoksinen potentiaali:",
+    "items": [
+      {
+        "name": "Parasetamoli/asetaminofeeni",
+        "text": "Erityisesti suurilla annoksilla ongelmallinen"
+      },
+      {
+        "name": "Statiinit",
+        "text": "Atorvastatiini, simvastatiini jne. (CYP3A4-substraatit)"
+      },
+      {
+        "name": "Metotreksaatti",
+        "text": "Immunosuppressiivinen lääke, jolla on maksatoksisuus"
+      },
+      {
+        "name": "Isoniatsidi",
+        "text": "Tuberkuloosilääke"
+      }
+    ],
+    "note": "Yhdistelmä hepatotoksisten lääkkeiden kanssa lisää maksan vaurioitumisen riskiä."
+  },
+  "tabelle": {
+    "title": "Yhteenvetotaulukko vuorovaikutuksista",
+    "headers": [
+      "Aineiden luokka",
+      "Esimerkit",
+      "Riski",
+      "Mechanismi"
+    ],
+    "rows": [
+      {
+        "class": "Alkoholi",
+        "examples": "Ethanoli",
+        "risk": "ERITTÄIN KORKEA",
+        "mechanism": "Synergistinen sedaatio, hepatotoksisuus"
+      },
+      {
+        "class": "Bentsodiatsepiinit",
+        "examples": "Diazepami, loratsepaami, alpratsolaami",
+        "risk": "ERITTÄIN KORKEA",
+        "mechanism": "GABA-vahvistus, CYP3A4-estäminen"
+      },
+      {
+        "class": "Antipsykootit",
+        "examples": "Haloperidoli, olantsapiini, klozapiini",
+        "risk": "KORKEA",
+        "mechanism": "CYP1A2/2D6-estäminen, sedaatio"
+      },
+      {
+        "class": "Veritulpat",
+        "examples": "Varfariini, fenprokuomoni",
+        "risk": "KORKEA",
+        "mechanism": "CYP2C9-estäminen, verenvuotoriski"
+      },
+      {
+        "class": "SSRI:t",
+        "examples": "Fluoksetiini, sertraliini, paroksetiini",
+        "risk": "KOHTALAINEN",
+        "mechanism": "CYP2D6-estäminen"
+      },
+      {
+        "class": "Antikonvulsantit",
+        "examples": "Fenytoiini, karbamatsepiini",
+        "risk": "KOHTALAINEN",
+        "mechanism": "CYP-vuorovaikutukset, sedaatio"
+      },
+      {
+        "class": "Parkinson-lääkkeet",
+        "examples": "Levodopa, dopamiiniagonistit",
+        "risk": "KOHTALAINEN",
+        "mechanism": "Dopamiiniantagonismi"
+      },
+      {
+        "class": "Statiinit",
+        "examples": "Atorvastatiini, simvastatiini",
+        "risk": "KOHTALAINEN",
+        "mechanism": "CYP3A4-estäminen, hepatotoksisuus"
+      },
+      {
+        "class": "Opioidit",
+        "examples": "Kodeiini, tramadoli, morfiini",
+        "risk": "KOHTALAINEN",
+        "mechanism": "CYP2D6-estäminen, sedaatio"
+      },
+      {
+        "class": "Kofeiini",
+        "examples": "Kahvi, energiajuomat",
+        "risk": "MATALA",
+        "mechanism": "CYP1A2-estäminen (pidentynyt vaikutus)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Käytännön suositukset",
+    "checklistTitle": "Tarkistuslista ennen Kavan käyttöä",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Tarkista lääkkeiden lista",
+        "text": "Tarkista kaikki nykyiset lääkkeet vuorovaikutusten varalta"
+      },
+      {
+        "number": "2.",
+        "label": "Konsultoi lääkäriä",
+        "text": "Säännöllisesti lääkkeitä käyttävien tulisi kysyä lääkäriltä ennen Kavan käyttöä"
+      },
+      {
+        "number": "3.",
+        "label": "Vältä alkoholia",
+        "text": "Älä juo alkoholia vähintään 24 tuntia ennen ja jälkeen Kavan käytön"
+      },
+      {
+        "number": "4.",
+        "label": "Aloita pienellä annoksella",
+        "text": "Aloita alhaisemmalla Kava-annoksella, jos käytät lääkkeitä samanaikaisesti"
+      },
+      {
+        "number": "5.",
+        "label": "Seuraa oireita",
+        "text": "Kiinnitä huomiota epätavalliseen väsymykseen, huimaukseen tai muihin oireisiin"
+      }
+    ],
+    "professionalNote": {
+      "title": "Huomautus lääkäreille ja apteekkarille",
+      "text": "Kava-käyttäjien lääkityksen tarkistus CYP450-substraattien osalta on suositeltavaa. Erityistä varovaisuutta tulisi noudattaa lääkkeiden kanssa, joilla on kapea terapeuttinen ikkuna. Annoksen säätö voi olla tarpeen."
+    }
+  },
+  "quellen": {
+    "title": "Lähteet",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Inhibition of Human Cytochrome P450 Activities by Kava Extract and Kavalactones.",
+        "source": "Drug Metabolism and Disposition."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Pharmacokinetic and pharmacodynamic drug interactions with Kava.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "Traditional Aqueous Kava Extracts Inhibit Cytochrome P450 1A2 in Humans.",
+        "source": "Clinical Pharmacology & Therapeutics."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Potential for interaction of kava and St. John's wort with drugs.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "Inhibition of Cytochrome P450 3A4 by Extracts and Kavalactones of Piper methysticum.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "Täydellinen lista kaikista viitatusta tutkimuksesta löytyy",
+    "studiesLink": "tutkimussivultamme"
+  }
+}
