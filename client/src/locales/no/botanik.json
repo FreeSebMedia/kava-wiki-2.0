@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Botanikk av <em>Piper methysticum</em>",
+    "subtitle": "En dyp innsikt i taksonomi, morfologi og økologi av Kava-planten.",
+    "category": "Botanikk"
+  },
+  "toc": {
+    "einfuehrung": "Introduksjon",
+    "klassifikation": "Vitenskapelig klassifikasjon",
+    "ueberblick": "Morfologisk oversikt",
+    "verbreitung": "Utbredelse & Habitat",
+    "vertiefung": "Dypere artikler"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>, vanlig kjent som Kava eller Kava-Kava, er en tropisk busk fra familien av pepperplanter (Piperaceae). Navnet <em>Piper methysticum</em> betyr oversatt \"ruspepper\" (fra gresk <em>methystikos</em> = berusende).",
+    "paragraph2": "I motsetning til mange andre psykoaktive planter inneholder Kava ingen alkaloider som hovedvirkestoffer, men en unik klasse av forbindelser kjent som <strong>Kavalaktone</strong>. Planten har spilt en sentral rolle i kulturer i Stillehavet i årtusener og er i dag resultatet av tusenårig menneskelig seleksjon."
+  },
+  "classification": {
+    "title": "Vitenskapelig klassifikasjon",
+    "headers": {
+      "rank": "Rang",
+      "name": "Vitenskapelig navn"
+    },
+    "ranks": {
+      "reich": "Rike",
+      "abteilung": "Avdeling",
+      "ordnung": "Orden",
+      "familie": "Familie",
+      "gattung": "Slekt",
+      "art": "Art"
+    },
+    "values": {
+      "reich": "Plantae (Planter)",
+      "abteilung": "Tracheophyta (Karplanter)",
+      "ordnung": "Piperales (Pepperordenen)",
+      "familie": "Piperaceae (Pepperfamilien)",
+      "gattung": "Piper (Pepper)",
+      "art": "Piper methysticum G. Forst."
+    },
+    "note": "Den nærmeste beslektede arten er <em>Piper wichmannii</em>, som anses for å være den ville forløperen til dagens kultiverte Kava-plante. Mens <em>P. wichmannii</em> (ofte kalt \"Vill Kava\") kan formere seg seksuelt, er den kultiverte <em>P. methysticum</em> steril og helt avhengig av mennesker."
+  },
+  "morphology": {
+    "title": "Morfologisk oversikt",
+    "intro": "Kava er en flerårig, eviggrønn busk som typisk når en høyde på 1,5 til 3 meter, men under optimale forhold kan bli opptil 5 meter høy.",
+    "aboveGround": {
+      "title": "Overjordiske deler",
+      "leaves": "<strong>Blader:</strong> Store, hjerteformede (cordat), 20-30 cm brede",
+      "stems": "<strong>Stengler:</strong> Knudrete, bambuslignende, sortspesifik farge",
+      "flowers": "<strong>Blomster:</strong> Klaseformede, sterile (ingen frø)"
+    },
+    "belowGround": {
+      "title": "Underjordiske deler",
+      "stump": "<strong>Stump (Corm):</strong> Tykk, vedaktig rotstokk",
+      "roots": "<strong>Side-røtter (Waka):</strong> Finere røtter, høyest innhold av kavalaktone",
+      "weight": "<strong>Vekt:</strong> 5-25 kg ved modne planter (3-5+ år)"
+    }
+  },
+  "distribution": {
+    "title": "Utbredelse & Habitat",
+    "intro": "Kava er hjemmehørende i den vestlige Stillehavet. Opprinnelsesområdet antas å være i nordlige Vanuatu, hvor den største genetiske variasjonen finnes. Derfra ble planten spredt av polynesiske sjøfarere (\"Canoe Plants\") over hele Stillehavet.",
+    "regionsIntro": "I dag dyrkes Kava hovedsakelig i følgende regioner:",
+    "regions": {
+      "vanuatu": "<strong>Vanuatu:</strong> Den største produsenten i verden med over 80 forskjellige varianter.",
+      "fiji": "<strong>Fiji:</strong> Kjent for \"Waka\" (røtter) og \"Lewena\" (basalstamme).",
+      "tonga": "<strong>Tonga:</strong> Produserer veldig milde, \"kremete\" Kavaer (f.eks. Pouni Ono).",
+      "samoa": "<strong>Samoa:</strong> Kava kalles her 'Ava.",
+      "hawaii": "<strong>Hawaii:</strong> Kava kalles her 'Awa (f.eks. Moi, Mahakea).",
+      "pohnpei": "<strong>Pohnpei & Mikronesia:</strong> Kjent for konsum av fersk Kava-juice (\"Sakau\")."
+    }
+  },
+  "subpages": {
+    "title": "Dypere artikler",
+    "intro": "Utforsk følgende undersider for detaljerte opplysninger om spesifikke aspekter av Kava-botanikk.",
+    "pflanze": {
+      "title": "Planten",
+      "description": "Taksonomi, nomenklatur og forholdet mellom <em>Piper methysticum</em> og dens ville forløper <em>Piper wichmannii</em>.",
+      "topics": [
+        "Taksonomisk inndeling",
+        "Betydningen av navnet",
+        "Domestisering & Evolusjon",
+        "Kava som levende kulturarv"
+      ]
+    },
+    "morphologie": {
+      "title": "Morfologi",
+      "description": "Detaljert anatomi av Kava-planten med spesielt fokus på det økonomisk viktige rotsystemet.",
+      "topics": [
+        "Rotsystem (Stump & Waka)",
+        "Kavalaktone-fordeling",
+        "Stengler & Blader",
+        "Blomster & Sterilitet"
+      ]
+    },
+    "anbau": {
+      "title": "Dyrking & Økologi",
+      "description": "Vekstforhold, formeringsmetoder og kunsten å dyrke tradisjonell Kava.",
+      "topics": [
+        "Vegetativ formering",
+        "Klimatiske krav",
+        "Jordkvalitet",
+        "Høsting & Kvalitetsfaktorer"
+      ]
+    }
+  }
+}

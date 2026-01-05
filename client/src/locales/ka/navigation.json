@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "ენას შეცვლა"
+  },
+  "nav": {
+    "botanik": {
+      "name": "ბოტანიკა",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "ბოტანიკის შესავალი"
+        },
+        "pflanze": {
+          "name": "ცხიმოვანი",
+          "description": "ტაქსონომია & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "მორფოლოგია",
+          "description": "ანატომია & ფესვის სისტემა"
+        },
+        "anbau": {
+          "name": "მოსავალი & ეკოლოგია",
+          "description": "კულტივირება & გამრავლება"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "ისტორია",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "Kava-ს ისტორია"
+        },
+        "urspruenge": {
+          "name": "წარმომავლობა",
+          "description": "ვანუატუ & დომესტიკაცია"
+        },
+        "verbreitung": {
+          "name": "გავრცელება",
+          "description": "წყნარი ოკეანის ექსპანსია"
+        },
+        "moderne": {
+          "name": "მოდერნული ისტორია",
+          "description": "კრძალვა 2002 & რეაბილიტაცია"
+        },
+        "zeitleiste": {
+          "name": "ინტერაქტიული დროის ხაზი",
+          "description": "5000 წლის Kava-ს ისტორია"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "შეადგენლები",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "Kavalactone & ქიმოტიპები"
+        },
+        "kavalactone": {
+          "name": "6 Kavalactone",
+          "description": "დეტალური მოქმედების პროფილები"
+        },
+        "chemotypen": {
+          "name": "ქიმოტიპის სისტემა",
+          "description": "Noble vs. Tudei-ის აღიარება"
+        },
+        "rechner": {
+          "name": "ქიმოტიპის გამოთვლი",
+          "description": "ინტერაქტიული ანალიზის ინსტრუმენტი"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "მოქმედება",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "მოქმედების მექანიზმები"
+        },
+        "angst": {
+          "name": "შიშის შემცირება",
+          "description": "ანქსიოლიტური ეფექტი"
+        },
+        "schlaf": {
+          "name": "ძილი & დასვენება",
+          "description": "სედატიური ეფექტები"
+        },
+        "muskel": {
+          "name": "კუნთების მოდუნება",
+          "description": "ფიზიკური მოდუნება"
+        },
+        "stimmung": {
+          "name": "მოწონება & სოციალური",
+          "description": "ეუფორიული ეფექტები"
+        },
+        "kognition": {
+          "name": "კოგნიტიური ეფექტები",
+          "description": "ფოკუსი & რევერსული ტოლერანტობა"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "უსაფრთხოება",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "უსაფრთხოება & გვერდითი ეფექტები"
+        },
+        "leber": {
+          "name": "ღვიძლის უსაფრთხოება",
+          "description": "ჰეპატოტოქსიურობა & კრძალვა 2002"
+        },
+        "wechselwirkungen": {
+          "name": "შეცვალებები",
+          "description": "მედიკამენტები & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "კონტრინდიკაციები",
+          "description": "როდის უნდა მოერიდოთ Kava-ს"
+        },
+        "checker": {
+          "name": "შეცვალების შემოწმება",
+          "description": "მედიკამენტების შემოწმება"
+        }
+      }
+    },
+    "sorten": {
+      "name": "მოწონებები",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "მოწონებები & კულტივარები"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "მნიშვნელოვანი გამიჯვნა"
+        },
+        "vanuatu": {
+          "name": "ვანუატუს მოწონებები",
+          "description": "Borogu, Melo Melo, Kelai & მეტი"
+        },
+        "pazifik": {
+          "name": "წყნარი ოკეანის მოწონებები",
+          "description": "ფიჯი, ტონგა, ჰავაი, სამოა"
+        },
+        "profile": {
+          "name": "მოწონებების პროფილები",
+          "description": "დეტალური სტეკბრიფები"
+        },
+        "vergleich": {
+          "name": "მოწონებების შედარება",
+          "description": "ორი მოწონების შედარება"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "მომზადება",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "მომზადების მეთოდები"
+        },
+        "traditionell": {
+          "name": "ტრადიციული მეთოდი",
+          "description": "შეუთავსება ქსოვილით"
+        },
+        "blender": {
+          "name": "ბლენდერის მეთოდი",
+          "description": "სწრაფი მომზადება"
+        },
+        "instant": {
+          "name": "ინსტანტ Kava",
+          "description": "მიკრონიზირებული Kava"
+        },
+        "rechner": {
+          "name": "დოზირების გამოთვლი",
+          "description": "ოპტიმალური რაოდენობის გამოთვლა"
+        }
+      }
+    },
+    "kultur": {
+      "name": "კულტურა",
+      "items": {
+        "uebersicht": {
+          "name": "მიმოხილვა",
+          "description": "კულტურა & ტრადიცია"
+        },
+        "zeremonien": {
+          "name": "ზერემონიები & რიტუალები",
+          "description": "Yaqona, 'Ava & Nakamal-ის რიტუალები"
+        },
+        "nakamal": {
+          "name": "Nakamal & Kava-ბარები",
+          "description": "ტრადიციული & თანამედროვე ადგილები"
+        },
+        "moderne": {
+          "name": "მოდერნული Kava-ს კულტურა",
+          "description": "გლობალური გავრცელება & რენესანსი"
+        },
+        "weltkarte": {
+          "name": "ინტერაქტიული მსოფლიო რუკა",
+          "description": "Kava-ს რეგიონების შესწავლა"
+        },
+        "kava-bars": {
+          "name": "Kava-ბარის მოძიება",
+          "description": "Kava-ბარები მთელ მსოფლიოში"
+        }
+      }
+    },
+    "mehr": {
+      "name": "მეტი",
+      "items": {
+        "faq": {
+          "name": "FAQ",
+          "description": "ხშირად დასმული კითხვები"
+        },
+        "studien": {
+          "name": "კვლევები",
+          "description": "სამეცნიერო კვლევა"
+        },
+        "rechtsstatus": {
+          "name": "იურიდიული სტატუსი",
+          "description": "იურიდიული სიტუაცია"
+        },
+        "glossar": {
+          "name": "გლოსარი",
+          "description": "სპეციალური ტერმინების ახსნა"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "მსოფლიოში ყველაზე ფართო ცოდნის პორტალი Piper methysticum-ის შესახებ. სამეცნიერო საფუძვლიანი, კულტურულად პატივცემული.",
+    "sections": {
+      "wissen": {
+        "title": "ცოდნა",
+        "links": {
+          "botanik": "ბოტანიკა",
+          "geschichte": "ისტორია",
+          "wissenschaft": "სამეცნიერო",
+          "sicherheit": "უსაფრთხოება"
+        }
+      },
+      "praxis": {
+        "title": "პრაქტიკა",
+        "links": {
+          "zubereitung": "მომზადება",
+          "sorten": "მოწონებები & ქიმოტიპები",
+          "rechtsstatus": "იურიდიული სტატუსი",
+          "faq": "ხშირად დასმული კითხვები"
+        }
+      },
+      "partner": {
+        "title": "პარტნიორები & წიგნი",
+        "recommendedReading": "შეთავაზებული ლიტერატურა:",
+        "bookTitle": "\"Kava – სიმშვიდის ფესვი\""
+      }
+    },
+    "copyright": "ყველა უფლება დაცულია.",
+    "legal": {
+      "impressum": "იმპრესუმი",
+      "datenschutz": "დატანის დაცვის პოლიტიკა"
+    }
+  },
+  "breadcrumbs": {
+    "home": "მთავარი"
+  },
+  "toc": {
+    "title": "შინაარსი"
+  },
+  "recommendation": {
+    "label": "შეთავაზება",
+    "title": "პრემიუმ Noble Kava",
+    "text": "აღმოაჩინეთ სერტიფიცირებული ხარისხი და სისუფთავე ჩვენს ოფიციალურ პარტნიორთან.",
+    "cta": "Kava-mode.com-ზე"
+  }
+}

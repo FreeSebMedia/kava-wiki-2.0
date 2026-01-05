@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "მრავალფეროვნების პროფილები დეტალურად",
+    "subtitle": "მნიშვნელოვანი Kava-ს მრავალფეროვნების დეტალური აღწერილობები ქიმოტიპებით, ეფექტით და რეკომენდაციებით.",
+    "category": "მრავალფეროვნებები"
+  },
+  "breadcrumbs": {
+    "home": "მთავარი",
+    "sorten": "მრავალფეროვნებები",
+    "current": "პროფილები"
+  },
+  "toc": {
+    "title": "შინაარსი",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "მიმოხილვა",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "ჩემი საყვარელი",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "ეფექტების ფილტრი",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady მრავალფეროვნებები",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Balanced მრავალფეროვნებები",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Heavy მრავალფეროვნებები",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "მრავალფეროვნების შედარება",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "წარმოშობა",
+    "chemotype": "ქიმოტიპი",
+    "duration": "ეფექტის ხანგრძლივობა",
+    "strength": "ძლიერება",
+    "hits": "შედეგები",
+    "low": "დაბალი",
+    "high": "ძლიერი",
+    "variety": "მრავალფეროვნება",
+    "region": "რეგიონი",
+    "type": "ტიპი",
+    "bestUse": "საუკეთესო გამოყენება",
+    "resetFilters": "ფილტრების დაბრუნება",
+    "matchingCriteria": "განაცხადებული {total} მრავალფეროვნებიდან შეესაბამება თქვენს კრიტერიუმებს",
+    "noMatching": "არ არსებობს {category} მრავალფეროვნებები, რომლებიც შეესაბამება მიმდინარე ფილტრის კრიტერიუმებს.",
+    "toComparison": "ინტერაქტიულ მრავალფეროვნების შედარებაზე"
+  },
+  "overview": {
+    "intro": "ეს გვერდი გთავაზობთ ყოვლისმომცველ მიმოხილვას ყველაზე მნიშვნელოვანი <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a>-ს მრავალფეროვნების შესახებ, რომლებიც გაწვდილი არიან მათი ეფექტის ტიპის მიხედვით. გამოიყენეთ ეს პროფილები, რათა მოიძიოთ თქვენთვის იდეალური მრავალფეროვნება.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "თავზე ორიენტირებული, ეიფორიული, სოციალური. იდეალურია დღის განმავლობაში.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "ბალანსირებული, მრავალმხრივი. კარგია ნებისმიერი დროისთვის.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "ტანზე ორიენტირებული, სედატიური. იდეალურია საღამოს.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "ეფექტების ფილტრი",
+    "description": "ფილტრეთ მრავალფეროვნებები თქვენი სასურველი ეფექტების მიხედვით. გადაადგილეთ სლაიდერები, რათა მხოლოდ იმ მრავალფეროვნებები გამოჩნდეს, რომლებიც მინიმუმ არჩეულ ღირებულებას აკმაყოფილებენ.",
+    "euphoria": "ეიფორია",
+    "relaxation": "მშვიდობა",
+    "sleepy": "მძინარედ"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady მრავალფეროვნებები",
+      "description": "Heady Kavas არის თავზე ორიენტირებული და ქმნის ეიფორიას, მენტალურ სიწმინდეს და სოციალური ურთიერთობების განცდას. ისინი იდეალურია დღის მოხმარებისთვის, სოციალური ღონისძიებებისა და შემოქმედებითი მუშაობისთვის. <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">ქიმოტიპი</a> ჩვეულებრივ იწყება 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">კავაინი</a>)."
+    },
+    "balanced": {
+      "title": "Balanced მრავალფეროვნებები",
+      "description": "Balanced Kavas გთავაზობთ ბალანსირებულ ეფექტს თავზე და ტანზე. ისინი მრავალმხრივია და შესაფერისია როგორც დღის, ასევე საღამოსთვის. იდეალურია <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">შფოთვის შემცირების</a> და ზოგადი მშვიდობისთვის."
+    },
+    "heavy": {
+      "title": "Heavy მრავალფეროვნებები",
+      "description": "Heavy Kavas არის ტანზე ორიენტირებული და ქმნის ღრმა <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">კუნთების მოდუნებას</a> და სედაციას. ისინი იდეალურია საღამოს, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">მძინარედობის პრობლემების</a> დროს და ფიზიკური აღდგენისთვის. ქიმოტიპი ხშირად შეიცავს DHK (2) გამორჩეულ პოზიციაზე."
+    }
+  },
+  "comparison": {
+    "title": "მრავალფეროვნების შედარება",
+    "description": "ეს ცხრილი გთავაზობთ სწრაფ მიმოხილვას ყველა მნიშვნელოვან მრავალფეროვნებაზე. გამოიყენეთ ჩვენი <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">ინტერაქტიული შედარების ინსტრუმენტი</a> დეტალური შედარებებისათვის.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 სთ.",
+      "strength": 4,
+      "description": "Legendary euphoric Kava, როგორც შამპანური Kava-ს შორის.",
+      "recommended": [
+        "სოციალური ღონისძიებები",
+        "შემოქმედებითი მუშაობა",
+        "დღის მოხმარება"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 სთ.",
+      "strength": 4,
+      "description": "Vanuatu-ს ხალხური Kava, მრავალმხრივი და თავზე ორიენტირებული დასაწყისი ეფექტით.",
+      "recommended": [
+        "სოციალური ღონისძიებები",
+        "საღამოს მოხმარება",
+        "დამწყები"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 სთ.",
+      "strength": 3,
+      "description": "ყველაზე პოპულარული დღის Kava, მსუბუქი და დამწყებთათვის მეგობრული.",
+      "recommended": [
+        "დამწყები",
+        "სამუშაო",
+        "სოციალური ღონისძიებები"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 სთ.",
+      "strength": 4,
+      "description": "მეფური 'Awa, უკიდურესად ზეპირი და მენტალურად გასუფთავებელი.",
+      "recommended": [
+        "მედიტაცია",
+        "შემოქმედებითი მუშაობა",
+        "კოგნიცია"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 სთ.",
+      "strength": 3,
+      "description": "შესანიშნავი ეიფორიული მრავალფეროვნება, ძალიან დაფასებული.",
+      "recommended": [
+        "სოციალური ღონისძიებები",
+        "დაწყების ამაღლება"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 სთ.",
+      "strength": 3,
+      "description": "იდეალური უნივერსალური, რბილი და ბალანსირებული.",
+      "recommended": [
+        "დამწყები",
+        "შფოთვის შემცირება",
+        "ყოველდღიური გამოყენება"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 სთ.",
+      "strength": 4,
+      "description": "Vanuatu-ს ხალხური Kava, საიმედო და მრავალმხრივი.",
+      "recommended": [
+        "საღამოს მოხმარება",
+        "მშვიდობა",
+        "დამწყები"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 სთ.",
+      "strength": 4,
+      "description": "ძლიერი Kava კარგი ბალანსით თავზე და ტანზე.",
+      "recommended": [
+        "გამოცდილი მომხმარებლები",
+        "საღამოს მოხმარება"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 სთ.",
+      "strength": 3,
+      "description": "ბალანსირებული Fiji-Kava, მრავალმხრივად გამოსაყენებელი.",
+      "recommended": [
+        "ყოველდღიური გამოყენება",
+        "მშვიდობა"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 სთ.",
+      "strength": 5,
+      "description": "ერთ-ერთი ყველაზე ძლიერი Heavy Kavas, ღრმა სედაცია.",
+      "recommended": [
+        "მძინარედობის პრობლემები",
+        "კუნთების მოდუნება",
+        "საღამოს"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 სთ.",
+      "strength": 5,
+      "description": "უკიდურესად ძლიერი Fiji-Kava, ძლიერ სედატიური.",
+      "recommended": [
+        "გამოცდილი მომხმარებლები",
+        "მძინარედობის პრობლემები"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 სთ.",
+      "strength": 4,
+      "description": "Palasa-ს პატარა ძმა, ცოტა უფრო მსუბუქი მაგრამ მსგავსი.",
+      "recommended": [
+        "Heavy-დამწყები",
+        "საღამოს მოხმარება"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 სთ.",
+      "strength": 5,
+      "description": "ზერემონიული ჰავაიური 'Awa, ძალიან ძლიერი.",
+      "recommended": [
+        "ზერემონიები",
+        "მძინარე",
+        "გამოცდილი"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "სოციალური, შემოქმედებითი"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "დამწყები, დღე"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "მედიტაცია, კოგნიცია"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "243156",
+      "bestUse": "შფოთვა, უნივერსალური"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "საღამოს, მშვიდობა"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "423561",
+      "bestUse": "გამოცდილი, საღამოს"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Heavy",
+      "chemotype": "423651",
+      "bestUse": "მძინარე, კუნთები"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "გამოცდილი, მძინარე"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "ზერემონიები, მძინარე"
+    }
+  ]
+}

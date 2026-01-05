@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Doseringcalculator",
+    "subtitle": "Bereken uw optimale Kava-dosering op basis van soort, ervaring en bereidingsmethode.",
+    "category": "Bereiding"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "zubereitung": "Bereiding",
+    "current": "Doseringcalculator"
+  },
+  "toc": {
+    "title": "Inhoud",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Doseringcalculator",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Uw aanbeveling",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Belangrijke opmerkingen",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Invloedfactoren",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Kava-soort selecteren",
+    "selectStrainPlaceholder": "-- Soort kiezen --",
+    "potency": "Potentie",
+    "experienceLevel": "Ervaringsniveau",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Beginner",
+        "desc": "Eerste weken"
+      },
+      "regular": {
+        "label": "Regulier",
+        "desc": "Enkele maanden"
+      },
+      "experienced": {
+        "label": "Ervaren",
+        "desc": "1+ jaar"
+      }
+    },
+    "prepMethod": "Bereidingsmethode",
+    "methods": {
+      "traditional": {
+        "label": "Traditioneel",
+        "desc": "Kneden"
+      },
+      "blender": {
+        "label": "Blender",
+        "desc": "Mixer"
+      },
+      "instant": {
+        "label": "Instant",
+        "desc": "Micronized"
+      }
+    },
+    "bodyWeight": "Lichaamsgewicht",
+    "kg": "kg",
+    "calculate": "Dosering berekenen",
+    "instantPowder": "Instant Poeder",
+    "mediumGrind": "Medium Grind Poeder",
+    "water": "Water",
+    "kavalactones": "Kavalactone (geschat)",
+    "prepTime": "Bereidingstijd",
+    "min": "Min",
+    "toPrepGuide": "Naar de bereidingshandleiding"
+  },
+  "results": {
+    "title": "Uw persoonlijke aanbeveling",
+    "bestTime": {
+      "title": "Beste gebruikstijd",
+      "heady": "Overdag, voor sociale gelegenheden of creatieve activiteiten",
+      "heavy": "'s Avonds, voor ontspanning of voor het slapengaan",
+      "balanced": "Flexibel, geschikt voor elk moment van de dag"
+    },
+    "tip": {
+      "title": "Tip voor deze soort",
+      "default": "Geniet van deze soort op een lege maag voor de beste werking."
+    }
+  },
+  "notes": {
+    "title": "Belangrijke opmerkingen",
+    "safety": {
+      "title": "Algemene veiligheidsinstructies",
+      "items": [
+        "Drink Kava altijd op een <strong>lege maag</strong> (3-4 uur na het eten)",
+        "Begin met een <strong>lagere dosering</strong> en verhoog langzaam",
+        "<strong>Reverse Tolerance:</strong> De eerste keren kan de werking zwakker zijn",
+        "Combineer Kava <strong>nooit met alcohol</strong> of medicijnen",
+        "Bij leverziekten of zwangerschap: <strong>Geen Kava</strong>"
+      ]
+    },
+    "about": {
+      "title": "Over deze calculator",
+      "text": "De berekende waarden zijn <strong>richtlijnen</strong> op basis van gemiddelde Kavalacton-gehaltes en ervaringen. De werkelijke werking kan variëren afhankelijk van individuele gevoeligheid, partij en fabrikant."
+    }
+  },
+  "factors": {
+    "title": "Invloedfactoren op de dosering",
+    "items": [
+      {
+        "title": "Potentie van de soort",
+        "text": "Verschillende soorten hebben verschillende Kavalacton-gehaltes. Een 5-sterren soort zoals Loa Waka heeft minder poeder nodig dan een mildere 3-sterren soort zoals Pouni Ono."
+      },
+      {
+        "title": "Lichaamsgewicht",
+        "text": "Zwaardere personen hebben doorgaans meer Kava nodig voor hetzelfde effect. De calculator past de aanbeveling dienovereenkomstig aan."
+      },
+      {
+        "title": "Bereidingsmethode",
+        "text": "Instant/Micronized Kava is geconcentreerder dan Medium Grind. De Blender-methode extraheert iets efficiënter dan traditioneel kneden."
+      },
+      {
+        "title": "Ervaringsniveau",
+        "text": "Door 'Reverse Tolerance' hebben ervaren gebruikers vaak minder Kava nodig voor hetzelfde effect. Beginners moeten met lage doses beginnen."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Bereidingshandleidingen",
+    "traditional": {
+      "title": "Traditionele methode",
+      "time": "20-25 Min",
+      "href": "/nl/bereiding/traditioneel"
+    },
+    "blender": {
+      "title": "Blender-methode",
+      "time": "8-10 Min",
+      "href": "/nl/bereiding/blender"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "time": "30 Sec",
+      "href": "/nl/bereiding/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Geldt als een van de beste Heady Kavas ter wereld. Beperkte beschikbaarheid.",
+    "borogu": "De meest gedronken Kava in Vanuatu. Zeer betrouwbaar.",
+    "pouni-ono": "Zeer populaire beginner Kava met consistente kwaliteit.",
+    "moi": "Een van de zeldzaamste en duurste Kavas. Traditioneel voor Hawaiiaanse ceremonies.",
+    "melo-melo": "Zeer populaire beginner Kava met sterke anxiolytische werking.",
+    "bir-kar": "Bekend om zijn kracht en betrouwbaarheid.",
+    "palasa": "Niet aanbevolen voor beginners. Zeer potent.",
+    "loa-waka": "Een van de sterkste commercieel verkrijgbare Kavas.",
+    "hiwa": "Traditioneel alleen voor ceremoniële doeleinden gebruikt. Zeer zeldzaam.",
+    "vula-waka": "Populaire allrounder uit Fiji.",
+    "silese": "Een van de meest euforische soorten überhaupt.",
+    "palarasul": "Goede instap in Heavy Kavas."
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Geneesmiddelinteracties",
+    "subtitle": "Kavalactonen remmen belangrijke leverenzymen: Wat u moet weten over CYP450-interacties en veilige combinaties.",
+    "category": "Veiligheid",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Veiligheid",
+      "current": "Interacties"
+    }
+  },
+  "toc": {
+    "title": "Inhoud",
+    "zusammenfassung": "Samenvatting",
+    "cyp450": "Het CYP450-systeem",
+    "welcheEnzyme": "Betroffen enzymen",
+    "klinischeBedeutung": "Klinische betekenis",
+    "hochrisiko": "Hogere risico-combinaties",
+    "alkohol": "Alcohol",
+    "benzodiazepine": "Benzodiazepinen & Slaapmiddelen",
+    "antipsychotika": "Antipsychotica",
+    "antikoagulantien": "Anticoagulantia",
+    "moderatesRisiko": "Gemiddeld risico",
+    "antidepressiva": "Antidepressiva",
+    "antikonvulsiva": "Antikonvulsiva",
+    "parkinson": "Parkinson-medicijnen",
+    "hepatotoxisch": "Hepatotoxische medicijnen",
+    "tabelle": "Interactietabel",
+    "empfehlungen": "Praktische aanbevelingen",
+    "quellen": "Bronnen"
+  },
+  "navigation": {
+    "continueTitle": "Verder in het hoofdstuk Veiligheid",
+    "items": [
+      {
+        "title": "Overzicht",
+        "href": "/nl/veiligheid",
+        "description": "Terug naar het veiligheids-overzicht"
+      },
+      {
+        "title": "Leverveiligheid",
+        "href": "/nl/veiligheid/lever",
+        "description": "Hepatotoxiciteit & het verbod van 2002"
+      },
+      {
+        "title": "Contra-indicaties",
+        "href": "/nl/veiligheid/contraindicaties",
+        "description": "Wanneer Kava vermeden moet worden"
+      },
+      {
+        "title": "Interacties-checker",
+        "href": "/nl/veiligheid/checker",
+        "description": "Controleer uw medicijnen"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Belangrijke waarschuwing",
+    "intro": "Kava heeft een <strong>hoog potentieel voor geneesmiddelinteracties</strong> door remming van cytochroom-P450-enzymen. Combineer Kava nooit met:",
+    "items": [
+      {
+        "name": "Alcohol",
+        "text": "Versterkte sedatie en levertoxiteit"
+      },
+      {
+        "name": "Benzodiazepinen",
+        "text": "Risico op ademhalingsdepressie"
+      },
+      {
+        "name": "Antipsychotica",
+        "text": "Versterkte sedatie, bewegingsstoornissen"
+      },
+      {
+        "name": "Anticoagulantia",
+        "text": "Bloedingsrisico"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "Het cytochroom-P450-systeem",
+    "intro": "Het cytochroom-P450-systeem (CYP450) is een familie van enzymen in de lever die verantwoordelijk zijn voor de afbraak van de meeste medicijnen. Wanneer een stof deze enzymen remt, worden andere stoffen langzamer afgebroken – hun werking en bijwerkingen kunnen daardoor versterkt worden.",
+    "importance": {
+      "title": "Waarom is dit belangrijk?",
+      "text": "Ongeveer <strong>70-80% van alle medicijnen</strong> worden gemetaboliseerd via CYP450-enzymen. Wanneer Kava deze enzymen remt, kan de concentratie van andere medicijnen in het bloed stijgen – soms tot gevaarlijke waarden. Dit geldt vooral voor medicijnen met een <strong>nauw therapeutisch venster</strong>, waarbij kleine dosisveranderingen grote gevolgen kunnen hebben."
+    }
+  },
+  "enzyme": {
+    "title": "Welke enzymen worden geremd?",
+    "intro": "Studies van Mathews et al. (2002) en andere onderzoekers hebben aangetoond dat kavalactonen verschillende belangrijke CYP450-enzymen remmen:",
+    "headers": [
+      "Enzym",
+      "Remkracht",
+      "Belangrijke substraten (voorbeelden)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Sterk",
+        "substrates": "Cafeïne, Theofylline, Clozapine, Olanzapine"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Sterk",
+        "substrates": "Warfarine, Fenytoïne, NSAID's (Ibuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Gemiddeld",
+        "substrates": "Omeprazol, Diazepam, Clopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Gemiddeld",
+        "substrates": "Codeïne, Tramadol, veel antidepressiva"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Sterk",
+        "substrates": "Benzodiazepinen, Statines, veel antibiotica"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Klinische betekenis",
+    "text": "Een studie van Russmann et al. (2005) toonde aan dat ook traditionele waterige Kava-extracten CYP1A2 bij mensen remmen. De remming was dosisafhankelijk en klinisch relevant. Dit betekent dat zelfs traditioneel bereide Kava interacties kan veroorzaken.",
+    "positive": {
+      "title": "Positief neveneffect?",
+      "text": "De CYP1A2-remming zou theoretisch een beschermend effect kunnen bieden tegen bepaalde omgevingscarcinogenen die via dit enzym worden geactiveerd. Dit zou kunnen verklaren waarom Pacific Island-bevolkingen ondanks een hoog Kava-consumptie lage kankercijfers vertonen."
+    }
+  },
+  "hochrisiko": {
+    "title": "Hogere risico-combinaties",
+    "intro": "De volgende combinaties moeten <strong>onder alle omstandigheden vermeden</strong> worden. Ze kunnen leiden tot ernstige, potentieel levensbedreigende bijwerkingen."
+  },
+  "alkohol": {
+    "title": "Alcohol",
+    "risk": "ZEER HOOG",
+    "intro": "De combinatie van Kava en alcohol is bijzonder gevaarlijk om verschillende redenen:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Synergistische sedatie",
+        "text": "Beide stoffen hebben een sedatieve werking op het CZS. De gecombineerde werking is sterker dan de som van de individuele effecten."
+      },
+      {
+        "number": "2.",
+        "label": "Additieve hepatotoxiciteit",
+        "text": "Beide stoffen worden in de lever afgebroken en kunnen deze belasten. De combinatie verhoogt het risico op leverschade aanzienlijk."
+      },
+      {
+        "number": "3.",
+        "label": "CYP-interactie",
+        "text": "Alcohol beïnvloedt ook CYP-enzymen, wat kan leiden tot onvoorspelbare interacties."
+      }
+    ],
+    "recommendation": "Aanbeveling: Minimaal 24 uur tussen alcohol- en Kava-consumptie."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepinen & Slaapmiddelen",
+    "risk": "ZEER HOOG",
+    "intro": "Benzodiazepinen (Diazepam, Lorazepam, Alprazolam etc.) en Z-stoffen (Zolpidem, Zopiclon) mogen nooit met Kava worden gecombineerd:",
+    "points": [
+      {
+        "label": "Versterkte sedatie",
+        "text": "Beide werken op GABA-receptoren en versterken elkaar"
+      },
+      {
+        "label": "Ademhalingsdepressie",
+        "text": "De combinatie kan de ademhaling gevaarlijk vertragen"
+      },
+      {
+        "label": "CYP3A4-remming",
+        "text": "Kava vertraagt de afbraak van benzodiazepinen, wat hun werking verlengt"
+      }
+    ],
+    "caseReportLabel": "Gevalrapport:",
+    "caseReport": "Almeida & Grimsley (1996) rapporteerden over een 54-jarige man die na de combinatie van Kava met Alprazolam in een semikoma-toestand viel."
+  },
+  "antipsychotika": {
+    "title": "Antipsychotica",
+    "risk": "HOOG",
+    "intro": "Antipsychotica zoals Haloperidol, Risperidon, Olanzapine en Clozapine:",
+    "points": [
+      {
+        "label": "Versterkte sedatie",
+        "text": "Additieve CZS-dempende werking"
+      },
+      {
+        "label": "Extrapiramidale symptomen",
+        "text": "Verhoogd risico op bewegingsstoornissen"
+      },
+      {
+        "label": "CYP1A2/CYP2D6-remming",
+        "text": "Vertraagde afbraak, hogere bloedspiegels"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Anticoagulantia (bloedverdunners)",
+    "risk": "HOOG",
+    "intro": "Warfarine en andere vitamine K-antagonisten:",
+    "points": [
+      {
+        "label": "CYP2C9-remming",
+        "text": "Kava remt het enzym dat Warfarine afbreekt"
+      },
+      {
+        "label": "Verhoogde INR",
+        "text": "Versterkt bloedingsneiging"
+      },
+      {
+        "label": "Bloedingsrisico",
+        "text": "Kan leiden tot gevaarlijke inwendige bloedingen"
+      }
+    ],
+    "recommendation": "Bij inname van anticoagulantia is Kava contra-indicated."
+  },
+  "moderatesRisiko": {
+    "title": "Combinaties met gemiddeld risico",
+    "intro": "De volgende combinaties vereisen voorzichtigheid en moeten alleen na overleg met een arts worden uitgevoerd. Een dosisaanpassing kan nodig zijn."
+  },
+  "antidepressiva": {
+    "title": "Antidepressiva",
+    "risk": "GEMIDDELD",
+    "ssri": {
+      "title": "SSRI's (Fluoxetine, Sertraline, Paroxetine etc.):",
+      "items": [
+        "CYP2D6-remming kan afbraak vertragen",
+        "Theoretisch risico op een serotoninesyndroom (laag)",
+        "Versterkte sedatie mogelijk"
+      ]
+    },
+    "snri": {
+      "title": "SNRI's (Venlafaxine, Duloxetine):",
+      "items": [
+        "Soortgelijke interacties als SSRI's",
+        "CYP2D6-remming relevant voor Venlafaxine"
+      ]
+    },
+    "mao": {
+      "title": "MAO-remmers:",
+      "items": [
+        "Kava remt MAO-B (zwak)",
+        "Theoretisch risico, maar klinisch weinig gedocumenteerd",
+        "Voorzichtigheid bij onomkeerbare MAO-remmers"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Antikonvulsiva (antiepileptica)",
+    "risk": "GEMIDDELD",
+    "intro": "Fenytoïne, Carbamazepine, Valproaat en andere antikonvulsiva:",
+    "points": [
+      {
+        "label": "CYP-interacties",
+        "text": "Veranderde bloedspiegels mogelijk"
+      },
+      {
+        "label": "Versterkte sedatie",
+        "text": "Additieve CZS-werking"
+      },
+      {
+        "label": "Aanvalcontrole",
+        "text": "Kan aangetast worden"
+      }
+    ],
+    "note": "Bij epilepsie moet Kava alleen onder medische supervisie worden gebruikt."
+  },
+  "parkinson": {
+    "title": "Parkinson-medicijnen",
+    "risk": "GEMIDDELD tot HOOG",
+    "intro": "Levodopa en dopamine-agonisten:",
+    "points": [
+      {
+        "label": "Dopamine-antagonisme",
+        "text": "Kava kan de werking van Levodopa verzwakken"
+      },
+      {
+        "label": "Gevalrapport",
+        "text": "Verslechtering van de Parkinson-symptomen onder Kava gedocumenteerd"
+      }
+    ],
+    "recommendation": "Bij de ziekte van Parkinson is Kava contra-indicated."
+  },
+  "hepatotoxisch": {
+    "title": "Hepatotoxische medicijnen",
+    "risk": "GEMIDDELD",
+    "intro": "Medicijnen met bekend hepatotoxisch potentieel:",
+    "items": [
+      {
+        "name": "Paracetamol/Acetaminophen",
+        "text": "Bij hogere doses bijzonder problematisch"
+      },
+      {
+        "name": "Statines",
+        "text": "Atorvastatine, Simvastatine etc. (CYP3A4-substraten)"
+      },
+      {
+        "name": "Methotrexaat",
+        "text": "Immunosuppressivum met lebertoxiteit"
+      },
+      {
+        "name": "Isoniazid",
+        "text": "Tuberculose-medicijn"
+      }
+    ],
+    "note": "De combinatie met hepatotoxische medicijnen verhoogt het risico op leverschade."
+  },
+  "tabelle": {
+    "title": "Overzichtstabel van interacties",
+    "headers": [
+      "Substantieklasse",
+      "Voorbeelden",
+      "Risico",
+      "Mechanisme"
+    ],
+    "rows": [
+      {
+        "class": "Alcohol",
+        "examples": "Ethanol",
+        "risk": "ZEER HOOG",
+        "mechanism": "Synergistische sedatie, hepatotoxiciteit"
+      },
+      {
+        "class": "Benzodiazepinen",
+        "examples": "Diazepam, Lorazepam, Alprazolam",
+        "risk": "ZEER HOOG",
+        "mechanism": "GABA-versterking, CYP3A4-remming"
+      },
+      {
+        "class": "Antipsychotica",
+        "examples": "Haloperidol, Olanzapine, Clozapine",
+        "risk": "HOOG",
+        "mechanism": "CYP1A2/2D6-remming, sedatie"
+      },
+      {
+        "class": "Anticoagulantia",
+        "examples": "Warfarine, Fenprocoumon",
+        "risk": "HOOG",
+        "mechanism": "CYP2C9-remming, bloedingsrisico"
+      },
+      {
+        "class": "SSRI's",
+        "examples": "Fluoxetine, Sertraline, Paroxetine",
+        "risk": "GEMIDDELD",
+        "mechanism": "CYP2D6-remming"
+      },
+      {
+        "class": "Antikonvulsiva",
+        "examples": "Fenytoïne, Carbamazepine",
+        "risk": "GEMIDDELD",
+        "mechanism": "CYP-interacties, sedatie"
+      },
+      {
+        "class": "Parkinson-medicijnen",
+        "examples": "Levodopa, dopamine-agonisten",
+        "risk": "GEMIDDELD",
+        "mechanism": "Dopamine-antagonisme"
+      },
+      {
+        "class": "Statines",
+        "examples": "Atorvastatine, Simvastatine",
+        "risk": "GEMIDDELD",
+        "mechanism": "CYP3A4-remming, hepatotoxiciteit"
+      },
+      {
+        "class": "Opioïden",
+        "examples": "Codeïne, Tramadol, Morfine",
+        "risk": "GEMIDDELD",
+        "mechanism": "CYP2D6-remming, sedatie"
+      },
+      {
+        "class": "Cafeïne",
+        "examples": "Koffie, Energy Drinks",
+        "risk": "LAAG",
+        "mechanism": "CYP1A2-remming (verlengde werking)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktische aanbevelingen",
+    "checklistTitle": "Checklist voor Kava-consumptie",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Medicijnenlijst controleren",
+        "text": "Alle huidige medicijnen op interacties controleren"
+      },
+      {
+        "number": "2.",
+        "label": "Arts raadplegen",
+        "text": "Bij regelmatige medicijninname voor Kava-consumptie medisch advies inwinnen"
+      },
+      {
+        "number": "3.",
+        "label": "Alcohol vermijden",
+        "text": "Minimaal 24 uur voor en na Kava-consumptie geen alcohol drinken"
+      },
+      {
+        "number": "4.",
+        "label": "Laag doseren",
+        "text": "Bij gelijktijdige medicijninname met lagere Kava-dosis beginnen"
+      },
+      {
+        "number": "5.",
+        "label": "Symptomen observeren",
+        "text": "Let op ongebruikelijke vermoeidheid, duizeligheid of andere symptomen"
+      }
+    ],
+    "professionalNote": {
+      "title": "Opmerking voor artsen en apothekers",
+      "text": "Bij patiënten die Kava gebruiken, moet de medicatie op CYP450-substraten worden gecontroleerd. Bij medicijnen met een nauw therapeutisch venster is bijzondere voorzichtigheid geboden. Een dosisaanpassing kan nodig zijn."
+    }
+  },
+  "quellen": {
+    "title": "Bronnen",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Inhibitie van menselijke cytochroom P450-activiteiten door Kava-extract en kavalactonen.",
+        "source": "Drug Metabolism and Disposition."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Farmacokinetische en farmacodynamische geneesmiddelinteracties met Kava.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "Traditionele waterige Kava-extracten remmen cytochroom P450 1A2 bij mensen.",
+        "source": "Clinical Pharmacology & Therapeutics."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Potentieel voor interactie van Kava en Sint-Janskruid met geneesmiddelen.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "Remming van cytochroom P450 3A4 door extracten en kavalactonen van Piper methysticum.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "Een volledige lijst van alle geciteerde studies vindt u op onze",
+    "studiesLink": "studies-pagina"
+  }
+}

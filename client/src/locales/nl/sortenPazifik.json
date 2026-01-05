@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Soorten uit Fiji, Tonga & Hawaii",
+    "subtitle": "Regionale Kava-specialiteiten uit de hele Stille Oceaan: Van Fiji's Yaqona tot Hawaii's 'Awa.",
+    "category": "Soorten"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Soorten",
+    "current": "Stille Oceaan"
+  },
+  "toc": {
+    "title": "Inhoud",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fiji – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Alle Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Andere regio's",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Oorsprong",
+    "type": "Type",
+    "composition": "Samenstelling",
+    "duration": "Duur van de werking",
+    "effectProfile": "Effectprofiel",
+    "recommendedFor": "Aanbevolen voor:",
+    "variety": "Variëteit",
+    "speciality": "Bijzonderheid"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\">In <strong>Fiji</strong> is Kava bekend onder de naam <strong>Yaqona</strong> (uitgesproken als \"Yang-gona\") en wordt het beschouwd als het officiële nationale drankje. De naam betekent \"bitter\" en verwijst naar de kenmerkende smaak. Een tweede naam, <strong>Malogu</strong>, betekent \"kalmeren\" en beschrijft het effect.</p><p>Fiji heeft <strong>13 gedocumenteerde Kava-soorten</strong> en staat bekend om zijn hoogwaardige verwerking. Vooral <strong>Waka</strong> wordt gewaardeerd – Kava die uitsluitend uit de zijwortels (niet de wortelknol) wordt gemaakt en als krachtiger wordt beschouwd.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Heavy",
+        "speciality": "Zeer potent, sterk sedatief"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Balanced",
+        "speciality": "Evenwichtig, veelzijdig"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Heavy",
+        "speciality": "Langdurig"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Balanced",
+        "speciality": "Traditioneel"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Heavy",
+        "speciality": "Zeldzaam, zeer gewaardeerd"
+      },
+      {
+        "name": "Yalu",
+        "type": "Balanced",
+        "speciality": "Mild, aangenaam"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Heavy",
+      "Zeer Potent"
+    ],
+    "origin": "Fiji (diverse eilanden)",
+    "type": "Waka (zijwortels)",
+    "duration": "5-8 uur",
+    "description": "<strong>Loa Waka</strong> is een van de krachtigste Kavas op de markt. \"Loa\" betekent in het Fijisch \"donker\" en verwijst naar de kleur van de wortels. \"Waka\" verwijst naar de hoogwaardige zijwortels. Deze combinatie resulteert in een extreem sterke, lichamelijke Kava.",
+    "effects": [
+      {
+        "text": "<strong>Extreem sedatief:</strong> Een van de sterkste \"Heavy\" Kavas"
+      },
+      {
+        "text": "<strong>Diepe spierontspanning:</strong> Ideaal bij <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">spanning</a>"
+      },
+      {
+        "text": "<strong>Slapend makend:</strong> Perfect voor <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">slaapproblemen</a>"
+      },
+      {
+        "text": "<strong>Langdurig:</strong> Effect kan 5-8 uur aanhouden"
+      }
+    ],
+    "recommendedFor": "Ervaren gebruikers, avondconsumptie, ernstige slaapproblemen",
+    "warning": "<strong>Voorzichtigheid:</strong> Loa Waka is zeer potent. Beginners moeten beginnen met een lagere dosis en het effect afwachten voordat ze bijdoseren."
+  },
+  "tonga": {
+    "title": "Tonga – Alle Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> is uniek in de Kava-wereld: <strong>Alle daar gekweekte soorten zijn Noble</strong>. Er zijn geen Tudei-soorten in Tonga. Dit maakt Tongan Kava bijzonder veilig en voorspelbaar.</p><p>Tongan Kava staat bekend om zijn meer <strong>\"heady\"</strong> (hoofdgerichte) effect. De soorten zijn doorgaans minder sedatief dan Fiji- of Vanuatu-Kava en zijn goed geschikt voor daggebruik en sociale gelegenheden.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "Populairste soort, sociaal"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Balanced",
+        "speciality": "Mild, aangenaam"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Balanced",
+        "speciality": "Traditioneel"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Balanced",
+        "speciality": "Zacht, goed voor beginners"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euphorisch"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Beginner-vriendelijk"
+    ],
+    "origin": "Tonga",
+    "composition": "Blend (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 uur",
+    "description": "<strong>Pouni Ono</strong> is de waarschijnlijk bekendste \"dag-Kava\" en een blend van verschillende Tongan soorten (typisch Leka Hina, Kava Kula en Kava Fulufulu). De naam betekent \"zes keer\" en verwijst naar de traditionele bereiding.",
+    "effects": [
+      {
+        "text": "<strong>Euphorisch:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Stemmingsverhogend</a> en sociaal"
+      },
+      {
+        "text": "<strong>Verkwikkend:</strong> Bijna niet sedatief, ideaal voor de dag"
+      },
+      {
+        "text": "<strong>Milde smaak:</strong> Aangenaamere smaak dan veel andere soorten"
+      },
+      {
+        "text": "<strong>Korte werkingsduur:</strong> Goed controleerbaar"
+      }
+    ],
+    "recommendedFor": "Beginners, daggebruik, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">sociale gelegenheden</a>, werk",
+    "tip": "<strong>Tip:</strong> Pouni Ono is een van de beste soorten voor Kava-beginners. De milde smaak en het aangename, niet overweldigende effect maken de instap gemakkelijk."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">In Hawaii wordt Kava <strong>'Awa</strong> genoemd. Hawaii heeft <strong>13 traditionele soorten</strong>, die allemaal als Noble worden beschouwd en geschikt zijn voor consumptie. Hawaiian 'Awa staat bekend om zijn hoge potentie en unieke karakter.</p><p>'Awa heeft een bijzondere culturele betekenis in Hawaii. Historisch gezien was bepaalde 'Awa voorbehouden aan de adel (Ali'i). Tegenwoordig wordt Hawaiian Kava vaak vers bereid en is het vanwege de hoge productiekosten duurder dan Kava uit andere regio's.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Koninklijke Kava, zeer cerebraal"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Heavy",
+        "speciality": "Ceremonieel, sterk sedatief"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Balanced",
+        "speciality": "Evenwichtig, veelzijdig"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Mild, aangenaam"
+      },
+      {
+        "name": "Nene",
+        "type": "Balanced",
+        "speciality": "Traditioneel"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Heavy",
+        "speciality": "Zeldzaam, zeer gewaardeerd"
+      }
+    ],
+    "warning": "<strong>Let op:</strong> In Hawaii worden ook twee geïmporteerde Tudei-soorten gekweekt: <strong>Isa</strong> en <strong>Iwi</strong>. Deze zijn niet inheems en moeten worden vermeden."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Koninklijk"
+    ],
+    "origin": "Hawaii",
+    "type": "Heady / Cerebraal",
+    "duration": "2-4 uur",
+    "description": "<strong>Moi</strong> is de legendarische \"Kava der koningen\". In de Hawaiiaanse geschiedenis was Moi voorbehouden aan de adel (Ali'i) en mocht niet door gewone mensen worden geconsumeerd. Tegenwoordig staat hij bekend om zijn uitzonderlijk cerebrale, geestelijk verhelderende effect.",
+    "effects": [
+      {
+        "text": "<strong>Extreem cerebraal:</strong> Bevordert mentale helderheid en focus"
+      },
+      {
+        "text": "<strong>Creativiteitsbevorderend:</strong> Ideaal voor <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">creatieve arbeid</a>"
+      },
+      {
+        "text": "<strong>Bijna niet sedatief:</strong> Maakt niet moe"
+      },
+      {
+        "text": "<strong>Spiritueel:</strong> Traditioneel voor meditatie en ceremonies"
+      }
+    ],
+    "recommendedFor": "Creatieve arbeid, meditatie, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">cognitieve taken</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>In <strong>Samoa</strong> wordt Kava <strong>'Ava</strong> genoemd. Samoa heeft slechts <strong>4 gedocumenteerde soorten</strong>, maar een rijke ceremoniële traditie. De 'Ava-ceremonie is een belangrijk onderdeel van de Samoaanse cultuur en wordt bij officiële gelegenheden uitgevoerd.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Balanced",
+        "speciality": "Traditioneel, ceremonieel"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Mild, aangenaam"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Heavy",
+        "speciality": "Sterker, sedatief"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Balanced",
+        "speciality": "Geïmporteerd uit Tonga"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Andere regio's",
+    "intro": "Naast de belangrijkste teeltgebieden is Kava ook te vinden in enkele andere Stille Oceaan-regio's:",
+    "regions": [
+      {
+        "name": "Papoea-Nieuw-Guinea",
+        "description": "PNG heeft slechts <strong>één Noble-soort</strong>: <strong>Kau kupwe</strong>, die op het eiland Baluan wordt gekweekt. De meeste andere PNG-soorten zijn Tudei en moeten worden vermeden."
+      },
+      {
+        "name": "Salomonseilanden",
+        "description": "De Salomonseilanden hebben ook slechts <strong>één Noble-soort</strong>: <strong>Melomelo</strong> (niet te verwarren met Vanuatu's Melo Melo, hoewel ze verwant kunnen zijn)."
+      },
+      {
+        "name": "Micronesië",
+        "description": "In de Federale Staten van Micronesië (Pohnpei) is er de soort <strong>Rahmwahnger</strong>. Kava heeft daar een belangrijke ceremoniële betekenis."
+      },
+      {
+        "name": "Wallis en Futuna",
+        "description": "Deze Franse gebieden hebben hun eigen Kava-tradities, maar weinig gedocumenteerde unieke soorten."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Verder in het hoofdstuk Soorten:",
+    "nextTitle": "Soortenprofielen in detail",
+    "nextDescription": "Gedetailleerde profielen van alle belangrijke soorten met chemotypen, effecten en aanbevelingen",
+    "nextLink": "/de/sorten/profile"
+  }
+}

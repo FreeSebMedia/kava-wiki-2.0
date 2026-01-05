@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Teelt & Ecologie",
+    "subtitle": "Groeiomstandigheden, vermeermethoden en de kunst van de traditionele Kava-teelt.",
+    "category": "Botanie"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanie",
+    "current": "Teelt & Ecologie"
+  },
+  "toc": {
+    "vermehrung": "Vegetatieve Vermeerdering",
+    "stecklinge": "Stekkenwerving",
+    "klima": "Klimaateisen",
+    "boden": "Bodemgesteldheid",
+    "pflege": "Verzorging & Groei",
+    "ernte": "Oogst & Rijpingstijd",
+    "qualitaet": "Kwaliteitsfactoren",
+    "anbauregionen": "Belangrijke Teeltgebieden"
+  },
+  "intro": {
+    "paragraph1": "De teelt van Kava is een kunst die al duizenden jaren van generatie op generatie wordt doorgegeven. Aangezien <em>Piper methysticum</em> steriel is en geen zaden produceert, is de plant volledig afhankelijk van de mens. Deze unieke afhankelijkheid heeft geleid tot een diepe culturele verbinding tussen de Pacific-volken en hun heilige plant."
+  },
+  "vermehrung": {
+    "title": "Vegetatieve Vermeerdering",
+    "paragraph1": "De vermeerdering van Kava gebeurt uitsluitend <strong>vegetatief door middel van stekken</strong>. Dit is een directe gevolg van de sterielheid van de plant – een kenmerk dat is ontstaan door duizenden jaren van domesticatie.",
+    "advantages": {
+      "title": "Voordelen van vegetatieve vermeerdering",
+      "items": [
+        "Genetische identiteit met de moederplant",
+        "Behoud van bewezen variëteitseigenschappen",
+        "Voorspelbaar chemotype-profiel",
+        "Sneller groei dan uit zaden",
+        "Bewezen kwaliteit over generaties"
+      ]
+    },
+    "challenges": {
+      "title": "Uitdagingen",
+      "items": [
+        "Geen genetische variatie mogelijk",
+        "Kwetsbaarheid voor ziekten (klonen)",
+        "Afhankelijkheid van moederplanten",
+        "Beperkte verspreidingssnelheid",
+        "Risico van variëteitsverlies"
+      ]
+    },
+    "stecklinge": {
+      "title": "Stekkenwerving & Planten",
+      "paragraph1": "De traditionele methode van stekkenwerving volgt een beproefd proces:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Selectie",
+          "description": "Gezonde stengelstukken met 2-3 knopen van een bewezen moederplant"
+        },
+        {
+          "number": "2",
+          "title": "Snede",
+          "description": "Schone snede onder een knoop, lengte ca. 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Voorbereiding",
+          "description": "Verwijdering van de onderste bladeren, kort laten drogen van de snijplek"
+        },
+        {
+          "number": "4",
+          "title": "Planten",
+          "description": "Invoegen in losse, vochtige aarde in de schaduw, regelmatig water geven"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Klimaateisen",
+    "paragraph1": "Kava is een <strong>tropische plant</strong> met specifieke klimaateisen. Het gedijt alleen binnen een relatief smal bereik van omgevingsomstandigheden.",
+    "table": {
+      "headers": {
+        "parameter": "Parameter",
+        "optimal": "Optimale bereik",
+        "tolerance": "Tolerantie bereik",
+        "note": "Opmerking"
+      },
+      "rows": [
+        {
+          "parameter": "Temperatuur",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Geen vorst getolereerd"
+        },
+        {
+          "parameter": "Neerslag",
+          "optimal": "2.000-3.000 mm/jaar",
+          "tolerance": "1.500-4.000 mm/jaar",
+          "note": "Gelijkmatig verdeeld"
+        },
+        {
+          "parameter": "Luchtvochtigheid",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Hoge vochtigheid geprefereerd"
+        },
+        {
+          "parameter": "Hoogte",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Laagland geprefereerd"
+        },
+        {
+          "parameter": "Zonlicht",
+          "optimal": "Halfschaduw",
+          "tolerance": "30-70% schaduw",
+          "note": "Jonge planten: meer schaduw"
+        }
+      ]
+    },
+    "alert": "<strong>Schaduwbehoefte:</strong> Jonge Kava-planten (0-2 jaar) hebben ongeveer 70-80% schaduw nodig. Naarmate ze ouder worden, kunnen ze meer zonlicht verdragen, maar profiteren ze nog steeds van gedeeltelijke schaduw."
+  },
+  "boden": {
+    "title": "Bodemgesteldheid",
+    "paragraph1": "De bodemgesteldheid is een van de kritischste factoren voor succesvolle Kava-teelt. De plant stelt hoge eisen aan drainage en voedingsstoffen.",
+    "ideal": {
+      "title": "Ideale Bodemeigenschappen",
+      "items": [
+        {
+          "label": "Structuur:",
+          "value": "Los, kruimelig, goed doorlatend"
+        },
+        {
+          "label": "Drainage:",
+          "value": "Uitstekend – wateroverlast leidt snel tot wortelrot"
+        },
+        {
+          "label": "pH-waarde:",
+          "value": "Licht zuur tot neutraal (5,5-6,5)"
+        },
+        {
+          "label": "Organisch gehalte:",
+          "value": "Hoog, rijk aan humus"
+        },
+        {
+          "label": "Diepte:",
+          "value": "Minimaal 60 cm voor wortelontwikkeling"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Te vermijden",
+      "items": [
+        {
+          "label": "Verdichte bodems:",
+          "value": "Belemmeren wortelgroei"
+        },
+        {
+          "label": "Wateroverlast:",
+          "value": "Leidt tot wortelrot en schimmelvorming"
+        },
+        {
+          "label": "Zware kleibodems:",
+          "value": "Slechte drainage"
+        },
+        {
+          "label": "Zoutachtige bodems:",
+          "value": "Kava is zoutgevoelig"
+        },
+        {
+          "label": "Voedingsarme bodems:",
+          "value": "Verminderen Kavalacton-gehalte"
+        }
+      ]
+    },
+    "paragraph2": "In de traditionele teeltgebieden worden vaak <strong>vulkanische bodems</strong> geprefereerd. Deze bieden een ideale combinatie van drainage, mineraalinhoud en structuur. In Vanuatu en Fiji worden Kava-plantages vaak op licht hellende hellingen aangelegd om natuurlijke drainage te waarborgen."
+  },
+  "pflege": {
+    "title": "Verzorging & Groei",
+    "paragraph1": "Kava is een relatief onderhoudsarme plant, zodra deze is gevestigd. De belangrijkste verzorgingsmaatregelen richten zich op de eerste twee jaar.",
+    "table": {
+      "headers": {
+        "phase": "Groeifase",
+        "period": "Periode",
+        "tasks": "Hoofdtaken",
+        "notes": "Bijzonderheden"
+      },
+      "rows": [
+        {
+          "phase": "Vestiging",
+          "period": "0-6 maanden",
+          "tasks": "Regelmatig water geven, schaduw waarborgen",
+          "notes": "Kritischste fase"
+        },
+        {
+          "phase": "Jeugdperiode",
+          "period": "6-18 maanden",
+          "tasks": "Onkruidbestrijding, mulchen, indien nodig bemesten",
+          "notes": "Snelle groei"
+        },
+        {
+          "phase": "Rijpingsfase",
+          "period": "18-36 maanden",
+          "tasks": "Minimale verzorging, plaagbestrijding",
+          "notes": "Wortelontwikkeling"
+        },
+        {
+          "phase": "Oogstrijp",
+          "period": "3-5+ jaar",
+          "tasks": "Kwaliteitsbeoordeling, oogstvoorbereiding",
+          "notes": "Optimale potentie"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Oogst & Rijpingstijd",
+    "paragraph1": "De oogsttijd is cruciaal voor de kwaliteit van het eindproduct. Een van de belangrijkste regels in de Kava-teelt is: <strong>Hoe ouder de plant, hoe krachtiger en evenwichtiger het effectprofiel.</strong>",
+    "qualitaet": {
+      "title": "Kwaliteitsfactoren bij de oogst",
+      "table": {
+        "headers": {
+          "age": "Leeftijd bij oogst",
+          "content": "Kavalacton-gehalte",
+          "quality": "Kwaliteitsniveau",
+          "usage": "Gebruik"
+        },
+        "rows": [
+          {
+            "age": "< 2 jaar",
+            "content": "Laag (3-5%)",
+            "quality": "Onrijp",
+            "qualityColor": "red",
+            "usage": "Niet aanbevolen"
+          },
+          {
+            "age": "2-3 jaar",
+            "content": "Gemiddeld (5-10%)",
+            "quality": "Acceptabel",
+            "qualityColor": "yellow",
+            "usage": "Eenvoudige producten"
+          },
+          {
+            "age": "3-5 jaar",
+            "content": "Hoog (10-15%)",
+            "quality": "Goed",
+            "qualityColor": "green",
+            "usage": "Standaardkwaliteit"
+          },
+          {
+            "age": "5-7 jaar",
+            "content": "Zeer hoog (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Hoge kwaliteit producten"
+          },
+          {
+            "age": "> 7 jaar",
+            "content": "Maximaal (18-25%)",
+            "quality": "Uitzonderlijk",
+            "qualityColor": "purple",
+            "usage": "Ceremonieel gebruik"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Voor een hoge kwaliteit ('Noble Kava') moet de plant minimaal 3 tot 5 jaar groeien. Hoe ouder de plant, hoe krachtiger en evenwichtiger het effectprofiel doorgaans is.",
+      "author": "Sebastian Freidank, \"Kava – Wortel van de Rust\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Belangrijke Teeltgebieden",
+    "paragraph1": "Kava wordt tegenwoordig in een gordel van tropische eilanden in de Stille Oceaan geteeld. Elke regio heeft zijn eigen variëteiten, tradities en kwaliteitskenmerken ontwikkeld.",
+    "table": {
+      "headers": {
+        "region": "Regio",
+        "varieties": "Bekende variëteiten",
+        "characteristics": "Bijzonderheden",
+        "production": "Productie"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Grootste variëteitenrijkdom (80+ cultivars)",
+          "production": "Werelds grootste producent",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Bekend om \"Waka\" (Premium-wortels)",
+          "production": "Tweede grootste producent"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Zeer milde, \"romige\" Kavas",
+          "production": "Gemiddelde productie"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Traditionele ceremonies",
+          "production": "Lokale consumptie"
+        },
+        {
+          "region": "Hawaii",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Herleving van traditionele variëteiten",
+          "production": "Groeiend"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Sakau-variëteiten",
+          "characteristics": "Verse Kava-sap (\"Sakau\")",
+          "production": "Lokale consumptie"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> wordt beschouwd als het thuisland van de gecultiveerde Kava en herbergt tot op heden de grootste genetische diversiteit. Van hieruit werd de plant door Polynesische zeelieden over de hele Stille Oceaan verspreid – als een van de belangrijkste \"Canoe Plants\" die bij elke vestiging van nieuwe eilanden werden meegenomen."
+  },
+  "navigation": {
+    "nextCategory": "Verder naar de volgende categorie:",
+    "nextTitle": "Geschiedenis & Oorsprongen",
+    "nextSubtitle": "De 3000-jarige reis van Kava door de Stille Oceaan"
+  }
+}

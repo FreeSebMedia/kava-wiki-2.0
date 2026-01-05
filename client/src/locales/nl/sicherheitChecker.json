@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Interacties-Checker",
+    "subtitle": "Controleer mogelijke interacties tussen uw medicijnen en Kava",
+    "category": "Veiligheid",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Veiligheid",
+      "wechselwirkungen": "Interacties",
+      "current": "Interacties-Checker"
+    }
+  },
+  "toc": {
+    "title": "Inhoud",
+    "checker": "Interacties-Checker",
+    "anleitung": "Handleiding",
+    "kategorien": "Risico-categorieën",
+    "haeufige": "Vaak gecontroleerde medicijnen",
+    "hinweis": "Belangrijke opmerking"
+  },
+  "ui": {
+    "disclaimerTitle": "Belangrijke opmerking",
+    "disclaimerText": "Deze checker dient alleen ter informatie en vervangt geen medisch advies. Bij onzekerheden of als u voorgeschreven medicijnen gebruikt, raadpleeg altijd een arts of apotheker.",
+    "inputTitle": "Voer medicijnen in",
+    "inputDescription": "Voer de namen van uw medicijnen in (werkzame stof of handelsnaam)",
+    "placeholder": "bijv. Diazepam, Ibuprofen, Sertraline...",
+    "selectedMeds": "Geselecteerde medicijnen:",
+    "checkButton": "Interacties controleren",
+    "commonCategories": "Veelvoorkomende medicijngroepen",
+    "overallAssessment": "Algemene beoordeling",
+    "detailedAnalysis": "Gedetailleerde analyse",
+    "category": "Categorie",
+    "mechanism": "Mechanisme",
+    "affectedEnzymes": "Aangetaste CYP-enzymen",
+    "recommendation": "Aanbeveling",
+    "newCheck": "Nieuwe controle",
+    "moreAbout": "Meer over interacties",
+    "moreInfo": "Meer informatie",
+    "liverSafety": "Leverveiligheid & Hepatotoxiciteit",
+    "contraindications": "Contra-indicaties",
+    "safetyOverview": "Veiligheid & Gezondheidsoverzicht",
+    "studies": "Wetenschappelijke studies"
+  },
+  "intro": {
+    "title": "Medicijnen-check",
+    "text": "Voer de naam van uw medicijn of werkzame stof in om mogelijke interacties met Kava te controleren."
+  },
+  "search": {
+    "placeholder": "Medicijn of werkzame stof invoeren...",
+    "button": "Controleren",
+    "noResults": "Geen medicijn met deze naam gevonden. Controleer de spelling of raadpleeg een arts."
+  },
+  "result": {
+    "risk": "Risiconiveau",
+    "mechanism": "Mechanisme",
+    "recommendation": "Aanbeveling",
+    "alternatives": "Mogelijke alternatieven"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "ZEER HOOG RISICO",
+      "description": "Strikt contra-indicated - combinatie nooit gebruiken"
+    },
+    "high": {
+      "label": "HOOG RISICO",
+      "description": "Combinatie vermijden - aanzienlijke gezondheidsrisico's mogelijk"
+    },
+    "moderate": {
+      "label": "MATIG RISICO",
+      "description": "Voorzichtigheid geboden - alleen onder medisch toezicht"
+    },
+    "low": {
+      "label": "LAAG RISICO",
+      "description": "Waarschijnlijk veilig bij normaal gebruik"
+    },
+    "none": {
+      "label": "GEEN BEKEND RISICO",
+      "description": "Geen bekende interacties gedocumenteerd"
+    }
+  },
+  "anleitung": {
+    "title": "Zo gebruikt u de checker",
+    "steps": [
+      "Voer de naam van uw medicijn of de werkzame stof in",
+      "Klik op \"Controleren\" of druk op Enter",
+      "Lees de risicobeoordeling en aanbevelingen",
+      "Bij twijfel altijd een arts of apotheker raadplegen"
+    ]
+  },
+  "kategorien": {
+    "title": "Risico-categorieën uitgelegd",
+    "high": {
+      "title": "Hoog risico",
+      "text": "Combinatie moet onder alle omstandigheden vermeden worden. Ernstige bijwerkingen mogelijk."
+    },
+    "moderate": {
+      "title": "Gemiddeld risico",
+      "text": "Combinatie alleen onder medisch toezicht. Dosisaanpassing kan nodig zijn."
+    },
+    "low": {
+      "title": "Laag risico",
+      "text": "Combinatie waarschijnlijk veilig, maar individuele reacties in de gaten houden."
+    },
+    "unknown": {
+      "title": "Onbekend",
+      "text": "Geen voldoende gegevens beschikbaar. Voorzichtigheid aanbevolen."
+    }
+  },
+  "haeufige": {
+    "title": "Vaak gecontroleerde medicijnen",
+    "clickToCheck": "Klik op een medicijn om het te controleren:"
+  },
+  "hinweis": {
+    "title": "Belangrijke opmerking",
+    "text": "Deze checker dient alleen ter algemene informatie en vervangt geen medisch advies. De database is niet volledig en wordt continu bijgewerkt. Bij onzekerheden raadpleeg altijd een arts of apotheker.",
+    "disclaimer": "De informatie is gebaseerd op wetenschappelijke literatuur en bekende interactiemechanismen. Individuele reacties kunnen variëren."
+  },
+  "navigation": {
+    "continueTitle": "Verder in het hoofdstuk Veiligheid",
+    "items": [
+      {
+        "title": "Overzicht",
+        "href": "/nl/veiligheid",
+        "description": "Terug naar het veiligheids-overzicht"
+      },
+      {
+        "title": "Interacties",
+        "href": "/nl/veiligheid/interacties",
+        "description": "Gedetailleerde informatie over interacties"
+      },
+      {
+        "title": "Contra-indicaties",
+        "href": "/nl/veiligheid/contra-indicaties",
+        "description": "Wanneer Kava niet gebruikt moet worden"
+      }
+    ]
+  }
+}

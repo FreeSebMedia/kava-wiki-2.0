@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "FAQ – Alles over Kava",
+    "badge": "Veelgestelde vragen",
+    "description": "Antwoorden op de meest voorkomende vragen over Kava – van werking en dosering tot veiligheid en legaliteit. Wetenschappelijk onderbouwd en begrijpelijk uitgelegd."
+  },
+  "ui": {
+    "searchPlaceholder": "Zoek vraag...",
+    "categories": "Categorieën",
+    "all": "Alle",
+    "results": "Resultaten",
+    "clearFilters": "Filters resetten",
+    "noResults": "Geen resultaten gevonden",
+    "noResultsHint": "Probeer andere zoektermen of kies een andere categorie.",
+    "showAll": "Alle vragen weergeven",
+    "relatedArticles": "Vervolgartikelen:",
+    "questionNotAnswered": "Jouw vraag niet erbij?",
+    "contactHint": "Neem contact met ons op en we helpen je graag verder. We breiden onze FAQ regelmatig uit op basis van jullie vragen.",
+    "getInTouch": "Neem contact op",
+    "viewGlossary": "Bekijk het glossarium"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "Basisprincipes",
+      "description": "Basisinformatie over Kava, zijn oorsprong en botanica"
+    },
+    "wirkung": {
+      "name": "Werking & Effecten",
+      "description": "Hoe Kava werkt, werkduur en ervaringen"
+    },
+    "sicherheit": {
+      "name": "Veiligheid & Bijwerkingen",
+      "description": "Bijwerkingen, risico's en interacties"
+    },
+    "dosierung": {
+      "name": "Dosering & Inname",
+      "description": "Aanbevolen hoeveelheden en verschillende innamevormen"
+    },
+    "zubereitung": {
+      "name": "Bereiding",
+      "description": "Traditionele en moderne bereidingsmethoden"
+    },
+    "kauf": {
+      "name": "Aankoop & Legaliteit",
+      "description": "Bronnen en juridische situatie in Duitsland en de EU"
+    },
+    "vergleiche": {
+      "name": "Vergelijkingen",
+      "description": "Kava in vergelijking met andere voedingssupplementen"
+    },
+    "kultur": {
+      "name": "Cultuur & Traditie",
+      "description": "Ceremonies, tradities en culturele betekenis"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "Wat is Kava (Kava-Kava)?",
+      "answer": "Kava (Piper methysticum) is een plantensoort uit de familie van de peperplanten (Piperaceae), die al meer dan 3.000 jaar in de Stille Oceaan wordt verbouwd. De naam betekent letterlijk \"bedwelmende peper\". De wortels van de plant bevatten Kavalactonen – bioactieve verbindingen met ontspannende, angstverlichtende en stemmingsverhogende eigenschappen. Kava wordt traditioneel als drank bereid en speelt een centrale rol in de culturen van Vanuatu, Fiji, Tonga, Samoa en Hawaii.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "Botanica van Piper methysticum"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Geschiedenis van Kava"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Wat betekent Piper methysticum?",
+      "answer": "Piper methysticum is de wetenschappelijke (Latijnse) naam voor de Kava-plant. \"Piper\" betekent peper en verwijst naar de plantenfamilie van de peperplanten. \"Methysticum\" komt van het Griekse woord \"methystikos\" en betekent \"bedwelmend\" of \"dronken makend\". De naam werd in 1777 gegeven door Johann Georg Forster, die de plant tijdens de tweede wereldomzeiling van James Cook wetenschappelijk beschreef.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "De Kava-plant"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "Waar komt Kava oorspronkelijk vandaan?",
+      "answer": "Kava komt oorspronkelijk uit de westelijke Stille Oceaan, waarbij Vanuatu als oorsprongsgebied wordt beschouwd. Daar is de grootste genetische diversiteit te vinden met meer dan 80 verschillende variëteiten. De plant werd ongeveer 3.000 jaar geleden gedomesticeerd uit de wilde soort Piper wichmannii en verspreid door Polynesische zeelieden als \"Canoe Plant\" over de hele Stille Oceaan – naar Fiji, Tonga, Samoa, Hawaii en Pohnpei.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "Interactieve Kava-wereldkaart"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Geschiedenis van Kava"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "Wat is de Kava-wortel?",
+      "answer": "De Kava-wortel is het deel van de plant dat wordt gebruikt voor de bereiding van de drank. Het bestaat uit twee hoofdonderdelen: de stomp (ook wel \"Corm\" of \"Lewena\" genoemd) – de dikke, verhoute wortelknol – en de zijwortels (\"Waka\"), die het hoogste Kavalacton-gehalte hebben. Een volwassen Kava-plant (3-5 jaar oud) kan een wortelknol van 5-25 kg ontwikkelen. Alleen de ondergrondse delen mogen worden gebruikt, omdat bladeren en stelen ongewenste verbindingen kunnen bevatten.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "Morfolgie van de Kava-plant"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "Wat is Noble Kava?",
+      "answer": "Noble Kava verwijst naar Kava-variëteiten die traditioneel voor dagelijks gebruik zijn gekweekt en een gunstig Kavalacton-profiel hebben. Ze kenmerken zich door aangename effecten, goede verdraagbaarheid en minimale bijwerkingen. In tegenstelling tot \"Tudei\" (Two-Day) variëteiten, die sterkere, langdurige en vaak onaangename effecten hebben. Noble variëteiten zoals Borogu, Melomelo, Palarasul of Pouni Ono zijn geschikt voor regelmatig gebruik. Bij aankoop moet altijd op de aanduiding \"Noble\" worden gelet.",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "Kava-variëteiten"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "Hoe werkt Kava?",
+      "answer": "Kava werkt voornamelijk via zijn Kavalactonen, die interageren met het GABA-systeem in de hersenen. De effecten omvatten: ontspanning van de spieren, vermindering van angst en stress, lichte euforie en een verhoogde stemming, verbeterde sociabiliteit met een heldere geest, evenals bevordering van een herstellende slaap. In tegenstelling tot alcohol beïnvloedt Kava de mentale helderheid niet. De werking begint typisch 15-30 minuten na inname en houdt 2-4 uur aan.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "Effect van Kava"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "Kavalactonen"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "Hoe lang werkt Kava?",
+      "answer": "De werkduur van Kava varieert afhankelijk van de dosis, variëteit en individuele gevoeligheid. Typisch begint de werking na 15-30 minuten en bereikt zijn hoogtepunt na ongeveer 1-2 uur. De belangrijkste werking houdt 2-4 uur aan, waarbij een aangenaam nabevoel van ontspanning nog langer kan aanhouden. Bij hogere doses of sterkere variëteiten kan de werking tot 6 uur merkbaar zijn. De slaapbevorderende werking kan de hele nacht aanhouden."
+    },
+    "kava-gegen-angst": {
+      "question": "Helpt Kava tegen angst?",
+      "answer": "Ja, Kava heeft in talrijke klinische studies anxiolytische (angstverlichtende) effecten aangetoond. Een Cochrane-meta-analyse uit 2003 bevestigde de effectiviteit bij angststoornissen. De Kavalactonen werken op GABA-receptoren, vergelijkbaar met benzodiazepinen, maar zonder het verslavingspotentieel. Kava kan helpen bij gegeneraliseerde angststoornis, sociale angst en stressgerelateerde spanning. Belangrijk: Bij gediagnosticeerde angststoornissen moet het gebruik met een arts worden besproken.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Wetenschappelijke studies"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "Kava bij angst"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "Kan Kava bij depressies helpen?",
+      "answer": "Sommige studies suggereren dat Kava stemmingsverhogende eigenschappen heeft. Een studie van de University of Melbourne (2013) toonde positieve effecten aan bij milde tot matige depressies. De werking wordt toegeschreven aan de modulatie van dopamine- en serotonine-receptoren. Kava is echter geen vervanging voor professionele behandeling van depressies. Bij gediagnosticeerde depressieve stoornissen moet altijd een arts worden geraadpleegd, vooral als er al antidepressiva worden ingenomen.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Wetenschappelijke studies"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "Verbetert Kava de slaap?",
+      "answer": "Ja, Kava kan de slaapkwaliteit verbeteren. De ontspannende werking van de Kavalactonen helpt bij het in slaap vallen en bevordert een diepere, herstellende slaap. In tegenstelling tot veel slaapmiddelen veroorzaakt Kava geen \"hangover\" de volgende ochtend. Studies tonen aan dat Kava vooral effectief is bij stressgerelateerde slaapproblemen. Voor slaapbevordering wordt aanbevolen om Kava 1-2 uur voor het slapengaan in te nemen. Variëteiten met een hoger DHM- en DHK-gehalte (zoals Borogu) zijn bijzonder slaapbevorderend.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "Kava voor betere slaap"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "Welke bijwerkingen heeft Kava?",
+      "answer": "Bij juiste toepassing van Noble Kava-variëteiten zijn bijwerkingen zeldzaam en mild. Mogelijke bijwerkingen zijn: tijdelijke gevoelloosheid van lippen en tong (normaal), lichte misselijkheid bij inname op een lege maag, slaperigheid (vooral bij hogere doses), en bij chronisch overmatig gebruik een reversibele huidafschilfering (\"Kava-Dermopathie\"). Belangrijk is het gebruik van puur wortelpoeder van Noble-variëteiten en het vermijden van alcohol tijdens de inname.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "Veiligheid van Kava"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "Bijwerkingen in detail"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "Is Kava schadelijk voor de lever?",
+      "answer": "De vraag naar lebertoxiteit is complex. Het Duitse Kava-verbod van 2002 was gebaseerd op meldingen van leverschade, die echter grotendeels konden worden toegeschreven aan inferieure producten (gebruik van bladeren/stelen in plaats van wortels), Tudei-variëteiten (niet geschikt voor dagelijks gebruik), alcoholextracten en interacties met medicijnen. Studies tonen aan dat traditioneel bereid Noble Kava veilig is voor gezonde volwassenen. Toch moeten mensen met leverziekten Kava vermijden en regelmatige gebruikers moeten hun leverwaarden laten controleren.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "Kava en de lever"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei Kava"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "Is Kava een drug?",
+      "answer": "Kava is geen drug in de zin van de Opiumwet. Het is een traditionele drank met psychoactieve werking, vergelijkbaar met koffie of thee. Kava maakt niet afhankelijk, veroorzaakt geen tolerantieontwikkeling en heeft geen misbruikpotentieel. De WHO heeft Kava geclassificeerd als \"niet verslavend\". In de meeste landen is Kava legaal verkrijgbaar. De werking is mild ontspannend, niet bedwelmend in de zin van alcohol of illegale stoffen."
+    },
+    "kava-alkohol": {
+      "question": "Kan Kava met alcohol worden gecombineerd?",
+      "answer": "Nee, Kava moet niet met alcohol worden gecombineerd. Beide stoffen werken op het GABA-systeem en kunnen elkaar versterken, wat kan leiden tot overmatige sedatie. Bovendien worden beide via de lever gemetaboliseerd, wat de belasting verhoogt. In de traditionele Pacifische cultuur wordt Kava als alternatief voor alcohol geconsumeerd, niet samen ermee. Wacht minstens 24 uur tussen alcohol- en Kava-consumptie.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "Interacties"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "Hoe doseert men Kava correct?",
+      "answer": "De aanbevolen dosering voor Kava-poeder ligt tussen de 2-4 eetlepels (ca. 15-30g) per sessie, verdeeld over 2-3 kommen. Voor beginners wordt aangeraden om met een lagere dosis (1-2 EL) te beginnen. De Kavalacton-dosering mag 250mg per enkele dosis niet overschrijden. Belangrijk: Kava ontwikkelt vaak zijn volledige werking pas na regelmatige inname over meerdere dagen (\"Reverse Tolerance\"). Niet meer dan 300mg Kavalactonen per dag over langere tijd.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Bereiding van Kava"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "Hoe neemt men Kava het beste in?",
+      "answer": "De traditionele methode is de bereiding als drank: Kava-poeder wordt in water gekneed en door een zeef gefilterd. De drank wordt in kommen (\"Shells\") gedronken, typisch 2-3 kommen per sessie met 10-15 minuten tussenpozen. Alternatief zijn er instant-Kava (eenvoudig in water op te lossen), capsules of tincturen. De beste werking wordt bereikt op een licht nuchtere maag, ongeveer 2-3 uur na de laatste maaltijd. Na het drinken kan een kleine snack de werking versterken.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Traditionele bereiding"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "Kan men Kava dagelijks drinken?",
+      "answer": "Ja, in de Pacifische culturen wordt Kava traditioneel dagelijks geconsumeerd. Voor westelijk gebruik wordt aangeraden om regelmatig pauzes in te lassen (bijv. 1-2 dagen per week zonder Kava). Bij dagelijks gebruik moet de dosis gematigd blijven en uitsluitend Noble Kava-variëteiten worden gebruikt. Regelmatige gebruikers moeten hun leverwaarden jaarlijks laten controleren. Belangrijk: Voldoende water drinken en letten op een gezonde voeding."
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "Wat is beter: Kava-poeder of capsules?",
+      "answer": "Kava-poeder biedt de authentiekste ervaring en beste werking, maar vereist voorbereiding. Capsules zijn praktisch voor onderweg, bevatten echter vaak minder Kavalactonen en werken zwakker. Instant-Kava is een goede compromis – eenvoudig in water op te lossen, goede werking. Voor beginners raden we Instant-Kava of Medium Grind poeder aan. Voor de sterkste werking: traditioneel bereid poeder. Capsules zijn geschikt voor incidenteel, laag gedoseerd gebruik."
+    },
+    "kava-zubereitung": {
+      "question": "Hoe bereidt men Kava traditioneel?",
+      "answer": "Traditionele bereiding: 1) 2-4 EL Kava-poeder in een stoffen zak of notenmelkzak doen. 2) In een kom met ca. 500ml warm (niet heet!) water leggen. 3) 5-10 minuten kneden en uitwringen totdat het water melkachtig-bruin wordt. 4) De zak uitknijpen en verwijderen. 5) In kommen serveren en snel drinken. De smaak is aards en licht bitter – dat is normaal. Een stuk fruit als \"Chaser\" helpt tegen de smaak.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Traditionele bereiding"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "Instant Kava"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "Hoe smaakt Kava?",
+      "answer": "Kava heeft een kenmerkende, aardse smaak die vaak wordt beschreven als een \"aquired taste\". De smaak is licht bitter, peperachtig en aards met een zekere scherpte. Na het drinken treedt een tijdelijke gevoelloosheid van de lippen en tong op – een teken van actieve Kavalactonen. Tips voor verbetering: Kava koud drinken, met kokosmelk mengen, of een stuk ananas/mango als \"Chaser\" eten. Na verloop van tijd raakt men gewend aan de smaak."
+    },
+    "kava-tee": {
+      "question": "Kan men Kava als thee bereiden?",
+      "answer": "Kava moet niet zoals normale thee met kokend water worden bereid, omdat hoge temperaturen de Kavalactonen kunnen vernietigen. Gebruik warm water (ca. 40°C). \"Kava-thee\"-producten in de handel bevatten vaak slechts kleine hoeveelheden Kava en zijn minder effectief dan traditioneel bereid Kava-poeder. Voor de beste werking raden we de traditionele kneedmethode met Medium Grind Kava-poeder of hoogwaardig Instant-Kava aan.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Bereidingsmethoden"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "Is Kava legaal in Duitsland?",
+      "answer": "De juridische situatie van Kava in Duitsland is complex. In 2002 werd Kava als geneesmiddel verboden, nadat er meldingen van leverschade waren gekomen. Dit verbod werd in 2014 door de Duitse bestuursrechtbank opgeheven, omdat de wetenschappelijke basis onvoldoende was. Momenteel is de import en het bezit van Kava voor persoonlijk gebruik legaal. De verkoop als voedingssupplement of geneesmiddel is echter nog steeds beperkt. Kava kan uit het EU-buitenland (bijv. Nederland, VK) of rechtstreeks uit de Stille Oceaan worden besteld.",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "Juridische status van Kava"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "Waar kan men Kava kopen?",
+      "answer": "Kava kan op verschillende manieren worden verkregen: 1) Online winkels uit de Stille Oceaan (Vanuatu, Fiji) – hoogste kwaliteit, maar langere levertijd. 2) Europese verkopers (VK, Nederland) – snellere levering, goede selectie. 3) Gespecialiseerde Kava-bars – voor consumptie ter plaatse. In Duitse drogisterijen (DM, Rossmann) of apotheken is Kava momenteel niet verkrijgbaar. Let bij aankoop op: Noble Kava-variëteiten, puur wortel (geen bladeren/stelen), laboratoriumanalyses en herkomstinformatie.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "Kava-Bar Finder"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "Is er Kava bij DM of in de apotheek?",
+      "answer": "Nee, Kava is momenteel noch bij DM, Rossmann, noch in Duitse apotheken verkrijgbaar. Dit is te wijten aan de regelgevende situatie in Duitsland, die de verkoop van Kava als voedingssupplement of geneesmiddel beperkt. Homeopathische preparaten met Piper methysticum (sterk verdund) waren vroeger in apotheken verkrijgbaar, maar zijn ook zeldzaam geworden. Voor echt Kava-poeder moet je terugvallen op gespecialiseerde online verkopers."
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "Is Kava weer verkrijgbaar?",
+      "answer": "Ja, Kava is weer verkrijgbaar, zij het niet in de Duitse detailhandel. Na de opheffing van het verbod in 2014 kan Kava legaal voor persoonlijk gebruik worden geïmporteerd. De beste bron zijn gespecialiseerde online verkopers uit de Stille Oceaan (Vanuatu, Fiji, Tonga) of Europese aanbieders (VK, Nederland). De kwaliteit en beschikbaarheid zijn de afgelopen jaren aanzienlijk verbeterd, en er is een groeiende gemeenschap van Kava-liefhebbers in Duitsland."
+    },
+    "kava-vs-ashwagandha": {
+      "question": "Wat is het verschil tussen Kava en Ashwagandha?",
+      "answer": "Kava en Ashwagandha zijn beide adaptogene planten, maar verschillen aanzienlijk: Kava werkt snel (15-30 min.) en acuut ontspannend, ideaal voor situationele angst of stress. Ashwagandha werkt op lange termijn over weken en reguleert het cortisolniveau. Kava wordt als drank bereid, Ashwagandha meestal als capsule ingenomen. Kava heeft een merkbare psychoactieve werking, Ashwagandha is subtieler. Beide kunnen worden gecombineerd, waarbij Kava geschikt is voor acute situaties en Ashwagandha voor langdurige stressbestendigheid."
+    },
+    "kava-vs-baldrian": {
+      "question": "Wat is het verschil tussen Kava en Valeriaan?",
+      "answer": "Kava en Valeriaan (Valerian) zijn beide ontspannend, maar hebben verschillende profielen: Kava werkt sterker angstverlichtend en bevordert sociabiliteit met een heldere geest. Valeriaan is primair slaapbevorderend en kan slaperigheid veroorzaken. Kava heeft een snellere werking (15-30 min.), Valeriaan heeft vaak meerdere weken regelmatige inname nodig. De smaak van Kava is aards, Valeriaan ruikt en smaakt onaangenaam. Kava is beter voor sociale situaties, Valeriaan beter als puur slaapmiddel."
+    },
+    "kava-vs-kratom": {
+      "question": "Wat is het verschil tussen Kava en Kratom?",
+      "answer": "Kava en Kratom zijn totaal verschillend en moeten niet worden verward: Kava bevat Kavalactonen en werkt ontspannend zonder verslavingspotentieel. Kratom bevat alkaloïden (Mitragynine), die op opioïde receptoren werken en een verslavingspotentieel hebben. Kava is in de meeste landen legaal, Kratom is in veel landen (inclusief Duitsland) verboden of gereguleerd. Kava heeft een lange traditie van veilig gebruik, Kratom is verbonden met gezondheidsrisico's. We raden Kratom af."
+    },
+    "kava-alternative": {
+      "question": "Wat zijn alternatieven voor Kava?",
+      "answer": "Natuurlijke alternatieven voor Kava voor ontspanning en angstverlichting zijn: Ashwagandha (adaptogeen, op lange termijn), Valeriaan (slaapbevorderend), Passiebloem (licht angstverlichtend), L-Theanine (uit thee, bevordert ontspanning), Magnesium (spierontspanning), CBD (Cannabidiol, legaal in Duitsland). Geen van deze alternatieven biedt echter het unieke profiel van Kava met zijn combinatie van ontspanning, sociabiliteit en mentale helderheid. Voor het beste alternatief voor alcohol in sociale situaties is er geen echt vervangmiddel voor Kava."
+    },
+    "kava-zeremonie": {
+      "question": "Wat is een Kava-ceremonie?",
+      "answer": "Een Kava-ceremonie is een traditioneel ritueel in de Stille Oceaan, waarbij Kava gezamenlijk wordt bereid en gedronken. De ceremonie volgt strikte protocollen: Wie bereidt de Kava? Wie krijgt de eerste kom? In welke volgorde wordt er gedronken? In Fiji heet de ceremonie \"Sevusevu\" en maakt deel uit van officiële staatsacten. In Tonga en Samoa zijn er hooggeformaliseerde 'Ava-ceremonies met vastgestelde rollen. De ceremonie symboliseert respect, gastvrijheid en sociale binding.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "Ceremonies & Rituelen"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "Wat is een Nakamal?",
+      "answer": "Een Nakamal is een traditionele Kava-drinkplaats in Vanuatu. Oorspronkelijk was het een mannenhuis waar de dorpsgemeenschap zich verzamelde voor het avondlijke Kava-drinken. Tegenwoordig verwijst \"Nakamal\" ook naar moderne Kava-bars in Port Vila en andere steden. De sfeer is rustig en respectvol – men zit samen, drinkt meerdere kommen en voert stille gesprekken. Nakamals zijn sociale ontmoetingsplaatsen waar mensen van alle lagen samenkomen.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal & Kava-Bars"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "Welke namen heeft Kava in verschillende culturen?",
+      "answer": "Kava heeft in verschillende Pacifische culturen verschillende namen: Vanuatu: Kava of Malok. Fiji: Yaqona (uitgesproken als \"Yang-gona\"). Tonga: Kava of 'Ava. Samoa: 'Ava. Hawaii: 'Awa. Pohnpei: Sakau. Papoea-Nieuw-Guinea: Kava. De wetenschappelijke naam Piper methysticum betekent \"bedwelmende peper\". In Duitsland zijn de benamingen Kava, Kava-Kava en Rauschpfeffer gebruikelijk.",
+      "relatedLinks": [
+        {
+          "href": "/de/glossar",
+          "label": "Glossarium"
+        }
+      ]
+    }
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

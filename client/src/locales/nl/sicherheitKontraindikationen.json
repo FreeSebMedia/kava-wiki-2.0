@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Contra-indicaties",
+    "subtitle": "Wanneer Kava niet gebruikt moet worden: Absolute en relatieve contra-indicaties voor een veilige omgang.",
+    "category": "Veiligheid",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Veiligheid",
+      "current": "Contra-indicaties"
+    }
+  },
+  "toc": {
+    "title": "Inhoud",
+    "zusammenfassung": "Samenvatting",
+    "absolute": "Absolute contra-indicaties",
+    "leber": "Leverziekten",
+    "schwangerschaft": "Zwangerschap & Borstvoeding",
+    "kinder": "Kinderen & Jongeren",
+    "relative": "Relatieve contra-indicaties",
+    "parkinson": "Ziekte van Parkinson",
+    "depression": "Ernstige depressie",
+    "operation": "Voor operaties",
+    "fahren": "Rijden & Machines bedienen",
+    "vorsicht": "Bijzondere voorzichtigheid",
+    "genetik": "Genetische factoren",
+    "alter": "Oudere mensen",
+    "entscheidungshilfe": "Besluitvormingshulp",
+    "quellen": "Bronnen"
+  },
+  "navigation": {
+    "continueTitle": "Verder in het hoofdstuk Veiligheid",
+    "items": [
+      {
+        "title": "Overzicht",
+        "href": "/nl/veiligheid",
+        "description": "Terug naar het veiligheidsoverzicht"
+      },
+      {
+        "title": "Leverveiligheid",
+        "href": "/nl/veiligheid/leber",
+        "description": "Hepatotoxiciteit & het verbod van 2002"
+      },
+      {
+        "title": "Interactie",
+        "href": "/nl/veiligheid/wechselwirkungen",
+        "description": "Geneesmiddelen & CYP450-interacties"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Belangrijk overzicht",
+    "intro": "Hoewel Kava bij juiste toepassing als veilig wordt beschouwd, zijn er bepaalde situaties waarin het gebruik niet wordt aanbevolen of contra-indiceert:",
+    "absolut": {
+      "title": "Absoluut contra-geïndiceerd:",
+      "items": [
+        "Leverziekten",
+        "Zwangerschap & Borstvoeding",
+        "Kinderen onder de 18 jaar"
+      ]
+    },
+    "relativ": {
+      "title": "Relatieve contra-indicaties:",
+      "items": [
+        "Ziekte van Parkinson",
+        "Ernstige depressie",
+        "Voor geplande operaties"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Absolute contra-indicaties",
+    "intro": "Bij de volgende aandoeningen moet Kava <strong>onder geen enkele omstandigheid</strong> worden gebruikt. Het risico weegt duidelijk zwaarder dan enige mogelijke voordelen."
+  },
+  "leber": {
+    "title": "Leverziekten",
+    "label": "Strikt contra-geïndiceerd",
+    "intro": "Personen met bestaande leverziekten moeten Kava volledig vermijden:",
+    "items": [
+      {
+        "name": "Hepatitis (A, B, C)",
+        "text": "Actieve of chronische leverontsteking"
+      },
+      {
+        "name": "Levercirrose",
+        "text": "Ongeacht het stadium"
+      },
+      {
+        "name": "Vette lever",
+        "text": "Alcoholische en niet-alcoholische leververvetting"
+      },
+      {
+        "name": "Verhoogde leverwaarden",
+        "text": "Onverklaarde verhoging van ALT, AST, GGT"
+      },
+      {
+        "name": "Eerdere leverschade",
+        "text": "Ook als momenteel genormaliseerd"
+      }
+    ],
+    "reasonLabel": "Reden:",
+    "reason": "De lever is het centrale orgaan voor de afbraak van Kavalactonen. Bij verminderde leverfunctie kunnen metabolieten zich ophopen en het risico op verdere schade verhogen."
+  },
+  "schwangerschaft": {
+    "title": "Zwangerschap & Borstvoeding",
+    "label": "Strikt contra-geïndiceerd",
+    "intro": "Kava mag niet worden gebruikt tijdens de zwangerschap en borstvoeding:",
+    "items": [
+      {
+        "name": "Geen veiligheidsgegevens",
+        "text": "Er zijn geen gecontroleerde studies naar de veiligheid tijdens de zwangerschap"
+      },
+      {
+        "name": "Placentagankelijkheid",
+        "text": "Kavalactonen kunnen de placenta-barrière oversteken"
+      },
+      {
+        "name": "Moedermelk",
+        "text": "Kavalactonen komen in de moedermelk terecht"
+      },
+      {
+        "name": "Uterus-relaxatie",
+        "text": "Kavain kan de baarmoederspieren ontspannen"
+      }
+    ],
+    "traditionLabel": "Traditionele praktijk:",
+    "tradition": "In Pacific cultuur wordt Kava traditioneel niet geconsumeerd door zwangere of borstvoeding gevende vrouwen."
+  },
+  "kinder": {
+    "title": "Kinderen & Jongeren",
+    "label": "Niet aanbevolen onder de 18 jaar",
+    "intro": "Kava mag niet door kinderen en jongeren worden gebruikt:",
+    "items": [
+      {
+        "name": "Ontwikkeling",
+        "text": "Effecten op de hersenontwikkeling niet onderzocht"
+      },
+      {
+        "name": "Metabolisme",
+        "text": "Kinderen metaboliseren stoffen anders dan volwassenen"
+      },
+      {
+        "name": "Geen studies",
+        "text": "Geen klinische gegevens voor deze leeftijdsgroep"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Relatieve contra-indicaties",
+    "intro": "Bij de volgende aandoeningen is bijzondere voorzichtigheid geboden. Gebruik kan onder bepaalde omstandigheden mogelijk zijn, maar moet alleen na zorgvuldige afweging en idealiter na overleg met een arts plaatsvinden."
+  },
+  "parkinson": {
+    "title": "Ziekte van Parkinson",
+    "label": "Niet aanbevolen",
+    "intro": "Kava kan de symptomen van Parkinson verergeren:",
+    "items": [
+      {
+        "name": "Dopamine-antagonisme",
+        "text": "Kava kan dopaminerge effecten verminderen"
+      },
+      {
+        "name": "Levodopa-interactie",
+        "text": "Kan de effectiviteit van Levodopa verminderen"
+      },
+      {
+        "name": "Gevalrapporten",
+        "text": "Verergering van symptomen onder Kava gedocumenteerd"
+      }
+    ],
+    "caseReportLabel": "Gevalrapport:",
+    "caseReport": "Schelosky et al. (1995) rapporteerden over een 45-jarige vrouw met Parkinson wiens symptomen onder Kava-inname aanzienlijk verslechterden."
+  },
+  "depression": {
+    "title": "Ernstige depressie",
+    "label": "Voorzichtigheid geboden",
+    "intro": "Bij ernstige depressie is voorzichtigheid geboden:",
+    "items": [
+      {
+        "name": "CZS-demping",
+        "text": "Kava kan apathie versterken"
+      },
+      {
+        "name": "Geneesmiddelen-interactie",
+        "text": "Interactie met antidepressiva mogelijk"
+      },
+      {
+        "name": "Zelfmedicatie",
+        "text": "Kan professionele behandeling vertragen"
+      }
+    ],
+    "noteLabel": "Opmerking:",
+    "note": "Bij lichte tot matige angst kan Kava nuttig zijn, maar bij ernstige depressie moet professionele behandeling prioriteit hebben."
+  },
+  "operation": {
+    "title": "Voor geplande operaties",
+    "label": "2 weken van tevoren stoppen",
+    "intro": "Kava moet voor geplande operaties worden gestopt:",
+    "items": [
+      {
+        "name": "Anesthesie-interactie",
+        "text": "Kan de werking van narcosemiddelen versterken"
+      },
+      {
+        "name": "Bloedingsrisico",
+        "text": "Mogelijke interactie met anticoagulantia"
+      },
+      {
+        "name": "Leverfunctie",
+        "text": "Belangrijk voor de afbraak van narcosemiddelen"
+      }
+    ],
+    "recommendation": "Aanbeveling: Stop Kava minstens 2 weken voor een geplande operatie en informeer de anesthesist over het eerdere gebruik."
+  },
+  "fahren": {
+    "title": "Rijden & Bedienen van Machines",
+    "label": "Beperkte rijvaardigheid",
+    "intro": "Kava kan de reactietijd beïnvloeden:",
+    "items": [
+      {
+        "name": "Sedatie",
+        "text": "Vermoeidheid en vertraagde reacties mogelijk"
+      },
+      {
+        "name": "Dosisafhankelijk",
+        "text": "Hogere doses beïnvloeden sterker"
+      },
+      {
+        "name": "Individuele verschillen",
+        "text": "Gevoeligheid varieert sterk"
+      }
+    ],
+    "noteLabel": "Opmerking:",
+    "note": "In tegenstelling tot benzodiazepinen tonen studies aan dat Kava de cognitieve functie minder beïnvloedt. Toch moet men de individuele reactie kennen voordat men gaat rijden."
+  },
+  "vorsicht": {
+    "title": "Bijzondere voorzichtigheid",
+    "intro": "Bij bepaalde groepen mensen is verhoogde aandacht vereist, ook al is er geen strikte contra-indicatie."
+  },
+  "genetik": {
+    "title": "Genetische factoren (CYP2D6-polymorfismen)",
+    "label": "Verhoogde gevoeligheid mogelijk",
+    "intro": "Ongeveer 5-10% van de Europese bevolking zijn \"Poor Metabolizers\" voor CYP2D6:",
+    "items": [
+      {
+        "name": "Langzamere afbraak",
+        "text": "Kavalactonen blijven langer in het lichaam"
+      },
+      {
+        "name": "Hogere bloedspiegels",
+        "text": "Versterkte werking en bijwerkingen"
+      },
+      {
+        "name": "Herkenning",
+        "text": "Ongewoon sterke reactie op normale doses"
+      }
+    ],
+    "recommendationLabel": "Aanbeveling:",
+    "recommendation": "Als u ongewoon gevoelig reageert op Kava, kan er een genetische factor zijn. Begin met lagere doses."
+  },
+  "alter": {
+    "title": "Oudere mensen",
+    "label": "Aangepaste dosering aanbevolen",
+    "intro": "Bij oudere mensen is bijzondere voorzichtigheid geboden:",
+    "items": [
+      {
+        "name": "Verminderde leverfunctie",
+        "text": "Langzamere metabolisme op oudere leeftijd"
+      },
+      {
+        "name": "Polyfarmacie",
+        "text": "Hoger risico op interacties"
+      },
+      {
+        "name": "Valrisico",
+        "text": "Sedatie kan het valrisico verhogen"
+      }
+    ],
+    "recommendationLabel": "Aanbeveling:",
+    "recommendation": "Begin met de helft van de gebruikelijke dosis en verhoog langzaam."
+  },
+  "entscheidungshilfe": {
+    "title": "Besluitvormingshulp: Is Kava geschikt voor mij?",
+    "selfCheck": {
+      "title": "Zelf-check voor het gebruik van Kava",
+      "nicht": {
+        "title": "Kava is NIET geschikt als u:",
+        "items": [
+          "Een leverziekte heeft of heeft gehad",
+          "Zwangere bent of borstvoeding geeft",
+          "Onder de 18 jaar bent",
+          "Regelmatig alcohol drinkt",
+          "Benzodiazepinen of antipsychotica gebruikt",
+          "Anticoagulantia (bloedverdunners) gebruikt"
+        ]
+      },
+      "arzt": {
+        "title": "Praat met uw arts als u:",
+        "items": [
+          "Ziekte van Parkinson heeft",
+          "Lijdt aan ernstige depressie",
+          "Regelmatig medicijnen gebruikt",
+          "Een operatie gepland heeft",
+          "Boven de 65 jaar bent"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava kan geschikt zijn als u:",
+        "items": [
+          "Gezond bent en geen leverproblemen heeft",
+          "Geen van de hierboven genoemde medicijnen gebruikt",
+          "Geen of slechts af en toe alcohol drinkt",
+          "Volwassen bent (boven de 18 jaar)",
+          "Niet zwanger bent of borstvoeding geeft"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Algemene aanbeveling",
+      "text": "Bij twijfel, raadpleeg een arts of apotheker voordat u Kava gebruikt, vooral als u regelmatig medicijnen gebruikt of gezondheidsbeperkingen heeft."
+    }
+  },
+  "warnzeichen": {
+    "title": "Waarschuwingssignalen: Wanneer u onmiddellijk moet stoppen",
+    "intro": "Stop onmiddellijk met gebruik en raadpleeg een arts bij:",
+    "items": [
+      {
+        "name": "Geelzucht",
+        "text": "van huid of ogen (icterus)"
+      },
+      {
+        "name": "Donker urine",
+        "text": "(bierkleurig)"
+      },
+      {
+        "name": "Lichte ontlasting",
+        "text": "(ontkleurd)"
+      },
+      {
+        "name": "Ongewone vermoeidheid",
+        "text": "of zwakte"
+      },
+      {
+        "name": "Misselijkheid",
+        "text": "of gebrek aan eetlust"
+      },
+      {
+        "name": "Pijn",
+        "text": "in de rechterbovenbuik"
+      }
+    ],
+    "note": "Deze symptomen kunnen op leverproblemen wijzen en vereisen onmiddellijke medische evaluatie."
+  },
+  "quellen": {
+    "title": "Bronnen",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Assessment Report on Piper methysticum G. Forst., rhizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "Assessment of the Risk of Hepatotoxicity with Kava Products.",
+        "source": "WHO Technical Report."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava and dopamine antagonism.",
+        "source": "Journal of Neurology, Neurosurgery & Psychiatry."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: a comprehensive review of efficacy, safety, and psychopharmacology.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "Een volledige lijst van alle geciteerde studies vindt u op onze",
+    "studiesLink": "Studiepagina"
+  }
+}

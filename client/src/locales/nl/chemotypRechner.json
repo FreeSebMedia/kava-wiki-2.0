@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Chemotyp-rekenmachine",
+    "subtitle": "Voer een 6-cijferige chemotype in en ontdek de verwachte effecten en aanbevelingen.",
+    "category": "Interactief"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "inhaltsstoffe": "Ingrediënten",
+    "current": "Chemotyp-rekenmachine"
+  },
+  "toc": {
+    "title": "Inhoud",
+    "rechner": "Chemotyp-rekenmachine",
+    "anleitung": "Zo werkt het",
+    "beispiele": "Voorbeeld-chemotypen",
+    "legende": "Kavalacton-legende"
+  },
+  "rechner": {
+    "title": "Voer chemotyp in",
+    "subtitle": "6 cijfers van 1-6, elk precies één keer",
+    "placeholder": "bijv. 426531",
+    "analyzeButton": "Analyseren",
+    "knownVariety": "Bekende variëteit"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Focus & Euforie",
+      "description": "Verhoogt dopamine, bevordert focus en lichte euforie"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Spierontspanning",
+      "description": "Sterke spierontspanning en pijnstillende werking"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "CB1-activiteit",
+      "description": "Werkt op het endocannabinoïdesysteem, licht stimulerend"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Angstverlichtend",
+      "description": "Hoofdbestanddeel voor angstverlichting en mentale helderheid"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Lang sedatief",
+      "description": "Zeer sedatief, langzame afbraak – Tudei-marker"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Sedatief",
+      "description": "Sedatief en neuroprotectief"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Ongeldig",
+      "description": "Voer een geldige 6-cijferige chemotyp in (cijfers 1-6, elk precies één keer)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Deze chemotyp wijst op Tudei-kava. DHM (5) op positie 1 of 2 betekent zeer lange werkingsduur met mogelijke bijwerkingen."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Kavain-dominante variëteit met primair mentale werking. Ideaal voor sociale gelegenheden en creatieve werkzaamheden."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Gebalanceerde variëteit met Kavain en DHK op de eerste posities. Combineert mentale helderheid met lichamelijke ontspanning."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Dihydrokavain-dominante variëteit met primair lichamelijke werking. Ideaal voor ontspanning en stressvermindering."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Gebalanceerde variëteit met een mix van mentale en lichamelijke werking. Veelzijdig inzetbaar."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) op prominente positie – typisch voor Tudei-kava",
+    "tudeiSideEffects": "Mogelijke bijwerkingen: misselijkheid, lange 'kater', sufheid",
+    "tudeiNotRecommended": "Niet geschikt voor regelmatig gebruik",
+    "dhmPosition1": "DHM op positie 1: Zeer sterke, langdurige sedatie",
+    "dhmPosition2": "DHM op positie 2: Verhoogde sedatie, langere werkingsduur"
+  },
+  "strengths": {
+    "headyClear": "Duidelijke, gefocuste werking zonder sterke sedatie",
+    "headyMood": "Goede stemmingsverbetering en angstverlichting",
+    "headyBeginner": "Ideaal voor beginners",
+    "headyBalancedBest": "Ideale combinatie van hoofd- en lichaamseffecten",
+    "headyBalancedMental": "Mentale helderheid met zachte ontspanning",
+    "headyBalancedBody": "Lichte spierontspanning zonder sterke sedatie",
+    "heavyMuscle": "Sterke spierontspanning",
+    "heavyPain": "Goede pijnstillende werking",
+    "heavyRelax": "Diepe lichamelijke ontspanning",
+    "balancedBoth": "Gebalanceerde werking op lichaam en geest",
+    "balancedVersatile": "Veelzijdig inzetbaar",
+    "balancedDaily": "Goede dagelijkse variëteit",
+    "methysticinNeuro": "Methysticin prominent: Goede neuroprotectieve eigenschappen",
+    "yangoninStim": "Yangonin prominent: Licht stimulerende component",
+    "dmyDopamine": "DMY prominent: Versterkte dopaminewerking, meer euforie"
+  },
+  "effects": {
+    "headyEffects": [
+      "Mentale helderheid",
+      "Angstverlichting",
+      "Lichte euforie"
+    ],
+    "headyBalancedEffects": [
+      "Mentale helderheid",
+      "Lichte spierontspanning",
+      "Stemmingsverbetering"
+    ],
+    "heavyEffects": [
+      "Spierontspanning",
+      "Lichamelijke rust",
+      "Slapeloosheid bevorderend"
+    ],
+    "balancedEffects": [
+      "Gebalanceerde ontspanning",
+      "Gemiddelde angstverlichting",
+      "Lichte spierontspanning"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Sociale gelegenheden",
+      "Creatieve werkzaamheden",
+      "Overdag of vroege avond"
+    ],
+    "headyBalancedUse": [
+      "Veelzijdige toepassing",
+      "Sociale gelegenheden met ontspanning",
+      "Middag tot avond"
+    ],
+    "heavyUse": [
+      "Avondontspanning",
+      "Na lichamelijke inspanning",
+      "Slaapvoorbereiding"
+    ],
+    "balancedUse": [
+      "Dagelijks gebruik",
+      "Meditatie",
+      "Flexibel gebruik"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalacton-volgorde",
+    "strengthsTitle": "Sterkten van deze chemotyp",
+    "dominantEffects": "Dominante effecten",
+    "recommendedUseTitle": "Aanbevolen gebruik"
+  },
+  "anleitung": {
+    "title": "Zo werkt het",
+    "paragraph1": "De chemotyp is een 6-cijferige code die de zes belangrijkste kavalactonen in aflopende volgorde van hun concentratie opsomt. Het eerste cijfer staat voor de kavalacton met de hoogste concentratie, het laatste voor die met de laagste.",
+    "rulesTitle": "De belangrijkste regels:",
+    "rules": [
+      {
+        "label": "Positie 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava – mentale werking, focus, angstverlichting"
+      },
+      {
+        "label": "Positie 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – lichamelijke werking, spierontspanning"
+      },
+      {
+        "label": "Positie 1 of 2 = 5 (DHM)",
+        "text": "⚠️ Tudei-kava – zeer lange werking, mogelijke bijwerkingen"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Voorbeeld-chemotypen",
+    "intro": "Klik op een voorbeeld-chemotyp om deze te analyseren:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalacton-legende",
+    "intro": "Overzicht van alle zes belangrijkste kavalactonen en hun effecten:"
+  },
+  "hint": {
+    "title": "Opmerking:",
+    "text": "Deze analyse is gebaseerd op algemene richtlijnen. De werkelijke werking kan variëren afhankelijk van kwaliteit, bereiding en individuele gevoeligheid. Voor gedetailleerde informatie bezoekt u onze pagina over het",
+    "linkText": "Chemotyp-systeem"
+  }
+}

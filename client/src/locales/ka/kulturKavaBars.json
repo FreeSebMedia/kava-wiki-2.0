@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava-Bar Finder",
+    "description": "იპოვნეთ Kava-Bars მსოფლიო მასშტაბით - ფლორიდიდან ახალ ზელანდიამდე. მისამართებით, შეფასებებით და სამუშაო საათებით."
+  },
+  "breadcrumb": {
+    "home": "მთავარი",
+    "kultur": "კულტურა",
+    "current": "Kava-Bar Finder"
+  },
+  "viewToggle": {
+    "list": "სია",
+    "map": "ქალაქი"
+  },
+  "search": {
+    "placeholder": "ძებნა სახელით, ქალაქით ან ქვეყანით...",
+    "resultsCount": "პოვნილია Kava-Bar(ები)",
+    "resultSingular": "პოვნილია Kava-Bar",
+    "resultPlural": "პოვნილია Kava-Bars"
+  },
+  "filter": {
+    "button": "ფილტრი",
+    "country": "ქვეყანა",
+    "allCountries": "ყველა ქვეყანა",
+    "region": "რეგიონი/სახელმწიფო",
+    "allRegions": "ყველა რეგიონი",
+    "minRating": "მინიმალური შეფასება",
+    "allRatings": "ყველა შეფასება",
+    "rating4Plus": "4+ ვარსკვლავი",
+    "rating45Plus": "4.5+ ვარსკვლავი",
+    "clearFilters": "ფილტრების გაწვდვა",
+    "features": "საწარმოო შესაძლებლობები"
+  },
+  "featureLabels": {
+    "wifi": "WLAN",
+    "outdoor": "გარე სივრცე",
+    "food": "საკვები",
+    "live-music": "ცოცხალი მუსიკა",
+    "events": "ღონისძიებები",
+    "traditional": "ტრადიციული მომზადება",
+    "kratom": "კრატომი",
+    "cbd": "CBD",
+    "games": "თამაშები",
+    "parking": "პარკინგი",
+    "accessible": "ბარიერების გარეშე",
+    "late-night": "გვიან ღამით"
+  },
+  "countryNames": {
+    "US": "აშშ",
+    "AU": "ავსტრალია",
+    "NZ": "ახალი ზელანდია",
+    "DE": "გერმანია",
+    "UK": "დიდი ბრიტანეთი",
+    "CA": "კანადა"
+  },
+  "bar": {
+    "verified": "შეფასებული",
+    "address": "მისამართი",
+    "hours": "სამუშაო საათები",
+    "specialties": "სპეციალიტეტები",
+    "features": "საწარმოო შესაძლებლობები",
+    "reviews": "შეფასებები",
+    "call": "დარეკვა",
+    "website": "ვებსაიტი",
+    "route": "მარშრუტი",
+    "routePlan": "მარშრუტის დაგეგმვა",
+    "backToList": "ბრუნდით სიაში"
+  },
+  "empty": {
+    "title": "არ არის Kava-Bars",
+    "description": "ცადეთ სხვა საძიებო სიტყვები ან ფილტრები.",
+    "resetButton": "ფილტრების გაწვდვა"
+  },
+  "stats": {
+    "title": "Kava-Bar სტატისტიკა",
+    "bars": "Kava-Bars",
+    "countries": "ქვეყნები",
+    "inUSA": "აშშ-ში",
+    "verified": "შეფასებული"
+  },
+  "cta": {
+    "title": "გიცნობთ Kava-Bar?",
+    "description": "დაგვეხმარეთ, რომ მონაცემთა ბაზა გავაფართოვოთ! თუ იცით Kava-Bar, რომელიც აქ არ არის ჩამოთვლილი, გვითხარით.",
+    "button": "შეთავაზეთ Kava-Bar"
+  },
+  "related": {
+    "title": "მოსახლეობითი გვერდები",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bars",
+      "subtitle": "Kava-ს სასმელი კულტურის ისტორია"
+    },
+    "moderne": {
+      "title": "მოდერნული Kava კულტურა",
+      "subtitle": "გლობალური გავრცელება დღეს"
+    },
+    "weltkarte": {
+      "title": "ინტერაქტიული მსოფლიო რუკა",
+      "subtitle": "Kava რეგიონების აღმოჩენა"
+    }
+  },
+  "navigation": {
+    "nakamal": "/de/kultur/nakamal",
+    "moderne": "/de/kultur/moderne",
+    "weltkarte": "/de/kultur/weltkarte",
+    "kontakt": "/de/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "ფლორიდაში ერთ-ერთი ყველაზე ცნობილი Kava-Bar ქსელი, რომელიც ავთენტური ატმოსფეროთი და მაღალი ხარისხის Kava სახეობებით არის წარმოდგენილი ვანუატუდან და ფიჯიდან.",
+      "specialties": [
+        "ვანუატუ ბოროგუ",
+        "ფიჯი ვაკა",
+        "Kava სმუზი"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra იყენებს უმაღლესი ხარისხის Kava-ს ვანუატუს კუნძულიდან. საუკუნეების განმავლობაში გამოიყენება ცერემონიებში.",
+      "specialties": [
+        "ვანუატუ პრემიუმი",
+        "Kava ფრენები"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "ადგილობრივი მართვის Kava-Bar, რომელიც გთავაზობთ ტრადიციულად მომზადებულ Kava-ს არჩევანს მშვიდ ატმოსფეროში.",
+      "specialties": [
+        "ტრადიციული Kava",
+        "კრატომის ჩაი"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "პრემიუმ Kava-Bar ლას ოლასის ცენტრში, წყნარი ოკეანის ატმოსფეროთი და დიდი არჩევანით Noble Kava სახეობების.",
+      "specialties": [
+        "ფიჯი ლოა ვაკა",
+        "ტონგური Kava",
+        "Kava ფრენები"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "მედირას პირველი Kava-Bar! Bula Kafe-ის მფლობელის მიერ, რომელიც პინელასში პირველი Kava-Bar იყო.",
+      "specialties": [
+        "Beach Blend",
+        "ფიჯი ვაკა"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "მშვენიერი Kava-ლაუნჯი ფიჯის საუკეთესო Kava-ს, ჰუკების, კრატომის და Kava კომედიის ორშაბათით.",
+      "specialties": [
+        "ფიჯი Kava",
+        "Kavaoke",
+        "კომედიური ღამეები"
+      ]
+    },
+    "roots-miami": {
+      "description": "ურბანული Kava-Bar ვაინვუდში, ხელოვნური გარემოთი და რეგულარული ცოცხალი მუსიკის ღონისძიებებით.",
+      "specialties": [
+        "House Blend",
+        "Kava კოქტეილები",
+        "კრატომის ჩაი"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "თანამედროვე Kava-Bar, ლაუნჯი და საცალო ადგილი მაიამიში.",
+      "specialties": [
+        "ბოტანიკური ნაზავები",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Kava Culture ფრენჩაიზის ქსელის შტაბ-ბინა, რომელიც ყველაზე დიდი Kava სახეობების არჩევანს სთავაზობს.",
+      "specialties": [
+        "პრემიუმ ვანუატუ",
+        "Kava კოქტეილები",
+        "კრატომი"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "თანამედროვე, დახვეწილი შიდა/გარე Kava-Bar ბონიტა სპრინგსში.",
+      "specialties": [
+        "ვანუატუ ქვა",
+        "ფიჯი ვაკა"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "მშვენიერი Kava-Bar კლიროტერში, რომელიც ჰეპი საათით 14-17 საათამდე.",
+      "specialties": [
+        "ჰეპი საათის სპეციალობები",
+        "Kava შოტები"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Downtown Fort Myers Kava Culture ღია მიკროფონების ღამეებით, ხელოვნებით და გემრიელი Kava კოქტეილებით.",
+      "specialties": [
+        "ღია მიკროფონის ღამეები",
+        "ხელოვნების ღონისძიებები"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture Downtown ორლანდოში მშვიდი ატმოსფეროთი.",
+      "specialties": [
+        "ვანუატუ Kava",
+        "კრატომის ნაზავები"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB ბუდას ნაზავების ვეგანური სამზარეულოთი. გარე სანაპირო ბარი, ბილიარდი, დარტსი, ღია მიკროფონები.",
+      "specialties": [
+        "სანაპიროს ატმოსფერო",
+        "ვენგანური საკვები",
+        "ცოცხალი მუსიკა"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture Key West-ში - ტროპიკული ატმოსფერო და პრემიუმ Kava.",
+      "specialties": [
+        "კუნძულური ნაზავი",
+        "ტროპიკული Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture Downtown ტამპაში ურბანული ატმოსფეროთი.",
+      "specialties": [
+        "ურბანული ნაზავი",
+        "Kava შოტები"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture სამხრეთ ტამპაში მშვიდი მეზობლური ატმოსფეროთი.",
+      "specialties": [
+        "მეზობლური ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture ნაპლსში მაღალი ხარისხის ატმოსფეროთი.",
+      "specialties": [
+        "პრემიუმ არჩევანი",
+        "Kava ფრენები"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture პორტ ჩარლოტში სანაპიროს ატმოსფეროთი, გარე სანაპირო არხზე.",
+      "specialties": [
+        "სანაპიროს ატმოსფერო",
+        "არხის ხედები"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture ესტეროში კომფორტული ადგილით.",
+      "specialties": [
+        "კომფორტული ადგილი",
+        "ხარისხიანი Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture ლეიკ მარი - მშვიდი ატმოსფერო.",
+      "specialties": [
+        "მშვენიერი ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze არის Kava-Bar ტალაჰასში, რომელიც გთავაზობთ Kava-ს, ჩაის და მშვიდ ადგილს დასვენებისთვის.",
+      "specialties": [
+        "სტუდენტური სპეციალობები",
+        "მშვენიერი ატმოსფერო"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Downtown მელბურნ FL Island Root Kava Bar.",
+      "specialties": [
+        "ტრადიციული Kava",
+        "კომუნალური ღონისძიებები"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge არის Kava-Java-Hookah-Lounge, რომელიც გთავაზობთ ყავას, ჩაის, Kava-ს, კრატომსა და ჰუკას.",
+      "specialties": [
+        "ჰუკა",
+        "Kava",
+        "კრატომი"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "ოჯახური მართვის, ყველა ორგანული ბოტანიკით და ჩაის მაქსიმალური კეთილდღეობისთვის.",
+      "specialties": [
+        "ორგანული ბოტანიკები",
+        "კეთილდღეობის ჩაი"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors არის ადგილობრივი ვეიპ მაღაზია და ლაუნჯი Kava და კრატომით.",
+      "specialties": [
+        "ვეიპ პროდუქტები",
+        "Kava",
+        "კრატომი"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge არის ადგილი შემოქმედებითი და მშვიდი ადამიანებისთვის.",
+      "specialties": [
+        "შემოქმედებითი საზოგადოება",
+        "ცოცხალი მუსიკა"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "ეთნობოტანიკური ჩაი-ბარი Kava და კრატომით.",
+      "specialties": [
+        "ეთნობოტანიკები",
+        "ჩაის ნაზავები"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, ვეიპ და eHookah პირდაპირ ტურნპიკზე. Chill, Relax და Enjoy!",
+      "specialties": [
+        "ვეიპ",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula გთავაზობთ პრემიუმ Kava-ს მშვიდ სანაპიროს ატმოსფეროში.",
+      "specialties": [
+        "სანაპიროს ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava Social არის სოციალური ადგილი Kava-ს, ჩაის და საზოგადოებრივი ღონისძიებებისათვის.",
+      "specialties": [
+        "სოციალური ღონისძიებები",
+        "Kava",
+        "ჩაი"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava გთავაზობთ ავთენტურ Kava-ს უნივერსიტეტის ქალაქ Gainesville-ში.",
+      "specialties": [
+        "უნივერსიტეტის ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Peaceful Warrior Kava Bar ჯექსონვილში, რომელიც ორიენტირებულია კეთილდღეობაზე და დასვენებაზე.",
+      "specialties": [
+        "კეთილდღეობა",
+        "ტრადიციული Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe გთავაზობთ Kava-ს და სულიერ საზოგადოებრივ ატმოსფეროს.",
+      "specialties": [
+        "სულიერი საზოგადოება",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "The Kava Tap პენსაკოლაში - მშვიდი ბარის ატმოსფერო Kava-ს მილისგან.",
+      "specialties": [
+        "Draft Kava",
+        "ბარის ატმოსფერო"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava ოკალაში გთავაზობთ პრემიუმ Kava-ს ცენტრალური ფლორიდისთვის.",
+      "specialties": [
+        "ცენტრალური ფლორიდა",
+        "პრემიუმ Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe ორლანდოში მოაქვს წყნარი ატმოსფერო ცენტრალურ ფლორიდაში.",
+      "specialties": [
+        "წყნარი ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Purple Lotus Kava Bar ფენიქსში - არიზონას პრემიერი Kava დანიშნულება.",
+      "specialties": [
+        "არიზონას პირველი",
+        "პრემიუმ Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Kava Culture ტემპეში, არიზონა - იდეალური ASU სტუდენტებისთვის.",
+      "specialties": [
+        "სტუდენტებისთვის მეგობრული",
+        "პრემიუმ Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "The Root ტუსონში გთავაზობთ ავთენტურ Kava-ს და კრატომს.",
+      "specialties": [
+        "ავთენტური Kava",
+        "კრატომი"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "Bula Kava House სან დიეგოში მშვიდი სანაპიროს ატმოსფეროთი.",
+      "specialties": [
+        "სანაპიროს ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "Kava Roots სან ფრანცისკოში - ბეი არეას პირველი Kava-Bar.",
+      "specialties": [
+        "ბეი არეას პირველი",
+        "პრემიუმ Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava ლოს ანჯელესში მოაქვს პრემიუმ Kava ჰოლივუდში.",
+      "specialties": [
+        "ჰოლივუდის ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "ალკოჰოლური, ყველა ასაკისთვის მისაღები, ბოტანიკური ლაუნჯი ელიქსირებით, ეგზოტიკით და ნედლეული.",
+      "specialties": [
+        "ბოტანიკური ელიქსირები",
+        "ნედლეული",
+        "ყველა ასაკისთვის"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "მომსახურებს საუკეთესო ტრადიციულად მომზადებულ Kava-ს მხიარულ და სოციალურ ატმოსფეროში. ინოვაციური იდეა Chill-პუნქტისათვის!",
+      "specialties": [
+        "ტრადიციული მომზადება",
+        "Kava განათლება"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "აფთიაქი, ჩაიბაღი, ხელოვნების გალერეა და მუსიკალური ღონისძიების ადგილი სამხრეთ ორეგონის გულში! იმპორტირებს Kava-ს დიდი კუნძულიდან ჰავაიდან.",
+      "specialties": [
+        "Kava კომბუჩა",
+        "ხელოვნების გალერეა",
+        "მუსიკალური ადგილი"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "ოსტინის პოპულარული Kava-Bar მშვიდი ატმოსფეროთი, თამაშებით და საზოგადოებრივი ღონისძიებებით.",
+      "specialties": [
+        "Kava ფრენები",
+        "კრატომის ნაზავები",
+        "კომბუჩა"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture ლუისვილში, ტეხასში.",
+      "specialties": [
+        "პრემიუმ Kava",
+        "ტეხასის ატმოსფერო"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture ჩრდილოეთ ფორტ უორთში.",
+      "specialties": [
+        "პრემიუმ Kava",
+        "კომფორტული ადგილი"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - ახლა ღია ოჰაიოში.",
+      "specialties": [
+        "პრემიუმ Kava",
+        "მიდვესტის ატმოსფერო"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture ტოლედოში, ოჰაიოში.",
+      "specialties": [
+        "პრემიუმ Kava",
+        "ოჰაიოს ადგილი"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "სოლტ ლეიკ სიტის პირველი Kava-Bar პრემიუმ Kava-ს არჩევით და მეგობრული საზოგადოებით.",
+      "specialties": [
+        "ვანუატუ Kava",
+        "Kava ცერემონიები"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Kava არის ფესვი სამხრეთ წყნარი ოკეანიდან. როგორც ცერემონიული სასმელი დასვენებისა და დამშვიდებისთვის.",
+      "specialties": [
+        "NYC ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra არის ამერიკის საუკეთესო Kava-Bar პრემიუმ Kava-ს და სხვა ბოტანიკებისათვის.",
+      "specialties": [
+        "პრემიუმ Kava",
+        "ბოტანიკური ნაზავები"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia არის Kava-Bar, რომელიც სპეციალიზირებულია Kava-ს ინფუზირებულ სასმელებზე და ნედლ დესერტებზე, ასევე ბონსაი მცენარეებზე.",
+      "specialties": [
+        "ნედლი დესერტები",
+        "ბონსაი მცენარეები",
+        "Kava სასმელები"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "სრული ხაზი ბოტანიკური და Kava პროდუქტების, წვენების ბარი, თამბაქო, ჰუკა, ვეიპ პროდუქტები - ყველაფერი ერთ სახურავზე.",
+      "specialties": [
+        "ბოტანიკური პროდუქტები",
+        "წვენების ბარი"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "პირველი Kava-Bar მისურიში! მოდით და ნახეთ, რა ხდება. 7 დღე კვირაში ღია.",
+      "specialties": [
+        "მისურის პირველი",
+        "ტრადიციული Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar კარერბოროში, ჩრდილოეთ კაროლინაში.",
+      "specialties": [
+        "პრემიუმ Kava",
+        "კოლეჯის ქალაქის ატმოსფერო"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar უილმინგტონში, ჩრდილოეთ კაროლინაში.",
+      "specialties": [
+        "კოსტალური ატმოსფერო",
+        "პრემიუმ Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision არის უნიკალური თანა-სამუშაო სივრცე და კაფე სპეციალობით Kava & კრატომით.",
+      "specialties": [
+        "თანა-სამუშაო სივრცე",
+        "Kava & კრატომი"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "ჯანმრთელი საკვები ჯანმრთელი სხეულისათვის და Kava! ალასკის Kava დანიშნულება.",
+      "specialties": [
+        "Acai თასები",
+        "სმუზი",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture სპარტანბურგში, სამხრეთ კაროლინაში.",
+      "specialties": [
+        "პრემიუმ Kava",
+        "სამხრეთის სტუმართმოყვარეობა"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "ავსტრალიის პირველი სპეციალიზებული Kava-ლაუნჯი ავთენტური ფიჯიური Kava-ს და წყნარი ოკეანის სტუმართმოყვარეობით.",
+      "specialties": [
+        "ფიჯი ვაკა",
+        "ვანუატუ Kava",
+        "ტრადიციული ცერემონია"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "მელბურნის Kava-Bar პასიფიკ მარკეტში Kava და კრატომის არჩევით.",
+      "specialties": [
+        "ფიჯი Kava",
+        "ტონგური Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "ბრისბანის ავთენტური Kava-Bar ფიჯიური დეკორით და ტრადიციული მომზადებით.",
+      "specialties": [
+        "ფიჯი ვაკა",
+        "Kava ცერემონიები"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "აუკლანდის სპეციალიზებული Kava-ლაუნჯი ვიქტორია პარკ მარკეტში, თბილი, მისასალმებელი საზოგადოებით და Noble Kava-ით მთელი წყნარი ოკეანიდან.",
+      "specialties": [
+        "ტონგური Kava",
+        "ფიჯი ვაკა",
+        "ვანუატუ Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "ავთენტური Kava-Bar სამხრეთ აუკლანდში ხელმისაწვდომი ფასებით და Kava-ს ფხვნილის ფართო არჩევანით.",
+      "specialties": [
+        "ტონგური Kava",
+        "ფიჯი Kava",
+        "Kava ფხვნილის გაყიდვები"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "ბერლინის პირველი Kava-ლაუნჯი კრიუზბერგში მშვიდი ატმოსფეროთი და რეგულარული Kava ცერემონიებით.",
+      "specialties": [
+        "ვანუატუ Kava",
+        "Kava ცერემონიები"
+      ]
+    },
+    "kava-club-london": {
+      "description": "ლონდონის პირველი Kava-კლუბი შორდიჩში ურბანული გარემოთი და პრემიუმ Kava-ს არჩევით.",
+      "specialties": [
+        "ფიჯი პრემიუმი",
+        "Kava კოქტეილები"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "ვენკუვერის კომფორტული Kava-კაფე Kava და ჯანმრთელი საკვების არჩევით.",
+      "specialties": [
+        "ვანუატუ Kava",
+        "Kava სმუზი თასები"
+      ]
+    }
+  }
+}

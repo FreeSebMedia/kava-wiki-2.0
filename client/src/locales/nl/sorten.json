@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Soorten & Cultivars",
+    "subtitle": "Een uitgebreide gids door de wereld van Kava-soorten: Van Borogu tot Pouni Ono, van Heady tot Heavy.",
+    "category": "Soorten",
+    "breadcrumb": {
+      "home": "Startpagina",
+      "current": "Soorten"
+    }
+  },
+  "toc": {
+    "title": "Inhoud",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Inleiding",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "De drie werktypes",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Teeltgebieden",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Welke soort past bij mij?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Verdiepende artikelen",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Er zijn vandaag de dag <strong>meer dan 100 gedocumenteerde Kava-soorten</strong>, die zich in oorsprong, chemotype en effect soms aanzienlijk onderscheiden. Alleen al in Vanuatu, de veronderstelde oorsprong van de plant, zijn meer dan 80 verschillende cultivars bekend. Deze diversiteit is het resultaat van meer dan 3.000 jaar gerichte selectie door Pacific culturen.",
+      "text": "De verschillen tussen de soorten zijn niet alleen van academische aard – ze bepalen in belangrijke mate welk effect een Kava-drankje heeft. Een <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai uit Vanuatu</a> werkt totaal anders dan een <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka uit Fiji</a>. Het begrijpen van deze verschillen is de sleutel tot een bewuste en bevredigende Kava-ervaring."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "De belangrijkste onderscheid dat elke Kava-gebruiker moet kennen, is dat tussen <strong>Noble Kava</strong> (Edelkava) en <strong>Tudei Kava</strong>. Deze classificatie is door de regering van Vanuatu ingevoerd en is gebaseerd op het <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotype</a> van de betreffende soort.",
+      "noble": {
+        "title": "Noble Kava (Edelkava)",
+        "items": [
+          "Gedurende eeuwen geselecteerd voor aangenaam effect",
+          "Chemotype begint met <strong>2</strong> of <strong>4</strong>, nooit met 5 of 6",
+          "Effect intrede: 10-20 minuten",
+          "Effectduur: 3-6 uur, klinkt schoon af",
+          "Geen \"kater\" de volgende dag",
+          "Veilig voor regelmatig gebruik"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Two-Day)",
+        "items": [
+          "Chemotype begint met <strong>5</strong> of <strong>6</strong> (DHM-dominant)",
+          "Effect intrede: 30-90 minuten (vertraagd)",
+          "Effect houdt extreem lang aan (tot 2 dagen)",
+          "Veroorzaakt vaak misselijkheid en lethargie",
+          "\"Kater\"-gevoel de volgende dag",
+          "In Vanuatu verboden voor export"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Let bij de aankoop op dat de verkoper het chemotype en de exacte soort vermeldt. Deze transparantie is een goed teken voor authentieke Noble Kava.",
+      "linkText": "Meer over Noble vs. Tudei leren"
+    },
+    "wirktypen": {
+      "title": "De drie werktypes",
+      "intro": "Noble Kava-soorten worden ingedeeld naar hun dominante effect in drie categorieën. Deze indeling is gebaseerd op het <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotype</a> – dus de relatieve concentratie van de zes belangrijkste <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactonen</a>.",
+      "heady": {
+        "title": "Heady",
+        "description": "Hoofdfocus effect: Euforie, mentale helderheid, gezelligheid. Ideaal voor de dag en sociale gelegenheden.",
+        "chemotype": "Begint vaak met 4 (Kavain) of 2 (DHK)",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Stemming & Sociaal"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Evenwichtig effect: Ontspanning zonder vermoeidheid, mentale rust met lichamelijk welzijn.",
+        "chemotype": "Evenwichtige verhouding van 4, 2 en 3",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Angstverlichting"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Lichaamsgericht effect: Diepe spierontspanning, sedatie, ideaal voor de avond en om te slapen.",
+        "chemotype": "Hoge DHK-aandeel (2) op positie 1-2",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Slaap & Ontspanning"
+      },
+      "calculatorLink": "Chemotype-rekenaar: Analyseer elk chemotype"
+    },
+    "regionen": {
+      "title": "Teeltgebieden in overzicht",
+      "intro": "Kava wordt tegenwoordig in verschillende regio's van de Stille Oceaan verbouwd. Elke regio heeft zijn eigen soorten ontwikkeld, die zijn aangepast aan het lokale klimaat en de culturele voorkeuren.",
+      "tableHeaders": {
+        "region": "Regio",
+        "count": "Aantal soorten",
+        "localName": "Lokale naam",
+        "varieties": "Bekende soorten",
+        "characteristics": "Kenmerken"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "Grootste diversiteit, oorsprongsregio"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Vaak zwaarder, goede verwerking"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Allemaal Noble, eerder heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Zeer potent, duur"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Traditioneel, ceremonieel"
+        },
+        {
+          "region": "Papoea-Nieuw-Guinea",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Enige Noble-soort"
+        }
+      ],
+      "vanuatuLink": "Soorten uit Vanuatu",
+      "pazifikLink": "Soorten uit Fiji, Tonga & Hawaii"
+    },
+    "auswahl": {
+      "title": "Welke soort past bij mij?",
+      "intro": "De keuze van de juiste Kava-soort hangt af van uw gewenste effect en het tijdstip van de dag. Hier een richtlijn:",
+      "recommendations": [
+        {
+          "purpose": "Voor sociale gelegenheden",
+          "type": "Heady",
+          "description": "Kies een <strong>Heady</strong> Kava:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Tegen stress & angst",
+          "type": "Balanced",
+          "description": "Kies een <strong>Balanced</strong> Kava:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Voor spierontspanning",
+          "type": "Heavy",
+          "description": "Kies een <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Om in slaap te vallen",
+          "type": "Heavy",
+          "description": "Kies een <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Begin met een <strong>Balanced</strong> Kava zoals Melo Melo of Borogu. Deze soorten bieden een aangename, evenwichtige ervaring zonder extreme effecten in één richting.",
+      "tipLabel": "Tip voor beginners:"
+    },
+    "unterseiten": {
+      "title": "Verdiepende artikelen",
+      "intro": "Verken de verschillende aspecten van Kava-soorten in onze gespecialiseerde subpagina's:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "De belangrijkste onderscheid: Waarom Noble Kava veilig is en Tudei vermeden zou moeten worden.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Soorten uit Vanuatu",
+      "description": "Meer dan 80 soorten uit het thuisland van Kava: Borogu, Melo Melo, Kelai, Palasa en meer.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Soorten uit Fiji, Tonga & Hawaii",
+      "description": "Regionale specialiteiten: Loa Waka, Pouni Ono, 'Awa Moi en hun unieke eigenschappen.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Soortenprofielen in detail",
+      "description": "Gedetailleerde profielen van de belangrijkste soorten met chemotypes, effecten en aanbevelingen.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Terug",
+      "title": "Inhoudsstoffen"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Verder",
+      "title": "Bereiding"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "მრავალფეროვნების შედარება",
+    "subtitle": "შედარეთ ორი Kava-სორტი პირდაპირ გვერდიგვერდ"
+  },
+  "breadcrumbs": {
+    "home": "მთავარი",
+    "sorten": "მრავალფეროვნება",
+    "current": "შედარება"
+  },
+  "ui": {
+    "selectVariety": "მრავალფეროვნების არჩევა...",
+    "firstVariety": "პირველი მრავალფეროვნება",
+    "secondVariety": "მეორე მრავალფეროვნება",
+    "toProfile": "მრავალფეროვნების პროფილზე",
+    "potency": "პოტენცია",
+    "badgeInfo": "ბadge-ები <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> აჩვენებს სხვაობას სხვა მრავალფეროვნებასთან"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Balanced",
+    "heavy": "Heavy"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "ეფექტების პროფილის შედარება"
+    },
+    "basicInfo": {
+      "title": "ბაზური ინფორმაცია"
+    },
+    "dosage": {
+      "title": "რეკომენდებული დოზა"
+    },
+    "applications": {
+      "title": "გამოყენების სფეროები"
+    },
+    "usageTimes": {
+      "title": "გამოყენების დროები"
+    },
+    "kavalactones": {
+      "title": "Kavalactone-ის პროფილი"
+    },
+    "notes": {
+      "title": "შენიშვნები"
+    }
+  },
+  "effects": {
+    "euphoria": "ეუფორია",
+    "relaxation": "მშვიდობა",
+    "sedation": "სედაცია",
+    "clarity": "სწორადობა",
+    "sociability": "სოციალურობა",
+    "anxiolysis": "ანგსტის შემცირება"
+  },
+  "info": {
+    "chemotype": "ქიმოტიპი",
+    "duration": "ეფექტის ხანგრძლივობა",
+    "availability": "ხელმისაწვდომობა",
+    "price": "ფასი"
+  },
+  "dosageLabels": {
+    "beginner": "დაწყებითი",
+    "regular": "რეგულარული",
+    "experienced": "გამოცდილი"
+  },
+  "kavalactoneLabels": {
+    "kavain": "კავაინი",
+    "dhk": "DHK",
+    "methysticin": "მეთისტიცინი",
+    "dhm": "DHM",
+    "yangonin": "იანგონინი",
+    "desmethoxyyangonin": "დესმეთოქსიანგონინი"
+  },
+  "empty": {
+    "title": "შეარჩიეთ ორი მრავალფეროვნება შედარებისთვის",
+    "description": "გამოიყენეთ ზემოთ არსებული ჩამოსაშლელი მენიუები, რათა შეარჩიოთ ორი Kava-სორტი და მათი მახასიათებლების, ეფექტების და რეკომენდაციების პირდაპირ შედარება.",
+    "tips": {
+      "title": "შედარების რჩევები",
+      "items": [
+        "შედარეთ ერთი კატეგორიის მრავალფეროვნებები მსგავსი ეფექტური პროფილებისთვის",
+        "შედარეთ Heady და Heavy საპირისპირო გამოცდილებისთვის",
+        "ყურადღება მიაქციეთ ქიმოტიპის განსხვავებებს სამეცნიერო ხედვისთვის"
+      ]
+    },
+    "quickSelections": "სწრაფი არჩევანი",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "ვანუატუს კლასიკა",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "დაწყებითი რეკომენდაცია",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

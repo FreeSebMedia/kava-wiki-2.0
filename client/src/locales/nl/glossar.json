@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Glossarium",
+    "title": "Kava-Glossarium",
+    "subtitle": "Meer dan 50 vaktermen rond Kava – van Kavalactonen tot de Kava-ceremonie"
+  },
+  "intro": "Dit glossarium legt de belangrijkste termen rond Kava uit. Van chemische verbindingen tot bereidingsmethoden en culturele tradities – hier vind je alle vaktermen begrijpelijk uitgelegd.",
+  "search": {
+    "placeholder": "Zoekterm...",
+    "noResults": "Geen termen gevonden voor",
+    "clearSearch": "Zoekopdracht wissen",
+    "resultsCount": "{{count}} term(en) gevonden"
+  },
+  "categories": {
+    "chemie": "Chemie & Ingrediënten",
+    "wirkung": "Effecten & Werking",
+    "kultur": "Cultuur & Traditie",
+    "sorten": "Soorten & Variëteiten",
+    "zubereitung": "Bereiding",
+    "sicherheit": "Veiligheid"
+  },
+  "toc": {
+    "uebersicht": "Overzicht",
+    "suche": "Zoeken",
+    "chemie": "Chemie & Ingrediënten",
+    "wirkung": "Effecten & Werking",
+    "sorten": "Soorten & Variëteiten",
+    "zubereitung": "Bereiding",
+    "kultur": "Cultuur & Traditie",
+    "sicherheit": "Veiligheid"
+  },
+  "ui": {
+    "relatedTerms": "Gerelateerde termen",
+    "relatedLinks": "Meer leren",
+    "backToTop": "Naar boven",
+    "showMore": "Meer weergeven",
+    "showLess": "Minder weergeven"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalactone",
+      "shortDefinition": "De psychoactieve stoffen in Kava",
+      "fullExplanation": "Kavalactonen zijn een groep van 18 lactonen die verantwoordelijk zijn voor de psychoactieve effecten van Kava. De **zes belangrijkste Kavalactonen** maken ongeveer 96% van de totale inhoud uit: Desmethoxyyangonin (DMY), Dihydrokavain (DHK), Yangonin (Y), Kavain (K), Dihydromethysticin (DHM) en Methysticin (M). Elke Kavalacton heeft een eigen werkingsprofiel – van angstverlichtend tot spierverslappend en sedatief. De totale inhoud in de wortel ligt typisch tussen 3-20%.",
+      "relatedTerms": [
+        "Chemotyp",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "De 6 belangrijkste Kavalactonen",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Chemotyp-systeem",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Chemotyp",
+      "shortDefinition": "Het chemische profiel van een Kava-soort",
+      "fullExplanation": "De chemotyp is een **6-cijferige code** die de volgorde van de zes belangrijkste Kavalactonen op basis van concentratie aangeeft. Elke Kavalacton heeft een nummer: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. Een chemotyp zoals \"426315\" betekent: Kavain (4) is het hoogst geconcentreerd, gevolgd door DHK (2), enzovoort. De chemotyp bepaalt in belangrijke mate de werking van een soort – of deze meer \"heady\" (hoofdgericht, euforisch) of \"heavy\" (lichamelijk, sedatief) is.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Chemotyp-rekenaar",
+          "href": "/de/inhaltsstoffe/rechner"
+        },
+        {
+          "label": "Het Chemotyp-systeem",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "De belangrijkste Kavalacton voor de angstverlichtende werking",
+      "fullExplanation": "Kavain (nummer 4 in het chemotyp-systeem) is de best onderzochte Kavalacton en wordt beschouwd als de **hoofdverantwoordelijke voor de anxiolytische (angstverlichtende) werking**. Het werkt op GABA-receptoren, dopamine- en noradrenaline-transporters. Soorten met een hoog Kavain-gehalte (4 op de eerste of tweede plaats in de chemotyp) worden als bijzonder hoogwaardig beschouwd en worden als \"heady\" aangeduid. Kavain heeft ook neuroprotectieve eigenschappen.",
+      "relatedTerms": [
+        "Kavalactone",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonen in detail",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Angstverlichtende werking",
+          "href": "/de/wirkung/angst"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "De Kavalacton voor spierontspanning",
+      "fullExplanation": "Dihydrokavain (DHK, nummer 2 in het chemotyp-systeem) is de **sterkste spierverslappende Kavalacton**. Het werkt op spanningsgestuurde natriumkanalen en heeft lokale anesthetische eigenschappen – vandaar het typische gevoelloze gevoel in de mond na het drinken. DHK is ook verantwoordelijk voor de lichamelijke ontspanning. Soorten met een hoog DHK-gehalte (2 op de eerste plaats) worden vaak als \"heavy\" geclassificeerd.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heavy",
+        "Spierontspanning"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Spierontspanning",
+          "href": "/de/wirkung/muskel"
+        },
+        {
+          "label": "Kavalactonen in detail",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Sterk sedatieve Kavalacton, dominant in Tudei",
+      "fullExplanation": "Dihydromethysticin (DHM, nummer 5 in het chemotyp-systeem) is een **sterk sedatieve Kavalacton**. In hoge concentraties (5 op de eerste plaats) is het typisch voor Tudei-Kava en kan het leiden tot langdurige bijwerkingen. In Noble Kava is DHM in gematigde hoeveelheden aanwezig en draagt het bij aan de ontspannende werking. DHM heeft een langere halfwaardetijd dan Kavain, waardoor Tudei-effecten tot twee dagen kunnen aanhouden.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "Kavalacton met CB1-receptor-affiniteit",
+      "fullExplanation": "Yangonin (Y, nummer 3 in het chemotyp-systeem) is een unieke Kavalacton die een **affiniteit voor CB1-cannabinoïde-receptoren** vertoont. Dit zou kunnen bijdragen aan de stemmingsverhogende en licht euforische effecten van Kava. Yangonin is ook verantwoordelijk voor de gele kleur van Kava-extracten. Het heeft ontstekingsremmende eigenschappen en wordt onderzocht op zijn therapeutische potentieel.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonen in detail",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Stemmingsverhogende Kavalacton",
+      "fullExplanation": "Desmethoxyyangonin (DMY, nummer 1 in het chemotyp-systeem) is een **stemmingsverhogende Kavalacton** met MAO-B-remmende eigenschappen. Het kan de dopamine-beschikbaarheid in de hersenen verhogen, wat bijdraagt aan zijn euforische effecten. DMY is ook mede verantwoordelijk voor de antidepressieve werking van Kava. In combinatie met Kavain versterkt het de \"heady\" eigenschappen van een soort.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonen in detail",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Sedatieve Kavalacton met lange werkingsduur",
+      "fullExplanation": "Methysticin (M, nummer 6 in het chemotyp-systeem) is een **sedatieve Kavalacton** met relatief lange werkingsduur. Het draagt bij aan lichamelijke ontspanning en slaapbevordering. Methysticin heeft ook anticonvulsieve (krampstillende) eigenschappen. In de meeste Noble-soorten is Methysticin in gematigde hoeveelheden aanwezig en aanvult de werking van de andere Kavalactonen.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonen in detail",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "De wetenschappelijke naam voor Kava",
+      "fullExplanation": "Piper methysticum is de **wetenschappelijke (Latijnse) naam** voor de Kava-plant. De naam betekent letterlijk \"bedwelmende peper\" (van het Grieks \"methystikos\" = bedwelmend). De plant behoort tot de **familie van de peperplanten (Piperaceae)** en is nauw verwant aan de zwarte peper. Kava is een steriele cultuurplant die alleen vegetatief kan worden vermeerderd – een aanwijzing voor de duizenden jaren oude domesticatie door de mens.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botanie"
+      ],
+      "relatedLinks": [
+        {
+          "label": "De plant",
+          "href": "/de/botanik/pflanze"
+        },
+        {
+          "label": "Botanie Overzicht",
+          "href": "/de/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Wilde voorouder van de Kava-plant",
+      "fullExplanation": "Piper wichmannii is de **wilde voorouder** van Piper methysticum. Deze wilde soort komt voor in Papoea-Nieuw-Guinea en de Salomonseilanden en kan zich seksueel voortplanten (in tegenstelling tot de steriele cultuurvorm). Wetenschappers geloven dat Kava ongeveer 3.000 jaar geleden uit Piper wichmannii is **gedomesticeerd**. Wilde Kava bevat vaak hogere hoeveelheden ongewenste verbindingen en wordt niet aanbevolen voor consumptie.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Geschiedenis",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkonen",
+      "shortDefinition": "Flavonoïde verbindingen in Kava",
+      "fullExplanation": "Chalkonen zijn een klasse van **flavonoïde verbindingen** die in Kava voorkomen. De belangrijkste zijn Flavokavain A, B en C. Terwijl Flavokavain A en C als relatief onschadelijk worden beschouwd, wordt **Flavokavain B (FKB)** in verband gebracht met potentiële lebertoxiteit. Chalkonen komen voornamelijk voor in de bovengrondse plantendelen en in Tudei-soorten. Noble Kava uit de wortel bevat slechts geringe hoeveelheden.",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Veiligheid",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Extractie",
+      "shortDefinition": "Proces van Kavalacton-extractie",
+      "fullExplanation": "Extractie verwijst naar het proces waarbij **Kavalactonen uit het plantmateriaal worden opgelost**. Bij de traditionele bereiding gebeurt dit door te kneden in water – Kavalactonen zijn vetoplosbaar en worden geëxtraheerd door mechanische kracht en emulsificatie. Industriële extracten gebruiken vaak oplosmiddelen zoals ethanol of aceton. **Wassige extracten** worden als veiliger beschouwd, omdat ze minder ongewenste verbindingen bevatten.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Kneedmethode"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bereiding",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobuttersäure",
+      "shortDefinition": "De belangrijkste remmende neurotransmitter",
+      "fullExplanation": "GABA (Gamma-Aminobuttersäure) is de **belangrijkste remmende neurotransmitter** in het centrale zenuwstelsel. Het vermindert de neuronale prikkelbaarheid en heeft een kalmerend, angstverlichtend en slaapbevorderend effect. Kavalactonen – met name Kavain en DHK – moduleren GABA-receptoren, maar op een **andere manier dan benzodiazepinen**. Dit verklaart waarom Kava ontspant zonder de typische bijwerkingen van slaapmiddelen (geen afhankelijkheid, geen cognitieve beperking).",
+      "relatedTerms": [
+        "Kavalactone",
+        "Kavain",
+        "Anxiolyse"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Angstverlichtende werking",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Wetenschappelijke studies",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Reverse Tolerance",
+      "germanTerm": "Omgekeerde Tolerantie",
+      "shortDefinition": "Fenomeen waarbij Kava na verloop van tijd sterker werkt",
+      "fullExplanation": "Reverse Tolerance is een **uniek fenomeen bij Kava**: In tegenstelling tot de meeste psychoactieve stoffen, waarbij je na verloop van tijd meer nodig hebt voor hetzelfde effect, is het bij Kava **omgekeerd**. Veel nieuwkomers voelen de eerste keer weinig of niets. Na meerdere sessies (typisch 3-7 dagen regelmatig gebruik) \"opent\" het lichaam zich voor Kavalactonen, en de werking wordt aanzienlijk sterker. De exacte mechanismen zijn nog niet volledig begrepen, maar kunnen verband houden met de ophoping van Kavalactonen in vetweefsel of een sensibilisering van de receptoren.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Dosering"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cognitieve effecten",
+          "href": "/de/wirkung/kognition"
+        },
+        {
+          "label": "Dosering calculator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxiolyse",
+      "germanTerm": "Angstoplossing",
+      "shortDefinition": "De angstverlichtende werking van Kava",
+      "fullExplanation": "Anxiolyse verwijst naar de **angstverlichtende werking** van een stof. Kava is een van de weinige plantaardige stoffen met **Level-1-evidentie** voor anxiolytische werking (Cochrane Review). De anxiolytische werking vindt voornamelijk plaats door modulatie van GABA-receptoren en beïnvloeding van het limbisch systeem. In tegenstelling tot benzodiazepinen veroorzaakt Kava daarbij **geen cognitieve beperking, geen afhankelijkheid en geen sedatie** in lage tot gemiddelde doses.",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Angstverlichtende werking",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Wetenschappelijke studies",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Staat van diepe Kava-ontspanning",
+      "fullExplanation": "\"Krunk\" is een informele term in de Kava-gemeenschap voor de staat van **diepe ontspanning en welzijn** na het consumeren van een voldoende hoeveelheid Kava. De term is mogelijk afgeleid van \"drunk\", beschrijft echter een andere staat: **heldere geest bij ontspannen lichaam**. Typische tekenen zijn een gevoel van vrede, spierontspanning, lichte euforie en sociale openheid – zonder de nadelen van alcohol.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Effect",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Spierontspanning",
+      "shortDefinition": "Lichamelijke ontspanningseffect van Kava",
+      "fullExplanation": "De **spierverslappende werking** van Kava is een van de meest merkbare effecten. Het wordt voornamelijk gemedieerd door DHK (Dihydrokavain), dat werkt op natriumkanalen in spiercellen. Deze ontspanning is **niet geassocieerd met zwakte of coördinatieproblemen** – je voelt je ontspannen, maar niet benadeeld. Kava wordt daarom gewaardeerd bij spanningen, stressgerelateerde spierproblemen en als een natuurlijke alternatieve voor spierverslappers.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Spierontspanning",
+          "href": "/de/wirkung/muskel"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Euforie",
+      "shortDefinition": "Verhoogde stemming door Kava",
+      "fullExplanation": "Kava kan een **lichte tot gematigde euforie** opwekken, vooral bij Heady-soorten met een hoog Kavain-gehalte. Deze euforie verschilt van die door alcohol of andere stoffen: het is **helder, sociaal en niet ontremd**. De stemmingsverhoging wordt gemedieerd door de werking van Kavain en DMY op dopamine- en serotoninesystemen. Heady-soorten zoals Kelai, Moi en Pouni Ono zijn bekend om hun euforische eigenschappen.",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Sedatie",
+      "shortDefinition": "Kalmerende, slaapbevorderende werking",
+      "fullExplanation": "Sedatie verwijst naar de **kalmerende en slaapbevorderende werking** van Kava, die vooral uitgesproken is bij Heavy-soorten. Het wordt voornamelijk gemedieerd door DHM, DHK en Methysticin. In lage tot gemiddelde doses is Kava **niet sedatief** en behoudt het de mentale helderheid. In hogere doses of bij Heavy-soorten kan echter een duidelijke vermoeidheid optreden. Dit maakt Kava tot een natuurlijke optie bij slaapproblemen.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Slaap"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Slaap & Ontspanning",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotectief",
+      "shortDefinition": "Beschermende werking op zenuwcellen",
+      "fullExplanation": "Neuroprotectieve eigenschappen verwijzen naar de **capaciteit om zenuwcellen tegen schade te beschermen**. Studies tonen aan dat Kavain en andere Kavalactonen neuroprotectieve effecten kunnen hebben – ze beschermen neuronen tegen oxidatieve stress en excitotoxiciteit. Dit zou Kava tot een interessant onderzoeksobject voor neurodegeneratieve ziekten kunnen maken. De neuroprotectieve eigenschappen dragen ook bij aan het feit dat Kava de cognitieve functie niet beïnvloedt.",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Wetenschappelijke studies",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgesie",
+      "germanTerm": "Pijnverlichting",
+      "shortDefinition": "Pijnstillende werking van Kava",
+      "fullExplanation": "Analgesie verwijst naar de **pijnstillende werking** van een stof. Kava heeft milde analgetische eigenschappen, die voornamelijk door DHK worden gemedieerd. De lokale anesthetische werking (gevoelloosheid in de mond) is een direct bewijs voor deze eigenschap. Kava wordt traditioneel gebruikt bij **hoofdpijn, tandpijn en spierpijn**. De pijnverlichting is echter mild en vervangt geen medische behandeling bij ernstige pijn.",
+      "relatedTerms": [
+        "DHK",
+        "Spierontspanning"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Effect",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava-Dermopathie",
+      "germanTerm": "Kava-Huiduitslag",
+      "shortDefinition": "Huidverandering bij overmatig gebruik",
+      "fullExplanation": "Kava-Dermopathie is een **reversibele huidverandering** die kan optreden bij zeer hoge, langdurige Kava-consumptie. Het manifesteert zich als droge, schilferige huid met een gelige tint, vooral op handpalmen, voetzolen en onderarmen. De oorzaak is waarschijnlijk een **stoornis in de cholesterolstofwisseling** in de huid. De dermopathie verdwijnt volledig na vermindering of beëindiging van de consumptie en is geen teken van leverschade.",
+      "relatedTerms": [
+        "Veiligheid",
+        "Dosering"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Veiligheid",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Edele Kava",
+      "shortDefinition": "Hoogwaardige, traditioneel geconsumeerde Kava-soorten",
+      "fullExplanation": "Noble Kava verwijst naar **gekweekte Kava-soorten** die al eeuwenlang voor dagelijks gebruik zijn gekweekt. Ze kenmerken zich door een **evenwichtig Kavalacton-profiel**, met een hoog Kavain-gehalte en een laag gehalte aan ongewenste verbindingen zoals Flavokavain B (FKB). Noble-soorten hebben typisch 4 of 2 op de eerste twee plaatsen van de chemotypen. Ze worden als veilig beschouwd voor regelmatig gebruik en zijn de enige soorten die legaal vanuit Vanuatu mogen worden geëxporteerd.",
+      "relatedTerms": [
+        "Tudei",
+        "Chemotyp",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "Twee-dagen-Kava",
+      "shortDefinition": "Wilde of inferieure Kava-soorten",
+      "fullExplanation": "Tudei (van \"two day\") verwijst naar **wilde of inferieure Kava-soorten**, waarvan de werking en bijwerkingen tot twee dagen kunnen aanhouden. Ze bevatten hoge hoeveelheden **Flavokavain B (FKB)** en **Dihydromethysticin (DHM)**, die in verband worden gebracht met misselijkheid, hoofdpijn en mogelijk lebertoxiteit. Tudei-soorten hebben typisch 5 (DHM) op de eerste plaats van de chemotypen. In Vanuatu is de export van Tudei-Kava **verboden**. Betrouwbare verkopers verkopen uitsluitend Noble Kava.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Veiligheid",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Hoofdgericht",
+      "shortDefinition": "Kava-soorten met euforische, cerebrale werking",
+      "fullExplanation": "\"Heady\" beschrijft Kava-soorten waarvan de werking **primair cerebraal en euforisch** is. Deze soorten hebben typisch **Kavain (4) op de eerste of tweede plaats** van de chemotypen. Heady Kavas bevorderen gezelschap, tillen de stemming op en kunnen licht euforisch werken, zonder sterk te sederen. Ze zijn bijzonder geschikt voor sociale gelegenheden, creatief werk of de middag. Bekende Heady-soorten zijn Kelai, Moi, Pouni Ono en Silese.",
+      "relatedTerms": [
+        "Heavy",
+        "Balanced",
+        "Kavain",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Soortenvergelijking",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Lichaamsgericht",
+      "shortDefinition": "Kava-soorten met sterk sedatieve, lichamelijke werking",
+      "fullExplanation": "\"Heavy\" beschrijft Kava-soorten waarvan de werking **primair lichamelijk en sedatief** is. Deze soorten hebben typisch **DHK (2) of DHM (5) op de eerste plaats** van de chemotypen. Heavy Kavas ontspannen de spieren sterk, bevorderen de slaap en kunnen zeer sedatief werken. Ze zijn bijzonder geschikt voor de avond, bij slaapproblemen of voor diepe ontspanning. Bekende Heavy-soorten zijn Loa Waka, Hiwa, Palasa en Palarasul.",
+      "relatedTerms": [
+        "Heady",
+        "Balanced",
+        "DHK",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Slaap & Ontspanning",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Balanced",
+      "germanTerm": "Evenwichtig",
+      "shortDefinition": "Kava-soorten met een evenwichtige werking",
+      "fullExplanation": "\"Balanced\" beschrijft Kava-soorten die een **evenwichtige mix van heady en heavy eigenschappen** bieden. Deze soorten hebben typisch zowel Kavain (4) als DHK (2) in de voorste posities van de chemotypen. Balanced Kavas bieden zowel mentale helderheid als lichamelijke ontspanning en zijn daarom **veelzijdig inzetbaar** – van de middag tot de avond. Bekende Balanced-soorten zijn Borogu, Melo Melo, Bir Kar en Vula Waka.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Soortenvergelijking",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Cultivar",
+      "shortDefinition": "Gekweekte Kava-variëteit",
+      "fullExplanation": "Een cultivar is een **door veredeling ontstane plantenvariëteit**. Bij Kava zijn er meer dan 100 verschillende cultivars die verschillen in chemotyp, werking, smaak en groeivorm. Aangezien Kava steriel is en alleen vegetatief kan worden vermeerderd, zijn cultivars **genetische klonen** van de moederplant. Bekende cultivars zijn Borogu, Kelai, Melo Melo, Palasa en vele anderen. Elke cultivar heeft een eigen \"vingerafdruk\" van Kavalactonen.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava uit de hoofdwortels",
+      "fullExplanation": "\"Waka\" verwijst naar Kava die wordt gemaakt van de **hoofdwortels (laterale wortels)** van de plant. Waka wordt beschouwd als de **hoogste kwaliteitsklasse**, omdat de hoofdwortels het hoogste Kavalacton-gehalte hebben. De term komt uit Fiji en Tonga. Waka is duurder dan Lewena (stamwortel), maar krachtiger en milder van smaak. De meeste premium Kavas op de markt zijn Waka-kwaliteit.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava uit de wortelknol",
+      "fullExplanation": "\"Lewena\" (ook \"Lawena\") verwijst naar Kava die wordt gemaakt van de **wortelknol (rhizoom)** van de plant. Lewena heeft een **lager Kavalacton-gehalte** dan Waka, maar is ook milder van smaak en goedkoper. Het wordt vaak aanbevolen als instap-Kava of voor degenen die een mildere werking verkiezen. In Fiji wordt Lewena traditioneel voor dagelijks gebruik gebruikt, terwijl Waka voor speciale gelegenheden is gereserveerd.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Soortenprofielen",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Green Kava",
+      "germanTerm": "Verse Kava",
+      "shortDefinition": "Vers geoogste, niet gedroogde Kava",
+      "fullExplanation": "\"Green Kava\" of \"Fresh Kava\" verwijst naar **vers geoogste Kava-wortels** die niet zijn gedroogd. In de Pacifische oorsprongslanden wordt Kava traditioneel vers bereid – de wortels worden geschild, versnipperd en onmiddellijk gekneed. Verse Kava heeft een **andere smaak en werking** dan gedroogde: vaak milder, \"groener\" van smaak en met snellere werking. Instant Kava wordt gemaakt van gedehydrateerd Green Kava-sap.",
+      "relatedTerms": [
+        "Instant Kava",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultuur",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Hawaiiaanse benaming voor Kava",
+      "fullExplanation": "'Awa is de **Hawaiiaanse benaming voor Kava**. Hawaii heeft een eigen Kava-traditie met unieke cultivars zoals Moi, Hiwa, Nene en Papa Ele'ele. Hawaiiaanse 'Awa-soorten zijn vaak bijzonder krachtig en hebben kenmerkende werkingsprofielen. 'Awa werd traditioneel gebruikt voor **ceremoniele, medische en spirituele doeleinden**. De Hawaiiaanse 'Awa-cultuur maakt momenteel een renaissance door met groeiende interesse in traditionele soorten.",
+      "relatedTerms": [
+        "Cultivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Geschiedenis",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Medium Grind",
+      "germanTerm": "Gemiddelde Maalgraad",
+      "shortDefinition": "Standaard-maalgraad voor traditionele bereiding",
+      "fullExplanation": "Medium Grind is de **standaard-maalgraad voor Kava-wortelpoeder**, die wordt gebruikt voor de traditionele kneedmethode en blender-bereiding. Het poeder heeft een **zanderige tot meelachtige consistentie** en moet door een filterzak (75-100 micron) worden gekneed om de Kavalactonen te extraheren. Medium Grind is goedkoper dan Instant/Micronized en levert bij correcte bereiding de beste potentie. De grove plantenvezels worden eruit gefilterd.",
+      "relatedTerms": [
+        "Micronized",
+        "Instant Kava",
+        "Kneedmethode"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Traditionele methode",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Blender-methode",
+          "href": "/de/zubereitung/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Micronized Kava",
+      "germanTerm": "Gemicroniseerde Kava",
+      "shortDefinition": "Extreem fijn gemalen Kava zonder filtering",
+      "fullExplanation": "Micronized Kava is **extreem fijn gemalen wortelpoeder**, waarbij de grove vezels al zijn verwijderd. Het kan **direct in water worden geroerd** zonder kneden of filteren. De deeltjes zijn zo fijn dat ze in suspensie blijven en worden mee gedronken. Micronized is handiger dan Medium Grind, maar duurder en kan bij gevoelige magen eerder tot **misselijkheid** leiden, omdat de vezels worden meegegeten.",
+      "relatedTerms": [
+        "Medium Grind",
+        "Instant Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava Bereiding",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Dosering calculator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "Snel-Kava",
+      "shortDefinition": "Gedehydrateerd Kava-sap, direct drinkklaar",
+      "fullExplanation": "Instant Kava is **gedehydrateerd \"Green Kava\" sap** – vers Kava-sap dat is vriesgedroogd of sproeidroogd. Het is de **krachtigste en duurste** vorm van Kava, omdat de Kavalactonen al zijn geëxtraheerd. Instant Kava lost onmiddellijk op in water en vereist geen kneden of filteren. De dosering is aanzienlijk lager dan bij Medium Grind (2-6g in plaats van 20-50g). Het wordt beschouwd als de \"koninklijke klasse\" van Kava-bereiding.",
+      "relatedTerms": [
+        "Micronized",
+        "Medium Grind",
+        "Green Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava Bereiding",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Dosering calculator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Kneedmethode",
+      "shortDefinition": "Traditionele Pacifische bereidingswijze",
+      "fullExplanation": "De kneedmethode is de **traditionele Pacifische manier van Kava-bereiding**, die al meer dan 3.000 jaar wordt toegepast. Medium Grind-poeder wordt in een filterzak gedaan en in warm water (35-45°C) **10-15 minuten gekneed en gewrongen**. Door de mechanische kracht worden de Kavalactonen uit de plantenvezels opgelost en in water geëmmulgeerd. Het resultaat is een melkachtig-bruin \"Grog\". Deze methode levert de **beste extractie en potentie**.",
+      "relatedTerms": [
+        "Medium Grind",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Traditionele methode",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Bereiding Overzicht",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Second Wash",
+      "germanTerm": "Tweede Opgieting",
+      "shortDefinition": "Herbruik van het Kava-poeder",
+      "fullExplanation": "De \"Second Wash\" verwijst naar de **herbruik van het al gekneed Kava-poeder** voor een tweede doorgang. Na de eerste kneedbeurt bevat het poeder nog ongeveer **30-50% van de oorspronkelijke Kavalactonen**. De tweede opgieting is zwakker, maar nog steeds effectief. Sommige gebruikers combineren de eerste en tweede opgieting, anderen drinken ze apart. Een derde opgieting is meestal niet meer de moeite waard.",
+      "relatedTerms": [
+        "Kneedmethode",
+        "Medium Grind"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Traditionele methode",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Filterzak",
+      "germanTerm": "Filterbeutel",
+      "shortDefinition": "Zak om Kava te filteren",
+      "fullExplanation": "Een filterzak is een **filterzak van nylon of katoen** die wordt gebruikt voor het kneden en filteren van Kava. De ideale maaswijdte ligt bij **75-100 micron** – fijn genoeg om plantenvezels vast te houden, maar doorlatend genoeg voor de Kavalacton-emulsie. Filterzakken zijn herbruikbaar en moeten na elk gebruik worden uitgespoeld en gedroogd. Ze zijn een onmisbaar hulpmiddel voor de traditionele bereiding.",
+      "relatedTerms": [
+        "Kneedmethode",
+        "Medium Grind"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Traditionele methode",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "Een portie Kava-drank",
+      "fullExplanation": "\"Shell\" is de gangbare benaming voor **een portie Kava-drank**, typisch 100-150ml. De term komt van de traditionele kokosnootschaal (Bilo) waaruit Kava wordt gedronken. In Kava-bars bestelt men \"Shells\" – een sessie bestaat vaak uit 3-6 Shells over meerdere uren. De dosering per Shell varieert afhankelijk van de sterkte van de Grog en persoonlijke voorkeur. \"One more shell\" is een veelgehoorde uitroep in de Kava-gemeenschap.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Dosering calculator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Modern Kava-bereidingsapparaat",
+      "fullExplanation": "De AluBall is een **modern Kava-bereidingsapparaat** dat de traditionele kneedmethode vereenvoudigt. Het bestaat uit een shaker-fles met een speciaal zeefballetje. Medium Grind-poeder wordt in de bal gedaan, water toegevoegd en 2-3 minuten geschud. De extractie is sneller dan traditioneel kneden, maar mogelijk minder efficiënt. De AluBall is populair voor **onderweg en bij beginners**, die een eenvoudige bereiding verkiezen.",
+      "relatedTerms": [
+        "Kneedmethode",
+        "Medium Grind"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bereiding Overzicht",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "De afgewerkte Kava-drank",
+      "fullExplanation": "\"Grog\" is de informele benaming voor de **afgewerkte Kava-drank**, vooral in Vanuatu en Fiji. De naam stamt uit de koloniale tijd en werd overgenomen door de Britse marine. Traditionele Kava-Grog heeft een **melkachtig-bruin kleur** (zoals melk-koffie) en een aardse, licht-peperige smaak. In Kava-bars wordt Grog vaak geserveerd in kokosnootschalen (Bilos) en in één teug gedronken.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Kneedmethode"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultuur",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Bereiding",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Traditionele kokosnootschaal om uit te drinken",
+      "fullExplanation": "Een Bilo is een **halve kokosnootschaal** die traditioneel wordt gebruikt voor het serveren en drinken van Kava. In Fiji en andere Pacifische culturen is het drinken uit de Bilo onderdeel van het **ceremonieel ritueel**. Voor het drinken klapt men eenmaal in de handen, zegt \"Bula!\" (Fiji) of \"Mālō!\" (Tonga), drinkt de inhoud in één teug en klapt dan drie keer. Moderne Kava-liefhebbers gebruiken Bilos voor een authentieke ervaring.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultuur",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Geschiedenis",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Traditionele Kava-bar in Vanuatu",
+      "fullExplanation": "Een Nakamal is een **traditionele Kava-bar in Vanuatu**, waar lokale bewoners en toeristen samenkomen om Kava te drinken. Oorspronkelijk verwees de term naar de ontmoetingsplaats van mannen in het dorp. Moderne Nakamals zijn vaak eenvoudige hutten of open ruimtes met banken. Kava wordt vers bereid en in kommen geserveerd. Er zijn strenge **sociale regels**: men spreekt zachtjes, gedraagt zich respectvol en drinkt in de schemering. Nakamals zijn belangrijke sociale ontmoetingsplaatsen.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultuur",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Geschiedenis",
+          "href": "/de/geschichte/urspruenge"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Traditionele Kava-schaal van hout",
+      "fullExplanation": "Een Tanoa is een **grote, platte houten schaal** waarin Kava traditioneel wordt bereid en geserveerd. Het is typisch voor Fiji, Samoa en Tonga en wordt uit één stuk hout gesneden, vaak met gesneden poten. De Tanoa is het **centrum van de Kava-ceremonie** – de Grog wordt daarin gemengd en met een Bilo aan de deelnemers uitgedeeld. Hoogwaardige Tanoas zijn kunstwerken en worden als familie-erfstukken doorgegeven.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Ceremonie"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultuur",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Fijiaanse groet bij het Kava-drinken",
+      "fullExplanation": "\"Bula!\" is de **traditionele Fijiaanse groet** die wordt uitgeroepen voordat men een Shell Kava drinkt. Het woord betekent \"leven\" en drukt goede wensen uit. Het ritueel: eenmaal klappen, \"Bula!\" roepen, de Shell in één teug leegdrinken, drie keer klappen. In andere Pacifische culturen zijn er vergelijkbare kreten: \"Mālō!\" in Tonga, \"Taki!\" in Vanuatu. Deze rituelen creëren **gemeenschap en respect** en zijn een belangrijk onderdeel van de Kava-cultuur.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultuur",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Potentieel lebertoxische verbinding in Tudei-Kava",
+      "fullExplanation": "Flavokavain B (FKB) is een **chalkon** die in hogere concentraties voorkomt in Tudei-Kava en de bovengrondse plantendelen (stelen, bladeren). Het wordt in verband gebracht met **potentiële lebertoxiteit** en zou verantwoordelijk kunnen zijn voor enkele van de historische leverschade. Noble Kava-soorten hebben **zeer lage FKB-gehalten**. Dit is een van de belangrijkste redenen waarom alleen Noble Kava voor consumptie wordt aanbevolen en Tudei-Kava in Vanuatu voor export is verboden.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Leversveiligheid"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Leversveiligheid",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Cytochroom P450",
+      "shortDefinition": "Leverenzymen voor medicijnafbraak",
+      "fullExplanation": "CYP450 (Cytochroom P450) is een **familie van leverenzymen** die verantwoordelijk zijn voor de afbraak van de meeste medicijnen. Kavalactonen kunnen bepaalde CYP450-enzymen **remmen**, met name CYP2C9, CYP2C19 en CYP3A4. Dit kan de afbraak van medicijnen vertragen en hun werking versterken. Daarom moet Kava **niet worden gecombineerd** met medicijnen die via deze enzymen worden afgebroken – met name benzodiazepinen, antidepressiva en bloeddrukmedicijnen.",
+      "relatedTerms": [
+        "Interacties",
+        "Leversveiligheid"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interacties",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Interacties-checker",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Leversveiligheid",
+      "shortDefinition": "Kava en de lever – feiten en mythes",
+      "fullExplanation": "De vraag naar de **leversveiligheid** van Kava was lange tijd omstreden. In de vroege jaren 2000 leidden rapporten over leverschade tot verboden in verschillende landen. Latere onderzoeken toonden echter aan dat de meeste gevallen te wijten waren aan **Tudei-Kava, extracten van bovengrondse plantendelen of bestaande aandoeningen**. Noble Kava, traditioneel bereid, wordt als veilig beschouwd. De WHO bevestigde in 2016 dat \"traditioneel bereide Kava-dranken een acceptabel veiligheidsprofiel hebben\".",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Leversveiligheid",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Wetenschappelijke studies",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Interacties",
+      "shortDefinition": "Interacties van Kava met andere stoffen",
+      "fullExplanation": "Kava kan **interacties met verschillende stoffen** hebben. De belangrijkste combinaties die vermeden moeten worden zijn: **Alcohol** (versterkte lebertoxiteit), **benzodiazepinen en slaapmiddelen** (versterkte sedatie), **antidepressiva** (CYP450-interacties), **Parkinson-medicijnen** (dopamine-interacties). Ook andere ZNS-dempende stoffen moeten worden vermeden. Bij regelmatig medicijngebruik moet voor het Kava-gebruik een arts worden geraadpleegd.",
+      "relatedTerms": [
+        "CYP450",
+        "Leversveiligheid"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interacties",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Interacties-checker",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Dosering",
+      "shortDefinition": "Juiste hoeveelheid voor veilige consumptie",
+      "fullExplanation": "De juiste **dosering** van Kava hangt van verschillende factoren af: lichaamsgewicht, ervaring, soort en bereidingsvorm. Voor **Medium Grind** ligt een typische sessie tussen 20-50g poeder, verdeeld over meerdere Shells. Voor **Instant Kava** zijn 2-6g gebruikelijk. Beginners moeten beginnen met lage doses en rekening houden met de **omgekeerde tolerantie**. De aanbevolen dagelijkse maximumdosis ligt rond de 250mg Kavalactonen. Overdosering leidt tot sterke vermoeidheid, maar niet tot gevaarlijke toestanden.",
+      "relatedTerms": [
+        "Omgekeerde Tolerantie",
+        "Shell",
+        "Kavalactonen"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Dosering calculator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    }
+  }
+}

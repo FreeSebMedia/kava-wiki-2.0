@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Soortenvergelijking",
+    "subtitle": "Vergelijk twee Kava-soorten direct naast elkaar"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Soorten",
+    "current": "Vergelijking"
+  },
+  "ui": {
+    "selectVariety": "Selecteer soort...",
+    "firstVariety": "Eerste soort",
+    "secondVariety": "Tweede soort",
+    "toProfile": "Naar het soortenprofiel",
+    "potency": "Potentie",
+    "badgeInfo": "De <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> Badges tonen het verschil met de andere soort"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Gebalanceerd",
+    "heavy": "Heavy"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Vergelijking van het effectprofiel"
+    },
+    "basicInfo": {
+      "title": "Basisinformatie"
+    },
+    "dosage": {
+      "title": "Aanbevolen dosering"
+    },
+    "applications": {
+      "title": "Toepassingsgebieden"
+    },
+    "usageTimes": {
+      "title": "Inname tijden"
+    },
+    "kavalactones": {
+      "title": "Kavalacton-profiel"
+    },
+    "notes": {
+      "title": "Opmerkingen"
+    }
+  },
+  "effects": {
+    "euphoria": "Euforie",
+    "relaxation": "Ontspanning",
+    "sedation": "Sedatie",
+    "clarity": "Duidelijkheid",
+    "sociability": "Sociaal gedrag",
+    "anxiolysis": "Angstverlichting"
+  },
+  "info": {
+    "chemotype": "Chemotype",
+    "duration": "Werkduur",
+    "availability": "Beschikbaarheid",
+    "price": "Prijs"
+  },
+  "dosageLabels": {
+    "beginner": "Beginner",
+    "regular": "Regulier",
+    "experienced": "Ervaren"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticine",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Kies twee soorten om te vergelijken",
+    "description": "Gebruik de dropdown-menu's hierboven om twee Kava-soorten te selecteren en hun eigenschappen, effecten en aanbevelingen direct tegenover elkaar te zetten.",
+    "tips": {
+      "title": "Vergelijkingstips",
+      "items": [
+        "Vergelijk soorten binnen dezelfde categorie voor vergelijkbare effectprofielen",
+        "Vergelijk Heady vs. Heavy voor tegengestelde ervaringen",
+        "Let op de chemotype-verschillen voor wetenschappelijke inzichten"
+      ]
+    },
+    "quickSelections": "Snelle selectie",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu-klassieker",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Beginner aanbeveling",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

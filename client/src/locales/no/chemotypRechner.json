@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Chemotyp-kalkulator",
+    "subtitle": "Skriv inn en 6-sifret chemotyp og finn ut den forventede effekten og anbefalingene.",
+    "category": "Interaktiv"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "inhaltsstoffe": "Innholdsstoffer",
+    "current": "Chemotyp-kalkulator"
+  },
+  "toc": {
+    "title": "Innhold",
+    "rechner": "Chemotyp-kalkulator",
+    "anleitung": "Slik fungerer det",
+    "beispiele": "Eksempel-Chemotyper",
+    "legende": "Kavalaktone-legende"
+  },
+  "rechner": {
+    "title": "Skriv inn chemotyp",
+    "subtitle": "6 sifre fra 1-6, hver nøyaktig én gang",
+    "placeholder": "f.eks. 426531",
+    "analyzeButton": "Analyser",
+    "knownVariety": "Kjent sort"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Fokus & Eufori",
+      "description": "Øker dopamin, fremmer fokus og lett eufori"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Muskelavslapping",
+      "description": "Sterk muskelavslapping og smertelindrende effekt"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "CB1-aktivitet",
+      "description": "Virker på endocannabinoid-systemet, lett stimulerende"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Angstdempende",
+      "description": "Hovedvirkestoff for angstdemping og mental klarhet"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Langvarig sedasjon",
+      "description": "Sterk sedativ effekt, langsom nedbrytning – Tudei-markør"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Sedativ",
+      "description": "Sedativ og nevrobeskyttende"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Ugyldig",
+      "description": "Vennligst skriv inn en gyldig 6-sifret chemotyp (sifre 1-6, hver nøyaktig én gang)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Denne chemotypen indikerer Tudei-kava. DHM (5) på posisjon 1 eller 2 betyr svært lang virketid med mulige bivirkninger."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Kavain-dominant sort med primært mental effekt. Ideell for sosiale anledninger og kreativt arbeid."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Balansert sort med Kavain og DHK i de første posisjonene. Kombinerer mental klarhet med fysisk avslapning."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Dihydrokavain-dominant sort med primært fysisk effekt. Ideell for avslapning og stressreduksjon."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Balansert sort med en blanding av mental og fysisk effekt. Allsidig anvendelig."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) på fremtredende posisjon – typisk for Tudei-kava",
+    "tudeiSideEffects": "Mulige bivirkninger: Kvalme, lang 'bakrus', døsighet",
+    "tudeiNotRecommended": "Ikke egnet for regelmessig forbruk",
+    "dhmPosition1": "DHM på posisjon 1: Svært sterk, langvarig sedasjon",
+    "dhmPosition2": "DHM på posisjon 2: Økt sedasjon, lengre virketid"
+  },
+  "strengths": {
+    "headyClear": "Klar, fokusert effekt uten sterk sedasjon",
+    "headyMood": "God stemningsheving og angstdemping",
+    "headyBeginner": "Ideell for nybegynnere",
+    "headyBalancedBest": "Ideell kombinasjon av hode- og kroppseffekt",
+    "headyBalancedMental": "Mental klarhet med mild avslapning",
+    "headyBalancedBody": "Lett muskelavslapning uten sterk sedasjon",
+    "heavyMuscle": "Sterk muskelavslapning",
+    "heavyPain": "God smertelindrende effekt",
+    "heavyRelax": "Dyp fysisk avslapning",
+    "balancedBoth": "Balansert effekt på kropp og sinn",
+    "balancedVersatile": "Allsidig anvendelig",
+    "balancedDaily": "God hverdags-sort",
+    "methysticinNeuro": "Methysticin fremtredende: Gode nevrobeskyttende egenskaper",
+    "yangoninStim": "Yangonin fremtredende: Lett stimulerende komponent",
+    "dmyDopamine": "DMY fremtredende: Forsterket dopamin-effekt, mer eufori"
+  },
+  "effects": {
+    "headyEffects": [
+      "Mental klarhet",
+      "Angstdemping",
+      "Lett eufori"
+    ],
+    "headyBalancedEffects": [
+      "Mental klarhet",
+      "Lett muskelavslapning",
+      "Stemningsheving"
+    ],
+    "heavyEffects": [
+      "Muskelavslapning",
+      "Fysisk ro",
+      "Søvnfremmende"
+    ],
+    "balancedEffects": [
+      "Balansert avslapning",
+      "Moderat angstdemping",
+      "Lett muskelavslapning"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Sosiale anledninger",
+      "Kreativt arbeid",
+      "På dagtid eller tidlig kveld"
+    ],
+    "headyBalancedUse": [
+      "Allsidig bruk",
+      "Sosiale anledninger med avslapning",
+      "Ettermiddag til kveld"
+    ],
+    "heavyUse": [
+      "Kveldsavslapning",
+      "Etter fysisk anstrengelse",
+      "Forberedelse til søvn"
+    ],
+    "balancedUse": [
+      "Daglig bruk",
+      "Meditasjon",
+      "Fleksibel bruk"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalaktone-rekkefølge",
+    "strengthsTitle": "Styrker ved denne chemotypen",
+    "dominantEffects": "Dominante effekter",
+    "recommendedUseTitle": "Anbefalt bruk"
+  },
+  "anleitung": {
+    "title": "Slik fungerer det",
+    "paragraph1": "Chemotypen er en 6-sifret kode som lister de seks hoved-kavalaktone i synkende rekkefølge etter konsentrasjon. Det første sifferet representerer kavalaktone med høyest konsentrasjon, det siste for den med lavest.",
+    "rulesTitle": "De viktigste reglene:",
+    "rules": [
+      {
+        "label": "Posisjon 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava – mental effekt, fokus, angstdemping"
+      },
+      {
+        "label": "Posisjon 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – fysisk effekt, muskelavslapning"
+      },
+      {
+        "label": "Posisjon 1 eller 2 = 5 (DHM)",
+        "text": "⚠️ Tudei-kava – svært lang virkning, mulige bivirkninger"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Eksempel-Chemotyper",
+    "intro": "Klikk på en eksempel-chemotyp for å analysere den:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalaktone-legende",
+    "intro": "Oversikt over alle seks hoved-kavalaktone og deres effekter:"
+  },
+  "hint": {
+    "title": "Merk:",
+    "text": "Denne analysen er basert på generelle retningslinjer. Den faktiske effekten kan variere avhengig av kvalitet, tilberedning og individuell sensitivitet. For detaljerte opplysninger, besøk vår side om",
+    "linkText": "Chemotyp-systemet"
+  }
+}

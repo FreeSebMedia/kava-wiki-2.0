@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Botaniek van <em>Piper methysticum</em>",
+    "subtitle": "Een diepgaande kijk op de taxonomie, morfologie en ecologie van de Kava-plant.",
+    "category": "Botaniek"
+  },
+  "toc": {
+    "einfuehrung": "Inleiding",
+    "klassifikation": "Wetenschappelijke classificatie",
+    "ueberblick": "Morfologisch overzicht",
+    "verbreitung": "Verspreiding & Habitat",
+    "vertiefung": "Verdiepende artikelen"
+  },
+  "intro": {
+    "paragraph1": "<strong><em>Piper methysticum</em></strong>, algemeen bekend als Kava of Kava-Kava, is een tropische struik uit de familie der peperplanten (Piperaceae). De naam <em>Piper methysticum</em> betekent letterlijk \"bedwelmende peper\" (van het Grieks <em>methystikos</em> = bedwelmend).",
+    "paragraph2": "In tegenstelling tot veel andere psychoactieve planten bevat Kava geen alkaloïden als belangrijkste werkzame stoffen, maar een unieke klasse van verbindingen die bekend staan als <strong>Kavalactonen</strong>. De plant speelt al duizenden jaren een centrale rol in de culturen van de Stille Oceaan en is vandaag de dag het resultaat van duizenden jaren menselijke selectie."
+  },
+  "classification": {
+    "title": "Wetenschappelijke classificatie",
+    "headers": {
+      "rank": "Rang",
+      "name": "Wetenschappelijke naam"
+    },
+    "ranks": {
+      "reich": "Rijk",
+      "abteilung": "Afdeling",
+      "ordnung": "Orde",
+      "familie": "Familie",
+      "gattung": "Geslacht",
+      "art": "Soort"
+    },
+    "values": {
+      "reich": "Plantae (Planten)",
+      "abteilung": "Tracheophyta (Vaatplanten)",
+      "ordnung": "Piperales (Peperachtigen)",
+      "familie": "Piperaceae (Peperplanten)",
+      "gattung": "Piper (Peper)",
+      "art": "<em>Piper methysticum</em> G. Forst."
+    },
+    "note": "De nauwste verwante soort is <em>Piper wichmannii</em>, die wordt beschouwd als de wilde voorouder van de huidige gecultiveerde Kava-plant. Terwijl <em>P. wichmannii</em> (vaak aangeduid als \"Wild Kava\") zich seksueel kan voortplanten, is de gecultiveerde <em>P. methysticum</em> steriel en volledig afhankelijk van de mens."
+  },
+  "morphology": {
+    "title": "Morfologisch overzicht",
+    "intro": "Kava is een vaste, altijd groene struik die typisch een hoogte van 1,5 tot 3 meter bereikt, maar onder optimale omstandigheden ook tot 5 meter hoog kan worden.",
+    "aboveGround": {
+      "title": "Bovenmatige delen",
+      "leaves": "<strong>Bladeren:</strong> Groot, hartvormig (cordaat), 20-30 cm breed",
+      "stems": "<strong>Stelen:</strong> Knoopachtig, bamboeachtig, variëteit-specifieke kleur",
+      "flowers": "<strong>Bloemen:</strong> Arenvormig, steriel (geen zaden)"
+    },
+    "belowGround": {
+      "title": "Ondergrondse delen",
+      "stump": "<strong>Stomp (Corm):</strong> Dikke, verhoute wortelknol",
+      "roots": "<strong>Zijwortels (Waka):</strong> Fijnere wortels, hoogste Kavalacton-gehalte",
+      "weight": "<strong>Gewicht:</strong> 5-25 kg bij rijpe planten (3-5+ jaar)"
+    }
+  },
+  "distribution": {
+    "title": "Verspreiding & Habitat",
+    "intro": "Kava is inheems in de westelijke Stille Oceaan. Het oorsprongsgebied wordt vermoed in het noorden van Vanuatu, waar de grootste genetische diversiteit heerst. Van daaruit werd de plant door Polynesische zeelieden (\"Canoe Plants\") over de hele Stille Oceaan verspreid.",
+    "regionsIntro": "Vandaag de dag wordt Kava voornamelijk in de volgende regio's verbouwd:",
+    "regions": {
+      "vanuatu": "<strong>Vanuatu:</strong> De grootste producent ter wereld met meer dan 80 verschillende variëteiten.",
+      "fiji": "<strong>Fiji:</strong> Bekend om \"Waka\" (wortels) en \"Lewena\" (basale stam).",
+      "tonga": "<strong>Tonga:</strong> Produceert zeer milde, \"romige\" Kava's (bijv. Pouni Ono).",
+      "samoa": "<strong>Samoa:</strong> Kava wordt hier 'Ava genoemd.",
+      "hawaii": "<strong>Hawaii:</strong> Kava wordt hier 'Awa genoemd (bijv. Moi, Mahakea).",
+      "pohnpei": "<strong>Pohnpei & Micronesië:</strong> Bekend om het consumeren van verse Kava-sap (\"Sakau\")."
+    }
+  },
+  "subpages": {
+    "title": "Verdiepende artikelen",
+    "intro": "Verken de volgende subpagina's voor gedetailleerde informatie over specifieke aspecten van de Kava-botaniek.",
+    "pflanze": {
+      "title": "De plant",
+      "description": "Taxonomie, nomenclatuur en de relatie tussen <em>Piper methysticum</em> en zijn wilde voorouder <em>Piper wichmannii</em>.",
+      "topics": [
+        "Taxonomische indeling",
+        "Betekenis van de naam",
+        "Domesticatie & Evolutie",
+        "Kava als levend cultureel erfgoed"
+      ]
+    },
+    "morphologie": {
+      "title": "Morfologie",
+      "description": "Gedetailleerde anatomie van de Kava-plant met bijzondere aandacht voor het economisch belangrijke wortelsysteem.",
+      "topics": [
+        "Wortelsysteem (Stomp & Waka)",
+        "Kavalacton-distributie",
+        "Stelen & Bladeren",
+        "Bloemen & Steriliteit"
+      ]
+    },
+    "anbau": {
+      "title": "Teelt & Ecologie",
+      "description": "Groeiomstandigheden, vermeerderingsmethoden en de kunst van de traditionele Kava-teelt.",
+      "topics": [
+        "Vegetatieve vermeerdering",
+        "Klimaateisen",
+        "Bodemgesteldheid",
+        "Oogst & Kwaliteitsfactoren"
+      ]
+    }
+  }
+}

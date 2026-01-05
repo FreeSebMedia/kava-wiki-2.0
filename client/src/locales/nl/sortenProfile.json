@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Soortenprofielen in Detail",
+    "subtitle": "Gedetailleerde profielen van de belangrijkste Kava-soorten met chemotypen, effecten en aanbevelingen.",
+    "category": "Soorten"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Soorten",
+    "current": "Profielen"
+  },
+  "toc": {
+    "title": "Inhoud",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Overzicht",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Mijn Favorieten",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Effectenfilter",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady Soorten",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Balanced Soorten",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Heavy Soorten",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Soortenvergelijking",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Oorsprong",
+    "chemotype": "Chemotyp",
+    "duration": "Werkduur",
+    "strength": "Sterkte",
+    "hits": "Resultaten",
+    "low": "Laag",
+    "high": "Sterk",
+    "variety": "Soort",
+    "region": "Regio",
+    "type": "Type",
+    "bestUse": "Beste Gebruik",
+    "resetFilters": "Filters resetten",
+    "matchingCriteria": "van {total} soorten voldoen aan uw criteria",
+    "noMatching": "Geen {category} soorten voldoen aan de huidige filtercriteria.",
+    "toComparison": "Naar de interactieve soortenvergelijking"
+  },
+  "overview": {
+    "intro": "Deze pagina biedt een uitgebreid overzicht van de belangrijkste <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a>-soorten, gerangschikt op hun effecttype. Gebruik deze profielen om de perfecte soort voor uw behoeften te vinden.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Hoofdgericht, euforisch, sociaal. Ideaal voor de dag.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Gebalanceerd, veelzijdig. Goed voor elk moment van de dag.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Lichaamsgericht, sedatief. Ideaal voor de avond.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Effectenfilter",
+    "description": "Filter de soorten op basis van de gewenste effecten. Beweeg de schuifregelaars om alleen soorten weer te geven die voldoen aan de gekozen waarde.",
+    "euphoria": "Euforie",
+    "relaxation": "Ontspanning",
+    "sleepy": "Slaperig"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady Soorten",
+      "description": "Heady Kavas zijn hoofdgericht en creëren euforie, mentale helderheid en gezelligheid. Ze zijn ideaal voor dagelijks gebruik, sociale gelegenheden en creatieve werkzaamheden. De <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Chemotyp</a> begint typisch met 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Balanced Soorten",
+      "description": "Balanced Kavas bieden een gebalanceerd effect tussen hoofd en lichaam. Ze zijn veelzijdig inzetbaar en geschikt voor zowel de dag als de avond. Ideaal voor <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">angstverlichting</a> en algemene ontspanning."
+    },
+    "heavy": {
+      "title": "Heavy Soorten",
+      "description": "Heavy Kavas zijn lichaamsgericht en creëren diepe <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">spierontspanning</a> en sedatie. Ze zijn ideaal voor de avond, bij <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">slaapproblemen</a> en voor lichamelijk herstel. De chemotyp heeft vaak DHK (2) op een prominente positie."
+    }
+  },
+  "comparison": {
+    "title": "Soortenvergelijking",
+    "description": "Deze tabel biedt een snel overzicht van alle belangrijke soorten. Gebruik ook onze <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">interactieve vergelijkingstool</a> voor gedetailleerde vergelijkingen.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 uur",
+      "strength": 4,
+      "description": "Legendarische euforische Kava, als champagne onder de Kavas.",
+      "recommended": [
+        "Sociale gelegenheden",
+        "Creatieve werkzaamheden",
+        "Dagelijks gebruik"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 uur",
+      "strength": 4,
+      "description": "De volks-Kava van Vanuatu, veelzijdig met een hoofdgerichte aanvangseffect.",
+      "recommended": [
+        "Sociale gelegenheden",
+        "Avondgebruik",
+        "Beginners"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 uur",
+      "strength": 3,
+      "description": "De populairste dag-Kava, mild en beginner-vriendelijk.",
+      "recommended": [
+        "Beginners",
+        "Werk",
+        "Sociale gelegenheden"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 uur",
+      "strength": 4,
+      "description": "De koninklijke 'Awa, extreem cerebraal en geestelijk verhelderend.",
+      "recommended": [
+        "Meditatie",
+        "Creatieve werkzaamheden",
+        "Cognitie"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 uur",
+      "strength": 3,
+      "description": "Zeldzame euforische soort, zeer gewaardeerd.",
+      "recommended": [
+        "Sociale gelegenheden",
+        "Stemmingsverbetering"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 uur",
+      "strength": 3,
+      "description": "De perfecte allrounder, zacht en gebalanceerd.",
+      "recommended": [
+        "Beginners",
+        "Angstverlichting",
+        "Dagelijks gebruik"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 uur",
+      "strength": 4,
+      "description": "De volks-Kava van Vanuatu, betrouwbaar en veelzijdig.",
+      "recommended": [
+        "Avondgebruik",
+        "Ontspanning",
+        "Beginners"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 uur",
+      "strength": 4,
+      "description": "Sterke Kava met een goede balans tussen hoofd en lichaam.",
+      "recommended": [
+        "Ervaren gebruikers",
+        "Avondgebruik"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 uur",
+      "strength": 3,
+      "description": "Gebalanceerde Fiji-Kava, veelzijdig inzetbaar.",
+      "recommended": [
+        "Dagelijks gebruik",
+        "Ontspanning"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 uur",
+      "strength": 5,
+      "description": "Een van de krachtigste Heavy Kavas, diepe sedatie.",
+      "recommended": [
+        "Slaapproblemen",
+        "Spierontspanning",
+        "Avond"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 uur",
+      "strength": 5,
+      "description": "Extreem potente Fiji-Kava, sterk sedatief.",
+      "recommended": [
+        "Ervaren gebruikers",
+        "Slaapproblemen"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 uur",
+      "strength": 4,
+      "description": "Kleinere broer van Palasa, iets milder maar vergelijkbaar.",
+      "recommended": [
+        "Heavy-beginners",
+        "Avondgebruik"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 uur",
+      "strength": 5,
+      "description": "Ceremoniële Hawaiiaanse 'Awa, zeer sterk.",
+      "recommended": [
+        "Ceremonies",
+        "Slaap",
+        "Ervaren"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Sociaal, Creatief"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Beginners, Dag"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Meditatie, Cognitie"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "243156",
+      "bestUse": "Angst, Allrounder"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Avond, Ontspanning"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "423561",
+      "bestUse": "Ervaren, Avond"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Heavy",
+      "chemotype": "423651",
+      "bestUse": "Slaap, Spier"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Ervaren, Slaap"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Ceremonies, Slaap"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "De geschiedenis van de Kava",
+    "subtitle": "Een reis door 5.000 jaar Kava-geschiedenis – van de domesticatie in Melanesië tot de wereldwijde verspreiding in de moderne wereld.",
+    "category": "Geschiedenis"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "geschichte": "Geschiedenis",
+    "zeitleiste": "Tijdlijn"
+  },
+  "ui": {
+    "filter": "Filter",
+    "allEpochs": "Alle tijdperken",
+    "readMore": "Meer lezen",
+    "loading": "Laden..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Prehistorie & Domesticatie",
+      "description": "De beginjaren van de Kava-cultuur in Melanesië"
+    },
+    "classical": {
+      "name": "Klassieke Pacific Era",
+      "description": "Verspreiding door Austronesische expansie"
+    },
+    "colonial": {
+      "name": "Koloniale Tijd",
+      "description": "Europese contacten en missionering"
+    },
+    "modern": {
+      "name": "Moderne Era",
+      "description": "Wetenschappelijke verkenning en dekolonisatie"
+    },
+    "contemporary": {
+      "name": "Hedendaags",
+      "description": "Globale verspreiding en culturele renaissance"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Oorsprong & Domesticatie",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Verspreiding in de Stille Oceaan",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Koloniale Tijd",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Wetenschap & Onderzoek",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Moderne Tijd",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Tegenwoordige Tijd",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "ca. 3000 v. Chr.",
+      "title": "Domesticatie van Kava",
+      "description": "In de regenwouden van Papoea-Nieuw-Guinea en Vanuatu begint de domesticatie van Piper wichmannii tot de gecultiveerde Kava-plant (Piper methysticum).",
+      "details": "Door selectieve veredeling en vegetatieve vermeerdering ontstaan de eerste Noble Kava-soorten met een hoger kavalacton-gehalte en lagere toxiciteit dan de wilde voorouder.",
+      "location": "Papoea-Nieuw-Guinea / Vanuatu",
+      "links": [
+        {
+          "label": "De plant",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Oorsprongen",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "ca. 2500 v. Chr.",
+      "title": "Eerste Kava-ceremonies in Vanuatu",
+      "description": "Op de eilanden van Vanuatu ontwikkelen zich de eerste rituele Kava-ceremonies. Het Nakamal wordt de centrale ontmoetingsplaats.",
+      "details": "De bereiding door het kauwen van de wortel door jonge mannen vestigt zich als traditie. Kava wordt het medium voor communicatie met voorouders en geesten.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Ceremonies",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "ca. 1500–1000 v. Chr.",
+      "title": "Lapita-expansie",
+      "description": "De Lapita-cultuur verspreidt Kava door haar maritieme expansie van Melanesië naar West-Polynesië.",
+      "details": "Archeologische vondsten van Lapita-keramiek tonen de verspreidingsroutes. Kava-planten worden als stekken op uitsteekkanus vervoerd.",
+      "location": "Melanesië → Polynesië"
+    },
+    "fiji-arrival": {
+      "year": "ca. 1000 v. Chr.",
+      "title": "Kava bereikt Fiji",
+      "description": "Kava wordt geïntroduceerd in Fiji en staat bekend als 'Yaqona'. Unieke ceremonies ontwikkelen zich rond de Tanoa (Kava-schaal).",
+      "details": "Oorspronkelijk werd Kava in Fiji bereid door malen, niet door kauwen. De verbinding met de voorouderverering in de Būrau (mannenhuizen) wordt gevestigd.",
+      "location": "Fiji",
+      "links": [
+        {
+          "label": "Fiji-ceremonies",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Pacific-soorten",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "ca. 500 v. Chr.",
+      "title": "Kava in Tonga en Samoa",
+      "description": "De 'Ava-ceremonie ontwikkelt zich in Tonga en Samoa tot een hooggeformaliseerde traditie met strikte hiërarchie.",
+      "details": "De Tou'a (Kava-mixer) en de Matāpule (ceremonieel meester) worden belangrijke rituele rollen. De drinkvolgorde weerspiegelt de sociale orde.",
+      "location": "Tonga / Samoa",
+      "links": [
+        {
+          "label": "'Ava-ceremonie",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "ca. 300–500 n. Chr.",
+      "title": "Kava bereikt Hawaii",
+      "description": "Polynesische zeelieden brengen Kava naar Hawaii, waar het bekend wordt als 'Awa' en wordt verbonden met de godin Hina.",
+      "details": "In Hawaii ontwikkelt zich een unieke Kava-cultuur met verbinding met genezingsrituelen van de Kahuna (priesters). De soort 'Awa Hiwa wordt voor ceremoniële doeleinden gereserveerd.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Hawaii-soorten",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "ca. 500 n. Chr.",
+      "title": "Sakau-cultuur in Pohnpei",
+      "description": "Op Pohnpei in Micronesië ontwikkelt de Sakau-ceremonie zich als een zelfstandige traditie.",
+      "details": "De bereiding op een platte steen en het persen door hibiscusvezels worden kenmerkend voor de Micronesische Kava-cultuur.",
+      "location": "Pohnpei (Micronesië)"
+    },
+    "fiji-tongan-influence": {
+      "year": "ca. 1750",
+      "title": "Tongaans invloed op Fiji",
+      "description": "Fiji neemt Tongaans Kava-ceremonies over: mastication, Tanoa-schalen en Bilo-bekers worden standaard.",
+      "details": "De Sevusevu-ceremonie als formele begroeting vestigt zich. Christelijke missionarissen bevorderen de 'geciviliseerde' Polynesische ceremonies.",
+      "location": "Fiji"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "Eerste Europese contact",
+      "description": "Nederlandse zeelieden onder Jacob Le Maire en Willem Schouten bereiken de Stille Zuidzee-eilanden en documenteren voor het eerst Kava.",
+      "details": "De Europeanen beschrijven het 'vreemde drankje' van de inheemsen, maar begrijpen de culturele betekenis niet.",
+      "location": "Stille Zuidzee"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Captain Cooks documentatie",
+      "description": "James Cook documenteert Kava-ceremonies tijdens zijn reizen in de Stille Zuidzee uitvoerig en brengt monsters naar Europa.",
+      "details": "Cooks verslagen over de 'Ava-ceremonie in Tonga en Hawaii wekken wetenschappelijk interesse in Europa. De botanicus Johann Georg Forster beschrijft de plant voor het eerst wetenschappelijk.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Geschiedenis",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Wetenschappelijke classificatie",
+      "description": "Johann Georg Forster classificeert Kava als Piper methysticum ('bedwelmende peperplant').",
+      "details": "De naam is afgeleid van het Griekse 'methystikos' (bedwelmend). Forster beschrijft de plant in zijn werk 'De Plantis Esculentis Insularum Oceani Australis'.",
+      "location": "Europa",
+      "links": [
+        {
+          "label": "Botanie",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Missionarische oppositie",
+      "description": "Christelijke missionarissen bestrijden Kava als 'heidens' drankje. In sommige regio's worden ceremonies verboden.",
+      "details": "Missionarissen bekritiseren het kauwen als onhygiënisch en de ceremonies als 'lui, bederfelijk, ja demonisch'. Op Oost-Futuna wordt de mastication in 1930 stopgezet op last van de missionarissen.",
+      "location": "Stille Zuidzee",
+      "links": [
+        {
+          "label": "Koloniale invloeden",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "Ontdekking van de kavalactonen",
+      "description": "Duitse chemici isoleren voor het eerst de actieve stoffen uit Kava en noemen ze 'Kavain'.",
+      "details": "De ontdekking legt de basis voor de wetenschappelijke studie van de Kava-effecten en latere farmacologische toepassingen.",
+      "location": "Duitsland",
+      "links": [
+        {
+          "label": "Kavalactonen",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Duitse koloniale heerschappij",
+      "description": "Duitsland controleert delen van de Stille Zuidzee (Duitse Nieuw-Guinea, Samoa). Kava wordt wetenschappelijk bestudeerd.",
+      "details": "Duitse wetenschappers documenteren Kava-soorten en bereidingsmethoden. De koloniale administratie tolereert Kava-consumptie grotendeels.",
+      "location": "Duitse Nieuw-Guinea / Samoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Onderzoek van Louis Lewin",
+      "description": "De Duitse toxicoloog Louis Lewin publiceert uitgebreide studies over Kava en classificeert het als 'Euphorica'.",
+      "details": "Lewins werk 'Phantastica' wordt de standaardtekst van de psychofarmacologie. Hij beschrijft Kava als een van de belangrijkste genotsmiddelen van de mensheid.",
+      "location": "Duitsland"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Onafhankelijkheid & Culturele Renaissance",
+      "description": "Staten in de Stille Zuidzee verkrijgen onafhankelijkheid. Kava keert terug als symbool van culturele identiteit in de openbare ruimte.",
+      "details": "Samoa (1962), Fiji (1970), Tonga (1970), Vanuatu (1980) worden onafhankelijk. Kava-ceremonies worden gevierd bij de oprichting van staten en officiële gelegenheden.",
+      "location": "Stille Zuidzee",
+      "links": [
+        {
+          "label": "Moderne geschiedenis",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu wordt onafhankelijk",
+      "description": "Vanuatu verkrijgt onafhankelijkheid van de Frans-Britse koloniale heerschappij. Kava wordt nationaal symbool.",
+      "details": "De nieuwe natie maakt Kava deel van haar identiteit. Nakamals worden belangrijke sociale instellingen in Port Vila en andere steden.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "1990er",
+      "title": "Klinische studies naar angst",
+      "description": "Eerste gecontroleerde klinische studies tonen de anxiolytische werking van Kava-extracten aan.",
+      "details": "Meta-analyses bevestigen de effectiviteit van Kava bij angststoornissen. Kava-preparaten worden in Europa en de VS populair als plantaardige geneesmiddelen.",
+      "location": "Europa / VS",
+      "links": [
+        {
+          "label": "Studies",
+          "url": "/studien"
+        },
+        {
+          "label": "Effect bij angst",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990er",
+      "title": "Eerste Kava-bars in de VS",
+      "description": "In Florida en Californië openen de eerste westerse Kava-bars als alcoholvrije alternatieven.",
+      "details": "De Kava-barbeweging begint in steden met een Pacifische diaspora. Fort Lauderdale wordt het centrum van de Amerikaanse Kava-scene.",
+      "location": "VS (Florida)",
+      "links": [
+        {
+          "label": "Moderne Kava-cultuur",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal & Kava-bars",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Kava-verbod in Duitsland",
+      "description": "Duitsland verbiedt Kava-preparaten na berichten over leverbeschadigingen. Andere EU-landen volgen.",
+      "details": "Het BfArM herroept de goedkeuring van alle Kava-bevattende geneesmiddelen. De beslissing is gebaseerd op 30 vermoedens van hepatotoxiciteit, maar wordt later als overdreven bekritiseerd.",
+      "location": "Duitsland / EU",
+      "links": [
+        {
+          "label": "Leverveiligheid",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Juridische status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Vanuatu's Noble-Only-exportbeleid",
+      "description": "Vanuatu voert strenge exportrichtlijnen in: Alleen Noble Kava-soorten mogen geëxporteerd worden.",
+      "details": "Het beleid moet de kwaliteit waarborgen en de reputatie van Kava beschermen. Tudei-soorten met een hoger DHM/DHK-gehalte worden uitgesloten van export.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Noble vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Vanuatu-soorten",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "WHO-risicobeoordeling",
+      "description": "De WHO publiceert een uitgebreide risicobeoordeling en classificeert traditioneel bereide Kava als veilig.",
+      "details": "De beoordeling maakt onderscheid tussen traditionele bereiding (veilig) en extracten (potentieel problematisch). Het gebruik van niet-wortelonderdelen wordt als risicofactor geïdentificeerd.",
+      "location": "Internationaal",
+      "links": [
+        {
+          "label": "Veiligheid",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Rehabilitatie in Duitsland",
+      "description": "Duitse rechtbanken heffen het Kava-verbod op. De oorspronkelijke beslissing wordt als wetenschappelijk ongegrond beschouwd.",
+      "details": "De Bundesverwaltungsgericht oordeelt dat de risicobeoordeling foutief was. Kava-producten kunnen weer legaal worden verkocht.",
+      "location": "Duitsland",
+      "links": [
+        {
+          "label": "Juridische status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Codex Alimentarius standaard",
+      "description": "De Codex Alimentarius neemt een internationale standaard voor Kava als drank aan.",
+      "details": "De standaard definieert kwaliteitscriteria, kavalacton-grenswaarden en etiketteringseisen. Een mijlpaal voor de internationale handel.",
+      "location": "Internationaal"
+    },
+    "global-expansion": {
+      "year": "2020er",
+      "title": "Globale expansie van Kava-bars",
+      "description": "Meer dan 200 Kava-bars openen in de VS. De 'Sober Curious'-beweging stimuleert de groei.",
+      "details": "Kava wordt populair als alcoholvrij alternatief voor sociale ontspanning. Steden zoals Austin, Denver en New York ontwikkelen levendige Kava-scènes.",
+      "location": "VS / Europa / Australië",
+      "links": [
+        {
+          "label": "Moderne Kava-cultuur",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020er",
+      "title": "Klimaatverandering-uitdagingen",
+      "description": "Pacifische Kava-boeren worstelen met de gevolgen van klimaatverandering voor hun oogsten.",
+      "details": "Veranderende neerslagpatronen, cyclonen en stijgende temperaturen bedreigen traditionele teeltgebieden. Duurzame teeltmethoden worden belangrijker.",
+      "location": "Stille Zuidzee",
+      "links": [
+        {
+          "label": "Teelt",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "Vandaag",
+      "title": "Culturele renaissance",
+      "description": "Jonge generaties in de Stille Zuidzee stichten 'Kava Collectives' en documenteren traditioneel kennis digitaal.",
+      "details": "Podcasts, YouTube-kanalen en Instagram-accounts verspreiden Kava-cultuur wereldwijd. De verbinding van traditie en moderniteit creëert nieuwe vormen van culturele identiteit.",
+      "location": "Stille Zuidzee / Globaal",
+      "links": [
+        {
+          "label": "Cultuur & Traditie",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Overzicht",
+    "events": "Evenementen",
+    "epochs": "Epochs",
+    "yearsOfHistory": "Jaren van Geschiedenis",
+    "milestones": "Mijlpalen",
+    "keyMilestones": "Belangrijke Mijlpalen",
+    "relatedPages": "Gerelateerde Pagina's",
+    "noEventsFound": "Geen evenementen gevonden voor deze filters.",
+    "resetFilters": "Filters resetten",
+    "bce": "v.Chr.",
+    "origins": "De Oorsprongen",
+    "spreadPacific": "Verspreiding in de Stille Oceaan",
+    "modernHistory": "Moderne Geschiedenis",
+    "interactiveMap": "Interactieve Wereldkaart"
+  }
+}

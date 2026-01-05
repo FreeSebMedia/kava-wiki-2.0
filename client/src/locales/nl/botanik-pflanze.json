@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "De Plant",
+    "subtitle": "Taxonomie, nomenclatuur en de relatie tussen Piper methysticum en zijn wilde voorouder.",
+    "category": "Botanie"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanie",
+    "pflanze": "De Plant"
+  },
+  "toc": {
+    "taxonomie": "Taxonomische indeling",
+    "name": "Betekenis van de naam",
+    "wichmannii": "Piper wichmannii – De wilde voorouder",
+    "unterschiede": "Verschillen met de gecultiveerde soort",
+    "domestikation": "Domesticatie & Evolutie",
+    "kulturgut": "Kava als levend cultureel erfgoed"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> is geen gewone gewasplant. Het is het resultaat van duizenden jaren menselijke selectie en bestaat vandaag de dag uitsluitend als gecultiveerde vorm. Wilde populaties bestaan niet meer – elke Kava-plant ter wereld is een kloon die door menselijke hand is doorgegeven."
+  },
+  "taxonomie": {
+    "title": "Taxonomische indeling",
+    "intro": "Kava behoort tot de familie van de <strong>Piperaceae</strong> (peperfamilie), een van de oudste bloemplantenfamilies. Deze familie omvat ongeveer 3.600 soorten in 5 geslachten, waaronder de bekende zwarte peper (<em>Piper nigrum</em>).",
+    "table": {
+      "headers": {
+        "rank": "Taxonomische rang",
+        "classification": "Classificatie",
+        "note": "Opmerking"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Rijk",
+          "classification": "Plantae",
+          "note": "Planten"
+        },
+        "unterreich": {
+          "rank": "Onder rijk",
+          "classification": "Tracheobionta",
+          "note": "Vaatplanten"
+        },
+        "abteilung": {
+          "rank": "Afdeling",
+          "classification": "Magnoliophyta",
+          "note": "Bedektzadigen"
+        },
+        "klasse": {
+          "rank": "Klasse",
+          "classification": "Magnoliopsida",
+          "note": "Tweezaadlobbigen"
+        },
+        "ordnung": {
+          "rank": "Orde",
+          "classification": "Piperales",
+          "note": "Peperachtigen"
+        },
+        "familie": {
+          "rank": "Familie",
+          "classification": "Piperaceae",
+          "note": "Pepergewassen"
+        },
+        "gattung": {
+          "rank": "Geslacht",
+          "classification": "<em>Piper</em> L.",
+          "note": "Ongeveer 2.000 soorten wereldwijd"
+        },
+        "art": {
+          "rank": "Soort",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "Eerste beschrijving 1786"
+        }
+      }
+    },
+    "forster": "De eerste beschrijving vond plaats in 1786 door <strong>Johann Georg Adam Forster</strong>, een Duitse natuuronderzoeker die James Cook op zijn tweede wereldreis begeleidde. Forster documenteerde de plant en het gebruik ervan op de Pacific-eilanden."
+  },
+  "name": {
+    "title": "Betekenis van de naam",
+    "intro": "De wetenschappelijke naam <em>Piper methysticum</em> is een combinatie van Latijn en Grieks:",
+    "piper": {
+      "title": "Piper",
+      "description": "Latijn voor \"peper\". Verwijst naar de verwantschap met de familie van de pepergewassen en de licht pittige smaak van de wortel."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "Van het Griekse <em>μεθυστικός</em> (methystikos) = \"bedwelmend\" of \"dronken makend\". Beschrijft de psychoactieve werking van de plant."
+    },
+    "localNames": {
+      "intro": "De naam \"Kava\" zelf komt uit de Austronesische talen van de Stille Oceaan. In verschillende regio's bestaan verschillende benamingen:",
+      "headers": {
+        "region": "Regio",
+        "name": "Lokale naam",
+        "meaning": "Betekenis"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Bitter\""
+        },
+        "fiji": {
+          "region": "Fiji",
+          "name": "Yaqona",
+          "meaning": "\"Bittere wortel\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Pittig, bitter\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Bitter\""
+        },
+        "hawaii": {
+          "region": "Hawaii",
+          "name": "'Awa",
+          "meaning": "\"Bitter\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Kava-drank\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – De wilde voorouder",
+    "intro": "De nauwste verwante soort van <em>Piper methysticum</em> is <strong>Piper wichmannii</strong>, die als wilde voorouder van de huidige gecultiveerde Kava wordt beschouwd. Deze soort komt van nature voor in Papoea-Nieuw-Guinea, de Salomonseilanden en het noordelijke Vanuatu.",
+    "alert": "<strong>Belangrijk:</strong> <em>Piper wichmannii</em> wordt soms \"Wild Kava\" genoemd en lokaal geconsumeerd. Het bevat echter een ander kavalactonprofiel en wordt als minder verdraagzaam beschouwd dan de gecultiveerde edelkava-soorten.",
+    "differences": {
+      "title": "Verschillen tussen P. methysticum en P. wichmannii",
+      "headers": {
+        "feature": "Kenmerk",
+        "methysticum": "<em>P. methysticum</em> (gecultiveerd)",
+        "wichmannii": "<em>P. wichmannii</em> (wild)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Voortplanting",
+          "methysticum": "Steriel, alleen vegetatief",
+          "wichmannii": "Fertiel, produceert zaden"
+        },
+        "chromosomen": {
+          "feature": "Chromosoomaantal",
+          "methysticum": "Dekaploïd (2n = 130)",
+          "wichmannii": "Diploïd (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Kavalacton-gehalte",
+          "methysticum": "Hoger, geoptimaliseerd",
+          "wichmannii": "Lager, variabel"
+        },
+        "chemotyp": {
+          "feature": "Chemotype",
+          "methysticum": "Geselecteerd op verdraagzaamheid",
+          "wichmannii": "Vaak \"Tudei\"-achtig"
+        },
+        "verbreitung": {
+          "feature": "Verspreiding",
+          "methysticum": "Alleen door mensen",
+          "wichmannii": "Natuurlijke verspreiding"
+        },
+        "nutzung": {
+          "feature": "Traditioneel gebruik",
+          "methysticum": "Duizenden jaren gedocumenteerd",
+          "wichmannii": "Beperkt, vaak vermeden"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Domesticatie & Evolutie",
+    "intro": "De domesticatie van Kava begon vermoedelijk ongeveer <strong>3.000 jaar</strong> geleden in het noordelijke Vanuatu. Genetische studies tonen aan dat <em>Piper methysticum</em> is ontstaan door herhaalde hybridisatie en polyploïdisering uit <em>Piper wichmannii</em>.",
+    "changes": "Het proces van domesticatie leidde tot verschillende belangrijke veranderingen:",
+    "cards": {
+      "polyploidie": {
+        "title": "Verhoogde polyploidie",
+        "description": "Terwijl <em>P. wichmannii</em> diploïd is (2n = 26), is <em>P. methysticum</em> dekaploïd (2n = 130). Deze vermenigvuldiging van het chromosomenaantal leidde tot grotere wortels en een hoger kavalacton-gehalte."
+      },
+      "fertilitaet": {
+        "title": "Verlies van fertiliteit",
+        "description": "De hoge polyploïdie leidde tot steriel zijn. De plant produceert wel bloemen, maar geen levensvatbare zaden. Dit maakte haar volledig afhankelijk van de mens."
+      },
+      "wirkprofil": {
+        "title": "Geoptimaliseerd werkprofiel",
+        "description": "Door gerichte selectie werden variëteiten met een aangenamere werking en betere verdraagzaamheid geprefereerd. Dit leidde tot de ontwikkeling van de huidige \"edelkava\"-variëteiten."
+      },
+      "sortenvielfalt": {
+        "title": "Variëteit",
+        "description": "Vandaag de dag bestaan er meer dan 80 gedocumenteerde cultivars alleen in Vanuatu. Elke variëteit heeft een uniek chemotype-profiel en karakteristieke werkingseigenschappen."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "Kava als levend cultureel erfgoed",
+    "paragraph1": "Aangezien Kava zich niet zelf kan voortplanten, is elke vandaag de dag bestaande plant het resultaat van een ononderbroken keten van menselijke overdracht. Stekken zijn van generatie op generatie, van familie naar familie, van dorp naar dorp doorgegeven.",
+    "quote": {
+      "text": "Kava is daarmee een van de oudste gedocumenteerde voorbeelden van bewuste selectieve landbouw in de Zuid-Pacifische regio. De plant is een levend cultureel erfgoed – doorgegeven van generatie op generatie.",
+      "author": "Sebastian Freidank, \"Kava – Wortel van de Rust\""
+    },
+    "paragraph2": "In de herkomstlanden wordt Kava niet alleen als gewasplant gezien, maar vaak ook als een <strong>levend wezen</strong> – met naam, karakter en geschiedenis. Het is niet ongebruikelijk dat individuele planten worden genoemd en in rituelen worden vereerd. Deze diepe verbinding tussen mens en plant is wat Kava niet alleen effectief, maar ook betekenisvol maakt.",
+    "paragraph3": "De afhankelijkheid van de mens heeft ook een schaduwzijde: Zonder continue cultivatie zou <em>Piper methysticum</em> binnen een generatie uitsterven. Dit benadrukt de verantwoordelijkheid die gepaard gaat met de teelt en handel van Kava."
+  },
+  "navigation": {
+    "nextChapter": "Verder in het hoofdstuk Botanie:",
+    "morphologie": {
+      "title": "Morfoologie",
+      "description": "Anatomie & wortelsysteem van de Kava-plant"
+    }
+  }
+}

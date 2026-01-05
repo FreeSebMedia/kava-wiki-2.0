@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Veiligheid & Gezondheid",
+    "subtitle": "Feiten in plaats van mythes: Een wetenschappelijke blik op hepatotoxiciteit, bijwerkingen en veilig gebruik.",
+    "category": "Veiligheid"
+  },
+  "toc": {
+    "title": "Inhoud",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Wetenschappelijk Consens",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Hoofdstukoverzicht",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Leverveiligheid",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interacties",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Contra-indicaties",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Dosering aanbevelingen",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Mogelijke bijwerkingen",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Veiligheidschecklist",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Huidig wetenschappelijk consens",
+    "intro": "Na uitgebreide analyses door <strong>WHO</strong>, <strong>EMA</strong> en onafhankelijke onderzoekers:",
+    "points": [
+      "Traditioneel bereide Kava van Noble-soorten is bij correct gebruik <strong>veilig</strong>",
+      "Ernstige leverschade is <strong>extreem zeldzaam</strong> (geschatte incidentie: 1:60.000 tot 1:1.000.000)",
+      "Het EU-verbod van 2002 werd door Duitse rechtbanken als <strong>onevenredig</strong> beoordeeld",
+      "Risico's ontstaan voornamelijk door <strong>kwaliteitsgebreken</strong>, <strong>onjuiste plantendelen</strong> of <strong>gemengd gebruik</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Hoofdstukoverzicht: Veiligheid in detail",
+    "intro": "Dit hoofdstuk biedt een uitgebreide, wetenschappelijk onderbouwde analyse van alle veiligheidsrelevante aspecten van Kava. Klik op de subpagina's voor gedetailleerde informatie:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Leverveiligheid & Hepatotoxiciteit",
+        "href": "/de/sicherheit/leber",
+        "description": "De wetenschappelijke waarheid over het verbod van 2002, WHO- en EMA-beoordelingen, risicofactoren en praktische aanbevelingen.",
+        "highlights": [
+          "WHO-beoordeling 2007",
+          "EMA-rapport 2017",
+          "Rechtbankuitspraken",
+          "Risicofactoren"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interacties met medicijnen",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalactonen remmen CYP450-enzymen: Volledige overzicht van hoogrisico-combinaties en gematigde interacties.",
+        "highlights": [
+          "CYP450-systeem",
+          "Hoogrisico-combinaties",
+          "Interactietabel",
+          "Praktische tips"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Contra-indicaties",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Wanneer Kava niet gebruikt moet worden: Absolute en relatieve contra-indicaties voor een veilige omgang.",
+        "highlights": [
+          "Leverziekten",
+          "Zwangerschap",
+          "Parkinson",
+          "Beslissingshulp"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Dosering aanbevelingen",
+    "intro": "De optimale dosis hangt sterk af van de individuele tolerantie (\"Reverse Tolerance\") en de Kava-soort. Begin altijd met lagere doses.",
+    "boxTitle": "Richtlijnen voor Kavalactonen",
+    "medical": {
+      "title": "Medisch (Angst)",
+      "value": "60–240 mg",
+      "unit": "Kavalactonen per dag"
+    },
+    "traditional": {
+      "title": "Traditioneel / Recreatief",
+      "value": "250–500 mg",
+      "unit": "Kavalactonen per sessie"
+    },
+    "tableTitle": "Bereiding met wortelpoeder (Medium Grind)",
+    "table": {
+      "headers": {
+        "level": "Ervaringsniveau",
+        "amount": "Hoeveelheid",
+        "water": "Water"
+      },
+      "rows": [
+        {
+          "level": "Beginner",
+          "amount": "2-3 EL (ca. 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Gevorderden",
+          "amount": "4-6 EL (ca. 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Mogelijke bijwerkingen",
+    "intro": "Hoewel Kava bij correct gebruik veilig is, kunnen er bijwerkingen optreden, vooral bij overmatig gebruik.",
+    "frequent": {
+      "title": "Vaak (dosisafhankelijk)",
+      "items": [
+        {
+          "label": "Vermoeidheid:",
+          "value": "Bijzonder bij \"Heavy\"-soorten"
+        },
+        {
+          "label": "Misselijkheid:",
+          "value": "Bij hoge doses op een lege maag"
+        },
+        {
+          "label": "Dehydratatie:",
+          "value": "Kava heeft een diuretisch effect"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Bij chronisch gebruik",
+      "items": [
+        {
+          "label": "Kava-dermatopathie:",
+          "value": "Droge, schilferige huid (reversibel)"
+        },
+        {
+          "label": "GGT-verhoging:",
+          "value": "Leverenzym stijgt licht (reversibel)"
+        },
+        {
+          "label": "Gewichtsverlies:",
+          "value": "Bij zeer hoog gebruik"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Veiligheidschecklist",
+    "boxTitle": "Voor veilig Kava-gebruik",
+    "items": [
+      "<strong>Gebruik alleen Noble-Kava</strong> van vertrouwde bronnen",
+      "<strong>Gebruik alleen wortel/rhizoom</strong> – geen bladeren of stelen",
+      "<strong>Geef de voorkeur aan traditionele waterbereiding</strong>",
+      "<strong>Geen alcohol</strong> – minimaal 24 uur afstand"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Medicijnen-check</strong> – ",
+        "linkText": "Interacties controleren",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Let op contra-indicaties</strong> – ",
+        "linkText": "Checklist bekijken",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Let op waarschuwingssignalen",
+      "text": "Bij geelverkleuring van huid/o ogen, donkere urine, lichte ontlasting of ongebruikelijke vermoeidheid, stop onmiddellijk met gebruik en raadpleeg een arts."
+    }
+  },
+  "quickLinks": {
+    "title": "Gedetailleerde informatie",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Leverveiligheid",
+        "description": "Hepatotoxiciteit & het verbod 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interacties",
+        "description": "Medicijnen & CYP450-interacties",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Contra-indicaties",
+        "description": "Wanneer Kava vermeden moet worden",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

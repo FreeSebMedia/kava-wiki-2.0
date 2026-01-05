@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "Het Chemotype-systeem",
+    "subtitle": "Hoe de 6-cijferige code de werking van een Kava-soort voorspelt en Noble van Tudei onderscheidt.",
+    "category": "Inhoudsstoffen"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "inhaltsstoffe": "Inhoudsstoffen",
+    "current": "Chemotypen"
+  },
+  "toc": {
+    "title": "Inhoud",
+    "einfuehrung": "Wat is een chemotype?",
+    "nummerierung": "De nummering van de kavalactonen",
+    "lesen": "Een chemotype lezen",
+    "beispiele": "Voorbeelden & Interpretatie",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Tudei-herkenning op basis van het chemotype",
+    "wirkungsprofile": "Werkingsprofielen op basis van chemotype",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Balanced Kavas",
+    "qualitaet": "Chemotype & kwaliteitscontrole"
+  },
+  "einfuehrung": {
+    "paragraph1": "Het <strong>Chemotype</strong> is een 6-cijferige code die de zes belangrijkste kavalactonen in aflopende volgorde van hun concentratie opsomt. Het functioneert als een \"vingerafdruk\" voor elke Kava-soort en maakt het mogelijk om de verwachte werking te voorspellen – nog voordat je een slok hebt genomen.",
+    "paragraph2": "Dit systeem werd in de jaren 80 ontwikkeld door Vincent Lebot en is vandaag de internationale standaard voor de classificatie en kwaliteitscontrole van Kava. Het is het belangrijkste hulpmiddel om hoogwaardige \"Noble Kava\" van inferieure \"Tudei Kava\" te onderscheiden."
+  },
+  "nummerierung": {
+    "title": "De nummering van de kavalactonen",
+    "intro": "Elk van de zes belangrijkste kavalactonen is gekoppeld aan een cijfer. Deze toewijzing is historisch bepaald en is gebaseerd op de volgorde van hun ontdekking of chromatografische elutie:",
+    "tableHeaders": {
+      "digit": "Cijfer",
+      "kavalacton": "Kavalacton",
+      "abbreviation": "Afkorting",
+      "effect": "Hoofdeffect"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Focus, dopamineverhoging"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Spierontspanning, analgesie"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "CB1-activiteit, euforie"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Angstwerend, \"Heady\"-effect"
+      },
+      {
+        "digit": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Langdurig sedatief, Tudei-marker"
+      },
+      {
+        "digit": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Sedatief, neuroprotectief"
+      }
+    ],
+    "mnemonic": "<strong>Ezelsbruggetje:</strong> De cijfers <strong>4</strong> (Kavain) en <strong>2</strong> (Dihydrokavain) zijn de \"goede\" startposities voor Noble Kava. Het cijfer <strong>5</strong> (Dihydromethysticin) op de eerste twee plaatsen is een waarschuwingssignaal voor Tudei-Kava."
+  },
+  "lesen": {
+    "title": "Een chemotype lezen",
+    "intro": "Het chemotype wordt geschreven als een 6-cijferig getal, waarbij elke positie de relatieve concentratie aangeeft:",
+    "positions": [
+      {
+        "rank": "1e Plaats",
+        "label": "Hoogste conc.",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "2e Plaats",
+        "label": "Tweede hoogste",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3e Plaats",
+        "label": "Derde hoogste",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4e Plaats",
+        "label": "Vierde hoogste",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5e Plaats",
+        "label": "Vijfde hoogste",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6e Plaats",
+        "label": "Laagste",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Voorbeelden & Interpretatie",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Typische Noble Kava (bijv. Borogu)",
+        "description": "<strong>Kavain</strong> domineert, gevolgd door <strong>Dihydrokavain</strong>. DHM (5) staat slechts op plaats 4. Verwachte werking: Duidelijke, gefocuste ontspanning met goede spierrelaxatie. Geen \"kater\"."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, lichamelijk gericht (bijv. Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> op de eerste plaats betekent sterkere lichamelijke ontspanning. Ideaal voor de avond. Nog steeds Noble, aangezien DHM (5) ver achteraan staat."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (bijv. Isa)",
+        "description": "<strong>DHM (5)</strong> op de eerste plaats is een duidelijk waarschuwingssignaal. Verwachte werking: Zeer langdurige sedatie (12+ uur), mogelijke misselijkheid, \"kater\" de volgende dag. Niet geschikt voor regelmatig gebruik."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (bijv. Palimanu)",
+        "description": "<strong>DHM (5)</strong> op plaats 2 is ook problematisch. Ook al staat DHK (2) vooraan, maakt het hoge DHM-aandeel deze soort ongeschikt voor export en regelmatig gebruik."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Het onderscheid tussen <strong>Noble Kava</strong> (Edelkava) en <strong>Tudei Kava</strong> (Two-Day Kava) is fundamenteel voor de Kava-kwaliteit. De naam \"Tudei\" komt van het feit dat de werking van deze soorten tot twee dagen kan aanhouden – met onaangename bijwerkingen.",
+    "tableHeaders": {
+      "criterion": "Criteria",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Chemotype-start",
+        "noble": "Begint met 4 of 2, nooit met 5",
+        "tudei": "Begint vaak met 5 of heeft 5 op plaats 2"
+      },
+      {
+        "criterion": "Werkingsinzet",
+        "noble": "Snel (10-20 minuten)",
+        "tudei": "Vertraagd (30-90 minuten)"
+      },
+      {
+        "criterion": "Werkingsduur",
+        "noble": "Gemiddeld (3-6 uur)",
+        "tudei": "Zeer lang (6-12+ uur)"
+      },
+      {
+        "criterion": "Werkingskarakter",
+        "noble": "Duidelijk, ontspannen, sociaal",
+        "tudei": "Dof, sedatief, verdoofd"
+      },
+      {
+        "criterion": "Bijwerkingen",
+        "noble": "Minimaal bij correcte bereiding",
+        "tudei": "Misselijkheid, hoofdpijn, \"kater\""
+      },
+      {
+        "criterion": "Exporttoelating",
+        "noble": "Ja (gereguleerd)",
+        "tudei": "Nee (in Vanuatu verboden)"
+      },
+      {
+        "criterion": "Voorbeeld-soorten",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wildkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Tudei-herkenning op basis van het chemotype",
+    "intro": "De eenvoudigste regel voor het herkennen van Tudei-Kava:",
+    "warningTitle": "Waarschuwingssignalen",
+    "warnings": [
+      "<strong>5</strong> op positie 1 of 2",
+      "<strong>5</strong> voor <strong>4</strong> in het chemotype",
+      "Zeer hoog totaalpercentage DHM (>15%)"
+    ],
+    "safeTitle": "Veilige tekenen",
+    "safeIndicators": [
+      "<strong>4</strong> of <strong>2</strong> op positie 1",
+      "<strong>5</strong> op positie 4, 5 of 6",
+      "Kavain-dominantie (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Werkingsprofielen op basis van chemotype",
+    "intro": "Op basis van het chemotype kunnen Noble Kava-soorten in drie hoofdcategorieën worden ingedeeld:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavas hebben <strong>Kavain (4)</strong> op de eerste plaats en kenmerken zich door een primair mentale werking. Ze bevorderen focus, helderheid en een aangename stemmingsverbetering, zonder sterk te sederen.",
+    "idealTitle": "Ideaal voor:",
+    "idealFor": [
+      "Sociale gelegenheden en gesprekken",
+      "Creatief werk",
+      "Overdag of vroege avond",
+      "Beginners (mildere werking)"
+    ],
+    "examples": "<strong>Voorbeeld-soorten:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavas hebben <strong>Dihydrokavain (2)</strong> op de eerste plaats en werken primair op het lichaam. Ze bieden sterke spierontspanning en zijn ideaal om af te schakelen na een lange dag.",
+    "idealTitle": "Ideaal voor:",
+    "idealFor": [
+      "Avondontspanning",
+      "Stressvermindering en spierontspanning",
+      "Slaapvoorbereiding",
+      "Ervaren Kava-drinkers"
+    ],
+    "examples": "<strong>Voorbeeld-soorten:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Balanced Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Balanced Kavas hebben een evenwichtige verdeling van Kavain en Dihydrokavain en bieden zowel mentale helderheid als lichamelijke ontspanning. Ze zijn de veelzijdigste soorten.",
+    "idealTitle": "Ideaal voor:",
+    "idealFor": [
+      "Dagelijks gebruik",
+      "Meditatie en mindfulness",
+      "Veelzijdig gebruik (dag of avond)",
+      "Alle ervaringsniveaus"
+    ],
+    "examples": "<strong>Voorbeeld-soorten:</strong> Bir Kar, Melomelo (afhankelijk van de partij)"
+  },
+  "qualitaet": {
+    "title": "Chemotype & kwaliteitscontrole",
+    "intro": "Het chemotype is vandaag de belangrijkste instrument voor de <strong>kwaliteitscontrole</strong> in de internationale Kava-handel. In Vanuatu, de grootste Kava-exporteur, is de analyse van het chemotype wettelijk verplicht voordat Kava geëxporteerd mag worden.",
+    "lawTitle": "Vanuatu Kava Act (2002)",
+    "lawText": "De Kava-wet van Vanuatu stelt dat alleen <strong>Noble Kava-soorten</strong> voor export zijn toegestaan. Tudei-soorten en hun mengsels zijn uitgesloten van export. De naleving wordt gecontroleerd door chemotype-analyses.",
+    "lawNote": "Dit is een van de redenen waarom Kava uit Vanuatu als bijzonder hoogwaardig wordt beschouwd – er zijn overheidskwaliteitscontroles die Tudei-contaminatie moeten voorkomen.",
+    "consumerTip": "<strong>Tip voor consumenten:</strong> Betrouwbare Kava-handelaren geven het chemotype van hun producten aan of kunnen het op verzoek meedelen. Als een handelaar geen chemotype-informatie kan verstrekken, is voorzichtigheid geboden."
+  },
+  "navigation": {
+    "nextCategory": "Verder naar de volgende categorie:",
+    "sortenTitle": "Soorten & Variëteiten",
+    "sortenDescription": "Meer dan 80 gedocumenteerde Kava-soorten en hun eigenschappen"
+  }
+}
