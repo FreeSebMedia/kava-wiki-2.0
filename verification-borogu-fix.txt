@@ -1,0 +1,22 @@
+# Borogu Fix Verification - December 24, 2025
+
+## Issue
+Borogu needed to be listed in BOTH "Heady Sorten" AND "Balanced Sorten" categories 
+with "Heavy / Balanced" badge, as it has characteristics of both categories.
+
+## Fix Applied
+1. Added Borogu to headySorten array with badge: "Heavy / Balanced"
+2. Updated Borogu in balancedSorten array with badge: "Heavy / Balanced"  
+3. Modified rendering logic to display custom badge if provided
+
+## Verification (Screenshots taken)
+- Heady Sorten section: Borogu appears with "Heavy / Balanced" badge ✓
+- Balanced Sorten section: Borogu appears with "Heavy / Balanced" badge ✓
+- Sortenvergleich table: Borogu shows "Heavy / Balanced" type ✓
+
+## Consistency Check
+This is now consistent with the Vanuatu-Sorten page where Borogu is described as:
+"Vielseitig einsetzbar: kopfbetonte Anfangswirkung, dann körperliche Entspannung"
+(Versatile: head-focused initial effect, then physical relaxation)
+
+Fix complete and verified.
