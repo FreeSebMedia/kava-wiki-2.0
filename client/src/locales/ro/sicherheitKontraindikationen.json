@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Contraindicații",
+    "subtitle": "Când Kava nu ar trebui utilizat: Contraindicații absolute și relative pentru o utilizare sigură.",
+    "category": "Siguranță",
+    "breadcrumbs": {
+      "home": "Acasă",
+      "sicherheit": "Siguranță",
+      "current": "Contraindicații"
+    }
+  },
+  "toc": {
+    "title": "Conținut",
+    "zusammenfassung": "Rezumat",
+    "absolute": "Contraindicații absolute",
+    "leber": "Boli hepatice",
+    "schwangerschaft": "Sarcină și alăptare",
+    "kinder": "Copii și adolescenți",
+    "relative": "Contraindicații relative",
+    "parkinson": "Boala Parkinson",
+    "depression": "Depresie severă",
+    "operation": "Înainte de intervenții chirurgicale",
+    "fahren": "Conducere și utilizarea mașinilor",
+    "vorsicht": "Precauții speciale",
+    "genetik": "Factori genetici",
+    "alter": "Persoane în vârstă",
+    "entscheidungshilfe": "Ghid de decizie",
+    "quellen": "Surse"
+  },
+  "navigation": {
+    "continueTitle": "Continuare în capitolul Siguranță",
+    "items": [
+      {
+        "title": "Prezentare generală",
+        "href": "/de/sicherheit",
+        "description": "Înapoi la prezentarea generală a siguranței"
+      },
+      {
+        "title": "Siguranța hepatică",
+        "href": "/de/sicherheit/leber",
+        "description": "Hepatotoxicitate și interdicția din 2002"
+      },
+      {
+        "title": "Interacțiuni",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Medicamente și interacțiuni CYP450"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Prezentare generală importantă",
+    "intro": "Deși Kava este considerat sigur atunci când este utilizat corect, există anumite situații în care utilizarea nu este recomandată sau este contraindicată:",
+    "absolut": {
+      "title": "Contraindicat absolut:",
+      "items": [
+        "Boli hepatice",
+        "Sarcină și alăptare",
+        "Copii sub 18 ani"
+      ]
+    },
+    "relativ": {
+      "title": "Contraindicații relative:",
+      "items": [
+        "Boala Parkinson",
+        "Depresie severă",
+        "Înainte de intervenții chirurgicale planificate"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Contraindicații absolute",
+    "intro": "În următoarele condiții, Kava <strong>nu ar trebui utilizat în niciun caz</strong>. Riscul depășește cu mult orice beneficiu posibil."
+  },
+  "leber": {
+    "title": "Boli hepatice",
+    "label": "Strict contraindicat",
+    "intro": "Persoanele cu boli hepatice existente ar trebui să evite complet Kava:",
+    "items": [
+      {
+        "name": "Hepatită (A, B, C)",
+        "text": "Inflamație hepatică activă sau cronică"
+      },
+      {
+        "name": "Ciroză hepatică",
+        "text": "Indiferent de stadiu"
+      },
+      {
+        "name": "Ficat gras",
+        "text": "Boli hepatice alcoolice și non-alcoolice"
+      },
+      {
+        "name": "Valori hepatice crescute",
+        "text": "Creștere inexplicabilă a ALT, AST, GGT"
+      },
+      {
+        "name": "Deteriorări hepatice anterioare",
+        "text": "Chiar dacă sunt normalizate în prezent"
+      }
+    ],
+    "reasonLabel": "Justificare:",
+    "reason": "Ficatul este organul central pentru metabolizarea Kavalactonelor. În cazul unei funcții hepatice compromise, metabolitele se pot acumula și riscul de daune suplimentare crește."
+  },
+  "schwangerschaft": {
+    "title": "Sarcină și alăptare",
+    "label": "Strict contraindicat",
+    "intro": "Kava nu ar trebui utilizat în timpul sarcinii și alăptării:",
+    "items": [
+      {
+        "name": "Fără date de siguranță",
+        "text": "Nu există studii controlate privind siguranța în timpul sarcinii"
+      },
+      {
+        "name": "Capacitate de trecere a placentei",
+        "text": "Kavalactonele pot traversa bariera placentară"
+      },
+      {
+        "name": "Laptele matern",
+        "text": "Kavalactonele trec în laptele matern"
+      },
+      {
+        "name": "Relaxarea uterului",
+        "text": "Kavain poate relaxa mușchii uterini"
+      }
+    ],
+    "traditionLabel": "Practica tradițională:",
+    "tradition": "În culturile din Pacific, Kava nu este consumat tradițional de femeile gravide sau care alăptează."
+  },
+  "kinder": {
+    "title": "Copii și adolescenți",
+    "label": "Nu este recomandat sub 18 ani",
+    "intro": "Kava nu ar trebui utilizat de copii și adolescenți:",
+    "items": [
+      {
+        "name": "Dezvoltare",
+        "text": "Impactul asupra dezvoltării cerebrale nu a fost studiat"
+      },
+      {
+        "name": "Metabolism",
+        "text": "Copiii metabolizează substanțele diferit față de adulți"
+      },
+      {
+        "name": "Fără studii",
+        "text": "Nu există date clinice pentru acest grup de vârstă"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Contraindicații relative",
+    "intro": "În următoarele condiții, este necesară o atenție deosebită. Utilizarea poate fi posibilă în anumite circumstanțe, dar ar trebui să se facă doar după o evaluare atentă și, ideal, după consultarea unui medic."
+  },
+  "parkinson": {
+    "title": "Boala Parkinson",
+    "label": "Nu este recomandat",
+    "intro": "Kava poate agrava simptomele Parkinson:",
+    "items": [
+      {
+        "name": "Antagonism dopaminergic",
+        "text": "Kava poate diminua efectele dopaminergice"
+      },
+      {
+        "name": "Interacțiune cu Levodopa",
+        "text": "Poate reduce eficacitatea Levodopa"
+      },
+      {
+        "name": "Raporturi de caz",
+        "text": "Agravarea simptomelor sub Kava a fost documentată"
+      }
+    ],
+    "caseReportLabel": "Raport de caz:",
+    "caseReport": "Schelosky et al. (1995) au raportat despre o femeie de 45 de ani cu Parkinson, ale cărei simptome s-au agravat semnificativ sub administrarea de Kava."
+  },
+  "depression": {
+    "title": "Depresie severă",
+    "label": "Atenție necesară",
+    "intro": "În cazul depresiei severe, este necesară precauția:",
+    "items": [
+      {
+        "name": "Depresie CNS",
+        "text": "Kava poate intensifica lipsa de energie"
+      },
+      {
+        "name": "Interacțiune cu medicamente",
+        "text": "Interacțiuni cu antidepresivele posibile"
+      },
+      {
+        "name": "Automedicație",
+        "text": "Poate întârzia tratamentul profesional"
+      }
+    ],
+    "noteLabel": "Notă:",
+    "note": "În cazul anxietății ușoare până la moderate, Kava poate fi util, dar în cazul depresiei severe, tratamentul profesional ar trebui să aibă prioritate."
+  },
+  "operation": {
+    "title": "Înainte de intervenții chirurgicale planificate",
+    "label": "Opriți cu 2 săptămâni înainte",
+    "intro": "Kava ar trebui oprit înainte de intervențiile chirurgicale planificate:",
+    "items": [
+      {
+        "name": "Interacțiune cu anestezia",
+        "text": "Poate intensifica efectul agenților de anestezie"
+      },
+      {
+        "name": "Riscul de sângerare",
+        "text": "Posibilă interacțiune cu medicamente anticoagulante"
+      },
+      {
+        "name": "Funcția hepatică",
+        "text": "Importantă pentru metabolizarea agenților de anestezie"
+      }
+    ],
+    "recommendation": "Recomandare: Opriți Kava cu cel puțin 2 săptămâni înainte de o intervenție chirurgicală planificată și informați anestezistul despre consumul anterior."
+  },
+  "fahren": {
+    "title": "Conducere și utilizarea mașinilor",
+    "label": "Capacitate de conducere redusă",
+    "intro": "Kava poate afecta capacitatea de reacție:",
+    "items": [
+      {
+        "name": "Sedare",
+        "text": "Oboseală și reacții întârziate posibile"
+      },
+      {
+        "name": "Dependent de dozare",
+        "text": "Dozele mai mari afectează mai mult"
+      },
+      {
+        "name": "Diferențe individuale",
+        "text": "Sensibilitatea variază foarte mult"
+      }
+    ],
+    "noteLabel": "Notă:",
+    "note": "Spre deosebire de benzodiazepine, studiile arată că Kava afectează mai puțin funcția cognitivă. Cu toate acestea, ar trebui să cunoașteți reacția individuală înainte de a conduce."
+  },
+  "vorsicht": {
+    "title": "Precauții speciale",
+    "intro": "Pentru anumite grupuri de persoane, este necesară o atenție sporită, chiar și în absența unei contraindicații stricte."
+  },
+  "genetik": {
+    "title": "Factori genetici (polimorfisme CYP2D6)",
+    "label": "Sensibilitate crescută posibilă",
+    "intro": "Aproximativ 5-10% din populația europeană sunt \"Poor Metabolizers\" pentru CYP2D6:",
+    "items": [
+      {
+        "name": "Metabolizare mai lentă",
+        "text": "Kavalactonele rămân mai mult timp în organism"
+      },
+      {
+        "name": "Niveluri sanguine mai mari",
+        "text": "Efecte și reacții adverse amplificate"
+      },
+      {
+        "name": "Recunoaștere",
+        "text": "Reacție neobișnuit de puternică la doze normale"
+      }
+    ],
+    "recommendationLabel": "Recomandare:",
+    "recommendation": "Dacă reacționați neobișnuit la Kava, ar putea exista un factor genetic. Începeți cu doze mai mici."
+  },
+  "alter": {
+    "title": "Persoane în vârstă",
+    "label": "Dozare ajustată recomandată",
+    "intro": "Pentru persoanele în vârstă, este necesară o atenție deosebită:",
+    "items": [
+      {
+        "name": "Funcție hepatică redusă",
+        "text": "Metabolizare mai lentă la vârstnici"
+      },
+      {
+        "name": "Polifarmacie",
+        "text": "Riscuri mai mari de interacțiuni"
+      },
+      {
+        "name": "Risc de cădere",
+        "text": "Sedarea poate crește riscul de cădere"
+      }
+    ],
+    "recommendationLabel": "Recomandare:",
+    "recommendation": "Începeți cu jumătate din doza obișnuită și creșteți treptat."
+  },
+  "entscheidungshilfe": {
+    "title": "Ghid de decizie: Este Kava potrivit pentru mine?",
+    "selfCheck": {
+      "title": "Auto-evaluare înainte de consumul de Kava",
+      "nicht": {
+        "title": "Kava nu este POTRIVIT dacă:",
+        "items": [
+          "Aveți sau ați avut o boală hepatică",
+          "Sunteți gravidă sau alăptați",
+          "Aveți sub 18 ani",
+          "Consumați alcool regulat",
+          "Luați benzodiazepine sau antipsihotice",
+          "Luați anticoagulante (substanțe care subțiază sângele)"
+        ]
+      },
+      "arzt": {
+        "title": "Discutați cu medicul dumneavoastră dacă:",
+        "items": [
+          "Aveți boala Parkinson",
+          "Sufereți de depresie severă",
+          "Luați medicamente regulat",
+          "Aveți o intervenție chirurgicală planificată",
+          "Aveți peste 65 de ani"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava poate fi potrivit dacă:",
+        "items": [
+          "Sunteți sănătos și nu aveți probleme hepatice",
+          "Nu luați niciunul dintre medicamentele menționate mai sus",
+          "Consumați alcool rar sau ocazional",
+          "Sunteți adult (peste 18 ani)",
+          "Nu sunteți gravidă sau alăptați"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Recomandare generală",
+      "text": "În caz de îndoială, consultați un medic sau farmacist înainte de a consuma Kava, în special dacă luați medicamente regulat sau aveți restricții de sănătate."
+    }
+  },
+  "warnzeichen": {
+    "title": "Semne de avertizare: Când ar trebui să opriți imediat",
+    "intro": "Opriți imediat consumul și consultați un medic dacă:",
+    "items": [
+      {
+        "name": "Îngălbenire",
+        "text": "a pielii sau ochilor (icter)"
+      },
+      {
+        "name": "Urina închisă la culoare",
+        "text": "(de culoare berii)"
+      },
+      {
+        "name": "Scaun deschis la culoare",
+        "text": "(decolorat)"
+      },
+      {
+        "name": "Oboseală neobișnuită",
+        "text": "sau slăbiciune"
+      },
+      {
+        "name": "Nausee",
+        "text": "sau lipsă de apetit"
+      },
+      {
+        "name": "Durere",
+        "text": "în partea dreaptă a abdomenului superior"
+      }
+    ],
+    "note": "Aceste simptome pot indica probleme hepatice și necesită o evaluare medicală imediată."
+  },
+  "quellen": {
+    "title": "Surse",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Raport de evaluare privind Piper methysticum G. Forst., rizom.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "OMS (2007):",
+        "title": "Evaluarea riscului de hepatotoxicitate cu produsele Kava.",
+        "source": "Raport tehnic OMS."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava și antagonismul dopaminergic.",
+        "source": "Journal of Neurology, Neurosurgery & Psychiatry."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: o revizuire cuprinzătoare a eficacității, siguranței și psihofarmacologiei.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "O listă completă a tuturor studiilor citate poate fi găsită pe pagina noastră de",
+    "studiesLink": "Studii"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Calculadora de Dosagem",
+    "subtitle": "Calcule sua dosagem ideal de Kava com base na variedade, experiência e método de preparo.",
+    "category": "Preparo"
+  },
+  "breadcrumbs": {
+    "home": "Início",
+    "zubereitung": "Preparo",
+    "current": "Calculadora de Dosagem"
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Calculadora de Dosagem",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Sua Recomendação",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Notas Importantes",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Fatores de Influência",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Selecionar variedade de Kava",
+    "selectStrainPlaceholder": "-- Escolher variedade --",
+    "potency": "Potência",
+    "experienceLevel": "Nível de experiência",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Iniciante",
+        "desc": "Primeiras semanas"
+      },
+      "regular": {
+        "label": "Regular",
+        "desc": "Vários meses"
+      },
+      "experienced": {
+        "label": "Experiente",
+        "desc": "1+ anos"
+      }
+    },
+    "prepMethod": "Método de preparo",
+    "methods": {
+      "traditional": {
+        "label": "Tradicional",
+        "desc": "Sovar"
+      },
+      "blender": {
+        "label": "Liquidificador",
+        "desc": "Mixer"
+      },
+      "instant": {
+        "label": "Instantâneo",
+        "desc": "Micronizado"
+      }
+    },
+    "bodyWeight": "Peso corporal",
+    "kg": "kg",
+    "calculate": "Calcular dosagem",
+    "instantPowder": "Pó Instantâneo",
+    "mediumGrind": "Pó Moído Médio",
+    "water": "Água",
+    "kavalactones": "Kavalactona (estimada)",
+    "prepTime": "Tempo de preparo",
+    "min": "Min",
+    "toPrepGuide": "Para o guia de preparo"
+  },
+  "results": {
+    "title": "Sua recomendação pessoal",
+    "bestTime": {
+      "title": "Melhor horário de uso",
+      "heady": "Durante o dia, para eventos sociais ou atividades criativas",
+      "heavy": "À noite, para relaxamento ou antes de dormir",
+      "balanced": "Flexível, adequado a qualquer hora do dia"
+    },
+    "tip": {
+      "title": "Dica para esta variedade",
+      "default": "Aprecie esta variedade com o estômago vazio para melhor efeito."
+    }
+  },
+  "notes": {
+    "title": "Notas Importantes",
+    "safety": {
+      "title": "Orientações gerais de segurança",
+      "items": [
+        "Beba Kava sempre com <strong>estômago vazio</strong> (3-4h após a refeição)",
+        "Comece com uma <strong>dosagem mais baixa</strong> e aumente lentamente",
+        "<strong>Tolerância Reversa:</strong> Nas primeiras vezes, o efeito pode ser mais fraco",
+        "Nunca combine Kava <strong>com álcool</strong> ou medicamentos",
+        "Em caso de doenças hepáticas ou gravidez: <strong>Sem Kava</strong>"
+      ]
+    },
+    "about": {
+      "title": "Sobre esta calculadora",
+      "text": "Os valores calculados são <strong>valores de referência</strong> baseados em teores médios de kavalactona e experiências. O efeito real pode variar dependendo da sensibilidade individual, lote e fabricante."
+    }
+  },
+  "factors": {
+    "title": "Fatores de influência na dosagem",
+    "items": [
+      {
+        "title": "Potência da variedade",
+        "text": "Variedades diferentes têm teores de kavalactona distintos. Uma variedade 5 estrelas como Loa Waka requer menos pó do que uma variedade mais suave de 3 estrelas como Pouni Ono."
+      },
+      {
+        "title": "Peso corporal",
+        "text": "Pessoas mais pesadas geralmente precisam de mais Kava para o mesmo efeito. A calculadora ajusta a recomendação de acordo."
+      },
+      {
+        "title": "Método de preparo",
+        "text": "Kava Instantâneo/Micronizado é mais concentrado do que o Moído Médio. O método do liquidificador extrai um pouco mais eficientemente do que a sovação tradicional."
+      },
+      {
+        "title": "Nível de experiência",
+        "text": "Devido à \"Tolerância Reversa\", usuários experientes frequentemente precisam de menos Kava para o mesmo efeito. Iniciantes devem começar com doses baixas."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Guias de Preparo",
+    "traditional": {
+      "title": "Método Tradicional",
+      "time": "20-25 Min",
+      "href": "/pt/preparo/tradicional"
+    },
+    "blender": {
+      "title": "Método do Liquidificador",
+      "time": "8-10 Min",
+      "href": "/pt/preparo/liquidificador"
+    },
+    "instant": {
+      "title": "Kava Instantâneo",
+      "time": "30 Seg",
+      "href": "/pt/preparo/instantaneo"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Considerado um dos melhores Kavas Heady do mundo. Disponibilidade limitada.",
+    "borogu": "O Kava mais consumido em Vanuatu. Muito confiável.",
+    "pouni-ono": "Kava muito popular entre iniciantes com qualidade consistente.",
+    "moi": "Um dos Kavas mais raros e caros. Tradicionalmente usado em cerimônias havaianas.",
+    "melo-melo": "Kava muito popular entre iniciantes com forte efeito ansiolítico.",
+    "bir-kar": "Conhecido por sua força e confiabilidade.",
+    "palasa": "Não recomendado para iniciantes. Muito potente.",
+    "loa-waka": "Um dos Kavas comercialmente mais fortes disponíveis.",
+    "hiwa": "Tradicionalmente usado apenas para fins cerimoniais. Muito raro.",
+    "vula-waka": "Kava popular e versátil de Fiji.",
+    "silese": "Uma das variedades mais eufóricas de todas.",
+    "palarasul": "Uma boa introdução aos Kavas pesados."
+  }
+}

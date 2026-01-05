@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "FAQ – Totul despre Kava",
+    "badge": "Întrebări frecvente",
+    "description": "Răspunsuri la cele mai frecvente întrebări despre Kava – de la efecte și dozare până la siguranță și legalitate. Explicat științific și pe înțelesul tuturor."
+  },
+  "ui": {
+    "searchPlaceholder": "Caută întrebare...",
+    "categories": "Categorii",
+    "all": "Toate",
+    "results": "Rezultate",
+    "clearFilters": "Resetează filtrele",
+    "noResults": "Nu s-au găsit rezultate",
+    "noResultsHint": "Încearcă alte cuvinte cheie sau alege o altă categorie.",
+    "showAll": "Arată toate întrebările",
+    "relatedArticles": "Articole conexe:",
+    "questionNotAnswered": "Întrebarea ta nu este aici?",
+    "contactHint": "Contactează-ne și te vom ajuta cu plăcere. Ne extindem constant FAQ-ul pe baza întrebărilor voastre.",
+    "getInTouch": "Ia legătura",
+    "viewGlossary": "Vezi glosarul"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "Noțiuni de bază",
+      "description": "Informații fundamentale despre Kava, originea și botanica sa"
+    },
+    "wirkung": {
+      "name": "Efecte & Impact",
+      "description": "Cum acționează Kava, durata efectului și mărturii"
+    },
+    "sicherheit": {
+      "name": "Siguranță & Efecte secundare",
+      "description": "Efecte secundare, riscuri și interacțiuni"
+    },
+    "dosierung": {
+      "name": "Dozare & Administrare",
+      "description": "Cantități recomandate și diverse forme de administrare"
+    },
+    "zubereitung": {
+      "name": "Preparare",
+      "description": "Metode tradiționale și moderne de preparare"
+    },
+    "kauf": {
+      "name": "Cumpărare & Legalitate",
+      "description": "Surse de aprovizionare și situația legală în Germania și UE"
+    },
+    "vergleiche": {
+      "name": "Comparații",
+      "description": "Kava comparat cu alte suplimente alimentare"
+    },
+    "kultur": {
+      "name": "Cultură & Tradiție",
+      "description": "Ceremonii, tradiții și semnificație culturală"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "Ce este Kava (Kava-Kava)?",
+      "answer": "Kava (Piper methysticum) este o specie de plantă din familia piperaceelor (Piperaceae), cultivată de peste 3.000 de ani în zona Pacificului. Numele se traduce prin \"piper intoxicant\". Rădăcinile plantei conțin Kavalactone – compuși bioactivi cu proprietăți relaxante, anxiolitice și de îmbunătățire a stării de spirit. Kava este preparată tradițional ca băutură și joacă un rol central în culturile din Vanuatu, Fiji, Tonga, Samoa și Hawaii.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "Botanica Piper methysticum"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Istoria Kava"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Ce înseamnă Piper methysticum?",
+      "answer": "Piper methysticum este numele științific (latin) pentru planta Kava. \"Piper\" înseamnă piper și se referă la familia de plante a piperaceelor. \"Methysticum\" provine din cuvântul grecesc \"methystikos\" și înseamnă \"intoxicant\" sau \"care provoacă beție\". Numele a fost dat în 1777 de Johann Georg Forster, care a descris științific planta în timpul celei de-a doua călătorii în jurul lumii a lui James Cook.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "Planta Kava"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "De unde provine Kava inițial?",
+      "answer": "Kava provine inițial din vestul Pacificului, Vanuatu fiind considerată regiunea de origine. Acolo se găsește cea mai mare diversitate genetică, cu peste 80 de soiuri diferite. Planta a fost domesticită acum aproximativ 3.000 de ani din specia sălbatică Piper wichmannii și a fost răspândită de navigatorii polinezieni ca \"Planta Canoei\" în întreaga zonă Pacificului – în Fiji, Tonga, Samoa, Hawaii și Pohnpei.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "Hartă interactivă a Kava"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Istoria Kava"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "Ce este rădăcina de Kava?",
+      "answer": "Rădăcina de Kava este partea plantei utilizată pentru prepararea băuturii. Aceasta constă din două părți principale: butucul (numit și \"Corm\" sau \"Lewena\") – rădăcina groasă, lemnoasă – și rădăcinile laterale (\"Waka\"), care au cel mai mare conținut de Kavalactone. O plantă de Kava matură (de 3-5 ani) poate dezvolta un butuc de 5-25 kg. Numai părțile subterane ar trebui utilizate, deoarece frunzele și tulpinile pot conține compuși nedoriți.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "Morfologia plantei Kava"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "Ce este Noble Kava?",
+      "answer": "Noble Kava se referă la soiurile de Kava care au fost cultivate tradițional pentru consumul zilnic și au un profil favorabil de Kavalactone. Acestea se caracterizează prin efecte plăcute, bună toleranță și efecte secundare minime. Spre deosebire de acestea, soiurile \"Tudei\" (Two-Day) au efecte mai puternice, de lungă durată și adesea neplăcute. Soiuri nobile precum Borogu, Melomelo, Palarasul sau Pouni Ono sunt potrivite pentru utilizarea regulată. Atunci când cumpărați, trebuie să verificați întotdeauna denumirea \"Noble\".",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "Soiuri de Kava"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "Cum acționează Kava?",
+      "answer": "Kava acționează în principal prin intermediul Kavalactonelor, care interacționează cu sistemul GABA din creier. Efectul include: relaxarea mușchilor, reducerea anxietății și stresului, ușoară euforie și stare de bine, îmbunătățirea sociabilității cu mintea clară, precum și promovarea unui somn odihnitor. Spre deosebire de alcool, Kava nu afectează claritatea mentală. Efectul se instalează de obicei la 15-30 de minute după administrare și durează 2-4 ore.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "Efectul Kava"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "Kavalactone"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "Cât durează efectul Kava?",
+      "answer": "Durata efectului Kava variază în funcție de doză, soi și sensibilitatea individuală. De obicei, efectul se instalează după 15-30 de minute și atinge apogeul după aproximativ 1-2 ore. Efectul principal durează 2-4 ore, iar o senzație plăcută de relaxare poate persista mai mult. La doze mai mari sau soiuri mai puternice, efectul poate fi resimțit timp de până la 6 ore. Efectul sedativ poate dura toată noaptea."
+    },
+    "kava-gegen-angst": {
+      "question": "Ajută Kava împotriva anxietății?",
+      "answer": "Da, Kava a demonstrat efecte anxiolitice (care reduc anxietatea) în numeroase studii clinice. O meta-analiză Cochrane din 2003 a confirmat eficacitatea sa în tulburările de anxietate. Kavalactonele acționează asupra receptorilor GABA similar cu benzodiazepinele, dar fără potențialul de dependență. Kava poate ajuta în cazul tulburării de anxietate generalizată, anxietății sociale și tensiunii cauzate de stres. Important: în cazul tulburărilor de anxietate diagnosticate, utilizarea ar trebui discutată cu un medic.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Studii științifice"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "Kava pentru anxietate"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "Poate Kava ajuta în caz de depresie?",
+      "answer": "Unele studii sugerează că Kava are proprietăți de îmbunătățire a stării de spirit. O cercetare a Universității din Melbourne (2013) a arătat efecte pozitive în cazurile de depresie ușoară până la moderată. Efectul este atribuit modulației receptorilor de dopamină și serotonină. Totuși, Kava nu este un substitut pentru un tratament profesional al depresiei. În cazul tulburărilor depresive diagnosticate, este întotdeauna recomandat să consultați un medic, mai ales dacă se iau deja antidepresive.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Studii științifice"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "Îmbunătățește Kava somnul?",
+      "answer": "Da, Kava poate îmbunătăți calitatea somnului. Efectul relaxant al Kavalactonelor ajută la adormire și promovează un somn mai profund și mai odihnitor. Spre deosebire de multe medicamente pentru somn, Kava nu provoacă \"hangover\" a doua zi. Studiile arată că Kava este deosebit de eficientă în cazul tulburărilor de somn cauzate de stres. Pentru a promova somnul, se recomandă administrarea Kava cu 1-2 ore înainte de culcare. Soiurile cu un conținut mai mare de DHM și DHK (precum Borogu) sunt deosebit de eficiente pentru somn.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "Kava pentru un somn mai bun"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "Ce efecte secundare are Kava?",
+      "answer": "În cazul utilizării corecte a soiurilor Noble Kava, efectele secundare sunt rare și ușoare. Posibile efecte secundare includ: amorțeală temporară a buzelor și limbii (normal), ușoară greață la administrarea pe stomacul gol, somnolență (în special la doze mai mari), și în cazul consumului cronic excesiv, o descuamare reversibilă a pielii (\"Kava-Dermopatie\"). Este important să se utilizeze pulbere de rădăcină pură din soiuri Noble și să se evite alcoolul în timpul administrării.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "Siguranța Kava"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "Efecte secundare în detaliu"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "Este Kava dăunătoare pentru ficat?",
+      "answer": "Întrebarea despre toxicitatea hepatică este complexă. Interdicția Kava din Germania din 2002 a fost bazată pe rapoarte despre leziuni hepatice, care au fost în mare parte atribuite produselor de calitate inferioară (utilizarea frunzelor/tulpinilor în loc de rădăcini), soiurilor Tudei (nepotrivite pentru consumul zilnic), extractelor alcoolice și interacțiunilor cu medicamentele. Studiile arată că Kava preparată tradițional din soiuri Noble este sigură pentru adulții sănătoși. Totuși, persoanele cu afecțiuni hepatice ar trebui să evite Kava, iar consumatorii regulat să își controleze valorile hepatice.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "Kava și ficatul"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei Kava"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "Este Kava o drogă?",
+      "answer": "Kava nu este o drogă în sensul legii privind substanțele interzise. Este o băutură tradițională cu efecte psihotrope, similară cu cafeaua sau ceaiul. Kava nu provoacă dependență, nu dezvoltă toleranță și nu are potențial de abuz. OMS a clasificat Kava ca \"nefiind adictivă\". În majoritatea țărilor, Kava este disponibilă legal. Efectul este ușor relaxant, nu intoxicant în sensul alcoolului sau substanțelor ilegale."
+    },
+    "kava-alkohol": {
+      "question": "Se poate combina Kava cu alcool?",
+      "answer": "Nu, Kava nu ar trebui combinată cu alcool. Ambele substanțe acționează asupra sistemului GABA și se pot amplifica reciproc, ceea ce poate duce la sedare excesivă. În plus, ambele sunt metabolizate prin ficat, ceea ce crește sarcina. În cultura tradițională din Pacific, Kava este consumată ca alternativă la alcool, nu împreună cu acesta. Așteptați cel puțin 24 de ore între consumul de alcool și Kava.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "Interacțiuni"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "Cum se dozează corect Kava?",
+      "answer": "Doza recomandată pentru pulberea de Kava este de 2-4 linguri (aproximativ 15-30g) pe sesiune, împărțită în 2-3 boluri. Pentru începători, se recomandă să înceapă cu o doză mai mică (1-2 linguri). Doza de Kavalactone nu ar trebui să depășească 250mg pe doză unică. Important: Kava își dezvoltă efectul maxim adesea doar după administrarea regulată pe parcursul mai multor zile (\"Toleranță inversă\"). Nu mai mult de 300mg Kavalactone pe zi pe perioade lungi.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Prepararea Kava"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "Cum se administrează cel mai bine Kava?",
+      "answer": "Metoda tradițională este prepararea ca băutură: pulberea de Kava este frământată în apă și filtrată printr-o sită. Băutura este consumată din boluri (\"Shells\"), de obicei 2-3 boluri pe sesiune cu o pauză de 10-15 minute. Alternativ, există Kava instant (se dizolvă simplu în apă), capsule sau tincturi. Efectul cel mai bun se obține pe stomacul ușor gol, la aproximativ 2-3 ore după ultima masă. După consum, o gustare mică poate intensifica efectul.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Preparare tradițională"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "Se poate bea Kava zilnic?",
+      "answer": "Da, în culturile din Pacific, Kava este consumată tradițional zilnic. Pentru utilizarea în Occident, se recomandă să se facă pauze regulate (de exemplu, 1-2 zile pe săptămână fără Kava). În cazul consumului zilnic, doza ar trebui să rămână moderată și să se utilizeze exclusiv soiuri Noble Kava. Consumatorii regulat ar trebui să își controleze valorile hepatice anual. Important: Beți suficientă apă și aveți grijă la o dietă sănătoasă."
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "Ce este mai bine: pulbere de Kava sau capsule?",
+      "answer": "Pulberea de Kava oferă cea mai autentică experiență și cel mai bun efect, dar necesită preparare. Capsule sunt practice pentru călătorii, dar conțin adesea mai puține Kavalactone și au un efect mai slab. Kava instant este un bun compromis – se dizolvă simplu în apă, cu un efect bun. Pentru începători, recomandăm Kava instant sau pulbere cu măcinare medie. Pentru cel mai puternic efect: pulbere preparată tradițional. Capsule sunt potrivite pentru utilizarea ocazională, la doze mici."
+    },
+    "kava-zubereitung": {
+      "question": "Cum se prepară Kava tradițional?",
+      "answer": "Preparare tradițională: 1) Puneți 2-4 linguri de pulbere de Kava într-un sac de țesătură sau într-un sac pentru lapte de nuci. 2) Puneți-l într-un bol cu aproximativ 500ml apă caldă (nu fierbinte!). 3) Frământați timp de 5-10 minute și stoarceți până când apa devine lăptoasă-maro. 4) Stoarceți și îndepărtați sacul. 5) Serviți în boluri și consumați rapid. Gustul este pământos și ușor amar – este normal. O bucată de fruct ca \"Chaser\" ajută la ameliorarea gustului.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Preparare tradițională"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "Kava instant"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "Cum gustă Kava?",
+      "answer": "Kava are un gust caracteristic, pământos, care este adesea descris ca un \"gust dobândit\". Gustul este ușor amar, picant și pământos cu o anumită iuțeală. După consum, apare o amorțeală temporară a buzelor și limbii – un semn al Kavalactonelor active. Sfaturi pentru îmbunătățire: beți Kava rece, amestecați cu lapte de cocos sau mâncați o bucată de ananas/mango ca \"Chaser\". Cu timpul, vă obișnuiți cu gustul."
+    },
+    "kava-tee": {
+      "question": "Se poate prepara Kava ca ceai?",
+      "answer": "Kava nu ar trebui preparată ca un ceai normal cu apă clocotită, deoarece temperaturile ridicate pot distruge Kavalactonele. Folosiți apă caldă (aproximativ 40°C). Produsele comerciale \"Kava-Tee\" conțin adesea cantități mici de Kava și sunt mai puțin eficiente decât pulberea de Kava preparată tradițional. Pentru cel mai bun efect, recomandăm metoda tradițională de frământare cu pulbere de Kava măcinată mediu sau Kava instant de înaltă calitate.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Metode de preparare"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "Este Kava legal în Germania?",
+      "answer": "Situația legală a Kava în Germania este complexă. În 2002, Kava a fost interzisă ca medicament, după ce au apărut rapoarte despre leziuni hepatice. Această interdicție a fost anulată în 2014 de către Curtea Administrativă Federală, deoarece baza științifică era insuficientă. În prezent, importul și deținerea de Kava pentru uz personal sunt legale. Vânzarea ca supliment alimentar sau medicament este însă în continuare restricționată. Kava poate fi comandată din străinătate (de exemplu, Olanda, Regatul Unit) sau direct din Pacific.",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "Statutul legal al Kava"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "Unde pot cumpăra Kava?",
+      "answer": "Kava poate fi obținută prin diverse căi: 1) Magazine online din Pacific (Vanuatu, Fiji) – cea mai bună calitate, dar timp de livrare mai lung. 2) Comercianți europeni (Regatul Unit, Olanda) – livrare mai rapidă, selecție bună. 3) Baruri specializate în Kava – pentru consumul pe loc. În farmacii (DM, Rossmann) din Germania, Kava nu este disponibilă în prezent. Atunci când cumpărați, verificați: soiuri Noble Kava, rădăcină pură (fără frunze/tulpini), analize de laborator și informații despre origine.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "Găsitor de baruri Kava"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "Există Kava la DM sau în farmacie?",
+      "answer": "Nu, Kava nu este disponibilă în prezent nici la DM, Rossmann, nici în farmaciile din Germania. Acest lucru se datorează situației reglementărilor din Germania, care restricționează vânzarea de Kava ca supliment alimentar sau medicament. Preparatele homeopate cu Piper methysticum (foarte diluate) au fost disponibile anterior în farmacii, dar au devenit de asemenea rare. Pentru pulberea reală de Kava, trebuie să apelați la comercianți online specializați."
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "Este Kava din nou disponibilă?",
+      "answer": "Da, Kava este din nou disponibilă, deși nu în comerțul cu amănuntul din Germania. După anularea interdicției din 2014, Kava poate fi importată legal pentru uz personal. Cea mai bună sursă de aprovizionare sunt comercianții online specializați din Pacific (Vanuatu, Fiji, Tonga) sau furnizori europeni (Regatul Unit, Olanda). Calitatea și disponibilitatea s-au îmbunătățit semnificativ în ultimii ani, iar comunitatea entuziștilor Kava din Germania este în creștere."
+    },
+    "kava-vs-ashwagandha": {
+      "question": "Care este diferența dintre Kava și Ashwagandha?",
+      "answer": "Kava și Ashwagandha sunt ambele plante adaptogene, dar se diferențiază semnificativ: Kava acționează rapid (15-30 min.) și are un efect relaxant acut, ideal pentru anxietate sau stres situativ. Ashwagandha acționează pe termen lung, pe parcursul săptămânilor, și reglează nivelul de cortizol. Kava este preparată ca băutură, Ashwagandha este de obicei administrată sub formă de capsule. Kava are un efect psihotropic notabil, Ashwagandha este mai subtilă. Ambele pot fi combinate, Kava fiind potrivită pentru situații acute, iar Ashwagandha pentru rezistența la stres pe termen lung."
+    },
+    "kava-vs-baldrian": {
+      "question": "Care este diferența dintre Kava și Baldrian?",
+      "answer": "Kava și Baldrian (Valerian) sunt ambele relaxante, dar au profile diferite: Kava acționează mai puternic împotriva anxietății și promovează sociabilitatea cu mintea clară. Baldrian este în principal un ajutor pentru somn și poate provoca somnolență. Kava are un debut mai rapid al efectului (15-30 min.), în timp ce Baldrian necesită adesea câteva săptămâni de administrare regulată. Gustul Kava este pământos, iar Baldrian miroase și gustă neplăcut. Kava este mai bună pentru situații sociale, Baldrian este mai potrivit ca medicament pentru somn."
+    },
+    "kava-vs-kratom": {
+      "question": "Care este diferența dintre Kava și Kratom?",
+      "answer": "Kava și Kratom sunt complet diferite și nu ar trebui confundate: Kava conține Kavalactone și are un efect relaxant fără potențial de dependență. Kratom conține alcaloizi (Mitragynin), care acționează asupra receptorilor opioizi și au un potențial de dependență. Kava este legală în majoritatea țărilor, Kratom este interzis sau reglementat în multe țări (inclusiv Germania). Kava are o lungă tradiție de utilizare sigură, în timp ce Kratom este asociat cu riscuri pentru sănătate. Recomandăm evitarea Kratom."
+    },
+    "kava-alternative": {
+      "question": "Care sunt alternativele la Kava?",
+      "answer": "Alternative naturale la Kava pentru relaxare și reducerea anxietății includ: Ashwagandha (adaptogen, pe termen lung), Baldrian (ajută la somn), Floarea pasiunii (ușor anxiolitică), L-Theanin (din ceai, promovează relaxarea), Magneziu (relaxare musculară), CBD (Cannabidiol, legal în Germania). Niciuna dintre aceste alternative nu oferă însă profilul unic al Kava cu combinația sa de relaxare, sociabilitate și claritate mentală. Nu există un adevărat substitut pentru Kava ca alternativă la alcool în situații sociale."
+    },
+    "kava-zeremonie": {
+      "question": "Ce este o ceremonie Kava?",
+      "answer": "O ceremonie Kava este un ritual tradițional în zona Pacificului, în care Kava este preparată și consumată în comunitate. Ceremonia urmează protocoale stricte: Cine prepară Kava? Cine primește primul bol? În ce ordine se bea? În Fiji, ceremonia se numește \"Sevusevu\" și este parte a actelor oficiale de stat. În Tonga și Samoa există ceremonii 'Ava foarte formalizate cu roluri stabilite. Ceremonia simbolizează respectul, ospitalitatea și legătura socială.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "Ceremonii & Rituale"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "Ce este un Nakamal?",
+      "answer": "Un Nakamal este un loc tradițional de băut Kava în Vanuatu. Inițial, era o casă pentru bărbați, unde comunitatea sătească se aduna pentru a bea Kava seara. Astăzi, \"Nakamal\" se referă și la baruri moderne de Kava din Port Vila și alte orașe. Atmosfera este calmă și respectuoasă – oamenii stau împreună, beau mai multe boluri și au conversații liniștite. Nakamals sunt locuri de echilibru social, unde oameni din toate păturile sociale se întâlnesc.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal & Baruri Kava"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "Ce nume are Kava în diferite culturi?",
+      "answer": "Kava are nume diferite în diverse culturi din Pacific: Vanuatu: Kava sau Malok. Fiji: Yaqona (pronunțat \"Yang-gona\"). Tonga: Kava sau 'Ava. Samoa: 'Ava. Hawaii: 'Awa. Pohnpei: Sakau. Papua Noua Guinee: Kava. Numele științific Piper methysticum înseamnă \"piper intoxicant\". În Germania, denumirile Kava, Kava-Kava și Rauschpfeffer sunt uzuale.",
+      "relatedLinks": [
+        {
+          "href": "/de/glossar",
+          "label": "Glosar"
+        }
+      ]
+    }
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

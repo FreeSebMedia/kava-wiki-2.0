@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "title": "Siguranța ficatului & Hepatotoxicitate",
+    "subtitle": "O analiză științifică a controversei Kava-ficat: Fapte, mituri și stadiul actual al cercetării.",
+    "category": "Siguranță",
+    "breadcrumbs": {
+      "home": "Acasă",
+      "sicherheit": "Siguranță",
+      "current": "Siguranța ficatului"
+    }
+  },
+  "toc": {
+    "title": "Cuprins",
+    "zusammenfassung": "Rezumat",
+    "verbot2002": "Interdicția din 2002",
+    "wasWirklichGeschah": "Ce s-a întâmplat cu adevărat",
+    "rehabilitation": "Reabilitare & Sentințe",
+    "wissenschaft": "Dovezile științifice",
+    "whoBewertung": "Evaluarea OMS 2007",
+    "emaBewertung": "Evaluarea EMA 2017",
+    "klinischeStudien": "Studii clinice",
+    "risikofaktoren": "Factori de risc identificați",
+    "extrakte": "Tipuri de extracte",
+    "pflanzenteile": "Părți ale plantei",
+    "genetik": "Factori genetici",
+    "komedikation": "Comedicație & alcool",
+    "mechanismen": "Mecanisme posibile",
+    "empfehlungen": "Recomandări practice",
+    "quellen": "Surse"
+  },
+  "navigation": {
+    "continueTitle": "Continuare în capitolul Siguranță",
+    "items": [
+      {
+        "title": "Prezentare generală",
+        "href": "/de/sicherheit",
+        "description": "Înapoi la prezentarea generală a siguranței"
+      },
+      {
+        "title": "Interacțiuni",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Medicamente & Interacțiuni CYP450"
+      },
+      {
+        "title": "Contraindicații",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Când ar trebui evitat Kava"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Consens științific actual",
+    "intro": "După analize cuprinzătoare efectuate de OMS, EMA și cercetători independenți, se consideră:",
+    "points": [
+      "Kava preparat tradițional din soiuri Noble este <strong>sigur</strong> atunci când este utilizat corect",
+      "Leziunile hepatice severe sunt <strong>extrem de rare</strong> (incidență estimată: 1:60.000 până la 1:1.000.000)",
+      "Cele mai multe rapoarte de caz au prezentat <strong>deficiențe semnificative de calitate</strong> în evaluarea cauzalității",
+      "Interdicția din UE din 2002 a fost clasificată de instanțele germane ca fiind <strong>neproporționată</strong>"
+    ]
+  },
+  "verbot2002": {
+    "title": "Interdicția din 2002",
+    "intro": "În 2002, Kava a fost retras de pe piață în Germania și în multe alte țări europene. Institutul Federal pentru Medicamente și Produse Medicale (BfArM) a revocat autorizațiile pentru medicamentele care conțin Kava, după ce au fost primite rapoarte despre leziuni hepatice severe. Această decizie a avut consecințe de amploare pentru piața globală de Kava și pentru țările producătoare din Pacific.",
+    "chronologie": {
+      "title": "Cronologia evenimentelor",
+      "note": "Pentru informații detaliate despre statutul legal actual în diferite țări, consultați",
+      "linkText": "Statutul legal & Legalitate",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Primele rapoarte de caz despre leziuni hepatice la utilizatorii de Kava în Europa"
+        },
+        {
+          "date": "Nov 2001",
+          "text": "BfArM ordonă inițierea unei proceduri în etape"
+        },
+        {
+          "date": "Jun 2002",
+          "text": "Revocarea autorizațiilor în Germania"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Interdicții în UK, Franța, Elveția, Canada, Australia"
+        },
+        {
+          "date": "2014",
+          "text": "Tribunalul Administrativ din Köln declară interdicția ca fiind ilegală"
+        },
+        {
+          "date": "2015",
+          "text": "OVG Münster confirmă: Interdicția a fost neproporționată"
+        },
+        {
+          "date": "2019",
+          "text": "Revocarea autorizațiilor de medicamente a fost anulată definitiv"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Ce s-a întâmplat cu adevărat: O analiză critică",
+    "intro": "Rapoartele originale de caz care au condus la interdicție au fost investigate științific în detaliu în anii următori. Au fost identificate deficiențe metodologice semnificative:",
+    "probleme": {
+      "title": "Probleme ale rapoartelor de caz",
+      "items": [
+        "Documentație incompletă în peste 50% din cazuri",
+        "Lipsa unei evaluări standardizate a cauzalității (RUCAM)",
+        "Comedicația cu substanțe hepatotoxice ignorată",
+        "Consumul de alcool adesea nedocumentat",
+        "Calitatea produsului și părțile plantei neclare"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Descoperiri ulterioare",
+      "items": [
+        "Multe produse conțineau părți superioare ale plantei",
+        "Extractele acetone prezentau un risc mai mare decât cele apoase",
+        "Kava Tudei a fost vândut parțial ca Noble",
+        "Contaminarea cu mucegai a fost demonstrată în unele produse",
+        "Polimorfismele genetice au fost identificate ca factor de risc"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Reabilitare prin instanțe",
+    "intro": "După ani de litigii, instanțele germane au ajuns la un rezultat clar. Tribunalul Administrativ din Köln și mai târziu OVG Münster au constatat că interdicția a fost <strong>neproporționată</strong> și că autoritățile nu au evaluat corect dovezile științifice.",
+    "quote": "\"Causalitatea acceptată de BfArM între consumul de medicamente care conțin Kava-Kava și leziunile hepatice apărute nu este suficient de demonstrată. Evaluarea riscurilor și beneficiilor a fost efectuată eronat.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "Dovezile științifice",
+    "intro": "După interdicție, au fost efectuate mai multe evaluări științifice cuprinzătoare, care oferă o imagine mai nuanțată a siguranței Kava."
+  },
+  "whoBewertung": {
+    "title": "Evaluarea OMS 2007",
+    "intro": "Organizația Mondială a Sănătății (OMS) a efectuat în 2007 o analiză cuprinzătoare a tuturor rapoartelor de caz disponibile. Rezultatul a fost revelator:",
+    "analysisTitle": "Analiza OMS a 93 de rapoarte de caz",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Cazuri \"probabil\" cauzale",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Cazuri \"posibil\" cauzale",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Cazuri neevaluabile",
+        "color": "muted"
+      }
+    ],
+    "note": "OMS a constatat că extractele acetone și etanolice prezentau un risc mai mare decât Kavalactonele sintetice, ceea ce sugerează că componentele non-Kavalacton ar putea fi o cauză posibilă."
+  },
+  "emaBewertung": {
+    "title": "Evaluarea EMA 2017",
+    "intro": "Agenția Europeană pentru Medicamente (EMA) a publicat în 2017 un raport de evaluare de 103 pagini, care rezuma toate datele disponibile:",
+    "findings": [
+      {
+        "label": "Studii clinice",
+        "text": "Nicio hepatotoxicitate semnificativă în studii controlate"
+      },
+      {
+        "label": "Efecte secundare",
+        "text": "Numai creșteri ușoare, reversibile ale transaminazelor la câțiva subiecți"
+      },
+      {
+        "label": "Factori de risc",
+        "text": "Extracte organice, alcool, afecțiuni hepatice preexistente, polimorfisme genetice"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Dovezi din studii clinice",
+    "intro": "Un punct deosebit de important: În studiile clinice controlate cu preparate standardizate de Kava, nu au fost observate <strong>leziuni hepatice severe</strong>. O revizuire sistematică realizată de Smith & Leiras (2018) a analizat 11 studii randomizate și nu a găsit dovezi de hepatotoxicitate.",
+    "tableTitle": "Rezumatul situației studiilor",
+    "headers": [
+      "Studiu",
+      "Participanți",
+      "Durată",
+      "Leziuni hepatice"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 săptămâni",
+        "result": "Niciuna"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 săptămâni",
+        "result": "Niciuna*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 săptămâni",
+        "result": "Niciuna"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 studii)",
+        "duration": "1-24 săptămâni",
+        "result": "Niciuna"
+      }
+    ],
+    "footnote": "*Creșteri ușoare ale transaminazelor la 2 subiecți, unul având deja valori inițiale crescute"
+  },
+  "risikofaktoren": {
+    "title": "Factori de risc identificați",
+    "intro": "Cercetarea științifică a identificat mai mulți factori care pot crește riscul de efecte secundare hepatice. Înțelegerea acestor factori permite o utilizare sigură."
+  },
+  "extrakte": {
+    "title": "Tipuri de extracte: Aqueous vs. Organic",
+    "intro": "O constatare centrală a analizei OMS a fost diferența dintre diferitele metode de extracție:",
+    "waessrig": {
+      "title": "Extracte apoase (tradiționale)",
+      "items": [
+        "Metodă de preparare tradițională",
+        "Extrage în principal Kavalactone",
+        "Conține glutation protector",
+        "Fără hepatotoxicitate documentată în populațiile din Pacific",
+        "Clasificat ca sigur de FAO/OMS"
+      ]
+    },
+    "organisch": {
+      "title": "Extracte organice (acetone/etanol)",
+      "items": [
+        "Metodă de extracție industrială",
+        "Concentrație mai mare de Kavalactone",
+        "Extrage și Flavokavine",
+        "Glutationul nu este extras",
+        "Risc mai mare în analiza OMS"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Părți ale plantei: Rădăcină vs. părți superioare",
+    "intro": "Utilizarea diferitelor părți ale plantei are un impact semnificativ asupra siguranței:",
+    "tableTitle": "Conținut de Pipermethystin după parte a plantei",
+    "headers": [
+      "Parte a plantei",
+      "Pipermethystin",
+      "Siguranță"
+    ],
+    "rows": [
+      {
+        "part": "Rădăcină/Rhizom",
+        "content": "Nedetectabil",
+        "safety": "Sigur",
+        "color": "primary"
+      },
+      {
+        "part": "Coji de tulpină",
+        "content": "Până la 0,85%",
+        "safety": "Problematic",
+        "color": "amber"
+      },
+      {
+        "part": "Frunze",
+        "content": "Aproximativ 0,2%",
+        "safety": "Toxic",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystin este un alcaloid care acționează puternic citotoxic in vitro și perturbă funcția mitocondrială (Nerurkar et al., 2004). Se găsește exclusiv în părțile superioare ale plantei."
+  },
+  "genetik": {
+    "title": "Factori genetici: Polimorfisme CYP2D6",
+    "intro": "Kavalactonele sunt metabolizate în principal prin sistemul enzimatic cytochrom P450, în special prin CYP2D6. Variantele genetice ale acestei enzime pot influența semnificativ rata de metabolizare:",
+    "factors": [
+      {
+        "label": "Metabolizatori slabi (PM)",
+        "text": "Aproximativ 5-10% dintre europeni au o activitate CYP2D6 redusă, ceea ce poate duce la niveluri mai mari de Kavalactone"
+      },
+      {
+        "label": "Reacții idiosincratice",
+        "text": "Unele cazuri ar putea fi atribuite mecanismelor mediate imun"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Comedicație & alcool",
+    "warning": {
+      "title": "Factor de risc critic",
+      "text": "Combinația de Kava cu alcool sau medicamente hepatotoxice crește semnificativ riscul de leziuni hepatice. În multe dintre rapoartele originale de caz, consumul de alcool a fost documentat sau nu a fost exclus."
+    },
+    "intro": "OMS a identificat următoarele comedicații ca fiind deosebit de problematice:",
+    "items": [
+      "Alcool (hepatotoxicitate sinergică)",
+      "Paracetamol/Acetaminofen (hepatotoxic)",
+      "Benzodiazepine (interacțiune CYP)",
+      "Antipsihotice (interacțiune CYP)",
+      "Statine (potențial hepatotoxic)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Mecanisme posibile ale hepatotoxicității",
+    "intro": "Mecanismele exacte prin care Kava poate provoca leziuni hepatice în cazuri rare nu sunt încă complet clarificate. Mai multe ipoteze sunt discutate:",
+    "hypotheses": [
+      {
+        "title": "1. Metaboliti chinonici",
+        "text": "Kavain și Dihydrokavain pot fi oxidate în metaboliti chinonici reactivi, care pot reacționa cu proteinele celulare și pot provoca stres oxidativ (Johnson et al., 2003). Glutationul poate neutraliza acești metaboliti – un posibil motiv pentru care extractele apoase (care conțin glutation) sunt mai sigure."
+      },
+      {
+        "title": "2. Flavokavine",
+        "text": "Flavokavin B prezintă citotoxicitate in vitro și poate induce apoptoza în hepatocite. Extractele organice conțin concentrații mai mari de flavokavine decât preparatele apoase."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Acest alcaloid din părțile superioare ale plantei este extrem de hepatotoxic și perturbă funcția mitocondrială. Nu se găsește în rădăcină, dar poate ajunge în produse prin contaminare."
+      },
+      {
+        "title": "4. Reacții idiosincratice",
+        "text": "Unele cazuri ar putea fi atribuite reacțiilor idiosincratice mediate imun, care apar independent de doză și sunt genetice."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Recomandări practice pentru consumul sigur",
+    "intro": "Pe baza dovezilor științifice, se pot trasa recomandări clare pentru un consum sigur de Kava:",
+    "checklistTitle": "Listă de verificare pentru consumul sigur de Kava",
+    "items": [
+      {
+        "label": "Utilizați doar Kava Noble",
+        "text": "Acordați atenție denumirii soiului și cumpărați de la surse de încredere"
+      },
+      {
+        "label": "Utilizați doar rădăcină/rhizom",
+        "text": "Fără produse cu frunze sau coji de tulpină"
+      },
+      {
+        "label": "Preferiți prepararea tradițională apoasă",
+        "text": "Metoda de frământare sau blender cu apă"
+      },
+      {
+        "label": "Nu consumați alcool",
+        "text": "Cu cel puțin 24 de ore înainte și după consumul de Kava"
+      },
+      {
+        "label": "Fiți atenți la interacțiunile medicamentoase",
+        "text": "Consultați interacțiunile"
+      },
+      {
+        "label": "Renunțați în caz de afecțiuni hepatice",
+        "text": "Consultați contraindicațiile"
+      },
+      {
+        "label": "Respectați o dozare moderată",
+        "text": "Nu mai mult de 250mg Kavalactone pe zi în cazul consumului regulat"
+      }
+    ],
+    "selfObservation": {
+      "title": "Notă privind auto-observația",
+      "text": "În cazul unei oboseli neobișnuite, îngălbenirea pielii sau a ochilor, urină închisă la culoare sau scaun deschis la culoare, consumul de Kava ar trebui oprit imediat și ar trebui consultat un medic. Aceste simptome pot indica probleme hepatice."
+    }
+  },
+  "quellen": {
+    "title": "Surse & literatură suplimentară",
+    "officialReports": {
+      "title": "Rapoarte oficiale",
+      "items": [
+        {
+          "author": "OMS (2007):",
+          "title": "Evaluarea riscului de hepatotoxicitate cu produsele Kava.",
+          "source": "Raport tehnic al Organizației Mondiale a Sănătății."
+        },
+        {
+          "author": "FAO/OMS (2016):",
+          "title": "Kava: O revizuire a siguranței consumului de băuturi tradiționale și recreaționale.",
+          "source": "Raport tehnic FAO/OMS."
+        },
+        {
+          "author": "EMA (2017):",
+          "title": "Raport de evaluare privind Piper methysticum G. Forst., rhizoma.",
+          "source": "EMA/HMPC/450589/2016."
+        }
+      ]
+    },
+    "reviews": {
+      "title": "Lucrări științifice de revizuire",
+      "items": [
+        {
+          "author": "Teschke R. (2010):",
+          "title": "Hepatotoxicitatea Kava - o revizuire clinică.",
+          "source": "Annals of Hepatology."
+        },
+        {
+          "author": "Teschke R., Lebot V. (2011):",
+          "title": "Hepatotoxicitatea Kava în utilizarea tradițională și modernă.",
+          "source": "British Journal of Clinical Pharmacology."
+        },
+        {
+          "author": "Sarris J. et al. (2011):",
+          "title": "Kava: o revizuire cuprinzătoare a eficacității, siguranței și psihofarmacologiei.",
+          "source": "Australian & New Zealand Journal of Psychiatry."
+        }
+      ]
+    },
+    "moreStudies": "O listă completă a tuturor studiilor citate poate fi găsită pe pagina noastră de",
+    "studiesLink": "Studii"
+  }
+}

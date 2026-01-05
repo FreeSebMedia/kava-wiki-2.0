@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "Sistemul Chemotipului",
+    "subtitle": "Cum codul de 6 cifre prezice efectul unei varietăți de Kava și distinge Noble de Tudei.",
+    "category": "Componente"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "inhaltsstoffe": "Componente",
+    "current": "Chemotipuri"
+  },
+  "toc": {
+    "title": "Cuprins",
+    "einfuehrung": "Ce este un chemotip?",
+    "nummerierung": "Numerotarea Kavalactonelor",
+    "lesen": "Citirea unui chemotip",
+    "beispiele": "Exemple & Interpretare",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Recunoașterea Tudei pe baza chemotipului",
+    "wirkungsprofile": "Profiluri de efect după chemotip",
+    "heady": "Kavas Heady",
+    "heavy": "Kavas Heavy",
+    "balanced": "Kavas Balanced",
+    "qualitaet": "Chemotip & Controlul calității"
+  },
+  "einfuehrung": {
+    "paragraph1": "Chemotipul este un cod de 6 cifre care listează cele șase principale Kavalactone în ordinea descrescătoare a concentrației lor. Funcționează ca un \"amprenta digitală\" pentru fiecare varietate de Kava și permite prezicerea efectului așteptat – chiar înainte de a lua o înghițitură.",
+    "paragraph2": "Acest sistem a fost dezvoltat în anii 1980 de Vincent Lebot și este astăzi standardul internațional pentru clasificarea și controlul calității Kava. Este instrumentul principal pentru a distinge \"Noble Kava\" de \"Tudei Kava\" de calitate inferioară."
+  },
+  "nummerierung": {
+    "title": "Numerotarea Kavalactonelor",
+    "intro": "Fiecare dintre cele șase principale Kavalactone este asociat cu o cifră. Această asociere este istorică și se bazează pe ordinea descoperirii sau elutiei cromatografice:",
+    "tableHeaders": {
+      "digit": "Cifră",
+      "kavalacton": "Kavalacton",
+      "abbreviation": "Abreviere",
+      "effect": "Efect principal"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmetoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Focalizare, creșterea dopaminelor"
+      },
+      {
+        "digit": "2",
+        "name": "Dihidrokavain",
+        "abbreviation": "DHK",
+        "effect": "Relaxare musculară, analgezie"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "Activitate CB1, euforie"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anxiolitic, efect \"Heady\""
+      },
+      {
+        "digit": "5",
+        "name": "Dihidromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Sedare lungă, marker Tudei"
+      },
+      {
+        "digit": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Sedativ, neuroprotector"
+      }
+    ],
+    "mnemonic": "<strong>Ajutor de memorie:</strong> Cifrele <strong>4</strong> (Kavain) și <strong>2</strong> (Dihidrokavain) sunt \"pozițiile bune\" de start pentru Noble Kava. Cifra <strong>5</strong> (Dihidromethysticin) în primele două locuri este un semnal de avertizare pentru Tudei-Kava."
+  },
+  "lesen": {
+    "title": "Citirea unui chemotip",
+    "intro": "Chemotipul este scris ca un număr de 6 cifre, fiecare poziție indicând concentrația relativă:",
+    "positions": [
+      {
+        "rank": "Locul 1",
+        "label": "Cea mai mare conc.",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "Locul 2",
+        "label": "A doua cea mai mare",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "Locul 3",
+        "label": "A treia cea mai mare",
+        "example": "6 = M"
+      },
+      {
+        "rank": "Locul 4",
+        "label": "A patra cea mai mare",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "Locul 5",
+        "label": "A cincea cea mai mare",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "Locul 6",
+        "label": "Cea mai mică",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Exemple & Interpretare",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Kava Noble tipică (de exemplu, Borogu)",
+        "description": "<strong>Kavain</strong> domină, urmat de <strong>Dihidrokavain</strong>. DHM (5) este doar pe locul 4. Efectul așteptat: Relaxare clară și concentrată cu o bună relaxare musculară. Fără \"mahmureală\"."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Kava Noble, orientată pe corp (de exemplu, Palarasul)",
+        "description": "<strong>Dihidrokavain</strong> pe primul loc înseamnă o relaxare fizică mai puternică. Ideal pentru seară. Încă Noble, deoarece DHM (5) este mult în spate."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Kava Tudei (de exemplu, Isa)",
+        "description": "<strong>DHM (5)</strong> pe primul loc este un semnal clar de avertizare. Efectul așteptat: Sedare foarte lungă (12+ ore), posibil greață, \"mahmureală\" a doua zi. Nu este potrivit pentru consumul regulat."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Kava Tudei (de exemplu, Palimanu)",
+        "description": "<strong>DHM (5)</strong> pe locul 2 este de asemenea problematic. Chiar dacă DHK (2) este în față, proporția mare de DHM face această varietate nepotrivită pentru export și consum regulat."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Distincția între <strong>Noble Kava</strong> (Kava nobilă) și <strong>Tudei Kava</strong> (Kava de două zile) este fundamentală pentru calitatea Kava. Numele \"Tudei\" provine din faptul că efectul acestor varietăți poate dura până la două zile – cu efecte secundare neplăcute.",
+    "tableHeaders": {
+      "criterion": "Criteriu",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Începere chemotip",
+        "noble": "Începe cu 4 sau 2, niciodată cu 5",
+        "tudei": "Adesea începe cu 5 sau are 5 pe locul 2"
+      },
+      {
+        "criterion": "Timp de debut al efectului",
+        "noble": "Rapid (10-20 minute)",
+        "tudei": "Întârziat (30-90 minute)"
+      },
+      {
+        "criterion": "Durata efectului",
+        "noble": "Moderat (3-6 ore)",
+        "tudei": "Foarte lung (6-12+ ore)"
+      },
+      {
+        "criterion": "Caracterul efectului",
+        "noble": "Clar, relaxat, social",
+        "tudei": "Dull, sedativ, confuz"
+      },
+      {
+        "criterion": "Efecte secundare",
+        "noble": "Minime la prepararea corectă",
+        "tudei": "Greață, dureri de cap, \"mahmureală\""
+      },
+      {
+        "criterion": "Aprobarea pentru export",
+        "noble": "Da (reglementat)",
+        "tudei": "Nu (interzis în Vanuatu)"
+      },
+      {
+        "criterion": "Varietăți exemplu",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wildkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Recunoașterea Tudei pe baza chemotipului",
+    "intro": "Regula cea mai simplă pentru recunoașterea Kava Tudei:",
+    "warningTitle": "Semnale de avertizare",
+    "warnings": [
+      "<strong>5</strong> pe poziția 1 sau 2",
+      "<strong>5</strong> înainte de <strong>4</strong> în chemotip",
+      "Proporție totală foarte mare de DHM (>15%)"
+    ],
+    "safeTitle": "Semne sigure",
+    "safeIndicators": [
+      "<strong>4</strong> sau <strong>2</strong> pe poziția 1",
+      "<strong>5</strong> pe poziția 4, 5 sau 6",
+      "Dominanța Kavain (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Profiluri de efect după chemotip",
+    "intro": "Pe baza chemotipului, varietățile de Kava Noble pot fi împărțite în trei categorii principale:"
+  },
+  "heady": {
+    "title": "Kavas Heady",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Kavas Heady au <strong>Kavain (4)</strong> pe primul loc și se caracterizează printr-un efect în principal mental. Ele promovează focalizarea, claritatea și o îmbunătățire plăcută a stării de spirit, fără a sedare puternic.",
+    "idealTitle": "Ideal pentru:",
+    "idealFor": [
+      "Ocazii sociale și conversații",
+      "Lucru creativ",
+      "Ziua sau seara devreme",
+      "Începători (efect mai blând)"
+    ],
+    "examples": "<strong>Varietăți exemplu:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Kavas Heavy",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Kavas Heavy au <strong>Dihidrokavain (2)</strong> pe primul loc și acționează în principal asupra corpului. Ele oferă o relaxare musculară puternică și sunt ideale pentru deconectare după o zi lungă.",
+    "idealTitle": "Ideal pentru:",
+    "idealFor": [
+      "Relaxare seara",
+      "Reducerea stresului și relaxarea musculară",
+      "Pregătirea pentru somn",
+      "Consumatori experimentați de Kava"
+    ],
+    "examples": "<strong>Varietăți exemplu:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Kavas Balanced",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Kavas Balanced au o distribuție echilibrată de Kavain și Dihidrokavain și oferă atât claritate mentală, cât și relaxare fizică. Ele sunt cele mai versatile varietăți.",
+    "idealTitle": "Ideal pentru:",
+    "idealFor": [
+      "Utilizare zilnică",
+      "Meditație și mindfulness",
+      "Utilizare versatilă (zi sau seară)",
+      "Toate nivelurile de experiență"
+    ],
+    "examples": "<strong>Varietăți exemplu:</strong> Bir Kar, Melomelo (în funcție de lot)"
+  },
+  "qualitaet": {
+    "title": "Chemotip & Controlul calității",
+    "intro": "Chemotipul este astăzi cel mai important instrument pentru <strong>controlul calității</strong> în comerțul internațional cu Kava. În Vanuatu, cel mai mare exportator de Kava, analiza chemotipului este obligatorie înainte ca Kava să fie exportată.",
+    "lawTitle": "Legea Kava din Vanuatu (2002)",
+    "lawText": "Legea Kava din Vanuatu stipulează că doar <strong>varietățile Noble Kava</strong> sunt aprobate pentru export. Varietățile Tudei și amestecurile acestora sunt excluse de la export. Respectarea este verificată prin analize de chemotip.",
+    "lawNote": "Acesta este unul dintre motivele pentru care Kava din Vanuatu este considerată deosebit de valoroasă – există controale de calitate de stat care ar trebui să prevină contaminarea cu Tudei.",
+    "consumerTip": "<strong>Sfaturi pentru consumatori:</strong> Comercianții de Kava serioși indică chemotipul produselor lor sau îl pot comunica la cerere. Dacă un comerciant nu poate oferi informații despre chemotip, este bine să fiți precauți."
+  },
+  "navigation": {
+    "nextCategory": "Continuare către următoarea categorie:",
+    "sortenTitle": "Varietăți & Tipuri",
+    "sortenDescription": "Peste 80 de varietăți de Kava documentate și proprietățile lor"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Método do Liquidificador",
+    "subtitle": "A forma rápida e eficaz de preparar Kava – ideal para o cotidiano moderno.",
+    "category": "Preparação"
+  },
+  "breadcrumbs": {
+    "home": "Início",
+    "zubereitung": "Preparação",
+    "current": "Método do Liquidificador"
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Visão Geral",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Materiais Necessários",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Instruções Passo a Passo",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Comparação com o Método Tradicional",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Dicas de Especialistas",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Tempo Total",
+    "fast": "Rápido",
+    "lowEffort": "Pouco Esforço",
+    "highPotency": "Alta Potência",
+    "effectiveExtraction": "Extração Eficaz",
+    "tip": "Dica",
+    "essential": "Essencial",
+    "importantForBestResults": "Importante para os melhores resultados",
+    "aspect": "Aspecto",
+    "traditional": "Tradicional (Amassar)",
+    "blender": "Liquidificador",
+    "otherMethods": "Outros Métodos de Preparação"
+  },
+  "overview": {
+    "intro": "O método do liquidificador é a <strong>alternativa moderna</strong> ao método tradicional de amassar. É mais rápido, menos trabalhoso e ainda assim fornece uma <strong>extração muito boa</strong>.",
+    "alert": {
+      "title": "Ideal para...",
+      "text": "Iniciantes que buscam um método simples ou usuários experientes que têm pouco tempo. O método do liquidificador também é perfeito para grandes quantidades."
+    }
+  },
+  "materials": {
+    "title": "Materiais Necessários",
+    "essential": [
+      {
+        "name": "Liquidificador",
+        "note": "Pelo menos 500 watts, melhor 1000+ watts"
+      },
+      {
+        "name": "Pó de raiz de Kava",
+        "type": "Moagem Média",
+        "note": "20-40g dependendo da experiência"
+      },
+      {
+        "name": "Saco de Filtragem",
+        "note": "Sacos de leite de nozes ou peneira fina"
+      },
+      {
+        "name": "Água Morna",
+        "note": "400-600ml, morna ao toque (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Óleo de Coco ou Leite de Coco",
+        "note": "1 colher de sopa – essencial para uma boa extração!"
+      },
+      {
+        "name": "Balança de Cozinha",
+        "note": "Para dosagem consistente"
+      },
+      {
+        "name": "Tigela Grande",
+        "note": "Para coletar durante a filtragem"
+      }
+    ],
+    "alert": {
+      "title": "Requisitos do Liquidificador",
+      "text": "Use um liquidificador potente. Liquidificadores de imersão ou fracos não extraem de forma eficaz e podem superaquecer. Liquidificadores de alta potência como Vitamix ou Blendtec são ideais."
+    }
+  },
+  "steps": {
+    "title": "Instruções Passo a Passo",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Preparar os Ingredientes",
+        "duration": "2 Min",
+        "description": "Meça e prepare todos os ingredientes.",
+        "details": [
+          "Pesar o pó de Kava (20-40g dependendo da experiência)",
+          "Medir a água (400-600ml)",
+          "Preparar 1 colher de sopa de óleo de coco ou leite de coco",
+          "Colocar o saco de filtragem e a tigela de coleta prontos"
+        ],
+        "tip": "A gordura é especialmente importante no método do liquidificador, pois estabiliza a emulsão."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Colocar no Liquidificador",
+        "duration": "1 Min",
+        "description": "Coloque todos os ingredientes no liquidificador.",
+        "details": [
+          "Primeiro, adicione a água (morna, 35-45°C)",
+          "Depois, adicione o pó de Kava",
+          "Por último, adicione a gordura (óleo de coco/leite de coco)",
+          "Feche bem a tampa!"
+        ],
+        "tip": "Água morna melhora a extração. Água fria também funciona, mas é menos eficaz."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Misturar",
+        "duration": "3-4 Min",
+        "description": "Misture na velocidade máxima para máxima extração.",
+        "details": [
+          "Ajuste o liquidificador para a velocidade máxima",
+          "Misture continuamente por 3-4 minutos",
+          "A mistura ficará espumosa e de cor marrom-leitosa",
+          "Faça pausas curtas em caso de superaquecimento"
+        ],
+        "tip": "Misturar por mais tempo = Kava mais forte. Mas cuidado: alguns liquidificadores superaquecerão após 4+ minutos."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filtrar",
+        "duration": "3 Min",
+        "description": "Despeje a mistura através de um saco de filtragem.",
+        "details": [
+          "Posicione o saco de filtragem sobre uma tigela grande",
+          "Despeje lentamente a mistura do liquidificador",
+          "Esprema e torça o saco",
+          "Pressione várias vezes até que quase não saia mais líquido"
+        ],
+        "tip": "Este passo é importante! Sem filtrar, você ingere fibras grossas que podem causar náuseas."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Servir",
+        "duration": "Imediatamente",
+        "description": "Aprecie seu Kava do Liquidificador!",
+        "details": [
+          "Despeje em tigelas ou copos",
+          "Opcional: Coloque brevemente na geladeira para Kava gelado",
+          "Beba de uma vez ('Chug')",
+          "Tenha um chaser (fruta) à mão"
+        ],
+        "tip": "O Kava do liquidificador pode ter um sabor um pouco mais amargo do que o preparado tradicionalmente. Um bom chaser ajuda!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Comparação com o Método Tradicional",
+    "conclusion": "<strong>Conclusão:</strong> O método do liquidificador é ideal para o dia a dia e iniciantes. Para ocasiões especiais ou máxima potência, o método tradicional é preferível.",
+    "items": [
+      {
+        "aspect": "Tempo de Preparação",
+        "traditional": "20-25 minutos",
+        "blender": "8-10 minutos",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Potência",
+        "traditional": "Muito alta",
+        "blender": "Alta a muito alta",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Sabor",
+        "traditional": "Suave, terroso",
+        "blender": "Amargo, intenso",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Esforço",
+        "traditional": "Alto (físico)",
+        "blender": "Baixo",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Equipamento",
+        "traditional": "Apenas saco + tigela",
+        "blender": "Liquidificador necessário",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Para Iniciantes",
+        "traditional": "Bem adequado",
+        "blender": "Muito bem adequado",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Dicas de Especialistas",
+    "items": [
+      {
+        "name": "Truque dos Cubos de Gelo",
+        "text": "Adicione 2-3 cubos de gelo ao liquidificador. Isso resfria a mistura durante a mistura e evita superaquecimento em tempos de mistura mais longos."
+      },
+      {
+        "name": "Filtragem Dupla",
+        "text": "Filtre duas vezes – primeiro através de um saco grosso, depois através de um saco fino. Isso resulta em um Kava mais suave, sem sedimentos."
+      },
+      {
+        "name": "Aumento de Lecitina",
+        "text": "Uma colher de chá de lecitina de girassol melhora a emulsão e pode aumentar a biodisponibilidade das Kavalactonas."
+      },
+      {
+        "name": "Preparação em Lote",
+        "text": "Prepare grandes quantidades e armazene o Kava filtrado na geladeira. Dura 2-3 dias. Agite bem antes de beber!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Método Tradicional de Amassar",
+      "subtitle": "Máxima Potência, Experiência Autêntica",
+      "href": "/pt/preparacao/tradicional"
+    },
+    "instant": {
+      "title": "Kava Instantâneo",
+      "subtitle": "Sem esforço, pronto para beber imediatamente",
+      "href": "/pt/preparacao/instantaneo"
+    },
+    "calculator": {
+      "title": "Calculadora de Dosagem",
+      "subtitle": "Recomendações personalizadas para sua variedade",
+      "href": "/pt/preparacao/calculadora"
+    }
+  }
+}

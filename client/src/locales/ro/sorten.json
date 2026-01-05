@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Varietăți & Cultivare",
+    "subtitle": "Un ghid cuprinzător prin lumea varietăților de Kava: De la Borogu la Pouni Ono, de la Heady la Heavy.",
+    "category": "Varietăți",
+    "breadcrumb": {
+      "home": "Pagina principală",
+      "current": "Varietăți"
+    }
+  },
+  "toc": {
+    "title": "Cuprins",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introducere",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "Cele trei tipuri de efect",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Regiuni de cultivare",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Ce varietate mi se potrivește?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Articole detaliate",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Astăzi există <strong>peste 100 de varietăți documentate de Kava</strong>, care diferă semnificativ în funcție de origine, chimotip și efect. Doar în Vanuatu, presupusa patrie a plantei, sunt cunoscute mai mult de 80 de culturi diferite. Această diversitate este rezultatul a peste 3.000 de ani de selecție țintită de către culturile din Pacific.",
+      "text": "Diferențele dintre varietăți nu sunt doar de natură academică – ele determină în mod semnificativ efectul pe care îl are o băutură de Kava. Un <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai din Vanuatu</a> acționează complet diferit față de un <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka din Fiji</a>. Înțelegerea acestor diferențe este cheia pentru o experiență conștientă și satisfăcătoare de Kava."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "Cea mai importantă distincție pe care fiecare consumator de Kava trebuie să o cunoască este între <strong>Noble Kava</strong> (Kava nobilă) și <strong>Tudei Kava</strong>. Această clasificare a fost introdusă de guvernul Vanuatu și se bazează pe <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chimotipul</a> fiecărei varietăți.",
+      "noble": {
+        "title": "Noble Kava (Kava nobilă)",
+        "items": [
+          "Selectată de-a lungul secolelor pentru efecte plăcute",
+          "Chimotipul începe cu <strong>2</strong> sau <strong>4</strong>, niciodată cu 5 sau 6",
+          "Timp de debut al efectului: 10-20 minute",
+          "Durata efectului: 3-6 ore, se estompează curat",
+          "Fără \"hangover\" a doua zi",
+          "Sigură pentru utilizarea regulată"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Two-Day)",
+        "items": [
+          "Chimotipul începe cu <strong>5</strong> sau <strong>6</strong> (dominant DHM)",
+          "Timp de debut al efectului: 30-90 minute (întârziat)",
+          "Efectul durează extrem de mult (până la 2 zile)",
+          "Creează adesea greață și letargie",
+          "\"Kater\" a doua zi",
+          "Interzis pentru export în Vanuatu"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Atunci când cumpărați, asigurați-vă că comerciantul indică chimotipul și varietatea exactă. Această transparență este un semn bun pentru Kava nobilă autentică.",
+      "linkText": "Aflați mai multe despre Noble vs. Tudei"
+    },
+    "wirktypen": {
+      "title": "Cele trei tipuri de efect",
+      "intro": "Varietățile de Noble Kava sunt împărțite în trei categorii în funcție de efectul lor dominant. Această clasificare se bazează pe <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chimotip</a> – adică pe concentrația relativă a celor șase principale <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactone</a>.",
+      "heady": {
+        "title": "Heady",
+        "description": "Efect centrat pe cap: euforie, claritate mentală, sociabilitate. Ideal pentru zi și ocazii sociale.",
+        "chemotype": "De obicei începe cu 4 (Kavain) sau 2 (DHK)",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Stare & Socializare"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Efect echilibrat: relaxare fără oboseală, liniște mentală cu bunăstare fizică.",
+        "chemotype": "Raport echilibrat de 4, 2 și 3",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Reducerea anxietății"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Efect centrat pe corp: relaxare profundă a mușchilor, sedare, ideal pentru seară și somn.",
+        "chemotype": "Conținut ridicat de DHK (2) în pozițiile 1-2",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Somn & Relaxare"
+      },
+      "calculatorLink": "Calculator de chimotip: Analizați fiecare chimotip"
+    },
+    "regionen": {
+      "title": "Regiuni de cultivare în sinteză",
+      "intro": "Kava este cultivată astăzi în diferite regiuni ale Pacificului. Fiecare regiune a dezvoltat propriile varietăți, adaptate la clima locală și preferințele culturale.",
+      "tableHeaders": {
+        "region": "Regiune",
+        "count": "Număr de varietăți",
+        "localName": "Nume local",
+        "varieties": "Varietăți cunoscute",
+        "characteristics": "Caracteristici"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "Cea mai mare diversitate, regiunea de origine"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Adesea mai greu, procesare bună"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Toate Noble, mai degrabă heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Foarte potent, scump"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Tradițional, ceremonial"
+        },
+        {
+          "region": "Papua-Neuguinea",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Singura varietate nobilă"
+        }
+      ],
+      "vanuatuLink": "Varietăți din Vanuatu",
+      "pazifikLink": "Varietăți din Fiji, Tonga & Hawaii"
+    },
+    "auswahl": {
+      "title": "Ce varietate mi se potrivește?",
+      "intro": "Alegerea varietății potrivite de Kava depinde de efectul dorit și de momentul zilei. Iată un ghid orientativ:",
+      "recommendations": [
+        {
+          "purpose": "Pentru ocazii sociale",
+          "type": "Heady",
+          "description": "Alegeți un Kava <strong>Heady</strong>:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Împotriva stresului & anxietății",
+          "type": "Balanced",
+          "description": "Alegeți un Kava <strong>Balanced</strong>:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Pentru relaxarea mușchilor",
+          "type": "Heavy",
+          "description": "Alegeți un Kava <strong>Heavy</strong>:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Pentru a adormi",
+          "type": "Heavy",
+          "description": "Alegeți un Kava <strong>Heavy</strong>:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Începeți cu un Kava <strong>Balanced</strong> precum Melo Melo sau Borogu. Aceste varietăți oferă o experiență plăcută și echilibrată, fără efecte extreme într-o direcție.",
+      "tipLabel": "Sfat pentru începători:"
+    },
+    "unterseiten": {
+      "title": "Articole detaliate",
+      "intro": "Explorați aspectele individuale ale varietăților de Kava în subpagini specializate:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "Cea mai importantă distincție: De ce Noble Kava este sigur și Tudei ar trebui evitat.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Varietăți din Vanuatu",
+      "description": "Peste 80 de varietăți din patria Kava: Borogu, Melo Melo, Kelai, Palasa și altele.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Varietăți din Fiji, Tonga & Hawaii",
+      "description": "Specialități regionale: Loa Waka, Pouni Ono, 'Awa Moi și caracteristicile lor unice.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Profiluri de varietăți în detaliu",
+      "description": "Fișe detaliate ale celor mai importante varietăți cu chimotipuri, efecte și recomandări.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Înapoi",
+      "title": "Ingrediente"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Înainte",
+      "title": "Preparare"
+    }
+  }
+}

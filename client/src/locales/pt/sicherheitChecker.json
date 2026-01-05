@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Verificador de Interações",
+    "subtitle": "Verifique as interações potenciais entre seus medicamentos e Kava",
+    "category": "Segurança",
+    "breadcrumbs": {
+      "home": "Início",
+      "sicherheit": "Segurança",
+      "wechselwirkungen": "Interações",
+      "current": "Verificador de Interações"
+    }
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "checker": "Verificador de Interações",
+    "anleitung": "Instruções",
+    "kategorien": "Categorias de Risco",
+    "haeufige": "Medicamentos Comumente Verificados",
+    "hinweis": "Aviso Importante"
+  },
+  "ui": {
+    "disclaimerTitle": "Aviso Importante",
+    "disclaimerText": "Este verificador é apenas para fins informativos e não substitui a consulta médica. Em caso de dúvidas ou se você estiver tomando medicamentos prescritos, consulte sempre um médico ou farmacêutico.",
+    "inputTitle": "Insira os Medicamentos",
+    "inputDescription": "Digite os nomes dos seus medicamentos (substância ativa ou nome comercial)",
+    "placeholder": "ex: Diazepam, Ibuprofeno, Sertralina...",
+    "selectedMeds": "Medicamentos Selecionados:",
+    "checkButton": "Verificar Interações",
+    "commonCategories": "Grupos de Medicamentos Comuns",
+    "overallAssessment": "Avaliação Geral",
+    "detailedAnalysis": "Análise Detalhada",
+    "category": "Categoria",
+    "mechanism": "Mecanismo",
+    "affectedEnzymes": "Enzimas CYP Afetadas",
+    "recommendation": "Recomendação",
+    "newCheck": "Nova Verificação",
+    "moreAbout": "Mais sobre Interações",
+    "moreInfo": "Mais Informações",
+    "liverSafety": "Segurança Hepática & Hepatotoxicidade",
+    "contraindications": "Contraindicações",
+    "safetyOverview": "Visão Geral de Segurança & Saúde",
+    "studies": "Estudos Científicos"
+  },
+  "intro": {
+    "title": "Verificação de Medicamentos",
+    "text": "Digite o nome do seu medicamento ou substância ativa para verificar possíveis interações com Kava."
+  },
+  "search": {
+    "placeholder": "Digite o medicamento ou substância ativa...",
+    "button": "Verificar",
+    "noResults": "Nenhum medicamento encontrado com esse nome. Por favor, verifique a ortografia ou consulte um médico."
+  },
+  "result": {
+    "risk": "Nível de Risco",
+    "mechanism": "Mecanismo",
+    "recommendation": "Recomendação",
+    "alternatives": "Possíveis Alternativas"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "RISCO MUITO ALTO",
+      "description": "Estritamente contraindicado - nunca usar a combinação"
+    },
+    "high": {
+      "label": "RISCO ALTO",
+      "description": "Evitar a combinação - riscos significativos à saúde possíveis"
+    },
+    "moderate": {
+      "label": "RISCO MODERADO",
+      "description": "Cuidado necessário - apenas sob supervisão médica"
+    },
+    "low": {
+      "label": "RISCO BAIXO",
+      "description": "Provavelmente seguro em uso normal"
+    },
+    "none": {
+      "label": "SEM RISCO CONHECIDO",
+      "description": "Nenhuma interação conhecida documentada"
+    }
+  },
+  "anleitung": {
+    "title": "Como usar o verificador",
+    "steps": [
+      "Digite o nome do seu medicamento ou da substância ativa",
+      "Clique em \"Verificar\" ou pressione Enter",
+      "Leia a avaliação de risco e as recomendações",
+      "Em caso de dúvida, consulte sempre um médico ou farmacêutico"
+    ]
+  },
+  "kategorien": {
+    "title": "Explicação das Categorias de Risco",
+    "high": {
+      "title": "Risco Alto",
+      "text": "A combinação deve ser evitada a todo custo. Efeitos colaterais graves possíveis."
+    },
+    "moderate": {
+      "title": "Risco Moderado",
+      "text": "A combinação apenas sob supervisão médica. Ajuste de dose pode ser necessário."
+    },
+    "low": {
+      "title": "Risco Baixo",
+      "text": "A combinação provavelmente é segura, mas observe reações individuais."
+    },
+    "unknown": {
+      "title": "Desconhecido",
+      "text": "Dados insuficientes disponíveis. Cuidado recomendado."
+    }
+  },
+  "haeufige": {
+    "title": "Medicamentos Comumente Verificados",
+    "clickToCheck": "Clique em um medicamento para verificá-lo:"
+  },
+  "hinweis": {
+    "title": "Aviso Importante",
+    "text": "Este verificador é apenas para informações gerais e não substitui a consulta médica. O banco de dados não é completo e está em constante atualização. Em caso de dúvidas, consulte sempre um médico ou farmacêutico.",
+    "disclaimer": "As informações são baseadas na literatura científica e em mecanismos de interação conhecidos. Reações individuais podem variar."
+  },
+  "navigation": {
+    "continueTitle": "Continuar no capítulo Segurança",
+    "items": [
+      {
+        "title": "Visão Geral",
+        "href": "/pt/seguranca",
+        "description": "Voltar à visão geral de segurança"
+      },
+      {
+        "title": "Interações",
+        "href": "/pt/seguranca/interacoes",
+        "description": "Informações detalhadas sobre interações"
+      },
+      {
+        "title": "Contraindicações",
+        "href": "/pt/seguranca/contraindicacoes",
+        "description": "Quando Kava não deve ser usado"
+      }
+    ]
+  }
+}

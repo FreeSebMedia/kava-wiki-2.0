@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Segurança Hepática & Hepatotoxicidade",
+    "subtitle": "Uma análise científica da controvérsia sobre o Kava: fatos, mitos e o estado atual da pesquisa.",
+    "category": "Segurança",
+    "breadcrumbs": {
+      "home": "Início",
+      "sicherheit": "Segurança",
+      "current": "Segurança Hepática"
+    }
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "zusammenfassung": "Resumo",
+    "verbot2002": "A proibição de 2002",
+    "wasWirklichGeschah": "O que realmente aconteceu",
+    "rehabilitation": "Reabilitação & Decisões Judiciais",
+    "wissenschaft": "A evidência científica",
+    "whoBewertung": "Avaliação da OMS 2007",
+    "emaBewertung": "Avaliação da EMA 2017",
+    "klinischeStudien": "Estudos clínicos",
+    "risikofaktoren": "Fatores de risco identificados",
+    "extrakte": "Tipos de extratos",
+    "pflanzenteile": "Partes da planta",
+    "genetik": "Fatores genéticos",
+    "komedikation": "Coadministração & Álcool",
+    "mechanismen": "Possíveis mecanismos",
+    "empfehlungen": "Recomendações práticas",
+    "quellen": "Fontes"
+  },
+  "zusammenfassung": {
+    "title": "Consenso científico atual",
+    "intro": "Após análises abrangentes pela OMS, EMA e pesquisadores independentes, conclui-se:",
+    "points": [
+      "Kava preparado tradicionalmente a partir de variedades Nobres é <strong>seguro</strong> quando utilizado corretamente",
+      "Danos hepáticos graves são <strong>extremamente raros</strong> (incidência estimada: 1:60.000 a 1:1.000.000)",
+      "A maioria dos relatos de casos apresentaram <strong>deficiências significativas de qualidade</strong> na avaliação de causalidade",
+      "A proibição da UE de 2002 foi considerada <strong>desproporcional</strong> pelos tribunais alemães"
+    ]
+  },
+  "verbot2002": {
+    "title": "A proibição de 2002",
+    "intro": "Em 2002, o Kava foi retirado do mercado na Alemanha e em muitos outros países europeus. O Instituto Federal de Medicamentos e Produtos Médicos (BfArM) revogou as autorizações para medicamentos contendo Kava após relatos de danos hepáticos graves. Essa decisão teve consequências de longo alcance para o mercado global de Kava e para os países produtores do Pacífico.",
+    "chronologie": {
+      "title": "Cronologia dos eventos",
+      "note": "Para informações detalhadas sobre o status legal atual em diferentes países, veja",
+      "linkText": "Status legal & Legalidade",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Primeiros relatos de casos de danos hepáticos em usuários de Kava na Europa"
+        },
+        {
+          "date": "Nov 2001",
+          "text": "BfArM ordena a implementação de um plano de etapas"
+        },
+        {
+          "date": "Jun 2002",
+          "text": "Revogação das autorizações na Alemanha"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Proibições no Reino Unido, França, Suíça, Canadá, Austrália"
+        },
+        {
+          "date": "2014",
+          "text": "Tribunal Administrativo de Colônia declara a proibição ilegal"
+        },
+        {
+          "date": "2015",
+          "text": "OVG Münster confirma: a proibição foi desproporcional"
+        },
+        {
+          "date": "2019",
+          "text": "Revogação das autorizações de medicamentos finalmente anulada"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "O que realmente aconteceu: Uma análise crítica",
+    "intro": "Os relatos de casos originais que levaram à proibição foram intensamente investigados cientificamente nos anos seguintes. Durante esse processo, foram identificadas deficiências metodológicas significativas:",
+    "probleme": {
+      "title": "Problemas dos relatos de casos",
+      "items": [
+        "Documentação incompleta em mais de 50% dos casos",
+        "Nenhuma avaliação de causalidade padronizada (RUCAM)",
+        "Coadministração com substâncias hepatotóxicas ignorada",
+        "Consumo de álcool frequentemente não documentado",
+        "Qualidade do produto e partes da planta não claras"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Descobertas posteriores",
+      "items": [
+        "Muitos produtos continham partes aéreas da planta",
+        "Extratos acetônicos mostraram maior risco do que aquosos",
+        "Kava Tudei foi parcialmente vendido como Noble",
+        "Contaminação por fungos em alguns produtos foi comprovada",
+        "Polimorfismos genéticos identificados como fator de risco"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Reabilitação pelos tribunais",
+    "intro": "Após anos de litígios, os tribunais alemães chegaram a uma conclusão clara. O Tribunal Administrativo de Colônia e, posteriormente, o Tribunal Superior Administrativo de Münster determinaram que a proibição era <strong>desproporcional</strong> e que as autoridades não avaliaram corretamente a evidência científica.",
+    "quote": "\"A causalidade assumida pelo BfArM entre o uso de medicamentos contendo Kava-Kava e os danos hepáticos ocorridos não está suficientemente comprovada. A avaliação de risco-benefício foi realizada de forma inadequada.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "A evidência científica",
+    "intro": "Após a proibição, várias avaliações científicas abrangentes foram realizadas, que traçaram um quadro mais diferenciado da segurança do Kava."
+  },
+  "whoBewertung": {
+    "title": "Avaliação da OMS 2007",
+    "intro": "A Organização Mundial da Saúde (OMS) realizou em 2007 uma análise abrangente de todos os relatos de casos disponíveis. O resultado foi revelador:",
+    "analysisTitle": "Análise da OMS de 93 relatos de casos",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Casos \"provavelmente\" causais",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Casos \"possivelmente\" causais",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Casos não avaliáveis",
+        "color": "muted"
+      }
+    ],
+    "note": "A OMS constatou que extratos acetônicos e etanólicos apresentavam maior risco do que Kavalactonas sintéticas, o que sugere que componentes não-Kavalactona podem ser a causa possível."
+  },
+  "emaBewertung": {
+    "title": "Avaliação da EMA 2017",
+    "intro": "A Agência Europeia de Medicamentos (EMA) publicou em 2017 um relatório de avaliação de 103 páginas que resumiu todos os dados disponíveis:",
+    "findings": [
+      {
+        "label": "Estudos clínicos",
+        "text": "Nenhuma hepatotoxicidade significativa em estudos controlados"
+      },
+      {
+        "label": "Efeitos colaterais",
+        "text": "Apenas leves aumentos reversíveis de transaminases em poucos participantes"
+      },
+      {
+        "label": "Fatores de risco",
+        "text": "Extratos orgânicos, álcool, doença hepática pré-existente, polimorfismos genéticos"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Evidência de estudos clínicos",
+    "intro": "Um ponto particularmente importante: em estudos clínicos controlados com preparações de Kava padronizadas, <strong>nenhum dano hepático grave</strong> foi observado. Uma revisão sistemática de Smith & Leiras (2018) analisou 11 estudos randomizados e não encontrou evidências de hepatotoxicidade.",
+    "tableTitle": "Resumo da situação dos estudos",
+    "headers": [
+      "Estudo",
+      "Participantes",
+      "Duração",
+      "Danos hepáticos"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 semanas",
+        "result": "Nenhum"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 semanas",
+        "result": "Nenhum*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 semanas",
+        "result": "Nenhum"
+      },
+      {
+        "study": "Revisão Cochrane (2003)",
+        "participants": "645 (7 estudos)",
+        "duration": "1-24 semanas",
+        "result": "Nenhum"
+      }
+    ],
+    "footnote": "*Leves aumentos de transaminases em 2 participantes, um já apresentava valores basais elevados"
+  },
+  "risikofaktoren": {
+    "title": "Fatores de risco identificados",
+    "intro": "A pesquisa científica identificou vários fatores que podem aumentar o risco de efeitos colaterais hepáticos. Compreender esses fatores permite uma aplicação segura."
+  },
+  "extrakte": {
+    "title": "Tipos de extratos: Aquosos vs. Orgânicos",
+    "intro": "Uma descoberta central da análise da OMS foi a diferença entre os vários métodos de extração:",
+    "waessrig": {
+      "title": "Extratos aquosos (tradicionais)",
+      "items": [
+        "Método de preparação tradicional",
+        "Extrai principalmente Kavalactonas",
+        "Contém Glutation protetor",
+        "Nenhuma hepatotoxicidade documentada em populações do Pacífico",
+        "Classificado como seguro pela FAO/OMS"
+      ]
+    },
+    "organisch": {
+      "title": "Extratos orgânicos (acetônicos/etanólicos)",
+      "items": [
+        "Método de extração industrial",
+        "Maior concentração de Kavalactonas",
+        "Extrai também Flavokavinas",
+        "Glutation não é extraído",
+        "Maior risco na análise da OMS"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Partes da planta: Raiz vs. partes aéreas",
+    "intro": "O uso de diferentes partes da planta tem impactos significativos na segurança:",
+    "tableTitle": "Teor de Pipermetistina por parte da planta",
+    "headers": [
+      "Parte da planta",
+      "Pipermetistina",
+      "Segurança"
+    ],
+    "rows": [
+      {
+        "part": "Raiz/Rizoma",
+        "content": "Não detectável",
+        "safety": "Seguro",
+        "color": "primary"
+      },
+      {
+        "part": "Casca do caule",
+        "content": "Até 0,85%",
+        "safety": "Problemático",
+        "color": "amber"
+      },
+      {
+        "part": "Folhas",
+        "content": "Aproximadamente 0,2%",
+        "safety": "Tóxico",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermetistina é um alcaloide que atua fortemente como citotóxico in vitro e perturba a função mitocondrial (Nerurkar et al., 2004). Está presente exclusivamente em partes aéreas da planta."
+  },
+  "genetik": {
+    "title": "Fatores genéticos: Polimorfismos CYP2D6",
+    "intro": "Kavalactonas são metabolizadas principalmente pelo sistema enzimático do citocromo P450, especialmente pelo CYP2D6. Variantes genéticas dessa enzima podem influenciar significativamente a taxa de metabolização:",
+    "factors": [
+      {
+        "label": "Metabolizadores Lentos (PM)",
+        "text": "Cerca de 5-10% dos europeus têm atividade reduzida de CYP2D6, o que pode levar a níveis mais altos de Kavalactonas"
+      },
+      {
+        "label": "Reações Idiossincráticas",
+        "text": "Alguns casos podem ser atribuídos a mecanismos imunomediados"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Coadministração & Álcool",
+    "warning": {
+      "title": "Fator de risco crítico",
+      "text": "A combinação de Kava com álcool ou medicamentos hepatotóxicos aumenta significativamente o risco de danos hepáticos. Em muitos dos relatos de casos originais, o consumo de álcool foi documentado ou não excluído."
+    },
+    "intro": "A OMS identificou as seguintes coadministrações como especialmente problemáticas:",
+    "items": [
+      "Álcool (hepatotoxicidade sinérgica)",
+      "Paracetamol/Acetaminofeno (hepatotóxico)",
+      "Benzodiazepinas (interação CYP)",
+      "Antipsicóticos (interação CYP)",
+      "Estatinas (potencial hepatotóxico)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Possíveis mecanismos de hepatotoxicidade",
+    "intro": "Os mecanismos exatos pelos quais o Kava pode causar danos hepáticos em casos raros ainda não estão completamente esclarecidos. Várias hipóteses estão sendo discutidas:",
+    "hypotheses": [
+      {
+        "title": "1. Metabólitos de Quinona",
+        "text": "Kavain e Dihidrokavain podem ser oxidáveis a metabólitos de quinona reativos, que reagem com proteínas celulares e podem causar estresse oxidativo (Johnson et al., 2003). O glutation pode neutralizar esses metabólitos - uma possível razão pela qual extratos aquosos (que contêm glutation) são mais seguros."
+      },
+      {
+        "title": "2. Flavokavinas",
+        "text": "Flavokavin B mostra citotoxicidade in vitro e pode induzir apoptose em hepatócitos. Extratos orgânicos contêm concentrações mais altas de flavokavinas do que preparações aquosas."
+      },
+      {
+        "title": "3. Pipermetistina",
+        "text": "Este alcaloide está presente apenas em partes aéreas da planta e é altamente citotóxico. Inibe a cadeia respiratória mitocondrial e pode levar à morte celular."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Recomendações práticas para máxima segurança",
+    "items": [
+      {
+        "label": "Variedades Nobres",
+        "text": "Comprar apenas variedades de Kava Noble verificadas de comerciantes respeitáveis"
+      },
+      {
+        "label": "Raiz",
+        "text": "Usar apenas produtos de raiz e rizoma, sem partes aéreas da planta"
+      },
+      {
+        "label": "Preparação aquosa",
+        "text": "Preferir o método de preparação tradicional"
+      },
+      {
+        "label": "Sem álcool",
+        "text": "Pelo menos 24 horas de intervalo antes do consumo de álcool"
+      },
+      {
+        "label": "Valores hepáticos",
+        "text": "Para consumo regular, controle anual dos valores hepáticos"
+      },
+      {
+        "label": "Sinais de alerta",
+        "text": "Parar imediatamente em caso de icterícia, urina escura ou fadiga incomum"
+      }
+    ]
+  }
+}

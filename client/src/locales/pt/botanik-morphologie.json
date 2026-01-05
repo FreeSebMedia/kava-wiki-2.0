@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morfologia",
+    "subtitle": "Anatomia detalhada da planta de Kava com foco especial no sistema radicular economicamente significativo.",
+    "category": "Botânica"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botânica",
+    "morphologie": "Morfologia"
+  },
+  "toc": {
+    "ueberblick": "Visão geral morfológica",
+    "wurzelsystem": "O sistema radicular",
+    "stumpf": "O cormo (Corm)",
+    "seitenwurzeln": "As raízes laterais (Waka)",
+    "kavalactonVerteilung": "Distribuição de Kavalactona",
+    "staengel": "Caule & Nós",
+    "blaetter": "Folhas",
+    "blueten": "Flores & Frutos"
+  },
+  "intro": {
+    "paragraph1": "A morfologia de <em>Piper methysticum</em> é o resultado de milênios de seleção. Enquanto as partes aéreas da planta são importantes para a identificação de variedades, o verdadeiro valor está nas estruturas subterrâneas – o complexo sistema radicular que contém os desejados kavalactonas."
+  },
+  "overview": {
+    "title": "Visão geral morfológica",
+    "paragraph1": "Kava é um arbusto perene e sempre-verde com uma altura típica de <strong>1,5 a 3 metros</strong>. Em condições ideais – abundância de água, nutrientes e sombra – plantas individuais podem atingir até 5 metros.",
+    "table": {
+      "headers": {
+        "plantPart": "Parte da planta",
+        "characteristic": "Característica",
+        "kavalactoneContent": "Teor de Kavalactona"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Caule subterrâneo (Rizoma)",
+          "characteristic": "Grosso, lenhoso, ramificado",
+          "content": "Muito alto (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Raízes laterais",
+          "characteristic": "Finas, fibrosas, extensas",
+          "content": "Maior teor"
+        },
+        "stem": {
+          "name": "Caule (Tronco)",
+          "characteristic": "Nodoso, semelhante ao bambu",
+          "content": "Baixo a médio"
+        },
+        "leaves": {
+          "name": "Folhas",
+          "characteristic": "Em forma de coração, grandes",
+          "content": "Muito baixo"
+        },
+        "flowers": {
+          "name": "Flores",
+          "characteristic": "Pequenas, em espiga",
+          "content": "Não utilizado"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "O sistema radicular",
+    "paragraph1": "A parte economicamente e farmacologicamente mais importante da planta de Kava é o sistema radicular subterrâneo. Ele consiste em dois componentes principais que diferem em sua composição e qualidade.",
+    "qualityAlert": {
+      "title": "Característica de qualidade:",
+      "text": "Kava de alta qualidade é feito exclusivamente das raízes. O uso de partes aéreas da planta (caules, folhas) é considerado de qualidade inferior e pode levar a efeitos colaterais indesejados."
+    },
+    "stump": {
+      "title": "O cormo (Corm/Stump)",
+      "paragraph1": "O <strong>cormo</strong> é a parte grossa e lenhosa diretamente abaixo da superfície do solo. Ele forma a massa central do caule subterrâneo e pode alcançar dimensões consideráveis em plantas mais velhas.",
+      "properties": {
+        "title": "Propriedades",
+        "items": [
+          "Peso: 5-25 kg em plantas maduras",
+          "Diâmetro: 10-30 cm",
+          "Textura: Dura, lenhosa, fibrosa",
+          "Cor: Marrom claro a marrom escuro"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Perfil de Kavalactona",
+        "items": [
+          "Teor total: Médio a alto",
+          "Mais Dihydromethysticin (DHM)",
+          "Menos Kavain do que as raízes laterais",
+          "Tende a ser \"mais pesado\" em efeito"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "As raízes laterais (Lateral Roots / Waka)",
+      "paragraph1": "As <strong>raízes laterais</strong> são as raízes mais finas que se estendem do cormo e se espalham pelo solo. Em Fiji, elas são chamadas de \"Waka\" e são consideradas o componente de mais alta qualidade.",
+      "properties": {
+        "title": "Propriedades",
+        "items": [
+          "Diâmetro: 0,5-3 cm",
+          "Comprimento: Até vários metros",
+          "Textura: Mais macia, menos lenhosa",
+          "Cor: Marrom claro, amarelada"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Perfil de Kavalactona",
+        "items": [
+          "Teor total: O mais alto de todas as partes da planta",
+          "Maior proporção de Kavain",
+          "Perfil de efeito mais equilibrado",
+          "Qualidade premium (\"Waka Grade\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Distribuição de Kavalactona na planta",
+      "paragraph1": "A concentração de kavalactonas varia significativamente entre diferentes partes da planta. Isso tem efeitos diretos sobre a qualidade e segurança dos produtos de Kava.",
+      "table": {
+        "headers": {
+          "plantPart": "Parte da planta",
+          "kavalactoneContent": "Teor de Kavalactona",
+          "usage": "Uso",
+          "qualityLevel": "Nível de qualidade"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Raízes laterais (Waka)",
+            "content": "10-20%",
+            "usage": "Kava premium",
+            "quality": "Mais alta"
+          },
+          "stump": {
+            "name": "Cormo (Corm)",
+            "content": "5-15%",
+            "usage": "Kava padrão",
+            "quality": "Alta"
+          },
+          "basalStem": {
+            "name": "Tronco basal (Lewena)",
+            "content": "3-8%",
+            "usage": "Misturado ou sozinho",
+            "quality": "Média"
+          },
+          "upperStem": {
+            "name": "Tronco superior",
+            "content": "1-3%",
+            "usage": "Não recomendado",
+            "quality": "Baixa"
+          },
+          "leaves": {
+            "name": "Folhas",
+            "content": "<1%",
+            "usage": "Não utilizado",
+            "quality": "Inadequado"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Aviso:",
+        "text": "O uso de folhas e partes aéreas do caule foi associado a relatos históricos de toxicidade hepática. Kava de qualidade superior utiliza exclusivamente material radicular."
+      }
+    }
+  },
+  "stems": {
+    "title": "Caule & Nós",
+    "paragraph1": "Os caules (troncos) de Kava são uma das características mais importantes para a <strong>identificação de variedades</strong>. Eles crescem eretos e se ramificam com a idade.",
+    "structure": {
+      "title": "Estrutura",
+      "items": [
+        "<strong>Nós (Nodes):</strong> Espessamentos visíveis, semelhantes aos do bambu",
+        "<strong>Internódios:</strong> As seções entre os nós, variáveis em comprimento",
+        "<strong>Diâmetro:</strong> 2-5 cm, dependendo da idade e variedade",
+        "<strong>Altura:</strong> 1,5-3 m (até 5 m em condições ideais)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Características de variedades",
+      "paragraph1": "A cor e o padrão dos caules são uma característica chave para a distinção de cultivares:",
+      "items": [
+        "<strong>Verde:</strong> Comum em muitas variedades padrão",
+        "<strong>Manchado:</strong> Característico de certas variedades",
+        "<strong>Listrado:</strong> Listras longitudinais em várias cores",
+        "<strong>Vermelho-escuro/Preto:</strong> Variedades raras, frequentemente muito valorizadas"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Folhas",
+    "paragraph1": "As folhas de Kava são grandes, chamativas e servem principalmente para a fotossíntese. Tradicionalmente, não são utilizadas para a preparação de Kava.",
+    "characteristics": {
+      "title": "Características das folhas",
+      "formSize": {
+        "title": "Forma & Tamanho",
+        "items": [
+          "Em forma de coração (cordada)",
+          "Largura: 15-30 cm",
+          "Comprimento: 20-35 cm",
+          "Dispostas alternadamente"
+        ]
+      },
+      "surface": {
+        "title": "Superfície",
+        "items": [
+          "Lisa a levemente peluda",
+          "Brilhante na parte superior",
+          "Opaca na parte inferior",
+          "Veias das folhas bem definidas"
+        ]
+      },
+      "color": {
+        "title": "Cor",
+        "items": [
+          "Verde claro a verde escuro",
+          "Sombreamentos violetas possíveis",
+          "Petiolos das folhas frequentemente coloridos",
+          "Variações específicas de variedade"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Flores & Frutos",
+    "paragraph1": "Embora <em>Piper methysticum</em> produza flores, a planta é funcionalmente estéril e não forma sementes viáveis.",
+    "flowerStructure": {
+      "title": "Estrutura da flor",
+      "items": [
+        "<strong>Tipo:</strong> Inflorescências em espiga (Spadix)",
+        "<strong>Tamanho:</strong> 3-9 cm de comprimento",
+        "<strong>Cor:</strong> Verde-branco a amarelado",
+        "<strong>Posição:</strong> Oposta às folhas",
+        "<strong>Sexo:</strong> Geralmente unissexual (dioica)"
+      ]
+    },
+    "sterility": {
+      "title": "Estéril",
+      "paragraph1": "A esterilidade de <em>P. methysticum</em> é uma consequência da alta poliploidia (decaploidia). Isso significa:",
+      "items": [
+        "Sem sementes viáveis",
+        "Reprodução exclusivamente vegetativa",
+        "Dependência total do ser humano",
+        "Todas as plantas são clones genéticos"
+      ]
+    },
+    "paragraph2": "Essa esterilidade tem consequências de longo alcance: sem cultivo humano contínuo, <em>Piper methysticum</em> estaria extinta em uma geração. Cada planta de Kava existente hoje é o resultado de uma cadeia ininterrupta de reprodução por estacas que remonta às primeiras domesticidades há cerca de 3.000 anos."
+  },
+  "navigation": {
+    "continueText": "Continuar no capítulo Botânica:",
+    "nextChapter": {
+      "title": "Cultivo & Ecologia",
+      "description": "Cultivação, reprodução & condições de crescimento"
+    }
+  }
+}

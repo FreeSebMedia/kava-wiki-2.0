@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Nakamal & Kava-Bars",
+    "subtitle": "Das casas de reunião tradicionais às modernas Kava-Bars – a arquitetura social da cultura do Kava",
+    "category": "Cultura"
+  },
+  "breadcrumbs": {
+    "home": "Página Inicial",
+    "kultur": "Cultura",
+    "current": "Nakamal"
+  },
+  "toc": {
+    "einfuehrung": "Introdução",
+    "traditionell": "Nakamal Tradicional",
+    "atmosphaere": "Atmosfera & Regras",
+    "architektur": "Arquitetura",
+    "modern": "Kava-Bars Modernas",
+    "regionen": "Diferenças Regionais",
+    "etikette": "Etiqueta do Nakamal",
+    "besuch": "Visitar um Nakamal"
+  },
+  "intro": {
+    "lead": "O <strong>Nakamal</strong> é muito mais do que um lugar para beber Kava – é o coração da vida social em Vanuatu e um modelo para Kava-Bars em todo o mundo.",
+    "p1": "Na cultura melanesiana, o Nakamal serve como casa de reunião, centro comunitário e local espiritual ao mesmo tempo. Aqui, conflitos são resolvidos, histórias são contadas, alianças são forjadas e a conexão com os ancestrais é mantida.",
+    "p2": "Hoje, além dos Nakamals tradicionais em Vanuatu, existem Kava-Bars modernas em Port Vila, Suva, Auckland e até em cidades ocidentais como Melbourne, Los Angeles e Berlim. Todos compartilham princípios comuns: tranquilidade, respeito e comunidade."
+  },
+  "traditional": {
+    "title": "O Nakamal Tradicional",
+    "intro": "Nas comunidades rurais de Vanuatu, o Nakamal é o <strong>local central de reunião</strong> – um lugar que muitas vezes é reservado apenas para homens (embora isso mude em áreas urbanas).",
+    "functionsTitle": "Funções do Nakamal",
+    "functions": [
+      {
+        "icon": "users",
+        "title": "Ponto de Encontro Comunitário",
+        "desc": "Local de reunião diário para os moradores após o trabalho"
+      },
+      {
+        "icon": "scale",
+        "title": "Resolução de Conflitos",
+        "desc": "Disputas são resolvidas pacificamente sob a influência do Kava"
+      },
+      {
+        "icon": "landmark",
+        "title": "Consultoria Política",
+        "desc": "Decisões importantes da aldeia são discutidas no Nakamal"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Conexão Espiritual",
+        "desc": "Comunicação com espíritos ancestrais através de cerimônias rituais de Kava"
+      },
+      {
+        "icon": "book",
+        "title": "Transmissão de Conhecimento",
+        "desc": "Tradição oral de histórias, mitos e Kastom"
+      },
+      {
+        "icon": "handshake",
+        "title": "Hospitalidade",
+        "desc": "Recepção de convidados e selagem de alianças"
+      }
+    ],
+    "genderNote": "Tradicionalmente, o Nakamal é um <strong>espaço masculino</strong>. Em muitas aldeias, as mulheres são proibidas de entrar no Nakamal ou de beber Kava. No entanto, essa tradição varia de ilha para ilha e está se tornando mais flexível em áreas urbanas."
+  },
+  "atmosphere": {
+    "title": "Atmosfera & Regras",
+    "intro": "Um Nakamal é um lugar de <strong>tranquilidade e contemplação</strong>. A atmosfera é fundamentalmente diferente dos bares ocidentais.",
+    "rulesTitle": "As Regras do Nakamal",
+    "rules": [
+      {
+        "rule": "Falar em voz baixa",
+        "explanation": "Conversas altas e risadas são inadequadas – fala-se em tom baixo"
+      },
+      {
+        "rule": "Luz suave",
+        "explanation": "Kava torna os olhos sensíveis à luz (\"olhos de Kava\") – luz brilhante é evitada"
+      },
+      {
+        "rule": "Sem música alta",
+        "explanation": "Silêncio ou sons tradicionais suaves são a norma"
+      },
+      {
+        "rule": "Tratamento respeitoso",
+        "explanation": "Brigas e comportamentos agressivos são tabu"
+      },
+      {
+        "rule": "Sem comida",
+        "explanation": "Tradicionalmente, não se come no Nakamal – Kava é bebida com o estômago vazio"
+      },
+      {
+        "rule": "Estadia mínima",
+        "explanation": "Fica-se por um tempo e bebe-se várias tigelas antes de ir"
+      }
+    ],
+    "sensoryBox": {
+      "title": "A Experiência Sensorial",
+      "sight": "Luz crepuscular, muitas vezes apenas velas ou lâmpadas fracas",
+      "sound": "Vozes suaves, canto de grilos, suave batida das conchas de coco",
+      "smell": "Aroma terroso do Kava, misturado com o ar tropical da noite",
+      "taste": "O sabor picante e terroso do Kava fresco",
+      "feel": "O relaxamento crescente, a sensação de comunidade"
+    }
+  },
+  "architecture": {
+    "title": "Arquitetura do Nakamal",
+    "intro": "Os Nakamals tradicionais são estruturas simples, mas funcionais, que se adaptam ao ambiente tropical.",
+    "elementsTitle": "Elementos Típicos",
+    "elements": [
+      {
+        "element": "Área Coberta",
+        "description": "Telhado de folhas de palmeira ou chapas de metal ondulado para proteção contra a chuva"
+      },
+      {
+        "element": "Lados Abertos",
+        "description": "Boa ventilação através de paredes abertas ou semi-abertas"
+      },
+      {
+        "element": "Fogueira Central",
+        "description": "Em alguns Nakamals para calor e luz"
+      },
+      {
+        "element": "Bancos ou Esteiras",
+        "description": "Assentos simples feitos de madeira ou esteiras trançadas"
+      },
+      {
+        "element": "Área de Preparação do Kava",
+        "description": "Área com pilão, peneira e recipiente de água"
+      },
+      {
+        "element": "Área de Espuma",
+        "description": "Área ou canal para cuspir entre as tigelas"
+      }
+    ],
+    "tannaStyle": {
+      "title": "Estilo Tanna",
+      "desc": "Em Tanna, os Nakamals são frequentemente estruturas redondas feitas de materiais naturais, que se integram harmoniosamente à paisagem. A sagrada árvore Banyan frequentemente fica próxima."
+    },
+    "urbanStyle": {
+      "title": "Estilo Urbano",
+      "desc": "Em Port Vila, os Nakamals variam de cabanas simples a estruturas de concreto com luzes de néon – a atmosfera, no entanto, permanece tradicional."
+    }
+  },
+  "modern": {
+    "title": "Kava-Bars Modernas",
+    "intro": "Fora de Vanuatu, o conceito de Nakamal evoluiu para modernas <strong>Kava-Bars</strong> – lugares que combinam valores tradicionais com conforto contemporâneo.",
+    "typesTitle": "Tipos de Kava-Bars",
+    "types": [
+      {
+        "type": "Autêntico-Tradicional",
+        "locations": "Port Vila, Suva, Nukuʻalofa",
+        "description": "Atmosfera tradicional com Kava fresca, decoração simples e público local"
+      },
+      {
+        "type": "Nakamals da Diáspora",
+        "locations": "Auckland, Sydney, Melbourne",
+        "description": "Operados por comunidades do Pacífico, ponto de encontro para expatriados, elementos tradicionais e modernos"
+      },
+      {
+        "type": "Kava-Bars Ocidentais",
+        "locations": "Flórida, Califórnia, Nova Iorque, Berlim",
+        "description": "Ambiente moderno, muitas vezes com coquetéis de Kava, atmosfera de café, para o público ocidental"
+      },
+      {
+        "type": "Cafés de Kava",
+        "locations": "Em todo o mundo",
+        "description": "Combinação de café e Kava-Bar, muitas vezes com chá, café e misturas de Kava"
+      }
+    ],
+    "comparisonTitle": "Tradicional vs. Moderno",
+    "comparison": [
+      {
+        "aspect": "Preparação",
+        "traditional": "Preparado fresco, muitas vezes mastigado ou moído",
+        "modern": "Frequentemente Kava instantânea ou pré-preparada"
+      },
+      {
+        "aspect": "Atmosfera",
+        "traditional": "Muito tranquila, luz suave",
+        "modern": "Descontraída, mas muitas vezes com mais entretenimento"
+      },
+      {
+        "aspect": "Público",
+        "traditional": "Comunidade local, muitas vezes apenas homens",
+        "modern": "Público misto, todos os gêneros"
+      },
+      {
+        "aspect": "Ofertas Adicionais",
+        "traditional": "Apenas Kava",
+        "modern": "Frequentemente petiscos, outras bebidas, às vezes comida"
+      },
+      {
+        "aspect": "Preços",
+        "traditional": "Muito acessível (50-100 Vatu por tigela)",
+        "modern": "Mais alto ($5-15 por tigela)"
+      }
+    ]
+  },
+  "regions": {
+    "title": "Diferenças Regionais",
+    "intro": "Os locais de consumo de Kava variam de acordo com a região em atmosfera e tradição.",
+    "places": [
+      {
+        "flag": "🇻🇺",
+        "country": "Vanuatu",
+        "name": "Nakamal",
+        "description": "A origem – Nakamals tradicionais de aldeia e variantes urbanas modernas em Port Vila. Kava mais forte, experiência mais autêntica.",
+        "highlight": "Mais de 400 Nakamals apenas em Port Vila"
+      },
+      {
+        "flag": "🇫🇯",
+        "country": "Fiji",
+        "name": "Círculo de Kava",
+        "description": "Menos institucionalizado do que em Vanuatu – Kava é consumido em casas, em reuniões e em grupos informais.",
+        "highlight": "Tanoa (tigela de Kava) como centro"
+      },
+      {
+        "flag": "🇹🇴",
+        "country": "Tonga",
+        "name": "Faikava",
+        "description": "Mais estruturado do que em Fiji – o Tu'i Kava lidera a cerimônia. Também é consumido em modernos \"Kalapu\" (clubes).",
+        "highlight": "Hierarquia rigorosa na ordem de serviço"
+      },
+      {
+        "flag": "🇼🇸",
+        "country": "Samoa",
+        "name": "'Ava Circle",
+        "description": "Cerimônias formais com a Taupou como preparadora. Variantes modernas em \"Kava Bars\" em Apia.",
+        "highlight": "Preparação altamente ritualizada"
+      },
+      {
+        "flag": "🇺🇸",
+        "country": "EUA",
+        "name": "Kava Bar",
+        "description": "Estilo ocidental com atmosfera de café. Especialmente popular na Flórida e na Califórnia. Muitas vezes combinado com Kratom.",
+        "highlight": "Mais de 300 Kava-Bars na Flórida"
+      },
+      {
+        "flag": "🇳🇿",
+        "country": "Nova Zelândia",
+        "name": "Kava Club",
+        "description": "Operado por comunidades do Pacífico. Ponto de encontro importante para tonganes, samoanos e fidjianos em Auckland.",
+        "highlight": "Conexão com a terra natal na diáspora"
+      }
+    ]
+  },
+  "etiquette": {
+    "title": "Etiqueta do Nakamal",
+    "intro": "Seja em um Nakamal tradicional em Vanuatu ou em uma Kava-Bar na Flórida – certas regras básicas de etiqueta se aplicam em todos os lugares.",
+    "dosTitle": "O que fazer",
+    "dos": [
+      "Falar em voz baixa e ser respeitoso",
+      "Beber o Kava de uma vez (\"High tide\")",
+      "Devolver a tigela vazia",
+      "Tomar seu tempo – Kava não é uma bebida rápida",
+      "Seguir as instruções durante os rituais",
+      "\"Bula!\" (Fiji) ou \"Malomalō!\" (Vanuatu)"
+    ],
+    "dontsTitle": "O que evitar",
+    "donts": [
+      "Fazer barulho ou gritar",
+      "Beber o Kava em pequenos goles",
+      "Ficar impaciente",
+      "Fotografar sem convite",
+      "Trazer ou misturar álcool",
+      "Negociar preços"
+    ],
+    "tipBox": {
+      "title": "Dica para Visitantes de Primeira Viagem",
+      "text": "Se você estiver visitando um Nakamal ou uma Kava-Bar pela primeira vez, peça conselhos ao pessoal. A maioria se orgulha de explicar a tradição aos novatos e ajuda na escolha da força."
+    }
+  },
+  "visit": {
+    "title": "Visitar um Nakamal",
+    "intro": "Planejando uma visita a um Nakamal tradicional ou a uma Kava-Bar? Aqui estão dicas práticas:",
+    "stepsTitle": "Passo a Passo",
+    "steps": [
+      {
+        "step": "Chegar",
+        "desc": "Nakamals geralmente abrem ao pôr do sol (17-18 horas). Não chegue muito cedo."
+      },
+      {
+        "step": "Fazer o pedido",
+        "desc": "Escolha entre \"High tide\" (tigela cheia) e \"Low tide\" (tigela meia). Comece como iniciante com uma tigela meia."
+      },
+      {
+        "step": "Esperar",
+        "desc": "A preparação fresca leva alguns minutos. Use o tempo para absorver a atmosfera."
+      },
+      {
+        "step": "Beber",
+        "desc": "Beba a tigela de uma vez. Cuspir depois, se desejar (um canal geralmente está disponível)."
+      },
+      {
+        "step": "Esperar & Sentir",
+        "desc": "Espere 10-15 minutos antes de pedir outra tigela. Sinta os efeitos."
+      },
+      {
+        "step": "Aproveitar",
+        "desc": "Fique por um tempo, converse em voz baixa, aproveite a atmosfera pacífica."
+      }
+    ],
+    "costsTitle": "Custos Típicos",
+    "costs": [
+      {
+        "location": "Vanuatu (tradicional)",
+        "price": "50-150 Vatu (~€0,40-1,20)",
+        "note": "Muito acessível, Kava fresca"
+      },
+      {
+        "location": "Fiji",
+        "price": "FJ$2-5 (~€0,80-2)",
+        "note": "Um pouco mais caro do que Vanuatu"
+      },
+      {
+        "location": "Nova Zelândia/Austrália",
+        "price": "NZ$5-15 (~€3-8)",
+        "note": "Preços da diáspora"
+      },
+      {
+        "location": "EUA/Europa",
+        "price": "$8-18 (~€7-16)",
+        "note": "Preços de Kava-Bar ocidental"
+      }
+    ],
+    "findTitle": "Encontrar Nakamals",
+    "findText": "Em Port Vila, há mais de 400 Nakamals – você não terá dificuldades para encontrar um. Fora do Pacífico, utilize diretórios de Kava-Bar ou pergunte em comunidades do Pacífico. Nosso <a href=\"/de/kultur/kava-bars\">mapa de Kava-Bar</a> ajuda você a encontrar lugares perto de você."
+  },
+  "navigation": {
+    "title": "Leia Mais",
+    "back": {
+      "label": "Capítulo Anterior",
+      "title": "Cerimônias & Rituais",
+      "href": "/de/kultur/zeremonien"
+    },
+    "next": {
+      "label": "Próximo Capítulo",
+      "title": "Cultura do Kava Moderna",
+      "href": "/de/kultur/moderne"
+    }
+  },
+  "related": {
+    "title": "Temas Relacionados",
+    "links": [
+      {
+        "label": "Cerimônias & Rituais",
+        "href": "/de/kultur/zeremonien"
+      },
+      {
+        "label": "Preparação Tradicional",
+        "href": "/de/zubereitung/traditionell"
+      },
+      {
+        "label": "Mapa de Kava-Bar",
+        "href": "/de/kultur/kava-bars"
+      },
+      {
+        "label": "Variedades de Vanuatu",
+        "href": "/de/sorten/vanuatu"
+      },
+      {
+        "label": "Glossário: Nakamal",
+        "href": "/de/glossar#nakamal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "page": {
+    "title": "Efeitos & Impactos",
+    "subtitle": "Como se sente o Kava? Uma descrição detalhada dos efeitos psicológicos e físicos.",
+    "category": "Efeito"
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "neurobiologie": "Mecanismos Neurobiológicos",
+    "psyche": "Efeito Psicológico",
+    "koerper": "Efeito Físico",
+    "wirkungstypen": "Heady, Heavy & Balanced",
+    "dauer": "Duração & Curso",
+    "unterseiten": "Informações Detalhadas"
+  },
+  "intro": {
+    "paragraph1": "O Kava é frequentemente chamado de \"benzodiazepínico natural\", mas essa comparação é inadequada. Embora tenha um forte efeito ansiolítico e relaxante, mantém a mente clara e focada, ao contrário do álcool ou sedativos farmacêuticos.",
+    "paragraph2": "O estado é frequentemente descrito como \"relaxamento ativo\": você se sente calmo e satisfeito, mas totalmente capaz de agir e socialmente aberto."
+  },
+  "neurobiologie": {
+    "title": "Mecanismos Neurobiológicos",
+    "intro": "O efeito do Kava baseia-se em uma interação complexa de vários mecanismos no cérebro:",
+    "mechanisms": [
+      {
+        "title": "Modulação do Receptor GABA",
+        "description": "As Kavalactonas se ligam aos receptores GABA-A (semelhante ao Valium), mas em um local de ligação diferente. Isso intensifica o efeito do neurotransmissor GABA, levando ao relaxamento e à redução da ansiedade."
+      },
+      {
+        "title": "Bloqueio de Canais de Sódio & Cálcio",
+        "description": "Isso reduz a excitabilidade das células nervosas e é responsável pelo efeito relaxante muscular e anticonvulsivante."
+      },
+      {
+        "title": "Inibição da MAO-B",
+        "description": "Algumas Kavalactonas inibem a enzima monoamina oxidase-B, o que retarda a degradação da dopamina. Isso explica o leve efeito eufórico e de elevação do humor."
+      },
+      {
+        "title": "Inibição da Reabsorção de Noradrenalina",
+        "description": "Contribui para o aumento da concentração sem causar nervosismo."
+      }
+    ]
+  },
+  "psyche": {
+    "title": "Efeito Psicológico",
+    "positiv": {
+      "title": "Positivo",
+      "items": [
+        "Fortes efeitos ansiolíticos",
+        "Elevação do humor & Euforia",
+        "Maior sociabilidade & Verbosidade",
+        "Clareza mental & Foco",
+        "Redução do estresse & Serenidade",
+        "Paciência & Aceitação"
+      ]
+    },
+    "neutral": {
+      "title": "Neutro / Negativo (em caso de overdose)",
+      "items": [
+        "Fadiga (em variedades fortes)",
+        "Indiferença",
+        "Leves distúrbios de coordenação",
+        "Náusea (Náusea do Kava)"
+      ]
+    }
+  },
+  "koerper": {
+    "title": "Efeito Físico",
+    "paragraph1": "O primeiro sinal de um bom efeito do Kava é frequentemente uma <strong>sensação de dormência na boca</strong> (efeito anestésico local das Kavalactonas).",
+    "paragraph2": "Em seguida, vem uma onda de relaxamento que frequentemente começa nos membros. As tensões musculares se dissipam, o corpo se sente \"pesado\" e agradável. Dores (por exemplo, dores nas costas) podem ser aliviadas."
+  },
+  "wirkungstypen": {
+    "title": "Heady, Heavy & Balanced",
+    "intro": "Nem todo Kava tem o mesmo efeito. Dependendo do quimiotipo, distingue-se três categorias principais:",
+    "types": [
+      {
+        "name": "Heady",
+        "label": "Centrado na Cabeça & Social",
+        "description": "Dominado por Kavain. Tem efeito de elevação do humor, eufórico e falante. Ideal para durante o dia ou ocasiões sociais. Quase não causa fadiga.",
+        "examples": "Pouni Ono (Tonga), Kelai (Vanuatu), Moi (Hawaii)"
+      },
+      {
+        "name": "Heavy",
+        "label": "Centrado no Corpo & Sedativo",
+        "description": "Dominado por Dihydrokavain e Methysticin. Tem um forte efeito relaxante muscular e indutor de sono. O corpo se sente pesado (\"Couch-Lock\"). Ideal para a noite.",
+        "examples": "Borogu (Vanuatu), Ambae (Vanuatu)"
+      },
+      {
+        "name": "Balanced",
+        "label": "Equilibrado",
+        "description": "Uma mistura de ambos. Frequentemente começa \"Heady\" e depois passa para um relaxamento físico.",
+        "examples": "Melo Melo (Vanuatu), Loa Waka (Fiji)"
+      }
+    ]
+  },
+  "dauer": {
+    "title": "Duração & Curso",
+    "items": [
+      {
+        "label": "Início",
+        "value": "10-20 minutos após a ingestão (em estômago vazio)."
+      },
+      {
+        "label": "Pico",
+        "value": "Após cerca de 30-60 minutos."
+      },
+      {
+        "label": "Duração",
+        "value": "O efeito principal dura cerca de 2-3 horas. Um relaxamento sutil (\"Afterglow\") pode durar até 6-8 horas."
+      },
+      {
+        "label": "Sono",
+        "value": "O Kava promove um sono profundo e reparador sem \"ressaca\" na manhã seguinte. Muitos usuários relatam um despertar especialmente revigorante."
+      }
+    ]
+  },
+  "subpages": {
+    "title": "Informações Detalhadas",
+    "intro": "Clique nos cartões abaixo para saber mais sobre as diferentes áreas de efeito – com fundamentos científicos, quimiotipos recomendados e dicas práticas de aplicação.",
+    "angst": {
+      "title": "Redução da Ansiedade",
+      "description": "Como o Kava alivia a ansiedade e atua como um ansiolítico natural"
+    },
+    "schlaf": {
+      "title": "Sono & Relaxamento",
+      "description": "Efeitos sedativos e aplicação em distúrbios do sono"
+    },
+    "muskel": {
+      "title": "Relaxamento Muscular",
+      "description": "Relaxamento físico e alívio de tensões"
+    },
+    "stimmung": {
+      "title": "Humor & Socialização",
+      "description": "Efeitos eufóricos e efeito social do Kava"
+    },
+    "kognition": {
+      "title": "Efeitos Cognitivos",
+      "description": "Foco, clareza mental e o fenômeno da Tolerância Reversa"
+    }
+  }
+}

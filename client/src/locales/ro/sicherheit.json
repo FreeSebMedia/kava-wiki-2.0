@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Siguranță & Sănătate",
+    "subtitle": "Fapte în loc de mituri: O privire științifică asupra hepatotoxicității, efectelor secundare și consumului sigur.",
+    "category": "Siguranță"
+  },
+  "toc": {
+    "title": "Conținut",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Consens științific",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Prezentare generală a capitolelor",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Siguranța ficatului",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interacțiuni",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Contraindicații",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Recomandări de dozare",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Posibile efecte secundare",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Lista de verificare a siguranței",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Consens științific actual",
+    "intro": "După analize cuprinzătoare efectuate de <strong>OMS</strong>, <strong>EMA</strong> și cercetători independenți:",
+    "points": [
+      "Kava preparat tradițional din soiuri Noble este <strong>sigur</strong> atunci când este utilizat corect",
+      "Leziunile hepatice severe sunt <strong>extrem de rare</strong> (incidență estimată: 1:60.000 până la 1:1.000.000)",
+      "Interdicția din UE din 2002 a fost clasificată de instanțele germane ca fiind <strong>neproporționată</strong>",
+      "Riscurile apar în principal din cauza <strong>deficiențelor de calitate</strong>, <strong>părților de plante incorecte</strong> sau <strong>consumului mixt</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Prezentare generală a capitolelor: Siguranța în detaliu",
+    "intro": "Acest capitol oferă o analiză cuprinzătoare, bazată pe știință, a tuturor aspectelor relevante pentru siguranță ale Kava. Faceți clic pe subpagini pentru informații detaliate:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Siguranța ficatului & Hepatotoxicitate",
+        "href": "/de/sicherheit/leber",
+        "description": "Adevărul științific despre interdicția din 2002, evaluările OMS și EMA, factorii de risc și recomandări practice.",
+        "highlights": [
+          "Evaluarea OMS 2007",
+          "Raport EMA 2017",
+          "Decizii judecătorești",
+          "Factorii de risc"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interacțiuni cu medicamente",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalactonele inhibă enzimele CYP450: Prezentare completă a combinațiilor cu risc ridicat și interacțiunilor moderate.",
+        "highlights": [
+          "Sistemul CYP450",
+          "Combinații cu risc ridicat",
+          "Tabel de interacțiuni",
+          "Sfaturi practice"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Contraindicații",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Când Kava nu ar trebui utilizat: Contraindicații absolute și relative pentru o utilizare sigură.",
+        "highlights": [
+          "Boli hepatice",
+          "Sarcină",
+          "Parkinson",
+          "Asistență în luarea deciziilor"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Recomandări de dozare",
+    "intro": "Doza optimă depinde foarte mult de toleranța individuală (\"Toleranță inversă\") și de soiul de Kava. Începeți întotdeauna cu doze mai mici.",
+    "boxTitle": "Valori orientative pentru Kavalactone",
+    "medical": {
+      "title": "Medical (Anxietate)",
+      "value": "60–240 mg",
+      "unit": "Kavalactone pe zi"
+    },
+    "traditional": {
+      "title": "Tradițional / Recreativ",
+      "value": "250–500 mg",
+      "unit": "Kavalactone pe sesiune"
+    },
+    "tableTitle": "Preparare cu pulbere de rădăcină (Măcinare medie)",
+    "table": {
+      "headers": {
+        "level": "Nivel de experiență",
+        "amount": "Cantitate",
+        "water": "Apă"
+      },
+      "rows": [
+        {
+          "level": "Începător",
+          "amount": "2-3 linguri (aprox. 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Avansați",
+          "amount": "4-6 linguri (aprox. 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Posibile efecte secundare",
+    "intro": "Chiar dacă Kava este sigur atunci când este utilizat corect, pot apărea efecte secundare, mai ales în cazul consumului excesiv.",
+    "frequent": {
+      "title": "Frecvente (dependente de dozare)",
+      "items": [
+        {
+          "label": "Oboseală:",
+          "value": "Mai ales la soiurile \"Heavy\""
+        },
+        {
+          "label": "Greață:",
+          "value": "La doze mari pe stomacul gol"
+        },
+        {
+          "label": "Deshidratare:",
+          "value": "Kava are efect diuretic"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "În cazul consumului cronic",
+      "items": [
+        {
+          "label": "Dermopatie Kava:",
+          "value": "Piele uscată și solzoasă (reversibilă)"
+        },
+        {
+          "label": "Creșterea GGT:",
+          "value": "Enzimele hepatice cresc ușor (reversibil)"
+        },
+        {
+          "label": "Pierderea în greutate:",
+          "value": "În cazul consumului foarte ridicat"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Lista de verificare a siguranței",
+    "boxTitle": "Pentru un consum sigur de Kava",
+    "items": [
+      "<strong>Utilizați doar Kava Noble</strong> din surse de încredere",
+      "<strong>Numai rădăcină/Rhizom</strong> – fără frunze sau tulpini",
+      "<strong>Preferabil preparat tradițional cu apă</strong>",
+      "<strong>Fără alcool</strong> – cel puțin 24h distanță"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Verificare medicamente</strong> – ",
+        "linkText": "Verificați interacțiunile",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Respectați contraindicațiile</strong> – ",
+        "linkText": "Vizualizați lista de verificare",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Atenție la semnele de avertizare",
+      "text": "În caz de îngălbenire a pielii/ochilor, urină închisă la culoare, scaun deschis la culoare sau oboseală neobișnuită, întrerupeți imediat consumul și consultați un medic."
+    }
+  },
+  "quickLinks": {
+    "title": "Informații detaliate",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Siguranța ficatului",
+        "description": "Hepatotoxicitate & interdicția din 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interacțiuni",
+        "description": "Medicamente & interacțiuni CYP450",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Contraindicații",
+        "description": "Când ar trebui evitat Kava",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Sortimente din Fiji, Tonga și Hawaii",
+    "subtitle": "Specialități regionale de Kava din întreaga Pacific: De la Yaqona din Fiji până la 'Awa din Hawaii.",
+    "category": "Sortimente"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "sorten": "Sortimente",
+    "current": "Pacific"
+  },
+  "toc": {
+    "title": "Conținut",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fiji – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Toate Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Alte regiuni",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Origine",
+    "type": "Tip",
+    "composition": "Compoziție",
+    "duration": "Durata efectului",
+    "effectProfile": "Profilul efectului",
+    "recommendedFor": "Recomandat pentru:",
+    "variety": "Varietate",
+    "speciality": "Particularitate"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\">În <strong>Fiji</strong>, Kava este cunoscut sub numele de <strong>Yaqona</strong> (pronunțat \"Yang-gona\") și este considerat băutura națională oficială. Numele înseamnă \"amar\" și se referă la gustul caracteristic. Un al doilea nume, <strong>Malogu</strong>, înseamnă \"a calma\" și descrie efectul.</p><p>Fiji are <strong>13 varietăți documentate de Kava</strong> și este cunoscut pentru procesarea sa de înaltă calitate. În special, <strong>Waka</strong> este apreciat – Kava care este fabricat exclusiv din rădăcinile laterale (nu din rizom) și este considerat mai potent.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Greu",
+        "speciality": "Foarte potent, sedativ puternic"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Echilibrat",
+        "speciality": "Echilibrat, versatil"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Greu",
+        "speciality": "Durabil"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Echilibrat",
+        "speciality": "Tradițional"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Greu",
+        "speciality": "Rar, foarte apreciat"
+      },
+      {
+        "name": "Yalu",
+        "type": "Echilibrat",
+        "speciality": "Blând, plăcut"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Greu",
+      "Foarte Potent"
+    ],
+    "origin": "Fiji (insule diverse)",
+    "type": "Waka (rădăcini laterale)",
+    "duration": "5-8 ore",
+    "description": "<strong>Loa Waka</strong> este unul dintre cele mai potente Kava de pe piață. \"Loa\" înseamnă în fiji \"întunecat\" și se referă la culoarea rădăcinilor. \"Waka\" se referă la rădăcinile laterale de înaltă calitate. Această combinație produce un Kava extrem de puternic, cu efecte fizice intense.",
+    "effects": [
+      {
+        "text": "<strong>Extrem sedativ:</strong> Unul dintre cei mai puternici Kava \"Greu\""
+      },
+      {
+        "text": "<strong>Relaxare musculară profundă:</strong> Ideal pentru <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">tensiuni</a>"
+      },
+      {
+        "text": "<strong>Promovează somnul:</strong> Perfect pentru <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">probleme de somn</a>"
+      },
+      {
+        "text": "<strong>Durabil:</strong> Efectul poate dura 5-8 ore"
+      }
+    ],
+    "recommendedFor": "Utilizatori experimentați, consum de seară, probleme severe de somn",
+    "warning": "<strong>Atenție:</strong> Loa Waka este foarte potent. Începătorii ar trebui să înceapă cu o doză mai mică și să aștepte efectul înainte de a lua o dozare suplimentară."
+  },
+  "tonga": {
+    "title": "Tonga – Toate Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> este unică în lumea Kava: <strong>Toate soiurile cultivate acolo sunt Noble</strong>. Nu există soiuri Tudei în Tonga. Acest lucru face Kava tongan foarte sigur și previzibil.</p><p>Kava tongan este cunoscut pentru efectul său mai <strong>\"heady\"</strong> (centrat pe cap). Soiurile sunt tendențial mai puțin sedative decât Kava din Fiji sau Vanuatu și sunt potrivite pentru consumul de zi și ocazii sociale.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "Soiul cel mai popular, social"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Echilibrat",
+        "speciality": "Blând, plăcut"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Echilibrat",
+        "speciality": "Tradițional"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Echilibrat",
+        "speciality": "Blând, bun pentru începători"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euforic"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Prietenos pentru începători"
+    ],
+    "origin": "Tonga",
+    "composition": "Amestec (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 ore",
+    "description": "<strong>Pouni Ono</strong> este probabil cel mai cunoscut \"Kava de zi\" și un amestec din mai multe soiuri tongane (de obicei Leka Hina, Kava Kula și Kava Fulufulu). Numele înseamnă \"de șase ori\" și se referă la prepararea tradițională.",
+    "effects": [
+      {
+        "text": "<strong>Euforic:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Îmbunătățește starea de spirit</a> și social"
+      },
+      {
+        "text": "<strong>Stimulează:</strong> Aproape deloc sedativ, ideal pentru zi"
+      },
+      {
+        "text": "<strong>Gust blând:</strong> Plăcut decât multe alte soiuri"
+      },
+      {
+        "text": "<strong>Durată scurtă a efectului:</strong> Ușor de controlat"
+      }
+    ],
+    "recommendedFor": "Începători, consum de zi, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">ocazii sociale</a>, muncă",
+    "tip": "<strong>Sfat:</strong> Pouni Ono este una dintre cele mai bune soiuri pentru începătorii în Kava. Gustul blând și efectul plăcut, care nu este copleșitor, fac începutul ușor."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">În Hawaii, Kava este numit <strong>'Awa</strong>. Hawaii are <strong>13 soiuri tradiționale</strong>, toate considerate Noble și potrivite pentru consum. 'Awa hawaiian este cunoscut pentru potența sa ridicată și caracterul său unic.</p><p>'Awa are o semnificație culturală specială în Hawaii. Istoric, anumite 'Awa erau rezervate nobilimii (Ali'i). Astăzi, Kava hawaiian este adesea preparat proaspăt și, din cauza costurilor ridicate de producție, este mai scump decât Kava din alte regiuni.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Kava regal, foarte cerebral"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Greu",
+        "speciality": "Ceremonial, sedativ puternic"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Echilibrat",
+        "speciality": "Echilibrat, versatil"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Blând, plăcut"
+      },
+      {
+        "name": "Nene",
+        "type": "Echilibrat",
+        "speciality": "Tradițional"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Greu",
+        "speciality": "Rar, foarte apreciat"
+      }
+    ],
+    "warning": "<strong>Atenție:</strong> În Hawaii sunt cultivate și două soiuri importate Tudei: <strong>Isa</strong> și <strong>Iwi</strong>. Acestea nu sunt autohtone și ar trebui evitate."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Regal"
+    ],
+    "origin": "Hawaii",
+    "type": "Heady / Cerebral",
+    "duration": "2-4 ore",
+    "description": "<strong>Moi</strong> este legendarul \"Kava al regilor\". În istoria hawaiiană, Moi era rezervat nobilimii (Ali'i) și nu putea fi consumat de cei de rând. Astăzi este cunoscut pentru efectul său extrem de cerebral, clarificator mental.",
+    "effects": [
+      {
+        "text": "<strong>Extrem cerebral:</strong> Promovează claritatea mentală și concentrarea"
+      },
+      {
+        "text": "<strong>Stimulează creativitatea:</strong> Ideal pentru <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">muncă creativă</a>"
+      },
+      {
+        "text": "<strong>Aproape deloc sedativ:</strong> Nu provoacă oboseală"
+      },
+      {
+        "text": "<strong>Spiritual:</strong> Tradițional pentru meditație și ceremonii"
+      }
+    ],
+    "recommendedFor": "Muncă creativă, meditație, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">sarcini cognitive</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>În <strong>Samoa</strong>, Kava este numit <strong>'Ava</strong>. Samoa are doar <strong>4 soiuri documentate</strong>, dar o tradiție ceremonială bogată. Ceremonia 'Ava este o parte importantă a culturii samoane și se desfășoară la ocazii oficiale.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Echilibrat",
+        "speciality": "Tradițional, ceremonial"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Blând, plăcut"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Greu",
+        "speciality": "Mai puternic, sedativ"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Echilibrat",
+        "speciality": "Importat din Tonga"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Alte regiuni",
+    "intro": "Pe lângă principalele zone de cultivare, Kava se găsește și în alte regiuni din Pacific:",
+    "regions": [
+      {
+        "name": "Papua-Noua Guinee",
+        "description": "PNG are doar <strong>o varietate Noble</strong>: <strong>Kau kupwe</strong>, care este cultivată pe insula Baluan. Cele mai multe alte soiuri din PNG sunt Tudei și ar trebui evitate."
+      },
+      {
+        "name": "Insulele Solomon",
+        "description": "Insulele Solomon au de asemenea doar <strong>o varietate Noble</strong>: <strong>Melomelo</strong> (nu trebuie confundată cu Melo Melo din Vanuatu, deși ar putea fi înrudiți)."
+      },
+      {
+        "name": "Micronezia",
+        "description": "În Statele Federate ale Microneziei (Pohnpei) există soiul <strong>Rahmwahnger</strong>. Kava are o semnificație ceremonială importantă acolo."
+      },
+      {
+        "name": "Wallis și Futuna",
+        "description": "Aceste teritorii franceze au propriile tradiții de Kava, dar puține soiuri unice documentate."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Continuare în capitolul Sortimente:",
+    "nextTitle": "Profiluri de soiuri în detaliu",
+    "nextDescription": "Fișe detaliate pentru toate soiurile importante, cu chimotipuri, efecte și recomandări",
+    "nextLink": "/de/sorten/profile"
+  }
+}

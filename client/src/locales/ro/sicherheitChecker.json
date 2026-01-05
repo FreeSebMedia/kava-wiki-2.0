@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Verificator de interacțiuni",
+    "subtitle": "Verificați interacțiunile potențiale între medicamentele dumneavoastră și Kava",
+    "category": "Siguranță",
+    "breadcrumbs": {
+      "home": "Acasă",
+      "sicherheit": "Siguranță",
+      "wechselwirkungen": "Interacțiuni",
+      "current": "Verificator de interacțiuni"
+    }
+  },
+  "toc": {
+    "title": "Conținut",
+    "checker": "Verificator de interacțiuni",
+    "anleitung": "Instrucțiuni",
+    "kategorien": "Categorii de risc",
+    "haeufige": "Medicamente frecvent verificate",
+    "hinweis": "Notă importantă"
+  },
+  "ui": {
+    "disclaimerTitle": "Notă importantă",
+    "disclaimerText": "Acest verificator este destinat doar pentru informare și nu înlocuiește consultarea medicală. În caz de incertitudini sau dacă luați medicamente pe bază de rețetă, consultați întotdeauna un medic sau un farmacist.",
+    "inputTitle": "Introduceți medicamente",
+    "inputDescription": "Introduceți numele medicamentelor dumneavoastră (substanță activă sau denumire comercială)",
+    "placeholder": "de exemplu, Diazepam, Ibuprofen, Sertralin...",
+    "selectedMeds": "Medicamente selectate:",
+    "checkButton": "Verificați interacțiunile",
+    "commonCategories": "Grupuri de medicamente frecvente",
+    "overallAssessment": "Evaluare generală",
+    "detailedAnalysis": "Analiză detaliată",
+    "category": "Categorie",
+    "mechanism": "Mecanism",
+    "affectedEnzymes": "Enzime CYP afectate",
+    "recommendation": "Recomandare",
+    "newCheck": "Verificare nouă",
+    "moreAbout": "Mai multe despre interacțiuni",
+    "moreInfo": "Informații suplimentare",
+    "liverSafety": "Siguranța ficatului & Hepatotoxicitate",
+    "contraindications": "Contraindicații",
+    "safetyOverview": "Prezentare generală a siguranței și sănătății",
+    "studies": "Studii științifice"
+  },
+  "intro": {
+    "title": "Verificare medicamente",
+    "text": "Introduceți numele medicamentului sau al substanței active pentru a verifica posibilele interacțiuni cu Kava."
+  },
+  "search": {
+    "placeholder": "Introduceți medicamentul sau substanța activă...",
+    "button": "Verificați",
+    "noResults": "Nu a fost găsit niciun medicament cu acest nume. Vă rugăm să verificați ortografia sau să consultați un medic."
+  },
+  "result": {
+    "risk": "Nivel de risc",
+    "mechanism": "Mecanism",
+    "recommendation": "Recomandare",
+    "alternatives": "Posibile alternative"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "RISC FOARTE MARE",
+      "description": "Strict contraindicată - combinația nu trebuie utilizată niciodată"
+    },
+    "high": {
+      "label": "RISC MARE",
+      "description": "Evitați combinația - riscuri semnificative pentru sănătate posibile"
+    },
+    "moderate": {
+      "label": "RISC MODERAT",
+      "description": "Precauție necesară - doar sub supravegherea unui medic"
+    },
+    "low": {
+      "label": "RISC MIC",
+      "description": "Probabil sigur în utilizarea normală"
+    },
+    "none": {
+      "label": "FĂRĂ RISC CUNOSCUT",
+      "description": "Niciun risc cunoscut documentat"
+    }
+  },
+  "anleitung": {
+    "title": "Cum să utilizați verificatorul",
+    "steps": [
+      "Introduceți numele medicamentului sau al substanței active",
+      "Faceți clic pe \"Verificați\" sau apăsați Enter",
+      "Citiți evaluarea riscului și recomandările",
+      "În caz de îndoială, consultați întotdeauna un medic sau un farmacist"
+    ]
+  },
+  "kategorien": {
+    "title": "Explicarea categoriilor de risc",
+    "high": {
+      "title": "Risc mare",
+      "text": "Combinația ar trebui evitată în orice circumstanțe. Efecte secundare severe posibile."
+    },
+    "moderate": {
+      "title": "Risc moderat",
+      "text": "Combinația doar sub supravegherea unui medic. Ajustarea dozei poate fi necesară."
+    },
+    "low": {
+      "title": "Risc mic",
+      "text": "Combinația probabil sigură, dar observați reacțiile individuale."
+    },
+    "unknown": {
+      "title": "Necunoscut",
+      "text": "Nu sunt disponibile suficiente date. Precauție recomandată."
+    }
+  },
+  "haeufige": {
+    "title": "Medicamente frecvent verificate",
+    "clickToCheck": "Faceți clic pe un medicament pentru a-l verifica:"
+  },
+  "hinweis": {
+    "title": "Notă importantă",
+    "text": "Acest verificator este destinat doar pentru informații generale și nu înlocuiește consultarea medicală. Baza de date nu este completă și este actualizată continuu. În caz de incertitudini, consultați întotdeauna un medic sau un farmacist.",
+    "disclaimer": "Informațiile se bazează pe literatura științifică și pe mecanismele cunoscute de interacțiune. Reacțiile individuale pot varia."
+  },
+  "navigation": {
+    "continueTitle": "Continuare în capitolul siguranță",
+    "items": [
+      {
+        "title": "Prezentare generală",
+        "href": "/ro/siguranta",
+        "description": "Înapoi la prezentarea generală a siguranței"
+      },
+      {
+        "title": "Interacțiuni",
+        "href": "/ro/siguranta/interactiuni",
+        "description": "Informații detaliate despre interacțiuni"
+      },
+      {
+        "title": "Contraindicații",
+        "href": "/ro/siguranta/contraindicatii",
+        "description": "Când Kava nu ar trebui utilizată"
+      }
+    ]
+  }
+}

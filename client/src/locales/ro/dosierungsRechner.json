@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Calculator de dozare",
+    "subtitle": "Calculați dozajul optim de Kava în funcție de soi, experiență și metodă de preparare.",
+    "category": "Preparare"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "zubereitung": "Preparare",
+    "current": "Calculator de dozare"
+  },
+  "toc": {
+    "title": "Conținut",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Calculator de dozare",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Recomandarea dumneavoastră",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Informații importante",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Factori de influență",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Selectați soiul de Kava",
+    "selectStrainPlaceholder": "-- Alegeți soiul --",
+    "potency": "Potentă",
+    "experienceLevel": "Nivel de experiență",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Începător",
+        "desc": "Primele săptămâni"
+      },
+      "regular": {
+        "label": "Regulat",
+        "desc": "Câteva luni"
+      },
+      "experienced": {
+        "label": "Experimentat",
+        "desc": "1+ ani"
+      }
+    },
+    "prepMethod": "Metodă de preparare",
+    "methods": {
+      "traditional": {
+        "label": "Tradițional",
+        "desc": "Frământare"
+      },
+      "blender": {
+        "label": "Blender",
+        "desc": "Mixer"
+      },
+      "instant": {
+        "label": "Instant",
+        "desc": "Micronizat"
+      }
+    },
+    "bodyWeight": "Greutate corporală",
+    "kg": "kg",
+    "calculate": "Calculați dozajul",
+    "instantPowder": "Pulbere instant",
+    "mediumGrind": "Pulbere medie",
+    "water": "Apă",
+    "kavalactones": "Kavalactone (estimat)",
+    "prepTime": "Timp de preparare",
+    "min": "Min",
+    "toPrepGuide": "Pentru ghidul de preparare"
+  },
+  "results": {
+    "title": "Recomandarea dumneavoastră personală",
+    "bestTime": {
+      "title": "Cea mai bună perioadă de utilizare",
+      "heady": "În timpul zilei, pentru ocazii sociale sau activități creative",
+      "heavy": "Seara, pentru relaxare sau înainte de culcare",
+      "balanced": "Flexibil, potrivit pentru orice moment al zilei"
+    },
+    "tip": {
+      "title": "Sfaturi pentru acest soi",
+      "default": "Savurați acest soi pe stomacul gol pentru cea mai bună efect."
+    }
+  },
+  "notes": {
+    "title": "Informații importante",
+    "safety": {
+      "title": "Informații generale de siguranță",
+      "items": [
+        "Consumați Kava întotdeauna pe <strong>stomacul gol</strong> (3-4 ore după masă)",
+        "Începeți cu <strong>dozaj mai mic</strong> și creșteți treptat",
+        "<strong>Toleranță inversă:</strong> Primele utilizări pot avea un efect mai slab",
+        "Nu combinați Kava <strong>niciodată cu alcool</strong> sau medicamente",
+        "În caz de afecțiuni hepatice sau sarcină: <strong>Fără Kava</strong>"
+      ]
+    },
+    "about": {
+      "title": "Despre acest calculator",
+      "text": "Valorile calculate sunt <strong>indicative</strong> bazate pe conținutul mediu de kavalactone și experiențe anterioare. Efectul real poate varia în funcție de sensibilitatea individuală, lot și producător."
+    }
+  },
+  "factors": {
+    "title": "Factori de influență asupra dozării",
+    "items": [
+      {
+        "title": "Potentă a soiului",
+        "text": "Soiurile diferite au conținuturi diferite de kavalactone. Un soi de 5 stele, cum ar fi Loa Waka, necesită mai puțin praf decât un soi mai blând de 3 stele, cum ar fi Pouni Ono."
+      },
+      {
+        "title": "Greutate corporală",
+        "text": "Persoanele mai grele au nevoie de obicei de mai mult Kava pentru același efect. Calculatorul ajustează recomandarea în consecință."
+      },
+      {
+        "title": "Metodă de preparare",
+        "text": "Kava instant/micronizat este mai concentrat decât cel măcinat mediu. Metoda blender extrage ceva mai eficient decât frământarea tradițională."
+      },
+      {
+        "title": "Nivel de experiență",
+        "text": "Datorită \"toleranței inverse\", utilizatorii experimentați au nevoie adesea de mai puțin Kava pentru același efect. Începătorii ar trebui să înceapă cu doze mici."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Ghiduri de preparare",
+    "traditional": {
+      "title": "Metoda tradițională",
+      "time": "20-25 min",
+      "href": "/ro/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Metoda blender",
+      "time": "8-10 min",
+      "href": "/ro/zubereitung/blender"
+    },
+    "instant": {
+      "title": "Kava instant",
+      "time": "30 sec",
+      "href": "/ro/zubereitung/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Este considerat unul dintre cei mai buni Kava Heady din lume. Disponibilitate limitată.",
+    "borogu": "Cel mai consumat Kava în Vanuatu. Foarte fiabil.",
+    "pouni-ono": "Kava foarte popular pentru începători, cu calitate constantă.",
+    "moi": "Unul dintre cele mai rare și scumpe Kava. Folosit tradițional pentru ceremonii hawaiene.",
+    "melo-melo": "Kava foarte popular pentru începători, cu un puternic efect anxiolitic.",
+    "bir-kar": "Cunoscut pentru puterea și fiabilitatea sa.",
+    "palasa": "Nu este recomandat pentru începători. Foarte potent.",
+    "loa-waka": "Unul dintre cele mai puternice Kava disponibile comercial.",
+    "hiwa": "Folosit tradițional doar pentru scopuri ceremoniale. Foarte rar.",
+    "vula-waka": "Un allrounder popular din Fiji.",
+    "silese": "Una dintre cele mai euforice soiuri disponibile.",
+    "palarasul": "Un bun început în Kava Heavy."
+  }
+}

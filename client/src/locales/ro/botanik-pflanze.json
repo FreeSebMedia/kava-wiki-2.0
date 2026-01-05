@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "Planta",
+    "subtitle": "Taxonomie, nomenclatură și relația dintre Piper methysticum și forma sa sălbatică.",
+    "category": "Botanică"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanică",
+    "pflanze": "Planta"
+  },
+  "toc": {
+    "taxonomie": "Clasificare taxonomică",
+    "name": "Semnificația numelui",
+    "wichmannii": "Piper wichmannii – Forma sălbatică",
+    "unterschiede": "Diferențe față de specia cultivată",
+    "domestikation": "Domesticare & Evoluție",
+    "kulturgut": "Kava ca patrimoniu cultural viu"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> nu este o plantă de cultură obișnuită. Este rezultatul unei selecții umane de mii de ani și există astăzi exclusiv ca formă cultivată. Nu mai există populații sălbatice – fiecare plantă de Kava din lume este un clon, transmis de mâna omului."
+  },
+  "taxonomie": {
+    "title": "Clasificare taxonomică",
+    "intro": "Kava face parte din familia <strong>Piperaceae</strong> (plantele de piper), una dintre cele mai vechi familii de plante cu flori. Această familie cuprinde aproximativ 3.600 de specii în 5 genuri, inclusiv binecunoscutul piper negru (<em>Piper nigrum</em>).",
+    "table": {
+      "headers": {
+        "rank": "Rang taxonomic",
+        "classification": "Clasificare",
+        "note": "Notă"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Regn",
+          "classification": "Plantae",
+          "note": "Plante"
+        },
+        "unterreich": {
+          "rank": "Subregn",
+          "classification": "Tracheobionta",
+          "note": "Plante vasculare"
+        },
+        "abteilung": {
+          "rank": "Diviziune",
+          "classification": "Magnoliophyta",
+          "note": "Plante cu flori"
+        },
+        "klasse": {
+          "rank": "Clasă",
+          "classification": "Magnoliopsida",
+          "note": "Plante cu două cotiledoane"
+        },
+        "ordnung": {
+          "rank": "Ordine",
+          "classification": "Piperales",
+          "note": "Plante de piper"
+        },
+        "familie": {
+          "rank": "Familie",
+          "classification": "Piperaceae",
+          "note": "Plante de piper"
+        },
+        "gattung": {
+          "rank": "Gen",
+          "classification": "<em>Piper</em> L.",
+          "note": "Aproximativ 2.000 de specii la nivel mondial"
+        },
+        "art": {
+          "rank": "Specie",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "Descriere inițială 1786"
+        }
+      }
+    },
+    "forster": "Descrierea inițială a fost realizată în 1786 de <strong>Johann Georg Adam Forster</strong>, un naturalist german care l-a însoțit pe James Cook în a doua sa călătorie în jurul lumii. Forster a documentat planta și utilizarea sa pe insulele din Pacific."
+  },
+  "name": {
+    "title": "Semnificația numelui",
+    "intro": "Numele științific <em>Piper methysticum</em> este o combinație între latină și greacă:",
+    "piper": {
+      "title": "Piper",
+      "description": "Latină pentru \"piper\". Se referă la apartenența la familia plantelor de piper și la gustul ușor picant al rădăcinii."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "Din grecescul <em>μεθυστικός</em> (methystikos) = \"îmbătător\" sau \"care face să te îmbete\". Descrie efectul psihoactiv al plantei."
+    },
+    "localNames": {
+      "intro": "Numele \"Kava\" provine din limbile austronaziene ale Pacificului. În diferite regiuni există denumiri diferite:",
+      "headers": {
+        "region": "Regiune",
+        "name": "Nume local",
+        "meaning": "Semnificație"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Amărui\""
+        },
+        "fiji": {
+          "region": "Fiji",
+          "name": "Yaqona",
+          "meaning": "\"Rădăcină amară\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Piper, amar\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Amărui\""
+        },
+        "hawaii": {
+          "region": "Hawaii",
+          "name": "'Awa",
+          "meaning": "\"Amărui\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Băutură Kava\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – Forma sălbatică",
+    "intro": "Cea mai apropiată specie de <em>Piper methysticum</em> este <strong>Piper wichmannii</strong>, care este considerată forma sălbatică a Kava cultivat astăzi. Această specie se găsește natural în Papua Noua Guinee, Solomon și nordul Vanuatu.",
+    "alert": "<strong>Important:</strong> <em>Piper wichmannii</em> este uneori denumită \"Kava sălbatică\" și consumată local. Totuși, aceasta conține un profil diferit de kavalactone și este considerată mai puțin tolerabilă decât soiurile de Kava cultivate.",
+    "differences": {
+      "title": "Diferențe între P. methysticum și P. wichmannii",
+      "headers": {
+        "feature": "Caracteristică",
+        "methysticum": "<em>P. methysticum</em> (cultivat)",
+        "wichmannii": "<em>P. wichmannii</em> (sălbatic)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Reproducere",
+          "methysticum": "Steril, doar vegetativ",
+          "wichmannii": "Fertil, produce semințe"
+        },
+        "chromosomen": {
+          "feature": "Numărul de cromozomi",
+          "methysticum": "Decaploid (2n = 130)",
+          "wichmannii": "Diploid (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Conținut de kavalactone",
+          "methysticum": "Mai mare, optimizat",
+          "wichmannii": "Mai mic, variabil"
+        },
+        "chemotyp": {
+          "feature": "Chemotip",
+          "methysticum": "Selectat pentru tolerabilitate",
+          "wichmannii": "Adesea similar cu \"Tudei\""
+        },
+        "verbreitung": {
+          "feature": "Răspândire",
+          "methysticum": "Numai prin oameni",
+          "wichmannii": "Răspândire naturală"
+        },
+        "nutzung": {
+          "feature": "Utilizare tradițională",
+          "methysticum": "Documentată de mii de ani",
+          "wichmannii": "Limitată, adesea evitată"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Domesticare & Evoluție",
+    "intro": "Domesticarea Kava a început probabil acum aproximativ <strong>3.000 de ani</strong> în nordul Vanuatu. Studiile genetice arată că <em>Piper methysticum</em> a apărut prin hibridizare repetată și poliploidizare din <em>Piper wichmannii</em>.",
+    "changes": "Procesul de domesticire a dus la mai multe schimbări esențiale:",
+    "cards": {
+      "polyploidie": {
+        "title": "Poliploidia crescută",
+        "description": "În timp ce <em>P. wichmannii</em> este diploid (2n = 26), <em>P. methysticum</em> este decaploid (2n = 130). Această multiplicare a setului de cromozomi a dus la rădăcini mai mari și un conținut mai ridicat de kavalactone."
+      },
+      "fertilitaet": {
+        "title": "Pierderea fertilității",
+        "description": "Poliploidia ridicată a dus la sterilitate. Planta produce flori, dar nu semințe viabile. Aceasta a făcut-o complet dependentă de om."
+      },
+      "wirkprofil": {
+        "title": "Profil de efect optimizat",
+        "description": "Prin selecție țintită, au fost preferate soiuri cu efecte mai plăcute și o tolerabilitate mai bună. Acest lucru a dus la apariția soiurilor de \"Kava de calitate\" de astăzi."
+      },
+      "sortenvielfalt": {
+        "title": "Diversitate de soiuri",
+        "description": "Astăzi există peste 80 de cultivați documentați doar în Vanuatu. Fiecare soi are un profil chimic unic și caracteristici de efect distincte."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "Kava ca patrimoniu cultural viu",
+    "paragraph1": "Deoarece Kava nu se poate reproduce singură, fiecare plantă existentă astăzi este rezultatul unei lanțuri neîntrerupte de transmitere umană. Butașii au fost transmiși din generație în generație, din familie în familie, din sat în sat.",
+    "quote": {
+      "text": "Kava este astfel unul dintre cele mai vechi exemple documentate de agricultură selectivă conștientă din sudul Pacificului. Planta este un patrimoniu cultural viu – transmis din generație în generație.",
+      "author": "Sebastian Freidank, \"Kava – Rădăcina liniștii\""
+    },
+    "paragraph2": "În țările de origine, Kava nu este văzută doar ca o plantă de cultură, ci adesea și ca un <strong>ființă vie</strong> – cu nume, caracter și istorie. Nu este neobișnuit ca plantele individuale să fie numite și venerate în ritualuri. Această legătură profundă între om și plantă este ceea ce face Kava nu doar eficientă, ci și semnificativă.",
+    "paragraph3": "Dependența de om are și o latură întunecată: Fără cultivare continuă, <em>Piper methysticum</em> ar dispărea într-o generație. Acest lucru subliniază responsabilitatea care vine cu cultivarea și comerțul de Kava."
+  },
+  "navigation": {
+    "nextChapter": "Continuare în capitolul Botanică:",
+    "morphologie": {
+      "title": "Morfologie",
+      "description": "Anatomia & sistemul radicular al plantei de Kava"
+    }
+  }
+}

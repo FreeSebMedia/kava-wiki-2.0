@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Compararea soiurilor",
+    "subtitle": "Comparați două soiuri de Kava direct unul lângă altul"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "sorten": "Soiuri",
+    "current": "Comparare"
+  },
+  "ui": {
+    "selectVariety": "Selectați soiul...",
+    "firstVariety": "Primul soi",
+    "secondVariety": "Al doilea soi",
+    "toProfile": "Către profilul soiului",
+    "potency": "Potentă",
+    "badgeInfo": "Insignele <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> arată diferența față de celălalt soi"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Balanced",
+    "heavy": "Heavy"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Compararea profilului de efect"
+    },
+    "basicInfo": {
+      "title": "Informații de bază"
+    },
+    "dosage": {
+      "title": "Dozaj recomandat"
+    },
+    "applications": {
+      "title": "Domenii de aplicare"
+    },
+    "usageTimes": {
+      "title": "Timpuri de administrare"
+    },
+    "kavalactones": {
+      "title": "Profilul Kavalactonelor"
+    },
+    "notes": {
+      "title": "Observații"
+    }
+  },
+  "effects": {
+    "euphoria": "Euforie",
+    "relaxation": "Relaxare",
+    "sedation": "Sedare",
+    "clarity": "Claritate",
+    "sociability": "Sociabilitate",
+    "anxiolysis": "Reducerea anxietății"
+  },
+  "info": {
+    "chemotype": "Chemotip",
+    "duration": "Durata efectului",
+    "availability": "Disponibilitate",
+    "price": "Preț"
+  },
+  "dosageLabels": {
+    "beginner": "Începător",
+    "regular": "Regulat",
+    "experienced": "Experimentat"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Selectați două soiuri pentru comparare",
+    "description": "Utilizați meniurile derulante de mai sus pentru a selecta două soiuri de Kava și a le compara direct în ceea ce privește proprietățile, efectele și recomandările.",
+    "tips": {
+      "title": "Sfaturi pentru comparare",
+      "items": [
+        "Comparați soiuri din aceeași categorie pentru profiluri de efect similare",
+        "Comparați Heady vs. Heavy pentru experiențe opuse",
+        "Fiți atenți la diferențele de chemotip pentru perspective științifice"
+      ]
+    },
+    "quickSelections": "Selecție rapidă",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Clasic din Vanuatu",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Recomandare pentru începători",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Calculadora de Quimiotipo",
+    "subtitle": "Insira um quimiotipo de 6 dígitos e descubra o efeito esperado e recomendações.",
+    "category": "Interativo"
+  },
+  "breadcrumbs": {
+    "home": "Início",
+    "inhaltsstoffe": "Ingredientes",
+    "current": "Calculadora de Quimiotipo"
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "rechner": "Calculadora de Quimiotipo",
+    "anleitung": "Como funciona",
+    "beispiele": "Exemplos de Quimiotipos",
+    "legende": "Legenda de Kavalactona"
+  },
+  "rechner": {
+    "title": "Insira o quimiotipo",
+    "subtitle": "6 dígitos de 1-6, cada um exatamente uma vez",
+    "placeholder": "ex: 426531",
+    "analyzeButton": "Analisar",
+    "knownVariety": "Variedade Conhecida"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmetoxiyangonina",
+      "short": "DMY",
+      "effect": "Foco & Euforia",
+      "description": "Aumenta a dopamina, promove foco e leve euforia"
+    },
+    "2": {
+      "name": "Dihidrokavaina",
+      "short": "DHK",
+      "effect": "Relaxamento Muscular",
+      "description": "Relaxamento muscular forte e efeito analgésico"
+    },
+    "3": {
+      "name": "Yangonina",
+      "short": "Y",
+      "effect": "Atividade CB1",
+      "description": "Age sobre o sistema endocanabinoide, levemente estimulante"
+    },
+    "4": {
+      "name": "Kavaina",
+      "short": "K",
+      "effect": "Ansiolítico",
+      "description": "Principais ingrediente ativo para alívio da ansiedade e clareza mental"
+    },
+    "5": {
+      "name": "Dihidrometisticina",
+      "short": "DHM",
+      "effect": "Sedação Prolongada",
+      "description": "Fortemente sedativo, degradação lenta – marcador Tudei"
+    },
+    "6": {
+      "name": "Metisticina",
+      "short": "M",
+      "effect": "Sedativo",
+      "description": "Sedativo e neuroprotetor"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Inválido",
+      "description": "Por favor, insira um quimiotipo válido de 6 dígitos (números de 1-6, cada um exatamente uma vez)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Este quimiotipo indica Kava Tudei. DHM (5) na posição 1 ou 2 significa duração de efeito muito longa com possíveis efeitos colaterais."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Variedade dominante em kavaina com efeito primariamente mental. Ideal para ocasiões sociais e trabalho criativo."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Variedade equilibrada com kavaina e DHK nas primeiras posições. Combina clareza mental com relaxamento físico."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Variedade dominante em dihidrokavaina com efeito primariamente físico. Ideal para relaxamento e redução do estresse."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Variedade equilibrada com mistura de efeito mental e físico. Versátil."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) em posição proeminente – típico de Kava Tudei",
+    "tudeiSideEffects": "Possíveis efeitos colaterais: náusea, ressaca longa, sonolência",
+    "tudeiNotRecommended": "Não recomendado para consumo regular",
+    "dhmPosition1": "DHM na posição 1: Sedação muito forte e prolongada",
+    "dhmPosition2": "DHM na posição 2: Sedação aumentada, duração de efeito mais longa"
+  },
+  "strengths": {
+    "headyClear": "Efeito claro e focado sem sedação forte",
+    "headyMood": "Boa elevação do humor e alívio da ansiedade",
+    "headyBeginner": "Ideal para iniciantes",
+    "headyBalancedBest": "Combinação ideal de efeito mental e físico",
+    "headyBalancedMental": "Clareza mental com leve relaxamento",
+    "headyBalancedBody": "Leve relaxamento muscular sem sedação forte",
+    "heavyMuscle": "Forte relaxamento muscular",
+    "heavyPain": "Bom efeito analgésico",
+    "heavyRelax": "Profundo relaxamento físico",
+    "balancedBoth": "Efeito equilibrado sobre corpo e mente",
+    "balancedVersatile": "Versátil",
+    "balancedDaily": "Boa variedade para o dia a dia",
+    "methysticinNeuro": "Metisticina proeminente: Boas propriedades neuroprotetoras",
+    "yangoninStim": "Yangonina proeminente: Componente levemente estimulante",
+    "dmyDopamine": "DMY proeminente: Efeito de dopamina aumentado, mais euforia"
+  },
+  "effects": {
+    "headyEffects": [
+      "Clareza mental",
+      "Alívio da ansiedade",
+      "Leve euforia"
+    ],
+    "headyBalancedEffects": [
+      "Clareza mental",
+      "Leve relaxamento muscular",
+      "Elevação do humor"
+    ],
+    "heavyEffects": [
+      "Relaxamento muscular",
+      "Calma física",
+      "Indução ao sono"
+    ],
+    "balancedEffects": [
+      "Relaxamento equilibrado",
+      "Alívio moderado da ansiedade",
+      "Leve relaxamento muscular"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Ocasiões sociais",
+      "Trabalho criativo",
+      "Durante o dia ou início da noite"
+    ],
+    "headyBalancedUse": [
+      "Aplicação versátil",
+      "Ocasiões sociais com relaxamento",
+      "Tarde até à noite"
+    ],
+    "heavyUse": [
+      "Relaxamento noturno",
+      "Após esforço físico",
+      "Preparação para o sono"
+    ],
+    "balancedUse": [
+      "Uso diário",
+      "Meditação",
+      "Uso flexível"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Ordem de Kavalactona",
+    "strengthsTitle": "Forças deste quimiotipo",
+    "dominantEffects": "Efeitos Dominantes",
+    "recommendedUseTitle": "Uso Recomendado"
+  },
+  "anleitung": {
+    "title": "Como funciona",
+    "paragraph1": "O quimiotipo é um código de 6 dígitos que lista os seis principais kavalactonas em ordem decrescente de concentração. O primeiro dígito representa a kavalactona com a maior concentração, o último a com a menor.",
+    "rulesTitle": "As principais regras:",
+    "rules": [
+      {
+        "label": "Posição 1 = 4 (Kavaina)",
+        "text": "\"Heady\" Kava – efeito mental, foco, alívio da ansiedade"
+      },
+      {
+        "label": "Posição 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – efeito físico, relaxamento muscular"
+      },
+      {
+        "label": "Posição 1 ou 2 = 5 (DHM)",
+        "text": "⚠️ Kava Tudei – efeito muito longo, possíveis efeitos colaterais"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Exemplos de Quimiotipos",
+    "intro": "Clique em um quimiotipo de exemplo para analisá-lo:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Legenda de Kavalactona",
+    "intro": "Visão geral das seis principais kavalactonas e seus efeitos:"
+  },
+  "hint": {
+    "title": "Nota:",
+    "text": "Esta análise é baseada em diretrizes gerais. O efeito real pode variar dependendo da qualidade, preparo e sensibilidade individual. Para informações detalhadas, visite nossa página sobre o",
+    "linkText": "Sistema de Quimiotipo"
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Contraindicações",
+    "subtitle": "Quando o Kava não deve ser usado: Contraindicações absolutas e relativas para um uso seguro.",
+    "category": "Segurança",
+    "breadcrumbs": {
+      "home": "Início",
+      "sicherheit": "Segurança",
+      "current": "Contraindicações"
+    }
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "zusammenfassung": "Resumo",
+    "absolute": "Contraindicações Absolutas",
+    "leber": "Doenças Hepáticas",
+    "schwangerschaft": "Gravidez & Amamentação",
+    "kinder": "Crianças & Adolescentes",
+    "relative": "Contraindicações Relativas",
+    "parkinson": "Doença de Parkinson",
+    "depression": "Depressão Severa",
+    "operation": "Antes de Cirurgias",
+    "fahren": "Dirigir & Operar Máquinas",
+    "vorsicht": "Cuidado Especial",
+    "genetik": "Fatores Genéticos",
+    "alter": "Idosos",
+    "entscheidungshilfe": "Ajuda para Decisão",
+    "quellen": "Fontes"
+  },
+  "navigation": {
+    "continueTitle": "Continuar no Capítulo Segurança",
+    "items": [
+      {
+        "title": "Visão Geral",
+        "href": "/pt/seguranca",
+        "description": "Voltar para a visão geral da segurança"
+      },
+      {
+        "title": "Segurança Hepática",
+        "href": "/pt/seguranca/leber",
+        "description": "Hepatotoxicidade & a proibição de 2002"
+      },
+      {
+        "title": "Interações",
+        "href": "/pt/seguranca/wechselwirkungen",
+        "description": "Medicamentos & Interações CYP450"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Visão Geral Importante",
+    "intro": "Embora o Kava seja considerado seguro quando usado corretamente, existem certas situações em que seu uso não é recomendado ou é contraindicado:",
+    "absolut": {
+      "title": "Absolutamente contraindicado:",
+      "items": [
+        "Doenças Hepáticas",
+        "Gravidez & Amamentação",
+        "Crianças menores de 18 anos"
+      ]
+    },
+    "relativ": {
+      "title": "Contraindicações Relativas:",
+      "items": [
+        "Doença de Parkinson",
+        "Depressão Severa",
+        "Antes de cirurgias planejadas"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Contraindicações Absolutas",
+    "intro": "Nas seguintes condições, o Kava deve ser <strong>absolutamente evitado</strong>. O risco supera qualquer benefício potencial de forma significativa."
+  },
+  "leber": {
+    "title": "Doenças Hepáticas",
+    "label": "Estritamente contraindicado",
+    "intro": "Pessoas com doenças hepáticas existentes devem evitar completamente o Kava:",
+    "items": [
+      {
+        "name": "Hepatite (A, B, C)",
+        "text": "Inflamação hepática ativa ou crônica"
+      },
+      {
+        "name": "Cirrose Hepática",
+        "text": "Independentemente do estágio"
+      },
+      {
+        "name": "Fígado Gorduroso",
+        "text": "Doença hepática gordurosa alcoólica e não alcoólica"
+      },
+      {
+        "name": "Aumento das Enzimas Hepáticas",
+        "text": "Aumento inexplicável de ALT, AST, GGT"
+      },
+      {
+        "name": "Danos Hepáticos Anteriores",
+        "text": "Mesmo que atualmente normalizados"
+      }
+    ],
+    "reasonLabel": "Justificativa:",
+    "reason": "O fígado é o órgão central para a metabolização dos Kavalactonas. Com a função hepática comprometida, os metabólitos podem se acumular e aumentar o risco de danos adicionais."
+  },
+  "schwangerschaft": {
+    "title": "Gravidez & Amamentação",
+    "label": "Estritamente contraindicado",
+    "intro": "O Kava não deve ser usado durante a gravidez e amamentação:",
+    "items": [
+      {
+        "name": "Sem Dados de Segurança",
+        "text": "Não existem estudos controlados sobre segurança durante a gravidez"
+      },
+      {
+        "name": "Transmissão pela Placenta",
+        "text": "Kavalactonas podem atravessar a barreira placentária"
+      },
+      {
+        "name": "Leite Materno",
+        "text": "Kavalactonas são transferidas para o leite materno"
+      },
+      {
+        "name": "Relaxamento Uterino",
+        "text": "Kavain pode relaxar a musculatura uterina"
+      }
+    ],
+    "traditionLabel": "Prática Tradicional:",
+    "tradition": "Em culturas do Pacífico, o Kava tradicionalmente não é consumido por mulheres grávidas ou lactantes."
+  },
+  "kinder": {
+    "title": "Crianças & Adolescentes",
+    "label": "Não recomendado para menores de 18 anos",
+    "intro": "O Kava não deve ser usado por crianças e adolescentes:",
+    "items": [
+      {
+        "name": "Desenvolvimento",
+        "text": "Efeitos sobre o desenvolvimento cerebral não estudados"
+      },
+      {
+        "name": "Metabolismo",
+        "text": "Crianças metabolizam substâncias de forma diferente dos adultos"
+      },
+      {
+        "name": "Sem Estudos",
+        "text": "Não existem dados clínicos para este grupo etário"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Contraindicações Relativas",
+    "intro": "Nas seguintes condições, é necessário ter cuidado especial. O uso pode ser possível em certas circunstâncias, mas deve ser feito apenas após cuidadosa consideração e idealmente após consulta médica."
+  },
+  "parkinson": {
+    "title": "Doença de Parkinson",
+    "label": "Não recomendado",
+    "intro": "O Kava pode agravar os sintomas da Parkinson:",
+    "items": [
+      {
+        "name": "Antagonismo da Dopamina",
+        "text": "O Kava pode atenuar os efeitos dopaminérgicos"
+      },
+      {
+        "name": "Interação com Levodopa",
+        "text": "Pode reduzir a eficácia da Levodopa"
+      },
+      {
+        "name": "Relatos de Casos",
+        "text": "Agravação dos sintomas sob Kava documentada"
+      }
+    ],
+    "caseReportLabel": "Relato de Caso:",
+    "caseReport": "Schelosky et al. (1995) relataram o caso de uma mulher de 45 anos com Parkinson, cujos sintomas pioraram significativamente com o uso de Kava."
+  },
+  "depression": {
+    "title": "Depressão Severa",
+    "label": "Cuidado necessário",
+    "intro": "Em casos de depressão severa, é necessário ter cautela:",
+    "items": [
+      {
+        "name": "Depressão do SNC",
+        "text": "O Kava pode aumentar a apatia"
+      },
+      {
+        "name": "Interação Medicamentosa",
+        "text": "Interações com antidepressivos possíveis"
+      },
+      {
+        "name": "Automedicação",
+        "text": "Pode atrasar o tratamento profissional"
+      }
+    ],
+    "noteLabel": "Nota:",
+    "note": "Em casos de ansiedade leve a moderada, o Kava pode ser útil, mas em casos de depressão severa, o tratamento profissional deve ter prioridade."
+  },
+  "operation": {
+    "title": "Antes de Cirurgias Planejadas",
+    "label": "Descontinuar 2 semanas antes",
+    "intro": "O Kava deve ser descontinuado antes de cirurgias planejadas:",
+    "items": [
+      {
+        "name": "Interação com Anestesia",
+        "text": "Pode aumentar o efeito de agentes anestésicos"
+      },
+      {
+        "name": "Risco de Sangramento",
+        "text": "Possível interação com medicamentos anticoagulantes"
+      },
+      {
+        "name": "Função Hepática",
+        "text": "Importante para a metabolização de anestésicos"
+      }
+    ],
+    "recommendation": "Recomendação: Descontinuar o Kava pelo menos 2 semanas antes de uma cirurgia planejada e informar o anestesista sobre o consumo anterior."
+  },
+  "fahren": {
+    "title": "Dirigir & Operar Máquinas",
+    "label": "Capacidade de direção reduzida",
+    "intro": "O Kava pode afetar a capacidade de reação:",
+    "items": [
+      {
+        "name": "Sedação",
+        "text": "Fadiga e reações lentas possíveis"
+      },
+      {
+        "name": "Dependente da Dose",
+        "text": "Doses mais altas afetam mais"
+      },
+      {
+        "name": "Diferenças Individuais",
+        "text": "Sensibilidade varia bastante"
+      }
+    ],
+    "noteLabel": "Nota:",
+    "note": "Ao contrário dos benzodiazepínicos, estudos mostram que o Kava afeta menos a função cognitiva. No entanto, é importante conhecer a reação individual antes de dirigir."
+  },
+  "vorsicht": {
+    "title": "Cuidado Especial",
+    "intro": "Em certos grupos de pessoas, é necessário ter atenção redobrada, mesmo que não haja contraindicação estrita."
+  },
+  "genetik": {
+    "title": "Fatores Genéticos (Polimorfismos CYP2D6)",
+    "label": "Maior sensibilidade possível",
+    "intro": "Cerca de 5-10% da população europeia são \"Metabolizadores Lentos\" para CYP2D6:",
+    "items": [
+      {
+        "name": "Metabolização Lenta",
+        "text": "Kavalactonas permanecem mais tempo no corpo"
+      },
+      {
+        "name": "Níveis Sanguíneos Elevados",
+        "text": "Efeito e efeitos colaterais aumentados"
+      },
+      {
+        "name": "Reconhecimento",
+        "text": "Reação incomumente forte a doses normais"
+      }
+    ],
+    "recommendationLabel": "Recomendação:",
+    "recommendation": "Se você reage de forma incomum ao Kava, pode haver um fator genético envolvido. Comece com doses mais baixas."
+  },
+  "alter": {
+    "title": "Idosos",
+    "label": "Dosagem ajustada recomendada",
+    "intro": "Em idosos, é necessário ter cuidado especial:",
+    "items": [
+      {
+        "name": "Função Hepática Reduzida",
+        "text": "Metabolismo mais lento com a idade"
+      },
+      {
+        "name": "Polifarmácia",
+        "text": "Maior risco de interações"
+      },
+      {
+        "name": "Risco de Quedas",
+        "text": "Sedação pode aumentar o risco de quedas"
+      }
+    ],
+    "recommendationLabel": "Recomendação:",
+    "recommendation": "Começar com metade da dose usual e aumentar lentamente."
+  },
+  "entscheidungshilfe": {
+    "title": "Ajuda para Decisão: O Kava é adequado para mim?",
+    "selfCheck": {
+      "title": "Autoavaliação antes do consumo de Kava",
+      "nicht": {
+        "title": "O Kava NÃO é adequado se você:",
+        "items": [
+          "Tem ou teve uma doença hepática",
+          "Está grávida ou amamentando",
+          "Tem menos de 18 anos",
+          "Consome álcool regularmente",
+          "Toma benzodiazepínicos ou antipsicóticos",
+          "Toma anticoagulantes (diluintes do sangue)"
+        ]
+      },
+      "arzt": {
+        "title": "Fale com seu médico se você:",
+        "items": [
+          "Tem doença de Parkinson",
+          "Sofre de depressão severa",
+          "Toma medicamentos regularmente",
+          "Tem uma cirurgia planejada",
+          "Tem mais de 65 anos"
+        ]
+      },
+      "geeignet": {
+        "title": "O Kava pode ser adequado se você:",
+        "items": [
+          "Está saudável e não tem problemas hepáticos",
+          "Não toma nenhum dos medicamentos mencionados acima",
+          "Não consome ou consome álcool apenas ocasionalmente",
+          "É adulto (maior de 18 anos)",
+          "Não está grávida ou amamentando"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Recomendação Geral",
+      "text": "Em caso de dúvida, consulte um médico ou farmacêutico antes do consumo de Kava, especialmente se você toma medicamentos regularmente ou tem restrições de saúde."
+    }
+  },
+  "warnzeichen": {
+    "title": "Sinais de Alerta: Quando você deve parar imediatamente",
+    "intro": "Interrompa imediatamente o consumo e procure um médico se:",
+    "items": [
+      {
+        "name": "Amarelamento",
+        "text": "da pele ou olhos (icterícia)"
+      },
+      {
+        "name": "Urina Escura",
+        "text": "(cor de cerveja)"
+      },
+      {
+        "name": "Fezes Claras",
+        "text": "(descoloridas)"
+      },
+      {
+        "name": "Fadiga Incomum",
+        "text": "ou fraqueza"
+      },
+      {
+        "name": "Náusea",
+        "text": "ou falta de apetite"
+      },
+      {
+        "name": "Dor",
+        "text": "na parte superior direita do abdômen"
+      }
+    ],
+    "note": "Esses sintomas podem indicar problemas hepáticos e requerem avaliação médica imediata."
+  },
+  "quellen": {
+    "title": "Fontes",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Relatório de Avaliação sobre Piper methysticum G. Forst., rizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "OMS (2007):",
+        "title": "Avaliação do Risco de Hepatotoxicidade com Produtos de Kava.",
+        "source": "Relatório Técnico da OMS."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava e antagonismo da dopamina.",
+        "source": "Journal of Neurology, Neurosurgery & Psychiatry."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: uma revisão abrangente de eficácia, segurança e psicofarmacologia.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "Uma lista completa de todos os estudos citados pode ser encontrada em nossa",
+    "studiesLink": "página de estudos"
+  }
+}

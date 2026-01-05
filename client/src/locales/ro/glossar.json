@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Glossar",
+    "title": "Glossarul Kava",
+    "subtitle": "Peste 50 de termeni tehnici despre Kava – de la Kavalactone la ceremonia Kava"
+  },
+  "intro": "Acest glosar explică cei mai importanți termeni legați de Kava. De la compuși chimici la metode de preparare și tradiții culturale – aici găsești toți termenii tehnici explicați într-un mod accesibil.",
+  "search": {
+    "placeholder": "Caută termen...",
+    "noResults": "Niciun termen găsit pentru",
+    "clearSearch": "Șterge căutarea",
+    "resultsCount": "{{count}} termen(e) găsit(e)"
+  },
+  "categories": {
+    "chemie": "Chimie & Componente",
+    "wirkung": "Efecte & Impact",
+    "kultur": "Cultură & Tradiție",
+    "sorten": "Tipuri & Varietăți",
+    "zubereitung": "Preparare",
+    "sicherheit": "Siguranță"
+  },
+  "toc": {
+    "uebersicht": "Prezentare generală",
+    "suche": "Caută",
+    "chemie": "Chimie & Componente",
+    "wirkung": "Efecte & Impact",
+    "sorten": "Tipuri & Varietăți",
+    "zubereitung": "Preparare",
+    "kultur": "Cultură & Tradiție",
+    "sicherheit": "Siguranță"
+  },
+  "ui": {
+    "relatedTerms": "Termeni asociați",
+    "relatedLinks": "Află mai multe",
+    "backToTop": "Înapoi sus",
+    "showMore": "Arată mai mult",
+    "showLess": "Arată mai puțin"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalactone",
+      "shortDefinition": "Substanțele psihoactive din Kava",
+      "fullExplanation": "Kavalactone sunt un grup de 18 lactone care sunt responsabile pentru efectele psihoactive ale Kava. Cele **șase Kavalactone principale** constituie aproximativ 96% din conținutul total: Desmethoxyyangonin (DMY), Dihydrokavain (DHK), Yangonin (Y), Kavain (K), Dihydromethysticin (DHM) și Methysticin (M). Fiecare Kavalacton are un profil de acțiune propriu – de la anxiolitic la relaxare musculară și sedare. Conținutul total în rădăcină este de obicei între 3-20%.",
+      "relatedTerms": [
+        "Chemotyp",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cele 6 Kavalactone principale",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Sistemul Chemotyp",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Chemotyp",
+      "shortDefinition": "Profilul chimic al unei varietăți de Kava",
+      "fullExplanation": "Chemotypul este un **cod de 6 cifre** care indică ordinea celor șase Kavalactone principale în funcție de concentrație. Fiecare Kavalacton are un număr: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. Un Chemotyp precum \"426315\" înseamnă: Kavain (4) este cel mai concentrat, urmat de DHK (2), etc. Chemotypul determină în mare măsură efectul unei varietăți – dacă este mai degrabă \"heady\" (cerebral, euforic) sau \"heavy\" (fizic, sedativ).",
+      "relatedTerms": [
+        "Kavalactone",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Calculator Chemotyp",
+          "href": "/de/inhaltsstoffe/rechner"
+        },
+        {
+          "label": "Sistemul Chemotyp",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "Cel mai important Kavalacton pentru efectul anxiolitic",
+      "fullExplanation": "Kavain (Numărul 4 în sistemul Chemotyp) este cel mai bine studiat Kavalacton și este considerat **responsabil principal pentru efectul anxiolitic (de reducere a anxietății)**. Acesta acționează asupra receptorilor GABA, transportatorilor de dopamină și norepinefrină. Varietățile cu un conținut ridicat de Kavain (4 pe primul sau al doilea loc în Chemotyp) sunt considerate deosebit de valoroase și sunt denumite \"heady\". Kavain are, de asemenea, proprietăți neuroprotectoare.",
+      "relatedTerms": [
+        "Kavalactone",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone în detaliu",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Efectul anxiolitic",
+          "href": "/de/wirkung/angst"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "Kavalacton pentru relaxare musculară",
+      "fullExplanation": "Dihydrokavain (DHK, numărul 2 în sistemul Chemotyp) este cel mai **puternic Kavalacton relaxant muscular**. Acesta acționează asupra canalelor de sodiu controlate de tensiune și are proprietăți anestezice locale – de aici senzația tipică de amorțeală în gură după consum. DHK este, de asemenea, responsabil pentru relaxarea fizică. Varietățile cu un conținut ridicat de DHK (2 pe primul loc) sunt adesea clasificate ca \"heavy\".",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heavy",
+        "Relaxare musculară"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Relaxare musculară",
+          "href": "/de/wirkung/muskel"
+        },
+        {
+          "label": "Kavalactone în detaliu",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Kavalacton sedativ puternic, dominant în Tudei",
+      "fullExplanation": "Dihydromethysticin (DHM, numărul 5 în sistemul Chemotyp) este un **Kavalacton sedativ puternic**. În concentrații mari (5 pe primul loc) este tipic pentru Kava Tudei și poate provoca efecte secundare de lungă durată. În Noble Kava, DHM este prezent în cantități moderate și contribuie la efectul relaxant. DHM are o jumătate de viață mai lungă decât Kavain, motiv pentru care efectele Tudei pot dura până la două zile.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "Kavalacton cu afinitate pentru receptorii CB1",
+      "fullExplanation": "Yangonin (Y, numărul 3 în sistemul Chemotyp) este un Kavalacton unic care arată o **afinitate pentru receptorii CB1-cannabinoizi**. Acest lucru ar putea contribui la efectele de îmbunătățire a stării de spirit și ușor euforice ale Kava. Yangonin este, de asemenea, responsabil pentru culoarea galbenă a extractelor de Kava. Are proprietăți antiinflamatorii și este studiat pentru potențialul său terapeutic.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone în detaliu",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Kavalacton cu efect de îmbunătățire a stării de spirit",
+      "fullExplanation": "Desmethoxyyangonin (DMY, numărul 1 în sistemul Chemotyp) este un **Kavalacton cu efect de îmbunătățire a stării de spirit** cu proprietăți inhibitoare MAO-B. Poate crește disponibilitatea dopaminei în creier, contribuind la efectele sale euforice. DMY este, de asemenea, responsabil pentru efectul antidepresiv al Kava. În combinație cu Kavain, acesta amplifică proprietățile \"heady\" ale unei varietăți.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone în detaliu",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Kavalacton sedativ cu durată lungă de acțiune",
+      "fullExplanation": "Methysticin (M, numărul 6 în sistemul Chemotyp) este un **Kavalacton sedativ** cu o durată relativ lungă de acțiune. Contribuie la relaxarea fizică și la inducerea somnului. Methysticin are, de asemenea, proprietăți anticonvulsivante. În majoritatea varietăților Noble, Methysticin este prezent în cantități moderate și completează efectul celorlalte Kavalactone.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone în detaliu",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "Numele științific pentru Kava",
+      "fullExplanation": "Piper methysticum este **numele științific (latin)** pentru planta Kava. Numele înseamnă literal \"piper intoxicant\" (din grecescul \"methystikos\" = intoxicant). Planta face parte din **familia Piperaceae** și este înrudită strâns cu piperul negru. Kava este o plantă de cultură sterilă care poate fi înmulțită doar vegetativ – un indiciu al domesticirii sale de către oameni de mii de ani.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botanică"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Planta",
+          "href": "/de/botanik/pflanze"
+        },
+        {
+          "label": "Prezentare generală Botanică",
+          "href": "/de/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Strămoșul sălbatic al plantei Kava",
+      "fullExplanation": "Piper wichmannii este **strămoșul sălbatic** al Piper methysticum. Această specie sălbatică se găsește în Papua Noua Guinee și în Solomon și se poate reproduce sexual (spre deosebire de forma de cultură sterilă). Oamenii de știință cred că Kava a fost **domesticită** din Piper wichmannii acum aproximativ 3.000 de ani. Kava sălbatic conține adesea cantități mai mari de compuși nedoriți și nu este recomandată pentru consum.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Istorie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkone",
+      "shortDefinition": "Componente flavonoide în Kava",
+      "fullExplanation": "Chalkone sunt o clasă de **compuși flavonoizi** care se găsesc în Kava. Cele mai importante sunt Flavokavain A, B și C. În timp ce Flavokavain A și C sunt considerate relativ sigure, **Flavokavain B (FKB)** este asociat cu potențială toxicitate hepatică. Chalkone se găsesc în principal în părțile aeriene ale plantei și în varietățile Tudei. Kava Noble din rădăcină conține doar cantități mici.",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Siguranță",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Extracție",
+      "shortDefinition": "Procesul de obținere a Kavalactonelor",
+      "fullExplanation": "Extracția se referă la procesul prin care **Kavalactone sunt dizolvate din materialul vegetal**. În prepararea tradițională, acest lucru se face prin frământare în apă – Kavalactonele sunt solubile în grăsimi și sunt extrase prin forță mecanică și emulsificare. Extractele industriale folosesc adesea solvenți precum etanol sau acetona. **Extractele apoase** sunt considerate mai sigure, deoarece conțin mai puțini compuși nedoriți.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Metoda de frământare"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Preparare",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobuttersäure",
+      "shortDefinition": "Cel mai important neurotransmițător inhibitor",
+      "fullExplanation": "GABA (Gamma-Aminobuttersäure) este **cel mai important neurotransmițător inhibitor** din sistemul nervos central. Acesta reduce excitabilitatea neuronală și are efecte calmante, anxiolitice și de inducere a somnului. Kavalactone – în special Kavain și DHK – modulează receptorii GABA, dar într-un **mod diferit față de benzodiazepine**. Acest lucru explică de ce Kava relaxează, fără a avea efectele secundare tipice ale somniferelor (fără dependență, fără afectare cognitivă).",
+      "relatedTerms": [
+        "Kavalactone",
+        "Kavain",
+        "Anxioliză"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efectul anxiolitic",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Studii științifice",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Toleranță inversă",
+      "germanTerm": "Umgekehrte Toleranz",
+      "shortDefinition": "Fenomenul prin care Kava devine mai puternică în timp",
+      "fullExplanation": "Toleranța inversă este un **fenomen unic la Kava**: Spre deosebire de majoritatea substanțelor psihoactive, pentru care este necesară o cantitate mai mare pentru același efect în timp, la Kava este **invers**. Mulți începători simt puțin sau nimic la prima utilizare. După mai multe sesiuni (de obicei 3-7 zile de consum regulat), corpul \"se deschide\" pentru Kavalactone, iar efectul devine semnificativ mai puternic. Mecanismele exacte nu sunt încă pe deplin înțelese, dar ar putea fi legate de acumularea Kavalactonelor în țesutul adipos sau de sensibilizarea receptorilor.",
+      "relatedTerms": [
+        "Kavalactone",
+        "Dozare"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efecte cognitive",
+          "href": "/de/wirkung/kognition"
+        },
+        {
+          "label": "Calculator de dozare",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxioliză",
+      "germanTerm": "Angstlösung",
+      "shortDefinition": "Efectul anxiolitic al Kava",
+      "fullExplanation": "Anxioliza se referă la **efectul anxiolitic** al unei substanțe. Kava este una dintre puținele substanțe vegetale cu **dovezi de nivel 1** pentru efectul anxiolitic (Cochrane Review). Anxioliza se realizează în principal prin modularea receptorilor GABA și influențarea sistemului limbic. Spre deosebire de benzodiazepine, Kava nu provoacă **afectare cognitivă, dependență și sedare** la doze mici până la medii.",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efectul anxiolitic",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Studii științifice",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Starea de relaxare profundă indusă de Kava",
+      "fullExplanation": "\"Krunk\" este un termen colocvial în comunitatea Kava pentru starea de **relaxare profundă și bunăstare** după consumul unei cantități adecvate de Kava. Termenul derivă probabil din \"drunk\", dar descrie o stare diferită: **minte clară cu corp relaxat**. Semnele tipice includ un sentiment de pace, relaxare musculară, ușoară euforie și deschidere socială – fără efectele negative ale alcoolului.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efecte",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Relaxare musculară",
+      "shortDefinition": "Efectul de relaxare fizică al Kava",
+      "fullExplanation": "Efectul **relaxant muscular** al Kava este unul dintre cele mai evidente efecte. Acesta este mediat în principal de DHK (Dihydrokavain), care acționează asupra canalelor de sodiu din celulele musculare. Această relaxare nu este **asociată cu slăbiciune sau probleme de coordonare** – te simți relaxat, dar nu afectat. Kava este, prin urmare, apreciată pentru tensiuni, probleme musculare cauzate de stres și ca alternativă naturală la relaxantele musculare.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Relaxare musculară",
+          "href": "/de/wirkung/muskel"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Euforie",
+      "shortDefinition": "Stare de bine generată de Kava",
+      "fullExplanation": "Kava poate genera o **euforie ușoară până la moderată**, în special la varietățile Heady cu un conținut ridicat de Kavain. Această euforie se deosebește de cea indusă de alcool sau alte substanțe: este **clară, socială și nu desinhibantă**. Îmbunătățirea stării de spirit este mediată de efectul Kavain și DMY asupra sistemelor de dopamină și serotonină. Varietățile Heady precum Kelai, Moi și Pouni Ono sunt cunoscute pentru proprietățile lor euforice.",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Sedare",
+      "shortDefinition": "Efect calmant și de inducere a somnului",
+      "fullExplanation": "Sedarea se referă la **efectul calmant și de inducere a somnului** al Kava, care este pronunțat în special la varietățile Heavy. Acesta este mediat în principal de DHM, DHK și Methysticin. La doze mici până la medii, Kava **nu este sedativă** și menține claritatea mentală. Totuși, la doze mai mari sau în cazul varietăților Heavy, poate apărea o oboseală semnificativă. Acest lucru face ca Kava să fie o opțiune naturală pentru problemele de somn.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Somn"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Somn & Relaxare",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotector",
+      "shortDefinition": "Efect protector asupra neuronilor",
+      "fullExplanation": "Proprietățile neuroprotectoare se referă la **capacitatea de a proteja neuronii de daune**. Studiile arată că Kavain și alte Kavalactone pot avea efecte neuroprotectoare – protejează neuronii de stresul oxidativ și excitotoxicitate. Acest lucru ar putea face din Kava un subiect interesant de cercetare pentru bolile neurodegenerative. Proprietățile neuroprotectoare contribuie, de asemenea, la faptul că Kava nu afectează funcția cognitivă.",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Studii științifice",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgezie",
+      "germanTerm": "Schmerzlinderung",
+      "shortDefinition": "Efectul de reducere a durerii al Kava",
+      "fullExplanation": "Analgezie se referă la **efectul de reducere a durerii** al unei substanțe. Kava are proprietăți analgezice ușoare, care sunt mediate în principal de DHK. Efectul anestezic local (amorțeală în gură) este o dovadă directă pentru această proprietate. Kava este utilizată tradițional pentru **dureri de cap, dureri dentare și dureri musculare**. Totuși, reducerea durerii este ușoară și nu înlocuiește un tratament medical pentru dureri severe.",
+      "relatedTerms": [
+        "DHK",
+        "Relaxare musculară"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efecte",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Dermopatia Kava",
+      "germanTerm": "Kava-Hautausschlag",
+      "shortDefinition": "Modificare a pielii la consumul excesiv",
+      "fullExplanation": "Dermopatia Kava este o **modificare reversibilă a pielii** care poate apărea în urma consumului foarte mare și pe termen lung de Kava. Se manifestă ca o piele uscată și solzoasă cu o nuanță galbenă, în special pe palme, tălpi și antebrațe. Cauza este probabil o **disfuncție a metabolismului colesterolului** în piele. Dermopatia dispare complet după reducerea sau încetarea consumului și nu este un semn de daune hepatice.",
+      "relatedTerms": [
+        "Siguranță",
+        "Dozare"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Siguranță",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Edle Kava",
+      "shortDefinition": "Varietăți de Kava de înaltă calitate, consumate tradițional",
+      "fullExplanation": "Noble Kava se referă la **varietăți de Kava cultivate**, care au fost crescute de secole pentru consumul zilnic. Acestea se caracterizează printr-un **profil echilibrat de Kavalactone**, cu un conținut ridicat de Kavain și un conținut scăzut de compuși nedoriți precum Flavokavain B (FKB). Varietățile Noble au de obicei 4 sau 2 pe primele două locuri ale Chemotypului. Acestea sunt considerate sigure pentru consumul regulat și sunt singurele varietăți care pot fi exportate legal din Vanuatu.",
+      "relatedTerms": [
+        "Tudei",
+        "Chemotyp",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "Zwei-Tage-Kava",
+      "shortDefinition": "Varietăți de Kava sălbatice sau de calitate inferioară",
+      "fullExplanation": "Tudei (de la \"two day\") se referă la **varietăți de Kava sălbatice sau de calitate inferioară**, ale căror efecte și efecte secundare pot dura până la două zile. Acestea conțin cantități mari de **Flavokavain B (FKB)** și **Dihydromethysticin (DHM)**, care sunt asociate cu greață, dureri de cap și posibilă toxicitate hepatică. Varietățile Tudei au de obicei 5 (DHM) pe primul loc al Chemotypului. În Vanuatu, exportul de Kava Tudei este **interzis**. Comercianții serioși vând exclusiv Noble Kava.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Siguranță",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Kopflastig",
+      "shortDefinition": "Varietăți de Kava cu efecte euforice și cerebrale",
+      "fullExplanation": "\"Heady\" descrie varietățile de Kava ale căror efecte sunt **în principal cerebrale și euforice**. Aceste varietăți au de obicei **Kavain (4) pe primul sau al doilea loc** al Chemotypului. Kava Heady promovează socializarea, îmbunătățește starea de spirit și poate avea efecte ușor euforice, fără a sedare puternică. Acestea sunt potrivite în special pentru ocazii sociale, muncă creativă sau după-amiază. Varietăți cunoscute Heady sunt Kelai, Moi, Pouni Ono și Silese.",
+      "relatedTerms": [
+        "Heavy",
+        "Balanced",
+        "Kavain",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Compararea varietăților",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Körperlastig",
+      "shortDefinition": "Varietăți de Kava cu efecte sedative și fizice puternice",
+      "fullExplanation": "\"Heavy\" descrie varietățile de Kava ale căror efecte sunt **în principal fizice și sedative**. Aceste varietăți au de obicei **DHK (2) sau DHM (5) pe primul loc** al Chemotypului. Kava Heavy relaxează foarte mult mușchii, promovează somnul și poate avea efecte sedative foarte puternice. Acestea sunt potrivite în special pentru seară, pentru probleme de somn sau pentru relaxare profundă. Varietăți cunoscute Heavy sunt Loa Waka, Hiwa, Palasa și Palarasul.",
+      "relatedTerms": [
+        "Heady",
+        "Balanced",
+        "DHK",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Somn & Relaxare",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Balanced",
+      "germanTerm": "Ausgewogen",
+      "shortDefinition": "Varietăți de Kava cu efecte echilibrate",
+      "fullExplanation": "\"Balanced\" descrie varietățile de Kava care oferă o **amestecare echilibrată între proprietățile heady și heavy**. Aceste varietăți au de obicei atât Kavain (4) cât și DHK (2) în pozițiile din față ale Chemotypului. Kava Balanced oferă atât claritate mentală, cât și relaxare fizică și este, prin urmare, **versatilă** – de la după-amiază până la seară. Varietăți cunoscute Balanced sunt Borogu, Melo Melo, Bir Kar și Vula Waka.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Compararea varietăților",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Kultivar",
+      "shortDefinition": "Varietate de Kava cultivată",
+      "fullExplanation": "Un kultivar este o **varietate de plantă obținută prin selecție**. La Kava există peste 100 de kultivare diferite, care se diferențiază prin Chemotyp, efect, gust și formă de creștere. Deoarece Kava este sterilă și poate fi înmulțită doar vegetativ, kultivarele sunt **clone genetice** ale plantei mamă. Kultivare cunoscute sunt Borogu, Kelai, Melo Melo, Palasa și multe altele. Fiecare kultivar are o \"amprentă\" proprie de Kavalactone.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava din rădăcinile principale",
+      "fullExplanation": "\"Waka\" se referă la Kava care este preparată din **rădăcinile principale (rădăcini laterale)** ale plantei. Waka este considerată **cea mai înaltă calitate**, deoarece rădăcinile principale au cel mai mare conținut de Kavalactone. Termenul provine din Fiji și Tonga. Waka este mai scumpă decât Lewena (rădăcina principală), dar mai potentă și cu un gust mai blând. Cele mai multe Kava premium de pe piață sunt de calitate Waka.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava din rizom",
+      "fullExplanation": "\"Lewena\" (de asemenea, \"Lawena\") se referă la Kava care este preparată din **rizomul (tulpina rădăcinii)** plantei. Lewena are un **conținut mai scăzut de Kavalactone** decât Waka, dar este, de asemenea, mai blândă la gust și mai ieftină. Este adesea recomandată ca Kava pentru începători sau pentru cei care preferă un efect mai blând. În Fiji, Lewena este utilizată tradițional pentru consumul zilnic, în timp ce Waka este rezervată pentru ocazii speciale.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profiluri de varietăți",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Kava Verde",
+      "germanTerm": "Frische Kava",
+      "shortDefinition": "Kava proaspăt recoltată, netratată",
+      "fullExplanation": "\"Kava Verde\" sau \"Kava Proaspătă\" se referă la **rădăcinile de Kava proaspăt recoltate**, care nu au fost uscate. În țările de origine din Pacific, Kava este preparată tradițional proaspăt – rădăcinile sunt decojite, mărunțite și frământate imediat. Kava proaspătă are un **gust și efect diferit** față de cea uscată: adesea mai blândă, cu un gust \"verde\" și cu un debut mai rapid al efectului. Kava instant este fabricată din suc de Kava Verde deshidratat.",
+      "relatedTerms": [
+        "Kava Instant",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultură",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Denominarea hawaiană pentru Kava",
+      "fullExplanation": "'Awa este **denominarea hawaiană pentru Kava**. Hawaii are o tradiție proprie de Kava cu kultivare unice precum Moi, Hiwa, Nene și Papa Ele'ele. Varietățile hawaiene de 'Awa sunt adesea deosebit de potente și au profile de efect caracteristice. 'Awa a fost utilizată tradițional pentru **scopuri ceremoniale, medicale și spirituale**. Cultura hawaiană a 'Awa trăiește în prezent o renaștere, cu un interes în creștere pentru varietățile tradiționale.",
+      "relatedTerms": [
+        "Kultivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Istorie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Măcinare medie",
+      "germanTerm": "Mittlere Mahlung",
+      "shortDefinition": "Grad standard de măcinare pentru prepararea tradițională",
+      "fullExplanation": "Măcinarea medie este **gradul standard de măcinare pentru pulberea de rădăcină de Kava**, utilizat pentru metoda tradițională de frământare și prepararea cu blender. Pulberea are o **consistență nisipoasă până la făinoasă** și trebuie frământată printr-un sac filtrant (75-100 microni) pentru a extrage Kavalactonele. Măcinarea medie este mai ieftină decât Kava instant/micronizată și oferă cea mai bună potență la o preparare corectă. Fibrele vegetale grosiere sunt filtrate.",
+      "relatedTerms": [
+        "Micronizată",
+        "Kava Instant",
+        "Metoda de frământare"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Metoda tradițională",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Metoda cu blender",
+          "href": "/de/zubereitung/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Kava Micronizată",
+      "germanTerm": "Mikronisierte Kava",
+      "shortDefinition": "Kava măcinată extrem de fin, fără filtrare",
+      "fullExplanation": "Kava micronizată este **pulbere de rădăcină măcinată extrem de fin**, din care fibrele grosiere au fost deja îndepărtate. Aceasta poate fi **amestecată direct în apă**, fără a necesita frământare sau filtrare. Particulele sunt atât de fine încât rămân în suspensie și sunt consumate. Kava micronizată este mai convenabilă decât măcinarea medie, dar mai scumpă și poate provoca **greață** la persoanele cu stomac sensibil, deoarece fibrele sunt consumate.",
+      "relatedTerms": [
+        "Măcinare medie",
+        "Kava Instant"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Preparare Kava Instant",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Calculator de dozare",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Kava Instant",
+      "germanTerm": "Sofort-Kava",
+      "shortDefinition": "Suc de Kava deshidratat, gata de consum imediat",
+      "fullExplanation": "Kava instant este **suc de Kava deshidratat** – suc proaspăt de Kava, care a fost liofilizat sau uscat prin pulverizare. Este cea mai **potentă și scumpă** formă de Kava, deoarece Kavalactonele au fost deja extrase. Kava instant se dizolvă imediat în apă și nu necesită frământare sau filtrare. Dozarea este semnificativ mai mică decât la măcinarea medie (2-6g în loc de 20-50g). Este considerată \"clasa regală\" a preparării Kava.",
+      "relatedTerms": [
+        "Micronizată",
+        "Măcinare medie",
+        "Kava Verde"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Preparare Kava Instant",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Calculator de dozare",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Metoda de frământare",
+      "shortDefinition": "Metodă tradițională de preparare din Pacific",
+      "fullExplanation": "Metoda de frământare este **metoda tradițională de preparare a Kava** care este practicată de peste 3.000 de ani. Pulberea de măcinare medie este pusă într-un sac filtrant și frământată în apă caldă (35-45°C) timp de **10-15 minute**. Prin forța mecanică, Kavalactonele sunt extrase din fibrele vegetale și emulsionate în apă. Rezultatul este un \"Grog\" de culoare lăptoasă-maro. Această metodă oferă **cea mai bună extracție și potență**.",
+      "relatedTerms": [
+        "Măcinare medie",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Metoda tradițională",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Prezentare generală a preparării",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Al Doilea Infuzie",
+      "germanTerm": "Zweiter Aufguss",
+      "shortDefinition": "Reutilizarea pulberii de Kava",
+      "fullExplanation": "\"Al Doilea Infuzie\" se referă la **reutilizarea pulberii de Kava deja frământate** pentru un al doilea ciclu. După prima frământare, pulberea conține încă aproximativ **30-50% din Kavalactonele originale**. Al doilea infuzie este mai slab, dar încă eficient. Unii utilizatori combină primul și al doilea infuzie, alții le consumă separat. Un al treilea infuzie nu mai este de obicei rentabil.",
+      "relatedTerms": [
+        "Metoda de frământare",
+        "Măcinare medie"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Metoda tradițională",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Sac filtrant",
+      "germanTerm": "Filterbeutel",
+      "shortDefinition": "Sac pentru filtrarea Kava",
+      "fullExplanation": "Un sac filtrant este un **sac din nailon sau bumbac** utilizat pentru frământarea și filtrarea Kava. Dimensiunea ideală a plaselor este de **75-100 microni** – suficient de fină pentru a reține fibrele vegetale, dar suficient de permeabilă pentru emulsia Kavalactone. Sacii filtranti sunt reutilizabili și ar trebui spălați și uscați după fiecare utilizare. Aceștia sunt un instrument esențial pentru prepararea tradițională.",
+      "relatedTerms": [
+        "Metoda de frământare",
+        "Măcinare medie"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Metoda tradițională",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "O porție de băutură Kava",
+      "fullExplanation": "\"Shell\" este denumirea comună pentru **o porție de băutură Kava**, de obicei 100-150ml. Termenul provine din coaja de nucă de cocos tradițională (Bilo), din care se bea Kava. În barurile de Kava se comandă \"Shells\" – o sesiune constă adesea din 3-6 Shells pe parcursul mai multor ore. Dozarea pe Shell variază în funcție de puterea Grog-ului și preferințele personale. \"Încă o shell\" este un strigăt frecvent în comunitatea Kava.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Calculator de dozare",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Dispozitiv modern de preparare a Kava",
+      "fullExplanation": "AluBall este un **dispozitiv modern de preparare a Kava** care simplifică metoda tradițională de frământare. Acesta constă dintr-o sticlă de shaker cu o minge de filtrare specială. Pulberea de măcinare medie este pusă în minge, se adaugă apă și se agită timp de 2-3 minute. Extracția este mai rapidă decât frământarea tradițională, dar poate fi mai puțin eficientă. AluBall este popular pentru **utilizare în deplasare și pentru începători**, care preferă o preparare simplă.",
+      "relatedTerms": [
+        "Metoda de frământare",
+        "Măcinare medie"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Prezentare generală a preparării",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "Băutura Kava finalizată",
+      "fullExplanation": "\"Grog\" este denumirea colocvială pentru **băutura Kava finalizată**, în special în Vanuatu și Fiji. Numele provine din perioada colonială și a fost adoptat de marina britanică. Kava Grog tradițional are o **culoare lăptoasă-maro** (ca un cappuccino) și un gust pământos, ușor piperat. În barurile de Kava, Grogul este adesea servit în coji de nucă de cocos (Bilos) și băut dintr-o dată.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Metoda de frământare"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultură",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Preparare",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Coajă de nucă de cocos tradițională pentru băut",
+      "fullExplanation": "Un Bilo este o **jumătate de nucă de cocos**, care este folosită tradițional pentru servirea și băutul Kava. În Fiji și în alte culturi din Pacific, băutul din Bilo face parte din **ritualul ceremonial**. Înainte de a bea, se aplaudă o dată, se spune \"Bula!\" (Fiji) sau \"Mālō!\" (Tonga), se bea conținutul dintr-o dată și apoi se aplaudă de trei ori. Entuziaștii moderni de Kava folosesc Bilos pentru o experiență autentică.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultură",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Istorie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Bar tradițional de Kava în Vanuatu",
+      "fullExplanation": "Un Nakamal este un **bar tradițional de Kava în Vanuatu**, unde localnicii și turiștii se întâlnesc pentru a bea Kava. Inițial, termenul se referea la locul de întâlnire al bărbaților din sat. Nakamals moderne sunt adesea colibe simple sau zone deschise cu bănci. Kava este preparată proaspăt și servită în boluri. Există **reguli sociale stricte**: se vorbește încet, se comportă respectuos și se bea la amurg. Nakamals sunt puncte sociale importante.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultură",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Istorie",
+          "href": "/de/geschichte/urspruenge"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Bol tradițional de Kava din lemn",
+      "fullExplanation": "O Tanoa este o **bol mare și plat din lemn**, în care Kava este preparată și servită tradițional. Este tipică pentru Fiji, Samoa și Tonga și este sculptată dintr-un singur buștean, adesea cu picioare sculptate. Tanoa este **centrul ceremoniei Kava** – Grogul este amestecat în ea și distribuit participanților cu un Bilo. Tanoas de calitate superioară sunt opere de artă și sunt transmise ca moștenire de familie.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Ceremonie"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultură",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Salut fijian la băut Kava",
+      "fullExplanation": "\"Bula!\" este **salutul tradițional fijian** care se strigă înainte de a bea o Shell de Kava. Cuvântul înseamnă \"viață\" și exprimă urări de bine. Ritualul: se aplaudă o dată, se strigă \"Bula!\", se golește Shell-ul dintr-o dată, apoi se aplaudă de trei ori. În alte culturi din Pacific există strigăte similare: \"Mālō!\" în Tonga, \"Taki!\" în Vanuatu. Aceste ritualuri creează **comunitate și respect** și sunt o parte importantă a culturii Kava.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultură",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Compus potențial toxic pentru ficat în Kava Tudei",
+      "fullExplanation": "Flavokavain B (FKB) este un **chalkon** care se găsește în concentrații mai mari în Kava Tudei și în părțile aeriene ale plantei (tulpini, frunze). Este asociat cu **toxicitate hepatică potențială** și ar putea fi responsabil pentru unele dintre daunele hepatice istorice. Varietățile Noble Kava au **niveluri foarte scăzute de FKB**. Acesta este unul dintre principalele motive pentru care doar Noble Kava este recomandată pentru consum, iar Kava Tudei este interzisă pentru export în Vanuatu.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Siguranța ficatului"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Siguranța ficatului",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Cytochrom P450",
+      "shortDefinition": "Enzime hepatice pentru degradarea medicamentelor",
+      "fullExplanation": "CYP450 (Cytochrom P450) este o **familie de enzime hepatice** care sunt responsabile pentru degradarea majorității medicamentelor. Kavalactonele pot **inhiba** anumite enzime CYP450, în special CYP2C9, CYP2C19 și CYP3A4. Acest lucru poate încetini degradarea medicamentelor și le poate amplifica efectul. Prin urmare, Kava **nu ar trebui combinată** cu medicamente care sunt degradate prin aceste enzime – în special benzodiazepine, antidepresive și medicamente pentru tensiune arterială.",
+      "relatedTerms": [
+        "Interacțiuni",
+        "Siguranța ficatului"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interacțiuni",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Verificator de interacțiuni",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Siguranța ficatului",
+      "shortDefinition": "Kava și ficatul – fapte și mituri",
+      "fullExplanation": "Întrebarea despre **siguranța ficatului** în cazul Kava a fost mult timp controversată. La începutul anilor 2000, rapoartele despre daune hepatice au dus la interdicții în mai multe țări. Cu toate acestea, cercetările ulterioare au arătat că cele mai multe cazuri au fost cauzate de **Kava Tudei, extracte din părțile aeriene ale plantei sau afecțiuni preexistente**. Kava Noble, preparată tradițional, este considerată sigură. OMS a confirmat în 2016 că \"băuturile Kava preparate tradițional au un profil de siguranță acceptabil\".",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Siguranța ficatului",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Studii științifice",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Interacțiuni",
+      "shortDefinition": "Interacțiuni ale Kava cu alte substanțe",
+      "fullExplanation": "Kava poate avea **interacțiuni cu diverse substanțe**. Cele mai importante combinații de evitat sunt: **alcool** (toxicitate hepatică amplificată), **benzodiazepine și somnifere** (sedare amplificată), **antidepresive** (interacțiuni CYP450), **medicamente pentru Parkinson** (interacțiuni cu dopamina). De asemenea, ar trebui evitate și alte substanțe care deprimă sistemul nervos central. În cazul administrării regulate de medicamente, ar trebui consultat un medic înainte de consumul de Kava.",
+      "relatedTerms": [
+        "CYP450",
+        "Siguranța ficatului"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interacțiuni",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Verificator de interacțiuni",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Dozare",
+      "shortDefinition": "Cantitatea corectă pentru consumul sigur",
+      "fullExplanation": "Dozarea corectă a Kava depinde de mai mulți factori: greutatea corporală, experiența, varietatea și forma de preparare. Pentru **Măcinare medie**, o sesiune tipică este de 20-50g pulbere, distribuită pe mai multe Shells. Pentru **Kava Instant**, 2-6g sunt obișnuite. Începătorii ar trebui să înceapă cu doze mici și să țină cont de **toleranța inversă**. Doza zilnică maximă recomandată este de aproximativ 250mg Kavalactone. Supradozarea duce la oboseală severă, dar nu la condiții periculoase.",
+      "relatedTerms": [
+        "Toleranță inversă",
+        "Shell",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Calculator de dozare",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    }
+  }
+}

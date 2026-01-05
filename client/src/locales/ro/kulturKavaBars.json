@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Găsitor Kava-Bar",
+    "description": "Găsește Kava-Baruri din întreaga lume – de la Florida până în Noua Zeelandă. Cu adrese, recenzii și ore de funcționare."
+  },
+  "breadcrumb": {
+    "home": "Acasă",
+    "kultur": "Cultură",
+    "current": "Găsitor Kava-Bar"
+  },
+  "viewToggle": {
+    "list": "Listă",
+    "map": "Hartă"
+  },
+  "search": {
+    "placeholder": "Caută după nume, oraș sau țară...",
+    "resultsCount": "Kava-Baruri găsite",
+    "resultSingular": "Kava-Bar găsit",
+    "resultPlural": "Kava-Bars găsite"
+  },
+  "filter": {
+    "button": "Filtru",
+    "country": "Țară",
+    "allCountries": "Toate țările",
+    "region": "Regiune/Stat",
+    "allRegions": "Toate regiunile",
+    "minRating": "Evaluare minimă",
+    "allRatings": "Toate evaluările",
+    "rating4Plus": "4+ stele",
+    "rating45Plus": "4.5+ stele",
+    "clearFilters": "Resetare filtre",
+    "features": "Facilități"
+  },
+  "featureLabels": {
+    "wifi": "WLAN",
+    "outdoor": "Terasă",
+    "food": "Mâncare",
+    "live-music": "Muzică live",
+    "events": "Evenimente",
+    "traditional": "Preparare tradițională",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Jocuri",
+    "parking": "Parcare",
+    "accessible": "Accesibil",
+    "late-night": "Deschis târziu"
+  },
+  "countryNames": {
+    "US": "SUA",
+    "AU": "Australia",
+    "NZ": "Noua Zeelandă",
+    "DE": "Germania",
+    "UK": "Marea Britanie",
+    "CA": "Canada"
+  },
+  "bar": {
+    "verified": "Verificat",
+    "address": "Adresă",
+    "hours": "Ore de funcționare",
+    "specialties": "Specialități",
+    "features": "Facilități",
+    "reviews": "Recenzii",
+    "call": "Sună",
+    "website": "Website",
+    "route": "Rută",
+    "routePlan": "Planifică ruta",
+    "backToList": "Înapoi la listă"
+  },
+  "empty": {
+    "title": "Niciun Kava-Bar găsit",
+    "description": "Încearcă alte cuvinte cheie sau filtre.",
+    "resetButton": "Resetare filtre"
+  },
+  "stats": {
+    "title": "Statistici Kava-Bar",
+    "bars": "Kava-Bars",
+    "countries": "Țări",
+    "inUSA": "în SUA",
+    "verified": "Verificat"
+  },
+  "cta": {
+    "title": "Cunoști o Kava-Bar?",
+    "description": "Ajută-ne să extindem baza de date! Dacă știi o Kava-Bar care nu este listată aici, anunță-ne.",
+    "button": "Propune Kava-Bar"
+  },
+  "related": {
+    "title": "Pagini conexe",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bars",
+      "subtitle": "Istoria culturii de băut Kava"
+    },
+    "moderne": {
+      "title": "Cultura Kava Modernă",
+      "subtitle": "Răspândirea globală astăzi"
+    },
+    "weltkarte": {
+      "title": "Hartă interactivă",
+      "subtitle": "Descoperă regiunile Kava"
+    }
+  },
+  "navigation": {
+    "nakamal": "/ro/cultură/nakamal",
+    "moderne": "/ro/cultură/moderne",
+    "weltkarte": "/ro/cultură/hartă",
+    "kontakt": "/ro/contact"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "Una dintre cele mai cunoscute lanțuri de Kava-Baruri din Florida, cu atmosferă autentică și sortimente de Kava de calitate din Vanuatu și Fiji.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Smoothies de Kava"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra folosește Kava de cea mai bună calitate din insula Vanuatu. Folosit în ceremonii de mii de ani.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Zboruri de Kava"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Kava-Bar local, cu o selecție de Kava preparate tradițional într-o atmosferă relaxată.",
+      "specialties": [
+        "Kava tradițional",
+        "Ceaiuri de Kratom"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Kava-Bar premium în inima Las Olas, cu un flair pacific și o mare selecție de sortimente Noble Kava.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Kava Tongan",
+        "Zboruri de Kava"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "Prima Kava-Bar din Madeira Beach! De la proprietarul Bula Kafe, prima Kava-Bar din Pinellas.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "Lounge Kava relaxată cu cel mai bun Kava fidschian, hookahs, Kratom și Kava-Comedy-Luni.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Seara de comedie"
+      ]
+    },
+    "roots-miami": {
+      "description": "Kava-Bar urbană în Wynwood, cu atmosferă artistică și evenimente regulate de muzică live.",
+      "specialties": [
+        "House Blend",
+        "Cocktailuri de Kava",
+        "Ceaiuri de Kratom"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Kava-Bar contemporană, lounge și punct de vânzare cu amănuntul în Miami.",
+      "specialties": [
+        "Amestecuri botanice",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Sediul rețelei Kava Culture cu cea mai mare selecție de sortimente de Kava.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Cocktailuri de Kava",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Kava-Bar modernă, sofisticată, indoor/outdoor în Bonita Springs.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Kava-Bar relaxată în Clearwater cu Happy Hour de la 14 la 17.",
+      "specialties": [
+        "Specialități Happy Hour",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Kava Culture din centrul Fort Myers cu Open Mic Nights, artă și cocktailuri delicioase de Kava.",
+      "specialties": [
+        "Open Mic Nights",
+        "Evenimente artistice"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture în centrul Orlando cu atmosferă relaxată.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Amestecuri de Kratom"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB cu Buddha Blends Vegan Kitchen. Bar de plajă în aer liber, masă de biliard, darts, Open Mics.",
+      "specialties": [
+        "Vibe de plajă",
+        "Mâncare vegană",
+        "Muzică live"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture în Key West - vibrații tropicale și Kava premium.",
+      "specialties": [
+        "Amestec de insulă",
+        "Kava tropicală"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture în centrul Tampa cu atmosferă urbană.",
+      "specialties": [
+        "Amestec urban",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture în South Tampa cu atmosferă relaxată de cartier.",
+      "specialties": [
+        "Vibe de cartier",
+        "Kava premium"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture în Naples cu atmosferă rafinată.",
+      "specialties": [
+        "Selecție premium",
+        "Zboruri de Kava"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte cu vibe de plajă, plajă în aer liber pe canal.",
+      "specialties": [
+        "Vibe de plajă",
+        "Vederi de canal"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture în Estero cu locație convenabilă.",
+      "specialties": [
+        "Locație convenabilă",
+        "Kava de calitate"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture în Lake Mary - atmosferă relaxată.",
+      "specialties": [
+        "Vibe relaxat",
+        "Kava premium"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze este o Kava-Bar în Tallahassee cu Kava, ceai și un loc relaxat pentru a te destinde.",
+      "specialties": [
+        "Oferte pentru studenți",
+        "Vibe relaxat"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Kava Bar Island Root în centrul Melbourne FL.",
+      "specialties": [
+        "Kava tradițional",
+        "Evenimente comunitare"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge este Kava-Java-Hookah-Lounge cu cafea, ceaiuri, Kava, Kratom și hookah.",
+      "specialties": [
+        "Hookah",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Familie condusă, toate botanicele organice și ceaiurile pentru bunăstare maximă.",
+      "specialties": [
+        "Botanice organice",
+        "Ceaiuri de wellness"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors este un magazin local de vape și lounge cu Kava și Kratom.",
+      "specialties": [
+        "Produse vape",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge este un loc de întâlnire pentru minți creative și pașnice.",
+      "specialties": [
+        "Comunitate creativă",
+        "Muzică live"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Bar de ceai etnobotanic cu Kava și Kratom.",
+      "specialties": [
+        "Etnobotanice",
+        "Amestecuri de ceai"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, Vapor și eHookah direct pe Turnpike. Chill, Relax și Bucură-te!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula oferă Kava premium într-o atmosferă relaxată de plajă.",
+      "specialties": [
+        "Vibe de plajă",
+        "Kava premium"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava Social este un loc de întâlnire social cu Kava, ceai și evenimente comunitare.",
+      "specialties": [
+        "Evenimente sociale",
+        "Kava",
+        "Ceai"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava oferă Kava autentică pentru orașul universitar Gainesville.",
+      "specialties": [
+        "Vibe universitar",
+        "Kava premium"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Kava Bar Peaceful Warrior în Jacksonville cu accent pe wellness și relaxare.",
+      "specialties": [
+        "Wellness",
+        "Kava tradițional"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe oferă Kava și o atmosferă comunitară spirituală.",
+      "specialties": [
+        "Comunitate spirituală",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "The Kava Tap în Pensacola - atmosferă relaxată de bar cu Kava de la robinet.",
+      "specialties": [
+        "Kava la robinet",
+        "Atmosferă de bar"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala oferă Kava premium pentru centrul Floridei.",
+      "specialties": [
+        "Florida Centrală",
+        "Kava premium"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe Orlando aduce vibrații pacifice în Florida Centrală.",
+      "specialties": [
+        "Vibe pacific",
+        "Kava premium"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Purple Lotus Kava Bar în Phoenix - destinația de Kava de top din Arizona.",
+      "specialties": [
+        "Primul din Arizona",
+        "Kava premium"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Kava Culture în Tempe, Arizona - ideal pentru studenții de la ASU.",
+      "specialties": [
+        "Prietenos cu studenții",
+        "Kava premium"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "The Root în Tucson oferă Kava și Kratom autentice.",
+      "specialties": [
+        "Kava autentică",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "Bula Kava House în San Diego cu atmosferă relaxată de plajă.",
+      "specialties": [
+        "Vibe de plajă",
+        "Kava premium"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "Kava Roots în San Francisco - prima Kava-Bar din Bay Area.",
+      "specialties": [
+        "Prima din Bay Area",
+        "Kava premium"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava Los Angeles aduce Kava premium în Hollywood.",
+      "specialties": [
+        "Vibe de Hollywood",
+        "Kava premium"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Alcool liber, toate vârstele sunt binevenite, lounge de plante cu elixire, exotice și mâncare crudă.",
+      "specialties": [
+        "Elixire din plante",
+        "Mâncare crudă",
+        "Toate vârstele"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "Servește cel mai bun Kava preparat tradițional într-o atmosferă distractivă și socială. Cea mai inovatoare idee pentru un loc de relaxare!",
+      "specialties": [
+        "Preparare tradițională",
+        "Educație Kava"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Farmacie, grădină de ceai, galerie de artă și loc de muzică în inima sudului Oregon! Importă Kava din Big Island Hawaii.",
+      "specialties": [
+        "Kava Kombucha",
+        "Galerie de artă",
+        "Loc de muzică"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "Kava-Bar popular din Austin cu atmosferă relaxată, jocuri și evenimente comunitare.",
+      "specialties": [
+        "Zboruri de Kava",
+        "Amestecuri de Kratom",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture în Lewisville, Texas.",
+      "specialties": [
+        "Kava premium",
+        "Vibe din Texas"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture în North Fort Worth.",
+      "specialties": [
+        "Kava premium",
+        "Locație convenabilă"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - ACUM DESCHIS în Ohio.",
+      "specialties": [
+        "Kava premium",
+        "Vibe din Midwest"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture în Toledo, Ohio.",
+      "specialties": [
+        "Kava premium",
+        "Locație în Ohio"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "Prima Kava-Bar din Salt Lake City cu o selecție de Kava premium și o comunitate primitoare.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Ceremonii Kava"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Kava este o rădăcină din sudul Pacificului. Folosit ca băutură ceremonială pentru relaxare și calmare.",
+      "specialties": [
+        "Vibe NYC",
+        "Kava premium"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra este cea mai bună Kava-Bar din America cu Kava premium și alte plante.",
+      "specialties": [
+        "Kava premium",
+        "Amestecuri din plante"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia este o Kava-Bar specializată în băuturi infuzate cu Kava și deserturi crude, precum și plante bonsai.",
+      "specialties": [
+        "Deserturi crude",
+        "Plante bonsai",
+        "Băuturi Kava"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Linie completă de produse din plante și Kava, bar de sucuri, tutun, hookah, produse vape - toate sub același acoperiș.",
+      "specialties": [
+        "Produse din plante",
+        "Bar de sucuri"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "Prima Kava-Bar din Missouri! Vino și vezi despre ce este vorba. Deschis 7 zile pe săptămână.",
+      "specialties": [
+        "Prima din Missouri",
+        "Kava tradițional"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar în Carrboro, Carolina de Nord.",
+      "specialties": [
+        "Kava premium",
+        "Vibe de oraș universitar"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar în Wilmington, Carolina de Nord.",
+      "specialties": [
+        "Vibe de coastă",
+        "Kava premium"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision este un spațiu de co-working unic și un café cu specialități precum Kava și Kratom.",
+      "specialties": [
+        "Spațiu de co-working",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Mâncare sănătoasă pentru un corp sănătos și Kava! Destinația Kava din Alaska.",
+      "specialties": [
+        "Boluri de Acai",
+        "Smoothies",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture în Spartanburg, Carolina de Sud.",
+      "specialties": [
+        "Kava premium",
+        "Ospitalitate sudică"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "Prima Kava-Lounge dedicată din Australia, cu Kava autentică fidschiană și ospitalitate pacifică.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Vanuatu",
+        "Ceremonie tradițională"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Kava-Bar din Melbourne în Pacific Market cu o selecție de Kava și Kratom.",
+      "specialties": [
+        "Kava Fiji",
+        "Kava Tongan"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "Kava-Bar autentică din Brisbane cu decor fidschian și preparare tradițională.",
+      "specialties": [
+        "Fiji Waka",
+        "Ceremonii Kava"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "Kava-Lounge dedicată din Auckland în Victoria Park Market cu o comunitate caldă și primitoare și Noble Kava din întreaga Pacific.",
+      "specialties": [
+        "Kava Tongan",
+        "Fiji Waka",
+        "Kava Vanuatu"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Kava-Bar autentică în South Auckland cu prețuri accesibile și o mare selecție de pulbere de Kava.",
+      "specialties": [
+        "Kava Tongan",
+        "Kava Fiji",
+        "Vânzări de pulbere de Kava"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "Prima Kava-Lounge din Berlin în Kreuzberg cu atmosferă relaxată și ceremonii Kava regulate.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Ceremonii Kava"
+      ]
+    },
+    "kava-club-london": {
+      "description": "Primul Kava-Club din Londra în Shoreditch cu atmosferă urbană și o selecție de Kava premium.",
+      "specialties": [
+        "Fiji Premium",
+        "Cocktailuri de Kava"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Café-ul Kava confortabil din Vancouver cu o selecție de Kava și mâncăruri sănătoase.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Boluri de smoothie Kava"
+      ]
+    }
+  }
+}

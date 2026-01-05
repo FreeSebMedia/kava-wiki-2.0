@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Cultivare & Ecologie",
+    "subtitle": "Condiții de creștere, metode de reproducere și arta cultivării tradiționale a Kava.",
+    "category": "Botanică"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanică",
+    "current": "Cultivare & Ecologie"
+  },
+  "toc": {
+    "vermehrung": "Reproducerea vegetativă",
+    "stecklinge": "Obținerea butașilor",
+    "klima": "Cerințe climatice",
+    "boden": "Compoziția solului",
+    "pflege": "Îngrijire & Creștere",
+    "ernte": "Recoltarea & Timpul de maturare",
+    "qualitaet": "Factori de calitate",
+    "anbauregionen": "Regiuni importante de cultivare"
+  },
+  "intro": {
+    "paragraph1": "Cultivarea Kava este o artă care a fost transmisă din generație în generație de mii de ani. Deoarece <em>Piper methysticum</em> este steril și nu produce semințe, planta depinde complet de om. Această dependență unică a dus la o legătură culturală profundă între popoarele din Pacific și planta lor sacră."
+  },
+  "vermehrung": {
+    "title": "Reproducerea vegetativă",
+    "paragraph1": "Reproducerea Kava se face exclusiv <strong>vegetativ prin butași</strong>. Aceasta este o consecință directă a sterilitații plantei – o caracteristică care a apărut în urma domesticirii de mii de ani.",
+    "advantages": {
+      "title": "Avantajele reproducerii vegetative",
+      "items": [
+        "Identitate genetică cu planta mamă",
+        "Menținerea caracteristicilor sortimentului dovedite",
+        "Profil chimotip previzibil",
+        "Creștere mai rapidă decât din semințe",
+        "Calitate dovedită de-a lungul generațiilor"
+      ]
+    },
+    "challenges": {
+      "title": "Provocări",
+      "items": [
+        "Fără variație genetică posibilă",
+        "Vulnerabilitate la boli (clone)",
+        "Dependență de plantele mamă",
+        "Viteză de răspândire limitată",
+        "Riscul pierderii sortimentului"
+      ]
+    },
+    "stecklinge": {
+      "title": "Obținerea butașilor & Plantare",
+      "paragraph1": "Metoda tradițională de obținere a butașilor urmează un proces dovedit:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Selecție",
+          "description": "Secțiuni sănătoase de tulpină cu 2-3 noduri de la o plantă mamă dovedită"
+        },
+        {
+          "number": "2",
+          "title": "Tăiere",
+          "description": "Tăiere curată sub un nod, lungime de aproximativ 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Pregătire",
+          "description": "Îndepărtarea frunzelor inferioare, uscare scurtă a tăieturii"
+        },
+        {
+          "number": "4",
+          "title": "Plantare",
+          "description": "Introducerea în sol umed și liber la umbră, udare regulată"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Cerințe climatice",
+    "paragraph1": "Kava este o <strong>plantă tropicală</strong> cu cerințe climatice specifice. Aceasta prosperă doar într-un interval relativ restrâns de condiții de mediu.",
+    "table": {
+      "headers": {
+        "parameter": "Parametru",
+        "optimal": "Interval optim",
+        "tolerance": "Interval de toleranță",
+        "note": "Notă"
+      },
+      "rows": [
+        {
+          "parameter": "Temperatură",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Nu tolerează înghețul"
+        },
+        {
+          "parameter": "Precipitații",
+          "optimal": "2.000-3.000 mm/an",
+          "tolerance": "1.500-4.000 mm/an",
+          "note": "Distribuite uniform"
+        },
+        {
+          "parameter": "Umiditate",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Preferă umiditate ridicată"
+        },
+        {
+          "parameter": "Altitudine",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Preferă terenul de câmpie"
+        },
+        {
+          "parameter": "Lumina solară",
+          "optimal": "Umbră parțială",
+          "tolerance": "30-70% umbră",
+          "note": "Plante tinere: mai multă umbră"
+        }
+      ]
+    },
+    "alert": "<strong>Necesitatea de umbră:</strong> Plantele tinere de Kava (0-2 ani) necesită aproximativ 70-80% umbră. Pe măsură ce îmbătrânesc, pot tolera mai multă lumină solară, dar beneficiază în continuare de umbră parțială."
+  },
+  "boden": {
+    "title": "Compoziția solului",
+    "paragraph1": "Compoziția solului este unul dintre cei mai critici factori pentru o cultivare de succes a Kava. Planta are cerințe ridicate în ceea ce privește drenajul și conținutul de nutrienți.",
+    "ideal": {
+      "title": "Proprietăți ideale ale solului",
+      "items": [
+        {
+          "label": "Structură:",
+          "value": "Liber, granulat, bine aerisit"
+        },
+        {
+          "label": "Drenaj:",
+          "value": "Excelent – stagnarea apei duce rapid la putrezirea rădăcinilor"
+        },
+        {
+          "label": "pH:",
+          "value": "Ușor acid până la neutru (5,5-6,5)"
+        },
+        {
+          "label": "Conținut organic:",
+          "value": "Ridicat, bogat în humus"
+        },
+        {
+          "label": "Adâncime:",
+          "value": "Cel puțin 60 cm pentru dezvoltarea rădăcinilor"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "De evitat",
+      "items": [
+        {
+          "label": "Soluri compactate:",
+          "value": "Împiedică creșterea rădăcinilor"
+        },
+        {
+          "label": "Stagnarea apei:",
+          "value": "Duce la putrezirea rădăcinilor și infecții fungice"
+        },
+        {
+          "label": "Soluri argiloase grele:",
+          "value": "Drenaj slab"
+        },
+        {
+          "label": "Soluri sărăcăcioase în sare:",
+          "value": "Kava este sensibilă la sare"
+        },
+        {
+          "label": "Soluri sărace în nutrienți:",
+          "value": "Reduc conținutul de kavalactone"
+        }
+      ]
+    },
+    "paragraph2": "În regiunile tradiționale de cultivare, se preferă adesea <strong>solurile vulcanice</strong>. Acestea oferă o combinație ideală de drenaj, conținut mineral și structură. În Vanuatu și Fiji, plantațiile de Kava sunt adesea amplasate pe pante ușor înclinate pentru a asigura drenajul natural."
+  },
+  "pflege": {
+    "title": "Îngrijire & Creștere",
+    "paragraph1": "Kava este o plantă relativ ușor de întreținut, odată ce s-a stabilit. Cele mai importante măsuri de îngrijire se concentrează pe primii doi ani.",
+    "table": {
+      "headers": {
+        "phase": "Faza de creștere",
+        "period": "Perioadă",
+        "tasks": "Sarcini principale",
+        "notes": "Particularități"
+      },
+      "rows": [
+        {
+          "phase": "Stabilire",
+          "period": "0-6 luni",
+          "tasks": "Udat regulat, asigurarea umbră",
+          "notes": "Faza cea mai critică"
+        },
+        {
+          "phase": "Faza juvenilă",
+          "period": "6-18 luni",
+          "tasks": "Controlul vegetației, mulcirea, fertilizarea dacă este cazul",
+          "notes": "Creștere rapidă"
+        },
+        {
+          "phase": "Faza de maturitate",
+          "period": "18-36 luni",
+          "tasks": "Îngrijire minimă, controlul dăunătorilor",
+          "notes": "Dezvoltarea rădăcinilor"
+        },
+        {
+          "phase": "Maturitate pentru recoltare",
+          "period": "3-5+ ani",
+          "tasks": "Evaluarea calității, pregătirea pentru recoltare",
+          "notes": "Potentă optimă"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Recoltarea & Timpul de maturare",
+    "paragraph1": "Timpul de recoltare este esențial pentru calitatea produsului final. Una dintre cele mai importante reguli în cultivarea Kava este: <strong>Cu cât planta este mai veche, cu atât profilul de efect este mai potent și echilibrat.</strong>",
+    "qualitaet": {
+      "title": "Factori de calitate la recoltare",
+      "table": {
+        "headers": {
+          "age": "Vârstă la recoltare",
+          "content": "Conținut de kavalactone",
+          "quality": "Nivel de calitate",
+          "usage": "Utilizare"
+        },
+        "rows": [
+          {
+            "age": "< 2 ani",
+            "content": "Scăzut (3-5%)",
+            "quality": "Nedeschis",
+            "qualityColor": "red",
+            "usage": "Nu este recomandat"
+          },
+          {
+            "age": "2-3 ani",
+            "content": "Medie (5-10%)",
+            "quality": "Acceptabil",
+            "qualityColor": "yellow",
+            "usage": "Produse simple"
+          },
+          {
+            "age": "3-5 ani",
+            "content": "Ridicat (10-15%)",
+            "quality": "Bun",
+            "qualityColor": "green",
+            "usage": "Calitate standard"
+          },
+          {
+            "age": "5-7 ani",
+            "content": "Foarte ridicat (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Produse de înaltă calitate"
+          },
+          {
+            "age": "> 7 ani",
+            "content": "Maxim (18-25%)",
+            "quality": "Excepțional",
+            "qualityColor": "purple",
+            "usage": "Utilizare ceremonială"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Pentru o calitate înaltă ('Noble Kava'), planta trebuie să crească cel puțin 3 până la 5 ani. Cu cât planta este mai veche, cu atât profilul de efect este în general mai potent și echilibrat.",
+      "author": "Sebastian Freidank, \"Kava – Rădăcina liniștii\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Regiuni importante de cultivare",
+    "paragraph1": "Kava este cultivată astăzi într-un brâu de insule tropicale din Pacific. Fiecare regiune a dezvoltat propriile sale soiuri, tradiții și caracteristici de calitate.",
+    "table": {
+      "headers": {
+        "region": "Regiune",
+        "varieties": "Soiuri cunoscute",
+        "characteristics": "Particularități",
+        "production": "Producție"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Cea mai mare diversitate de soiuri (80+ culturi)",
+          "production": "Cel mai mare producător din lume",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Cunoscut pentru \"Waka\" (rădăcini premium)",
+          "production": "Al doilea cel mai mare producător"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Kava foarte blândă, \"cremoasă\"",
+          "production": "Producție medie"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Ceremonii tradiționale",
+          "production": "Consum local"
+        },
+        {
+          "region": "Hawaii",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Reînvierea soiurilor tradiționale",
+          "production": "În creștere"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Soiuri de Sakau",
+          "characteristics": "Suc proaspăt de Kava (\"Sakau\")",
+          "production": "Consum local"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> este considerat țara de origine a Kava cultivată și găzduiește până în prezent cea mai mare diversitate genetică. De aici, planta a fost răspândită prin navigatorii polinezieni în întreaga Pacific – ca una dintre cele mai importante \"Plante Canoe\", care au fost aduse la fiecare colonizare a unor insule noi."
+  },
+  "navigation": {
+    "nextCategory": "Continuă la următoarea categorie:",
+    "nextTitle": "Istorie & Origini",
+    "nextSubtitle": "Călătoria de 3000 de ani a Kava prin Pacific"
+  }
+}

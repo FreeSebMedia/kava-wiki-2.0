@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Botanica lui <em>Piper methysticum</em>",
+    "subtitle": "O privire profundă asupra taxonomiei, morfologiei și ecologiei plantei Kava.",
+    "category": "Botanică"
+  },
+  "toc": {
+    "einfuehrung": "Introducere",
+    "klassifikation": "Clasificare științifică",
+    "ueberblick": "Prezentare morfologică",
+    "verbreitung": "Răspândire și habitat",
+    "vertiefung": "Articole aprofundate"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>, cunoscut în general ca Kava sau Kava-Kava, este un arbust tropical din familia piperaceelor (Piperaceae). Numele <em>Piper methysticum</em> se traduce prin \"piper intoxicant\" (din grecescul <em>methystikos</em> = intoxicant).",
+    "paragraph2": "Spre deosebire de multe alte plante psihoactive, Kava nu conține alcaloizi ca substanțe active principale, ci o clasă unică de compuși cunoscuți sub numele de <strong>Kavalactone</strong>. Planta joacă un rol central în culturile din zona Pacificului de mii de ani și este rezultatul unei selecții umane îndelungate."
+  },
+  "classification": {
+    "title": "Clasificare științifică",
+    "headers": {
+      "rank": "Rang",
+      "name": "Nume științific"
+    },
+    "ranks": {
+      "reich": "Regn",
+      "abteilung": "Diviziune",
+      "ordnung": "Ordin",
+      "familie": "Familie",
+      "gattung": "Gen",
+      "art": "Specie"
+    },
+    "values": {
+      "reich": "Plantae (Plante)",
+      "abteilung": "Tracheophyta (Plante vasculare)",
+      "ordnung": "Piperales (Piperacee)",
+      "familie": "Piperaceae (Piperacee)",
+      "gattung": "Piper (Piper)",
+      "art": "Piper methysticum G. Forst."
+    },
+    "note": "Cea mai apropiată specie înrudită este <em>Piper wichmannii</em>, considerată forma sălbatică a plantei Kava cultivate de astăzi. În timp ce <em>P. wichmannii</em> (adesea denumită \"Kava sălbatică\") se poate reproduce sexual, <em>P. methysticum</em> cultivat este steril și depinde complet de om."
+  },
+  "morphology": {
+    "title": "Prezentare morfologică",
+    "intro": "Kava este un arbust peren, veșnic verde, care atinge de obicei o înălțime de 1,5 până la 3 metri, dar poate ajunge până la 5 metri în condiții optime.",
+    "aboveGround": {
+      "title": "Părți supraterane",
+      "leaves": "<strong>Frunze:</strong> Mari, în formă de inimă (cordat), 20-30 cm lățime",
+      "stems": "<strong>Tulpini:</strong> Noduroase, asemănătoare cu bambusul, colorare specifică soiului",
+      "flowers": "<strong>Flori:</strong> În formă de spic, sterile (fără semințe)"
+    },
+    "belowGround": {
+      "title": "Părți subterane",
+      "stump": "<strong>Bulb (Corm):</strong> Rădăcină groasă, lemnoasă",
+      "roots": "<strong>Rădăcini laterale (Waka):</strong> Rădăcini mai fine, cu cel mai mare conținut de kavalactone",
+      "weight": "<strong>Pondere:</strong> 5-25 kg la plante mature (3-5+ ani)"
+    }
+  },
+  "distribution": {
+    "title": "Răspândire și habitat",
+    "intro": "Kava este endemică în Pacificul de Vest. Zona de origine este suspectată a fi în Vanuatu de Nord, unde există cea mai mare diversitate genetică. De acolo, planta a fost răspândită de navigatorii polinezieni (\"Plantele canoelor\") în întreaga zonă a Pacificului.",
+    "regionsIntro": "Astăzi, Kava este cultivată în principal în următoarele regiuni:",
+    "regions": {
+      "vanuatu": "<strong>Vanuatu:</strong> Cel mai mare producător din lume, cu peste 80 de soiuri diferite.",
+      "fiji": "<strong>Fiji:</strong> Cunoscut pentru \"Waka\" (rădăcini) și \"Lewena\" (tulpină bazală).",
+      "tonga": "<strong>Tonga:</strong> Produce Kava foarte blândă, \"cremoasă\" (de exemplu, Pouni Ono).",
+      "samoa": "<strong>Samoa:</strong> Kava se numește aici 'Ava.",
+      "hawaii": "<strong>Hawaii:</strong> Kava se numește aici 'Awa (de exemplu, Moi, Mahakea).",
+      "pohnpei": "<strong>Pohnpei & Micronezia:</strong> Cunoscut pentru consumul de suc proaspăt de Kava (\"Sakau\")."
+    }
+  },
+  "subpages": {
+    "title": "Articole aprofundate",
+    "intro": "Explorați următoarele subpagini pentru informații detaliate despre aspecte specifice ale botanicii Kava.",
+    "pflanze": {
+      "title": "Planta",
+      "description": "Taxonomie, nomenclatură și relația dintre <em>Piper methysticum</em> și forma sa sălbatică <em>Piper wichmannii</em>.",
+      "topics": [
+        "Clasificare taxonomică",
+        "Semnificația numelui",
+        "Domesticație și evoluție",
+        "Kava ca patrimoniu cultural viu"
+      ]
+    },
+    "morphologie": {
+      "title": "Morfologie",
+      "description": "Anatomie detaliată a plantei Kava, cu un accent special pe sistemul radicular de importanță economică.",
+      "topics": [
+        "Sistem radicular (Bulb & Waka)",
+        "Distribuția kavalactonelor",
+        "Tulpini și frunze",
+        "Flori și sterilitate"
+      ]
+    },
+    "anbau": {
+      "title": "Cultivare și ecologie",
+      "description": "Condiții de creștere, metode de reproducere și arta cultivării tradiționale a Kava.",
+      "topics": [
+        "Reproducere vegetativă",
+        "Cerințe climatice",
+        "Tipul de sol",
+        "Recolta și factorii de calitate"
+      ]
+    }
+  }
+}

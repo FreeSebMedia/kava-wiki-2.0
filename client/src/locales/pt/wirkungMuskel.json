@@ -1,0 +1,233 @@
+{
+  "page": {
+    "title": "Relaxamento Muscular",
+    "subtitle": "Como as Kavalactonas aliviam tensões e promovem o relaxamento físico.",
+    "category": "Efeito"
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introdução",
+        "level": 1
+      },
+      {
+        "id": "mechanismen",
+        "title": "Mecanismos de Ação",
+        "level": 1
+      },
+      {
+        "id": "kavalactone",
+        "title": "Kavalactonas Relevantes",
+        "level": 1
+      },
+      {
+        "id": "anwendungen",
+        "title": "Áreas de Aplicação",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Quimiotipos e Variedades Recomendados",
+        "level": 1
+      },
+      {
+        "id": "praxis",
+        "title": "Aplicação Prática",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Início",
+    "wirkung": "Efeito",
+    "current": "Relaxamento Muscular"
+  },
+  "einfuehrung": {
+    "paragraph1": "O <strong>efeito relaxante muscular</strong> do Kava é um dos efeitos mais claramente perceptíveis. Já após a primeira Shell, uma onda de relaxamento começa a se mover pelo corpo – as tensões se dissolvem, o corpo se sente \"pesado\" e agradável.",
+    "paragraph2": "Na aplicação tradicional no Pacífico, o Kava é utilizado há milênios para aliviar dores musculares e tensões físicas. Pesquisas modernas esclareceram os mecanismos subjacentes."
+  },
+  "mechanismen": {
+    "title": "Mecanismos de Ação",
+    "intro": "O efeito relaxante muscular do Kava baseia-se em vários mecanismos sinérgicos que atuam tanto em nível central (cérebro/médula espinhal) quanto periférico.",
+    "items": [
+      {
+        "icon": "zap",
+        "title": "Bloqueio de Canais de Sódio e Cálcio",
+        "text": "As Kavalactonas bloqueiam <strong>canais de sódio e cálcio</strong> dependentes de voltagem em células nervosas. Isso reduz a excitabilidade dos motoneurônios (células nervosas que controlam os músculos) e leva a uma diminuição do tônus muscular. Este mecanismo também é responsável pelo efeito <strong>anticonvulsivante</strong>."
+      },
+      {
+        "icon": "activity",
+        "title": "Modulação Central de GABA",
+        "text": "O aumento da ação do GABA no cérebro e na medula espinhal reduz a <strong>tensão muscular central</strong>. O GABA é o principal neurotransmissor inibitório e também regula o tônus muscular em nível espinhal."
+      },
+      {
+        "icon": "heart",
+        "title": "Efeito Periférico",
+        "text": "Algumas Kavalactonas atuam diretamente na <strong>musculatura lisa</strong> (por exemplo, em vasos sanguíneos). Isso pode levar a uma leve vasodilatação (dilatação dos vasos), explicando a sensação de calor que muitos usuários relatam."
+      }
+    ],
+    "quote": {
+      "text": "As Kavalactonas bloqueiam canais de sódio e cálcio dependentes de voltagem em nível neuronal, contribuindo para o efeito relaxante muscular.",
+      "source": "— Kava – Raiz do Descanso"
+    }
+  },
+  "kavalactone": {
+    "title": "Kavalactonas Relevantes",
+    "intro": "Nem todas as Kavalactonas têm o mesmo efeito relaxante muscular. Especialmente duas compostos se destacam:",
+    "dhk": {
+      "position": "2",
+      "title": "Dihydrokavain (DHK)",
+      "positionLabel": "Posição 2 no Quimiotipo",
+      "description": "DHK é a Kavalactona <strong>mais forte em relaxamento muscular</strong>. Atua principalmente através do bloqueio de canais de sódio e possui uma componente sedativa pronunciada.",
+      "profileLabel": "Perfil de Ação:",
+      "profile": "Fortemente relaxante muscular, sedativo, corporal. Ideal para uso noturno e em casos de tensões."
+    },
+    "dhm": {
+      "position": "5",
+      "title": "Dihydromethysticin (DHM)",
+      "positionLabel": "Posição 5 no Quimiotipo",
+      "description": "DHM também possui fortes propriedades relaxantes musculares, mas é a Kavalactona com a <strong>maior duração de efeito</strong>. Em altas concentrações, pode levar a uma fadiga persistente.",
+      "warningLabel": "Atenção:",
+      "warning": "Altas concentrações de DHM (Posição 1-2) são típicas de variedades Tudei e podem causar sintomas de \"ressaca\"."
+    },
+    "table": {
+      "headers": {
+        "kavalacton": "Kavalactona",
+        "relaxation": "Relaxamento Muscular",
+        "sedation": "Sedação",
+        "duration": "Duração"
+      },
+      "rows": [
+        {
+          "name": "Dihydrokavain (2)",
+          "relaxation": "⭐⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐",
+          "duration": "Média"
+        },
+        {
+          "name": "Dihydromethysticin (5)",
+          "relaxation": "⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐⭐",
+          "duration": "Longa"
+        },
+        {
+          "name": "Methysticin (3)",
+          "relaxation": "⭐⭐⭐",
+          "sedation": "⭐⭐⭐",
+          "duration": "Média"
+        },
+        {
+          "name": "Kavain (4)",
+          "relaxation": "⭐⭐",
+          "sedation": "⭐⭐",
+          "duration": "Curta"
+        }
+      ]
+    }
+  },
+  "anwendungen": {
+    "title": "Áreas de Aplicação",
+    "intro": "O efeito relaxante muscular do Kava pode ser útil em várias condições:",
+    "items": [
+      {
+        "title": "Tensões na Região do Pescoço/Ombros",
+        "text": "Estresse e trabalho em frente ao computador frequentemente levam a tensões crônicas. O Kava pode ajudar a aliviar essas tensões e melhorar o bem-estar."
+      },
+      {
+        "title": "Dores nas Costas",
+        "text": "Em casos de dores nas costas de origem muscular, o efeito relaxante pode trazer alívio. O Kava não substitui o tratamento médico, mas pode atuar como um suporte."
+      },
+      {
+        "title": "Cefaleias Tensionais",
+        "text": "Dores de cabeça causadas por tensões musculares na região do pescoço e cabeça podem ser aliviadas pelo relaxamento."
+      },
+      {
+        "title": "Cólica Menstrual",
+        "text": "O efeito antiespasmódico pode ser útil em cólicas menstruais. Tradicionalmente, o Kava também foi utilizado para esse fim no Pacífico."
+      },
+      {
+        "title": "Após o Exercício",
+        "text": "Para a recuperação após treinos intensos, o Kava pode ajudar a relaxar os músculos e promover a recuperação."
+      },
+      {
+        "title": "Síndrome das Pernas Inquietas",
+        "text": "Alguns usuários relatam alívio em casos de pernas inquietas. A combinação de relaxamento muscular e ansiolítico pode ser eficaz aqui."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Quimiotipos e Variedades Recomendados",
+    "intro": "Para um <strong>relaxamento muscular</strong> máximo, devem ser escolhidas variedades com alto teor de DHK (posição 2 em primeiro ou segundo lugar). Esses Kavas \"Pesados\" são corporais e ideais para uso noturno.",
+    "heavy": {
+      "label": "Pesado",
+      "idealFor": "Relaxamento Muscular Máximo",
+      "varieties": [
+        {
+          "name": "Palasa (Vanuatu)",
+          "chemotype": "423651",
+          "description": "Muito corporal, forte relaxamento muscular. Ideal para tensões."
+        },
+        {
+          "name": "Ambae (Vanuatu)",
+          "chemotype": "246531",
+          "description": "Dominante em DHK, efeito pronunciado de \"Couch-Lock\"."
+        },
+        {
+          "name": "Palarasul (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Fortemente sedativo com bom relaxamento muscular."
+        },
+        {
+          "name": "Borogu (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Clássico com efeito corporal equilibrado."
+        }
+      ]
+    },
+    "tip": {
+      "title": "Dica de Quimiotipo",
+      "text": "Preste atenção à <strong>posição de 2 (DHK)</strong> no quimiotipo. Quanto mais à frente, mais forte o relaxamento muscular. Um quimiotipo como <strong>246...</strong> ou <strong>426...</strong> indica uma variedade corporal. Utilize o <a href=\"/de/inhaltsstoffe/rechner\" class=\"text-primary hover:underline\">Calculador de Quimiotipo</a> para analisar variedades."
+    }
+  },
+  "praxis": {
+    "title": "Aplicação Prática",
+    "intro": "Para a aplicação em tensões musculares, existem algumas recomendações:",
+    "boxTitle": "Recomendações para Relaxamento Muscular",
+    "tips": [
+      {
+        "label": "Horário:",
+        "text": "Preferencialmente à noite, 1-2 horas antes de dormir. A componente sedativa das variedades relaxantes pode causar sonolência."
+      },
+      {
+        "label": "Dosagem:",
+        "text": "2-3 Shells (30-45g de pó) para um efeito corporal significativo. Iniciantes devem começar com menos."
+      },
+      {
+        "label": "Combinação:",
+        "text": "Calor (banho quente, bolsa de água quente) intensifica o efeito relaxante. Exercícios leves de alongamento também podem ser úteis."
+      },
+      {
+        "label": "Regularidade:",
+        "text": "Em casos de tensões crônicas, uma aplicação regular à noite (com intervalos) pode ser sensata."
+      },
+      {
+        "label": "Hidratação:",
+        "text": "Beber água suficiente, pois o Kava pode ter um efeito levemente desidratante."
+      }
+    ],
+    "feeling": {
+      "title": "A Sensação de \"Kava\"",
+      "text": "O relaxamento físico proporcionado pelo Kava é frequentemente descrito como uma \"pesadez\" agradável. Os membros se sentem quentes e relaxados, e as tensões se dissolvem como por encanto. Este estado não deve ser confundido com sonolência – a mente permanece clara, apenas o corpo se relaxa profundamente."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Continuar no Capítulo Efeito:",
+    "next": {
+      "title": "Humor & Socialização",
+      "description": "Como o Kava eleva o humor e promove interações sociais",
+      "href": "/de/wirkung/stimmung"
+    }
+  }
+}

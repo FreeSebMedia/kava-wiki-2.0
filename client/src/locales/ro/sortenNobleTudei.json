@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Kava Nobila vs. Kava Tudei",
+    "subtitle": "Cea mai importantă distincție pentru orice consumator de Kava: De ce Kava Nobila este sigură și Tudei ar trebui evitat.",
+    "category": "Sortimente",
+    "breadcrumb": {
+      "home": "Pagina principală",
+      "sorten": "Sortimente",
+      "current": "Nobila vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "Conținut",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introducere",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "Istoricul clasificării",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "Diferențe chimice",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "Diferențe de efect",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "Recunoașterea Tudei",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "Aspecte de siguranță",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Distincția între <strong>Kava Nobila</strong> și <strong>Kava Tudei</strong> este cea mai fundamentală clasificare în lumea Kava. Aceasta determină dacă o experiență Kava este plăcută și sigură sau neplăcută și potențial dăunătoare.",
+      "text": "Termenul \"Tudei\" (scris și \"Two-Day\") provine din Bislama, limba creolă a Vanuatu și înseamnă literalmente \"două zile\" – un indiciu al duratei extrem de lungi de acțiune a acestor sortimente. Kava Nobila, pe de altă parte, a fost selectată de-a lungul secolelor de culturile din Pacific pentru utilizare zilnică și oferă un efect plăcut și controlabil."
+    },
+    "geschichte": {
+      "title": "Istoricul clasificării",
+      "p1": "Distincția formală între Kava Nobila și Kava Tudei a fost introdusă de <strong>Guvernul Vanuatu</strong> pentru a reglementa calitatea Kava-ului de export. În 2002, Vanuatu a adoptat <strong>Legea Kava</strong>, care interzice exportul de sortimente Tudei. Această legislație a fost o reacție la rapoartele privind daunele hepatice în Europa, asociate cu produse Kava de calitate inferioară.",
+      "p2": "Cercetarea <strong>Dr. Vincent Lebot</strong>, un cercetător de frunte în domeniul Kava, a fost esențială pentru dezvoltarea acestei clasificări. Lebot a dezvoltat metode de analiză chimică a sortimentelor de Kava și a identificat <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotipurile</a> care diferențiază Kava Nobila de Kava Tudei.",
+      "quote": "Clasificarea în Nobila și Tudei nu se bazează pe preferințe subiective, ci pe diferențe chimice măsurabile, care corelează direct cu siguranța și tolerabilitatea.",
+      "quoteAuthor": "— Dr. Vincent Lebot, cercetător Kava"
+    },
+    "chemischeUnterschiede": {
+      "title": "Diferențe chimice",
+      "intro": "Diferența esențială între Kava Nobila și Kava Tudei constă în <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotip</a> – concentrația relativă a celor șase principale <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactone</a>. Chemotipul este indicat printr-un număr format din șase cifre, prima cifră reprezentând Kavalactonul dominant.",
+      "tableHeaders": {
+        "merkmal": "Caracteristică",
+        "noble": "Kava Nobila",
+        "tudei": "Kava Tudei"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Chemotip începe cu",
+          "noble": "2 (DHK) sau 4 (Kavain)",
+          "tudei": "5 (DHM) sau 6 (Methysticin)"
+        },
+        {
+          "merkmal": "Kavalacton dominant",
+          "noble": "Kavain sau Dihydrokavain",
+          "tudei": "Dihydromethysticin"
+        },
+        {
+          "merkmal": "Conținut de Flavokavain B",
+          "noble": "Scăzut (<0.5%)",
+          "tudei": "Ridicat (până la 5%)"
+        },
+        {
+          "merkmal": "Raport DHM:Kavain",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Chemotipuri Nobila (exemple)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Toate încep cu 2 sau 4 – niciodată cu 5 sau 6."
+      },
+      "tudeiCard": {
+        "title": "Chemotipuri Tudei (exemple)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "Încep cu 5 (DHM) sau 6 (Methysticin) – un semnal de avertizare."
+      },
+      "calculatorLink": "Calculator de chemotip: Analizați fiecare chemotip"
+    },
+    "wirkungsunterschiede": {
+      "title": "Diferențe de efect",
+      "intro": "Diferențele chimice duc la profile de efect drastic diferite:",
+      "tableHeaders": {
+        "aspekt": "Aspect",
+        "noble": "Kava Nobila",
+        "tudei": "Kava Tudei"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Începerea efectului",
+          "noble": "Rapid (10-20 minute)",
+          "tudei": "Întârziat (30-90 minute)"
+        },
+        {
+          "aspekt": "Durata efectului",
+          "noble": "Moderat (3-6 ore)",
+          "tudei": "Extrem de lung (6-48 ore)"
+        },
+        {
+          "aspekt": "Caracterul efectului",
+          "noble": "Clar, relaxat, social",
+          "tudei": "Neclar, amețitor, sedativ"
+        },
+        {
+          "aspekt": "Ziua următoare",
+          "noble": "Fără mahmureală",
+          "tudei": "Adesea letargie, greață"
+        },
+        {
+          "aspekt": "Efecte secundare",
+          "noble": "Rare, ușoare",
+          "tudei": "Frecvente: greață, dureri de cap"
+        },
+        {
+          "aspekt": "Utilizare zilnică",
+          "noble": "Sigur",
+          "tudei": "Nu este recomandat"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Experiența Kava Nobila",
+        "text": "O experiență tipică de Kava Nobila începe cu o ușoară furnicătură pe buze, urmată de o undă de relaxare. Mintea rămâne clară, în timp ce corpul se relaxează. După 3-4 ore, efectul se estompează ușor, iar persoana se simte revigorată – pregătită pentru un somn odihnitor sau pentru alte activități."
+      },
+      "tudeiExperience": {
+        "title": "Experiența Kava Tudei",
+        "text": "Kava Tudei acționează întârziat și insidios. Efectul este adesea copleșitor sedativ, cu o senzație de \"amețeală\". În ziua următoare, mulți consumatori se simt încă afectați – de unde și numele \"Two-Day\". Greața și durerile de cap sunt frecvente."
+      }
+    },
+    "erkennung": {
+      "title": "Recunoașterea Tudei",
+      "intro": "Din păcate, Kava Tudei este uneori amestecată ilegal sau vândută ca Nobila. Iată câteva semne de avertizare:",
+      "warningTitle": "Semne de avertizare pentru amestecul Tudei",
+      "warnings": [
+        "<strong>Preț extrem de scăzut</strong> – Tudei este mai ieftin de produs",
+        "<strong>Fără indicație de sortiment</strong> – Numele sortimentului ar trebui să fie întotdeauna specificat",
+        "<strong>Fără chemotip</strong> – Chemotipul oferă informații despre compoziția Kavalactonului",
+        "<strong>Începerea întârziată a efectului</strong> – Nobila acționează în 10-20 minute",
+        "<strong>Greață extremă</strong> – Mai mult decât disconfort gastric ușor",
+        "<strong>Efectul în ziua următoare</strong> – Nobila se estompează după 4-6 ore"
+      ],
+      "acetoneTestTitle": "Testul cu acetona",
+      "acetoneTestText": "Un test simplu acasă poate ajuta la identificarea Tudei: <strong>Testul cu acetona</strong>. Acesta implică amestecarea pulberii de Kava cu acetona. Kava Nobila colorează acetona în galben, în timp ce Kava Tudei produce o colorare portocalie până la roșie (din cauza conținutului ridicat de Flavokavain B).",
+      "recommendation": "<strong>Recomandare:</strong> Atunci când cumpărați, asigurați-vă că comerciantul specifică exact chemotipul și sortimentul. Aceste informații arată că este vorba despre Kava Nobila autentică."
+    },
+    "sicherheit": {
+      "title": "Aspecte de siguranță",
+      "intro": "Distincția între Kava Nobila și Kava Tudei nu este doar o chestiune de confort, ci și de <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">siguranță</a>. Daunele hepatice asociate cu Kava în anii 2000 sunt în mare parte atribuite produselor de calitate inferioară:",
+      "causes": [
+        "Utilizarea <strong>părților superioare ale plantei</strong> (frunze, tulpini) în loc de doar rădăcini",
+        "Amestecarea <strong>sortimentelor Tudei</strong> cu conținut ridicat de Flavokavain B",
+        "<strong>Extracția cu acetona</strong> în loc de prepararea tradițională cu apă",
+        "Utilizarea <strong>plantelor necoapte</strong> (mai puțin de 3 ani)"
+      ],
+      "conclusion": "Kava Nobila, preparată tradițional din rădăcini de cel puțin 3-5 ani, are o <strong>istorie de siguranță de mii de ani</strong> în culturile din Pacific. Guvernul Vanuatu și organizații internaționale precum <strong>OMS</strong> au confirmat că Kava Nobila este considerată sigură atunci când este utilizată corect.",
+      "moreLink": "Aflați mai multe despre siguranța Kava"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Continuare în capitolul Sortimente:",
+    "next": {
+      "title": "Sortimente din Vanuatu",
+      "description": "Peste 80 de sortimente din patria Kava: Borogu, Melo Melo, Kelai și altele",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

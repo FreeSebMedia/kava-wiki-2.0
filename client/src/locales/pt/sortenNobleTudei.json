@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Kava Nobre vs. Kava Tudei",
+    "subtitle": "A distinção mais importante para qualquer consumidor de Kava: Por que o Kava Nobre é seguro e o Tudei deve ser evitado.",
+    "category": "Variedades",
+    "breadcrumb": {
+      "home": "Página Inicial",
+      "sorten": "Variedades",
+      "current": "Nobre vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "Conteúdo",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introdução",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "História da Classificação",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "Diferenças Químicas",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "Diferenças de Efeito",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "Reconhecendo o Tudei",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "Aspectos de Segurança",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "A distinção entre <strong>Kava Nobre</strong> e <strong>Kava Tudei</strong> é a classificação mais fundamental no mundo do Kava. Ela determina se uma experiência com Kava é agradável e segura ou desagradável e potencialmente prejudicial.",
+      "text": "O termo \"Tudei\" (também escrito como \"Two-Day\") vem do Bislama, a língua crioula de Vanuatu, e significa literalmente \"dois dias\" – uma referência à duração extremamente longa dos efeitos dessas variedades. O Kava Nobre, por outro lado, foi selecionado ao longo de séculos por culturas do Pacífico para uso diário e oferece um efeito agradável e controlável."
+    },
+    "geschichte": {
+      "title": "História da Classificação",
+      "p1": "A distinção formal entre Kava Nobre e Tudei foi introduzida pelo <strong>governo de Vanuatu</strong> para regular a qualidade do Kava exportado. Em 2002, Vanuatu promulgou a <strong>Lei do Kava</strong>, que proíbe a exportação de variedades Tudei. Essa legislação foi uma resposta a relatos de danos ao fígado na Europa, associados a produtos de Kava de baixa qualidade.",
+      "p2": "A pesquisa do <strong>Dr. Vincent Lebot</strong>, um dos principais cientistas do Kava, foi crucial para o desenvolvimento dessa classificação. Lebot desenvolveu métodos para a análise química de variedades de Kava e identificou os <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">quimiotipos</a> que diferenciam o Nobre do Tudei.",
+      "quote": "A classificação em Nobre e Tudei não se baseia em preferências subjetivas, mas em diferenças químicas mensuráveis que se correlacionam diretamente com a segurança e a tolerância.",
+      "quoteAuthor": "— Dr. Vincent Lebot, pesquisador de Kava"
+    },
+    "chemischeUnterschiede": {
+      "title": "Diferenças Químicas",
+      "intro": "A diferença crucial entre Kava Nobre e Tudei reside no <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">quimiotipo</a> – a concentração relativa dos seis principais <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactonas</a>. O quimiotipo é indicado como um número de seis dígitos, onde o primeiro dígito representa a kavalactona dominante.",
+      "tableHeaders": {
+        "merkmal": "Característica",
+        "noble": "Kava Nobre",
+        "tudei": "Kava Tudei"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Quimiotipo começa com",
+          "noble": "2 (DHK) ou 4 (Kavain)",
+          "tudei": "5 (DHM) ou 6 (Methysticina)"
+        },
+        {
+          "merkmal": "Kavalactona dominante",
+          "noble": "Kavain ou Dihidrokavain",
+          "tudei": "Dihidromethysticina"
+        },
+        {
+          "merkmal": "Teor de Flavokavaina B",
+          "noble": "Baixo (<0.5%)",
+          "tudei": "Alto (até 5%)"
+        },
+        {
+          "merkmal": "Relação DHM:Kavain",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Quimiotipos Nobres (Exemplos)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Todos começam com 2 ou 4 – nunca com 5 ou 6."
+      },
+      "tudeiCard": {
+        "title": "Quimiotipos Tudei (Exemplos)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "Começam com 5 (DHM) ou 6 (Methysticina) – um sinal de alerta."
+      },
+      "calculatorLink": "Calculadora de Quimiotipo: Analise qualquer quimiotipo"
+    },
+    "wirkungsunterschiede": {
+      "title": "Diferenças de Efeito",
+      "intro": "As diferenças químicas levam a perfis de efeito drasticamente diferentes:",
+      "tableHeaders": {
+        "aspekt": "Aspecto",
+        "noble": "Kava Nobre",
+        "tudei": "Kava Tudei"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Início do efeito",
+          "noble": "Rápido (10-20 minutos)",
+          "tudei": "Atrasado (30-90 minutos)"
+        },
+        {
+          "aspekt": "Duração do efeito",
+          "noble": "Moderada (3-6 horas)",
+          "tudei": "Extremamente longa (6-48 horas)"
+        },
+        {
+          "aspekt": "Caráter do efeito",
+          "noble": "Clara, relaxada, social",
+          "tudei": "Tôxa, embriagada, sedativa"
+        },
+        {
+          "aspekt": "Próximo dia",
+          "noble": "Sem ressaca",
+          "tudei": "Frequentemente letargia, náusea"
+        },
+        {
+          "aspekt": "Efeitos colaterais",
+          "noble": "Raros, leves",
+          "tudei": "Frequentes: náusea, dor de cabeça"
+        },
+        {
+          "aspekt": "Uso diário",
+          "noble": "Seguro",
+          "tudei": "Não recomendado"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Experiência com Kava Nobre",
+        "text": "Uma experiência típica com Kava Nobre começa com uma leve formigação nos lábios, seguida por uma onda de relaxamento. A mente permanece clara enquanto o corpo relaxa. Após 3-4 horas, o efeito diminui suavemente, e a pessoa se sente revigorada – pronta para um sono reparador ou para mais atividades."
+      },
+      "tudeiExperience": {
+        "title": "Experiência com Kava Tudei",
+        "text": "O Kava Tudei atua de forma atrasada e gradual. O efeito é frequentemente extremamente sedativo, com uma sensação de \"embriaguez\". No dia seguinte, muitos consumidores ainda se sentem afetados – daí o nome \"Two-Day\". Náuseas e dores de cabeça são comuns."
+      }
+    },
+    "erkennung": {
+      "title": "Reconhecendo o Tudei",
+      "intro": "Infelizmente, o Kava Tudei às vezes é misturado ilegalmente ou vendido como Nobre. Aqui estão sinais de alerta:",
+      "warningTitle": "Sinais de Alerta para Mistura de Tudei",
+      "warnings": [
+        "<strong>Preço extremamente baixo</strong> – Tudei é mais barato de produzir",
+        "<strong>Sem indicação de variedade</strong> – O nome da variedade deve sempre ser indicado",
+        "<strong>Sem quimiotipo</strong> – O quimiotipo fornece informações sobre a composição das kavalactonas",
+        "<strong>Início do efeito atrasado</strong> – O Nobre atua em 10-20 minutos",
+        "<strong>Náusea extrema</strong> – Mais do que leve desconforto estomacal",
+        "<strong>Efeito no dia seguinte</strong> – O Nobre diminui após 4-6 horas"
+      ],
+      "acetoneTestTitle": "Teste de Acetona",
+      "acetoneTestText": "Um simples teste caseiro pode ajudar a identificar o Tudei: O <strong>Teste de Acetona</strong>. Nesse teste, o pó de Kava é misturado com acetona. O Kava Nobre colore a acetona de amarelo, enquanto o Kava Tudei produz uma coloração laranja a vermelha (devido ao alto teor de Flavokavaina B).",
+      "recommendation": "<strong>Recomendação:</strong> Ao comprar, certifique-se de que o vendedor indique o quimiotipo exato e a variedade. Essas informações mostram que se trata de Kava Nobre autêntico."
+    },
+    "sicherheit": {
+      "title": "Aspectos de Segurança",
+      "intro": "A distinção entre Nobre e Tudei não é apenas uma questão de conforto, mas também de <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">segurança</a>. Os danos ao fígado que foram associados ao Kava no início dos anos 2000 são hoje em sua maioria atribuídos a produtos de baixa qualidade:",
+      "causes": [
+        "Uso de <strong>partes aéreas da planta</strong> (folhas, caules) em vez de apenas raízes",
+        "Mistura de <strong>variedades Tudei</strong> com alto teor de Flavokavaina B",
+        "<strong>Extração com acetona</strong> em vez de preparação tradicional com água",
+        "Uso de <strong>plantas imaturas</strong> (menos de 3 anos)"
+      ],
+      "conclusion": "O Kava Nobre, preparado tradicionalmente a partir de raízes com pelo menos 3-5 anos de idade, tem uma <strong>história de segurança milenar</strong> nas culturas do Pacífico. O governo de Vanuatu e organizações internacionais como a <strong>OMS</strong> confirmaram que o Kava Nobre, quando usado corretamente, é considerado seguro.",
+      "moreLink": "Saiba mais sobre a segurança do Kava"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Continuar no capítulo Variedades:",
+    "next": {
+      "title": "Variedades de Vanuatu",
+      "description": "Mais de 80 variedades da terra do Kava: Borogu, Melo Melo, Kelai e mais",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

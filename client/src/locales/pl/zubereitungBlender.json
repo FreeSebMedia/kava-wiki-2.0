@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Metoda blendera",
+    "subtitle": "Szybki i skuteczny sposób przygotowania Kavy – idealny na nowoczesny dzień.",
+    "category": "Przygotowanie"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "zubereitung": "Przygotowanie",
+    "current": "Metoda blendera"
+  },
+  "toc": {
+    "title": "Zawartość",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Przegląd",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Wymagane materiały",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Instrukcja krok po kroku",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Porównanie z tradycyjną metodą",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Porady ekspertów",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Całkowity czas",
+    "fast": "Szybko",
+    "lowEffort": "Niski wysiłek",
+    "highPotency": "Wysoka potencja",
+    "effectiveExtraction": "Skuteczna ekstrakcja",
+    "tip": "Wskazówka",
+    "essential": "Niezbędne",
+    "importantForBestResults": "Ważne dla najlepszych wyników",
+    "aspect": "Aspekt",
+    "traditional": "Tradycyjna (ugniatanie)",
+    "blender": "Blender",
+    "otherMethods": "Inne metody przygotowania"
+  },
+  "overview": {
+    "intro": "Metoda blendera to <strong>nowoczesna alternatywa</strong> dla tradycyjnej metody ugniatania. Jest szybsza, mniej pracochłonna i mimo to zapewnia <strong>bardzo dobrą ekstrakcję</strong>.",
+    "alert": {
+      "title": "Idealne dla...",
+      "text": "Osób początkujących, które szukają prostego sposobu, lub doświadczonych użytkowników, którzy mają mało czasu. Metoda blendera jest również idealna do większych ilości."
+    }
+  },
+  "materials": {
+    "title": "Wymagane materiały",
+    "essential": [
+      {
+        "name": "Blender",
+        "note": "Minimum 500 watów, lepiej 1000+ watów"
+      },
+      {
+        "name": "Proszek z korzenia Kavy",
+        "type": "Średnie mielenie",
+        "note": "20-40g w zależności od doświadczenia"
+      },
+      {
+        "name": "Woreczki filtracyjne",
+        "note": "Woreczki do mleka orzechowego lub drobne sitko"
+      },
+      {
+        "name": "Ciepła woda",
+        "note": "400-600ml, letnia (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Olej kokosowy lub mleko kokosowe",
+        "note": "1 łyżka stołowa – niezbędne dla dobrej ekstrakcji!"
+      },
+      {
+        "name": "Waga kuchenna",
+        "note": "Do konsekwentnego dozowania"
+      },
+      {
+        "name": "Duża miska",
+        "note": "Do zbierania podczas filtrowania"
+      }
+    ],
+    "alert": {
+      "title": "Wymagania dotyczące blendera",
+      "text": "Użyj mocnego blendera. Blender ręczny lub słabe blendery nie ekstraktują skutecznie i mogą się przegrzewać. Idealne są blendery wysokowydajne, takie jak Vitamix lub Blendtec."
+    }
+  },
+  "steps": {
+    "title": "Instrukcja krok po kroku",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Przygotowanie składników",
+        "duration": "2 min",
+        "description": "Odważ wszystkie składniki i przygotuj je.",
+        "details": [
+          "Odważ proszek Kavy (20-40g w zależności od doświadczenia)",
+          "Odważ wodę (400-600ml)",
+          "Przygotuj 1 łyżkę oleju kokosowego lub mleka kokosowego",
+          "Przygotuj woreczek filtracyjny i misę do zbierania"
+        ],
+        "tip": "Tłuszcz jest szczególnie ważny w metodzie blendera, ponieważ stabilizuje emulsję."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Umieść w blenderze",
+        "duration": "1 min",
+        "description": "Włóż wszystkie składniki do blendera.",
+        "details": [
+          "Najpierw wlej wodę (letnią, 35-45°C)",
+          "Następnie dodaj proszek Kavy",
+          "Na koniec dodaj tłuszcz (olej kokosowy/mleko kokosowe)",
+          "Dokładnie zamknij pokrywę!"
+        ],
+        "tip": "Ciepła woda poprawia ekstrakcję. Zimna woda również działa, ale jest mniej skuteczna."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Miksowanie",
+        "duration": "3-4 min",
+        "description": "Miksuj na najwyższych obrotach dla maksymalnej ekstrakcji.",
+        "details": [
+          "Ustaw blender na najwyższe obroty",
+          "Miksuj przez 3-4 minuty bez przerwy",
+          "Mieszanka stanie się pienista i mleczno-brązowa",
+          "W przypadku przegrzania zrób krótkie przerwy"
+        ],
+        "tip": "Dłuższe miksowanie = mocniejsza Kava. Ale uwaga: niektóre blendery przegrzewają się po 4+ minutach."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filtracja",
+        "duration": "3 min",
+        "description": "Przelej mieszankę przez woreczek filtracyjny.",
+        "details": [
+          "Umieść woreczek filtracyjny nad dużą misą",
+          "Powoli wlej mieszankę z blendera",
+          "Ściśnij woreczek i wyciśnij",
+          "Wielokrotnie mocno wyciśnij, aż prawie nie będzie płynu"
+        ],
+        "tip": "Ten krok jest ważny! Bez filtrowania wypijesz grube włókna, które mogą powodować nudności."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Serwowanie",
+        "duration": "Natychmiast",
+        "description": "Ciesz się swoją Kava z blendera!",
+        "details": [
+          "Wlej do miseczek lub filiżanek",
+          "Opcjonalnie: Krótko wstaw do lodówki dla schłodzonej Kavy",
+          "Wypij jednym haustem ('Chug')",
+          "Przygotuj chaser (owoce)"
+        ],
+        "tip": "Kava z blendera może być nieco bardziej gorzka niż tradycyjnie przygotowana. Dobry chaser pomoże!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Porównanie z tradycyjną metodą",
+    "conclusion": "<strong>Wniosek:</strong> Metoda blendera jest idealna na co dzień i dla początkujących. Na specjalne okazje lub maksymalną potęgę lepiej wybrać tradycyjną metodę.",
+    "items": [
+      {
+        "aspect": "Czas przygotowania",
+        "traditional": "20-25 minut",
+        "blender": "8-10 minut",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Potencja",
+        "traditional": "Bardzo wysoka",
+        "blender": "Wysoka do bardzo wysokiej",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Smak",
+        "traditional": "Łagodny, ziemisty",
+        "blender": "Gorzki, intensywny",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Wysiłek",
+        "traditional": "Wysoki (fizyczny)",
+        "blender": "Niski",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Sprzęt",
+        "traditional": "Tylko woreczek + miska",
+        "blender": "Potrzebny blender",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Dla początkujących",
+        "traditional": "Dobrze nadaje się",
+        "blender": "Bardzo dobrze nadaje się",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Porady ekspertów",
+    "items": [
+      {
+        "name": "Trik z kostkami lodu",
+        "text": "Dodaj 2-3 kostki lodu do blendera. To schładza mieszankę podczas miksowania i zapobiega przegrzewaniu przy dłuższych czasach miksowania."
+      },
+      {
+        "name": "Podwójne filtrowanie",
+        "text": "Filtruj dwa razy – najpierw przez gruby woreczek, a potem przez drobny. To daje gładszą Kawę bez osadu."
+      },
+      {
+        "name": "Wzmocnienie lecytyną",
+        "text": "Łyżeczka lecytyny słonecznikowej poprawia emulsję i może zwiększyć biodostępność Kavalaktonów."
+      },
+      {
+        "name": "Przygotowanie partii",
+        "text": "Przygotuj większe ilości i przechowuj filtrowaną Kawę w lodówce. Wytrzymuje 2-3 dni. Przed wypiciem dobrze wstrząśnij!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Tradycyjna metoda ugniatania",
+      "subtitle": "Maksymalna potęga, autentyczne doświadczenie",
+      "href": "/pl/przygotowanie/tradycyjnie"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Bez wysiłku, gotowe do picia od razu",
+      "href": "/pl/przygotowanie/instant"
+    },
+    "calculator": {
+      "title": "Kalkulator dozowania",
+      "subtitle": "Spersonalizowane rekomendacje dla Twojej odmiany",
+      "href": "/pl/przygotowanie/kalkulator"
+    }
+  }
+}

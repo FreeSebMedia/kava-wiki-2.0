@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "Istoria Kava",
+    "subtitle": "O călătorie prin 5.000 de ani de istorie a Kava – de la domesticirea în Melanezia până la răspândirea globală în lumea modernă.",
+    "category": "Istorie"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "geschichte": "Istorie",
+    "zeitleiste": "Cronologie"
+  },
+  "ui": {
+    "filter": "Filtru",
+    "allEpochs": "Toate epocile",
+    "readMore": "Citește mai mult",
+    "loading": "Se încarcă..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Preistorie și Domesticire",
+      "description": "Începuturile culturii Kava în Melanezia"
+    },
+    "classical": {
+      "name": "Era clasică a Pacificului",
+      "description": "Răspândire prin expansiunea austronesiană"
+    },
+    "colonial": {
+      "name": "Perioada colonială",
+      "description": "Contact european și misiune"
+    },
+    "modern": {
+      "name": "Era modernă",
+      "description": "Cercetare științifică și decolonizare"
+    },
+    "contemporary": {
+      "name": "Prezent",
+      "description": "Răspândire globală și renaștere culturală"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Origine și Domesticire",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Răspândire în Pacific",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Perioada colonială",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Știință și Cercetare",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Era modernă",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Prezent",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "aproximativ 3000 î.Hr.",
+      "title": "Domesticarea Kava",
+      "description": "În pădurile tropicale din Papua Noua Guinee și Vanuatu începe domesticarea Piper wichmannii pentru planta de Kava cultivată (Piper methysticum).",
+      "details": "Prin selecția și reproducerea vegetativă apar primele soiuri Noble Kava cu un conținut mai mare de kavalactone și o toxicitate mai mică decât forma sălbatică originală.",
+      "location": "Papua Noua Guinee / Vanuatu",
+      "links": [
+        {
+          "label": "Planta",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Origini",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "aproximativ 2500 î.Hr.",
+      "title": "Primele ceremonii Kava în Vanuatu",
+      "description": "Pe insulele Vanuatu se dezvoltă primele ceremonii rituale Kava. Nakamal devine locul central de întâlnire.",
+      "details": "Prepararea prin mestecarea rădăcinii de către tineri se stabilește ca tradiție. Kava devine un mediu de comunicare cu strămoșii și spiritele.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Ceremonii",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "aproximativ 1500–1000 î.Hr.",
+      "title": "Expansiunea Lapita",
+      "description": "Cultura Lapita răspândește Kava prin expansiunea sa maritimă din Melanezia în Polinezia de Vest.",
+      "details": "Descoperirile arheologice ale ceramicii Lapita arată rutele de expansiune. Plantele de Kava sunt transportate ca butași pe canoele cu catamaran.",
+      "location": "Melanezia → Polinezia"
+    },
+    "fiji-arrival": {
+      "year": "aproximativ 1000 î.Hr.",
+      "title": "Kava ajunge în Fiji",
+      "description": "Kava este introdus în Fiji și cunoscut sub numele de 'Yaqona'. Ceremonii unice se dezvoltă în jurul Tanoa (bolul de Kava).",
+      "details": "Inițial, Kava era preparat în Fiji prin măcinare, nu prin mestecare. Legătura cu venerarea strămoșilor în Būrau (casele bărbaților) este stabilită.",
+      "location": "Fiji",
+      "links": [
+        {
+          "label": "Ceremonii Fiji",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Soiuri din Pacific",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "aproximativ 500 î.Hr.",
+      "title": "Kava în Tonga și Samoa",
+      "description": "Ceremonia 'Ava se dezvoltă în Tonga și Samoa într-o tradiție foarte formalizată cu o ierarhie strictă.",
+      "details": "Tou'a (mixerul de Kava) și Matāpule (maestrul ceremoniei) devin roluri rituale importante. Ordinea de băut reflectă ordinea socială.",
+      "location": "Tonga / Samoa",
+      "links": [
+        {
+          "label": "'Ava-Ceremonie",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "aproximativ 300–500 d.Hr.",
+      "title": "Kava ajunge în Hawaii",
+      "description": "Navigații polinezieni aduc Kava în Hawaii, unde devine cunoscut sub numele de 'Awa și este asociat cu zeița Hina.",
+      "details": "În Hawaii se dezvoltă o cultură unică a Kava cu legături cu ritualurile de vindecare ale Kahuna (preoți). Soiul 'Awa Hiwa este rezervat pentru scopuri ceremoniale.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Soiuri Hawaii",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "aproximativ 500 d.Hr.",
+      "title": "Cultura Sakau în Pohnpei",
+      "description": "Pe Pohnpei în Micronezia, ceremonia Sakau se dezvoltă ca o tradiție de sine stătătoare.",
+      "details": "Prepararea pe o piatră plată și presarea prin fibre de hibiscus devin caracteristici ale culturii Kava din Micronezia.",
+      "location": "Pohnpei (Micronezia)"
+    },
+    "fiji-tongan-influence": {
+      "year": "aproximativ 1750",
+      "title": "Influența tongană asupra Fiji",
+      "description": "Fiji adoptă ceremoniile Kava tongane: mestecarea, bolurile Tanoa și cupele Bilo devin standard.",
+      "details": "Ceremonia Sevusevu ca salut formal se stabilește. Misionarii creștini favorizează ceremoniile polineze mai 'civilizate'.",
+      "location": "Fiji"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "Primul contact european",
+      "description": "Navigații olandezi sub conducerea lui Jacob Le Maire și Willem Schouten ajung pe insulele din Pacific și documentează pentru prima dată Kava.",
+      "details": "Europenii descriu 'băutura ciudată' a localnicilor, dar nu înțeleg semnificația sa culturală.",
+      "location": "Pacific"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Documentația căpitanului Cook",
+      "description": "James Cook documentează în detaliu ceremoniile Kava în timpul călătoriilor sale în Pacific și aduce mostre în Europa.",
+      "details": "Raportările lui Cook despre ceremonia 'Ava din Tonga și Hawaii stârnesc interes științific în Europa. Botanistul Johann Georg Forster descrie planta pentru prima dată științific.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Istorie",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Clasificare științifică",
+      "description": "Johann Georg Forster clasifică Kava ca Piper methysticum ('plantă de piper intoxicant').",
+      "details": "Numele provine din grecescul 'methystikos' (intoxicant). Forster descrie planta în lucrarea sa 'De Plantis Esculentis Insularum Oceani Australis'.",
+      "location": "Europa",
+      "links": [
+        {
+          "label": "Botanică",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Opoziția misionară",
+      "description": "Misionarii creștini se opun Kava ca băutură 'păgână'. În unele regiuni, ceremoniile sunt interzise.",
+      "details": "Misionarii critică mestecarea ca fiind nesănătoasă și ceremoniile ca fiind 'leneșe, degradante, chiar demonice'. Pe Ost-Futuna, mestecarea este oprită în 1930 după un mandat misionar.",
+      "location": "Pacific",
+      "links": [
+        {
+          "label": "Influențe coloniale",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "Descoperirea kavalactonelor",
+      "description": "Chimisti germani izolează pentru prima dată substanțele active din Kava și le numesc 'Kavain'.",
+      "details": "Descoperirea pune bazele cercetării științifice a efectului Kava și aplicațiilor farmaceutice ulterioare.",
+      "location": "Germania",
+      "links": [
+        {
+          "label": "Kavalactone",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Dominația colonială germană",
+      "description": "Germania controlează părți din Pacific (Noua Guinee Germană, Samoa). Kava este cercetat științific.",
+      "details": "Oamenii de știință germani documentează soiuri de Kava și metode de preparare. Administrația colonială tolerează în mare parte consumul de Kava.",
+      "location": "Noua Guinee Germană / Samoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Cercetarea lui Louis Lewin",
+      "description": "Toxicologul german Louis Lewin publică studii cuprinzătoare despre Kava și o clasifică ca 'Euphorica'.",
+      "details": "Lucrarea lui Lewin 'Phantastica' devine lucrarea standard în psihofarmacologie. El descrie Kava ca fiind unul dintre cele mai importante stimulente ale umanității.",
+      "location": "Germania"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Independență & Renaștere culturală",
+      "description": "Statele din Pacific obțin independența. Kava revine ca simbol al identității culturale în spațiul public.",
+      "details": "Samoa (1962), Fiji (1970), Tonga (1970), Vanuatu (1980) devin independente. Ceremoniile Kava sunt celebrate la fondarea statelor și la ocazii oficiale.",
+      "location": "Pacific",
+      "links": [
+        {
+          "label": "Istoria modernă",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu devine independent",
+      "description": "Vanuatu obține independența de sub dominația colonială franco-britanică. Kava devine simbol național.",
+      "details": "Noua națiune face din Kava parte a identității sale. Nakamals devin instituții sociale importante în Port Vila și alte orașe.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "anilor 1990",
+      "title": "Studii clinice despre anxietate",
+      "description": "Primele studii clinice controlate arată efectul anxiolitic al extractelor de Kava.",
+      "details": "Meta-analizele confirmă eficiența Kava în tulburările de anxietate. Preparatele de Kava devin populare în Europa și SUA ca medicamente pe bază de plante.",
+      "location": "Europa / SUA",
+      "links": [
+        {
+          "label": "Studii",
+          "url": "/studien"
+        },
+        {
+          "label": "Efectul asupra anxietății",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "anilor 1990",
+      "title": "Primele baruri Kava în SUA",
+      "description": "În Florida și California se deschid primele baruri Kava occidentale ca alternativă fără alcool.",
+      "details": "Mișcarea barurilor Kava începe în orașe cu diasporă pacifică. Fort Lauderdale devine centrul scenei Kava din America.",
+      "location": "SUA (Florida)",
+      "links": [
+        {
+          "label": "Cultura modernă Kava",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal & baruri Kava",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Interdicția Kava în Germania",
+      "description": "Germania interzice preparatele de Kava după raportări despre daune hepatice. Alte țări din UE urmează.",
+      "details": "BfArM revocă autorizarea tuturor medicamentelor care conțin Kava. Decizia se bazează pe 30 de cazuri suspecte de hepatotoxicitate, dar este ulterior criticată ca fiind exagerată.",
+      "location": "Germania / UE",
+      "links": [
+        {
+          "label": "Siguranța ficatului",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Statutul legal",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Politica de export doar pentru Noble a Vanuatu",
+      "description": "Vanuatu introduce reguli stricte de export: doar soiurile Noble de Kava pot fi exportate.",
+      "details": "Politica are scopul de a asigura calitatea și de a proteja reputația Kava. Soiurile Tudei cu un conținut mai mare de DHM/DHK sunt excluse de la export.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Noble vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Soiuri din Vanuatu",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "Evaluarea riscurilor OMS",
+      "description": "OMS publică o evaluare cuprinzătoare a riscurilor și clasifică Kava preparată tradițional ca fiind sigură.",
+      "details": "Evaluarea face distincția între prepararea tradițională (sigură) și extracte (potențial problematice). Utilizarea părților non-rădăcină este identificată ca factor de risc.",
+      "location": "Internațional",
+      "links": [
+        {
+          "label": "Siguranță",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Reabilitarea în Germania",
+      "description": "Instanțele germane ridică interdicția Kava. Decizia inițială este considerată nejustificată științific.",
+      "details": "Curtea Administrativă Federală hotărăște că evaluarea riscurilor a fost eronată. Produsele Kava pot fi vândute din nou legal.",
+      "location": "Germania",
+      "links": [
+        {
+          "label": "Statutul legal",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Standardul Codex Alimentarius",
+      "description": "Codex Alimentarius adoptă un standard internațional pentru Kava ca băutură.",
+      "details": "Standardul definește criterii de calitate, limite de kavalactone și cerințe de etichetare. O piatră de temelie pentru comerțul internațional.",
+      "location": "Internațional"
+    },
+    "global-expansion": {
+      "year": "anilor 2020",
+      "title": "Expansiunea globală a barurilor Kava",
+      "description": "Peste 200 de baruri Kava se deschid în SUA. Mișcarea 'Sober Curious' impulsionează creșterea.",
+      "details": "Kava devine popular ca alternativă fără alcool pentru relaxare socială. Orașe precum Austin, Denver și New York dezvoltă scene Kava vibrante.",
+      "location": "SUA / Europa / Australia",
+      "links": [
+        {
+          "label": "Cultura modernă Kava",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "anilor 2020",
+      "title": "Provocările schimbărilor climatice",
+      "description": "Fermierii de Kava din Pacific se confruntă cu efectele schimbărilor climatice asupra recoltelor lor.",
+      "details": "Modelele de precipitații schimbate, ciclonele și temperaturile în creștere amenință zonele tradiționale de cultivare. Metodele de cultivare durabilă devin mai importante.",
+      "location": "Pacific",
+      "links": [
+        {
+          "label": "Cultivare",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "Astăzi",
+      "title": "Renaștere culturală",
+      "description": "Generațiile tinere din Pacific înființează 'Kava Collectives' și documentează cunoștințele tradiționale digital.",
+      "details": "Podcasturi, canale YouTube și conturi Instagram răspândesc cultura Kava la nivel mondial. Conexiunea dintre tradiție și modernitate creează noi forme de identitate culturală.",
+      "location": "Pacific / Global",
+      "links": [
+        {
+          "label": "Cultură & Tradiție",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Prezentare generală",
+    "events": "Evenimente",
+    "epochs": "Epoci",
+    "yearsOfHistory": "Ani de istorie",
+    "milestones": "Repere",
+    "keyMilestones": "Repere cheie",
+    "relatedPages": "Pagini conexe",
+    "noEventsFound": "Nu au fost găsite evenimente pentru aceste filtre.",
+    "resetFilters": "Resetare filtre",
+    "bce": "Î.H.",
+    "origins": "Originile",
+    "spreadPacific": "Răspândire în Pacific",
+    "modernHistory": "Istoria modernă",
+    "interactiveMap": "Hartă interactivă a lumii"
+  }
+}

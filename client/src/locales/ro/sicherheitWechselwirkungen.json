@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Interacțiuni cu medicamente",
+    "subtitle": "Kavalactonele inhibă enzimele hepatice importante: Ce trebuie să știți despre interacțiunile CYP450 și combinațiile sigure.",
+    "category": "Siguranță",
+    "breadcrumbs": {
+      "home": "Acasă",
+      "sicherheit": "Siguranță",
+      "current": "Interacțiuni"
+    }
+  },
+  "toc": {
+    "title": "Cuprins",
+    "zusammenfassung": "Rezumat",
+    "cyp450": "Sistemul CYP450",
+    "welcheEnzyme": "Enzime afectate",
+    "klinischeBedeutung": "Importanța clinică",
+    "hochrisiko": "Combinații cu risc ridicat",
+    "alkohol": "Alcool",
+    "benzodiazepine": "Benzodiazepine & somnifere",
+    "antipsychotika": "Antipsihotice",
+    "antikoagulantien": "Anticoagulante",
+    "moderatesRisiko": "Risc moderat",
+    "antidepressiva": "Antidepresive",
+    "antikonvulsiva": "Anticonvulsivante",
+    "parkinson": "Medicamente pentru Parkinson",
+    "hepatotoxisch": "Medicamente hepatotoxice",
+    "tabelle": "Tabel de interacțiuni",
+    "empfehlungen": "Recomandări practice",
+    "quellen": "Surse"
+  },
+  "navigation": {
+    "continueTitle": "Continuare în capitolul Siguranță",
+    "items": [
+      {
+        "title": "Prezentare generală",
+        "href": "/ro/siguranta",
+        "description": "Înapoi la prezentarea generală a siguranței"
+      },
+      {
+        "title": "Siguranța ficatului",
+        "href": "/ro/siguranta/ficat",
+        "description": "Hepatotoxicitate & interdicția din 2002"
+      },
+      {
+        "title": "Contraindicații",
+        "href": "/ro/siguranta/contraindicatii",
+        "description": "Când ar trebui evitat Kava"
+      },
+      {
+        "title": "Verificator de interacțiuni",
+        "href": "/ro/siguranta/verificator",
+        "description": "Verificați medicamentele dvs."
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Avertisment important",
+    "intro": "Kava are un <strong>potențial ridicat pentru interacțiuni medicamentoase</strong> prin inhibarea enzimelor citocrom P450. Nu combinați niciodată Kava cu:",
+    "items": [
+      {
+        "name": "Alcool",
+        "text": "Sedare accentuată și hepatotoxicitate"
+      },
+      {
+        "name": "Benzodiazepine",
+        "text": "Pericol de depresie respiratorie"
+      },
+      {
+        "name": "Antipsihotice",
+        "text": "Sedare accentuată, tulburări de mișcare"
+      },
+      {
+        "name": "Anticoagulante",
+        "text": "Risc de sângerare"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "Sistemul citocrom P450",
+    "intro": "Sistemul citocrom P450 (CYP450) este o familie de enzime din ficat, responsabile pentru metabolizarea majorității medicamentelor. Când o substanță inhibă aceste enzime, alte substanțe sunt metabolizate mai lent – efectul și efectele secundare pot fi astfel amplificate.",
+    "importance": {
+      "title": "De ce este important?",
+      "text": "Aproximativ <strong>70-80% din toate medicamentele</strong> sunt metabolizate prin enzimele CYP450. Când Kava inhibă aceste enzime, concentrația altor medicamente în sânge poate crește – uneori la valori periculoase. Acest lucru este valabil în special pentru medicamente cu <strong>fereastră terapeutică îngustă</strong>, unde modificările mici ale dozei pot avea efecte mari."
+    }
+  },
+  "enzyme": {
+    "title": "Ce enzime sunt inhibate?",
+    "intro": "Studii realizate de Mathews et al. (2002) și alți cercetători au arătat că kavalactonele inhibă mai multe enzime CYP450 importante:",
+    "headers": [
+      "Enzimă",
+      "Puterea inhibării",
+      "Substrate importante (exemple)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Puternic",
+        "substrates": "Cafeină, Teofilină, Clozapină, Olanzapină"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Puternic",
+        "substrates": "Warfarină, Fenitoină, AINS (Ibuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Moderat",
+        "substrates": "Omeprazol, Diazepam, Clopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Moderat",
+        "substrates": "Codeină, Tramadol, multe antidepresive"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Puternic",
+        "substrates": "Benzodiazepine, Statine, multe antibiotice"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Importanța clinică",
+    "text": "Un studiu realizat de Russmann et al. (2005) a arătat că și extractele tradiționale de Kava pe bază de apă inhibă CYP1A2 la oameni. Inhibarea a fost dependentă de doză și relevantă clinic. Aceasta înseamnă că chiar și Kava preparat tradițional poate provoca interacțiuni.",
+    "positive": {
+      "title": "Efect secundar pozitiv?",
+      "text": "Inhibarea CYP1A2 ar putea teoretic oferi un efect protector împotriva anumitor carcinogene de mediu activate prin această enzimă. Acest lucru ar putea explica de ce populațiile din Pacific, în ciuda consumului ridicat de Kava, au rate scăzute de cancer."
+    }
+  },
+  "hochrisiko": {
+    "title": "Combinații cu risc ridicat",
+    "intro": "Următoarele combinații ar trebui <strong>evitate cu orice preț</strong>. Ele pot duce la efecte secundare severe, potențial letale."
+  },
+  "alkohol": {
+    "title": "Alcool",
+    "risk": "FOARTE RIDICAT",
+    "intro": "Combinația de Kava și alcool este deosebit de periculoasă din mai multe motive:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Sedare sinergică",
+        "text": "Ambele substanțe au efect sedativ asupra sistemului nervos central. Efectul combinat este mai puternic decât suma efectelor individuale."
+      },
+      {
+        "number": "2.",
+        "label": "Hepatotoxicitate aditivă",
+        "text": "Ambele substanțe sunt metabolizate în ficat și pot provoca stres asupra acestuia. Combinația crește semnificativ riscul de leziuni hepatice."
+      },
+      {
+        "number": "3.",
+        "label": "Interacțiune CYP",
+        "text": "Alcoolul influențează de asemenea enzimele CYP, ceea ce poate duce la interacțiuni imprevizibile."
+      }
+    ],
+    "recommendation": "Recomandare: O pauză de cel puțin 24 de ore între consumul de alcool și Kava."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepine & somnifere",
+    "risk": "FOARTE RIDICAT",
+    "intro": "Benzodiazepinele (Diazepam, Lorazepam, Alprazolam etc.) și substanțele Z (Zolpidem, Zopiclon) nu ar trebui niciodată combinate cu Kava:",
+    "points": [
+      {
+        "label": "Sedare accentuată",
+        "text": "Ambele acționează asupra receptorilor GABA și se amplifică reciproc"
+      },
+      {
+        "label": "Depresie respiratorie",
+        "text": "Combinația poate încetini periculos respirația"
+      },
+      {
+        "label": "Inhibarea CYP3A4",
+        "text": "Kava încetinește metabolizarea benzodiazepinelor, ceea ce le prelungește efectul"
+      }
+    ],
+    "caseReportLabel": "Raport de caz:",
+    "caseReport": "Almeida & Grimsley (1996) au raportat despre un bărbat de 54 de ani care a intrat într-o stare semicomatosa după combinarea Kava cu Alprazolam."
+  },
+  "antipsychotika": {
+    "title": "Antipsihotice",
+    "risk": "RIDICAT",
+    "intro": "Antipsihotice precum Haloperidol, Risperidon, Olanzapină și Clozapină:",
+    "points": [
+      {
+        "label": "Sedare accentuată",
+        "text": "Efect aditiv de deprimare a SNC"
+      },
+      {
+        "label": "Simptome extrapiramidale",
+        "text": "Risc crescut de tulburări de mișcare"
+      },
+      {
+        "label": "Inhibarea CYP1A2/CYP2D6",
+        "text": "Metabolizare încetinită, niveluri mai mari în sânge"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Anticoagulante (substanțe care subțiază sângele)",
+    "risk": "RIDICAT",
+    "intro": "Warfarină și alți antagoniști ai vitaminei K:",
+    "points": [
+      {
+        "label": "Inhibarea CYP2C9",
+        "text": "Kava inhibă enzima care metabolizează warfarina"
+      },
+      {
+        "label": "INR crescut",
+        "text": "Tendință crescută la sângerare"
+      },
+      {
+        "label": "Risc de sângerare",
+        "text": "Poate duce la sângerări interne periculoase"
+      }
+    ],
+    "recommendation": "Kava este contraindicată în cazul administrării de anticoagulante."
+  },
+  "moderatesRisiko": {
+    "title": "Combinații cu risc moderat",
+    "intro": "Următoarele combinații necesită precauție și ar trebui efectuate doar după consultarea unui medic. O ajustare a dozei poate fi necesară."
+  },
+  "antidepressiva": {
+    "title": "Antidepresive",
+    "risk": "MODERAT",
+    "ssri": {
+      "title": "ISRS (Fluoxetin, Sertralin, Paroxetin etc.):",
+      "items": [
+        "Inhibarea CYP2D6 poate încetini metabolizarea",
+        "Risc teoretic de sindrom serotoninergic (scăzut)",
+        "Sedare accentuată posibilă"
+      ]
+    },
+    "snri": {
+      "title": "ISRN (Venlafaxin, Duloxetin):",
+      "items": [
+        "Interacțiuni similare cu ISRS",
+        "Inhibarea CYP2D6 relevantă pentru Venlafaxin"
+      ]
+    },
+    "mao": {
+      "title": "Inhibitori MAO:",
+      "items": [
+        "Kava inhibă MAO-B (slab)",
+        "Risc teoretic, dar puțin documentat clinic",
+        "Precauție cu inhibitori MAO ireversibili"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Anticonvulsivante (antiepileptice)",
+    "risk": "MODERAT",
+    "intro": "Fenitoină, Carbamazepină, Valproat și alte anticonvulsivante:",
+    "points": [
+      {
+        "label": "Interacțiuni CYP",
+        "text": "Niveluri de sânge modificate posibile"
+      },
+      {
+        "label": "Sedare accentuată",
+        "text": "Efect aditiv asupra SNC"
+      },
+      {
+        "label": "Controlul crizelor",
+        "text": "Ar putea fi afectat"
+      }
+    ],
+    "note": "În cazul epilepsiei, Kava ar trebui utilizată doar sub supravegherea unui medic."
+  },
+  "parkinson": {
+    "title": "Medicamente pentru Parkinson",
+    "risk": "MODERAT până la RIDICAT",
+    "intro": "Levodopa și agonisti ai dopaminei:",
+    "points": [
+      {
+        "label": "Antagonism dopaminergic",
+        "text": "Kava ar putea diminua efectul levodopiei"
+      },
+      {
+        "label": "Raport de caz",
+        "text": "A fost documentată o agravare a simptomelor Parkinson sub Kava"
+      }
+    ],
+    "recommendation": "În cazul bolii Parkinson, Kava este contraindicată."
+  },
+  "hepatotoxisch": {
+    "title": "Medicamente hepatotoxice",
+    "risk": "MODERAT",
+    "intro": "Medicamente cu potențial hepatotoxic cunoscut:",
+    "items": [
+      {
+        "name": "Paracetamol/Acetaminofen",
+        "text": "Probleme în special la doze mai mari"
+      },
+      {
+        "name": "Statine",
+        "text": "Atorvastatin, Simvastatin etc. (substrate CYP3A4)"
+      },
+      {
+        "name": "Metotrexat",
+        "text": "Imunosupresor cu hepatotoxicitate"
+      },
+      {
+        "name": "Isoniazid",
+        "text": "Medicament pentru tuberculoză"
+      }
+    ],
+    "note": "Combinația cu medicamente hepatotoxice crește riscul de leziuni hepatice."
+  },
+  "tabelle": {
+    "title": "Tabel de sinteză al interacțiunilor",
+    "headers": [
+      "Clasa substanței",
+      "Exemple",
+      "Risc",
+      "Mecanism"
+    ],
+    "rows": [
+      {
+        "class": "Alcool",
+        "examples": "Etanol",
+        "risk": "FOARTE RIDICAT",
+        "mechanism": "Sedare sinergică, hepatotoxicitate"
+      },
+      {
+        "class": "Benzodiazepine",
+        "examples": "Diazepam, Lorazepam, Alprazolam",
+        "risk": "FOARTE RIDICAT",
+        "mechanism": "Amplificare GABA, inhibare CYP3A4"
+      },
+      {
+        "class": "Antipsihotice",
+        "examples": "Haloperidol, Olanzapină, Clozapină",
+        "risk": "RIDICAT",
+        "mechanism": "Inhibare CYP1A2/2D6, sedare"
+      },
+      {
+        "class": "Anticoagulante",
+        "examples": "Warfarină, Fenprocoumon",
+        "risk": "RIDICAT",
+        "mechanism": "Inhibare CYP2C9, risc de sângerare"
+      },
+      {
+        "class": "ISRS",
+        "examples": "Fluoxetin, Sertralin, Paroxetin",
+        "risk": "MODERAT",
+        "mechanism": "Inhibare CYP2D6"
+      },
+      {
+        "class": "Anticonvulsivante",
+        "examples": "Fenitoină, Carbamazepină",
+        "risk": "MODERAT",
+        "mechanism": "Interacțiuni CYP, sedare"
+      },
+      {
+        "class": "Medicamente pentru Parkinson",
+        "examples": "Levodopa, agonisti ai dopaminei",
+        "risk": "MODERAT",
+        "mechanism": "Antagonism dopaminergic"
+      },
+      {
+        "class": "Statine",
+        "examples": "Atorvastatin, Simvastatin",
+        "risk": "MODERAT",
+        "mechanism": "Inhibare CYP3A4, hepatotoxicitate"
+      },
+      {
+        "class": "Opioide",
+        "examples": "Codeină, Tramadol, Morfină",
+        "risk": "MODERAT",
+        "mechanism": "Inhibare CYP2D6, sedare"
+      },
+      {
+        "class": "Cafeină",
+        "examples": "Cafea, băuturi energizante",
+        "risk": "SCĂZUT",
+        "mechanism": "Inhibare CYP1A2 (efect prelungit)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Recomandări practice",
+    "checklistTitle": "Listă de verificare înainte de consumul de Kava",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Verificați lista medicamentelor",
+        "text": "Verificați toate medicamentele actuale pentru interacțiuni"
+      },
+      {
+        "number": "2.",
+        "label": "Consultați medicul",
+        "text": "Obțineți sfatul medicului înainte de consumul de Kava în cazul administrării regulate de medicamente"
+      },
+      {
+        "number": "3.",
+        "label": "Evitați alcoolul",
+        "text": "Nu consumați alcool cu cel puțin 24 de ore înainte și după consumul de Kava"
+      },
+      {
+        "number": "4.",
+        "label": "Dozare redusă",
+        "text": "Începeți cu o doză mai mică de Kava în cazul administrării simultane de medicamente"
+      },
+      {
+        "number": "5.",
+        "label": "Observați simptomele",
+        "text": "Fiți atenți la oboseală neobișnuită, amețeli sau alte simptome"
+      }
+    ],
+    "professionalNote": {
+      "title": "Notă pentru medici și farmacii",
+      "text": "Pentru pacienții care consumă Kava, ar trebui efectuată o revizuire a medicației pentru substraturi CYP450. O atenție deosebită este necesară pentru medicamente cu fereastră terapeutică îngustă. O ajustare a dozei poate fi necesară."
+    }
+  },
+  "quellen": {
+    "title": "Surse",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Inhibarea activităților citocrom P450 uman de către extractul de Kava și kavalactone.",
+        "source": "Metabolismul medicamentelor și dispoziția."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Interacțiuni farmacocinetice și farmacodinamice cu Kava.",
+        "source": "Jurnalul de etnofarmacologie."
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "Extractele tradiționale de Kava pe bază de apă inhibă citocrom P450 1A2 la oameni.",
+        "source": "Farmacologie clinică & terapeutică."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Potentia pentru interacțiunea Kava și sunătoare cu medicamente.",
+        "source": "Jurnalul de etnofarmacologie."
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "Inhibarea citocrom P450 3A4 de către extractele și kavalactonele Piper methysticum.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "O listă completă a tuturor studiilor citate poate fi găsită pe pagina noastră de",
+    "studiesLink": "studiu"
+  }
+}

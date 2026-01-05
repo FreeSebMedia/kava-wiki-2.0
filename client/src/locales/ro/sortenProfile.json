@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Profiluri de soiuri în detaliu",
+    "subtitle": "Fișe detaliate ale celor mai importante soiuri de Kava cu tipuri chimice, efecte și recomandări.",
+    "category": "Soiuri"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "sorten": "Soiuri",
+    "current": "Profiluri"
+  },
+  "toc": {
+    "title": "Conținut",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Prezentare generală",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Preferințele mele",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Filtru de efecte",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Soiuri Heady",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Soiuri Balanced",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Soiuri Heavy",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Compararea soiurilor",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Origine",
+    "chemotype": "Tip chimic",
+    "duration": "Durată efect",
+    "strength": "Putere",
+    "hits": "Rezultate",
+    "low": "Scăzut",
+    "high": "Puternic",
+    "variety": "Soi",
+    "region": "Regiune",
+    "type": "Tip",
+    "bestUse": "Cea mai bună utilizare",
+    "resetFilters": "Resetare filtre",
+    "matchingCriteria": "din {total} soiuri corespund criteriilor dumneavoastră",
+    "noMatching": "Niciun soi {category} nu corespunde criteriilor actuale de filtrare.",
+    "toComparison": "Pentru compararea interactivă a soiurilor"
+  },
+  "overview": {
+    "intro": "Această pagină oferă o prezentare generală cuprinzătoare a celor mai importante <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a>, ordonate după tipul lor de efect. Folosiți aceste profiluri pentru a găsi soiul perfect pentru nevoile dumneavoastră.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Concentrat pe cap, euforic, social. Ideal pentru zi.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Echilibrat, versatil. Bun pentru orice moment al zilei.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Concentrat pe corp, sedativ. Ideal pentru seară.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Filtru de efecte",
+    "description": "Filtrați soiurile după efectele dorite. Mișcați glisoarele pentru a afișa doar soiurile cu cel puțin valoarea aleasă.",
+    "euphoria": "Euforie",
+    "relaxation": "Relaxare",
+    "sleepy": "Somnoros"
+  },
+  "sections": {
+    "heady": {
+      "title": "Soiuri Heady",
+      "description": "Kava Heady sunt concentrate pe cap și generează euforie, claritate mentală și sociabilitate. Sunt ideale pentru consumul diurn, ocazii sociale și muncă creativă. Tipul chimic începe de obicei cu 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Soiuri Balanced",
+      "description": "Kava Balanced oferă un efect echilibrat între cap și corp. Sunt versatile și se potrivesc atât pentru zi, cât și pentru seară. Ideale pentru <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">rezolvarea anxietății</a> și relaxare generală."
+    },
+    "heavy": {
+      "title": "Soiuri Heavy",
+      "description": "Kava Heavy sunt concentrate pe corp și generează o profundă <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">relaxare musculară</a> și sedare. Sunt ideale pentru seară, în caz de <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">probleme de somn</a> și pentru recuperarea fizică. Tipul chimic are adesea DHK (2) într-o poziție proeminentă."
+    }
+  },
+  "comparison": {
+    "title": "Compararea soiurilor",
+    "description": "Această tabelă oferă o privire rapidă asupra tuturor soiurilor importante. Folosiți și <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">instrumentul nostru de comparare interactiv</a> pentru comparații detaliate.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 ore",
+      "strength": 4,
+      "description": "Kava legendar euforic, ca un șampanie printre Kava.",
+      "recommended": [
+        "Ocazii sociale",
+        "Muncă creativă",
+        "Consum diurn"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 ore",
+      "strength": 4,
+      "description": "Kava popular din Vanuatu, versatil cu un efect inițial concentrat pe cap.",
+      "recommended": [
+        "Ocazii sociale",
+        "Consum de seară",
+        "Începători"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 ore",
+      "strength": 3,
+      "description": "Cel mai popular Kava de zi, blând și prietenos cu începătorii.",
+      "recommended": [
+        "Începători",
+        "Muncă",
+        "Ocazii sociale"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 ore",
+      "strength": 4,
+      "description": "Awa regal, extrem de cerebral și clarificator mental.",
+      "recommended": [
+        "Meditație",
+        "Muncă creativă",
+        "Cognitie"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 ore",
+      "strength": 3,
+      "description": "Soi rar euforic, foarte apreciat.",
+      "recommended": [
+        "Ocazii sociale",
+        "Îmbunătățirea stării de spirit"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 ore",
+      "strength": 3,
+      "description": "Cel mai bun allrounder, blând și echilibrat.",
+      "recommended": [
+        "Începători",
+        "Rezolvarea anxietății",
+        "Utilizare zilnică"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 ore",
+      "strength": 4,
+      "description": "Kava popular din Vanuatu, fiabil și versatil.",
+      "recommended": [
+        "Consum de seară",
+        "Relaxare",
+        "Începători"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 ore",
+      "strength": 4,
+      "description": "Kava puternic cu o bună echilibrare între cap și corp.",
+      "recommended": [
+        "Utilizatori experimentați",
+        "Consum de seară"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 ore",
+      "strength": 3,
+      "description": "Kava echilibrat din Fiji, versatil.",
+      "recommended": [
+        "Utilizare zilnică",
+        "Relaxare"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 ore",
+      "strength": 5,
+      "description": "Unul dintre cei mai puternici Kava Heavy, sedare profundă.",
+      "recommended": [
+        "Probleme de somn",
+        "Relaxare musculară",
+        "Seară"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 ore",
+      "strength": 5,
+      "description": "Kava extrem de potent din Fiji, sedativ puternic.",
+      "recommended": [
+        "Utilizatori experimentați",
+        "Probleme de somn"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 ore",
+      "strength": 4,
+      "description": "Fratele mai mic al lui Palasa, puțin mai blând dar similar.",
+      "recommended": [
+        "Începători în Heavy",
+        "Consum de seară"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 ore",
+      "strength": 5,
+      "description": "Awa ceremonial hawaian, foarte puternic.",
+      "recommended": [
+        "Ceremonii",
+        "Somn",
+        "Experimentați"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Social, Creativ"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Începători, Zi"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Meditație, Cognitie"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "243156",
+      "bestUse": "Anxietate, Allrounder"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Seară, Relaxare"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "423561",
+      "bestUse": "Experimentați, Seară"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Heavy",
+      "chemotype": "423651",
+      "bestUse": "Somn, Muscular"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Experimentați, Somn"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Ceremonii, Somn"
+    }
+  ]
+}

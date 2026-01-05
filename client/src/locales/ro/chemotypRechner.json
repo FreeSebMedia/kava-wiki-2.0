@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Calculator de Chemotip",
+    "subtitle": "Introduceți un chemotip de 6 cifre și aflați efectul așteptat și recomandările.",
+    "category": "Interactiv"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "inhaltsstoffe": "Ingrediente",
+    "current": "Calculator de Chemotip"
+  },
+  "toc": {
+    "title": "Conținut",
+    "rechner": "Calculator de Chemotip",
+    "anleitung": "Cum funcționează",
+    "beispiele": "Chemotipuri Exemplu",
+    "legende": "Legendă Kavalacton"
+  },
+  "rechner": {
+    "title": "Introduceți chemotipul",
+    "subtitle": "6 cifre de la 1 la 6, fiecare exact o dată",
+    "placeholder": "de ex. 426531",
+    "analyzeButton": "Analizează",
+    "knownVariety": "Sorte cunoscută"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Focalizare & Euforie",
+      "description": "Crește dopamina, promovează focalizarea și o ușoară euforie"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Relaxare musculară",
+      "description": "Relaxare musculară puternică și efect analgezic"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "Activitate CB1",
+      "description": "Acționează asupra sistemului endocannabinoid, ușor stimulativ"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Anxiolitic",
+      "description": "Ingredient activ principal pentru reducerea anxietății și claritate mentală"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Sedare lungă",
+      "description": "Sedare puternică, descompunere lentă – marker Tudei"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Sedare",
+      "description": "Sedativ și neuroprotector"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Invalid",
+      "description": "Vă rugăm să introduceți un chemotip valid de 6 cifre (cifre 1-6, fiecare exact o dată)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Acest chemotip indică Kava Tudei. DHM (5) în poziția 1 sau 2 înseamnă o durată foarte lungă de acțiune cu posibile efecte secundare."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Sorte dominantă în Kavain cu efecte primar mentale. Ideal pentru ocazii sociale și muncă creativă."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Sorte echilibrată cu Kavain și DHK în primele poziții. Combină claritatea mentală cu relaxarea corporală."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Sorte dominantă în Dihydrokavain cu efecte primar corporale. Ideal pentru relaxare și reducerea stresului."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Sorte echilibrată cu o combinație de efecte mentale și corporale. Versatil."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) într-o poziție proeminentă – tipic pentru Kava Tudei",
+    "tudeiSideEffects": "Posibile efecte secundare: greață, 'mahmureală' lungă, amețeală",
+    "tudeiNotRecommended": "Nu este potrivit pentru consum regulat",
+    "dhmPosition1": "DHM în poziția 1: Sedare foarte puternică și de lungă durată",
+    "dhmPosition2": "DHM în poziția 2: Sedare crescută, durată de acțiune mai lungă"
+  },
+  "strengths": {
+    "headyClear": "Efect clar, concentrat fără sedare puternică",
+    "headyMood": "Îmbunătățire bună a stării de spirit și reducerea anxietății",
+    "headyBeginner": "Ideal pentru începători",
+    "headyBalancedBest": "Combinația ideală între efecte mentale și corporale",
+    "headyBalancedMental": "Claritate mentală cu relaxare ușoară",
+    "headyBalancedBody": "Relaxare ușoară a mușchilor fără sedare puternică",
+    "heavyMuscle": "Relaxare musculară puternică",
+    "heavyPain": "Efect analgezic bun",
+    "heavyRelax": "Relaxare corporală profundă",
+    "balancedBoth": "Efect echilibrat asupra corpului și minții",
+    "balancedVersatile": "Versatil",
+    "balancedDaily": "Sorte bună pentru utilizare zilnică",
+    "methysticinNeuro": "Methysticin proeminent: Proprietăți neuroprotectoare bune",
+    "yangoninStim": "Yangonin proeminent: Componentă ușor stimulativă",
+    "dmyDopamine": "DMY proeminent: Efect crescut asupra dopaminei, mai multă euforie"
+  },
+  "effects": {
+    "headyEffects": [
+      "Claritate mentală",
+      "Reducerea anxietății",
+      "Ușoară euforie"
+    ],
+    "headyBalancedEffects": [
+      "Claritate mentală",
+      "Relaxare ușoară a mușchilor",
+      "Îmbunătățirea stării de spirit"
+    ],
+    "heavyEffects": [
+      "Relaxare musculară",
+      "Calm corporal",
+      "Promovează somnul"
+    ],
+    "balancedEffects": [
+      "Relaxare echilibrată",
+      "Reducerea moderată a anxietății",
+      "Relaxare ușoară a mușchilor"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Ocazii sociale",
+      "Muncă creativă",
+      "În timpul zilei sau seara devreme"
+    ],
+    "headyBalancedUse": [
+      "Utilizare versatilă",
+      "Ocazii sociale cu relaxare",
+      "După-amiază până seara"
+    ],
+    "heavyUse": [
+      "Relaxare seara",
+      "După efort fizic",
+      "Pregătire pentru somn"
+    ],
+    "balancedUse": [
+      "Utilizare zilnică",
+      "Meditație",
+      "Utilizare flexibilă"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Ordinea Kavalacton",
+    "strengthsTitle": "Punctele forte ale acestui chemotip",
+    "dominantEffects": "Efecte dominante",
+    "recommendedUseTitle": "Utilizare recomandată"
+  },
+  "anleitung": {
+    "title": "Cum funcționează",
+    "paragraph1": "Chemotipul este un cod de 6 cifre care listează cele șase principale kavalactone în ordine descrescătoare a concentrației lor. Prima cifră reprezintă kavalactonul cu cea mai mare concentrație, iar ultima pe cel cu cea mai mică.",
+    "rulesTitle": "Cele mai importante reguli:",
+    "rules": [
+      {
+        "label": "Poziția 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava – efect mental, focalizare, reducerea anxietății"
+      },
+      {
+        "label": "Poziția 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – efect corporal, relaxare musculară"
+      },
+      {
+        "label": "Poziția 1 sau 2 = 5 (DHM)",
+        "text": "⚠️ Kava Tudei – efect foarte lung, posibile efecte secundare"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Chemotipuri Exemplu",
+    "intro": "Faceți clic pe un chemotip exemplu pentru a-l analiza:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Legendă Kavalacton",
+    "intro": "Prezentare generală a celor șase principale kavalactone și efectele lor:"
+  },
+  "hint": {
+    "title": "Notă:",
+    "text": "Această analiză se bazează pe linii directoare generale. Efectul real poate varia în funcție de calitate, preparare și sensibilitate individuală. Pentru informații detaliate, vizitați pagina noastră despre",
+    "linkText": "sistemul de chemotip"
+  }
+}

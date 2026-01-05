@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Botânica de <em>Piper methysticum</em>",
+    "subtitle": "Uma visão profunda sobre a taxonomia, morfologia e ecologia da planta Kava.",
+    "category": "Botânica"
+  },
+  "toc": {
+    "einfuehrung": "Introdução",
+    "klassifikation": "Classificação Científica",
+    "ueberblick": "Visão Geral Morfológica",
+    "verbreitung": "Distribuição & Habitat",
+    "vertiefung": "Artigos Aprofundados"
+  },
+  "intro": {
+    "paragraph1": "<strong><em>Piper methysticum</em></strong>, conhecido como Kava ou Kava-Kava, é um arbusto tropical da família das piperáceas (Piperaceae). O nome <em>Piper methysticum</em> significa \"pimenta intoxicante\" (do grego <em>methystikos</em> = intoxicante).",
+    "paragraph2": "Ao contrário de muitas outras plantas psicoativas, a Kava não contém alcaloides como principais compostos ativos, mas uma classe única de compostos conhecidos como <strong>Kavalactonas</strong>. A planta desempenha um papel central nas culturas do Pacífico há milênios e é hoje o resultado de milênios de seleção humana."
+  },
+  "classification": {
+    "title": "Classificação Científica",
+    "headers": {
+      "rank": "Classificação",
+      "name": "Nome Científico"
+    },
+    "ranks": {
+      "reich": "Reino",
+      "abteilung": "Filo",
+      "ordnung": "Ordem",
+      "familie": "Família",
+      "gattung": "Gênero",
+      "art": "Espécie"
+    },
+    "values": {
+      "reich": "Plantae (Plantas)",
+      "abteilung": "Tracheophyta (Plantas Vasculares)",
+      "ordnung": "Piperales (Piperáceas)",
+      "familie": "Piperaceae (Piperáceas)",
+      "gattung": "Piper (Pimenta)",
+      "art": "<em>Piper methysticum</em> G. Forst."
+    },
+    "note": "A espécie mais próxima é <em>Piper wichmannii</em>, considerada a forma selvagem da planta Kava cultivada atualmente. Enquanto <em>P. wichmannii</em> (frequentemente chamada de \"Kava Selvagem\") pode se reproduzir sexualmente, a <em>P. methysticum</em> cultivada é estéril e totalmente dependente do ser humano."
+  },
+  "morphology": {
+    "title": "Visão Geral Morfológica",
+    "intro": "A Kava é um arbusto perene e sempre verde, que tipicamente atinge uma altura de 1,5 a 3 metros, mas sob condições ideais pode crescer até 5 metros.",
+    "aboveGround": {
+      "title": "Partes Aéreas",
+      "leaves": "<strong>Folhas:</strong> Grandes, em forma de coração (cordadas), 20-30 cm de largura",
+      "stems": "<strong>Caules:</strong> Nodosos, semelhantes ao bambu, coloração específica da variedade",
+      "flowers": "<strong>Flores:</strong> Em espiga, estéreis (sem sementes)"
+    },
+    "belowGround": {
+      "title": "Partes Subterrâneas",
+      "stump": "<strong>Colmo (Cormo):</strong> Raiz espessa e lenhosa",
+      "roots": "<strong>Raízes laterais (Waka):</strong> Raízes mais finas, com o maior teor de Kavalactona",
+      "weight": "<strong>Peso:</strong> 5-25 kg em plantas maduras (3-5+ anos)"
+    }
+  },
+  "distribution": {
+    "title": "Distribuição & Habitat",
+    "intro": "A Kava é nativa do oeste do Pacífico. A área de origem é suspeita de estar no norte de Vanuatu, onde há a maior diversidade genética. A partir daí, a planta foi disseminada por navegadores polinésios (\"Plantas de Canoas\") por todo o Pacífico.",
+    "regionsIntro": "Hoje, a Kava é cultivada principalmente nas seguintes regiões:",
+    "regions": {
+      "vanuatu": "<strong>Vanuatu:</strong> O maior produtor do mundo com mais de 80 variedades diferentes.",
+      "fiji": "<strong>Fiji:</strong> Conhecido por \"Waka\" (raízes) e \"Lewena\" (caule basal).",
+      "tonga": "<strong>Tonga:</strong> Produz Kavas muito suaves e \"cremosas\" (por exemplo, Pouni Ono).",
+      "samoa": "<strong>Samoa:</strong> Kava é chamada aqui de 'Ava.",
+      "hawaii": "<strong>Havai:</strong> Kava é chamada aqui de 'Awa (por exemplo, Moi, Mahakea).",
+      "pohnpei": "<strong>Pohnpei & Micronésia:</strong> Conhecido pelo consumo de suco de Kava fresco (\"Sakau\")."
+    }
+  },
+  "subpages": {
+    "title": "Artigos Aprofundados",
+    "intro": "Explore as seguintes subpáginas para informações detalhadas sobre aspectos específicos da botânica da Kava.",
+    "pflanze": {
+      "title": "A Planta",
+      "description": "Taxonomia, nomenclatura e a relação entre <em>Piper methysticum</em> e sua forma selvagem <em>Piper wichmannii</em>.",
+      "topics": [
+        "Classificação Taxonômica",
+        "Significado do Nome",
+        "Domesticação & Evolução",
+        "Kava como Patrimônio Cultural Vivo"
+      ]
+    },
+    "morphologie": {
+      "title": "Morfologia",
+      "description": "Anatomia detalhada da planta Kava com foco especial no sistema radicular economicamente significativo.",
+      "topics": [
+        "Sistema Radicular (Colmo & Waka)",
+        "Distribuição de Kavalactona",
+        "Caules & Folhas",
+        "Flores & Esterilidade"
+      ]
+    },
+    "anbau": {
+      "title": "Cultivo & Ecologia",
+      "description": "Condições de crescimento, métodos de propagação e a arte do cultivo tradicional de Kava.",
+      "topics": [
+        "Propagação Vegetativa",
+        "Requisitos Climáticos",
+        "Características do Solo",
+        "Colheita & Fatores de Qualidade"
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Componente & Chimie",
+    "subtitle": "Secretele farmacologice ale Piper methysticum: Kavalactone, tipuri chimice și mecanisme de acțiune.",
+    "category": "Componente"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "current": "Componente"
+  },
+  "toc": {
+    "title": "Cuprins",
+    "uebersicht": "Prezentare generală a substanțelor active",
+    "kavalactone": "Cele 6 Kavalactone principale",
+    "chemotypen": "Sistemul de tipuri chimice",
+    "synergien": "Sinergii & Efectul entourage",
+    "weitere": "Alte componente",
+    "unterseiten": "Articole detaliate"
+  },
+  "uebersicht": {
+    "paragraph1": "Efectul psihoactiv al Kava este generat în principal de un grup de compuși cunoscuți sub numele de <strong>Kavalactone</strong> (sau Kava-Pyone). Spre deosebire de multe alte plante psihoactive (cum ar fi cafeaua sau ceaiul), Kava nu conține alcaloizi ca substanțe active principale.",
+    "paragraph2": "Până în prezent, au fost identificate 18 Kavalactone diferite, dintre care șase sunt responsabile pentru peste 96% din efectul farmacologic. Aceste șase \"Kavalactone principale\" constituie baza pentru clasificarea și determinarea calității Kava."
+  },
+  "kavalactone": {
+    "title": "Cele 6 Kavalactone principale",
+    "intro": "Fiecare Kavalacton are un profil de acțiune unic. Efectul total al unei varietăți de Kava rezultă din raportul specific de amestec al acestor șase componente.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "Nume",
+      "abbreviation": "Abreviere",
+      "effect": "Efect principal"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Focalizare, creșterea dopaminelor, euforie"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Relaxare musculară puternică, analgezie (reducerea durerii)"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "Stimulent, acționează asupra receptorilor CB1 (sistemul endocanabinoid)"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anxiolitic (reduce anxietatea), îmbunătățește starea de spirit, concentrare mentală. Responsabil pentru efectul \"Heady\"."
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Sedativ, de lungă durată. Concentrații mari pot provoca greață (tipic pentru Kava Tudei)."
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Foarte sedativ, anxiolitic, neuroprotector."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Sistemul de tipuri chimice",
+    "intro": "Pentru a prezice efectul unei varietăți de Kava, se folosește un cod de 6 cifre care listează Kavalactonele în ordinea descrescătoare a concentrației lor. Acest lucru se numește <strong>tip chimic</strong>.",
+    "exampleTitle": "Exemplu: Tip chimic 426531",
+    "exampleText": "Aceasta înseamnă că <strong>Kavain (4)</strong> are cea mai mare concentrație, urmată de <strong>Dihydrokavain (2)</strong>, apoi <strong>Methysticin (6)</strong>, etc.",
+    "nobleTudeiTitle": "Kava Noble vs. Kava Tudei",
+    "nobleTudeiIntro": "Tipul chimic este cel mai important instrument pentru a distinge între \"Kava Noble\" (Kava de calitate) și \"Kava Tudei\" (Kava de două zile) de calitate inferioară.",
+    "nobleDescription": "<strong>Kava Noble:</strong> Tipurile chimice încep de obicei cu <strong>4</strong> (Kavain) sau <strong>2</strong> (Dihydrokavain). Acest lucru asigură un efect plăcut, anxiolitic, fără o \"mahmureală\" prelungită.",
+    "nobleCodes": "Coduri tipice: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Kava Tudei:</strong> Tipurile chimice încep adesea cu <strong>5</strong> (Dihydromethysticin) sau <strong>2</strong> cu un conținut foarte mare de 5. DHM se descompune foarte lent și poate duce la oboseală și greață care durează zile întregi.",
+    "tudeiCodes": "Coduri tipice: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Sinergii & Efectul entourage",
+    "paragraph1": "La fel ca în cazul canabisului (terpene & canabinoide), extractul total de Kava este mai eficient decât Kavalactonele izolate. Acest lucru se numește efectul entourage.",
+    "paragraph2": "Kavainul izolat are un efect anxiolitic, dar combinația cu Yangonin (inhibarea MAO-B) și Desmethoxyyangonin (creșterea dopaminelor) amplifică semnificativ efectul de îmbunătățire a stării de spirit. Prin urmare, preparatele tradiționale sau extractele cu spectru complet sunt preferate în fața substanțelor active izolate."
+  },
+  "weitere": {
+    "title": "Alte componente",
+    "intro": "Pe lângă Kavalactone, rădăcina conține:",
+    "items": [
+      {
+        "label": "Flavokavine (A, B, C)",
+        "text": "Chalkone cu proprietăți potențial antitumorale, dar și suspectate de a fi citotoxice la doze extrem de mari (în principal în soiurile Tudei)."
+      },
+      {
+        "label": "Alcaloizi",
+        "text": "Pipermethystin se găsește în principal în <strong>frunze și tulpini</strong>, nu în rădăcină. Este toxic și un motiv principal pentru care tradițional se consumă doar rădăcinile."
+      },
+      {
+        "label": "Amidon & Fibre",
+        "text": "Reprezintă aproximativ 43% din masa uscată și asigură consistența tipică a băuturii."
+      },
+      {
+        "label": "Minerale",
+        "text": "Potasiu, Calciu, Magneziu."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "Articole detaliate",
+    "intro": "Pentru informații mai detaliate despre fiecare subiect, vizitați paginile noastre specializate:",
+    "kavalactoneTitle": "Cele 6 Kavalactone principale",
+    "kavalactoneDescription": "Profiluri detaliate de acțiune pentru Kavain, Dihydrokavain, Methysticin, Dihydromethysticin, Yangonin și Desmethoxyyangonin.",
+    "chemotypenTitle": "Sistemul de tipuri chimice",
+    "chemotypenDescription": "Cum codul de 6 cifre prezice efectul și distinge Kava Noble de Tudei.",
+    "learnMore": "Află mai multe"
+  }
+}
