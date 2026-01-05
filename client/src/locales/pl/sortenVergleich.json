@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Porównanie odmian",
+    "subtitle": "Porównaj dwie odmiany Kava obok siebie"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "sorten": "Odmiany",
+    "current": "Porównanie"
+  },
+  "ui": {
+    "selectVariety": "Wybierz odmianę...",
+    "firstVariety": "Pierwsza odmiana",
+    "secondVariety": "Druga odmiana",
+    "toProfile": "Do profilu odmiany",
+    "potency": "Moc",
+    "badgeInfo": "Odznaki <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> pokazują różnicę w porównaniu do drugiej odmiany"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Zrównoważony",
+    "heavy": "Ciężki"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Porównanie profilu działania"
+    },
+    "basicInfo": {
+      "title": "Podstawowe informacje"
+    },
+    "dosage": {
+      "title": "Zalecana dawka"
+    },
+    "applications": {
+      "title": "Obszary zastosowania"
+    },
+    "usageTimes": {
+      "title": "Czasy przyjmowania"
+    },
+    "kavalactones": {
+      "title": "Profil kavalaktonów"
+    },
+    "notes": {
+      "title": "Uwagi"
+    }
+  },
+  "effects": {
+    "euphoria": "Euforia",
+    "relaxation": "Relaks",
+    "sedation": "Sedacja",
+    "clarity": "Jasność",
+    "sociability": "Towarzyskość",
+    "anxiolysis": "Leczenie lęku"
+  },
+  "info": {
+    "chemotype": "Chemotyp",
+    "duration": "Czas działania",
+    "availability": "Dostępność",
+    "price": "Cena"
+  },
+  "dosageLabels": {
+    "beginner": "Początkujący",
+    "regular": "Regularny",
+    "experienced": "Doświadczony"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methystycyna",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmetoksyyangonin"
+  },
+  "empty": {
+    "title": "Wybierz dwie odmiany do porównania",
+    "description": "Skorzystaj z rozwijanych menu powyżej, aby wybrać dwie odmiany Kava i bezpośrednio porównać ich właściwości, efekty i zalecenia.",
+    "tips": {
+      "title": "Porady dotyczące porównania",
+      "items": [
+        "Porównuj odmiany z tej samej kategorii dla podobnych profili działania",
+        "Porównuj Heady z Heavy dla przeciwnych doświadczeń",
+        "Zwróć uwagę na różnice chemotypowe dla naukowych wglądów"
+      ]
+    },
+    "quickSelections": "Szybki wybór",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Klasyki Vanuatu",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Rekomendacja dla początkujących",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "FAQ – Alt om Kava",
+    "badge": "Ofte stilte spørsmål",
+    "description": "Svar på de vanligste spørsmålene om Kava – fra virkning og dosering til sikkerhet og lovlighet. Vitenskapelig fundert og forståelig forklart."
+  },
+  "ui": {
+    "searchPlaceholder": "Søk etter spørsmål...",
+    "categories": "Kategorier",
+    "all": "Alle",
+    "results": "Resultater",
+    "clearFilters": "Tilbakestill filtre",
+    "noResults": "Ingen resultater funnet",
+    "noResultsHint": "Prøv med andre søkeord eller velg en annen kategori.",
+    "showAll": "Vis alle spørsmål",
+    "relatedArticles": "Relaterte artikler:",
+    "questionNotAnswered": "Ditt spørsmål er ikke med?",
+    "contactHint": "Kontakt oss, så hjelper vi deg gjerne. Vi utvider våre FAQ regelmessig basert på deres spørsmål.",
+    "getInTouch": "Ta kontakt",
+    "viewGlossary": "Se ordliste"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "Grunnleggende",
+      "description": "Grunnleggende informasjon om Kava, dens opprinnelse og botanikk"
+    },
+    "wirkung": {
+      "name": "Virkning & Effekter",
+      "description": "Hvordan Kava virker, virkningsvarighet og erfaringer"
+    },
+    "sicherheit": {
+      "name": "Sikkerhet & Bivirkninger",
+      "description": "Bivirkninger, risikoer og interaksjoner"
+    },
+    "dosierung": {
+      "name": "Dosering & Inntak",
+      "description": "Anbefalte mengder og ulike inntaksformer"
+    },
+    "zubereitung": {
+      "name": "Zubereiding",
+      "description": "Tradisjonelle og moderne tilberedningsmetoder"
+    },
+    "kauf": {
+      "name": "Kjøp & Lovlighet",
+      "description": "Kilder og juridisk situasjon i Tyskland og EU"
+    },
+    "vergleiche": {
+      "name": "Sammenligninger",
+      "description": "Kava sammenlignet med andre kosttilskudd"
+    },
+    "kultur": {
+      "name": "Kultur & Tradisjon",
+      "description": "Seremonier, tradisjoner og kulturell betydning"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "Hva er Kava (Kava-Kava)?",
+      "answer": "Kava (Piper methysticum) er en planteart fra familien pepperplanter (Piperaceae), som har vært dyrket i Stillehavsregionen i over 3.000 år. Navnet oversettes til \"ruspepper\". Røttene til planten inneholder Kavalaktone – bioaktive forbindelser med avslappende, angstdempende og humørhevende egenskaper. Kava tilberedes tradisjonelt som en drikk og spiller en sentral rolle i kulturene i Vanuatu, Fiji, Tonga, Samoa og Hawaii.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "Botanikk av Piper methysticum"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Historie om Kava"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Hva betyr Piper methysticum?",
+      "answer": "Piper methysticum er det vitenskapelige (latinske) navnet på Kava-planten. \"Piper\" betyr pepper og refererer til plantefamilien pepperplanter. \"Methysticum\" stammer fra det greske ordet \"methystikos\" og betyr \"rusgivende\" eller \"som gjør beruset\". Navnet ble gitt i 1777 av Johann Georg Forster, som vitenskapelig beskrev planten under James Cooks andre verdensomseiling.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "Kava-planten"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "Hvor kommer Kava opprinnelig fra?",
+      "answer": "Kava stammer opprinnelig fra det vestlige Stillehavet, med Vanuatu som opprinnelsesregion. Der finnes den største genetiske variasjonen med over 80 forskjellige varianter. Planten ble domestisert fra den ville arten Piper wichmannii for omtrent 3.000 år siden og ble spredt over hele Stillehavet av polynesiske sjøfarere som \"Canoe Plant\" – til Fiji, Tonga, Samoa, Hawaii og Pohnpei.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "Interaktiv Kava-verdenkart"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Historie om Kava"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "Hva er Kava-roten?",
+      "answer": "Kava-roten er den delen av planten som brukes til å tilberede drikken. Den består av to hoveddeler: stammen (også kalt \"Corm\" eller \"Lewena\") – den tykke, vedaktige rotstokken – og sidestrengene (\"Waka\"), som har det høyeste Kavalaktoneinnholdet. En moden Kava-plante (3-5 år gammel) kan utvikle en rotstokk på 5-25 kg. Bare de underjordiske delene bør brukes, da blader og stilker kan inneholde uønskede forbindelser.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "Morfologi av Kava-planten"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "Hva er Noble Kava?",
+      "answer": "Noble Kava refererer til Kava-varianter som tradisjonelt er dyrket for daglig konsum og har en gunstig Kavalaktoneprofil. De kjennetegnes av behagelig virkning, god toleranse og minimale bivirkninger. I motsetning til dette står \"Tudei\" (To-dagers) varianter, som har sterkere, lengre varende og ofte ubehagelige effekter. Noble varianter som Borogu, Melomelo, Palarasul eller Pouni Ono er egnet for regelmessig bruk. Når du kjøper, bør du alltid se etter betegnelsen \"Noble\".",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "Kava-varianter"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "Hvordan virker Kava?",
+      "answer": "Kava virker hovedsakelig gjennom sine Kavalaktone, som interagerer med GABA-systemet i hjernen. Virkningen inkluderer: avslapning av muskulaturen, reduksjon av angst og stress, lett eufori og hevet humør, forbedret sosialitet med klart hode, samt fremming av en god natts søvn. I motsetning til alkohol påvirker ikke Kava den mentale klarheten. Virkningen setter typisk inn 15-30 minutter etter inntak og varer i 2-4 timer.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "Virkning av Kava"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "Kavalaktone"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "Hvor lenge virker Kava?",
+      "answer": "Virkningens varighet av Kava varierer avhengig av dose, variant og individuell følsomhet. Typisk setter virkningen inn etter 15-30 minutter og når sitt høydepunkt etter omtrent 1-2 timer. Hovedvirkningen varer i 2-4 timer, med en behagelig ettervirkning av avslapning som kan vare enda lenger. Ved høyere doser eller sterkere varianter kan virkningen være merkbar i opptil 6 timer. Den søvnfremmende virkningen kan vare hele natten."
+    },
+    "kava-gegen-angst": {
+      "question": "Hjelper Kava mot angst?",
+      "answer": "Ja, Kava har vist angstdempende (angstreduserende) virkninger i en rekke kliniske studier. En Cochrane-metaanalyse fra 2003 bekreftet effektiviteten ved angstlidelser. Kavalaktone virker på GABA-reseptorer på lignende måte som benzodiazepiner, men uten avhengighetspotensial. Kava kan hjelpe ved generalisert angstlidelse, sosial angst og stressrelatert spenning. Viktig: Ved diagnostiserte angstlidelser bør bruken diskuteres med en lege.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Vitenskapelige studier"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "Kava ved angst"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "Kan Kava hjelpe ved depresjoner?",
+      "answer": "Noen studier tyder på at Kava har humørhevende egenskaper. En studie fra University of Melbourne (2013) viste positive effekter ved lette til moderate depresjoner. Virkningen tilskrives modulering av dopamin- og serotoninreseptorer. Imidlertid er ikke Kava en erstatning for profesjonell behandling av depresjoner. Ved diagnostiserte depressive lidelser bør alltid en lege konsulteres, spesielt hvis antidepressiva allerede tas.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Vitenskapelige studier"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "Forbedrer Kava søvnen?",
+      "answer": "Ja, Kava kan forbedre søvnkvaliteten. Den avslappende virkningen av Kavalaktone hjelper med å sovne og fremmer en dypere, mer gjenopprettende søvn. I motsetning til mange sovemidler forårsaker ikke Kava noen \"hangover\" neste morgen. Studier viser at Kava er spesielt effektivt ved stressrelaterte søvnproblemer. For å fremme søvn anbefales det å ta Kava 1-2 timer før sengetid. Varianter med høyere DHM- og DHK-innhold (som Borogu) er spesielt søvnfremmende.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "Kava for bedre søvn"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "Hvilke bivirkninger har Kava?",
+      "answer": "Ved riktig bruk av Noble Kava-varianter er bivirkninger sjeldne og milde. Mulige bivirkninger inkluderer: midlertidig nummenhet i lepper og tunge (normalt), lett kvalme ved inntak på tom mage, døsighet (spesielt ved høyere doser), og ved kronisk overforbruk en reversibel hudflassing (\"Kava-dermatopati\"). Viktig er bruken av rent rotpulver fra Noble-varianter og unngåelse av alkohol under inntak.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "Sikkerhet ved Kava"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "Bivirkninger i detalj"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "Er Kava skadelig for leveren?",
+      "answer": "Spørsmålet om levertoksisitet er komplekst. Det tyske Kava-forbudet fra 2002 var basert på rapporter om leverskader, som imidlertid stort sett kunne tilskrives produkter av lav kvalitet (bruk av blader/stilker i stedet for røtter), Tudei-varianter (ikke egnet for daglig bruk), alkoholekstrakter og interaksjoner med medisiner. Studier viser at tradisjonelt tilberedt Noble Kava er trygt for friske voksne. Likevel bør personer med leversykdom unngå Kava, og regelmessige brukere bør få kontrollert leververdiene sine.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "Kava og leveren"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei Kava"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "Er Kava en rusmiddel?",
+      "answer": "Kava er ikke et rusmiddel i henhold til narkotikaloven. Det er en tradisjonell drikk med psykoaktiv virkning, lik kaffe eller te. Kava gir ikke avhengighet, forårsaker ikke utvikling av toleranse og har ikke misbrukspotensial. WHO har klassifisert Kava som \"ikke avhengighetsskapende\". I de fleste land er Kava lovlig tilgjengelig. Virkningen er mildt avslappende, ikke berusende i betydningen av alkohol eller ulovlige stoffer."
+    },
+    "kava-alkohol": {
+      "question": "Kan man kombinere Kava med alkohol?",
+      "answer": "Nei, Kava bør ikke kombineres med alkohol. Begge stoffene virker på GABA-systemet og kan forsterke hverandre, noe som kan føre til overdreven sedasjon. I tillegg metaboliseres begge i leveren, noe som øker belastningen. I den tradisjonelle stillehavs kulturen konsumeres Kava som et alternativ til alkohol, ikke sammen med det. Vent minst 24 timer mellom alkohol- og Kava-konsum.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "Interaksjoner"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "Hvordan doserer man Kava riktig?",
+      "answer": "Den anbefalte doseringen for Kava-pulver ligger på 2-4 spiseskjeer (ca. 15-30g) per økt, delt opp i 2-3 skåler. For nybegynnere anbefales det å begynne med en lavere dose (1-2 ss). Kavalaktone-dosen bør ikke overskride 250mg per enkelt dose. Viktig: Kava utvikler ofte sin fulle virkning først etter regelmessig inntak over flere dager (\"Reverse Tolerance\"). Ikke mer enn 300mg Kavalaktone per dag over lengre perioder.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Tilberedning av Kava"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "Hvordan tar man Kava best?",
+      "answer": "Den tradisjonelle metoden er tilberedning som drikke: Kava-pulver knas i vann og filtreres gjennom en sil. Drikken inntas i skåler (\"Shells\"), typisk 2-3 skåler per økt med 10-15 minutters mellomrom. Alternativt finnes det instant Kava (bare oppløs i vann), kapsler eller tinkturer. Den beste virkningen oppnås på lett sulten mage, omtrent 2-3 timer etter det siste måltidet. Etter inntak kan en liten snack forsterke virkningen.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Tradisjonell tilberedning"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "Kan man drikke Kava daglig?",
+      "answer": "Ja, i stillehavs kulturer konsumeres Kava tradisjonelt daglig. For vestlig bruk anbefales det å ta regelmessige pauser (f.eks. 1-2 dager per uke uten Kava). Ved daglig forbruk bør dosen forbli moderat og kun Noble Kava-varianter brukes. Regelmessige brukere bør få kontrollert leververdiene sine årlig. Viktig: Drikk nok vann og vær oppmerksom på et sunt kosthold."
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "Hva er best: Kava-pulver eller kapsler?",
+      "answer": "Kava-pulver gir den mest autentiske opplevelsen og beste virkningen, men krever tilberedning. Kapsler er praktiske for reise, men inneholder ofte mindre Kavalaktone og virker svakere. Instant Kava er et godt kompromiss – bare oppløs i vann, god virkning. For nybegynnere anbefaler vi Instant Kava eller Medium Grind pulver. For den sterkeste virkningen: tradisjonelt tilberedt pulver. Kapsler er egnet for sporadisk, lavdosert bruk."
+    },
+    "kava-zubereitung": {
+      "question": "Hvordan tilbereder man Kava tradisjonelt?",
+      "answer": "Tradisjonell tilberedning: 1) 2-4 ss Kava-pulver legges i en stoffpose eller nøttemelkepose. 2) Legg i en bolle med ca. 500ml varmt (ikke varmt!) vann. 3) Kna i 5-10 minutter og press ut til vannet blir melkeaktig-brunt. 4) Klem ut posen og fjern den. 5) Server i skåler og drikk raskt. Smaken er jordaktig og lett bitter – det er normalt. Et stykke frukt som \"Chaser\" hjelper mot smaken.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Tradisjonell tilberedning"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "Instant Kava"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "Hvordan smaker Kava?",
+      "answer": "Kava har en karakteristisk, jordaktig smak som ofte beskrives som \"ervervet smak\". Smaken er lett bitter, pepperaktig og jordaktig med en viss skarphet. Etter inntak oppstår det en midlertidig nummenhet i lepper og tunge – et tegn på aktive Kavalaktone. Tips for forbedring: Drikk Kava kald, bland med kokosmelk, eller spis et stykke ananas/mango som \"Chaser\". Med tiden venner man seg til smaken."
+    },
+    "kava-tee": {
+      "question": "Kan man tilberede Kava som te?",
+      "answer": "Kava bør ikke tilberedes som vanlig te med kokende vann, da høye temperaturer kan ødelegge Kavalaktone. Bruk varmt vann (ca. 40°C). \"Kava-te\"-produkter på markedet inneholder ofte bare små mengder Kava og er mindre effektive enn tradisjonelt tilberedt Kava-pulver. For best virkning anbefaler vi den tradisjonelle knaemetoden med Medium Grind Kava-pulver eller høykvalitets Instant Kava.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Tilberedningsmetoder"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "Er Kava lovlig i Tyskland?",
+      "answer": "Den juridiske situasjonen for Kava i Tyskland er kompleks. I 2002 ble Kava forbudt som legemiddel etter rapporter om leverskader. Dette forbudet ble opphevet av Forbundsforvaltningsdomstolen i 2014, da det vitenskapelige grunnlaget var utilstrekkelig. For øyeblikket er import og besittelse av Kava for personlig bruk lovlig. Salg som kosttilskudd eller legemiddel er imidlertid fortsatt begrenset. Kava kan bestilles fra EU-land (f.eks. Nederland, Storbritannia) eller direkte fra Stillehavet.",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "Juridisk status for Kava"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "Hvor kan man kjøpe Kava?",
+      "answer": "Kava kan skaffes på forskjellige måter: 1) Nettbutikker fra Stillehavet (Vanuatu, Fiji) – høyeste kvalitet, men lengre leveringstid. 2) Europeiske forhandlere (Storbritannia, Nederland) – raskere levering, godt utvalg. 3) Spesialiserte Kava-barer – for lokal konsum. I tyske apoteker (DM, Rossmann) er Kava for tiden ikke tilgjengelig. Vær oppmerksom på: Noble Kava-varianter, rent rot (ingen blader/stilker), laboratorieanalyser og opprinnelsesopplysninger.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "Kava-Bar Finder"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "Finnes det Kava hos DM eller på apotek?",
+      "answer": "Nei, Kava er for tiden verken tilgjengelig hos DM, Rossmann eller i tyske apoteker. Dette skyldes den regulatoriske situasjonen i Tyskland, som begrenser salget av Kava som kosttilskudd eller legemiddel. Homøopatiske preparater med Piper methysticum (sterkt fortynnet) var tidligere tilgjengelige på apotek, men er også blitt sjeldne. For ekte Kava-pulver må du gå til spesialiserte nettforhandlere."
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "Er Kava tilgjengelig igjen?",
+      "answer": "Ja, Kava er tilgjengelig igjen, selv om det ikke er i den tyske detaljhandelen. Etter opphevelsen av forbudet i 2014 kan Kava lovlig importeres for personlig bruk. Den beste kilden er spesialiserte nettforhandlere fra Stillehavet (Vanuatu, Fiji, Tonga) eller europeiske leverandører (Storbritannia, Nederland). Kvaliteten og tilgjengeligheten har forbedret seg betydelig de siste årene, og det er et voksende fellesskap av Kava-entusiaster i Tyskland."
+    },
+    "kava-vs-ashwagandha": {
+      "question": "Hva er forskjellen mellom Kava og Ashwagandha?",
+      "answer": "Kava og Ashwagandha er begge adaptogene planter, men de skiller seg betydelig: Kava virker raskt (15-30 min.) og akutt avslappende, ideelt for situasjonsbetinget angst eller stress. Ashwagandha virker langsiktig over uker og regulerer kortisolnivået. Kava tilberedes som en drikk, mens Ashwagandha vanligvis inntas som kapsel. Kava har en merkbar psykoaktiv virkning, mens Ashwagandha er mer subtil. Begge kan kombineres, der Kava er egnet for akutte situasjoner og Ashwagandha for langsiktig stressmotstand."
+    },
+    "kava-vs-baldrian": {
+      "question": "Hva er forskjellen mellom Kava og Baldrian?",
+      "answer": "Kava og Baldrian (Valerian) er begge avslappende, men har forskjellige profiler: Kava virker sterkere angstdempende og fremmer sosialitet med klart hode. Baldrian er primært søvnfremmende og kan forårsake døsighet. Kava har en raskere virkning (15-30 min.), mens Baldrian ofte trenger flere ukers regelmessig inntak. Smaken av Kava er jordaktig, mens Baldrian lukter og smaker ubehagelig. Kava er bedre for sosiale situasjoner, mens Baldrian er bedre som rent sovemiddel."
+    },
+    "kava-vs-kratom": {
+      "question": "Hva er forskjellen mellom Kava og Kratom?",
+      "answer": "Kava og Kratom er helt forskjellige og bør ikke forveksles: Kava inneholder Kavalaktone og virker avslappende uten avhengighetspotensial. Kratom inneholder alkaloider (Mitragynin) som virker på opioidreseptorer og har et avhengighetspotensial. Kava er lovlig i de fleste land, mens Kratom er forbudt eller regulert i mange land (inkl. Tyskland). Kava har en lang tradisjon for trygg bruk, mens Kratom er forbundet med helsefarer. Vi fraråder Kratom."
+    },
+    "kava-alternative": {
+      "question": "Hva er alternativer til Kava?",
+      "answer": "Naturlige alternativer til Kava for avslapning og angstdemping inkluderer: Ashwagandha (adaptogen, langsiktig), Baldrian (søvnfremmende), Pasjonsblomst (mild angstdempende), L-Theanin (fra te, fremmer avslapning), Magnesium (muskelavslappende), CBD (Cannabidiol, lovlig i Tyskland). Ingen av disse alternativene tilbyr imidlertid det unike profilen til Kava med sin kombinasjon av avslapning, sosialitet og mental klarhet. For det beste alternativet til alkohol i sosiale situasjoner finnes det ingen ekte erstatning for Kava."
+    },
+    "kava-zeremonie": {
+      "question": "Hva er en Kava-seremoni?",
+      "answer": "En Kava-seremoni er et tradisjonelt ritual i Stillehavsregionen, der Kava tilberedes og drikkes i fellesskap. Seremonien følger strenge protokoller: Hvem tilbereder Kava? Hvem får den første skålen? I hvilken rekkefølge drikkes det? I Fiji kalles seremonien \"Sevusevu\" og er en del av offisielle statsaktiviteter. I Tonga og Samoa finnes det høyt formaliserte 'Ava-seremonier med bestemte roller. Seremonien symboliserer respekt, gjestfrihet og sosial tilknytning.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "Seremonier & Ritualer"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "Hva er et Nakamal?",
+      "answer": "Et Nakamal er et tradisjonelt Kava-drikkested i Vanuatu. Opprinnelig var det et menns hus der lokalsamfunnet samlet seg for å drikke Kava om kvelden. I dag refererer \"Nakamal\" også til moderne Kava-barer i Port Vila og andre byer. Atmosfæren er rolig og respektfull – man sitter sammen, drikker flere skåler og fører stille samtaler. Nakamals er sosiale utjevningssteder der mennesker fra alle samfunnslag samles.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal & Kava-Barer"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "Hvilke navn har Kava i ulike kulturer?",
+      "answer": "Kava har forskjellige navn i ulike stillehavs kulturer: Vanuatu: Kava eller Malok. Fiji: Yaqona (uttales \"Yang-gona\"). Tonga: Kava eller 'Ava. Samoa: 'Ava. Hawaii: 'Awa. Pohnpei: Sakau. Papua Ny-Guinea: Kava. Det vitenskapelige navnet Piper methysticum betyr \"ruspepper\". I Tyskland er betegnelsene Kava, Kava-Kava og Rauschpfeffer vanlige.",
+      "relatedLinks": [
+        {
+          "href": "/de/glossar",
+          "label": "Ordlist"
+        }
+      ]
+    }
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Glossar",
+    "title": "Kava-Glossar",
+    "subtitle": "Over 50 fagbegreper om Kava – fra Kavalaktone til Kava-seremonien"
+  },
+  "intro": "Dette gloseliste forklarer de viktigste begrepene rundt Kava. Fra kjemiske forbindelser til tilberedningsmetoder og kulturelle tradisjoner – her finner du alle fagbegrepene forståelig forklart.",
+  "search": {
+    "placeholder": "Søk etter begrep...",
+    "noResults": "Ingen begreper funnet for",
+    "clearSearch": "Slett søk",
+    "resultsCount": "{{count}} begrep(e) funnet"
+  },
+  "categories": {
+    "chemie": "Kjemi & Innholdsstoffer",
+    "wirkung": "Virkningsmekanismer & Effekter",
+    "kultur": "Kultur & Tradisjon",
+    "sorten": "Varianter & Typer",
+    "zubereitung": "Tilberedning",
+    "sicherheit": "Sikkerhet"
+  },
+  "toc": {
+    "uebersicht": "Oversikt",
+    "suche": "Søk",
+    "chemie": "Kjemi & Innholdsstoffer",
+    "wirkung": "Virkningsmekanismer & Effekter",
+    "sorten": "Varianter & Typer",
+    "zubereitung": "Tilberedning",
+    "kultur": "Kultur & Tradisjon",
+    "sicherheit": "Sikkerhet"
+  },
+  "ui": {
+    "relatedTerms": "Relaterte begreper",
+    "relatedLinks": "Lær mer",
+    "backToTop": "Til toppen",
+    "showMore": "Vis mer",
+    "showLess": "Vis mindre"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalaktone",
+      "shortDefinition": "De psykoaktive stoffene i Kava",
+      "fullExplanation": "Kavalaktone er en gruppe på 18 laktoner som er ansvarlige for de psykoaktive effektene av Kava. De **seks hovedkavalaktone** utgjør omtrent 96% av det totale innholdet: Desmethoxyyangonin (DMY), Dihydrokavain (DHK), Yangonin (Y), Kavain (K), Dihydromethysticin (DHM) og Methysticin (M). Hver kavalaktone har sitt eget virkningsprofil – fra angstdempende til muskelavslappende og sederende. Det totale innholdet i roten ligger typisk mellom 3-20%.",
+      "relatedTerms": [
+        "Chemotyp",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "De 6 hovedkavalaktone",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Chemotyp-system",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Chemotyp",
+      "shortDefinition": "Den kjemiske profilen til en Kava-sort",
+      "fullExplanation": "Chemotyp er en **6-sifret kode** som angir rekkefølgen av de seks hovedkavalaktone etter konsentrasjon. Hver kavalaktone har et nummer: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. En chemotyp som \"426315\" betyr: Kavain (4) er mest konsentrert, etterfulgt av DHK (2), osv. Chemotypen bestemmer i stor grad virkningen av en sort – om den er mer \"heady\" (hodefokusert, euforisk) eller \"heavy\" (kroppslig, sederende).",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Chemotyp-kalkulator",
+          "href": "/de/inhaltsstoffe/rechner"
+        },
+        {
+          "label": "Chemotyp-systemet",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "Den viktigste kavalaktone for angstdempende effekt",
+      "fullExplanation": "Kavain (nummer 4 i chemotyp-systemet) er den mest studerte kavalaktone og anses som **hovedansvarlig for den angstdempende (anxiolytiske) effekten**. Den virker på GABA-reseptorer, dopamin- og noradrenalintransportører. Varianter med høyt kavaininnhold (4 på første eller andre plass i chemotypen) anses som spesielt høykvalitets og kalles \"heady\". Kavain har også nevrobeskyttende egenskaper.",
+      "relatedTerms": [
+        "Kavalaktone",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktone i detalj",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Angstdempende effekt",
+          "href": "/de/wirkung/angst"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "Kavalaktone for muskelavslapning",
+      "fullExplanation": "Dihydrokavain (DHK, nummer 2 i chemotyp-systemet) er den **sterkeste muskelavslappende kavalaktone**. Den virker på spenningsstyrte natriumkanaler og har lokalbedøvende egenskaper – derav den typiske nummenheten i munnen etter inntak. DHK er også ansvarlig for fysisk avslapning. Varianter med høyt DHK-innhold (2 på første plass) klassifiseres ofte som \"heavy\".",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Heavy",
+        "Muskelavslapning"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Muskelavslapning",
+          "href": "/de/wirkung/muskel"
+        },
+        {
+          "label": "Kavalaktone i detalj",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Sterkt sederende kavalaktone, dominerende i Tudei",
+      "fullExplanation": "Dihydromethysticin (DHM, nummer 5 i chemotyp-systemet) er en **sterkt sederende kavalaktone**. I høye konsentrasjoner (5 på første plass) er den typisk for Tudei-Kava og kan føre til langvarige bivirkninger. I Noble Kava er DHM til stede i moderate mengder og bidrar til den avslappende effekten. DHM har en lengre halveringstid enn kavain, noe som gjør at Tudei-effekter kan vare i opptil to dager.",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "Kavalaktone med CB1-reseptor-affinitet",
+      "fullExplanation": "Yangonin (Y, nummer 3 i chemotyp-systemet) er en unik kavalaktone som viser en **affinitet for CB1-cannabinoid-reseptorer**. Dette kan bidra til de stemningsløftende og lett euforiske effektene av Kava. Yangonin er også ansvarlig for den gule fargen på Kava-ekstrakter. Den har betennelsesdempende egenskaper og undersøkes for sitt terapeutiske potensial.",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktone i detalj",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Stemningsløftende kavalaktone",
+      "fullExplanation": "Desmethoxyyangonin (DMY, nummer 1 i chemotyp-systemet) er en **stemningsløftende kavalaktone** med MAO-B-hemmende egenskaper. Den kan øke dopamin-tilgjengeligheten i hjernen, noe som bidrar til dens euforiske effekter. DMY er også delvis ansvarlig for den antidepressive effekten av Kava. I kombinasjon med kavain forsterker den de \"heady\" egenskapene til en sort.",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktone i detalj",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Sederende kavalaktone med lang virketid",
+      "fullExplanation": "Methysticin (M, nummer 6 i chemotyp-systemet) er en **sederende kavalaktone** med relativt lang virketid. Den bidrar til fysisk avslapning og søvnfremmende effekt. Methysticin har også antikonvulsive (krampeløsende) egenskaper. I de fleste Noble-varianter er Methysticin til stede i moderate mengder og supplerer virkningen av de andre kavalaktone.",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktone i detalj",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "Det vitenskapelige navnet for Kava",
+      "fullExplanation": "Piper methysticum er det **vitenskapelige (latinske) navnet** for Kava-planten. Navnet betyr bokstavelig talt \"ruspepper\" (fra gresk \"methystikos\" = berusende). Planten tilhører **familien pepperplanter (Piperaceae)** og er nært beslektet med svart pepper. Kava er en steril kulturplante som kun kan formeres vegetativt – et tegn på dens tusenårige domestisering av mennesker.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botanikk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Planten",
+          "href": "/de/botanik/pflanze"
+        },
+        {
+          "label": "Botanikk Oversikt",
+          "href": "/de/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Vill forfar til Kava-planten",
+      "fullExplanation": "Piper wichmannii er den **ville forfaren** til Piper methysticum. Denne ville arten finnes i Papua Ny-Guinea og Salomonene og kan formere seg seksuelt (i motsetning til den sterile kulturformen). Forskere tror at Kava ble **domestisert** fra Piper wichmannii for omtrent 3.000 år siden. Vill Kava inneholder ofte høyere mengder uønskede forbindelser og anbefales ikke for konsum.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkoner",
+      "shortDefinition": "Flavonoid-forbindelser i Kava",
+      "fullExplanation": "Chalkoner er en klasse av **flavonoid-forbindelser** som finnes i Kava. De viktigste er Flavokavain A, B og C. Mens Flavokavain A og C anses som relativt trygge, er **Flavokavain B (FKB)** assosiert med potensiell lebertoxiskhet. Chalkoner finnes hovedsakelig i de overjordiske plante-delene og i Tudei-varianter. Noble Kava fra roten inneholder kun små mengder.",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Sikkerhet",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Ekstraksjon",
+      "shortDefinition": "Prosess for å utvinne kavalaktone",
+      "fullExplanation": "Ekstraksjon refererer til prosessen der **kavalaktone løses ut fra plante-materialet**. Ved tradisjonell tilberedning skjer dette ved å kna i vann – kavalaktone er fettløselige og blir ekstrahert ved mekanisk kraft og emulgering. Industrielle ekstrakter bruker ofte løsemidler som etanol eller aceton. **Vannbaserte ekstrakter** anses som tryggere, da de inneholder færre uønskede forbindelser.",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Knemetode"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tilberedning",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobutyrsyre",
+      "shortDefinition": "Den viktigste hemmende nevrotransmitteren",
+      "fullExplanation": "GABA (Gamma-Aminobutyrsyre) er den **viktigste hemmende nevrotransmitteren** i sentralnervesystemet. Den reduserer neuronal excitabilitet og har en beroligende, angstdempende og søvnfremmende effekt. Kavalaktone – spesielt kavain og DHK – modulerer GABA-reseptorer, men på en **annen måte enn benzodiazepiner**. Dette forklarer hvorfor Kava gir avslapning uten de typiske bivirkningene av sovemedisiner (ingen avhengighet, ingen kognitiv svekkelse).",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Kavain",
+        "Anxiolyse"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Angstdempende effekt",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Vitenskapelige studier",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Omvendt toleranse",
+      "germanTerm": "Umgekehrte Toleranz",
+      "shortDefinition": "Fenomen der Kava virker sterkere over tid",
+      "fullExplanation": "Omvendt toleranse er et **unikt fenomen med Kava**: I motsetning til de fleste psykoaktive stoffer, der man med tiden trenger mer for å oppnå samme effekt, er det motsatt med Kava. Mange nybegynnere opplever lite eller ingenting første gang. Etter flere økter (typisk 3-7 dager med regelmessig inntak) \"åpner\" kroppen seg for kavalaktone, og effekten blir betydelig sterkere. De nøyaktige mekanismene er ennå ikke fullt ut forstått, men kan være relatert til opphopning av kavalaktone i fettvev eller en sensibilisering av reseptorene.",
+      "relatedTerms": [
+        "Kavalaktone",
+        "Dosering"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kognitive effekter",
+          "href": "/de/wirkung/kognition"
+        },
+        {
+          "label": "Doseringskalkulator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxiolyse",
+      "germanTerm": "Angstlösung",
+      "shortDefinition": "Den angstdempende effekten av Kava",
+      "fullExplanation": "Anxiolyse refererer til den **angstdempende effekten** av et stoff. Kava er et av de få plantebaserte stoffene med **Level-1-evidens** for angstdempende effekt (Cochrane Review). Anxiolyse skjer hovedsakelig ved modulering av GABA-reseptorer og påvirkning av det limbiske system. I motsetning til benzodiazepiner forårsaker Kava **ingen kognitiv svekkelse, ingen avhengighet og ingen sedering** i lave til moderate doser.",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalaktone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Angstdempende effekt",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Vitenskapelige studier",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Tilstand av dyp Kava-avslapning",
+      "fullExplanation": "\"Krunk\" er et uformelt begrep i Kava-samfunnet for tilstanden av **dyp avslapning og velvære** etter inntak av en tilstrekkelig mengde Kava. Begrepet kan stamme fra \"drunk\", men beskriver en annen tilstand: **klar hjerne med avslappet kropp**. Typiske tegn er en følelse av fred, muskelavslapning, lett eufori og sosial åpenhet – uten de negative effektene av alkohol.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Effekt",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Muskelavslapning",
+      "shortDefinition": "Fysisk avslapningseffekt av Kava",
+      "fullExplanation": "Den **muskelavslappende effekten** av Kava er en av de mest merkbare effektene. Den formidles hovedsakelig av DHK (Dihydrokavain), som virker på natriumkanaler i muskelceller. Denne avslapningen er **ikke assosiert med svakhet eller koordinasjonsproblemer** – man føler seg avslappet, men ikke påvirket. Kava verdsettes derfor ved muskelspenninger, stressrelaterte muskelproblemer og som et naturlig alternativ til muskelavslappende midler.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalaktone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Muskelavslapning",
+          "href": "/de/wirkung/muskel"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Eufori",
+      "shortDefinition": "Hevet stemning gjennom Kava",
+      "fullExplanation": "Kava kan gi en **mild til moderat eufori**, spesielt ved Heady-varianter med høyt kavaininnhold. Denne euforien er forskjellig fra den som oppstår ved alkohol eller andre stoffer: Den er **klar, sosial og ikke hemmet**. Stemningsløftingen formidles av virkningen av kavain og DMY på dopamin- og serotonin-systemene. Heady-varianter som Kelai, Moi og Pouni Ono er kjent for sine euforiske egenskaper.",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Sederende",
+      "shortDefinition": "Beroligende, søvnfremmende effekt",
+      "fullExplanation": "Sederende refererer til den **beroligende og søvnfremmende effekten** av Kava, som er spesielt uttalt ved Heavy-varianter. Den formidles hovedsakelig av DHM, DHK og Methysticin. I lave til moderate doser er Kava **ikke sederende** og opprettholder mental klarhet. I høyere doser eller ved Heavy-varianter kan imidlertid betydelig tretthet oppstå. Dette gjør Kava til et naturlig alternativ ved søvnproblemer.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Søvn"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Søvn & Avslapning",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Nevrobeskyttende",
+      "shortDefinition": "Beskyttelseseffekt på nerveceller",
+      "fullExplanation": "Nevrobeskyttende egenskaper refererer til **evnen til å beskytte nerveceller mot skade**. Studier viser at kavain og andre kavalaktone kan ha neurobeskyttende effekter – de beskytter nevroner mot oksidativt stress og eksitotoksisitet. Dette kan gjøre Kava til et interessant forskningsobjekt for nevrodegenerative sykdommer. De neurobeskyttende egenskapene bidrar også til at Kava ikke svekker kognitiv funksjon.",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalaktone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Vitenskapelige studier",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgesi",
+      "germanTerm": "Schmerzlindring",
+      "shortDefinition": "Smertelindrende effekt av Kava",
+      "fullExplanation": "Analgesi refererer til den **smertelindrende effekten** av et stoff. Kava har milde analgetiske egenskaper, som hovedsakelig formidles av DHK. Den lokalbedøvende effekten (nummenhet i munnen) er et direkte bevis på denne egenskapen. Kava brukes tradisjonelt ved **hodepine, tannpine og muskelsmerter**. Smertelindringen er imidlertid mild og erstatter ikke medisinsk behandling ved sterke smerter.",
+      "relatedTerms": [
+        "DHK",
+        "Muskelavslapning"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Effekt",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava-Dermopati",
+      "germanTerm": "Kava-Hautausschlag",
+      "shortDefinition": "Hudforandring ved overdreven konsum",
+      "fullExplanation": "Kava-Dermopati er en **reversibel hudforandring** som kan oppstå ved svært høyt, langvarig Kava-konsum. Den viser seg som tørr, flassende hud med en gulaktig farge, spesielt på håndflater, fotsåler og underarmer. Årsaken er sannsynligvis en **forstyrrelse i kolesterolmetabolismen** i huden. Dermopatien forsvinner helt etter reduksjon eller avslutning av inntaket og er ikke et tegn på leverskade.",
+      "relatedTerms": [
+        "Sikkerhet",
+        "Dosering"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Sikkerhet",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Edle Kava",
+      "shortDefinition": "Høykvalitets, tradisjonelt konsumert Kava-varianter",
+      "fullExplanation": "Noble Kava refererer til **kultiverte Kava-varianter** som har blitt avlet for daglig konsum i århundrer. De kjennetegnes av en **balansert kavalaktone-profil**, med høyt kavaininnhold og lavt innhold av uønskede forbindelser som Flavokavain B (FKB). Noble varianter har typisk 4 eller 2 på de to første plassene i chemotypen. De anses som trygge for regelmessig konsum og er de eneste variantene som kan eksporteres lovlig fra Vanuatu.",
+      "relatedTerms": [
+        "Tudei",
+        "Chemotyp",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "Zwei-Tage-Kava",
+      "shortDefinition": "Ville eller lavkvalitets Kava-varianter",
+      "fullExplanation": "Tudei (fra \"two day\") refererer til **ville eller lavkvalitets Kava-varianter** hvis virkninger og bivirkninger kan vare i opptil to dager. De inneholder høye mengder av **Flavokavain B (FKB)** og **Dihydromethysticin (DHM)**, som er assosiert med kvalme, hodepine og muligens lebertoxiskhet. Tudei-varianter har typisk 5 (DHM) på første plass i chemotypen. I Vanuatu er eksport av Tudei-Kava **forbudt**. Seriøse forhandlere selger kun Noble Kava.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Sikkerhet",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Kopflastig",
+      "shortDefinition": "Kava-varianter med euforisk, cerebral effekt",
+      "fullExplanation": "\"Heady\" beskriver Kava-varianter hvis effekt er **primært cerebral og euforisk**. Disse variantene har typisk **kavain (4) på første eller andre plass** i chemotypen. Heady Kavas fremmer sosialisering, hever humøret og kan virke lett euforisk uten å sedere sterkt. De er spesielt egnet for sosiale anledninger, kreativt arbeid eller ettermiddagen. Kjent Heady-varianter inkluderer Kelai, Moi, Pouni Ono og Silese.",
+      "relatedTerms": [
+        "Heavy",
+        "Balanced",
+        "Kavain",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Variantkomparasjon",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Körperlastig",
+      "shortDefinition": "Kava-varianter med sterkt sederende, kroppslig effekt",
+      "fullExplanation": "\"Heavy\" beskriver Kava-varianter hvis effekt er **primært kroppslig og sederende**. Disse variantene har typisk **DHK (2) eller DHM (5) på første plass** i chemotypen. Heavy Kavas slapper sterkt av musklene, fremmer søvn og kan virke svært sederende. De er spesielt egnet for kveldstid, ved søvnproblemer eller for dyp avslapning. Kjent Heavy-varianter inkluderer Loa Waka, Hiwa, Palasa og Palarasul.",
+      "relatedTerms": [
+        "Heady",
+        "Balanced",
+        "DHK",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Søvn & Avslapning",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Balansert",
+      "germanTerm": "Ausgewogen",
+      "shortDefinition": "Kava-varianter med balansert effekt",
+      "fullExplanation": "\"Balansert\" beskriver Kava-varianter som tilbyr en **balansert blanding av heady og heavy egenskaper**. Disse variantene har typisk både kavain (4) og DHK (2) i de fremste posisjonene i chemotypen. Balansert Kavas gir både mental klarhet og fysisk avslapning, og er derfor **allsidige** – fra ettermiddagen til kvelden. Kjent Balansert-varianter inkluderer Borogu, Melo Melo, Bir Kar og Vula Waka.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Variantkomparasjon",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Kultivar",
+      "shortDefinition": "Züchtete Kava-Varietät",
+      "fullExplanation": "En kultivar er en **plantevariant skapt gjennom avl**. Det finnes over 100 forskjellige kultivare av Kava, som varierer i chemotyp, virkning, smak og vekstform. Siden Kava er steril og kun kan formeres vegetativt, er kultivare **genetiske kloner** av morplanten. Kjent kultivare inkluderer Borogu, Kelai, Melo Melo, Palasa og mange flere. Hver kultivar har sitt eget \"fingeravtrykk\" av kavalaktone.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava laget av hovedrøttene",
+      "fullExplanation": "\"Waka\" refererer til Kava laget av de **hovedrøttene (laterale røtter)** av planten. Waka anses som **den høyeste kvalitetsstandarden**, da hovedrøttene har det høyeste kavalaktoneinnholdet. Begrepet stammer fra Fiji og Tonga. Waka er dyrere enn Lewena (stamrøttene), men mer potent og mildere i smaken. De fleste premium Kavaene på markedet er av Waka-kvalitet.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava laget av rhizomet",
+      "fullExplanation": "\"Lewena\" (også \"Lawena\") refererer til Kava laget av **rhizomet (stamrøttene)** av planten. Lewena har et **lavere kavalaktoneinnhold** enn Waka, men er også mildere i smaken og billigere. Det anbefales ofte som nybegynner-Kava eller for de som foretrekker en mildere effekt. I Fiji brukes Lewena tradisjonelt for daglig konsum, mens Waka er forbeholdt spesielle anledninger.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Variantprofiler",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Grønn Kava",
+      "germanTerm": "Frische Kava",
+      "shortDefinition": "Fersk høstet, ikke tørket Kava",
+      "fullExplanation": "\"Grønn Kava\" eller \"Fresh Kava\" refererer til **ferskt høstede Kava-røtter** som ikke er tørket. I de stillehavslandene blir Kava tradisjonelt tilberedt fersk – røttene blir skrelt, hakket og umiddelbart knadd. Fersk Kava har en **annen smak og effekt** enn tørket: ofte mildere, \"grønnere\" i smaken og med raskere virkning. Instant Kava lages av dehydrert grønn Kava juice.",
+      "relatedTerms": [
+        "Instant Kava",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultur",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Hawaiiansk betegnelse for Kava",
+      "fullExplanation": "'Awa er den **hawaiianske betegnelsen for Kava**. Hawaii har en egen Kava-tradisjon med unike kultivare som Moi, Hiwa, Nene og Papa Ele'ele. Hawaiianske 'Awa-varianter er ofte spesielt potente og har karakteristiske virkningsprofiler. 'Awa ble tradisjonelt brukt til **seremonielle, medisinske og spirituelle formål**. Den hawaiianske 'Awa-kulturen opplever nå en renessanse med økende interesse for tradisjonelle varianter.",
+      "relatedTerms": [
+        "Kultivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Medium Grind",
+      "germanTerm": "Mittlere Mahlung",
+      "shortDefinition": "Standard malingsgrad for tradisjonell tilberedning",
+      "fullExplanation": "Medium Grind er den **standard malingsgraden for Kava-røttemel**, som brukes for den tradisjonelle knemetoden og blender-tilberedning. Melet har en **sandete til melaktig konsistens** og må knas i en filterpose (75-100 mikron) for å ekstrahere kavalaktone. Medium Grind er billigere enn Instant/Mikronisert og gir ved korrekt tilberedning den beste potensen. De grove plantefibrene blir filtrert ut.",
+      "relatedTerms": [
+        "Mikronisert",
+        "Instant Kava",
+        "Knemetode"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradisjonell metode",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Blender-metode",
+          "href": "/de/zubereitung/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Mikronisert Kava",
+      "germanTerm": "Mikronisierte Kava",
+      "shortDefinition": "Ekstremt fint malt Kava uten filtrering",
+      "fullExplanation": "Mikronisert Kava er **ekstremt fint malt røttemel**, hvor de grove fibrene allerede er fjernet. Den kan **røres direkte i vann**, uten knaing eller filtrering. Partiklene er så fine at de forblir i suspensjon og drikkes med. Mikronisert er mer praktisk enn Medium Grind, men dyrere og kan hos sensitive mager føre til **kvalme**, da fibrene spises med.",
+      "relatedTerms": [
+        "Medium Grind",
+        "Instant Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava tilberedning",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Doseringskalkulator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "Sofort-Kava",
+      "shortDefinition": "Dehydrert Kava-juice, klar til å drikke umiddelbart",
+      "fullExplanation": "Instant Kava er **dehydrert \"Grønn Kava\" juice** – fersk Kava-juice som er frysetørket eller spraytørket. Det er den **mest potente og dyreste** formen for Kava, da kavalaktone allerede er ekstrahert. Instant Kava løser seg umiddelbart i vann og krever ingen knaing eller filtrering. Doseringen er betydelig lavere enn for Medium Grind (2-6g i stedet for 20-50g). Det anses som \"kongeklassen\" av Kava-tilberedning.",
+      "relatedTerms": [
+        "Mikronisert",
+        "Medium Grind",
+        "Grønn Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava tilberedning",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Doseringskalkulator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Knemetode",
+      "shortDefinition": "Tradisjonell stillehavs tilberedningsmetode",
+      "fullExplanation": "Knemetoden er den **tradisjonelle stillehavsmetoden for Kava-tilberedning**, som har vært praktisert i over 3.000 år. Medium Grind-pulveret legges i en filterpose og knas i varmt vann (35-45°C) i **10-15 minutter**. Gjennom mekanisk kraft løses kavalaktone ut fra plantefibrene og emulgeres i vann. Resultatet er en melkeaktig brun \"Grog\". Denne metoden gir den **beste ekstraksjonen og potensen**.",
+      "relatedTerms": [
+        "Medium Grind",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradisjonell metode",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Tilberedningsoversikt",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Second Wash",
+      "germanTerm": "Zweiter Aufguss",
+      "shortDefinition": "Gjenbruk av Kava-pulveret",
+      "fullExplanation": "\"Second Wash\" refererer til **gjenbruk av det allerede knadde Kava-pulveret** for en andre omgang. Etter den første knaingen inneholder pulveret fortsatt omtrent **30-50% av de opprinnelige kavalaktone**. Den andre påføringen er svakere, men fortsatt effektiv. Noen brukere kombinerer First og Second Wash, mens andre drikker dem separat. En tredje påføring er som regel ikke verdt det.",
+      "relatedTerms": [
+        "Knemetode",
+        "Medium Grind"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradisjonell metode",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Filterpose",
+      "germanTerm": "Filterbeutel",
+      "shortDefinition": "Pose for filtrering av Kava",
+      "fullExplanation": "En filterpose er en **filterpose laget av nylon eller bomull**, som brukes til å kna og filtrere Kava. Den ideelle maskestørrelsen ligger på **75-100 mikron** – fin nok til å holde plantefibrene tilbake, men permeabel nok for kavalaktone-emulsjonen. Filterposer er gjenbrukbare og bør skylles og tørkes etter hver bruk. De er et uunnværlig verktøy for tradisjonell tilberedning.",
+      "relatedTerms": [
+        "Knemetode",
+        "Medium Grind"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradisjonell metode",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "En porsjon Kava-drikk",
+      "fullExplanation": "\"Shell\" er den vanlige betegnelsen for **en porsjon Kava-drikk**, typisk 100-150ml. Begrepet stammer fra den tradisjonelle kokosnøttskallet (Bilo), som Kava drikkes fra. I Kava-barer bestiller man \"Shells\" – en økt består ofte av 3-6 Shells over flere timer. Doseringen per Shell varierer avhengig av styrken på Grog og personlig preferanse. \"One more shell\" er et vanlig rop i Kava-samfunnet.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Doseringskalkulator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Moderne Kava-tilberedningsapparat",
+      "fullExplanation": "AluBall er et **moderne Kava-tilberedningsapparat** som forenkler den tradisjonelle knemetoden. Det består av en shaker-flaske med en spesialsilball. Medium Grind-pulveret legges i ballen, vann tilsettes, og det ristes i 2-3 minutter. Ekstraksjonen er raskere enn tradisjonell knaing, men kan være mindre effektiv. AluBall er populært for **på farten og for nybegynnere** som foretrekker en enkel tilberedning.",
+      "relatedTerms": [
+        "Knemetode",
+        "Medium Grind"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tilberedningsoversikt",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "Den ferdige Kava-drikken",
+      "fullExplanation": "\"Grog\" er den uformelle betegnelsen for den **ferdige Kava-drikken**, spesielt i Vanuatu og Fiji. Navnet stammer fra kolonitiden og ble adoptert av den britiske marinen. Tradisjonell Kava-Grog har en **melkeaktig brun farge** (som melkekaffe) og en jordaktig, lett pepperaktig smak. I Kava-barer serveres Grog ofte i kokosnøttskaller (Bilos) og drikkes i en slurk.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Knemetode"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultur",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Tilberedning",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Tradisjonell kokosnøttskall for drikking",
+      "fullExplanation": "En Bilo er en **halv kokosnøttskall**, som tradisjonelt brukes til å servere og drikke Kava. I Fiji og andre stillehavskulturer er det å drikke fra Bilo en del av **seremonielle ritualer**. Før man drikker klapper man en gang i hendene, sier \"Bula!\" (Fiji) eller \"Mālō!\" (Tonga), drikker innholdet i en slurk, og klapper deretter tre ganger. Moderne Kava-entusiaster bruker Bilos for en autentisk opplevelse.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultur",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Tradisjonell Kava-bar i Vanuatu",
+      "fullExplanation": "En Nakamal er en **tradisjonell Kava-bar i Vanuatu**, hvor lokalbefolkningen og turister samles for å drikke Kava. Opprinnelig refererte begrepet til møtestedet for menn i landsbyen. Moderne Nakamals er ofte enkle hytter eller åpne områder med benker. Kava tilberedes ferskt og serveres i skåler. Det finnes strenge **sosiale regler**: Man snakker stille, oppfører seg respektfullt og drikker i skumringen. Nakamals er viktige sosiale møteplasser.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultur",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historie",
+          "href": "/de/geschichte/urspruenge"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Tradisjonell Kava-skål laget av tre",
+      "fullExplanation": "En Tanoa er en **stor, flat treskål**, hvor Kava tradisjonelt tilberedes og serveres. Den er typisk for Fiji, Samoa og Tonga og er skåret ut av et enkelt stykke tre, ofte med utskårne ben. Tanoa er **senteret for Kava-seremonien** – Grog blandes i den og deles ut til deltakerne med en Bilo. Høykvalitets Tanoaer er kunstverk og overføres som familiearv.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Seremoni"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultur",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Fijiansk hilsen ved Kava-drikking",
+      "fullExplanation": "\"Bula!\" er den **tradisjonelle fijianske hilsenen** som ropes før man drikker en Shell Kava. Ordet betyr \"liv\" og uttrykker gode ønsker. Ritualet: Klapp en gang, rop \"Bula!\", tøm Shellen i en slurk, klapp tre ganger. I andre stillehavskulturer finnes det lignende rop: \"Mālō!\" i Tonga, \"Taki!\" i Vanuatu. Disse ritualene skaper **fellesskap og respekt** og er en viktig del av Kava-kulturen.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultur",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Potensielt lebertoxisk forbindelse i Tudei-Kava",
+      "fullExplanation": "Flavokavain B (FKB) er en **chalkon** som finnes i høyere konsentrasjoner i Tudei-Kava og de overjordiske plante-delene (stilker, blader). Den er assosiert med **potensiell lebertoxiskhet** og kan være ansvarlig for noen av de historiske leverskadene. Noble Kava-varianter har **svært lave FKB-nivåer**. Dette er en av hovedgrunnene til at kun Noble Kava anbefales for konsum, og Tudei-Kava er forbudt for eksport fra Vanuatu.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Leversikkerhet"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Leversikkerhet",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Cytochrom P450",
+      "shortDefinition": "Leverenzymer for nedbrytning av medisiner",
+      "fullExplanation": "CYP450 (Cytochrom P450) er en **familie av leverenzymer** som er ansvarlige for nedbrytning av de fleste medisiner. Kavalaktone kan **hemme** visse CYP450-enzymer, spesielt CYP2C9, CYP2C19 og CYP3A4. Dette kan bremse nedbrytningen av medisiner og forsterke deres virkning. Derfor bør Kava **ikke kombineres med medisiner** som brytes ned av disse enzymene – spesielt benzodiazepiner, antidepressiva og blodtrykksmedisiner.",
+      "relatedTerms": [
+        "Interaksjoner",
+        "Leversikkerhet"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interaksjoner",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Interaksjonskontroller",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Leversikkerhet",
+      "shortDefinition": "Kava og leveren – fakta og myter",
+      "fullExplanation": "Spørsmålet om **leversikkerhet** ved Kava har vært omstridt i lang tid. På tidlig 2000-tallet førte rapporter om leverskader til forbud i flere land. Senere undersøkelser viste imidlertid at de fleste tilfeller var relatert til **Tudei-Kava, ekstrakter fra overjordiske plante-deler eller underliggende sykdommer**. Noble Kava, tradisjonelt tilberedt, anses som trygg. WHO bekreftet i 2016 at \"tradisjonelt tilberedte Kava-drikker har et akseptabelt sikkerhetsprofil\".",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Leversikkerhet",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Vitenskapelige studier",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Interaksjoner",
+      "shortDefinition": "Interaksjoner av Kava med andre stoffer",
+      "fullExplanation": "Kava kan ha **interaksjoner med ulike stoffer**. De viktigste kombinasjonene å unngå er: **Alkohol** (forsterket lebertoxiskhet), **benzodiazepiner og sovemidler** (forsterket sedering), **antidepressiva** (CYP450-interaksjoner), **Parkinson-medisiner** (dopamin-interaksjoner). Også andre CNS-dempende stoffer bør unngås. Ved regelmessig medisinbruk bør man konsultere en lege før Kava-konsum.",
+      "relatedTerms": [
+        "CYP450",
+        "Leversikkerhet"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interaksjoner",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Interaksjonskontroller",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Dosering",
+      "shortDefinition": "Riktig mengde for sikker konsum",
+      "fullExplanation": "Den riktige **doseringen** av Kava avhenger av flere faktorer: kroppsvekt, erfaring, sort og tilberedningsform. For **Medium Grind** ligger en typisk økt på 20-50g pulver, fordelt på flere Shells. For **Instant Kava** er 2-6g vanlig. Nybegynnere bør starte med lave doser og ta hensyn til **omvendt toleranse**. Den anbefalte maksimale daglige dosen ligger på omtrent 250mg kavalaktone. Overdosering fører til sterk tretthet, men ikke til farlige tilstander.",
+      "relatedTerms": [
+        "Omvendt toleranse",
+        "Shell",
+        "Kavalaktone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Doseringskalkulator",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    }
+  }
+}

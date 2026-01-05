@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Kontraindikasjoner",
+    "subtitle": "Når Kava ikke bør brukes: Absolutte og relative kontraindikasjoner for sikker bruk.",
+    "category": "Sikkerhet",
+    "breadcrumbs": {
+      "home": "Hjem",
+      "sicherheit": "Sikkerhet",
+      "current": "Kontraindikasjoner"
+    }
+  },
+  "toc": {
+    "title": "Innhold",
+    "zusammenfassung": "Sammendrag",
+    "absolute": "Absolutte kontraindikasjoner",
+    "leber": "Leversykdommer",
+    "schwangerschaft": "Graviditet & Amming",
+    "kinder": "Barn & Unge",
+    "relative": "Relative kontraindikasjoner",
+    "parkinson": "Parkinsons sykdom",
+    "depression": "Alvorlig depresjon",
+    "operation": "Før operasjoner",
+    "fahren": "Kjøring & Maskiner",
+    "vorsicht": "Spesiell forsiktighet",
+    "genetik": "Genetiske faktorer",
+    "alter": "Eldre mennesker",
+    "entscheidungshilfe": "Beslutningshjelp",
+    "quellen": "Kilder"
+  },
+  "navigation": {
+    "continueTitle": "Fortsett i kapittelet Sikkerhet",
+    "items": [
+      {
+        "title": "Oversikt",
+        "href": "/no/sikkerhet",
+        "description": "Tilbake til sikkerhetsoversikten"
+      },
+      {
+        "title": "Leversikkerhet",
+        "href": "/no/sikkerhet/leber",
+        "description": "Hepatotoksisitet & forbudet 2002"
+      },
+      {
+        "title": "Interaksjoner",
+        "href": "/no/sikkerhet/wechselwirkungen",
+        "description": "Legemidler & CYP450-interaksjoner"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Viktig oversikt",
+    "intro": "Selv om Kava anses som sikkert ved riktig bruk, finnes det spesifikke situasjoner der bruk ikke anbefales eller er kontraindisert:",
+    "absolut": {
+      "title": "Absolutt kontraindisert:",
+      "items": [
+        "Leversykdommer",
+        "Graviditet & Amming",
+        "Barn under 18 år"
+      ]
+    },
+    "relativ": {
+      "title": "Relative kontraindikasjoner:",
+      "items": [
+        "Parkinsons sykdom",
+        "Alvorlig depresjon",
+        "Før planlagte operasjoner"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Absolutte kontraindikasjoner",
+    "intro": "Ved følgende tilstander bør Kava <strong>under ingen omstendigheter</strong> brukes. Risikoen oppveier klart enhver mulig fordel."
+  },
+  "leber": {
+    "title": "Leversykdommer",
+    "label": "Strengt kontraindisert",
+    "intro": "Personer med eksisterende leversykdommer bør unngå Kava helt:",
+    "items": [
+      {
+        "name": "Hepatitt (A, B, C)",
+        "text": "Aktiv eller kronisk leverbetennelse"
+      },
+      {
+        "name": "Levercirrhose",
+        "text": "Uavhengig av stadium"
+      },
+      {
+        "name": "Fet lever",
+        "text": "Alkoholisk og ikke-alkoholisk fettlever"
+      },
+      {
+        "name": "Økte leververdier",
+        "text": "Uforklarlig økning av ALT, AST, GGT"
+      },
+      {
+        "name": "Tidligere leverskader",
+        "text": "Selv om det nå er normalisert"
+      }
+    ],
+    "reasonLabel": "Begrunnelse:",
+    "reason": "Leveren er det sentrale organet for nedbrytning av Kavalaktone. Ved nedsatt leverfunksjon kan metabolitter akkumuleres og øke risikoen for ytterligere skader."
+  },
+  "schwangerschaft": {
+    "title": "Graviditet & Amming",
+    "label": "Strengt kontraindisert",
+    "intro": "Kava bør ikke brukes under graviditet og amming:",
+    "items": [
+      {
+        "name": "Ingen sikkerhetsdata",
+        "text": "Det finnes ingen kontrollerte studier på sikkerhet under graviditet"
+      },
+      {
+        "name": "Placentagjennomtrengelighet",
+        "text": "Kavalaktone kan krysse placenta-barrieren"
+      },
+      {
+        "name": "Morsmelk",
+        "text": "Kavalaktone går over i morsmelk"
+      },
+      {
+        "name": "Uterusavslapning",
+        "text": "Kavain kan slappe av livmorens muskler"
+      }
+    ],
+    "traditionLabel": "Tradisjonell praksis:",
+    "tradition": "I stillehavs kulturer konsumeres Kava tradisjonelt ikke av gravide eller ammende kvinner."
+  },
+  "kinder": {
+    "title": "Barn & Unge",
+    "label": "Ikke anbefalt under 18 år",
+    "intro": "Kava bør ikke brukes av barn og unge:",
+    "items": [
+      {
+        "name": "Utvikling",
+        "text": "Effekter på hjerneutvikling ikke undersøkt"
+      },
+      {
+        "name": "Metabolisme",
+        "text": "Barn metaboliserer stoffer annerledes enn voksne"
+      },
+      {
+        "name": "Ingen studier",
+        "text": "Ingen kliniske data for denne aldersgruppen"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Relative kontraindikasjoner",
+    "intro": "Ved følgende tilstander er det nødvendig med spesiell forsiktighet. Bruk kan være mulig under visse omstendigheter, men bør kun skje etter nøye vurdering og ideelt sett etter konsultasjon med lege."
+  },
+  "parkinson": {
+    "title": "Parkinsons sykdom",
+    "label": "Ikke anbefalt",
+    "intro": "Kava kan forverre Parkinson-symptomene:",
+    "items": [
+      {
+        "name": "Dopamin-antagonisme",
+        "text": "Kava kan dempe dopaminerge effekter"
+      },
+      {
+        "name": "Levodopa-interaksjon",
+        "text": "Kan redusere effekten av Levodopa"
+      },
+      {
+        "name": "Tilfellerapporter",
+        "text": "Forverring av symptomer under Kava dokumentert"
+      }
+    ],
+    "caseReportLabel": "Tilfellerapport:",
+    "caseReport": "Schelosky et al. (1995) rapporterte om en 45 år gammel kvinne med Parkinson, hvis symptomer ble betydelig forverret under Kava-inntak."
+  },
+  "depression": {
+    "title": "Alvorlig depresjon",
+    "label": "Forsiktighet anbefales",
+    "intro": "Ved alvorlig depresjon er det nødvendig med forsiktighet:",
+    "items": [
+      {
+        "name": "CNS-demping",
+        "text": "Kava kan forsterke apati"
+      },
+      {
+        "name": "Legemiddelinteraksjon",
+        "text": "Interaksjoner med antidepressiva mulig"
+      },
+      {
+        "name": "Selvmedisinering",
+        "text": "Kan forsinke profesjonell behandling"
+      }
+    ],
+    "noteLabel": "Merk:",
+    "note": "Ved mild til moderat angst kan Kava være nyttig, men ved alvorlig depresjon bør profesjonell behandling prioriteres."
+  },
+  "operation": {
+    "title": "Før planlagte operasjoner",
+    "label": "Avslutte 2 uker før",
+    "intro": "Kava bør avsluttes før planlagte operasjoner:",
+    "items": [
+      {
+        "name": "Anestesinteraksjon",
+        "text": "Kan forsterke effekten av anestesimidler"
+      },
+      {
+        "name": "Blødningsrisiko",
+        "text": "Mulig interaksjon med blodfortynnende legemidler"
+      },
+      {
+        "name": "Leverfunksjon",
+        "text": "Viktig for nedbrytning av anestesimidler"
+      }
+    ],
+    "recommendation": "Anbefaling: Avslutt Kava minst 2 uker før en planlagt operasjon og informer anestesilegen om tidligere bruk."
+  },
+  "fahren": {
+    "title": "Kjøring & Betjening av maskiner",
+    "label": "Redusert kjøreferdighet",
+    "intro": "Kava kan påvirke reaksjonsevnen:",
+    "items": [
+      {
+        "name": "Sedasjon",
+        "text": "Tretthet og langsommere reaksjoner mulig"
+      },
+      {
+        "name": "Dosisavhengig",
+        "text": "Høyere doser påvirker mer"
+      },
+      {
+        "name": "Individuelle forskjeller",
+        "text": "Sensitivitet varierer sterkt"
+      }
+    ],
+    "noteLabel": "Merk:",
+    "note": "I motsetning til benzodiazepiner viser studier at Kava påvirker kognitiv funksjon mindre. Likevel bør man kjenne sin individuelle reaksjon før man kjører."
+  },
+  "vorsicht": {
+    "title": "Spesiell forsiktighet",
+    "intro": "Ved visse grupper er det nødvendig med økt oppmerksomhet, selv om det ikke foreligger en streng kontraindikasjon."
+  },
+  "genetik": {
+    "title": "Genetiske faktorer (CYP2D6-polymorfismer)",
+    "label": "Økt sensitivitet mulig",
+    "intro": "Omtrent 5-10% av den europeiske befolkningen er \"Poor Metabolizers\" for CYP2D6:",
+    "items": [
+      {
+        "name": "Langsom nedbrytning",
+        "text": "Kavalaktone forblir lenger i kroppen"
+      },
+      {
+        "name": "Høyere blodnivåer",
+        "text": "Forsterket effekt og bivirkninger"
+      },
+      {
+        "name": "Gjenkjennelse",
+        "text": "Uvanlig sterk reaksjon på normale doser"
+      }
+    ],
+    "recommendationLabel": "Anbefaling:",
+    "recommendation": "Hvis du reagerer uvanlig sterkt på Kava, kan det være en genetisk faktor. Begynn med lavere doser."
+  },
+  "alter": {
+    "title": "Eldre mennesker",
+    "label": "Tilpasset dosering anbefales",
+    "intro": "Ved eldre mennesker er det nødvendig med spesiell forsiktighet:",
+    "items": [
+      {
+        "name": "Redusert leverfunksjon",
+        "text": "Langsommere metabolisme med alderen"
+      },
+      {
+        "name": "Polyfarmasi",
+        "text": "Høyere risiko for interaksjoner"
+      },
+      {
+        "name": "Fallrisiko",
+        "text": "Sedasjon kan øke fallrisikoen"
+      }
+    ],
+    "recommendationLabel": "Anbefaling:",
+    "recommendation": "Begynn med halvparten av vanlig dose og øk sakte."
+  },
+  "entscheidungshilfe": {
+    "title": "Beslutningshjelp: Er Kava riktig for meg?",
+    "selfCheck": {
+      "title": "Selv-sjekk før Kava-forbruk",
+      "nicht": {
+        "title": "Kava er IKKE egnet hvis du:",
+        "items": [
+          "Har eller har hatt leversykdom",
+          "Er gravid eller ammer",
+          "Er under 18 år",
+          "Drikker alkohol regelmessig",
+          "Tar benzodiazepiner eller antipsykotika",
+          "Tar antikoagulantia (blodfortynnere)"
+        ]
+      },
+      "arzt": {
+        "title": "Snakk med legen din hvis du:",
+        "items": [
+          "Har Parkinsons sykdom",
+          "Lider av alvorlig depresjon",
+          "Tar legemidler regelmessig",
+          "Har en planlagt operasjon",
+          "Er over 65 år"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava kan være egnet hvis du:",
+        "items": [
+          "Er sunn og ikke har leverproblemer",
+          "Ikke tar noen av legemidlene nevnt ovenfor",
+          "Ikke drikker alkohol eller bare av og til",
+          "Er voksen (over 18 år)",
+          "Ikke er gravid eller ammer"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Generell anbefaling",
+      "text": "Ved tvil, konsulter lege eller apotek før Kava-forbruk, spesielt hvis du tar legemidler regelmessig eller har helsebegrensninger."
+    }
+  },
+  "warnzeichen": {
+    "title": "Advarselssignaler: Når du umiddelbart bør stoppe",
+    "intro": "Stopp umiddelbart forbruket og oppsøk lege ved:",
+    "items": [
+      {
+        "name": "Gulfarging",
+        "text": "av hud eller øyne (ikterus)"
+      },
+      {
+        "name": "Mørk urin",
+        "text": "(ølaktig)"
+      },
+      {
+        "name": "Lys avføring",
+        "text": "(bleket)"
+      },
+      {
+        "name": "Uvanlig tretthet",
+        "text": "eller svakhet"
+      },
+      {
+        "name": "Kvalme",
+        "text": "eller appetittløshet"
+      },
+      {
+        "name": "Smerter",
+        "text": "i høyre øvre del av magen"
+      }
+    ],
+    "note": "Disse symptomene kan indikere leverproblemer og krever umiddelbar medisinsk vurdering."
+  },
+  "quellen": {
+    "title": "Kilder",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Assessment Report on Piper methysticum G. Forst., rhizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "Assessment of the Risk of Hepatotoxicity with Kava Products.",
+        "source": "WHO Technical Report."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava and dopamine antagonism.",
+        "source": "Journal of Neurology, Neurosurgery & Psychiatry."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: a comprehensive review of efficacy, safety, and psychopharmacology.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "En fullstendig liste over alle siterte studier finner du på vår",
+    "studiesLink": "Studie-side"
+  }
+}

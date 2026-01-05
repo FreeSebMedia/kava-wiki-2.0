@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "System chemotypowy",
+    "subtitle": "Jak 6-cyfrowy kod przewiduje działanie odmiany Kava i odróżnia Noble od Tudei.",
+    "category": "Składniki"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "inhaltsstoffe": "Składniki",
+    "current": "Chemotypy"
+  },
+  "toc": {
+    "title": "Spis treści",
+    "einfuehrung": "Czym jest chemotyp?",
+    "nummerierung": "Numeracja Kavalactonów",
+    "lesen": "Odczytywanie chemotypu",
+    "beispiele": "Przykłady i interpretacja",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Rozpoznawanie Tudei na podstawie chemotypu",
+    "wirkungsprofile": "Profile działania według chemotypu",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Balanced Kavas",
+    "qualitaet": "Chemotyp i kontrola jakości"
+  },
+  "einfuehrung": {
+    "paragraph1": "<strong>Chemotyp</strong> to 6-cyfrowy kod, który wymienia sześć głównych Kavalactonów w kolejności malejącej ich stężenia. Działa jak \"odcisk palca\" dla każdej odmiany Kava i pozwala przewidzieć oczekiwane działanie – jeszcze zanim weźmie się pierwszy łyk.",
+    "paragraph2": "System ten został opracowany w latach 80. przez Vincenta Lebota i jest obecnie międzynarodowym standardem klasyfikacji i kontroli jakości Kava. Jest to najważniejsze narzędzie do odróżniania wysokiej jakości \"Noble Kava\" od gorszej jakości \"Tudei Kava\"."
+  },
+  "nummerierung": {
+    "title": "Numeracja Kavalactonów",
+    "intro": "Każdemu z sześciu głównych Kavalactonów przypisana jest cyfra. Ta przyporządkowanie ma charakter historyczny i opiera się na kolejności ich odkrycia lub elucji chromatograficznej:",
+    "tableHeaders": {
+      "digit": "Cyfra",
+      "kavalacton": "Kavalacton",
+      "abbreviation": "Skrót",
+      "effect": "Główne działanie"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoksyjangonin",
+        "abbreviation": "DMY",
+        "effect": "Fokus, zwiększenie dopaminy"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokawaina",
+        "abbreviation": "DHK",
+        "effect": "Rozluźnienie mięśni, działanie przeciwbólowe"
+      },
+      {
+        "digit": "3",
+        "name": "Jangonin",
+        "abbreviation": "Y",
+        "effect": "Aktywność CB1, euforia"
+      },
+      {
+        "digit": "4",
+        "name": "Kawaina",
+        "abbreviation": "K",
+        "effect": "Anksjolityczne, efekt \"Heady\""
+      },
+      {
+        "digit": "5",
+        "name": "Dihydrometycystyna",
+        "abbreviation": "DHM",
+        "effect": "Długotrwałe działanie sedacyjne, marker Tudei"
+      },
+      {
+        "digit": "6",
+        "name": "Metycystyna",
+        "abbreviation": "M",
+        "effect": "Sedacyjne, neuroprotekcyjne"
+      }
+    ],
+    "mnemonic": "<strong>Pomoc pamięciowa:</strong> Cyfry <strong>4</strong> (Kawaina) i <strong>2</strong> (Dihydrokawaina) to \"dobre\" pozycje startowe dla Noble Kava. Cyfra <strong>5</strong> (Dihydrometycystyna) na pierwszych dwóch miejscach to sygnał ostrzegawczy dla Tudei Kava."
+  },
+  "lesen": {
+    "title": "Odczytywanie chemotypu",
+    "intro": "Chemotyp zapisuje się jako 6-cyfrowa liczba, gdzie każda pozycja wskazuje względne stężenie:",
+    "positions": [
+      {
+        "rank": "1. miejsce",
+        "label": "Najwyższe stęż.",
+        "example": "4 = Kawaina"
+      },
+      {
+        "rank": "2. miejsce",
+        "label": "Drugie najwyższe",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3. miejsce",
+        "label": "Trzecie najwyższe",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4. miejsce",
+        "label": "Czwarte najwyższe",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5. miejsce",
+        "label": "Piąte najwyższe",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6. miejsce",
+        "label": "Najniższe",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Przykłady i interpretacja",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Typowe Noble Kava (np. Borogu)",
+        "description": "<strong>Kawaina</strong> dominuje, a następnie <strong>Dihydrokawaina</strong>. DHM (5) jest tylko na 4. miejscu. Oczekiwane działanie: Jasne, skoncentrowane rozluźnienie z dobrą relaksacją mięśni. Brak \"kaca\"."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, skoncentrowane na ciele (np. Palarasul)",
+        "description": "<strong>Dihydrokawaina</strong> na pierwszym miejscu oznacza silniejsze rozluźnienie ciała. Idealne na wieczór. Nadal Noble, ponieważ DHM (5) jest daleko z tyłu."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (np. Isa)",
+        "description": "<strong>DHM (5)</strong> na pierwszym miejscu to wyraźny sygnał ostrzegawczy. Oczekiwane działanie: Bardzo długie działanie sedacyjne (12+ godzin), możliwe nudności, \"kac\" następnego dnia. Nie nadaje się do regularnego spożycia."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (np. Palimanu)",
+        "description": "<strong>DHM (5)</strong> na 2. miejscu jest również problematyczne. Nawet jeśli DHK (2) jest na przodzie, wysoki udział DHM czyni tę odmianę nieodpowiednią do eksportu i regularnego spożycia."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Rozróżnienie między <strong>Noble Kava</strong> (Edelkava) a <strong>Tudei Kava</strong> (Two-Day Kava) jest fundamentalne dla jakości Kava. Nazwa \"Tudei\" pochodzi stąd, że działanie tych odmian może utrzymywać się przez dwa dni – z nieprzyjemnymi skutkami ubocznymi.",
+    "tableHeaders": {
+      "criterion": "Kryterium",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Początek chemotypu",
+        "noble": "Zaczyna się od 4 lub 2, nigdy od 5",
+        "tudei": "Często zaczyna się od 5 lub ma 5 na 2. miejscu"
+      },
+      {
+        "criterion": "Czas działania",
+        "noble": "Szybko (10-20 minut)",
+        "tudei": "Opóźnione (30-90 minut)"
+      },
+      {
+        "criterion": "Czas trwania działania",
+        "noble": "Umiarkowane (3-6 godzin)",
+        "tudei": "Bardzo długie (6-12+ godzin)"
+      },
+      {
+        "criterion": "Charakter działania",
+        "noble": "Jasne, zrelaksowane, towarzyskie",
+        "tudei": "Tępe, sedacyjne, otumanione"
+      },
+      {
+        "criterion": "Skutki uboczne",
+        "noble": "Minimalne przy prawidłowym przygotowaniu",
+        "tudei": "Nudności, bóle głowy, \"kac\""
+      },
+      {
+        "criterion": "Zezwolenie na eksport",
+        "noble": "Tak (regulowane)",
+        "tudei": "Nie (zakazane w Vanuatu)"
+      },
+      {
+        "criterion": "Przykładowe odmiany",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wildkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Rozpoznawanie Tudei na podstawie chemotypu",
+    "intro": "Najprostsza zasada rozpoznawania Tudei Kava:",
+    "warningTitle": "Sygnały ostrzegawcze",
+    "warnings": [
+      "<strong>5</strong> na pozycji 1 lub 2",
+      "<strong>5</strong> przed <strong>4</strong> w chemotypie",
+      "Bardzo wysoki całkowity udział DHM (>15%)"
+    ],
+    "safeTitle": "Bezpieczne znaki",
+    "safeIndicators": [
+      "<strong>4</strong> lub <strong>2</strong> na pozycji 1",
+      "<strong>5</strong> na pozycji 4, 5 lub 6",
+      "Dominacja kawainy (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Profile działania według chemotypu",
+    "intro": "Na podstawie chemotypu odmiany Noble Kava można podzielić na trzy główne kategorie:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavas mają <strong>Kawainę (4)</strong> na pierwszym miejscu i charakteryzują się przede wszystkim mentalnym działaniem. Wspierają fokus, klarowność i przyjemne poprawienie nastroju, bez silnego działania sedacyjnego.",
+    "idealTitle": "Idealne na:",
+    "idealFor": [
+      "Okazje towarzyskie i rozmowy",
+      "Pracę kreatywną",
+      "W ciągu dnia lub wczesnym wieczorem",
+      "Dla początkujących (łagodniejsze działanie)"
+    ],
+    "examples": "<strong>Przykładowe odmiany:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavas mają <strong>Dihydrokawainę (2)</strong> na pierwszym miejscu i działają przede wszystkim na ciało. Oferują silne rozluźnienie mięśni i są idealne do relaksu po długim dniu.",
+    "idealTitle": "Idealne na:",
+    "idealFor": [
+      "Wieczorne relaksowanie",
+      "Redukcję stresu i rozluźnienie mięśni",
+      "Przygotowanie do snu",
+      "Doświadczonych pijących Kava"
+    ],
+    "examples": "<strong>Przykładowe odmiany:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Balanced Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Balanced Kavas mają zrównoważony rozkład kawainy i dihydrokawainy, oferując zarówno mentalną klarowność, jak i rozluźnienie ciała. Są to najbardziej wszechstronne odmiany.",
+    "idealTitle": "Idealne na:",
+    "idealFor": [
+      "Codzienne użycie",
+      "Medytację i uważność",
+      "Wszechstronne zastosowanie (dzień lub wieczór)",
+      "Wszystkie poziomy doświadczenia"
+    ],
+    "examples": "<strong>Przykładowe odmiany:</strong> Bir Kar, Melomelo (w zależności od partii)"
+  },
+  "qualitaet": {
+    "title": "Chemotyp i kontrola jakości",
+    "intro": "Chemotyp jest obecnie najważniejszym narzędziem do <strong>kontroli jakości</strong> w międzynarodowym handlu Kava. W Vanuatu, największym eksporterze Kava, analiza chemotypu jest prawnie wymagana przed eksportem Kava.",
+    "lawTitle": "Ustawa o Kava z Vanuatu (2002)",
+    "lawText": "Ustawa o Kava z Vanuatu stanowi, że tylko <strong>odmiany Noble Kava</strong> są dopuszczone do eksportu. Odmiany Tudei i ich mieszanki są wykluczone z eksportu. Przestrzeganie przepisów jest kontrolowane przez analizy chemotypu.",
+    "lawNote": "To jeden z powodów, dla których Kava z Vanuatu uważana jest za szczególnie wysokiej jakości – istnieją państwowe kontrole jakości, które mają na celu zapobieganie kontaminacji Tudei.",
+    "consumerTip": "<strong>Wskazówka dla konsumentów:</strong> Rzetelni sprzedawcy Kava podają chemotyp swoich produktów lub mogą go podać na żądanie. Jeśli sprzedawca nie może dostarczyć informacji o chemotypie, należy zachować ostrożność."
+  },
+  "navigation": {
+    "nextCategory": "Przejdź do następnej kategorii:",
+    "sortenTitle": "Odmiany i warianty",
+    "sortenDescription": "Ponad 80 udokumentowanych odmian Kava i ich właściwości"
+  }
+}

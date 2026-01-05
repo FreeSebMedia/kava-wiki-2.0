@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Odmiany z Fidżi, Tonga i Hawajów",
+    "subtitle": "Regionalne specjały Kava z całego Pacyfiku: Od fidżańskiego Yaqona po hawajskie 'Awa.",
+    "category": "Odmiany"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "sorten": "Odmiany",
+    "current": "Pacyfik"
+  },
+  "toc": {
+    "title": "Spis treści",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fidżi – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Wszystkie Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaje – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Inne regiony",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Pochodzenie",
+    "type": "Typ",
+    "composition": "Skład",
+    "duration": "Czas działania",
+    "effectProfile": "Profil działania",
+    "recommendedFor": "Zalecane dla:",
+    "variety": "Odmiana",
+    "speciality": "Cechy szczególne"
+  },
+  "fiji": {
+    "title": "Fidżi – Yaqona",
+    "intro": "<p class=\"lead text-xl\">Na <strong>Fidżi</strong> Kava znana jest pod nazwą <strong>Yaqona</strong> (wymawiane \"Yang-gona\") i uznawana jest za oficjalny napój narodowy. Nazwa oznacza \"gorzki\" i odnosi się do charakterystycznego smaku. Druga nazwa, <strong>Malogu</strong>, oznacza \"uspokajać\" i opisuje działanie.</p><p>Fidżi ma <strong>13 udokumentowanych odmian Kava</strong> i jest znane z wysokiej jakości przetwarzania. Szczególnie ceniona jest <strong>Waka</strong> – Kava, która produkowana jest wyłącznie z korzeni bocznych (nie z kłącza) i uznawana jest za bardziej potężną.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Ciężka",
+        "speciality": "Bardzo potężna, silnie uspokajająca"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Zrównoważona",
+        "speciality": "Zrównoważona, wszechstronna"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Ciężka",
+        "speciality": "Długotrwała"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Zrównoważona",
+        "speciality": "Tradycyjna"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Ciężka",
+        "speciality": "Rzadka, bardzo ceniona"
+      },
+      {
+        "name": "Yalu",
+        "type": "Zrównoważona",
+        "speciality": "Łagodna, przyjemna"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Ciężka",
+      "Bardzo potężna"
+    ],
+    "origin": "Fidżi (różne wyspy)",
+    "type": "Waka (korzenie boczne)",
+    "duration": "5-8 godzin",
+    "description": "<strong>Loa Waka</strong> jest jednym z najpotężniejszych Kava na rynku. \"Loa\" oznacza w fidżańskim \"ciemny\" i odnosi się do koloru korzeni. \"Waka\" oznacza wysokiej jakości korzenie boczne. Ta kombinacja daje ekstremalnie silne, ciała Kava.",
+    "effects": [
+      {
+        "text": "<strong>Ekstremalnie uspokajające:</strong> Jedno z najsilniejszych Kava \"Ciężkich\""
+      },
+      {
+        "text": "<strong>Głęboka relaksacja mięśni:</strong> Idealne w przypadku <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">napięć</a>"
+      },
+      {
+        "text": "<strong>Wspomagające sen:</strong> Idealne na <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">problemy ze snem</a>"
+      },
+      {
+        "text": "<strong>Długotrwałe:</strong> Działanie może trwać 5-8 godzin"
+      }
+    ],
+    "recommendedFor": "Doświadczeni użytkownicy, wieczorne spożycie, poważne problemy ze snem",
+    "warning": "<strong>Ostrzeżenie:</strong> Loa Waka jest bardzo potężna. Osoby początkujące powinny zacząć od niższej dawki i poczekać na działanie, zanim zdecydują się na dodatkową dawkę."
+  },
+  "tonga": {
+    "title": "Tonga – Wszystkie Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> jest wyjątkowa w świecie Kava: <strong>Wszystkie uprawiane tam odmiany są Noble</strong>. Nie ma odmian Tudei w Tonga. To sprawia, że Tonga Kava jest szczególnie bezpieczna i przewidywalna.</p><p>Kava z Tonga jest znana z bardziej <strong>\"heady\"</strong> (skupionej na głowie) działania. Odmiany są zazwyczaj mniej uspokajające niż Kava z Fidżi czy Vanuatu i nadają się dobrze do dziennego spożycia i okazji towarzyskich.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "Najpopularniejsza odmiana, towarzyska"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Zrównoważona",
+        "speciality": "Łagodna, przyjemna"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Zrównoważona",
+        "speciality": "Tradycyjna"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Zrównoważona",
+        "speciality": "Łagodna, dobra dla początkujących"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euforyczna"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Przyjazna dla początkujących"
+    ],
+    "origin": "Tonga",
+    "composition": "Blend (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 godziny",
+    "description": "<strong>Pouni Ono</strong> jest najprawdopodobniej najbardziej znanym \"Dziennym Kava\" i jest mieszanką kilku odmian tongijskich (typowo Leka Hina, Kava Kula i Kava Fulufulu). Nazwa oznacza \"sześć razy\" i odnosi się do tradycyjnego przygotowania.",
+    "effects": [
+      {
+        "text": "<strong>Euforyczne:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Poprawiające nastrój</a> i towarzyskie"
+      },
+      {
+        "text": "<strong>Dodające energii:</strong> Prawie nieuspokajające, idealne na dzień"
+      },
+      {
+        "text": "<strong>Łagodny smak:</strong> Przyjemniejszy niż wiele innych odmian"
+      },
+      {
+        "text": "<strong>Krótkotrwałe działanie:</strong> Dobrze kontrolowane"
+      }
+    ],
+    "recommendedFor": "Początkujący, dzienne spożycie, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">okazje towarzyskie</a>, praca",
+    "tip": "<strong>Wskazówka:</strong> Pouni Ono jest jedną z najlepszych odmian dla początkujących Kava. Łagodny smak i przyjemne, nieprzytłaczające działanie ułatwiają rozpoczęcie."
+  },
+  "hawaii": {
+    "title": "Hawaje – 'Awa",
+    "intro": "<p class=\"lead text-xl\">Na Hawajach Kava nazywana jest <strong>'Awa</strong>. Hawaje mają <strong>13 tradycyjnych odmian</strong>, które wszystkie są uznawane za Noble i nadają się do spożycia. Hawajski 'Awa jest znany ze swojej wysokiej potencji i wyjątkowego charakteru.</p><p>'Awa ma szczególne znaczenie kulturowe na Hawajach. Historycznie, pewien 'Awa był zarezerwowany dla arystokracji (Ali'i). Dziś hawajski Kava często przygotowywany jest na świeżo i jest droższy niż Kava z innych regionów z powodu wysokich kosztów produkcji.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Królewski Kava, bardzo złożony"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Ciężka",
+        "speciality": "Ceremonialny, silnie uspokajający"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Zrównoważona",
+        "speciality": "Zrównoważona, wszechstronna"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Łagodna, przyjemna"
+      },
+      {
+        "name": "Nene",
+        "type": "Zrównoważona",
+        "speciality": "Tradycyjna"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Ciężka",
+        "speciality": "Rzadka, bardzo ceniona"
+      }
+    ],
+    "warning": "<strong>Uwaga:</strong> Na Hawajach uprawiane są również dwie importowane odmiany Tudei: <strong>Isa</strong> i <strong>Iwi</strong>. Te nie są rodzimymi i powinny być unikane."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Królewski"
+    ],
+    "origin": "Hawaje",
+    "type": "Heady / Złożony",
+    "duration": "2-4 godziny",
+    "description": "<strong>Moi</strong> jest legendarnym \"Kava królów\". W historii hawajskiej Moi był zarezerwowany dla arystokracji (Ali'i) i nie mógł być spożywany przez zwykłych ludzi. Dziś znany jest ze swojego niezwykle złożonego, umysłowo klarującego działania.",
+    "effects": [
+      {
+        "text": "<strong>Ekstremalnie złożony:</strong> Wspomaga klarowność umysłu i koncentrację"
+      },
+      {
+        "text": "<strong>Wspomagające kreatywność:</strong> Idealne do <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">pracy twórczej</a>"
+      },
+      {
+        "text": "<strong>Prawie nieuspokajające:</strong> Nie powoduje zmęczenia"
+      },
+      {
+        "text": "<strong>Duchowe:</strong> Tradycyjnie do medytacji i ceremonii"
+      }
+    ],
+    "recommendedFor": "Praca twórcza, medytacja, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">zadania kognitywne</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>Na <strong>Samoa</strong> Kava nazywana jest <strong>'Ava</strong>. Samoa ma tylko <strong>4 udokumentowane odmiany</strong>, ale bogatą tradycję ceremonialną. Ceremonia 'Ava jest ważną częścią kultury samoańskiej i odbywa się przy oficjalnych okazjach.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Zrównoważona",
+        "speciality": "Tradycyjna, ceremonialna"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Łagodna, przyjemna"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Ciężka",
+        "speciality": "Silniejsza, uspokajająca"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Zrównoważona",
+        "speciality": "Importowana z Tonga"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Inne regiony",
+    "intro": "Oprócz głównych obszarów uprawy, Kava występuje również w kilku innych regionach Pacyfiku:",
+    "regions": [
+      {
+        "name": "Papua-Nowa Gwinea",
+        "description": "PNG ma tylko <strong>jedną odmianę Noble</strong>: <strong>Kau kupwe</strong>, która uprawiana jest na wyspie Baluan. Większość innych odmian PNG to Tudei i powinny być unikane."
+      },
+      {
+        "name": "Wyspy Salomona",
+        "description": "Wyspy Salomona mają również tylko <strong>jedną odmianę Noble</strong>: <strong>Melomelo</strong> (nie mylić z Vanuatu Melo Melo, chociaż mogą być spokrewnione)."
+      },
+      {
+        "name": "Mikronezja",
+        "description": "W Stanach Federacyjnych Mikronezji (Pohnpei) występuje odmiana <strong>Rahmwahnger</strong>. Kava ma tam ważne znaczenie ceremonialne."
+      },
+      {
+        "name": "Wallis i Futuna",
+        "description": "Te francuskie terytoria mają swoje własne tradycje Kava, ale niewiele udokumentowanych unikalnych odmian."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Dalej w rozdziale Odmiany:",
+    "nextTitle": "Profile odmian w szczegółach",
+    "nextDescription": "Szczegółowe opisy wszystkich ważnych odmian z chemotypami, działaniem i zaleceniami",
+    "nextLink": "/de/sorten/profile"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Przygotowanie i zastosowanie",
+    "subtitle": "Od proszku do napoju: Jak prawidłowo przygotować Kava, aby uzyskać maksymalne działanie i najlepszy smak.",
+    "category": "Przygotowanie"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "current": "Przygotowanie"
+  },
+  "toc": {
+    "title": "Zawartość",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Podstawy ekstrakcji",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Tradycyjna metoda (ugniatanie)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Metoda blendera (blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Metoda shakera (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instant i mikronizowane",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Pro wskazówki dla najlepszego działania",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kawalaktony są <strong>nie rozpuszczalne w wodzie</strong>, lecz rozpuszczalne w tłuszczach. Mechanicznie przylegają do cząsteczek skrobi korzenia.",
+      "text": "Celem każdego przygotowania jest zatem uwolnienie tych cząsteczek z włókien roślinnych za pomocą siły mechanicznej (ugniatanie, miksowanie) i emulgowanie ich w wodzie. Czysta \"przygotowanie herbaty\" (tylko zalewanie gorącą wodą) nie działa skutecznie w przypadku Kava <strong>nie</strong>!"
+    },
+    "traditionell": {
+      "title": "Tradycyjna metoda (ugniatanie)",
+      "intro": "To najlepsza metoda dla maksymalnej mocy i autentycznego doświadczenia.",
+      "materialsTitle": "Co potrzebujesz:",
+      "materials": [
+        "Proszek z korzenia Kava (średni mielony)",
+        "Worek filtracyjny (worek do mleka orzechowego, 75-100 mikronów)",
+        "Miska z ciepłą (nie wrzącą!) wodą",
+        "Opcjonalnie: odrobina mleka lub mleka kokosowego (tłuszcz pomaga w ekstrakcji)"
+      ],
+      "instructionsTitle": "Instrukcje:",
+      "instructions": [
+        "Umieść proszek w worku filtracyjnym (około 30-40g na 500ml wody).",
+        "Zanurz worek w wodzie i pozwól mu chwilę nasiąknąć.",
+        "<strong>Ugniatanie i wyciskanie:</strong> Ugniataj worek pod wodą energicznie przez 10-15 minut. Wyciskaj go wielokrotnie. Woda powinna zabarwić się na mleczno-brązowy kolor (\"Grog\").",
+        "Ostatni raz mocno wyciśnij worek.",
+        "Podawaj Kava w miseczkach (Shells). Pij szybko (\"Chug\"), nie sącz!"
+      ]
+    },
+    "blender": {
+      "title": "Metoda blendera (blender)",
+      "intro": "Szybka i często silniejsza, ale smak może być nieco bardziej gorzki, ponieważ więcej substancji roślinnych jest rozdrabnianych.",
+      "instructions": [
+        "Wlej wodę, proszek Kava i łyżeczkę oleju/tłuszczu do blendera.",
+        "Miksuj na wysokich obrotach przez 3-4 minuty.",
+        "Przelej płyn przez worek filtracyjny lub drobne sitko do miski.",
+        "Dobrze wyciśnij resztki roślin w filtrze."
+      ]
+    },
+    "shaker": {
+      "title": "Metoda shakera (Aluball)",
+      "intro": "Najnowocześniejsza i najszybsza metoda, idealna w podróży.",
+      "text": "Używa się specjalnych butelek shakerowych z kulką (Aluball), która zawiera metalowe sitko.",
+      "instructions": [
+        "Napełnij kulkę Kava.",
+        "Napełnij butelkę wodą.",
+        "Włóż kulkę i energicznie wstrząsaj przez 1-2 minuty.",
+        "Gotowe!"
+      ],
+      "note": "Uwaga: Ta metoda jest często nieco mniej skuteczna niż tradycyjne ugniatanie, ale bardzo wygodna."
+    },
+    "instant": {
+      "title": "Instant i mikronizowane",
+      "intro": "Dla tych, którzy nie chcą żadnego wysiłku.",
+      "items": [
+        {
+          "name": "Instant Kava",
+          "description": "Dehydratyzowany \"zielony sok Kava\". Bardzo mocny, bardzo drogi, rozpuszcza się natychmiast w wodzie. \"Klasa królewska.\""
+        },
+        {
+          "name": "Mikronizowane Kava",
+          "description": "Ekstremalnie drobno zmielony proszek z korzenia, z którego usunięto grube włókna. Pije się go po prostu. Może powodować nudności u wrażliwych żołądków bardziej niż filtrowane Kava."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Pro wskazówki dla najlepszego działania",
+      "alert": {
+        "title": "Złota zasada",
+        "text": "Zawsze pij Kava na <strong>pusty żołądek</strong> (co najmniej 3-4 godziny po ostatnim posiłku). W przeciwnym razie działanie jest znacznie słabsze!"
+      },
+      "tips": [
+        {
+          "name": "Odwrócona tolerancja",
+          "text": "Wielu ludzi przy pierwszym razie odczuwa niewiele. Organizm musi się najpierw \"przyzwyczaić\" do kawalaktonów. Pij przez kilka dni z rzędu."
+        },
+        {
+          "name": "\"Chaser\"",
+          "text": "Kava smakuje ziemiście i gorzko. Miej pod ręką kawałek owocu (ananas, pomarańcza), aby ugryźć tuż po wypiciu."
+        },
+        {
+          "name": "Źródło tłuszczu",
+          "text": "Zjedz po sesji Kava mały, tłusty posiłek (np. pizza, curry). Może to wywołać drugą falę działania."
+        }
+      ]
+    }
+  }
+}

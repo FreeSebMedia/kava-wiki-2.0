@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "title": "Tradisjonell knetemetode",
+    "subtitle": "Den autentiske stillehavsmåten å forberede Kava – for maksimal styrke og en ekte opplevelse.",
+    "category": "Forberedelse"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "zubereitung": "Forberedelse",
+    "current": "Tradisjonell metode"
+  },
+  "toc": {
+    "title": "Innhold",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Oversikt",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Nødvendige materialer",
+        "level": 1
+      },
+      {
+        "id": "vorbereitung",
+        "title": "Forberedelse",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Trinn-for-trinn veiledning",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Ekspertips",
+        "level": 1
+      },
+      {
+        "id": "fehler",
+        "title": "Vanlige feil",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Total tid",
+    "bestPotency": "Best styrke",
+    "maxExtraction": "Maksimal ekstraksjon",
+    "authentic": "Autentisk",
+    "traditionalMethod": "Tradisjonell metode",
+    "tip": "Tips",
+    "essential": "Essensiell",
+    "optionalRecommended": "Valgfritt (anbefalt)",
+    "mistake": "Feil",
+    "consequence": "Konsekvens",
+    "solution": "Løsning",
+    "otherMethods": "Andre tilberedningsmetoder"
+  },
+  "overview": {
+    "intro": "Den tradisjonelle knetemetoden er den <strong>opprinnelige stillehavsmåten</strong> å forberede Kava, som har blitt praktisert i over 3.000 år. Den gir den <strong>sterkeste ekstraksjonen</strong> og den mest autentiske smakopplevelsen.",
+    "alert": {
+      "title": "Hvorfor denne metoden?",
+      "text": "Kavalaktone er fettløselige, ikke vannløselige. De fester seg til stivelsespartiklene i roten. Gjennom mekanisk knaing løses disse partiklene opp og emulgeres i vann – derfor er denne metoden så effektiv."
+    }
+  },
+  "materials": {
+    "title": "Nødvendige materialer",
+    "essential": [
+      {
+        "name": "Kava rotpulver",
+        "type": "Medium grind",
+        "note": "15-50g avhengig av erfaring og ønsket styrke"
+      },
+      {
+        "name": "Filterpose",
+        "type": "Nøttemelkpose",
+        "note": "75-100 mikron maskevidde, gjenbrukbar"
+      },
+      {
+        "name": "Stor bolle",
+        "type": "",
+        "note": "Minst 1 liter kapasitet"
+      },
+      {
+        "name": "Varmt vann",
+        "type": "",
+        "note": "35-45°C, håndvarmt – IKKE kokende!"
+      }
+    ],
+    "optional": [
+      {
+        "name": "Kokosmelk eller helmelk",
+        "note": "1-2 ss – Fett forbedrer ekstraksjonen"
+      },
+      {
+        "name": "Kjøkkenvekt",
+        "note": "For presis dosering"
+      },
+      {
+        "name": "Kokosnøttskall (Bilo)",
+        "note": "For den autentiske opplevelsen"
+      },
+      {
+        "name": "Chaser (frukt)",
+        "note": "Ananas, appelsin eller mango mot smaken"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Forberedelse",
+    "alert": {
+      "title": "Viktig: Faste mage",
+      "text": "Drikk Kava alltid på <strong>fastende mage</strong> – minst 3-4 timer etter det siste måltidet. Effekten vil ellers være betydelig svakere eller utebli helt!"
+    },
+    "text": "Før du begynner, sørg for at alle materialer er klare. Forberedelsen bør gjøres i ett drag, uten avbrudd."
+  },
+  "steps": {
+    "title": "Trinn-for-trinn veiledning",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Mål opp pulver",
+        "duration": "1 min",
+        "description": "Mål opp ønsket mengde Kava-pulver.",
+        "details": [
+          "Nybegynner: 15-20g per porsjon",
+          "Regelmessig: 25-35g per porsjon",
+          "Erfaren: 35-50g per porsjon",
+          "Bruk medium grind pulver for best resultat"
+        ],
+        "tip": "Bruk vår doseringskalkulator for personlige anbefalinger basert på din sort og erfaring."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Forbered vann",
+        "duration": "2 min",
+        "description": "Forbered varmt vann i en stor bolle.",
+        "details": [
+          "Vanntemperatur: 35-45°C (håndvarmt)",
+          "Vannmengde: 300-500ml per porsjon",
+          "Valgfritt: Tilsett 1-2 ss kokosmelk eller helmelk",
+          "BRUK ALDRI kokende vann!"
+        ],
+        "tip": "Fett forbedrer ekstraksjonen av kavalaktone betydelig. Kokosmelk er tradisjonelt og smakfullt ideelt."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Bløtlegging",
+        "duration": "5 min",
+        "description": "La pulveret bløtlegges i filterposen.",
+        "details": [
+          "Legg pulveret i nøttemelkposen (75-100 mikron)",
+          "Lukk eller snurr posen",
+          "Dyp i det varme vannet",
+          "La stå i 5 minutter for å fukte pulveret"
+        ],
+        "tip": "Bløtlegging er viktig! Det åpner plantefibrene og gjør kavalaktone mer tilgjengelig."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Knaing",
+        "duration": "10-15 min",
+        "description": "Det viktigste trinnet: Kraftig knaing under vann.",
+        "details": [
+          "Kna posen kraftig under vann og masser",
+          "Trykk, klem og vri rytmisk",
+          "Vannet blir gradvis melkeaktig-brunt",
+          "Kna i minst 10 minutter, helst 15 minutter"
+        ],
+        "tip": "Jo lenger og kraftigere du knar, jo sterkere blir Kava. Fargen skal se ut som melkekaffe."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Klem ut",
+        "duration": "2 min",
+        "description": "Klem posen helt ut.",
+        "details": [
+          "Ta posen ut av vannet",
+          "Klem godt over bollen",
+          "Vri flere ganger til det knapt kommer væske",
+          "Valgfritt: Gjenta med friskt vann for en andre ekstraksjon"
+        ],
+        "tip": "Den andre ekstraksjonen ('Second Wash') er svakere, men fortsatt effektiv. Ideell for å forlenge."
+      },
+      {
+        "id": "schritt6",
+        "number": 6,
+        "title": "Servering",
+        "duration": "Umiddelbart",
+        "description": "Nyt din nytilberedte Kava!",
+        "details": [
+          "Hell i en kokosnøttskall (Bilo) eller kopp",
+          "Tradisjonelt drikkes Kava i ett drag ('Chug')",
+          "Ikke nippe – det forlenger den bitre smaken",
+          "Ha en 'Chaser' (fruktstykke) klar"
+        ],
+        "tip": "Klapp en gang i hendene før du drikker og si 'Bula!' – det er den tradisjonelle stillehavsmåten."
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Ekspertips",
+    "items": [
+      {
+        "name": "Second Wash",
+        "text": "Etter den første ekstraksjonen kan du kna pulveret igjen med friskt vann. 'Second Wash' er svakere, men ideell for å forlenge eller for nybegynnere."
+      },
+      {
+        "name": "Fett-Boost",
+        "text": "Spis et lite, fettrikt måltid 30-60 minutter etter Kava. Dette kan utløse en 'andre bølge' av effekten, da fettet frigjør gjenværende kavalaktone."
+      },
+      {
+        "name": "Reverse Tolerance",
+        "text": "Mange nybegynnere merker lite ved første gang. Kroppen må først 'venne' seg til kavalaktone. Drikk Kava flere dager på rad for full effekt."
+      },
+      {
+        "name": "Temperatur-sjekk",
+        "text": "Test vannet med albuen – det skal føles behagelig varmt, som badvann for en baby. For varmt ødelegger virkestoffene!"
+      }
+    ]
+  },
+  "commonMistakes": {
+    "title": "Unngå vanlige feil",
+    "items": [
+      {
+        "mistake": "Bruke kokende vann",
+        "consequence": "Ødelegger kavalaktone og gjør Kava ineffektiv",
+        "solution": "Bruk alltid håndvarmt vann (35-45°C)"
+      },
+      {
+        "mistake": "Kna for kort",
+        "consequence": "Svak effekt, bortkastet pulver",
+        "solution": "Kna tålmodig i minst 10-15 minutter"
+      },
+      {
+        "mistake": "Brygge Kava som te",
+        "consequence": "Lite effekt, da kavalaktone ikke er vannløselige",
+        "solution": "Mekanisk ekstraksjon gjennom knaing er essensiell"
+      },
+      {
+        "mistake": "Drikke etter måltid",
+        "consequence": "Sterkt redusert effekt",
+        "solution": "Vær fastende i minst 3-4 timer"
+      },
+      {
+        "mistake": "Kna for fint pulver (Micronized)",
+        "consequence": "Tetner filteret, dårlig tekstur",
+        "solution": "Bruk medium grind for tradisjonell metode"
+      }
+    ]
+  },
+  "navigation": {
+    "blender": {
+      "title": "Blender-metode",
+      "subtitle": "Raskere og ofte sterkere",
+      "href": "/no/forberedelse/blender"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Ingen innsats, klar til å drikke umiddelbart",
+      "href": "/no/forberedelse/instant"
+    },
+    "calculator": {
+      "title": "Doseringskalkulator",
+      "subtitle": "Personlige anbefalinger for din sort",
+      "href": "/no/forberedelse/kalkulator"
+    }
+  }
+}

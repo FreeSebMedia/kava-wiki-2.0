@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Uprawa i Ekologia",
+    "subtitle": "Warunki wzrostu, metody rozmnażania i sztuka tradycyjnej uprawy Kava.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "current": "Uprawa i Ekologia"
+  },
+  "toc": {
+    "vermehrung": "Rozmnażanie wegetatywne",
+    "stecklinge": "Pozyskiwanie sadzonek",
+    "klima": "Wymagania klimatyczne",
+    "boden": "Charakterystyka gleby",
+    "pflege": "Pielęgnacja i Wzrost",
+    "ernte": "Zbiory i Czas dojrzewania",
+    "qualitaet": "Czynniki jakości",
+    "anbauregionen": "Ważne regiony upraw"
+  },
+  "intro": {
+    "paragraph1": "Uprawa Kava to sztuka, która od tysiącleci jest przekazywana z pokolenia na pokolenie. Ponieważ <em>Piper methysticum</em> jest sterylny i nie produkuje nasion, roślina jest całkowicie zależna od człowieka. Ta unikalna zależność doprowadziła do głębokiego związku kulturowego między ludami Pacyfiku a ich świętą rośliną."
+  },
+  "vermehrung": {
+    "title": "Rozmnażanie wegetatywne",
+    "paragraph1": "Rozmnażanie Kava odbywa się wyłącznie <strong>wegetatywnie przez sadzonki</strong>. Jest to bezpośredni skutek sterylności rośliny – cechy, która powstała w wyniku tysiącleci udomowienia.",
+    "advantages": {
+      "title": "Zalety rozmnażania wegetatywnego",
+      "items": [
+        "Tożsamość genetyczna z rośliną macierzystą",
+        "Zachowanie sprawdzonych cech odmianowych",
+        "Przewidywalny profil chemotypowy",
+        "Szybszy wzrost niż z nasion",
+        "Sprawdzona jakość przez pokolenia"
+      ]
+    },
+    "challenges": {
+      "title": "Wyzwania",
+      "items": [
+        "Brak możliwości zmienności genetycznej",
+        "Podatność na choroby (klony)",
+        "Zależność od roślin macierzystych",
+        "Ograniczona prędkość rozprzestrzeniania",
+        "Ryzyko utraty odmian"
+      ]
+    },
+    "stecklinge": {
+      "title": "Pozyskiwanie sadzonek i sadzenie",
+      "paragraph1": "Tradycyjna metoda pozyskiwania sadzonek opiera się na sprawdzonym procesie:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Wybór",
+          "description": "Zdrowe odcinki łodyg z 2-3 węzłami z sprawdzonej rośliny macierzystej"
+        },
+        {
+          "number": "2",
+          "title": "Cięcie",
+          "description": "Czyste cięcie poniżej węzła, długość ok. 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Przygotowanie",
+          "description": "Usunięcie dolnych liści, krótkie osuchanie miejsca cięcia"
+        },
+        {
+          "number": "4",
+          "title": "Sadzenie",
+          "description": "Umieszczenie w luźnej, wilgotnej glebie w cieniu, regularne podlewanie"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Wymagania klimatyczne",
+    "paragraph1": "Kava jest <strong>rośliną tropikalną</strong> z określonymi wymaganiami klimatycznymi. Rośnie tylko w stosunkowo wąskim zakresie warunków środowiskowych.",
+    "table": {
+      "headers": {
+        "parameter": "Parametr",
+        "optimal": "Optymalny zakres",
+        "tolerance": "Zakres tolerancji",
+        "note": "Uwagi"
+      },
+      "rows": [
+        {
+          "parameter": "Temperatura",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Nie toleruje mrozu"
+        },
+        {
+          "parameter": "Opady",
+          "optimal": "2.000-3.000 mm/rok",
+          "tolerance": "1.500-4.000 mm/rok",
+          "note": "Równomiernie rozłożone"
+        },
+        {
+          "parameter": "Wilgotność powietrza",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Preferowana wysoka wilgotność"
+        },
+        {
+          "parameter": "Wysokość nad poziomem morza",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Preferowane tereny nizin"
+        },
+        {
+          "parameter": "Światło słoneczne",
+          "optimal": "Półcień",
+          "tolerance": "30-70% cienia",
+          "note": "Młode rośliny: więcej cienia"
+        }
+      ]
+    },
+    "alert": "<strong>Zapotrzebowanie na cień:</strong> Młode rośliny Kava (0-2 lata) potrzebują około 70-80% cienia. W miarę starzenia się mogą tolerować więcej światła słonecznego, ale nadal korzystają z częściowego cienia."
+  },
+  "boden": {
+    "title": "Charakterystyka gleby",
+    "paragraph1": "Charakterystyka gleby jest jednym z najważniejszych czynników dla udanej uprawy Kava. Roślina stawia wysokie wymagania co do drenażu i zawartości składników odżywczych.",
+    "ideal": {
+      "title": "Idealne właściwości gleby",
+      "items": [
+        {
+          "label": "Struktura:",
+          "value": "Luźna, grudkowata, dobrze napowietrzona"
+        },
+        {
+          "label": "Drenaż:",
+          "value": "Doskonały – zastoje wody szybko prowadzą do zgnilizny korzeni"
+        },
+        {
+          "label": "pH:",
+          "value": "Lekko kwaśne do neutralnego (5,5-6,5)"
+        },
+        {
+          "label": "Zawartość organiczna:",
+          "value": "Wysoka, bogata w humus"
+        },
+        {
+          "label": "Głębokość:",
+          "value": "Minimum 60 cm dla rozwoju korzeni"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Do unikania",
+      "items": [
+        {
+          "label": "Zagęszczone gleby:",
+          "value": "Hamują wzrost korzeni"
+        },
+        {
+          "label": "Zastoje wody:",
+          "value": "Prowadzą do zgnilizny korzeni i infekcji grzybiczych"
+        },
+        {
+          "label": "Ciężkie gleby gliniaste:",
+          "value": "Słaby drenaż"
+        },
+        {
+          "label": "Gleby zasolone:",
+          "value": "Kava jest wrażliwa na sól"
+        },
+        {
+          "label": "Gleby ubogie w składniki odżywcze:",
+          "value": "Redukują zawartość kavalaktonów"
+        }
+      ]
+    },
+    "paragraph2": "W tradycyjnych obszarach uprawy często preferowane są <strong>gleby wulkaniczne</strong>. Oferują one idealne połączenie drenażu, zawartości minerałów i struktury. Na Vanuatu i Fidżi plantacje Kava często zakłada się na lekko nachylonych zboczach, aby zapewnić naturalny drenaż."
+  },
+  "pflege": {
+    "title": "Pielęgnacja i Wzrost",
+    "paragraph1": "Kava jest stosunkowo łatwą w pielęgnacji rośliną, gdy już się ustabilizuje. Najważniejsze działania pielęgnacyjne koncentrują się na pierwszych dwóch latach.",
+    "table": {
+      "headers": {
+        "phase": "Faza wzrostu",
+        "period": "Okres",
+        "tasks": "Główne zadania",
+        "notes": "Szczególności"
+      },
+      "rows": [
+        {
+          "phase": "Ustabilizowanie",
+          "period": "0-6 miesięcy",
+          "tasks": "Regularne podlewanie, zapewnienie cienia",
+          "notes": "Najbardziej krytyczna faza"
+        },
+        {
+          "phase": "Faza młodzieńcza",
+          "period": "6-18 miesięcy",
+          "tasks": "Kontrola chwastów, ściółkowanie, ewentualne nawożenie",
+          "notes": "Szybki wzrost"
+        },
+        {
+          "phase": "Faza dojrzałości",
+          "period": "18-36 miesięcy",
+          "tasks": "Minimalna pielęgnacja, kontrola szkodników",
+          "notes": "Rozwój korzeni"
+        },
+        {
+          "phase": "Dojrzałość zbiorcza",
+          "period": "3-5+ lat",
+          "tasks": "Ocena jakości, przygotowanie do zbiorów",
+          "notes": "Optymalna moc"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Zbiory i Czas dojrzewania",
+    "paragraph1": "Czas zbiorów jest kluczowy dla jakości końcowego produktu. Jedna z najważniejszych zasad w uprawie Kava brzmi: <strong>Im starsza roślina, tym bardziej potężny i zrównoważony profil działania.</strong>",
+    "qualitaet": {
+      "title": "Czynniki jakości przy zbiorach",
+      "table": {
+        "headers": {
+          "age": "Wiek przy zbiorze",
+          "content": "Zawartość kavalaktonów",
+          "quality": "Poziom jakości",
+          "usage": "Zastosowanie"
+        },
+        "rows": [
+          {
+            "age": "< 2 lata",
+            "content": "Niska (3-5%)",
+            "quality": "Niedojrzała",
+            "qualityColor": "red",
+            "usage": "Nie zalecana"
+          },
+          {
+            "age": "2-3 lata",
+            "content": "Średnia (5-10%)",
+            "quality": "Akceptowalna",
+            "qualityColor": "yellow",
+            "usage": "Proste produkty"
+          },
+          {
+            "age": "3-5 lat",
+            "content": "Wysoka (10-15%)",
+            "quality": "Dobra",
+            "qualityColor": "green",
+            "usage": "Standardowa jakość"
+          },
+          {
+            "age": "5-7 lat",
+            "content": "Bardzo wysoka (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Produkty wysokiej jakości"
+          },
+          {
+            "age": "> 7 lat",
+            "content": "Maksymalna (18-25%)",
+            "quality": "Wyjątkowa",
+            "qualityColor": "purple",
+            "usage": "Użycie ceremonialne"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Aby uzyskać wysoką jakość ('Noble Kava'), roślina musi rosnąć co najmniej 3 do 5 lat. Im starsza roślina, tym bardziej potężny i zrównoważony jest zazwyczaj profil działania.",
+      "author": "Sebastian Freidank, \"Kava – Korzeń spokoju\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Ważne regiony upraw",
+    "paragraph1": "Kava jest obecnie uprawiana w pasie tropikalnych wysp na Pacyfiku. Każdy region opracował swoje własne odmiany, tradycje i cechy jakościowe.",
+    "table": {
+      "headers": {
+        "region": "Region",
+        "varieties": "Znane odmiany",
+        "characteristics": "Cechy szczególne",
+        "production": "Produkcja"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Największa różnorodność odmian (80+ kultivarów)",
+          "production": "Największy producent na świecie",
+          "highlight": true
+        },
+        {
+          "region": "Fidżi",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Znane z \"Waka\" (korzeni premium)",
+          "production": "Drugi co do wielkości producent"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Bardzo łagodne, \"kremowe\" Kavy",
+          "production": "Średnia produkcja"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Ceremonie tradycyjne",
+          "production": "Konsumpcja lokalna"
+        },
+        {
+          "region": "Hawaje",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Ożywienie tradycyjnych odmian",
+          "production": "Wzrost"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Odmiany Sakau",
+          "characteristics": "Świeży sok z Kava (\"Sakau\")",
+          "production": "Konsumpcja lokalna"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> uważane jest za kraj pochodzenia udomowionej Kava i do dziś posiada największą różnorodność genetyczną. Z tego miejsca roślina została rozprzestrzeniona przez polinezyjskich żeglarzy po całym Pacyfiku – jako jedna z najważniejszych \"roślin canoe\", które były zabierane przy każdej kolonizacji nowych wysp."
+  },
+  "navigation": {
+    "nextCategory": "Przejdź do następnej kategorii:",
+    "nextTitle": "Historia i Pochodzenie",
+    "nextSubtitle": "3000-letnia podróż Kava przez Pacyfik"
+  }
+}

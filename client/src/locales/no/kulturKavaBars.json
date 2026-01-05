@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava-Bar Finder",
+    "description": "Finn Kava-Bars over hele verden – fra Florida til New Zealand. Med adresser, vurderinger og åpningstider."
+  },
+  "breadcrumb": {
+    "home": "Hjem",
+    "kultur": "Kultur",
+    "current": "Kava-Bar Finder"
+  },
+  "viewToggle": {
+    "list": "Liste",
+    "map": "Kart"
+  },
+  "search": {
+    "placeholder": "Søk etter navn, by eller land...",
+    "resultsCount": "Kava-Bar(er) funnet",
+    "resultSingular": "Kava-Bar funnet",
+    "resultPlural": "Kava-Bars funnet"
+  },
+  "filter": {
+    "button": "Filter",
+    "country": "Land",
+    "allCountries": "Alle land",
+    "region": "Region/stat",
+    "allRegions": "Alle regioner",
+    "minRating": "Minste vurdering",
+    "allRatings": "Alle vurderinger",
+    "rating4Plus": "4+ stjerner",
+    "rating45Plus": "4.5+ stjerner",
+    "clearFilters": "Tilbakestill filtre",
+    "features": "Fasiliteter"
+  },
+  "featureLabels": {
+    "wifi": "WLAN",
+    "outdoor": "Uteområde",
+    "food": "Mat",
+    "live-music": "Live-musikk",
+    "events": "Arrangementer",
+    "traditional": "Tradisjonell tilberedning",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Spill",
+    "parking": "Parkering",
+    "accessible": "Tilgjengelig",
+    "late-night": "Sen åpning"
+  },
+  "countryNames": {
+    "US": "USA",
+    "AU": "Australia",
+    "NZ": "New Zealand",
+    "DE": "Tyskland",
+    "UK": "Storbritannia",
+    "CA": "Canada"
+  },
+  "bar": {
+    "verified": "Verifisert",
+    "address": "Adresse",
+    "hours": "Åpningstider",
+    "specialties": "Spesialiteter",
+    "features": "Fasiliteter",
+    "reviews": "Vurderinger",
+    "call": "Ring",
+    "website": "Nettside",
+    "route": "Rute",
+    "routePlan": "Planlegg rute",
+    "backToList": "Tilbake til listen"
+  },
+  "empty": {
+    "title": "Ingen Kava-Bars funnet",
+    "description": "Prøv andre søkeord eller filtre.",
+    "resetButton": "Tilbakestill filtre"
+  },
+  "stats": {
+    "title": "Kava-Bar Statistikk",
+    "bars": "Kava-Bars",
+    "countries": "Land",
+    "inUSA": "i USA",
+    "verified": "Verifisert"
+  },
+  "cta": {
+    "title": "Kjenner du en Kava-Bar?",
+    "description": "Hjelp oss med å utvide databasen! Hvis du kjenner til en Kava-Bar som ikke er oppført her, gi oss beskjed.",
+    "button": "Foreslå Kava-Bar"
+  },
+  "related": {
+    "title": "Relaterte sider",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bars",
+      "subtitle": "Historien om Kava-drikkekulturen"
+    },
+    "moderne": {
+      "title": "Moderne Kava-Kultur",
+      "subtitle": "Global spredning i dag"
+    },
+    "weltkarte": {
+      "title": "Interaktiv verdenskart",
+      "subtitle": "Oppdag Kava-regioner"
+    }
+  },
+  "navigation": {
+    "nakamal": "/no/kultur/nakamal",
+    "moderne": "/no/kultur/moderne",
+    "weltkarte": "/no/kultur/weltkarte",
+    "kontakt": "/no/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "En av de mest kjente Kava-Bar-kjedene i Florida med autentisk atmosfære og høykvalitets Kava-varianter fra Vanuatu og Fiji.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Kava Smoothies"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra bruker det høyeste kvalitet Kava fra øya Vanuatu. Brukt i seremonier i tusenvis av år.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Kava Flights"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Lokal drevet Kava-Bar med et utvalg av tradisjonelt tilberedt Kava i avslappet atmosfære.",
+      "specialties": [
+        "Tradisjonell Kava",
+        "Kratom Teas"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Premium Kava-Bar i hjertet av Las Olas med stillehavsflair og et stort utvalg av Noble Kava-varianter.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Tongan Kava",
+        "Kava Flights"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "Madeira Beachs første Kava-Bar! Eies av eieren av Bula Kafe, den første Kava-Bar i Pinellas.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "Avslappet Kava-lounge med det fineste fidschianske Kava, Hookahs, Kratom og Kava-comedy-mandag.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Comedy Nights"
+      ]
+    },
+    "roots-miami": {
+      "description": "Urbane Kava-Bar i Wynwood med kunstnerisk miljø og regelmessige live-musikkarrangementer.",
+      "specialties": [
+        "House Blend",
+        "Kava Cocktails",
+        "Kratom Teas"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Moderne Kava-Bar, lounge og detaljhandelssted i Miami.",
+      "specialties": [
+        "Botanical Blends",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Hovedkvarteret til Kava Culture franchisekjeden med det største utvalget av Kava-varianter.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Kava Cocktails",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Moderne, stilige innendørs/utendørs Kava-Bar i Bonita Springs.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Avslappet Kava-Bar i Clearwater med Happy Hour fra 14-17.",
+      "specialties": [
+        "Happy Hour Specials",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Downtown Fort Myers Kava Culture med Open Mic Nights, kunst og deilige Kava-cocktails.",
+      "specialties": [
+        "Open Mic Nights",
+        "Art Events"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture i Downtown Orlando med avslappet atmosfære.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kratom Blends"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB med Buddha Blends Vegan Kitchen. Utendørs strandbar, biljardbord, dart, Open Mics.",
+      "specialties": [
+        "Beach Vibes",
+        "Vegan Food",
+        "Live Music"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture i Key West - tropiske vibber og premium Kava.",
+      "specialties": [
+        "Island Blend",
+        "Tropical Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture i Downtown Tampa med urban atmosfære.",
+      "specialties": [
+        "Urban Blend",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture i South Tampa med avslappet nabolagsatmosfære.",
+      "specialties": [
+        "Neighborhood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture i Naples med en sofistikert atmosfære.",
+      "specialties": [
+        "Premium Selection",
+        "Kava Flights"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte med strandvibber, utendørs strand ved kanalen.",
+      "specialties": [
+        "Beach Vibes",
+        "Canal Views"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture i Estero med praktisk beliggenhet.",
+      "specialties": [
+        "Convenient Location",
+        "Quality Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture i Lake Mary - avslappet atmosfære.",
+      "specialties": [
+        "Relaxed Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze er en Kava-Bar i Tallahassee med Kava, te og et avslappet sted å slappe av.",
+      "specialties": [
+        "Student Specials",
+        "Chill Vibes"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Downtown Melbourne FL Island Root Kava Bar.",
+      "specialties": [
+        "Tradisjonell Kava",
+        "Community Events"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge er Kava-Java-Hookah-Loungen med kaffe, te, Kava, Kratom og Hookah.",
+      "specialties": [
+        "Hookah",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Familiedrevet, alle organiske botanicals og teer for maksimal velvære.",
+      "specialties": [
+        "Organic Botanicals",
+        "Wellness Teas"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors er en lokal vape-butikk og lounge med Kava og Kratom.",
+      "specialties": [
+        "Vape Products",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge er et møtested for kreative og fredelige sjeler.",
+      "specialties": [
+        "Creative Community",
+        "Live Music"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Etnobotanisk te-bar med Kava og Kratom.",
+      "specialties": [
+        "Ethnobotanicals",
+        "Tea Blends"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, Vapor og eHookah rett ved motorveien. Chill, slapp av og nyt!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula tilbyr premium Kava i en avslappet strandatmosfære.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava Social er et sosialt møtested med Kava, te og fellesskapsarrangementer.",
+      "specialties": [
+        "Social Events",
+        "Kava",
+        "Tea"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava tilbyr autentisk Kava for universitetsbyen Gainesville.",
+      "specialties": [
+        "University Vibes",
+        "Premium Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Peaceful Warrior Kava Bar i Jacksonville med fokus på velvære og avslapning.",
+      "specialties": [
+        "Wellness",
+        "Tradisjonell Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe tilbyr Kava og en åndelig fellesskapsatmosfære.",
+      "specialties": [
+        "Spiritual Community",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "The Kava Tap i Pensacola - avslappet bar-atmosfære med Kava fra kran.",
+      "specialties": [
+        "Draft Kava",
+        "Bar Vibes"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala tilbyr premium Kava for sentrum av Florida.",
+      "specialties": [
+        "Central Florida",
+        "Premium Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe Orlando bringer stillehavs-vibber til Central Florida.",
+      "specialties": [
+        "Pacific Vibes",
+        "Premium Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Purple Lotus Kava Bar i Phoenix - Arizonas premier Kava-destinasjon.",
+      "specialties": [
+        "Arizona's First",
+        "Premium Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Kava Culture i Tempe, Arizona - ideelt for studenter ved ASU.",
+      "specialties": [
+        "Student Friendly",
+        "Premium Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "The Root i Tucson tilbyr autentisk Kava og Kratom.",
+      "specialties": [
+        "Authentic Kava",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "Bula Kava House i San Diego med avslappet strand-atmosfære.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "Kava Roots i San Francisco - Bay Areas første Kava-Bar.",
+      "specialties": [
+        "Bay Area First",
+        "Premium Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava Los Angeles bringer premium Kava til Hollywood.",
+      "specialties": [
+        "Hollywood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Alkoholfri, alle aldre velkommen, urte-lounge med eliksirer, eksotika og rå mat.",
+      "specialties": [
+        "Herbal Elixirs",
+        "Raw Food",
+        "All Ages"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "Serverer den beste tradisjonelt tilberedte Kava i en underholdende og sosial atmosfære. Den mest innovative ideen for et chill-sted!",
+      "specialties": [
+        "Tradisjonell tilberedning",
+        "Kava Utdanning"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Apotek, tehage, kunstgalleri & musikksted i hjertet av Sør-Oregon! Importerer Kava fra Big Island Hawaii.",
+      "specialties": [
+        "Kava Kombucha",
+        "Kunstgalleri",
+        "Musikksted"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "Austins populære Kava-Bar med avslappet atmosfære, spill og fellesskapsarrangementer.",
+      "specialties": [
+        "Kava Flights",
+        "Kratom Blends",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture i Lewisville, Texas.",
+      "specialties": [
+        "Premium Kava",
+        "Texas Vibes"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture i North Fort Worth.",
+      "specialties": [
+        "Premium Kava",
+        "Praktisk beliggenhet"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - ÅPNET NÅ i Ohio.",
+      "specialties": [
+        "Premium Kava",
+        "Midwest Vibes"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture i Toledo, Ohio.",
+      "specialties": [
+        "Premium Kava",
+        "Ohio Location"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "Salt Lake Citys første Kava-Bar med et utvalg av premium Kava og et innbydende fellesskap.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Seremonier"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Kava er en rot fra Sør-Stillehavet. Brukt som seremonielt drikke for avslapning og beroligelse.",
+      "specialties": [
+        "NYC Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra er Amerikas fineste Kava-Bar med premium Kava og andre urter.",
+      "specialties": [
+        "Premium Kava",
+        "Herbal Blends"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia er en Kava-Bar spesialisert på Kava-infuserte drikker og rå desserter samt bonsai-planter.",
+      "specialties": [
+        "Raw Desserts",
+        "Bonsai Plants",
+        "Kava Drinks"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Fullstendig linje av urt- og Kava-produkter, juicebar, tobakk, hookah, vape-produkter - alt under ett tak.",
+      "specialties": [
+        "Herbal Products",
+        "Juice Bar"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "Den første Kava-Bar i Missouri! Kom og se hva det handler om. Åpen 7 dager i uken.",
+      "specialties": [
+        "Missouris første",
+        "Tradisjonell Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar i Carrboro, North Carolina.",
+      "specialties": [
+        "Premium Kava",
+        "College Town Vibes"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar i Wilmington, North Carolina.",
+      "specialties": [
+        "Coastal Vibes",
+        "Premium Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision er et unikt co-working space og kafé med spesialiteter som Kava & Kratom.",
+      "specialties": [
+        "Co-Working Space",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Sunn mat for en sunn kropp og Kava! Alaskas Kava-destinasjon.",
+      "specialties": [
+        "Acai Bowls",
+        "Smoothies",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture i Spartanburg, South Carolina.",
+      "specialties": [
+        "Premium Kava",
+        "Southern Hospitality"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "Australias første dedikerte Kava-lounge med autentisk fidschiansk Kava og stillehavs-gjestfrihet.",
+      "specialties": [
+        "Fiji Waka",
+        "Vanuatu Kava",
+        "Tradisjonell seremoni"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Melbournes Kava-Bar i Pacific Market med et utvalg av Kava og Kratom.",
+      "specialties": [
+        "Fiji Kava",
+        "Tongan Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "Brisbanes autentiske Kava-Bar med fidschiansk dekor og tradisjonell tilberedning.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Seremonier"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "Aucklands dedikerte Kava-lounge i Victoria Park Market med et varmt, innbydende fellesskap og Noble Kava fra hele Stillehavet.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Waka",
+        "Vanuatu Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Autentisk Kava-Bar i South Auckland med rimelige priser og et stort utvalg av Kava-pulver.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Kava",
+        "Kava Powder Sales"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "Berlins første Kava-lounge i Kreuzberg med avslappet atmosfære og regelmessige Kava-seremonier.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Seremonier"
+      ]
+    },
+    "kava-club-london": {
+      "description": "Londons første Kava-klubb i Shoreditch med urban atmosfære og et utvalg av premium Kava.",
+      "specialties": [
+        "Fiji Premium",
+        "Kava Cocktails"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Vancouvers koselige Kava-kafé med et utvalg av Kava og sunne retter.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Smoothie Bowls"
+      ]
+    }
+  }
+}

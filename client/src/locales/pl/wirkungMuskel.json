@@ -1,0 +1,233 @@
+{
+  "page": {
+    "title": "Relaksacja mięśni",
+    "subtitle": "Jak Kavalactony łagodzą napięcia i wspierają relaksację ciała.",
+    "category": "Działanie"
+  },
+  "toc": {
+    "title": "Spis treści",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Wprowadzenie",
+        "level": 1
+      },
+      {
+        "id": "mechanismen",
+        "title": "Mechanizmy działania",
+        "level": 1
+      },
+      {
+        "id": "kavalactone",
+        "title": "Istotne Kavalactony",
+        "level": 1
+      },
+      {
+        "id": "anwendungen",
+        "title": "Obszary zastosowania",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Zalecane chemotypy i odmiany",
+        "level": 1
+      },
+      {
+        "id": "praxis",
+        "title": "Praktyczne zastosowanie",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "wirkung": "Działanie",
+    "current": "Relaksacja mięśni"
+  },
+  "einfuehrung": {
+    "paragraph1": "Działanie <strong>relaksujące mięśnie</strong> Kavy jest jednym z najbardziej zauważalnych efektów. Już po pierwszej porcji zaczyna się fala relaksacji w ciele – napięcia ustępują, ciało staje się \"ciężkie\" i przyjemne.",
+    "paragraph2": "W tradycyjnym zastosowaniu na Pacyfiku Kava była używana od tysięcy lat do łagodzenia bólu mięśni i napięcia ciała. Nowoczesne badania wyjaśniły leżące u podstaw mechanizmy."
+  },
+  "mechanismen": {
+    "title": "Mechanizmy działania",
+    "intro": "Działanie relaksujące mięśnie Kavy opiera się na kilku synergicznych mechanizmach, które działają zarówno na poziomie centralnym (mózg/rdzeń kręgowy), jak i obwodowym.",
+    "items": [
+      {
+        "icon": "zap",
+        "title": "Blokada kanałów sodowych i wapniowych",
+        "text": "Kavalactony blokują zależne od napięcia <strong>kanały sodowe i wapniowe</strong> w komórkach nerwowych. Redukuje to pobudliwość neuronów ruchowych (komórek nerwowych, które kontrolują mięśnie) i prowadzi do zmniejszenia napięcia mięśniowego. Mechanizm ten odpowiada również za <strong>działanie przeciwdrgawkowe</strong>."
+      },
+      {
+        "icon": "activity",
+        "title": "Centralna modulacja GABA",
+        "text": "Wzmocnienie działania GABA w mózgu i rdzeniu kręgowym redukuje <strong>centralne napięcie mięśniowe</strong>. GABA jest najważniejszym neuroprzekaźnikiem hamującym i reguluje również napięcie mięśniowe na poziomie rdzeniowym."
+      },
+      {
+        "icon": "heart",
+        "title": "Działanie obwodowe",
+        "text": "Niektóre Kavalactony działają również bezpośrednio na <strong>mięśnie gładkie</strong> (np. w naczyniach krwionośnych). Może to prowadzić do lekkiej wazodylatacji (rozszerzenia naczyń), co wyjaśnia uczucie ciepła, o którym wielu użytkowników donosi."
+      }
+    ],
+    "quote": {
+      "text": "Kavalactony blokują zależne od napięcia kanały sodowe i wapniowe na poziomie neuronów, co przyczynia się do działania relaksującego mięśnie.",
+      "source": "— Kava – korzeń spokoju"
+    }
+  },
+  "kavalactone": {
+    "title": "Istotne Kavalactony",
+    "intro": "Nie wszystkie Kavalactony działają równie silnie relaksująco na mięśnie. Szczególnie dwie substancje wyróżniają się:",
+    "dhk": {
+      "position": "2",
+      "title": "Dihydrokawaina (DHK)",
+      "positionLabel": "Pozycja 2 w chemotypie",
+      "description": "DHK jest <strong>najsilniejszym relaksującym mięśnie</strong> Kavalactonem. Działa głównie poprzez blokadę kanałów sodowych i ma wyraźny składnik sedatywny.",
+      "profileLabel": "Profil działania:",
+      "profile": "Silnie relaksujący mięśnie, sedatywny, skoncentrowany na ciele. Idealny do stosowania wieczorem i w przypadku napięć."
+    },
+    "dhm": {
+      "position": "5",
+      "title": "Dihydrometycyna (DHM)",
+      "positionLabel": "Pozycja 5 w chemotypie",
+      "description": "DHM ma również silne właściwości relaksujące mięśnie, ale jest także Kavalactonem o <strong>najdłuższym czasie działania</strong>. Przy wysokich stężeniach może prowadzić do długotrwałego zmęczenia.",
+      "warningLabel": "Uwaga:",
+      "warning": "Wysokie stężenia DHM (pozycja 1-2) są typowe dla odmian Tudei i mogą prowadzić do objawów \"kaca\"."
+    },
+    "table": {
+      "headers": {
+        "kavalacton": "Kavalacton",
+        "relaxation": "Relaksacja mięśni",
+        "sedation": "Sedacja",
+        "duration": "Czas działania"
+      },
+      "rows": [
+        {
+          "name": "Dihydrokawaina (2)",
+          "relaxation": "⭐⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐",
+          "duration": "Średni"
+        },
+        {
+          "name": "Dihydrometycyna (5)",
+          "relaxation": "⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐⭐",
+          "duration": "Długi"
+        },
+        {
+          "name": "Metycyna (3)",
+          "relaxation": "⭐⭐⭐",
+          "sedation": "⭐⭐⭐",
+          "duration": "Średni"
+        },
+        {
+          "name": "Kawaina (4)",
+          "relaxation": "⭐⭐",
+          "sedation": "⭐⭐",
+          "duration": "Krótki"
+        }
+      ]
+    }
+  },
+  "anwendungen": {
+    "title": "Obszary zastosowania",
+    "intro": "Działanie relaksujące mięśnie Kavy może być pomocne w różnych dolegliwościach:",
+    "items": [
+      {
+        "title": "Napięcia w okolicy szyi/ramion",
+        "text": "Stres i praca przy komputerze często prowadzą do przewlekłych napięć. Kava może pomóc w ich rozluźnieniu i poprawie samopoczucia."
+      },
+      {
+        "title": "Bóle pleców",
+        "text": "W przypadku bólów pleców spowodowanych napięciem mięśniowym działanie relaksujące może przynieść ulgę. Kava nie zastępuje leczenia medycznego, ale może działać wspomagająco."
+      },
+      {
+        "title": "Bóle głowy napięciowe",
+        "text": "Bóle głowy spowodowane napięciami mięśniowymi w okolicy szyi i głowy mogą być złagodzone przez relaksację."
+      },
+      {
+        "title": "Dolegliwości menstruacyjne",
+        "text": "Działanie przeciwskurczowe może być pomocne w przypadku skurczów menstruacyjnych. Tradycyjnie Kava była również stosowana w Pacyfiku w tym celu."
+      },
+      {
+        "title": "Po sporcie",
+        "text": "Aby wspomóc regenerację po intensywnym treningu, Kava może pomóc w rozluźnieniu mięśni i wspieraniu powrotu do zdrowia."
+      },
+      {
+        "title": "Zespół niespokojnych nóg",
+        "text": "Niektórzy użytkownicy zgłaszają ulgę w przypadku niespokojnych nóg. Połączenie relaksacji mięśni i działania anksjolitycznego może być skuteczne."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Zalecane chemotypy i odmiany",
+    "intro": "Aby uzyskać maksymalną <strong>relaksację mięśni</strong>, należy wybierać odmiany o wysokiej zawartości DHK (pozycja 2 na pierwszym lub drugim miejscu). Te \"ciężkie\" Kavy są skoncentrowane na ciele i idealne do stosowania wieczorem.",
+    "heavy": {
+      "label": "Ciężkie",
+      "idealFor": "Maksymalna relaksacja mięśni",
+      "varieties": [
+        {
+          "name": "Palasa (Vanuatu)",
+          "chemotype": "423651",
+          "description": "Bardzo skoncentrowane na ciele, silna relaksacja mięśni. Idealne w przypadku napięć."
+        },
+        {
+          "name": "Ambae (Vanuatu)",
+          "chemotype": "246531",
+          "description": "Dominujący DHK, wyraźny efekt \"Couch-Lock\"."
+        },
+        {
+          "name": "Palarasul (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Silnie sedatywne z dobrą relaksacją mięśni."
+        },
+        {
+          "name": "Borogu (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Klasyk z wyważonym działaniem na ciało."
+        }
+      ]
+    },
+    "tip": {
+      "title": "Wskazówka dotycząca chemotypu",
+      "text": "Zwróć uwagę na <strong>pozycję 2 (DHK)</strong> w chemotypie. Im bliżej przodu, tym silniejsza relaksacja mięśni. Chemotyp taki jak <strong>246...</strong> lub <strong>426...</strong> wskazuje na odmianę skoncentrowaną na ciele. Skorzystaj z <a href=\"/de/inhaltsstoffe/rechner\" class=\"text-primary hover:underline\">kalkulatora chemotypów</a>, aby analizować odmiany."
+    }
+  },
+  "praxis": {
+    "title": "Praktyczne zastosowanie",
+    "intro": "W przypadku stosowania w przypadku napięć mięśniowych istnieje kilka zaleceń:",
+    "boxTitle": "Zalecenia dotyczące relaksacji mięśni",
+    "tips": [
+      {
+        "label": "Czas:",
+        "text": "Najlepiej wieczorem, 1-2 godziny przed snem. Składnik sedatywny odmian relaksujących mięśnie może powodować senność."
+      },
+      {
+        "label": "Dawkowanie:",
+        "text": "2-3 porcje (30-45g proszku) dla wyraźnego działania na ciało. Osoby początkujące powinny zacząć od mniejszych dawek."
+      },
+      {
+        "label": "Kombinacja:",
+        "text": "Ciepło (ciepła kąpiel, poduszka grzewcza) wzmacnia działanie relaksujące. Również lekkie ćwiczenia rozciągające mogą być pomocne."
+      },
+      {
+        "label": "Regularność:",
+        "text": "W przypadku przewlekłych napięć regularne wieczorne stosowanie (z przerwami) może być sensowne."
+      },
+      {
+        "label": "Nawodnienie:",
+        "text": "Pij wystarczająco dużo wody, ponieważ Kava może działać lekko odwadniająco."
+      }
+    ],
+    "feeling": {
+      "title": "Uczucie \"Kava\"",
+      "text": "Fizyczna relaksacja wywołana przez Kava często opisywana jest jako przyjemna \"ciężkość\". Kończyny czują się ciepłe i zrelaksowane, napięcia ustępują same. Ten stan nie jest mylony z otępieniem – umysł pozostaje jasny, tylko ciało głęboko się relaksuje."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Dalej w rozdziale Działanie:",
+    "next": {
+      "title": "Nastrój i interakcje społeczne",
+      "description": "Jak Kava poprawia nastrój i wspiera interakcje społeczne",
+      "href": "/de/wirkung/stimmung"
+    }
+  }
+}

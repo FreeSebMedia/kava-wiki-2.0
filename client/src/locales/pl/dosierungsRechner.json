@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Kalkulator dawkowania",
+    "subtitle": "Oblicz swoją optymalną dawkę Kavy na podstawie odmiany, doświadczenia i metody przygotowania.",
+    "category": "Przygotowanie"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "zubereitung": "Przygotowanie",
+    "current": "Kalkulator dawkowania"
+  },
+  "toc": {
+    "title": "Zawartość",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Kalkulator dawkowania",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Twoja rekomendacja",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Ważne uwagi",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Czynniki wpływające",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Wybierz odmianę Kavy",
+    "selectStrainPlaceholder": "-- Wybierz odmianę --",
+    "potency": "Moc",
+    "experienceLevel": "Poziom doświadczenia",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Początkujący",
+        "desc": "Pierwsze tygodnie"
+      },
+      "regular": {
+        "label": "Regularny",
+        "desc": "Kilka miesięcy"
+      },
+      "experienced": {
+        "label": "Doświadczony",
+        "desc": "1+ lata"
+      }
+    },
+    "prepMethod": "Metoda przygotowania",
+    "methods": {
+      "traditional": {
+        "label": "Tradycyjna",
+        "desc": "Ugniatanie"
+      },
+      "blender": {
+        "label": "Blender",
+        "desc": "Mikser"
+      },
+      "instant": {
+        "label": "Instant",
+        "desc": "Mikronizowany"
+      }
+    },
+    "bodyWeight": "Waga ciała",
+    "kg": "kg",
+    "calculate": "Oblicz dawkowanie",
+    "instantPowder": "Proszek instant",
+    "mediumGrind": "Proszek średnio zmielony",
+    "water": "Woda",
+    "kavalactones": "Kawalaktony (szacowane)",
+    "prepTime": "Czas przygotowania",
+    "min": "Min",
+    "toPrepGuide": "Do instrukcji przygotowania"
+  },
+  "results": {
+    "title": "Twoja osobista rekomendacja",
+    "bestTime": {
+      "title": "Najlepszy czas użycia",
+      "heady": "W ciągu dnia, na spotkania towarzyskie lub kreatywne aktywności",
+      "heavy": "Wieczorem, na relaks lub przed snem",
+      "balanced": "Elastycznie, odpowiedni o każdej porze dnia"
+    },
+    "tip": {
+      "title": "Wskazówka dla tej odmiany",
+      "default": "Ciesz się tą odmianą na czczo dla najlepszych efektów."
+    }
+  },
+  "notes": {
+    "title": "Ważne uwagi",
+    "safety": {
+      "title": "Ogólne wskazówki dotyczące bezpieczeństwa",
+      "items": [
+        "Zawsze pij Kava na <strong>czczo</strong> (3-4 godziny po posiłku)",
+        "Zacznij od <strong>niższej dawki</strong> i stopniowo zwiększaj",
+        "<strong>Odwrócona tolerancja:</strong> Pierwsze razy mogą mieć słabsze działanie",
+        "Nigdy nie łącz Kavy <strong>z alkoholem</strong> ani lekami",
+        "W przypadku chorób wątroby lub ciąży: <strong>Brak Kavy</strong>"
+      ]
+    },
+    "about": {
+      "title": "O tym kalkulatorze",
+      "text": "Obliczone wartości są <strong>wskazówkami</strong> opartymi na średnich zawartościach kawalaktonów i doświadczeniach. Rzeczywiste działanie może się różnić w zależności od indywidualnej wrażliwości, partii i producenta."
+    }
+  },
+  "factors": {
+    "title": "Czynniki wpływające na dawkowanie",
+    "items": [
+      {
+        "title": "Moc odmiany",
+        "text": "Różne odmiany mają różne zawartości kawalaktonów. Odmiana 5-gwiazdkowa, taka jak Loa Waka, wymaga mniej proszku niż łagodniejsza odmiana 3-gwiazdkowa, taka jak Pouni Ono."
+      },
+      {
+        "title": "Waga ciała",
+        "text": "Osoby cięższe zazwyczaj potrzebują więcej Kavy, aby uzyskać ten sam efekt. Kalkulator dostosowuje rekomendację odpowiednio."
+      },
+      {
+        "title": "Metoda przygotowania",
+        "text": "Kava instant/mikronizowana jest bardziej skoncentrowana niż proszek średnio zmielony. Metoda blendera ekstraktuje nieco efektywniej niż tradycyjne ugniatanie."
+      },
+      {
+        "title": "Poziom doświadczenia",
+        "text": "Dzięki \"odwróconej tolerancji\" doświadczeni użytkownicy często potrzebują mniej Kavy, aby uzyskać ten sam efekt. Początkujący powinni zaczynać od niskich dawek."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Instrukcje przygotowania",
+    "traditional": {
+      "title": "Metoda tradycyjna",
+      "time": "20-25 Min",
+      "href": "/pl/przygotowanie/tradycyjna"
+    },
+    "blender": {
+      "title": "Metoda blendera",
+      "time": "8-10 Min",
+      "href": "/pl/przygotowanie/blender"
+    },
+    "instant": {
+      "title": "Kava instant",
+      "time": "30 Sek",
+      "href": "/pl/przygotowanie/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Uważana za jedną z najlepszych Heady Kavas na świecie. Ograniczona dostępność.",
+    "borogu": "Najczęściej pijana Kava w Vanuatu. Bardzo niezawodna.",
+    "pouni-ono": "Bardzo popularna Kava dla początkujących o spójnej jakości.",
+    "moi": "Jedna z najrzadszych i najdroższych Kavas. Tradycyjnie używana w hawajskich ceremoniach.",
+    "melo-melo": "Bardzo popularna Kava dla początkujących o silnym działaniu anksjolitycznym.",
+    "bir-kar": "Znana ze swojej mocy i niezawodności.",
+    "palasa": "Nie polecana dla początkujących. Bardzo mocna.",
+    "loa-waka": "Jedna z najsilniejszych komercyjnie dostępnych Kavas.",
+    "hiwa": "Tradycyjnie używana tylko do celów ceremonialnych. Bardzo rzadka.",
+    "vula-waka": "Popularny uniwersalny produkt z Fidżi.",
+    "silese": "Jedna z najbardziej euforycznych odmian w ogóle.",
+    "palarasul": "Dobry początek w Heavy Kavas."
+  }
+}

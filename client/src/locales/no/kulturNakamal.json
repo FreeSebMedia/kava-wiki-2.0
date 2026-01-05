@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Nakamal & Kava-Bars",
+    "subtitle": "Fra tradisjonelle samlingshus til moderne Kava-Bars – den sosiale arkitekturen i Kava-kulturen",
+    "category": "Kultur"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "kultur": "Kultur",
+    "current": "Nakamal"
+  },
+  "toc": {
+    "einfuehrung": "Introduksjon",
+    "traditionell": "Tradisjonelt Nakamal",
+    "atmosphaere": "Atmosfære & Regler",
+    "architektur": "Arkitektur",
+    "modern": "Moderne Kava-Bars",
+    "regionen": "Regionale forskjeller",
+    "etikette": "Nakamal-etiquette",
+    "besuch": "Besøke et Nakamal"
+  },
+  "intro": {
+    "lead": "Nakamal er mye mer enn bare et sted hvor Kava drikkes – det er hjertet av det sosiale livet i Vanuatu og en modell for Kava-Bars verden over.",
+    "p1": "I den melanesisk kulturen fungerer Nakamal som et samlingshus, samfunnssenter og åndelig sted på en gang. Her løses konflikter, historier fortelles, allianser smies og forbindelsen til forfedrene pleies.",
+    "p2": "I dag finnes det, i tillegg til de tradisjonelle Nakamals i Vanuatu, moderne Kava-Bars i Port Vila, Suva, Auckland og til og med i vestlige byer som Melbourne, Los Angeles og Berlin. Alle deler felles prinsipper: ro, respekt og fellesskap."
+  },
+  "traditional": {
+    "title": "Det tradisjonelle Nakamal",
+    "intro": "I tradisjonelle landsbyfellesskap i Vanuatu er Nakamal det <strong>sentrale samlingsstedet</strong> – et sted som ofte er forbeholdt menn (selv om dette endrer seg i urbane områder).",
+    "functionsTitle": "Funksjoner av Nakamal",
+    "functions": [
+      {
+        "icon": "users",
+        "title": "Samfunnsmøtepunkt",
+        "desc": "Daglig samlingssted for landsbyboere etter arbeid"
+      },
+      {
+        "icon": "scale",
+        "title": "Konfliktløsning",
+        "desc": "Tvister blir fredelig løst her under Kava-påvirkning"
+      },
+      {
+        "icon": "landmark",
+        "title": "Politisk rådgivning",
+        "desc": "Viktige landsbybeslutninger diskuteres i Nakamal"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Åndelig forbindelse",
+        "desc": "Kommunikasjon med forfedres ånder gjennom rituelle Kava-seremonier"
+      },
+      {
+        "icon": "book",
+        "title": "Kunnskapsformidling",
+        "desc": "Muntlig overlevering av historie, myter og kastom"
+      },
+      {
+        "icon": "handshake",
+        "title": "Gjestfrihet",
+        "desc": "Mottak av gjester og inngåelse av allianser"
+      }
+    ],
+    "genderNote": "Tradisjonelt er Nakamal et <strong>mannlig rom</strong>. I mange landsbyer er det forbudt for kvinner å gå inn i Nakamal eller drikke Kava. Denne tradisjonen varierer imidlertid fra øy til øy og blir stadig mer avslappet i urbane områder."
+  },
+  "atmosphere": {
+    "title": "Atmosfære & Regler",
+    "intro": "Et Nakamal er et sted for <strong>ro og kontemplasjon</strong>. Atmosfæren er fundamentalt forskjellig fra vestlige barer.",
+    "rulesTitle": "Reglene for Nakamal",
+    "rules": [
+      {
+        "rule": "Snakk stille",
+        "explanation": "Høye samtaler og latter er upassende – man snakker dempet"
+      },
+      {
+        "rule": "Dempet lys",
+        "explanation": "Kava gjør øynene lysfølsomme (\"Kava-øyne\") – sterkt lys unngås"
+      },
+      {
+        "rule": "Ingen høy musikk",
+        "explanation": "Stillhet eller stille tradisjonelle lyder er normen"
+      },
+      {
+        "rule": "Respektfull oppførsel",
+        "explanation": "Krangel og aggressive atferd er tabu"
+      },
+      {
+        "rule": "Ingen mat",
+        "explanation": "Tradisjonelt spises det ikke i Nakamal – Kava drikkes på tom mage"
+      },
+      {
+        "rule": "Minste opphold",
+        "explanation": "Man blir en stund og drikker flere skåler før man går"
+      }
+    ],
+    "sensoryBox": {
+      "title": "Sanseopplevelsen",
+      "sight": "Duskelys, ofte bare stearinlys eller svake lamper",
+      "sound": "Dempede stemmer, sirisser, stille klirring av kokosnøttskall",
+      "smell": "Jordaktig Kava-duft, blandet med tropisk nattluft",
+      "taste": "Den krydrede, jordaktige smaken av fersk Kava",
+      "feel": "Den voksende avslapningen, følelsen av fellesskap"
+    }
+  },
+  "architecture": {
+    "title": "Arkitektur av Nakamal",
+    "intro": "Tradisjonelle Nakamals er enkle, men funksjonelle strukturer som tilpasser seg det tropiske miljøet.",
+    "elementsTitle": "Typiske elementer",
+    "elements": [
+      {
+        "element": "Overbygd område",
+        "description": "Palmblader eller bølgeblikk tak for beskyttelse mot regn"
+      },
+      {
+        "element": "Åpne sider",
+        "description": "God ventilasjon gjennom åpne eller halvoffene vegger"
+      },
+      {
+        "element": "Sentral ildsted",
+        "description": "I noen Nakamals for varme og lys"
+      },
+      {
+        "element": "Benk eller matter",
+        "description": "Enkle sitteplasser laget av tre eller flettede matter"
+      },
+      {
+        "element": "Kava-forberedelsesområde",
+        "description": "Område med morter, sil og vannbeholder"
+      },
+      {
+        "element": "Spyttområde",
+        "description": "Område eller renne for å spytte mellom skålene"
+      }
+    ],
+    "tannaStyle": {
+      "title": "Tanna-stil",
+      "desc": "På Tanna er Nakamals ofte runde strukturer laget av naturlige materialer som harmonisk passer inn i landskapet. Det hellige banyan-treet står ofte i nærheten."
+    },
+    "urbanStyle": {
+      "title": "Urbant stil",
+      "desc": "I Port Vila varierer Nakamals fra enkle hytter til betongstrukturer med neonlys – atmosfæren forblir imidlertid tradisjonell."
+    }
+  },
+  "modern": {
+    "title": "Moderne Kava-Bars",
+    "intro": "Utenfor Vanuatu har Nakamal-konseptet utviklet seg til moderne <strong>Kava-Bars</strong> – steder som kombinerer tradisjonelle verdier med moderne komfort.",
+    "typesTitle": "Typer av Kava-Bars",
+    "types": [
+      {
+        "type": "Autentisk-tradisjonell",
+        "locations": "Port Vila, Suva, Nukuʻalofa",
+        "description": "Tradisjonell atmosfære med fersk Kava, enkel innredning og lokalt publikum"
+      },
+      {
+        "type": "Diaspora-Nakamals",
+        "locations": "Auckland, Sydney, Melbourne",
+        "description": "Drevet av stillehavs samfunn, møtepunkt for eksil, tradisjonelle og moderne elementer"
+      },
+      {
+        "type": "Vestlige Kava-Bars",
+        "locations": "Florida, California, New York, Berlin",
+        "description": "Moderne miljø, ofte med Kava-cocktailer, kafé-atmosfære, for vestlig publikum"
+      },
+      {
+        "type": "Kava-kafeer",
+        "locations": "Verden over",
+        "description": "Kombinasjon av kafé og Kava-bar, ofte med te, kaffe og Kava-blandinger"
+      }
+    ],
+    "comparisonTitle": "Tradisjonelt vs. Moderne",
+    "comparison": [
+      {
+        "aspect": "Forberedelse",
+        "traditional": "Fersk tilberedt, ofte tygget eller malt",
+        "modern": "Ofte instant Kava eller forhåndsforberedt"
+      },
+      {
+        "aspect": "Atmosfære",
+        "traditional": "Veldig stille, dempet lys",
+        "modern": "Avslappet, men ofte mer underholdning"
+      },
+      {
+        "aspect": "Publikum",
+        "traditional": "Lokalt samfunn, ofte bare menn",
+        "modern": "Blandet publikum, alle kjønn"
+      },
+      {
+        "aspect": "Tilbud",
+        "traditional": "Bare Kava",
+        "modern": "Ofte snacks, andre drikker, noen ganger mat"
+      },
+      {
+        "aspect": "Priser",
+        "traditional": "Veldig rimelig (50-100 Vatu per skål)",
+        "modern": "Høyere ($5-15 per skål)"
+      }
+    ]
+  },
+  "regions": {
+    "title": "Regionale forskjeller",
+    "intro": "Kava-drikkesteder varierer etter region i atmosfære og tradisjon.",
+    "places": [
+      {
+        "flag": "🇻🇺",
+        "country": "Vanuatu",
+        "name": "Nakamal",
+        "description": "Opprinnelsen – tradisjonelle landsby-Nakamals og moderne urbane varianter i Port Vila. Sterkeste Kava, mest autentiske opplevelse.",
+        "highlight": "Over 400 Nakamals bare i Port Vila"
+      },
+      {
+        "flag": "🇫🇯",
+        "country": "Fiji",
+        "name": "Kava Circle",
+        "description": "Mindre institusjonalisert enn i Vanuatu – Kava drikkes i hus, ved samlinger og i uformelle grupper.",
+        "highlight": "Tanoa (Kava-skål) som midtpunkt"
+      },
+      {
+        "flag": "🇹🇴",
+        "country": "Tonga",
+        "name": "Faikava",
+        "description": "Mer strukturert enn i Fiji – Tu'i Kava leder seremonien. Drikkes også i moderne \"Kalapu\" (klubber).",
+        "highlight": "Streng hierarki ved serveringsrekkefølge"
+      },
+      {
+        "flag": "🇼🇸",
+        "country": "Samoa",
+        "name": "'Ava Circle",
+        "description": "Formelle seremonier med Taupou som tilbereder. Moderne varianter i \"Kava Bars\" i Apia.",
+        "highlight": "Høyt ritualisert tilberedning"
+      },
+      {
+        "flag": "🇺🇸",
+        "country": "USA",
+        "name": "Kava Bar",
+        "description": "Vestlig stil med kafé-atmosfære. Spesielt populært i Florida og California. Ofte kombinert med Kratom.",
+        "highlight": "Over 300 Kava-Bars i Florida"
+      },
+      {
+        "flag": "🇳🇿",
+        "country": "New Zealand",
+        "name": "Kava Club",
+        "description": "Drevet av stillehavs samfunn. Viktig møtepunkt for tonganere, samoanere og fijianere i Auckland.",
+        "highlight": "Forbindelse til hjemlandet i diaspora"
+      }
+    ]
+  },
+  "etiquette": {
+    "title": "Nakamal-etiquette",
+    "intro": "Enten i et tradisjonelt Nakamal i Vanuatu eller en Kava-Bar i Florida – visse grunnregler for etikette gjelder overalt.",
+    "dosTitle": "Hva man bør gjøre",
+    "dos": [
+      "Snakk stille og vær respektfull",
+      "Drikk Kava i ett drag (\"High tide\")",
+      "Returner den tomme skålen",
+      "Ta deg tid – Kava er ikke en hurtigdrikk",
+      "Følg instruksjonene under ritualer",
+      "\"Bula!\" (Fiji) eller \"Malomalō!\" (Vanuatu) si"
+    ],
+    "dontsTitle": "Hva man bør unngå",
+    "donts": [
+      "Være høylytt eller skrike",
+      "Drikke Kava i små slurker",
+      "Bli utålmodig",
+      "Ta bilder uten invitasjon",
+      "Ta med eller blande alkohol",
+      "Forhandle om priser"
+    ],
+    "tipBox": {
+      "title": "Tips for førstegangsbesøkende",
+      "text": "Når du besøker et Nakamal eller en Kava-Bar for første gang, spør personalet om råd. De fleste er stolte av å forklare tradisjonen til nykommere og hjelper gjerne med å velge styrke."
+    }
+  },
+  "visit": {
+    "title": "Besøke et Nakamal",
+    "intro": "Planlegger du et besøk til et tradisjonelt Nakamal eller en Kava-Bar? Her er praktiske tips:",
+    "stepsTitle": "Trinn for trinn",
+    "steps": [
+      {
+        "step": "Ankomme",
+        "desc": "Nakamals åpner vanligvis ved solnedgang (17-18). Kom ikke for tidlig."
+      },
+      {
+        "step": "Bestille",
+        "desc": "Velg mellom \"High tide\" (full skål) og \"Low tide\" (halv skål). Begynn som nybegynner med en halv skål."
+      },
+      {
+        "step": "Vente",
+        "desc": "Den ferske tilberedningen tar noen minutter. Bruk tiden til å ta inn atmosfæren."
+      },
+      {
+        "step": "Drikke",
+        "desc": "Drikk skålen i ett drag. Spytt deretter ut, hvis ønskelig (en renne er ofte tilgjengelig)."
+      },
+      {
+        "step": "Vente & Føle",
+        "desc": "Vent 10-15 minutter før du bestiller en ny skål. Føl effekten."
+      },
+      {
+        "step": "Nyte",
+        "desc": "Bli en stund, snakk stille, nyt den fredelige atmosfæren."
+      }
+    ],
+    "costsTitle": "Typiske kostnader",
+    "costs": [
+      {
+        "location": "Vanuatu (tradisjonelt)",
+        "price": "50-150 Vatu (~€0,40-1,20)",
+        "note": "Veldig rimelig, fersk Kava"
+      },
+      {
+        "location": "Fiji",
+        "price": "FJ$2-5 (~€0,80-2)",
+        "note": "Litt dyrere enn Vanuatu"
+      },
+      {
+        "location": "New Zealand/Australia",
+        "price": "NZ$5-15 (~€3-8)",
+        "note": "Diaspora-priser"
+      },
+      {
+        "location": "USA/Europa",
+        "price": "$8-18 (~€7-16)",
+        "note": "Vestlige Kava-Bar-priser"
+      }
+    ],
+    "findTitle": "Finne Nakamals",
+    "findText": "I Port Vila finnes det over 400 Nakamals – du vil ikke ha problemer med å finne et. Utenfor Stillehavet kan du bruke Kava-Bar-kataloger eller spørre i stillehavs samfunn. Vårt <a href=\"/de/kultur/kava-bars\">Kava-Bar-kart</a> hjelper deg med å finne steder i nærheten."
+  },
+  "navigation": {
+    "title": "Les mer",
+    "back": {
+      "label": "Forrige kapittel",
+      "title": "Seremonier & Ritualer",
+      "href": "/de/kultur/zeremonien"
+    },
+    "next": {
+      "label": "Neste kapittel",
+      "title": "Moderne Kava-kultur",
+      "href": "/de/kultur/moderne"
+    }
+  },
+  "related": {
+    "title": "Relaterte emner",
+    "links": [
+      {
+        "label": "Seremonier & Ritualer",
+        "href": "/de/kultur/zeremonien"
+      },
+      {
+        "label": "Tradisjonell tilberedning",
+        "href": "/de/zubereitung/traditionell"
+      },
+      {
+        "label": "Kava-Bar-kart",
+        "href": "/de/kultur/kava-bars"
+      },
+      {
+        "label": "Vanuatu-varianter",
+        "href": "/de/sorten/vanuatu"
+      },
+      {
+        "label": "Ordlista: Nakamal",
+        "href": "/de/glossar#nakamal"
+      }
+    ]
+  }
+}

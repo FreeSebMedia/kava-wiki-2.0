@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Składniki & Chemia",
+    "subtitle": "Farmakologiczne tajemnice Piper methysticum: Kavalaktony, chemotypy i mechanizmy działania.",
+    "category": "Składniki"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "current": "Składniki"
+  },
+  "toc": {
+    "title": "Spis treści",
+    "uebersicht": "Przegląd substancji czynnych",
+    "kavalactone": "6 głównych kavalaktonów",
+    "chemotypen": "System chemotypów",
+    "synergien": "Synergie i efekt towarzyszący",
+    "weitere": "Inne składniki",
+    "unterseiten": "Artykuły pogłębiające"
+  },
+  "uebersicht": {
+    "paragraph1": "Psychoaktywny efekt Kavy jest głównie wynikiem grupy związków znanych jako <strong>Kavalaktony</strong> (lub Kava-Pyony). W przeciwieństwie do wielu innych roślin psychoaktywnych (jak kawa czy herbata), Kava nie zawiera alkaloidów jako głównych substancji czynnych.",
+    "paragraph2": "Dotychczas zidentyfikowano 18 różnych kavalaktonów, z których jednak sześć odpowiada za ponad 96% działania farmakologicznego. Te sześć \"głównych kavalaktonów\" stanowi podstawę klasyfikacji i oceny jakości Kavy."
+  },
+  "kavalactone": {
+    "title": "6 głównych kavalaktonów",
+    "intro": "Każdy kavalakton ma unikalny profil działania. Całkowity efekt danej odmiany Kavy wynika z konkretnego stosunku mieszania tych sześciu składników.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "Nazwa",
+      "abbreviation": "Skrót",
+      "effect": "Główne działanie"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoksyjangonin",
+        "abbreviation": "DMY",
+        "effect": "Fokus, zwiększenie dopaminy, euforia"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokawaina",
+        "abbreviation": "DHK",
+        "effect": "Silne rozluźnienie mięśni, analgezja (łagodzenie bólu)"
+      },
+      {
+        "number": "3",
+        "name": "Jangonin",
+        "abbreviation": "Y",
+        "effect": "Stymulujący, działa na receptory CB1 (system endokannabinoidowy)"
+      },
+      {
+        "number": "4",
+        "name": "Kawaina",
+        "abbreviation": "K",
+        "effect": "Anksjolityczny (łagodzący lęk), poprawiający nastrój, mentalny fokus. Odpowiedzialny za efekt \"Heady\"."
+      },
+      {
+        "number": "5",
+        "name": "Dihydrometycystyna",
+        "abbreviation": "DHM",
+        "effect": "Siedzący, długotrwały. Wysokie stężenia mogą powodować nudności (typowe dla Tudei-Kavy)."
+      },
+      {
+        "number": "6",
+        "name": "Metycystyna",
+        "abbreviation": "M",
+        "effect": "Silnie uspokajający, anksjolityczny, neuroprotekcyjny."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "System chemotypów",
+    "intro": "Aby przewidzieć działanie odmiany Kavy, używa się 6-cyfrowego kodu, który wymienia kavalaktony w kolejności malejącej ich stężenia. Nazywa się to <strong>chemotypem</strong>.",
+    "exampleTitle": "Przykład: Chemotyp 426531",
+    "exampleText": "Oznacza to, że <strong>Kawaina (4)</strong> ma najwyższe stężenie, następnie <strong>Dihydrokawaina (2)</strong>, potem <strong>Metycystyna (6)</strong>, itd.",
+    "nobleTudeiTitle": "Noble Kava vs. Tudei Kava",
+    "nobleTudeiIntro": "Chemotyp jest najważniejszym narzędziem do rozróżniania wysokiej jakości \"Noble Kava\" (szlachetna kawa) i niskiej jakości \"Tudei Kava\" (kawa dwudniowa).",
+    "nobleDescription": "<strong>Noble Kava:</strong> Chemotypy zazwyczaj zaczynają się od <strong>4</strong> (kawaina) lub <strong>2</strong> (dihydrokawaina). Zapewnia to przyjemny, łagodzący lęk efekt bez długiego \"kaca\".",
+    "nobleCodes": "Typowe kody: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Tudei Kava:</strong> Chemotypy często zaczynają się od <strong>5</strong> (dihydrometycystyna) lub <strong>2</strong> z bardzo wysokim udziałem 5. DHM jest bardzo wolno metabolizowany i może prowadzić do wielodniowego zmęczenia i nudności.",
+    "tudeiCodes": "Typowe kody: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Synergie i efekt towarzyszący",
+    "paragraph1": "Podobnie jak w przypadku konopi (terpeny i kannabinoidy), całkowity ekstrakt Kavy jest skuteczniejszy niż izolowane kavalaktony. Nazywa się to efektem towarzyszącym.",
+    "paragraph2": "Izolowana kawaina działa wprawdzie łagodząco na lęk, ale połączenie z jangoninem (hamowanie MAO-B) i desmethoksyjangoninem (zwiększenie dopaminy) znacząco wzmacnia efekt poprawiający nastrój. Dlatego tradycyjne preparaty lub ekstrakty pełnospektralne są preferowane w stosunku do izolowanych substancji czynnych."
+  },
+  "weitere": {
+    "title": "Inne składniki",
+    "intro": "Oprócz kavalaktonów, korzeń zawiera:",
+    "items": [
+      {
+        "label": "Flawokawiny (A, B, C)",
+        "text": "Chalkony o potencjalnych właściwościach przeciwnowotworowych, ale również podejrzewane o działanie cyto toksyczne przy ekstremalnie wysokich dawkach (głównie w odmianach Tudei)."
+      },
+      {
+        "label": "Alkaloidy",
+        "text": "Pipermetycystyna występuje głównie w <strong>liściach i łodygach</strong>, a nie w korzeniu. Jest toksyczna i głównym powodem, dla którego tradycyjnie konsumowane są tylko korzenie."
+      },
+      {
+        "label": "Skrobia i błonnik",
+        "text": "Stanowią około 43% masy suchej i zapewniają typową konsystencję napoju."
+      },
+      {
+        "label": "Minerały",
+        "text": "Potas, wapń, magnez."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "Artykuły pogłębiające",
+    "intro": "Aby uzyskać bardziej szczegółowe informacje na poszczególne tematy, odwiedź nasze specjalistyczne podstrony:",
+    "kavalactoneTitle": "6 głównych kavalaktonów",
+    "kavalactoneDescription": "Szczegółowe profile działania dla kawainy, dihydrokawainy, metycytycyny, dihydrometycystyny, jangoninu i desmethoksyjangoninu.",
+    "chemotypenTitle": "System chemotypów",
+    "chemotypenDescription": "Jak 6-cyfrowy kod przewiduje działanie i odróżnia Noble Kava od Tudei.",
+    "learnMore": "Dowiedz się więcej"
+  }
+}

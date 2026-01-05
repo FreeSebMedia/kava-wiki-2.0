@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "FAQ – Wszystko o Kava",
+    "badge": "Najczęściej zadawane pytania",
+    "description": "Odpowiedzi na najczęściej zadawane pytania dotyczące Kava – od działania i dawkowania po bezpieczeństwo i legalność. Naukowo uzasadnione i zrozumiale wyjaśnione."
+  },
+  "ui": {
+    "searchPlaceholder": "Szukaj pytania...",
+    "categories": "Kategorie",
+    "all": "Wszystkie",
+    "results": "Wyniki",
+    "clearFilters": "Zresetuj filtry",
+    "noResults": "Nie znaleziono wyników",
+    "noResultsHint": "Spróbuj użyć innych słów kluczowych lub wybierz inną kategorię.",
+    "showAll": "Pokaż wszystkie pytania",
+    "relatedArticles": "Powiązane artykuły:",
+    "questionNotAnswered": "Nie znalazłeś swojego pytania?",
+    "contactHint": "Skontaktuj się z nami, a chętnie Ci pomożemy. Regularnie rozszerzamy nasze FAQ w oparciu o Wasze pytania.",
+    "getInTouch": "Skontaktuj się",
+    "viewGlossary": "Zobacz słownik"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "Podstawy",
+      "description": "Podstawowe informacje o Kava, jego pochodzeniu i botanice"
+    },
+    "wirkung": {
+      "name": "Działanie i efekty",
+      "description": "Jak działa Kava, czas działania i relacje z doświadczeń"
+    },
+    "sicherheit": {
+      "name": "Bezpieczeństwo i skutki uboczne",
+      "description": "Skutki uboczne, ryzyka i interakcje"
+    },
+    "dosierung": {
+      "name": "Dawkowanie i przyjmowanie",
+      "description": "Zalecane ilości i różne formy przyjmowania"
+    },
+    "zubereitung": {
+      "name": "Przygotowanie",
+      "description": "Tradycyjne i nowoczesne metody przygotowania"
+    },
+    "kauf": {
+      "name": "Zakup i legalność",
+      "description": "Źródła zakupu i sytuacja prawna w Niemczech i UE"
+    },
+    "vergleiche": {
+      "name": "Porównania",
+      "description": "Kava w porównaniu do innych suplementów diety"
+    },
+    "kultur": {
+      "name": "Kultura i tradycja",
+      "description": "Ceremonie, tradycje i znaczenie kulturowe"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "Czym jest Kava (Kava-Kava)?",
+      "answer": "Kava (Piper methysticum) to gatunek rośliny z rodziny pieprzowatych (Piperaceae), który jest uprawiany w regionie Pacyfiku od ponad 3000 lat. Nazwa oznacza \"odurzający pieprz\". Korzenie rośliny zawierają kavalaktony – bioaktywne związki o właściwościach relaksujących, przeciwlękowych i poprawiających nastrój. Kava jest tradycyjnie przygotowywana jako napój i odgrywa centralną rolę w kulturach Vanuatu, Fidżi, Tonga, Samoa i Hawajów.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "Botanika Piper methysticum"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Historia Kava"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Co oznacza Piper methysticum?",
+      "answer": "Piper methysticum to naukowa (łacińska) nazwa rośliny Kava. \"Piper\" oznacza pieprz i odnosi się do rodziny roślin pieprzowatych. \"Methysticum\" pochodzi od greckiego słowa \"methystikos\" i oznacza \"odurzający\" lub \"sprawiający, że jesteś pijany\". Nazwa została nadana w 1777 roku przez Johanna Georga Forstera, który naukowo opisał roślinę podczas drugiej podróży dookoła świata Jamesa Cooka.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "Roślina Kava"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "Skąd pochodzi Kava?",
+      "answer": "Kava pochodzi z zachodniego Pacyfiku, przy czym Vanuatu uważane jest za region pochodzenia. Tam znajduje się największa różnorodność genetyczna, z ponad 80 różnymi odmianami. Roślina została udomowiona około 3000 lat temu z dzikiego gatunku Piper wichmannii i rozprzestrzeniła się przez polinezyjskich żeglarzy jako \"Roślina Canoe\" w całym Pacyfiku – do Fidżi, Tonga, Samoa, Hawajów i Pohnpei.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "Interaktywna mapa Kava"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Historia Kava"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "Czym jest korzeń Kava?",
+      "answer": "Korzeń Kava to część rośliny, która jest używana do przygotowania napoju. Składa się z dwóch głównych części: kłącza (nazywanego również \"Corm\" lub \"Lewena\") – grubego, zdrewniałego kłącza – oraz korzeni bocznych (\"Waka\"), które mają najwyższą zawartość kavalaktonów. Dojrzała roślina Kava (w wieku 3-5 lat) może rozwinąć kłącze o wadze od 5 do 25 kg. Należy używać tylko części podziemnych, ponieważ liście i łodygi mogą zawierać niepożądane związki.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "Morfologia rośliny Kava"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "Czym jest Noble Kava?",
+      "answer": "Noble Kava odnosi się do odmian Kava, które tradycyjnie uprawiano do codziennego spożycia i które mają korzystny profil kavalaktonów. Charakteryzują się przyjemnym działaniem, dobrą tolerancją i minimalnymi skutkami ubocznymi. W przeciwieństwie do tego, odmiany \"Tudei\" (Two-Day) mają silniejsze, dłużej utrzymujące się i często nieprzyjemne efekty. Odmiany Noble, takie jak Borogu, Melomelo, Palarasul czy Pouni Ono, nadają się do regularnego stosowania. Przy zakupie zawsze należy zwracać uwagę na oznaczenie \"Noble\".",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "Odmiany Kava"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "Jak działa Kava?",
+      "answer": "Kava działa głównie poprzez swoje kavalaktony, które oddziałują z systemem GABA w mózgu. Działanie obejmuje: rozluźnienie mięśni, redukcję lęku i stresu, lekką euforię i podniesiony nastrój, poprawioną towarzyskość przy jasnym umyśle oraz wspomaganie zdrowego snu. W przeciwieństwie do alkoholu, Kava nie wpływa na klarowność umysłu. Działanie zazwyczaj zaczyna się 15-30 minut po spożyciu i trwa 2-4 godziny.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "Działanie Kava"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "Kavalaktony"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "Jak długo działa Kava?",
+      "answer": "Czas działania Kava różni się w zależności od dawki, odmiany i indywidualnej wrażliwości. Zazwyczaj działanie zaczyna się po 15-30 minutach i osiąga szczyt po około 1-2 godzinach. Główne działanie trwa 2-4 godziny, przy czym przyjemne uczucie relaksu może utrzymywać się jeszcze dłużej. Przy wyższych dawkach lub silniejszych odmianach działanie może być odczuwalne do 6 godzin. Działanie wspomagające sen może utrzymywać się przez całą noc."
+    },
+    "kava-gegen-angst": {
+      "question": "Czy Kava pomaga w walce z lękiem?",
+      "answer": "Tak, Kava wykazała w licznych badaniach klinicznych działanie anksjolityczne (przeciwlękowe). Metaanaliza Cochrane z 2003 roku potwierdziła skuteczność w przypadku zaburzeń lękowych. Kavalaktony działają na receptory GABA podobnie jak benzodiazepiny, jednak bez potencjału uzależniającego. Kava może pomóc w przypadku uogólnionego zaburzenia lękowego, lęku społecznego i napięcia związanego ze stresem. Ważne: W przypadku zdiagnozowanych zaburzeń lękowych stosowanie powinno być omówione z lekarzem.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Badania naukowe"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "Kava w przypadku lęku"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "Czy Kava może pomóc w depresji?",
+      "answer": "Niektóre badania sugerują, że Kava ma właściwości poprawiające nastrój. Badanie Uniwersytetu w Melbourne (2013) wykazało pozytywne efekty w przypadku łagodnych do umiarkowanych depresji. Działanie przypisuje się modulacji receptorów dopaminowych i serotoninowych. Jednak Kava nie jest substytutem profesjonalnego leczenia depresji. W przypadku zdiagnozowanych zaburzeń depresyjnych zawsze należy skonsultować się z lekarzem, szczególnie jeśli już przyjmowane są leki przeciwdepresyjne.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Badania naukowe"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "Czy Kava poprawia sen?",
+      "answer": "Tak, Kava może poprawić jakość snu. Relaksujące działanie kavalaktonów pomaga w zasypianiu i sprzyja głębszemu, bardziej regenerującemu snu. W przeciwieństwie do wielu środków nasennych, Kava nie powoduje \"kaca\" następnego dnia. Badania pokazują, że Kava jest szczególnie skuteczna w przypadku zaburzeń snu związanych ze stresem. Aby wspomóc sen, zaleca się przyjmowanie Kava 1-2 godziny przed snem. Odmiany o wyższej zawartości DHM i DHK (takie jak Borogu) są szczególnie wspomagające sen.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "Kava dla lepszego snu"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "Jakie są skutki uboczne Kava?",
+      "answer": "Przy prawidłowym stosowaniu odmian Noble Kava skutki uboczne są rzadkie i łagodne. Możliwe skutki uboczne obejmują: przejściowe odrętwienie warg i języka (normalne), lekką nudność przy przyjmowaniu na pusty żołądek, senność (szczególnie przy wyższych dawkach) oraz przy przewlekłym nadmiernym spożyciu odwracalną łuszczenie się skóry (\"Kava-Dermopatia\"). Ważne jest stosowanie czystego proszku korzeniowego z odmian Noble oraz unikanie alkoholu podczas przyjmowania.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "Bezpieczeństwo Kava"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "Szczegóły skutków ubocznych"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "Czy Kava jest szkodliwa dla wątroby?",
+      "answer": "Pytanie o toksyczność wątroby jest złożone. Niemieckie zakazy Kava z 2002 roku opierały się na doniesieniach o uszkodzeniach wątroby, które jednak w większości można przypisać produktom niskiej jakości (użycie liści/łodyg zamiast korzeni), odmianom Tudei (nieodpowiednim do codziennego spożycia), ekstraktom alkoholowym oraz interakcjom z lekami. Badania pokazują, że tradycyjnie przygotowane Noble Kava jest bezpieczne dla zdrowych dorosłych. Niemniej jednak osoby z chorobami wątroby powinny unikać Kava, a regularni konsumenci powinni kontrolować swoje wartości wątrobowe.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "Kava a wątroba"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei Kava"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "Czy Kava jest narkotykiem?",
+      "answer": "Kava nie jest narkotykiem w rozumieniu ustawy o substancjach odurzających. Jest to tradycyjny napój o działaniu psychoaktywnym, podobnie jak kawa czy herbata. Kava nie uzależnia, nie powoduje rozwoju tolerancji i nie ma potencjału nadużycia. WHO sklasyfikowała Kava jako \"nieuzależniającą\". W większości krajów Kava jest legalnie dostępna. Działanie jest łagodne relaksujące, nie odurzające w sensie alkoholu czy substancji nielegalnych."
+    },
+    "kava-alkohol": {
+      "question": "Czy można łączyć Kava z alkoholem?",
+      "answer": "Nie, Kava nie powinna być łączona z alkoholem. Obie substancje działają na system GABA i mogą się wzajemnie potęgować, co może prowadzić do nadmiernej sedacji. Ponadto obie są metabolizowane przez wątrobę, co zwiększa obciążenie. W tradycyjnej kulturze pacyficznej Kava jest spożywana jako alternatywa dla alkoholu, a nie razem z nim. Należy odczekać co najmniej 24 godziny między spożyciem alkoholu a Kava.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "Interakcje"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "Jak prawidłowo dawkować Kava?",
+      "answer": "Zalecana dawka dla proszku Kava wynosi 2-4 łyżki stołowe (około 15-30g) na sesję, podzielone na 2-3 miski. Dla początkujących zaleca się rozpoczęcie od niższej dawki (1-2 łyżki). Dawka kavalaktonów nie powinna przekraczać 250mg na pojedynczą dawkę. Ważne: Kava często osiąga pełne działanie dopiero po regularnym stosowaniu przez kilka dni (\"odwrotna tolerancja\"). Nie więcej niż 300mg kavalaktonów dziennie przez dłuższy czas.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Przygotowanie Kava"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "Jak najlepiej przyjmować Kava?",
+      "answer": "Tradycyjna metoda to przygotowanie jako napój: proszek Kava jest ugniatany w wodzie i filtrowany przez sitko. Napój pije się z misek (\"Shells\"), zazwyczaj 2-3 miski na sesję z 10-15 minutową przerwą. Alternatywnie dostępne są instant Kava (łatwe do rozpuszczenia w wodzie), kapsułki lub nalewki. Najlepsze działanie osiąga się na lekko pustym żołądku, około 2-3 godziny po ostatnim posiłku. Po wypiciu mała przekąska może wzmocnić działanie.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Tradycyjne przygotowanie"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "Czy można pić Kava codziennie?",
+      "answer": "Tak, w kulturach pacyficznych Kava jest tradycyjnie spożywana codziennie. Dla zachodniego użytku zaleca się regularne przerwy (np. 1-2 dni w tygodniu bez Kava). Przy codziennym spożyciu dawka powinna pozostać umiarkowana, a używane powinny być wyłącznie odmiany Noble Kava. Regularni konsumenci powinni corocznie kontrolować swoje wartości wątrobowe. Ważne: Pij wystarczającą ilość wody i dbaj o zdrową dietę."
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "Co jest lepsze: proszek Kava czy kapsułki?",
+      "answer": "Proszek Kava oferuje najbardziej autentyczne doświadczenie i najlepsze działanie, ale wymaga przygotowania. Kapsułki są praktyczne w podróży, ale często zawierają mniej kavalaktonów i działają słabiej. Instant Kava to dobry kompromis – łatwe do rozpuszczenia w wodzie, dobre działanie. Dla początkujących polecamy Instant Kava lub proszek o średnim mieleniu. Dla najsilniejszego działania: tradycyjnie przygotowany proszek. Kapsułki nadają się do okazjonalnego, niskodawkowego stosowania."
+    },
+    "kava-zubereitung": {
+      "question": "Jak tradycyjnie przygotować Kava?",
+      "answer": "Tradycyjne przygotowanie: 1) 2-4 łyżki proszku Kava umieścić w woreczku materiałowym lub woreczku do mleka orzechowego. 2) Umieścić w misce z około 500ml ciepłej (nie gorącej!) wody. 3) Ugniatać przez 5-10 minut i wyciskać, aż woda stanie się mleczno-brązowa. 4) Wycisnąć woreczek i usunąć. 5) Podawać w miseczkach i szybko wypić. Smak jest ziemisty i lekko gorzki – to normalne. Kawałek owocu jako \"chaser\" pomaga złagodzić smak.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Tradycyjne przygotowanie"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "Instant Kava"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "Jak smakuje Kava?",
+      "answer": "Kava ma charakterystyczny, ziemisty smak, który często opisuje się jako \"nabyty smak\". Smak jest lekko gorzki, pieprzny i ziemisty z pewną ostrością. Po wypiciu występuje przejściowe odrętwienie warg i języka – znak aktywnych kavalaktonów. Wskazówki dotyczące poprawy: pić Kava na zimno, mieszać z mlekiem kokosowym lub zjeść kawałek ananasa/mango jako \"chaser\". Z czasem można się przyzwyczaić do smaku."
+    },
+    "kava-tee": {
+      "question": "Czy można przygotować Kava jako herbatę?",
+      "answer": "Kava nie powinna być przygotowywana jak zwykła herbata z wrzącą wodą, ponieważ wysokie temperatury mogą zniszczyć kavalaktony. Użyj ciepłej wody (około 40°C). Produkty \"Kava-Tee\" dostępne w handlu często zawierają tylko niewielkie ilości Kava i są mniej skuteczne niż tradycyjnie przygotowany proszek Kava. Dla najlepszego działania zalecamy tradycyjną metodę ugniatania z proszkiem Kava o średnim mieleniu lub wysokiej jakości Instant Kava.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Metody przygotowania"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "Czy Kava jest legalna w Niemczech?",
+      "answer": "Sytuacja prawna Kava w Niemczech jest złożona. W 2002 roku Kava została zakazana jako lek po pojawieniu się doniesień o uszkodzeniach wątroby. Zakaz ten został zniesiony w 2014 roku przez Federalny Trybunał Administracyjny, ponieważ podstawy naukowe były niewystarczające. Obecnie import i posiadanie Kava do użytku osobistego jest legalne. Sprzedaż jako suplement diety lub lek jest jednak nadal ograniczona. Kava może być zamawiana z krajów UE (np. Holandia, UK) lub bezpośrednio z Pacyfiku.",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "Status prawny Kava"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "Gdzie można kupić Kava?",
+      "answer": "Kava można nabyć na różne sposoby: 1) Sklepy internetowe z Pacyfiku (Vanuatu, Fidżi) – najwyższa jakość, ale dłuższy czas dostawy. 2) Europejscy sprzedawcy (UK, Holandia) – szybsza dostawa, dobry wybór. 3) Specjalistyczne bary Kava – do spożycia na miejscu. W niemieckich drogeriach (DM, Rossmann) lub aptekach Kava obecnie nie jest dostępna. Przy zakupie zwróć uwagę na: odmiany Noble Kava, czysty korzeń (bez liści/łodyg), analizy laboratoryjne i informacje o pochodzeniu.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "Wyszukiwarka barów Kava"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "Czy Kava jest dostępna w DM lub aptece?",
+      "answer": "Nie, Kava obecnie nie jest dostępna ani w DM, ani w Rossmannie, ani w niemieckich aptekach. Wynika to z sytuacji regulacyjnej w Niemczech, która ogranicza sprzedaż Kava jako suplementu diety lub leku. Preparaty homeopatyczne z Piper methysticum (mocno rozcieńczone) były kiedyś dostępne w aptekach, ale również stały się rzadkością. Aby uzyskać prawdziwy proszek Kava, należy skorzystać z wyspecjalizowanych sprzedawców internetowych."
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "Czy Kava jest znów dostępna?",
+      "answer": "Tak, Kava jest znów dostępna, chociaż nie w niemieckim handlu detalicznym. Po zniesieniu zakazu w 2014 roku Kava może być legalnie importowana do użytku osobistego. Najlepszym źródłem są wyspecjalizowani sprzedawcy internetowi z Pacyfiku (Vanuatu, Fidżi, Tonga) lub europejscy dostawcy (UK, Holandia). Jakość i dostępność znacznie poprawiły się w ostatnich latach, a w Niemczech rośnie społeczność entuzjastów Kava."
+    },
+    "kava-vs-ashwagandha": {
+      "question": "Jaka jest różnica między Kava a Ashwagandha?",
+      "answer": "Kava i Ashwagandha to obie rośliny adaptogenne, ale różnią się znacznie: Kava działa szybko (15-30 min.) i działa relaksująco, idealna na sytuacyjny lęk lub stres. Ashwagandha działa długoterminowo przez tygodnie i reguluje poziom kortyzolu. Kava jest przygotowywana jako napój, Ashwagandha najczęściej przyjmowana jest w kapsułkach. Kava ma wyraźne działanie psychoaktywne, Ashwagandha jest subtelniejsza. Obie można łączyć, przy czym Kava nadaje się do sytuacji nagłych, a Ashwagandha do długoterminowej odporności na stres."
+    },
+    "kava-vs-baldrian": {
+      "question": "Jaka jest różnica między Kava a Baldrianem?",
+      "answer": "Kava i Baldrian (Valerian) są obie relaksujące, ale mają różne profile: Kava działa silniej przeciwlękowo i sprzyja towarzyskości przy jasnym umyśle. Baldrian jest głównie wspomagający sen i może powodować senność. Kava ma szybszy początek działania (15-30 min.), Baldrian często potrzebuje kilku tygodni regularnego stosowania. Smak Kava jest ziemisty, Baldrian ma nieprzyjemny zapach i smak. Kava jest lepsza w sytuacjach społecznych, Baldrian lepszy jako czysty środek nasenny."
+    },
+    "kava-vs-kratom": {
+      "question": "Jaka jest różnica między Kava a Kratom?",
+      "answer": "Kava i Kratom są zupełnie różne i nie powinny być mylone: Kava zawiera kavalaktony i działa relaksująco bez potencjału uzależniającego. Kratom zawiera alkaloidy (Mitragynin), które działają na receptory opioidowe i mają potencjał uzależniający. Kava jest legalna w większości krajów, Kratom jest w wielu krajach (w tym w Niemczech) zabroniony lub regulowany. Kava ma długą tradycję bezpiecznego stosowania, Kratom wiąże się z ryzykiem zdrowotnym. Odradzamy stosowanie Kratom."
+    },
+    "kava-alternative": {
+      "question": "Jakie są alternatywy dla Kava?",
+      "answer": "Naturalne alternatywy dla Kava w celu relaksacji i łagodzenia lęku obejmują: Ashwagandha (adaptogen, długoterminowa), Baldrian (wspomagający sen), Passiflora (łagodnie przeciwlękowa), L-teanina (z herbaty, wspomaga relaksację), Magnez (rozluźnienie mięśni), CBD (kannabidiol, legalne w Niemczech). Żadna z tych alternatyw nie oferuje jednak unikalnego profilu Kava z jego połączeniem relaksacji, towarzyskości i klarowności umysłu. Nie ma prawdziwego zamiennika dla Kava jako najlepszej alternatywy dla alkoholu w sytuacjach społecznych."
+    },
+    "kava-zeremonie": {
+      "question": "Czym jest ceremonia Kava?",
+      "answer": "Ceremonia Kava to tradycyjny rytuał w regionie Pacyfiku, podczas którego Kava jest wspólnie przygotowywana i spożywana. Ceremonia odbywa się zgodnie z surowymi protokołami: Kto przygotowuje Kava? Kto otrzymuje pierwszą miskę? W jakiej kolejności pije się? Na Fidżi ceremonia nazywa się \"Sevusevu\" i jest częścią oficjalnych aktów państwowych. W Tonga i Samoa odbywają się wysoko sformalizowane ceremonie 'Ava z ustalonymi rolami. Ceremonia symbolizuje szacunek, gościnność i więzi społeczne.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "Ceremonie i rytuały"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "Czym jest Nakamal?",
+      "answer": "Nakamal to tradycyjne miejsce picia Kava w Vanuatu. Początkowo było to męskie domostwo, w którym zbierała się społeczność wioski na wieczorne picie Kava. Dziś \"Nakamal\" odnosi się również do nowoczesnych barów Kava w Port Vila i innych miastach. Atmosfera jest spokojna i pełna szacunku – ludzie siedzą razem, piją kilka misek i prowadzą ciche rozmowy. Nakamale są miejscami społecznymi, w których spotykają się ludzie ze wszystkich warstw społecznych.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal i bary Kava"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "Jakie nazwy ma Kava w różnych kulturach?",
+      "answer": "Kava ma różne nazwy w różnych kulturach pacyficznych: Vanuatu: Kava lub Malok. Fidżi: Yaqona (wymawiane \"Yang-gona\"). Tonga: Kava lub 'Ava. Samoa: 'Ava. Hawaje: 'Awa. Pohnpei: Sakau. Papua-Nowa Gwinea: Kava. Naukowa nazwa Piper methysticum oznacza \"odurzający pieprz\". W Niemczech powszechnie używa się nazw Kava, Kava-Kava i Rauschpfeffer.",
+      "relatedLinks": [
+        {
+          "href": "/de/glossar",
+          "label": "Słownik"
+        }
+      ]
+    }
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

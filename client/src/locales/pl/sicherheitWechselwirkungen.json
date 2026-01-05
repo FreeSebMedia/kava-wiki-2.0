@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Interakcje z lekami",
+    "subtitle": "Kawalaktony hamują ważne enzymy wątrobowe: Co musisz wiedzieć o interakcjach CYP450 i bezpiecznych kombinacjach.",
+    "category": "Bezpieczeństwo",
+    "breadcrumbs": {
+      "home": "Strona główna",
+      "sicherheit": "Bezpieczeństwo",
+      "current": "Interakcje"
+    }
+  },
+  "toc": {
+    "title": "Zawartość",
+    "zusammenfassung": "Podsumowanie",
+    "cyp450": "System CYP450",
+    "welcheEnzyme": "Dotknięte enzymy",
+    "klinischeBedeutung": "Znaczenie kliniczne",
+    "hochrisiko": "Kombinacje wysokiego ryzyka",
+    "alkohol": "Alkohol",
+    "benzodiazepine": "Benzodiazepiny i leki nasenne",
+    "antipsychotika": "Leki przeciwpsychotyczne",
+    "antikoagulantien": "Leki przeciwzakrzepowe",
+    "moderatesRisiko": "Umiarkowane ryzyko",
+    "antidepressiva": "Leki przeciwdepresyjne",
+    "antikonvulsiva": "Leki przeciwdrgawkowe",
+    "parkinson": "Leki na Parkinsona",
+    "hepatotoxisch": "Leki hepatotoksyczne",
+    "tabelle": "Tabela interakcji",
+    "empfehlungen": "Praktyczne zalecenia",
+    "quellen": "Źródła"
+  },
+  "navigation": {
+    "continueTitle": "Kontynuuj w rozdziale Bezpieczeństwo",
+    "items": [
+      {
+        "title": "Przegląd",
+        "href": "/pl/bezpieczenstwo",
+        "description": "Powrót do przeglądu bezpieczeństwa"
+      },
+      {
+        "title": "Bezpieczeństwo wątroby",
+        "href": "/pl/bezpieczenstwo/watroba",
+        "description": "Hepatotoksyczność i zakaz z 2002 roku"
+      },
+      {
+        "title": "Przeciwwskazania",
+        "href": "/pl/bezpieczenstwo/przeciwwskazania",
+        "description": "Kiedy należy unikać Kavy"
+      },
+      {
+        "title": "Sprawdzacz interakcji",
+        "href": "/pl/bezpieczenstwo/checker",
+        "description": "Sprawdź swoje leki"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Ważne ostrzeżenie",
+    "intro": "Kava ma <strong>wysokie potencjał interakcji z lekami</strong> poprzez hamowanie enzymów cytochromu P450. Nigdy nie łącz Kavy z:",
+    "items": [
+      {
+        "name": "Alkohol",
+        "text": "Zwiększona sedacja i hepatotoksyczność"
+      },
+      {
+        "name": "Benzodiazepinami",
+        "text": "Ryzyko depresji oddechowej"
+      },
+      {
+        "name": "Leki przeciwpsychotyczne",
+        "text": "Zwiększona sedacja, zaburzenia ruchowe"
+      },
+      {
+        "name": "Leki przeciwzakrzepowe",
+        "text": "Ryzyko krwawienia"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "System cytochromu P450",
+    "intro": "System cytochromu P450 (CYP450) to rodzina enzymów w wątrobie, które są odpowiedzialne za metabolizm większości leków. Gdy substancja hamuje te enzymy, inne substancje są metabolizowane wolniej – ich działanie i skutki uboczne mogą się w ten sposób nasilać.",
+    "importance": {
+      "title": "Dlaczego to ważne?",
+      "text": "Około <strong>70-80% wszystkich leków</strong> jest metabolizowanych przez enzymy CYP450. Gdy Kava hamuje te enzymy, stężenie innych leków we krwi może wzrosnąć – czasami do niebezpiecznych wartości. Dotyczy to szczególnie leków z <strong>wąskim oknem terapeutycznym</strong>, gdzie niewielkie zmiany dawek mają duży wpływ."
+    }
+  },
+  "enzyme": {
+    "title": "Jakie enzymy są hamowane?",
+    "intro": "Badania Mathewsa i in. (2002) oraz innych badaczy wykazały, że kawalaktony hamują kilka ważnych enzymów CYP450:",
+    "headers": [
+      "Enzym",
+      "Siła hamowania",
+      "Ważne substraty (przykłady)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Silne",
+        "substrates": "Kofeina, teofilina, klozapina, olanzapina"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Silne",
+        "substrates": "Warfarin, fenytoina, NLPZ (ibuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Umiarkowane",
+        "substrates": "Omeprazol, diazepam, klopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Umiarkowane",
+        "substrates": "Kodeina, tramadol, wiele leków przeciwdepresyjnych"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Silne",
+        "substrates": "Benzodiazepiny, statyny, wiele antybiotyków"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Znaczenie kliniczne",
+    "text": "Badanie Russmanna i in. (2005) wykazało, że tradycyjne wodne ekstrakty Kavy również hamują CYP1A2 u ludzi. Hamowanie było zależne od dawki i klinicznie istotne. Oznacza to, że nawet tradycyjnie przygotowana Kava może powodować interakcje.",
+    "positive": {
+      "title": "Pozytywny efekt uboczny?",
+      "text": "Hamowanie CYP1A2 mogłoby teoretycznie zapewnić efekt ochronny przed niektórymi kancerogenami środowiskowymi, które są aktywowane przez ten enzym. Może to wyjaśniać, dlaczego populacje pacyficzne, pomimo wysokiego spożycia Kavy, mają niskie wskaźniki zachorowalności na raka."
+    }
+  },
+  "hochrisiko": {
+    "title": "Kombinacje wysokiego ryzyka",
+    "intro": "Następujące kombinacje powinny być <strong>unikać za wszelką cenę</strong>. Mogą prowadzić do poważnych, potencjalnie zagrażających życiu skutków ubocznych."
+  },
+  "alkohol": {
+    "title": "Alkohol",
+    "risk": "BARDZO WYSOKIE",
+    "intro": "Kombinacja Kavy i alkoholu jest szczególnie niebezpieczna z kilku powodów:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Synergiczna sedacja",
+        "text": "Obie substancje działają sedacyjnie na OUN. Połączony efekt jest silniejszy niż suma pojedynczych działań."
+      },
+      {
+        "number": "2.",
+        "label": "Dodatkowa hepatotoksyczność",
+        "text": "Obie substancje są metabolizowane w wątrobie i mogą ją obciążać. Kombinacja znacznie zwiększa ryzyko uszkodzenia wątroby."
+      },
+      {
+        "number": "3.",
+        "label": "Interakcja CYP",
+        "text": "Alkohol również wpływa na enzymy CYP, co może prowadzić do nieprzewidywalnych interakcji."
+      }
+    ],
+    "recommendation": "Zalecenie: Co najmniej 24 godziny przerwy między spożyciem alkoholu a Kavy."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepiny i leki nasenne",
+    "risk": "BARDZO WYSOKIE",
+    "intro": "Benzodiazepiny (diazepam, lorazepam, alprazolam itp.) oraz substancje Z (zolpidem, zopiclon) nigdy nie powinny być łączone z Kava:",
+    "points": [
+      {
+        "label": "Zwiększona sedacja",
+        "text": "Obie działają na receptory GABA i wzmacniają się nawzajem"
+      },
+      {
+        "label": "Depresja oddechowa",
+        "text": "Kombinacja może niebezpiecznie spowolnić oddech"
+      },
+      {
+        "label": "Hamowanie CYP3A4",
+        "text": "Kava spowalnia metabolizm benzodiazepin, co wydłuża ich działanie"
+      }
+    ],
+    "caseReportLabel": "Raport przypadku:",
+    "caseReport": "Almeida i Grimsley (1996) opisali 54-letniego mężczyznę, który po połączeniu Kavy z alprazolamem wpadł w stan półkomatyczny."
+  },
+  "antipsychotika": {
+    "title": "Leki przeciwpsychotyczne",
+    "risk": "WYSOKIE",
+    "intro": "Leki przeciwpsychotyczne, takie jak haloperidol, risperidon, olanzapina i klozapina:",
+    "points": [
+      {
+        "label": "Zwiększona sedacja",
+        "text": "Dodatkowe działanie hamujące OUN"
+      },
+      {
+        "label": "Objawy pozapiramidowe",
+        "text": "Zwiększone ryzyko zaburzeń ruchowych"
+      },
+      {
+        "label": "Hamowanie CYP1A2/CYP2D6",
+        "text": "Spowolniony metabolizm, wyższe stężenia we krwi"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Leki przeciwzakrzepowe (rozrzedzające krew)",
+    "risk": "WYSOKIE",
+    "intro": "Warfarin i inne antagoniści witaminy K:",
+    "points": [
+      {
+        "label": "Hamowanie CYP2C9",
+        "text": "Kava hamuje enzym, który metabolizuje warfarynę"
+      },
+      {
+        "label": "Zwiększone INR",
+        "text": "Zwiększona skłonność do krwawień"
+      },
+      {
+        "label": "Ryzyko krwawienia",
+        "text": "Może prowadzić do niebezpiecznych krwawień wewnętrznych"
+      }
+    ],
+    "recommendation": "W przypadku stosowania leków przeciwzakrzepowych Kava jest przeciwwskazana."
+  },
+  "moderatesRisiko": {
+    "title": "Kombinacje o umiarkowanym ryzyku",
+    "intro": "Następujące kombinacje wymagają ostrożności i powinny być stosowane tylko po konsultacji z lekarzem. Może być konieczna zmiana dawki."
+  },
+  "antidepressiva": {
+    "title": "Leki przeciwdepresyjne",
+    "risk": "UMIARKOWANE",
+    "ssri": {
+      "title": "SSRI (fluoksetyna, sertralina, paroksetyna itp.):",
+      "items": [
+        "Hamowanie CYP2D6 może spowolnić metabolizm",
+        "Teoretyczne ryzyko zespołu serotoninowego (niskie)",
+        "Możliwa zwiększona sedacja"
+      ]
+    },
+    "snri": {
+      "title": "SNRI (wenlafaksyna, duloksetyna):",
+      "items": [
+        "Podobne interakcje jak SSRI",
+        "Hamowanie CYP2D6 istotne dla wenlafaksyny"
+      ]
+    },
+    "mao": {
+      "title": "Inhibitory MAO:",
+      "items": [
+        "Kava hamuje MAO-B (słabo)",
+        "Teoretyczne ryzyko, ale klinicznie mało udokumentowane",
+        "Ostrożność w przypadku nieodwracalnych inhibitorów MAO"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Leki przeciwdrgawkowe (lek przeciwpadaczkowy)",
+    "risk": "UMIARKOWANE",
+    "intro": "Fenytoina, karbamazepina, walproinian i inne leki przeciwdrgawkowe:",
+    "points": [
+      {
+        "label": "Interakcje CYP",
+        "text": "Możliwe zmiany stężenia we krwi"
+      },
+      {
+        "label": "Zwiększona sedacja",
+        "text": "Dodatkowe działanie na OUN"
+      },
+      {
+        "label": "Kontrola napadów",
+        "text": "Może być osłabiona"
+      }
+    ],
+    "note": "W przypadku padaczki Kava powinna być stosowana tylko pod nadzorem lekarza."
+  },
+  "parkinson": {
+    "title": "Leki na Parkinsona",
+    "risk": "UMIARKOWANE do WYSOKIE",
+    "intro": "Levodopa i agoniści dopaminy:",
+    "points": [
+      {
+        "label": "Antagonizm dopaminy",
+        "text": "Kava może osłabiać działanie lewodopy"
+      },
+      {
+        "label": "Raport przypadku",
+        "text": "Dokumentowane pogorszenie objawów Parkinsona podczas stosowania Kavy"
+      }
+    ],
+    "recommendation": "W przypadku choroby Parkinsona Kava jest przeciwwskazana."
+  },
+  "hepatotoxisch": {
+    "title": "Leki hepatotoksyczne",
+    "risk": "UMIARKOWANE",
+    "intro": "Leki o znanym potencjale hepatotoksycznym:",
+    "items": [
+      {
+        "name": "Paracetamol/acetaminofen",
+        "text": "Szczególnie problematyczne przy wyższych dawkach"
+      },
+      {
+        "name": "Statyny",
+        "text": "Atorwastatyna, simwastatyna itp. (substraty CYP3A4)"
+      },
+      {
+        "name": "Metotreksat",
+        "text": "Immunosupresant z hepatotoksycznością"
+      },
+      {
+        "name": "Izoniazyd",
+        "text": "Lek na gruźlicę"
+      }
+    ],
+    "note": "Kombinacja z lekami hepatotoksycznymi zwiększa ryzyko uszkodzenia wątroby."
+  },
+  "tabelle": {
+    "title": "Tabela przeglądowa interakcji",
+    "headers": [
+      "Klasa substancji",
+      "Przykłady",
+      "Ryzyko",
+      "Mechanizm"
+    ],
+    "rows": [
+      {
+        "class": "Alkohol",
+        "examples": "Ethanol",
+        "risk": "BARDZO WYSOKIE",
+        "mechanism": "Synergiczna sedacja, hepatotoksyczność"
+      },
+      {
+        "class": "Benzodiazepiny",
+        "examples": "Diazepam, lorazepam, alprazolam",
+        "risk": "BARDZO WYSOKIE",
+        "mechanism": "Wzmocnienie GABA, hamowanie CYP3A4"
+      },
+      {
+        "class": "Leki przeciwpsychotyczne",
+        "examples": "Haloperidol, olanzapina, klozapina",
+        "risk": "WYSOKIE",
+        "mechanism": "Hamowanie CYP1A2/2D6, sedacja"
+      },
+      {
+        "class": "Leki przeciwzakrzepowe",
+        "examples": "Warfarin, fenprokumon",
+        "risk": "WYSOKIE",
+        "mechanism": "Hamowanie CYP2C9, ryzyko krwawienia"
+      },
+      {
+        "class": "SSRI",
+        "examples": "Fluoksetyna, sertralina, paroksetyna",
+        "risk": "UMIARKOWANE",
+        "mechanism": "Hamowanie CYP2D6"
+      },
+      {
+        "class": "Leki przeciwdrgawkowe",
+        "examples": "Fenytoina, karbamazepina",
+        "risk": "UMIARKOWANE",
+        "mechanism": "Interakcje CYP, sedacja"
+      },
+      {
+        "class": "Leki na Parkinsona",
+        "examples": "Levodopa, agoniści dopaminy",
+        "risk": "UMIARKOWANE",
+        "mechanism": "Antagonizm dopaminy"
+      },
+      {
+        "class": "Statyny",
+        "examples": "Atorwastatyna, simwastatyna",
+        "risk": "UMIARKOWANE",
+        "mechanism": "Hamowanie CYP3A4, hepatotoksyczność"
+      },
+      {
+        "class": "Opioidy",
+        "examples": "Kodeina, tramadol, morfina",
+        "risk": "UMIARKOWANE",
+        "mechanism": "Hamowanie CYP2D6, sedacja"
+      },
+      {
+        "class": "Kofeina",
+        "examples": "Kawa, napoje energetyczne",
+        "risk": "NISKIE",
+        "mechanism": "Hamowanie CYP1A2 (wydłużone działanie)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktyczne zalecenia",
+    "checklistTitle": "Lista kontrolna przed spożyciem Kavy",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Sprawdź listę leków",
+        "text": "Sprawdź wszystkie aktualne leki pod kątem interakcji"
+      },
+      {
+        "number": "2.",
+        "label": "Skonsultuj się z lekarzem",
+        "text": "W przypadku regularnego przyjmowania leków przed spożyciem Kavy skonsultuj się z lekarzem"
+      },
+      {
+        "number": "3.",
+        "label": "Unikaj alkoholu",
+        "text": "Nie pij alkoholu przez co najmniej 24 godziny przed i po spożyciu Kavy"
+      },
+      {
+        "number": "4.",
+        "label": "Niska dawka",
+        "text": "Rozpocznij od niższej dawki Kavy przy jednoczesnym przyjmowaniu leków"
+      },
+      {
+        "number": "5.",
+        "label": "Obserwuj objawy",
+        "text": "Zwróć uwagę na nietypowe zmęczenie, zawroty głowy lub inne objawy"
+      }
+    ],
+    "professionalNote": {
+      "title": "Uwaga dla lekarzy i farmaceutów",
+      "text": "U pacjentów, którzy spożywają Kawę, należy przeprowadzić przegląd leków pod kątem substratów CYP450. Szczególna ostrożność jest wymagana w przypadku leków z wąskim oknem terapeutycznym. Może być konieczna zmiana dawki."
+    }
+  },
+  "quellen": {
+    "title": "Źródła",
+    "items": [
+      {
+        "author": "Mathews J.M. i in. (2002):",
+        "title": "Inhibicja aktywności ludzkiego cytochromu P450 przez ekstrakt Kavy i kawalaktony.",
+        "source": "Metabolizm leków i ich wydalanie."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Interakcje farmakokinetyczne i farmakodynamiczne z Kava.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Russmann S. i in. (2005):",
+        "title": "Tradycyjne wodne ekstrakty Kavy hamują cytochrom P450 1A2 u ludzi.",
+        "source": "Farmakologia kliniczna i terapia."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Potencjał interakcji Kavy i dziurawca z lekami.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Unger M. i in. (2002):",
+        "title": "Hamowanie cytochromu P450 3A4 przez ekstrakty i kawalaktony Piper methysticum.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "Pełną listę wszystkich cytowanych badań znajdziesz na naszej",
+    "studiesLink": "stronie badań"
+  }
+}

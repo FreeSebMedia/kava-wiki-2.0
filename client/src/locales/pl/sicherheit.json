@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Bezpieczeństwo i zdrowie",
+    "subtitle": "Fakty zamiast mitów: naukowe spojrzenie na hepatotoksyczność, skutki uboczne i bezpieczne spożycie.",
+    "category": "Bezpieczeństwo"
+  },
+  "toc": {
+    "title": "Spis treści",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Naukowy konsensus",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Przegląd rozdziałów",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Bezpieczeństwo wątroby",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interakcje",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Przeciwwskazania",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Zalecenia dotyczące dawkowania",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Możliwe skutki uboczne",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Lista kontrolna bezpieczeństwa",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Aktualny naukowy konsensus",
+    "intro": "Po wszechstronnych analizach przeprowadzonych przez <strong>WHO</strong>, <strong>EMA</strong> i niezależnych badaczy:",
+    "points": [
+      "Tradycyjnie przygotowywany Kava z odmian Noble jest przy odpowiednim stosowaniu <strong>bezpieczny</strong>",
+      "Ciężkie uszkodzenia wątroby są <strong>ekstremalnie rzadkie</strong> (szacowana częstość: 1:60.000 do 1:1.000.000)",
+      "Zakaz w UE z 2002 roku został przez niemieckie sądy uznany za <strong>nieproporcjonalny</strong>",
+      "Ryzyka wynikają głównie z <strong>wad jakościowych</strong>, <strong>niewłaściwych części roślin</strong> lub <strong>mieszanego spożycia</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Przegląd rozdziałów: Bezpieczeństwo w szczegółach",
+    "intro": "Ten rozdział oferuje wszechstronną, naukowo uzasadnioną analizę wszystkich aspektów związanych z bezpieczeństwem Kava. Kliknij na podstrony, aby uzyskać szczegółowe informacje:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Bezpieczeństwo wątroby i hepatotoksyczność",
+        "href": "/de/sicherheit/leber",
+        "description": "Naukowa prawda o zakazie z 2002 roku, oceny WHO i EMA, czynniki ryzyka oraz praktyczne zalecenia.",
+        "highlights": [
+          "Ocena WHO 2007",
+          "Raport EMA 2017",
+          "Wyroki sądowe",
+          "Czynniki ryzyka"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interakcje z lekami",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalaktony hamują enzymy CYP450: pełny przegląd kombinacji wysokiego ryzyka i umiarkowanych interakcji.",
+        "highlights": [
+          "System CYP450",
+          "Kombinacje wysokiego ryzyka",
+          "Tabela interakcji",
+          "Praktyczne wskazówki"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Przeciwwskazania",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Kiedy Kava nie powinna być stosowana: absolutne i względne przeciwwskazania do bezpiecznego stosowania.",
+        "highlights": [
+          "Choroby wątroby",
+          "Ciąża",
+          "Choroba Parkinsona",
+          "Pomoc w podejmowaniu decyzji"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Zalecenia dotyczące dawkowania",
+    "intro": "Optymalna dawka zależy w dużej mierze od indywidualnej tolerancji (\"odwrotna tolerancja\") oraz odmiany Kava. Zawsze zaczynaj od niższych dawek.",
+    "boxTitle": "Wartości odniesienia dla kavalaktonów",
+    "medical": {
+      "title": "Medyczne (lęk)",
+      "value": "60–240 mg",
+      "unit": "kavalaktonów dziennie"
+    },
+    "traditional": {
+      "title": "Tradycyjnie / Rekreacyjnie",
+      "value": "250–500 mg",
+      "unit": "kavalaktonów na sesję"
+    },
+    "tableTitle": "Przygotowanie z proszku korzeniowego (średnie mielenie)",
+    "table": {
+      "headers": {
+        "level": "Poziom doświadczenia",
+        "amount": "Ilość",
+        "water": "Woda"
+      },
+      "rows": [
+        {
+          "level": "Początkujący",
+          "amount": "2-3 łyżki stołowe (około 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Zaawansowani",
+          "amount": "4-6 łyżek stołowych (około 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Możliwe skutki uboczne",
+    "intro": "Chociaż Kava jest bezpieczna przy odpowiednim stosowaniu, mogą wystąpić skutki uboczne, szczególnie przy nadmiernym spożyciu.",
+    "frequent": {
+      "title": "Częste (zależne od dawki)",
+      "items": [
+        {
+          "label": "Zmęczenie:",
+          "value": "Szczególnie przy odmianach \"Heavy\""
+        },
+        {
+          "label": "Nudności:",
+          "value": "Przy dużych dawkach na czczo"
+        },
+        {
+          "label": "Odwodnienie:",
+          "value": "Kava działa moczopędnie"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Przy przewlekłym spożyciu",
+      "items": [
+        {
+          "label": "Kava-dermopatia:",
+          "value": "Sucha, łuszcząca się skóra (odwracalna)"
+        },
+        {
+          "label": "Wzrost GGT:",
+          "value": "Enzym wątrobowy nieznacznie wzrasta (odwracalny)"
+        },
+        {
+          "label": "Utrata wagi:",
+          "value": "Przy bardzo wysokim spożyciu"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Lista kontrolna bezpieczeństwa",
+    "boxTitle": "Dla bezpiecznego spożycia Kava",
+    "items": [
+      "<strong>Używaj tylko Noble-Kava</strong> z zaufanych źródeł",
+      "<strong>Tylko korzeń/rhizom</strong> – bez liści ani łodyg",
+      "<strong>Preferuj tradycyjne wodne przygotowanie</strong>",
+      "<strong>Brak alkoholu</strong> – co najmniej 24 godziny odstępu"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Sprawdzenie leków</strong> – ",
+        "linkText": "Sprawdź interakcje",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Uwaga na przeciwwskazania</strong> – ",
+        "linkText": "Zobacz listę kontrolną",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Zwróć uwagę na znaki ostrzegawcze",
+      "text": "W przypadku żółknięcia skóry/oczu, ciemnego moczu, jasnego stolca lub nietypowego zmęczenia natychmiast przerwij spożycie i skonsultuj się z lekarzem."
+    }
+  },
+  "quickLinks": {
+    "title": "Szczegółowe informacje",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Bezpieczeństwo wątroby",
+        "description": "Hepatotoksyczność i zakaz z 2002 roku",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interakcje",
+        "description": "Leki i interakcje CYP450",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Przeciwwskazania",
+        "description": "Kiedy należy unikać Kava",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

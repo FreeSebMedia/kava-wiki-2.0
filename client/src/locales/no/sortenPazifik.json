@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Varianter fra Fiji, Tonga & Hawaii",
+    "subtitle": "Regionale Kava-spesialiteter fra hele Stillehavet: Fra Fijis Yaqona til Hawaiis 'Awa.",
+    "category": "Varianter"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "sorten": "Varianter",
+    "current": "Stillehavet"
+  },
+  "toc": {
+    "title": "Innhold",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fiji – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Alle Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Andre regioner",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Opprinnelse",
+    "type": "Type",
+    "composition": "Sammensetning",
+    "duration": "Virkningsvarighet",
+    "effectProfile": "Virkningsprofil",
+    "recommendedFor": "Anbefalt for:",
+    "variety": "Variant",
+    "speciality": "Spesialitet"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\">I <strong>Fiji</strong> er Kava kjent som <strong>Yaqona</strong> (uttales \"Yang-gona\") og regnes som den offisielle nasjonaldrikken. Navnet betyr \"bitter\" og refererer til den karakteristiske smaken. Et annet navn, <strong>Malogu</strong>, betyr \"berolige\" og beskriver virkningen.</p><p>Fiji har <strong>13 dokumenterte Kava-varianter</strong> og er kjent for sin høykvalitetsbehandling. Spesielt verdsatt er <strong>Waka</strong> – Kava som utelukkende er laget av side-røttene (ikke rotstokken) og anses som potent.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Heavy",
+        "speciality": "Veldig potent, sterkt sedativ"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Balanced",
+        "speciality": "Balansert, allsidig"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Heavy",
+        "speciality": "Langvarig"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Balanced",
+        "speciality": "Tradisjonell"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Heavy",
+        "speciality": "Sjelden, veldig verdsatt"
+      },
+      {
+        "name": "Yalu",
+        "type": "Balanced",
+        "speciality": "Mild, behagelig"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Heavy",
+      "Veldig Potent"
+    ],
+    "origin": "Fiji (diverse øyer)",
+    "type": "Waka (side-røtter)",
+    "duration": "5-8 timer",
+    "description": "<strong>Loa Waka</strong> er en av de mest potente Kavaene på markedet. \"Loa\" betyr på fijiansk \"mørk\" og refererer til fargen på røttene. \"Waka\" betegner de høykvalitets side-røttene. Denne kombinasjonen gir en ekstremt sterk, kroppslig Kava.",
+    "effects": [
+      {
+        "text": "<strong>Ekstremt sedativ:</strong> En av de sterkeste \"Heavy\" Kavaene"
+      },
+      {
+        "text": "<strong>Dyp muskelavslapning:</strong> Ideell ved <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">muskelspenninger</a>"
+      },
+      {
+        "text": "<strong>Fremmer søvn:</strong> Perfekt for <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">søvnproblemer</a>"
+      },
+      {
+        "text": "<strong>Langvarig:</strong> Virkningen kan vare 5-8 timer"
+      }
+    ],
+    "recommendedFor": "Erfarne brukere, kveldsforbruk, alvorlige søvnproblemer",
+    "warning": "<strong>Forsiktighet:</strong> Loa Waka er veldig potent. Nybegynnere bør starte med en lavere dose og vente på virkningen før de tar mer."
+  },
+  "tonga": {
+    "title": "Tonga – Alle Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> er unik i Kava-verdenen: <strong>Alle varianter som dyrkes der er Noble</strong>. Det finnes ingen Tudei-varianter i Tonga. Dette gjør tongansk Kava spesielt trygg og forutsigbar.</p><p>Tongansk Kava er kjent for sin mer <strong>\"heady\"</strong> (hodefokusert) virkning. Variantene er tendenserende mindre sedative enn Fiji- eller Vanuatu-Kava og passer godt for daglig bruk og sosiale anledninger.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "Den mest populære varianten, sosial"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Balanced",
+        "speciality": "Mild, behagelig"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Balanced",
+        "speciality": "Tradisjonell"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Balanced",
+        "speciality": "Mild, god for nybegynnere"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euforisk"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Nybegynner-vennlig"
+    ],
+    "origin": "Tonga",
+    "composition": "Blanding (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 timer",
+    "description": "<strong>Pouni Ono</strong> er den mest kjente \"dag-Kava\" og en blanding av flere tonganske varianter (typisk Leka Hina, Kava Kula og Kava Fulufulu). Navnet betyr \"seks ganger\" og refererer til den tradisjonelle tilberedningen.",
+    "effects": [
+      {
+        "text": "<strong>Euforisk:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Humørhevende</a> og sosial"
+      },
+      {
+        "text": "<strong>Oppkvikkende:</strong> Lite sedativ, ideell for dagen"
+      },
+      {
+        "text": "<strong>Mild smak:</strong> Behageligere enn mange andre varianter"
+      },
+      {
+        "text": "<strong>Kort virkningsvarighet:</strong> Godt kontrollerbar"
+      }
+    ],
+    "recommendedFor": "Nybegynnere, daglig bruk, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">sosiale anledninger</a>, arbeid",
+    "tip": "<strong>Tips:</strong> Pouni Ono er en av de beste variantene for Kava-nybegynnere. Den milde smaken og den behagelige, ikke-overveldende virkningen gjør det enkelt å begynne."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">I Hawaii kalles Kava <strong>'Awa</strong>. Hawaii har <strong>13 tradisjonelle varianter</strong>, som alle regnes som Noble og er egnet for konsum. Hawaiiansk 'Awa er kjent for sin høye potens og sin unike karakter.</p><p>'Awa har en spesiell kulturell betydning i Hawaii. Historisk var bestemt 'Awa forbeholdt adelen (Ali'i). I dag blir hawaiiansk Kava ofte laget fersk og er dyrere enn Kava fra andre regioner på grunn av høye produksjonskostnader.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Kongelig Kava, veldig cerebral"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Heavy",
+        "speciality": "Seremonielt, sterkt sedativ"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Balanced",
+        "speciality": "Balansert, allsidig"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Mild, behagelig"
+      },
+      {
+        "name": "Nene",
+        "type": "Balanced",
+        "speciality": "Tradisjonell"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Heavy",
+        "speciality": "Sjelden, veldig verdsatt"
+      }
+    ],
+    "warning": "<strong>Advarsel:</strong> I Hawaii dyrkes også to importerte Tudei-varianter: <strong>Isa</strong> og <strong>Iwi</strong>. Disse er ikke innfødte og bør unngås."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Kongelig"
+    ],
+    "origin": "Hawaii",
+    "type": "Heady / Cerebral",
+    "duration": "2-4 timer",
+    "description": "<strong>Moi</strong> er den legendariske \"Kavaen til kongene\". I hawaiiansk historie var Moi forbeholdt adelen (Ali'i) og fikk ikke konsumeres av vanlige folk. I dag er den kjent for sin eksepsjonelt cerebrale, mentalt klargjørende virkning.",
+    "effects": [
+      {
+        "text": "<strong>Ekstremt cerebral:</strong> Fremmer mental klarhet og fokus"
+      },
+      {
+        "text": "<strong>Kreativitetsfremmende:</strong> Ideell for <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kreativt arbeid</a>"
+      },
+      {
+        "text": "<strong>Lite sedativ:</strong> Gjør ikke trøtt"
+      },
+      {
+        "text": "<strong>Spirituell:</strong> Tradisjonelt for meditasjon og seremonier"
+      }
+    ],
+    "recommendedFor": "Kreativt arbeid, meditasjon, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kognitive oppgaver</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>I <strong>Samoa</strong> kalles Kava <strong>'Ava</strong>. Samoa har bare <strong>4 dokumenterte varianter</strong>, men en rik seremoniel tradisjon. 'Ava-seremonien er en viktig del av den samoanske kulturen og utføres ved offisielle anledninger.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Balanced",
+        "speciality": "Tradisjonell, seremonielt"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Mild, behagelig"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Heavy",
+        "speciality": "Sterkere, sedativ"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Balanced",
+        "speciality": "Importert fra Tonga"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Andre regioner",
+    "intro": "I tillegg til hoveddyrkingsområdene finnes Kava også i noen andre stillehavsregioner:",
+    "regions": [
+      {
+        "name": "Papua Ny-Guinea",
+        "description": "PNG har bare <strong>en Noble-variant</strong>: <strong>Kau kupwe</strong>, som dyrkes på øya Baluan. De fleste andre PNG-varianter er Tudei og bør unngås."
+      },
+      {
+        "name": "Salomonene",
+        "description": "Salomonene har også bare <strong>en Noble-variant</strong>: <strong>Melomelo</strong> (ikke forveksles med Vanuatus Melo Melo, selv om de kan være beslektet)."
+      },
+      {
+        "name": "Mikronesia",
+        "description": "I de fødererte statene i Mikronesia (Pohnpei) finnes varianten <strong>Rahmwahnger</strong>. Kava har der en viktig seremoniel betydning."
+      },
+      {
+        "name": "Wallis og Futuna",
+        "description": "Disse franske territoriene har sine egne Kava-tradisjoner, men få dokumenterte unike varianter."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Videre i kapittelet Varianter:",
+    "nextTitle": "Variantprofiler i detalj",
+    "nextDescription": "Detaljerte profiler av alle viktige varianter med kjemotyper, virkninger og anbefalinger",
+    "nextLink": "/de/sorten/profile"
+  }
+}

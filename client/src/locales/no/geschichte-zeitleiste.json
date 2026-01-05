@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "Kavaens historie",
+    "subtitle": "En reise gjennom 5.000 år med kava-historie – fra domestisering i Melanesia til global spredning i den moderne verden.",
+    "category": "Historie"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "geschichte": "Historie",
+    "zeitleiste": "Tidslinje"
+  },
+  "ui": {
+    "filter": "Filter",
+    "allEpochs": "Alle epoker",
+    "readMore": "Les mer",
+    "loading": "Laster..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Forhistorie & Domestisering",
+      "description": "Begynnelsen av Kava-kulturen i Melanesia"
+    },
+    "classical": {
+      "name": "Klassisk Stillehavs-epoke",
+      "description": "Spredning gjennom austronesisk ekspansjon"
+    },
+    "colonial": {
+      "name": "Kolonitid",
+      "description": "Europeisk kontakt og misjonering"
+    },
+    "modern": {
+      "name": "Moderne epoke",
+      "description": "Vitenskapelig utforskning og avkolonisering"
+    },
+    "contemporary": {
+      "name": "Samtiden",
+      "description": "Global spredning og kulturell renessanse"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Opprinnelse & Domestisering",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Spredning i Stillehavet",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Kolonitid",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Vitenskap & Forskning",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Moderne Epoke",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Samtiden",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "ca. 3000 f.Kr.",
+      "title": "Domestisering av Kava",
+      "description": "I regnskogene i Papua Ny-Guinea og Vanuatu begynner domestiseringen av Piper wichmannii til den kultiverte Kava-planten (Piper methysticum).",
+      "details": "Gjennom selektiv avl og vegetativ formering oppstår de første Noble Kava-sortene med høyere Kavalacton-innhold og lavere toksisitet enn den ville urformen.",
+      "location": "Papua Ny-Guinea / Vanuatu",
+      "links": [
+        {
+          "label": "Planten",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Opprinnelser",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "ca. 2500 f.Kr.",
+      "title": "Første Kava-seremonier i Vanuatu",
+      "description": "På øyene i Vanuatu utvikler de første rituelle Kava-seremoniene seg. Nakamal blir det sentrale møtestedet.",
+      "details": "Forberedelsen ved å tygge roten av unge menn etablerer seg som en tradisjon. Kava blir et medium for kommunikasjon med forfedre og ånder.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Seremonier",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "ca. 1500–1000 f.Kr.",
+      "title": "Lapita-ekspansjon",
+      "description": "Lapita-kulturen sprer Kava gjennom sin maritime ekspansjon fra Melanesia til Vestpolynesia.",
+      "details": "Arkeologiske funn av Lapita-keramikk viser utbredelsesrutene. Kava-planter transporteres som stiklinger på utliggerkanuer.",
+      "location": "Melanesia → Polynesia"
+    },
+    "fiji-arrival": {
+      "year": "ca. 1000 f.Kr.",
+      "title": "Kava når Fiji",
+      "description": "Kava blir introdusert i Fiji og kjent som 'Yaqona'. Unike seremonier utvikler seg rundt Tanoa (Kava-skålen).",
+      "details": "Opprinnelig ble Kava i Fiji forberedt ved å male, ikke ved å tygge. Forbindelsen til forfedrekulten i Būrau (mennenes hus) etableres.",
+      "location": "Fiji",
+      "links": [
+        {
+          "label": "Fiji-seremonier",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Stammer fra Stillehavet",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "ca. 500 f.Kr.",
+      "title": "Kava i Tonga og Samoa",
+      "description": "Ava-seremonien utvikler seg i Tonga og Samoa til en høyt formalisert tradisjon med streng hierarki.",
+      "details": "Tou'a (Kava-blanderen) og Matāpule (seremonimester) blir viktige rituelle roller. Drikkerekkefølgen gjenspeiler den sosiale orden.",
+      "location": "Tonga / Samoa",
+      "links": [
+        {
+          "label": "Ava-seremonien",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "ca. 300–500 e.Kr.",
+      "title": "Kava når Hawaii",
+      "description": "Polynesiske sjøfarere bringer Kava til Hawaii, hvor det blir kjent som 'Awa' og knyttes til gudinnen Hina.",
+      "details": "I Hawaii utvikler det seg en unik Kava-kultur med forbindelse til helseritualer av Kahuna (prester). Sorten 'Awa Hiwa blir reservert for seremonielle formål.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Hawaii-sorter",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "ca. 500 e.Kr.",
+      "title": "Sakau-kultur i Pohnpei",
+      "description": "På Pohnpei i Mikronesia utvikler Sakau-seremonien seg som en selvstendig tradisjon.",
+      "details": "Forberedelsen på en flat stein og pressing gjennom hibiskusfibre blir karakteristisk for den mikronesisk Kava-kulturen.",
+      "location": "Pohnpei (Mikronesia)"
+    },
+    "fiji-tongan-influence": {
+      "year": "ca. 1750",
+      "title": "Tonganisk innflytelse på Fiji",
+      "description": "Fiji overtar tonganske Kava-seremonier: tygging, Tanoa-skåler og Bilo-kopper blir standard.",
+      "details": "Sevusevu-seremonien som formell velkomst etablerer seg. Kristne misjonærer favoriserer de 'siviliserte' polynesiske seremoniene.",
+      "location": "Fiji"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "Første europeiske kontakt",
+      "description": "Nederlandsk sjøfarere under Jacob Le Maire og Willem Schouten når Stillehavsøyene og dokumenterer Kava for første gang.",
+      "details": "Europeerne beskriver den 'merkelige drikken' til innfødte, men forstår ikke dens kulturelle betydning.",
+      "location": "Stillehavet"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Captain Cooks dokumentasjon",
+      "description": "James Cook dokumenterer Kava-seremonier under sine Stillehavsreiser grundig og bringer prøver til Europa.",
+      "details": "Cooks rapporter om Ava-seremonien i Tonga og Hawaii vekker vitenskapelig interesse i Europa. Botaniker Johann Georg Forster beskriver planten for første gang vitenskapelig.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Historie",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Vitenskapelig klassifisering",
+      "description": "Johann Georg Forster klassifiserer Kava som Piper methysticum ('ruspepperplante').",
+      "details": "Navnet stammer fra det greske 'methystikos' (rus). Forster beskriver planten i sitt verk 'De Plantis Esculentis Insularum Oceani Australis'.",
+      "location": "Europa",
+      "links": [
+        {
+          "label": "Botanikk",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Misjonærmotstand",
+      "description": "Kristne misjonærer kjemper mot Kava som en 'hedensk' drikk. I noen regioner blir seremonier forbudt.",
+      "details": "Misjonærer kritiserer tyggingen som uhygienisk og seremoniene som 'late, nedbrytende, ja demoniske'. På Øst-Futuna blir tygging stoppet i 1930 etter misjonærmandat.",
+      "location": "Stillehavet",
+      "links": [
+        {
+          "label": "Koloniale påvirkninger",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "Oppdagelse av Kavalaktone",
+      "description": "Tyske kjemikere isolerer for første gang de aktive stoffene fra Kava og kaller dem 'Kavain'.",
+      "details": "Oppdagelsen legger grunnlaget for vitenskapelig forskning på Kava-effekten og senere farmasøytiske anvendelser.",
+      "location": "Tyskland",
+      "links": [
+        {
+          "label": "Kavalaktone",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Tysk kolonistyre",
+      "description": "Tyskland kontrollerer deler av Stillehavet (Tysk Ny-Guinea, Samoa). Kava blir vitenskapelig forsket på.",
+      "details": "Tyske forskere dokumenterer Kava-varianter og tilberedningsmetoder. Kolonistyret tolererer Kava-forbruk i stor grad.",
+      "location": "Tysk Ny-Guinea / Samoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Louis Lewins forskning",
+      "description": "Den tyske toksikologen Louis Lewin publiserer omfattende studier om Kava og klassifiserer det som 'Euphorica'.",
+      "details": "Lewins verk 'Phantastica' blir standardverket innen psykofarmakologi. Han beskriver Kava som et av de viktigste nytelsesmidlene for menneskeheten.",
+      "location": "Tyskland"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Uavhengighet & Kulturell renessanse",
+      "description": "Stater i Stillehavet oppnår uavhengighet. Kava vender tilbake som et symbol på kulturell identitet i det offentlige rom.",
+      "details": "Samoa (1962), Fiji (1970), Tonga (1970), Vanuatu (1980) blir uavhengige. Kava-seremonier feires ved statsdannelser og offisielle anledninger.",
+      "location": "Stillehavet",
+      "links": [
+        {
+          "label": "Moderne historie",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu blir uavhengig",
+      "description": "Vanuatu oppnår uavhengighet fra den fransk-britiske kolonistyret. Kava blir et nasjonalt symbol.",
+      "details": "Den nye nasjonen gjør Kava til en del av sin identitet. Nakamals blir viktige sosiale institusjoner i Port Vila og andre byer.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "1990-årene",
+      "title": "Kliniske studier om angst",
+      "description": "Første kontrollerte kliniske studier viser den angstdempende effekten av Kava-ekstrakter.",
+      "details": "Meta-analyser bekrefter effektiviteten av Kava ved angstlidelser. Kava-preparater blir populære i Europa og USA som urtelegemidler.",
+      "location": "Europa / USA",
+      "links": [
+        {
+          "label": "Studier",
+          "url": "/studien"
+        },
+        {
+          "label": "Effekt ved angst",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990-årene",
+      "title": "Første Kava-barer i USA",
+      "description": "I Florida og California åpner de første vestlige Kava-barene som alkoholfri alternativ.",
+      "details": "Kava-bar-bevegelsen begynner i byer med stillehavsdiaspora. Fort Lauderdale blir sentrum for den amerikanske Kava-scenen.",
+      "location": "USA (Florida)",
+      "links": [
+        {
+          "label": "Moderne Kava-kultur",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal & Kava-barer",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Kava-forbud i Tyskland",
+      "description": "Tyskland forbyr Kava-preparater etter rapporter om leverskader. Andre EU-land følger etter.",
+      "details": "BfArM tilbakekaller godkjenningen av alle Kava-holdige legemidler. Beslutningen er basert på 30 mistenkte tilfeller av hepatotoksisitet, men kritiseres senere som overdreven.",
+      "location": "Tyskland / EU",
+      "links": [
+        {
+          "label": "Leversikkerhet",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Juridisk status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Vanuatus Noble-Only-Exportpolitikk",
+      "description": "Vanuatu innfører strenge eksportretningslinjer: Bare Noble Kava-varianter kan eksporteres.",
+      "details": "Politikken skal sikre kvalitet og beskytte Kavas omdømme. Tudei-varianter med høyere DHM/DHK-innhold ekskluderes fra eksport.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Noble vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Vanuatu-varianter",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "WHO-risikovurdering",
+      "description": "WHO publiserer en omfattende risikovurdering og klassifiserer tradisjonelt tilberedt Kava som trygg.",
+      "details": "Vurderingen skiller mellom tradisjonell tilberedning (trygg) og ekstrakter (potensielt problematiske). Bruken av ikke-rot-deler identifiseres som en risikofaktor.",
+      "location": "Internasjonalt",
+      "links": [
+        {
+          "label": "Sikkerhet",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Rehabilitering i Tyskland",
+      "description": "Tyske domstoler opphever Kava-forbudet. Den opprinnelige beslutningen vurderes som vitenskapelig ubegrunnet.",
+      "details": "Forvaltningsdomstolen avgjør at risikovurderingen var feilaktig. Kava-produkter kan igjen selges lovlig.",
+      "location": "Tyskland",
+      "links": [
+        {
+          "label": "Juridisk status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Codex Alimentarius-standard",
+      "description": "Codex Alimentarius vedtar en internasjonal standard for Kava som drikk.",
+      "details": "Standarden definerer kvalitetskriterier, Kavalacton-grenseverdier og merkekrav. Et milepæl for internasjonal handel.",
+      "location": "Internasjonalt"
+    },
+    "global-expansion": {
+      "year": "2020-årene",
+      "title": "Global ekspansjon av Kava-barer",
+      "description": "Over 200 Kava-barer åpner i USA. 'Sober Curious'-bevegelsen driver veksten.",
+      "details": "Kava blir populært som alkoholfritt alternativ for sosial avslapning. Byer som Austin, Denver og New York utvikler livlige Kava-scener.",
+      "location": "USA / Europa / Australia",
+      "links": [
+        {
+          "label": "Moderne Kava-kultur",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020-årene",
+      "title": "Klimaforandringer-utfordringer",
+      "description": "Stillehavs Kava-bønder kjemper med konsekvensene av klimaendringer på avlingene sine.",
+      "details": "Endrede nedbørsmønstre, sykloner og stigende temperaturer truer tradisjonelle dyrkingsområder. Bærekraftige dyrkingsmetoder blir viktigere.",
+      "location": "Stillehavet",
+      "links": [
+        {
+          "label": "Dyrking",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "I dag",
+      "title": "Kulturell renessanse",
+      "description": "Unge generasjoner i Stillehavet danner 'Kava-kollektiver' og dokumenterer tradisjonell kunnskap digitalt.",
+      "details": "Podcaster, YouTube-kanaler og Instagram-kontoer sprer Kava-kultur over hele verden. Forbindelsen mellom tradisjon og moderne skaper nye former for kulturell identitet.",
+      "location": "Stillehavet / Globalt",
+      "links": [
+        {
+          "label": "Kultur & Tradisjon",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Oversikt",
+    "events": "Hendelser",
+    "epochs": "Epoker",
+    "yearsOfHistory": "År med historie",
+    "milestones": "Milepæler",
+    "keyMilestones": "Nøkkelmilepæler",
+    "relatedPages": "Relaterte sider",
+    "noEventsFound": "Ingen hendelser funnet for disse filtrene.",
+    "resetFilters": "Tilbakestill filtre",
+    "bce": "f.Kr.",
+    "origins": "Opprinnelsene",
+    "spreadPacific": "Spredning i Stillehavet",
+    "modernHistory": "Moderne historie",
+    "interactiveMap": "Interaktivt verdenskart"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "page": {
+    "title": "De 6 hovedkavalaktonene",
+    "subtitle": "Detaljerte virkningsprofiler for de seks viktigste virkestoffene i Piper methysticum.",
+    "category": "Innholdsstoffer"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "inhaltsstoffe": "Innholdsstoffer",
+    "current": "Kavalaktoner"
+  },
+  "toc": {
+    "title": "Innhold",
+    "einfuehrung": "Introduksjon til kavalaktoner",
+    "struktur": "Kjemisk struktur",
+    "uebersicht": "De 6 hovedkavalaktonene",
+    "kavain": "Kavain (K) – Nr. 4",
+    "dihydrokavain": "Dihydrokavain (DHK) – Nr. 2",
+    "methysticin": "Methysticin (M) – Nr. 6",
+    "dihydromethysticin": "Dihydromethysticin (DHM) – Nr. 5",
+    "yangonin": "Yangonin (Y) – Nr. 3",
+    "desmethoxyyangonin": "Desmethoxyyangonin (DMY) – Nr. 1",
+    "wirkmechanismen": "Virkningsmekanismer",
+    "synergien": "Synergier & Entourage-effekt"
+  },
+  "einfuehrung": {
+    "paragraph1": "<strong>Kavalaktoner</strong> (også kalt Kava-Pyrone) er en gruppe av laktoner som kun finnes i slekten <em>Piper</em>. De står for over 96% av den farmakologiske virkningen av Kava og skiller seg fundamentalt fra alkaloidene som finnes i andre psykoaktive planter som kaffe eller te.",
+    "paragraph2": "Så langt har <strong>18 forskjellige kavalaktoner</strong> blitt identifisert i <em>Piper methysticum</em>, men seks av dem utgjør størstedelen av den totale konsentrasjonen og bestemmer virkningsprofilen til en Kava-sort. Disse \"Major Kavalaktonene\" er kodet med tallene 1-6 og danner grunnlaget for kjemotyp-systemet."
+  },
+  "struktur": {
+    "title": "Kjemisk struktur",
+    "intro": "Alle kavalaktoner deler et felles grunnskjelett: en <strong>α-Pyron-ring</strong> (en seksleddet laktonring) som er koblet til en fenylring. Forskjellene mellom de enkelte kavalaktonene kommer fra:",
+    "items": [
+      {
+        "label": "Metylendioxy-grupper",
+        "text": "Methysticin og Dihydromethysticin har denne gruppen, noe som forklarer deres lengre virkningsvarighet."
+      },
+      {
+        "label": "Metningsgrad",
+        "text": "Dihydro-variantene (DHK, DHM) har en mettet sidekjede, noe som øker deres lipofilitet og dermed bioavailability."
+      },
+      {
+        "label": "Metoksy-grupper",
+        "text": "Yangonin og Desmethoxyyangonin skiller seg ved tilstedeværelsen eller fraværet av en metoksy-gruppe."
+      }
+    ],
+    "tableHeaders": {
+      "number": "Nr.",
+      "kavalacton": "Kavalakton",
+      "formula": "Summenformel",
+      "mass": "Molar masse",
+      "feature": "Egenskap"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "formula": "C₁₄H₁₂O₃",
+        "mass": "228.24 g/mol",
+        "feature": "Ingen metoksy-gruppe"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "formula": "C₁₄H₁₆O₃",
+        "mass": "248.28 g/mol",
+        "feature": "Metttet sidekjede"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "formula": "C₁₅H₁₄O₄",
+        "mass": "258.27 g/mol",
+        "feature": "Med metoksy-gruppe"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "formula": "C₁₄H₁₄O₃",
+        "mass": "230.26 g/mol",
+        "feature": "Umettet sidekjede"
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "formula": "C₁₅H₁₆O₅",
+        "mass": "292.29 g/mol",
+        "feature": "Metylendioxy + mettet"
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "formula": "C₁₅H₁₄O₅",
+        "mass": "290.27 g/mol",
+        "feature": "Metylendioxy-gruppe"
+      }
+    ]
+  },
+  "uebersicht": {
+    "title": "De 6 hovedkavalaktonene i detalj",
+    "intro": "Hver av de seks hovedkavalaktonene har et unikt farmakologisk profil. Forståelsen av disse individuelle virkningene er avgjørende for å forutsi den totale virkningen av en Kava-sort basert på dens kjemotype."
+  },
+  "kavain": {
+    "number": "4",
+    "name": "Kavain (K)",
+    "subtitle": "Den \"ledende kavalaktonen\" for Noble Kava",
+    "description": "<strong>Kavain</strong> anses som den viktigste kavalaktonen for kvalitetsbestemmelse. Den er hovedansvarlig for den karakteristiske \"Heady\"-effekten – en klar, fokusert avslapning uten sedasjon. Noble Kava-varianter begynner nesten alltid med Kavain (4) som første eller andre plass i kjemotypen.",
+    "effectsTitle": "Primære virkninger",
+    "effects": [
+      "Angstdempende",
+      "Humørhevende",
+      "Mental fokus & klarhet",
+      "Lett muskelavslapning"
+    ],
+    "mechanismsTitle": "Virkningsmekanismer",
+    "mechanisms": [
+      "Modulering av GABA-A-reseptorer",
+      "Blokkering av spenningsavhengige Na⁺-kanaler",
+      "Hemming av noradrenalinopptak",
+      "Rask passasje over blod-hjerne-barrieren"
+    ],
+    "clinicalNote": "<strong>Klinisk relevans:</strong> Kavain har blitt testet som en enkelt substans i flere kliniske studier og viste signifikant angstdempende effekt – sammenlignbar med benzodiazepiner, men uten deres avhengighetspotensial."
+  },
+  "dihydrokavain": {
+    "number": "2",
+    "name": "Dihydrokavain (DHK)",
+    "subtitle": "Den \"kroppslige avslapperen\"",
+    "description": "<strong>Dihydrokavain</strong> er den hydrogenerte formen av Kavain og kjennetegnes ved en spesielt sterk muskelavslappende og smertelindrende effekt. Den brytes ned langsommere enn Kavain, noe som fører til en lengre, men mildere virkning.",
+    "effectsTitle": "Primære virkninger",
+    "effects": [
+      "Sterk muskelavslapning",
+      "Analgesi (smertelindring)",
+      "Kroppslig avslapning",
+      "Sedativ ved høye doser"
+    ],
+    "mechanismsTitle": "Virkningsmekanismer",
+    "mechanisms": [
+      "Blokkering av Ca²⁺-kanaler",
+      "Forsterket GABA-A-modulering",
+      "Hemming av glutamatfrigjøring",
+      "Høyere lipofilitet = bedre absorpsjon"
+    ],
+    "typicalFor": "<strong>Typisk for:</strong> \"Heavy\" Kava-varianter som Borogu eller Palarasul, som drikkes om kvelden for avslapning."
+  },
+  "methysticin": {
+    "number": "6",
+    "name": "Methysticin (M)",
+    "subtitle": "Den nevrobeskyttende kavalaktonen",
+    "description": "<strong>Methysticin</strong> kjennetegnes ved sin metylendioxy-gruppe, som gir den spesielle farmakologiske egenskaper. Den virker sterkt sedativt og angstdempende, men viser også interessante nevrobeskyttende egenskaper i prekliniske studier.",
+    "effectsTitle": "Primære virkninger",
+    "effects": [
+      "Sterkt sedativ",
+      "Angstdempende",
+      "Nevrobeskyttende",
+      "Antikonvulsiv (krampeløsende)"
+    ],
+    "researchTitle": "Forskningsinteresse",
+    "research": [
+      "Beskyttelse mot oksidativt stress",
+      "Potensial i Parkinson-forskning",
+      "Antiepileptiske egenskaper",
+      "Betennelsesdempende"
+    ]
+  },
+  "dihydromethysticin": {
+    "number": "5",
+    "name": "Dihydromethysticin (DHM)",
+    "subtitle": "Den \"Tudei-markøren\" kavalaktonen",
+    "description": "<strong>Dihydromethysticin</strong> er kavalaktonen med den lengste halveringstiden og brytes ned veldig sakte av kroppen. Høye DHM-konsentrasjoner er hovedtrekket ved \"Tudei\" (Two-Day) Kava – varianter som kan forårsake dagers tretthet og kvalme.",
+    "warning": "<strong>Viktig:</strong> Hvis DHM (5) står på første eller andre plass i en kjemotype, er det sannsynligvis Tudei-Kava. Slike varianter er ikke tillatt for eksport i Vanuatu og bør unngås.",
+    "propertiesTitle": "Egenskaper",
+    "properties": [
+      "Veldig lang halveringstid (12+ timer)",
+      "Sterkt sedativ",
+      "Kan forårsake kvalme",
+      "\"Bakrus\"-effekt dagen etter"
+    ],
+    "occurrenceTitle": "Forekomst",
+    "occurrence": [
+      "Høy i Tudei-varianter (Isa, Palimanu)",
+      "Høy i Piper wichmannii (villkava)",
+      "Lav i Noble Kava",
+      "Markør for kvalitetskontroll"
+    ]
+  },
+  "yangonin": {
+    "number": "3",
+    "name": "Yangonin (Y)",
+    "subtitle": "Den endocannabinoid-aktive kavalaktonen",
+    "description": "<strong>Yangonin</strong> er unik blant kavalaktonene, da den har en påvist affinitet for <strong>CB1-reseptoren</strong> i endocannabinoid-systemet. Dette forklarer delvis den euforiserende og humørhevende virkningen av Kava, som kan minne om cannabis – uten å forårsake psykose-lignende effekter.",
+    "effectsTitle": "Primære virkninger",
+    "effects": [
+      "Lett euforiserende",
+      "Humørhevende",
+      "Appetittmodulerende",
+      "Stimulerende i lave doser"
+    ],
+    "mechanismsTitle": "Virkningsmekanismer",
+    "mechanisms": [
+      "Binding til CB1-reseptorer",
+      "MAO-B-hemming",
+      "Dopaminerg aktivitet",
+      "Synergi med andre kavalaktoner"
+    ]
+  },
+  "desmethoxyyangonin": {
+    "number": "1",
+    "name": "Desmethoxyyangonin (DMY)",
+    "subtitle": "Dopamin-boosteren",
+    "description": "<strong>Desmethoxyyangonin</strong> skiller seg fra Yangonin ved fraværet av en metoksy-gruppe. Den viser en uttalt effekt på det dopaminerge systemet og bidrar til den fokuserende og motiverende komponenten av Kava-effekten.",
+    "effectsTitle": "Primære virkninger",
+    "effects": [
+      "Fokus & konsentrasjon",
+      "Dopaminøkning",
+      "Lett eufori",
+      "Motivasjonsøkning"
+    ],
+    "mechanismsTitle": "Virkningsmekanismer",
+    "mechanisms": [
+      "Hemming av dopaminopptak",
+      "MAO-B-hemming",
+      "Noradrenerg aktivitet",
+      "Rask virkning"
+    ]
+  },
+  "wirkmechanismen": {
+    "title": "Virkningsmekanismer for kavalaktoner",
+    "intro": "Kavalaktoner påvirker sentralnervesystemet på flere nivåer samtidig. Denne multimodaliteten forklarer hvorfor Kava-effekten er så unik og skiller seg fra andre angstdempende midler:",
+    "tableHeaders": {
+      "mechanism": "Virkningsmekanisme",
+      "kavalactones": "Involverte kavalaktoner",
+      "effect": "Resulterende effekt"
+    },
+    "tableData": [
+      {
+        "mechanism": "GABA-A-modulering",
+        "kavalactones": "Kavain, DHK, M, DHM",
+        "effect": "Angstdempende, avslappende, sedativ"
+      },
+      {
+        "mechanism": "Na⁺-kanalblokkering",
+        "kavalactones": "Kavain, DHK",
+        "effect": "Analgetisk, lokalanestetisk"
+      },
+      {
+        "mechanism": "Ca²⁺-kanalblokkering",
+        "kavalactones": "DHK, DHM",
+        "effect": "Muskelavslappende"
+      },
+      {
+        "mechanism": "MAO-B-hemming",
+        "kavalactones": "Y, DMY",
+        "effect": "Humørhevende, dopaminerg"
+      },
+      {
+        "mechanism": "CB1-reseptorbinding",
+        "kavalactones": "Yangonin",
+        "effect": "Euforiserende, appetittmodulerende"
+      },
+      {
+        "mechanism": "Hemming av noradrenalinopptak",
+        "kavalactones": "Kavain, DMY",
+        "effect": "Fokuserende, oppkvikkende"
+      }
+    ]
+  },
+  "synergien": {
+    "title": "Synergier & Entourage-effekt",
+    "paragraph1": "På samme måte som med cannabis (terpener & cannabinoider) er <strong>den totale ekstrakten mer effektiv enn isolerte kavalaktoner</strong> for Kava. Dette kalles <strong>Entourage-effekten</strong>.",
+    "quote": "Isolert Kavain virker angstdempende, men kombinasjonen med Yangonin (MAO-B-hemming) og Desmethoxyyangonin (Dopaminøkning) forsterker den humørhevende effekten betydelig.",
+    "paragraph2": "Derfor foretrekkes <strong>tradisjonelle tilberedninger</strong> (vann-ekstraksjon fra hele roten) eller <strong>fullspektrekstrakter</strong> fremfor isolerte virkestoffer. Den naturlige balansen av kavalaktoner, som finnes i Noble Kava, har blitt optimalisert gjennom tusenvis av år med seleksjon.",
+    "practicalTitle": "Praktisk konsekvens",
+    "practicalText": "Når du kjøper Kava-produkter, bør du se etter <strong>fullspektrekstrakter</strong> eller <strong>tradisjonelt tilberedt Kava</strong>. Produkter med isolert Kavain eller standardiserte enkeltvirkestoffer gir ofte ikke det samme virkningsprofilen som den naturlige roten."
+  },
+  "navigation": {
+    "nextChapter": "Videre i kapittelet om innholdsstoffer:",
+    "chemotypenTitle": "Kjemotyp-systemet",
+    "chemotypenDescription": "Hvordan den 6-sifrede koden forutsier virkningen"
+  }
+}

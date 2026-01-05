@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "subtitle": "Den viktigste forskjellen for enhver Kava-forbruker: Hvorfor Noble Kava er trygg og Tudei bør unngås.",
+    "category": "Varianter",
+    "breadcrumb": {
+      "home": "Hjem",
+      "sorten": "Varianter",
+      "current": "Noble vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "Innhold",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introduksjon",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "Historien om klassifisering",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "Kjemiske forskjeller",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "Effektforskjeller",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "Gjenkjenne Tudei",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "Sikkerhetsaspekter",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Forskjellen mellom <strong>Noble Kava</strong> og <strong>Tudei Kava</strong> er den mest grunnleggende klassifiseringen i Kava-verdenen. Den avgjør om en Kava-opplevelse er behagelig og trygg eller ubehagelig og potensielt skadelig.",
+      "text": "Begrepet \"Tudei\" (også skrevet \"Two-Day\") stammer fra Bislama, kreolspråket i Vanuatu, og betyr bokstavelig talt \"to dager\" – en referanse til den ekstremt lange virketiden til disse variantene. Noble Kava, derimot, har blitt selektert av stillehavs kulturer for daglig bruk i århundrer, og gir en behagelig, kontrollerbar effekt."
+    },
+    "geschichte": {
+      "title": "Historien om klassifisering",
+      "p1": "Den formelle forskjellen mellom Noble og Tudei Kava ble innført av <strong>Regjeringen i Vanuatu</strong> for å regulere kvaliteten på eksport-Kava. I 2002 vedtok Vanuatu <strong>Kava-loven</strong>, som forbyr eksport av Tudei-varianter. Denne lovgivningen var en reaksjon på rapporter om leverskader i Europa, som ble knyttet til produkter av lav kvalitet.",
+      "p2": "Forskningen til <strong>Dr. Vincent Lebot</strong>, en ledende Kava-forsker, var avgjørende for utviklingen av denne klassifiseringen. Lebot utviklet metoder for kjemisk analyse av Kava-varianter og identifiserte <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kjemotyper</a> som skiller Noble fra Tudei.",
+      "quote": "Klassifiseringen i Noble og Tudei er ikke basert på subjektive preferanser, men på målbare kjemiske forskjeller som direkte korrelerer med sikkerhet og toleranse.",
+      "quoteAuthor": "— Dr. Vincent Lebot, Kava-forsker"
+    },
+    "chemischeUnterschiede": {
+      "title": "Kjemiske forskjeller",
+      "intro": "Den avgjørende forskjellen mellom Noble og Tudei Kava ligger i <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kjemotypen</a> – den relative konsentrasjonen av de seks hoved-<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">kavalaktonene</a>. Kjemotypen angis som et seks-sifret tall, der det første tallet representerer det dominerende kavalaktonet.",
+      "tableHeaders": {
+        "merkmal": "Egenskap",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Kjemotyp begynner med",
+          "noble": "2 (DHK) eller 4 (Kavain)",
+          "tudei": "5 (DHM) eller 6 (Methysticin)"
+        },
+        {
+          "merkmal": "Dominerende kavalakton",
+          "noble": "Kavain eller Dihydrokavain",
+          "tudei": "Dihydromethysticin"
+        },
+        {
+          "merkmal": "Flavokavain B innhold",
+          "noble": "Lavt (<0.5%)",
+          "tudei": "Høyt (opptil 5%)"
+        },
+        {
+          "merkmal": "DHM:Kavain forhold",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Noble kjemotyper (eksempler)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Alle begynner med 2 eller 4 – aldri med 5 eller 6."
+      },
+      "tudeiCard": {
+        "title": "Tudei kjemotyper (eksempler)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "Begynner med 5 (DHM) eller 6 (Methysticin) – et faresignal."
+      },
+      "calculatorLink": "Kjemotyp-kalkulator: Analyser hver kjemotyp"
+    },
+    "wirkungsunterschiede": {
+      "title": "Effektforskjeller",
+      "intro": "De kjemiske forskjellene fører til drastisk forskjellige effektprofiler:",
+      "tableHeaders": {
+        "aspekt": "Aspekt",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Effektstart",
+          "noble": "Raskt (10-20 minutter)",
+          "tudei": "Forsinket (30-90 minutter)"
+        },
+        {
+          "aspekt": "Effektduration",
+          "noble": "Moderat (3-6 timer)",
+          "tudei": "Ekstremt lang (6-48 timer)"
+        },
+        {
+          "aspekt": "Effektkarakter",
+          "noble": "Klar, avslappet, sosial",
+          "tudei": "Dum, beruset, sederende"
+        },
+        {
+          "aspekt": "Neste dag",
+          "noble": "Ingen bakrus",
+          "tudei": "Ofte lethargisk, kvalme"
+        },
+        {
+          "aspekt": "Bivirkninger",
+          "noble": "Sjelden, mild",
+          "tudei": "Vanlig: Kvalme, hodepine"
+        },
+        {
+          "aspekt": "Daglig bruk",
+          "noble": "Trygg",
+          "tudei": "Ikke anbefalt"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Noble Kava-opplevelse",
+        "text": "En typisk Noble Kava-opplevelse begynner med en lett prikking på leppene, etterfulgt av en bølge av avslapning. Sinnet forblir klart mens kroppen slapper av. Etter 3-4 timer avtar effekten mykt, og man føler seg forfrisket – klar for en god natts søvn eller videre aktiviteter."
+      },
+      "tudeiExperience": {
+        "title": "Tudei Kava-opplevelse",
+        "text": "Tudei Kava virker forsinket og gradvis. Effekten er ofte overveldende sederende, med en \"beruset\" følelse. Neste dag føler mange forbrukere seg fortsatt påvirket – derav navnet \"Two-Day\". Kvalme og hodepine er vanlig."
+      }
+    },
+    "erkennung": {
+      "title": "Gjenkjenne Tudei",
+      "intro": "Dessverre blir Tudei Kava noen ganger ulovlig blandet inn eller solgt som Noble. Her er advarselssignaler:",
+      "warningTitle": "Advarselssignaler for Tudei-blanding",
+      "warnings": [
+        "<strong>Ekstremt lav pris</strong> – Tudei er billigere å produsere",
+        "<strong>Ingen sortenavn</strong> – Sortenavnet bør alltid oppgis",
+        "<strong>Ingen kjemotyp</strong> – Kjemotypen gir informasjon om kavalakton-sammensetningen",
+        "<strong>Forsinket effektstart</strong> – Noble virker innen 10-20 minutter",
+        "<strong>Ekstrem kvalme</strong> – Mer enn lett magebesvær",
+        "<strong>Effekt neste dag</strong> – Noble avtar etter 4-6 timer"
+      ],
+      "acetoneTestTitle": "Acetone-test",
+      "acetoneTestText": "En enkel hjemmetest kan hjelpe med å identifisere Tudei: <strong>Acetone-testen</strong>. Her blandes Kava-pulver med aceton. Noble Kava farger aceton gult, mens Tudei Kava gir en oransje til rød farge (på grunn av det høye Flavokavain-B-innholdet).",
+      "recommendation": "<strong>Anbefaling:</strong> Vær oppmerksom på at forhandleren oppgir den nøyaktige kjemotypen og sorten når du kjøper. Denne informasjonen viser at det er ekte Noble Kava."
+    },
+    "sicherheit": {
+      "title": "Sikkerhetsaspekter",
+      "intro": "Forskjellen mellom Noble og Tudei er ikke bare et spørsmål om komfort, men også om <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">sikkerhet</a>. Leverskader som ble knyttet til Kava tidlig på 2000-tallet, tilskrives i stor grad produkter av lav kvalitet:",
+      "causes": [
+        "Bruk av <strong>overjordiske plante-deler</strong> (blader, stilker) i stedet for bare røtter",
+        "Blanding av <strong>Tudei-varianter</strong> med høyt Flavokavain-B-innhold",
+        "<strong>Aceton-ekstraksjon</strong> i stedet for tradisjonell vannpreparering",
+        "Bruk av <strong>umodne planter</strong> (mindre enn 3 år gamle)"
+      ],
+      "conclusion": "Noble Kava, tradisjonelt tilberedt fra røtter som er minst 3-5 år gamle, har en <strong>tusenårig sikkerhetshistorie</strong> i stillehavs kulturene. Regjeringen i Vanuatu og internasjonale organisasjoner som <strong>WHO</strong> har bekreftet at Noble Kava anses som trygg ved riktig bruk.",
+      "moreLink": "Lær mer om Kava-sikkerhet"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Videre i kapittelet Varianter:",
+    "next": {
+      "title": "Varianter fra Vanuatu",
+      "description": "Over 80 varianter fra Kavaens hjemland: Borogu, Melo Melo, Kelai og mer",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

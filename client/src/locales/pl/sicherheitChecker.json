@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Sprawdzacz interakcji",
+    "subtitle": "Sprawdź potencjalne interakcje między swoimi lekami a Kava",
+    "category": "Bezpieczeństwo",
+    "breadcrumbs": {
+      "home": "Strona główna",
+      "sicherheit": "Bezpieczeństwo",
+      "wechselwirkungen": "Interakcje",
+      "current": "Sprawdzacz interakcji"
+    }
+  },
+  "toc": {
+    "title": "Zawartość",
+    "checker": "Sprawdzacz interakcji",
+    "anleitung": "Instrukcja",
+    "kategorien": "Kategorie ryzyka",
+    "haeufige": "Często sprawdzane leki",
+    "hinweis": "Ważna uwaga"
+  },
+  "ui": {
+    "disclaimerTitle": "Ważna uwaga",
+    "disclaimerText": "Ten sprawdzacz służy wyłącznie do celów informacyjnych i nie zastępuje porady lekarskiej. W przypadku wątpliwości lub przy przyjmowaniu leków na receptę zawsze skonsultuj się z lekarzem lub farmaceutą.",
+    "inputTitle": "Wprowadź leki",
+    "inputDescription": "Wprowadź nazwy swoich leków (substancja czynna lub nazwa handlowa)",
+    "placeholder": "np. Diazepam, Ibuprofen, Sertralin...",
+    "selectedMeds": "Wybrane leki:",
+    "checkButton": "Sprawdź interakcje",
+    "commonCategories": "Częste grupy leków",
+    "overallAssessment": "Ocena ogólna",
+    "detailedAnalysis": "Szczegółowa analiza",
+    "category": "Kategoria",
+    "mechanism": "Mechanizm",
+    "affectedEnzymes": "Dotknięte enzymy CYP",
+    "recommendation": "Zalecenie",
+    "newCheck": "Nowe sprawdzenie",
+    "moreAbout": "Więcej o interakcjach",
+    "moreInfo": "Więcej informacji",
+    "liverSafety": "Bezpieczeństwo wątroby i hepatotoksyczność",
+    "contraindications": "Przeciwwskazania",
+    "safetyOverview": "Przegląd bezpieczeństwa i zdrowia",
+    "studies": "Badania naukowe"
+  },
+  "intro": {
+    "title": "Sprawdzenie leków",
+    "text": "Wprowadź nazwę swojego leku lub substancji czynnej, aby sprawdzić możliwe interakcje z Kava."
+  },
+  "search": {
+    "placeholder": "Wprowadź lek lub substancję czynną...",
+    "button": "Sprawdź",
+    "noResults": "Nie znaleziono leku o tej nazwie. Proszę sprawdzić pisownię lub skonsultować się z lekarzem."
+  },
+  "result": {
+    "risk": "Poziom ryzyka",
+    "mechanism": "Mechanizm",
+    "recommendation": "Zalecenie",
+    "alternatives": "Możliwe alternatywy"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "BARDZO WYSOKIE RYZYKO",
+      "description": "Ściśle przeciwwskazane - nigdy nie stosować w połączeniu"
+    },
+    "high": {
+      "label": "WYSOKIE RYZYKO",
+      "description": "Unikać połączenia - możliwe znaczne ryzyko zdrowotne"
+    },
+    "moderate": {
+      "label": "UMIARKOWANE RYZYKO",
+      "description": "Zachować ostrożność - tylko pod nadzorem lekarza"
+    },
+    "low": {
+      "label": "NISKIE RYZYKO",
+      "description": "Prawdopodobnie bezpieczne przy normalnym stosowaniu"
+    },
+    "none": {
+      "label": "BRAK ZNANEGO RYZYKA",
+      "description": "Brak udokumentowanych interakcji"
+    }
+  },
+  "anleitung": {
+    "title": "Jak korzystać ze sprawdzacza",
+    "steps": [
+      "Wprowadź nazwę swojego leku lub substancji czynnej",
+      "Kliknij \"Sprawdź\" lub naciśnij Enter",
+      "Przeczytaj ocenę ryzyka i zalecenia",
+      "W przypadku wątpliwości zawsze skonsultuj się z lekarzem lub farmaceutą"
+    ]
+  },
+  "kategorien": {
+    "title": "Wyjaśnienie kategorii ryzyka",
+    "high": {
+      "title": "Wysokie ryzyko",
+      "text": "Połączenie powinno być unikać w każdych okolicznościach. Możliwe poważne skutki uboczne."
+    },
+    "moderate": {
+      "title": "Umiarkowane ryzyko",
+      "text": "Połączenie tylko pod nadzorem lekarza. Może być konieczna zmiana dawki."
+    },
+    "low": {
+      "title": "Niskie ryzyko",
+      "text": "Połączenie prawdopodobnie bezpieczne, ale należy zwrócić uwagę na indywidualne reakcje."
+    },
+    "unknown": {
+      "title": "Nieznane",
+      "text": "Brak wystarczających danych. Zalecana ostrożność."
+    }
+  },
+  "haeufige": {
+    "title": "Często sprawdzane leki",
+    "clickToCheck": "Kliknij na lek, aby go sprawdzić:"
+  },
+  "hinweis": {
+    "title": "Ważna uwaga",
+    "text": "Ten sprawdzacz służy wyłącznie do ogólnych informacji i nie zastępuje porady lekarskiej. Baza danych nie jest pełna i jest ciągle aktualizowana. W przypadku wątpliwości zawsze skonsultuj się z lekarzem lub farmaceutą.",
+    "disclaimer": "Informacje opierają się na literaturze naukowej i znanych mechanizmach interakcji. Reakcje indywidualne mogą się różnić."
+  },
+  "navigation": {
+    "continueTitle": "Kontynuuj w rozdziale Bezpieczeństwo",
+    "items": [
+      {
+        "title": "Przegląd",
+        "href": "/pl/bezpieczenstwo",
+        "description": "Powrót do przeglądu bezpieczeństwa"
+      },
+      {
+        "title": "Interakcje",
+        "href": "/pl/bezpieczenstwo/interakcje",
+        "description": "Szczegółowe informacje o interakcjach"
+      },
+      {
+        "title": "Przeciwwskazania",
+        "href": "/pl/bezpieczenstwo/przeciwwskazania",
+        "description": "Kiedy nie należy stosować Kava"
+      }
+    ]
+  }
+}

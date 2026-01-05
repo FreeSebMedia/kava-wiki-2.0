@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morfologia",
+    "subtitle": "Szczegółowa anatomia rośliny Kava z szczególnym uwzględnieniem ekonomicznie ważnego systemu korzeniowego.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "morphologie": "Morfologia"
+  },
+  "toc": {
+    "ueberblick": "Przegląd morfologiczny",
+    "wurzelsystem": "System korzeniowy",
+    "stumpf": "Stumpf (Corm)",
+    "seitenwurzeln": "Korzenie boczne (Waka)",
+    "kavalactonVerteilung": "Rozkład Kavalaktonów",
+    "staengel": "Łodygi i węzły",
+    "blaetter": "Liście",
+    "blueten": "Kwiaty i owoce"
+  },
+  "intro": {
+    "paragraph1": "Morfologia <em>Piper methysticum</em> jest wynikiem tysiącleci selekcji. Podczas gdy nadziemne części rośliny są ważne dla identyfikacji odmian, prawdziwa wartość tkwi w podziemnych strukturach – złożonym systemie korzeniowym, który zawiera pożądane kavalaktony."
+  },
+  "overview": {
+    "title": "Przegląd morfologiczny",
+    "paragraph1": "Kava to wieloletni, wiecznie zielony krzew o typowej wysokości <strong>1,5 do 3 metrów</strong>. W optymalnych warunkach – przy obfitości wody, składników odżywczych i cienia – pojedyncze rośliny mogą osiągnąć do 5 metrów.",
+    "table": {
+      "headers": {
+        "plantPart": "Część rośliny",
+        "characteristic": "Charakterystyka",
+        "kavalactoneContent": "Zawartość kavalaktonów"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Zgrubienie korzeniowe (Rhizom)",
+          "characteristic": "Grube, zdrewniałe, rozgałęzione",
+          "content": "Bardzo wysoka (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Korzenie boczne",
+          "characteristic": "Cienkie, włókniste, rozległe",
+          "content": "Najwyższa zawartość"
+        },
+        "stem": {
+          "name": "Łodyga (Pień)",
+          "characteristic": "Węzłowy, bambusowy",
+          "content": "Niska do średniej"
+        },
+        "leaves": {
+          "name": "Liście",
+          "characteristic": "Sercowate, duże",
+          "content": "Bardzo niska"
+        },
+        "flowers": {
+          "name": "Kwiaty",
+          "characteristic": "Małe, kłosowate",
+          "content": "Nie używane"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "System korzeniowy",
+    "paragraph1": "Najważniejszą częścią rośliny Kava pod względem ekonomicznym i farmakologicznym jest podziemny system korzeniowy. Składa się z dwóch głównych komponentów, które różnią się składem i jakością.",
+    "qualityAlert": {
+      "title": "Cechy jakości:",
+      "text": "Wysokiej jakości Kava jest wytwarzana wyłącznie z korzeni. Użycie nadziemnych części roślin (łodyg, liści) uznawane jest za gorsze i może prowadzić do niepożądanych skutków ubocznych."
+    },
+    "stump": {
+      "title": "Stumpf (Corm/Stump)",
+      "paragraph1": "<strong>Stumpf</strong> to gruba, zdrewniała część tuż pod powierzchnią ziemi. Tworzy centralną masę zgrubienia korzeniowego i może osiągać znaczne rozmiary w starszych roślinach.",
+      "properties": {
+        "title": "Właściwości",
+        "items": [
+          "Waga: 5-25 kg przy dojrzałych roślinach",
+          "Średnica: 10-30 cm",
+          "Tekstura: Twarda, drewniana, włóknista",
+          "Kolor: Jasnobrązowy do ciemnobrązowego"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Profil kavalaktonów",
+        "items": [
+          "Całkowita zawartość: Średnia do wysokiej",
+          "Więcej Dihydromethysticinu (DHM)",
+          "Mniej Kavain niż w korzeniach bocznych",
+          "Tendencja do \"cięższego\" działania"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "Korzenie boczne (Lateral Roots / Waka)",
+      "paragraph1": "<strong>Korzenie boczne</strong> to cieńsze korzenie, które wychodzą ze stumpfu i rozprzestrzeniają się w glebie. Na Fidżi nazywane są \"Waka\" i uznawane są za najwyższej jakości komponent.",
+      "properties": {
+        "title": "Właściwości",
+        "items": [
+          "Średnica: 0,5-3 cm",
+          "Długość: Do kilku metrów",
+          "Tekstura: Miękka, mniej zdrewniała",
+          "Kolor: Jasnobrązowy, żółtawy"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Profil kavalaktonów",
+        "items": [
+          "Całkowita zawartość: Najwyższa ze wszystkich części rośliny",
+          "Wyższy udział Kavain",
+          "Bardziej zrównoważony profil działania",
+          "Jakość premium (\"Waka Grade\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Rozkład kavalaktonów w roślinie",
+      "paragraph1": "Stężenie kavalaktonów znacznie różni się między różnymi częściami rośliny. Ma to bezpośredni wpływ na jakość i bezpieczeństwo produktów Kava.",
+      "table": {
+        "headers": {
+          "plantPart": "Część rośliny",
+          "kavalactoneContent": "Zawartość kavalaktonów",
+          "usage": "Zastosowanie",
+          "qualityLevel": "Poziom jakości"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Korzenie boczne (Waka)",
+            "content": "10-20%",
+            "usage": "Kava premium",
+            "quality": "Najwyższa"
+          },
+          "stump": {
+            "name": "Stumpf (Corm)",
+            "content": "5-15%",
+            "usage": "Kava standardowa",
+            "quality": "Wysoka"
+          },
+          "basalStem": {
+            "name": "Podstawowy pień (Lewena)",
+            "content": "3-8%",
+            "usage": "Mieszane lub samodzielnie",
+            "quality": "Średnia"
+          },
+          "upperStem": {
+            "name": "Górny pień",
+            "content": "1-3%",
+            "usage": "Nie zalecane",
+            "quality": "Niska"
+          },
+          "leaves": {
+            "name": "Liście",
+            "content": "<1%",
+            "usage": "Nie używane",
+            "quality": "Niezdatne"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Ostrzeżenie:",
+        "text": "Użycie liści i nadziemnych części łodyg zostało powiązane z historycznymi doniesieniami o toksyczności wątroby. Wysokiej jakości Kava używa wyłącznie materiału korzeniowego."
+      }
+    }
+  },
+  "stems": {
+    "title": "Łodygi i węzły",
+    "paragraph1": "Łodygi (pnie) Kava są jednym z najważniejszych cech do <strong>identyfikacji odmian</strong>. Rośnie prosto i rozgałęzia się wraz z wiekiem.",
+    "structure": {
+      "title": "Struktura",
+      "items": [
+        "<strong>Węzły (Nodes):</strong> Wyraźnie widoczne zgrubienia, podobne do bambusa",
+        "<strong>Internodia:</strong> Odcinki między węzłami, zmienne długości",
+        "<strong>Średnica:</strong> 2-5 cm, w zależności od wieku i odmiany",
+        "<strong>Wysokość:</strong> 1,5-3 m (do 5 m w optymalnych warunkach)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Cechy odmian",
+      "paragraph1": "Kolor i wzór łodyg są kluczowymi cechami do odróżnienia odmian:",
+      "items": [
+        "<strong>Zielony:</strong> Często występujący w wielu standardowych odmianach",
+        "<strong>Plamisty:</strong> Charakterystyczny dla niektórych odmian",
+        "<strong>Prążkowany:</strong> Długie paski w różnych kolorach",
+        "<strong>Ciemnofioletowy/Czarny:</strong> Rzadkie, często szczególnie cenione odmiany"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Liście",
+    "paragraph1": "Liście Kava są duże, wyraziste i służą głównie do fotosyntezy. Tradycyjnie nie są używane do przygotowania Kava.",
+    "characteristics": {
+      "title": "Charakterystyka liści",
+      "formSize": {
+        "title": "Forma i rozmiar",
+        "items": [
+          "Serce kształtne (cordat)",
+          "Szerokość: 15-30 cm",
+          "Długość: 20-35 cm",
+          "Ułożone naprzemiennie"
+        ]
+      },
+      "surface": {
+        "title": "Powierzchnia",
+        "items": [
+          "Gładka do lekko owłosionej",
+          "Błyszcząca na górze",
+          "Matowa na spodzie",
+          "Wyraźne żyłki liściowe"
+        ]
+      },
+      "color": {
+        "title": "Kolor",
+        "items": [
+          "Jasnozielony do ciemnozielonego",
+          "Możliwe odcienie fioletu",
+          "Ogonek liściowy często zabarwiony",
+          "Odmianowe wariacje"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Kwiaty i owoce",
+    "paragraph1": "Chociaż <em>Piper methysticum</em> produkuje kwiaty, roślina jest funkcjonalnie sterylna i nie wytwarza żywotnych nasion.",
+    "flowerStructure": {
+      "title": "Struktura kwiatów",
+      "items": [
+        "<strong>Typ:</strong> Kłosowe kwiatostany (Spadix)",
+        "<strong>Rozmiar:</strong> 3-9 cm długości",
+        "<strong>Kolor:</strong> Zielonkawo-biały do żółtawego",
+        "<strong>Pozycja:</strong> Naprzeciw liści",
+        "<strong>Płeć:</strong> Zwykle jednopłciowe (dioecious)"
+      ]
+    },
+    "sterility": {
+      "title": "Sterylność",
+      "paragraph1": "Sterylność <em>P. methysticum</em> jest wynikiem wysokiej poliploidii (dekaploidii). Oznacza to:",
+      "items": [
+        "Brak żywotnych nasion",
+        "Wyłącznie rozmnażanie wegetatywne",
+        "Całkowita zależność od człowieka",
+        "Wszystkie rośliny są klonami genetycznymi"
+      ]
+    },
+    "paragraph2": "Ta sterylność ma daleko idące konsekwencje: bez ciągłej uprawy przez ludzi, <em>Piper methysticum</em> wyginęłoby w ciągu jednego pokolenia. Każda istniejąca dziś roślina Kava jest wynikiem nieprzerwanego łańcucha rozmnażania przez sadzonki, który sięga pierwszych udomowień sprzed około 3000 lat."
+  },
+  "navigation": {
+    "continueText": "Kontynuuj w rozdziale Botanika:",
+    "nextChapter": {
+      "title": "Uprawa i ekologia",
+      "description": "Uprawa, rozmnażanie i warunki wzrostu"
+    }
+  }
+}

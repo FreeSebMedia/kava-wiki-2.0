@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Profile odmian w szczegółach",
+    "subtitle": "Szczegółowe opisy najważniejszych odmian Kava z chemotypami, działaniem i zaleceniami.",
+    "category": "Odmiany"
+  },
+  "breadcrumbs": {
+    "home": "Strona główna",
+    "sorten": "Odmiany",
+    "current": "Profile"
+  },
+  "toc": {
+    "title": "Spis treści",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Przegląd",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Moje ulubione",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Filtr działania",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady odmiany",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Balanced odmiany",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Heavy odmiany",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Porównanie odmian",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Pochodzenie",
+    "chemotype": "Chemotyp",
+    "duration": "Czas działania",
+    "strength": "Moc",
+    "hits": "Wyniki",
+    "low": "Niski",
+    "high": "Wysoki",
+    "variety": "Odmiana",
+    "region": "Region",
+    "type": "Typ",
+    "bestUse": "Najlepsze zastosowanie",
+    "resetFilters": "Zresetuj filtry",
+    "matchingCriteria": "z {total} odmian odpowiada Twoim kryteriom",
+    "noMatching": "Brak odmian {category} odpowiadających aktualnym kryteriom filtracji.",
+    "toComparison": "Do interaktywnego porównania odmian"
+  },
+  "overview": {
+    "intro": "Ta strona oferuje kompleksowy przegląd najważniejszych <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a> odmian, uporządkowanych według ich typu działania. Wykorzystaj te profile, aby znaleźć idealną odmianę dla swoich potrzeb.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Skupiony na głowie, euforyczny, towarzyski. Idealny na dzień.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Zrównoważony, wszechstronny. Dobry na każdą porę dnia.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Skupiony na ciele, sedatywny. Idealny na wieczór.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Filtr działania",
+    "description": "Filtruj odmiany według pożądanych efektów. Przesuń suwaki, aby wyświetlić tylko odmiany z co najmniej wybraną wartością.",
+    "euphoria": "Euforia",
+    "relaxation": "Relaks",
+    "sleepy": "Senny"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady odmiany",
+      "description": "Heady Kavas są skoncentrowane na głowie i wywołują euforię, jasność umysłu i towarzyskość. Są idealne do spożycia w ciągu dnia, na spotkania towarzyskie i kreatywną pracę. <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Chemotyp</a> zazwyczaj zaczyna się od 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Balanced odmiany",
+      "description": "Balanced Kavas oferują zrównoważony efekt między głową a ciałem. Są wszechstronne i nadają się zarówno na dzień, jak i na wieczór. Idealne do <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">łagodzenia lęku</a> i ogólnego relaksu."
+    },
+    "heavy": {
+      "title": "Heavy odmiany",
+      "description": "Heavy Kavas są skoncentrowane na ciele i wywołują głęboką <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">relaksację mięśni</a> i sedację. Są idealne na wieczór, w przypadku <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">problemów ze snem</a> i do regeneracji fizycznej. Chemotyp często ma DHK (2) na prominentnej pozycji."
+    }
+  },
+  "comparison": {
+    "title": "Porównanie odmian",
+    "description": "Ta tabela oferuje szybki przegląd wszystkich ważnych odmian. Skorzystaj także z naszego <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">interaktywnego narzędzia do porównania</a> dla szczegółowych zestawień.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 godz.",
+      "strength": 4,
+      "description": "Legendarny euforyczny Kava, jak szampan wśród Kava.",
+      "recommended": [
+        "Spotkania towarzyskie",
+        "Kreatywna praca",
+        "Spożycie dzienne"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 godz.",
+      "strength": 4,
+      "description": "Ludowy Kava z Vanuatu, wszechstronny z początkowym działaniem skoncentrowanym na głowie.",
+      "recommended": [
+        "Spotkania towarzyskie",
+        "Spożycie wieczorne",
+        "Dla początkujących"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 godz.",
+      "strength": 3,
+      "description": "Najpopularniejszy Kava dzienny, łagodny i przyjazny dla początkujących.",
+      "recommended": [
+        "Dla początkujących",
+        "Praca",
+        "Spotkania towarzyskie"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 godz.",
+      "strength": 4,
+      "description": "Królewski 'Awa, ekstremalnie zmysłowy i umysłowo klarujący.",
+      "recommended": [
+        "Medytacja",
+        "Kreatywna praca",
+        "Kognicja"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 godz.",
+      "strength": 3,
+      "description": "Rzadka euforyczna odmiana, bardzo ceniona.",
+      "recommended": [
+        "Spotkania towarzyskie",
+        "Poprawa nastroju"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 godz.",
+      "strength": 3,
+      "description": "Idealny wszechstronny Kava, łagodny i zrównoważony.",
+      "recommended": [
+        "Dla początkujących",
+        "Łagodzenie lęku",
+        "Codzienne użycie"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 godz.",
+      "strength": 4,
+      "description": "Ludowy Kava z Vanuatu, niezawodny i wszechstronny.",
+      "recommended": [
+        "Spożycie wieczorne",
+        "Relaks",
+        "Dla początkujących"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 godz.",
+      "strength": 4,
+      "description": "Mocny Kava z dobrą równowagą między głową a ciałem.",
+      "recommended": [
+        "Doświadczeni użytkownicy",
+        "Spożycie wieczorne"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 godz.",
+      "strength": 3,
+      "description": "Zrównoważony Kava z Fidżi, wszechstronny.",
+      "recommended": [
+        "Codzienne użycie",
+        "Relaks"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 godz.",
+      "strength": 5,
+      "description": "Jedna z najpotężniejszych Heavy Kavas, głęboka sedacja.",
+      "recommended": [
+        "Problemy ze snem",
+        "Relaksacja mięśni",
+        "Wieczór"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 godz.",
+      "strength": 5,
+      "description": "Ekstremalnie potężny Kava z Fidżi, silnie sedatywny.",
+      "recommended": [
+        "Doświadczeni użytkownicy",
+        "Problemy ze snem"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 godz.",
+      "strength": 4,
+      "description": "Młodszy brat Palasy, nieco łagodniejszy, ale podobny.",
+      "recommended": [
+        "Dla początkujących w Heavy",
+        "Spożycie wieczorne"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 godz.",
+      "strength": 5,
+      "description": "Ceremonialny hawajski 'Awa, bardzo silny.",
+      "recommended": [
+        "Ceremonie",
+        "Sen",
+        "Doświadczeni"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Towarzyski, Kreatywny"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Dla początkujących, Dzień"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Medytacja, Kognicja"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "243156",
+      "bestUse": "Lęk, Wszechstronny"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Wieczór, Relaks"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "423561",
+      "bestUse": "Doświadczeni, Wieczór"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Heavy",
+      "chemotype": "423651",
+      "bestUse": "Sen, Mięśnie"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Doświadczeni, Sen"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Ceremonie, Sen"
+    }
+  ]
+}

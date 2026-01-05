@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Przeciwwskazania",
+    "subtitle": "Kiedy Kava nie powinna być stosowana: Absolutne i względne przeciwwskazania dla bezpiecznego stosowania.",
+    "category": "Bezpieczeństwo",
+    "breadcrumbs": {
+      "home": "Strona główna",
+      "sicherheit": "Bezpieczeństwo",
+      "current": "Przeciwwskazania"
+    }
+  },
+  "toc": {
+    "title": "Spis treści",
+    "zusammenfassung": "Podsumowanie",
+    "absolute": "Absolutne przeciwwskazania",
+    "leber": "Choroby wątroby",
+    "schwangerschaft": "Ciąża i karmienie piersią",
+    "kinder": "Dzieci i młodzież",
+    "relative": "Względne przeciwwskazania",
+    "parkinson": "Choroba Parkinsona",
+    "depression": "Ciężka depresja",
+    "operation": "Przed operacjami",
+    "fahren": "Prowadzenie pojazdów i obsługa maszyn",
+    "vorsicht": "Szczególna ostrożność",
+    "genetik": "Czynniki genetyczne",
+    "alter": "Osoby starsze",
+    "entscheidungshilfe": "Pomoc w podjęciu decyzji",
+    "quellen": "Źródła"
+  },
+  "navigation": {
+    "continueTitle": "Kontynuuj w rozdziale Bezpieczeństwo",
+    "items": [
+      {
+        "title": "Przegląd",
+        "href": "/pl/bezpieczenstwo",
+        "description": "Powrót do przeglądu bezpieczeństwa"
+      },
+      {
+        "title": "Bezpieczeństwo wątroby",
+        "href": "/pl/bezpieczenstwo/watroba",
+        "description": "Hepatotoksyczność i zakaz z 2002 roku"
+      },
+      {
+        "title": "Interakcje",
+        "href": "/pl/bezpieczenstwo/interakcje",
+        "description": "Leki i interakcje CYP450"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Ważny przegląd",
+    "intro": "Chociaż Kava uznawana jest za bezpieczną przy prawidłowym stosowaniu, istnieją pewne sytuacje, w których jej użycie nie jest zalecane lub jest przeciwwskazane:",
+    "absolut": {
+      "title": "Absolutnie przeciwwskazane:",
+      "items": [
+        "Choroby wątroby",
+        "Ciąża i karmienie piersią",
+        "Dzieci poniżej 18 roku życia"
+      ]
+    },
+    "relativ": {
+      "title": "Względne przeciwwskazania:",
+      "items": [
+        "Choroba Parkinsona",
+        "Ciężka depresja",
+        "Przed planowanymi operacjami"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Absolutne przeciwwskazania",
+    "intro": "W przypadku następujących stanów Kava <strong>nie powinna być stosowana w żadnym przypadku</strong>. Ryzyko znacznie przewyższa wszelkie możliwe korzyści."
+  },
+  "leber": {
+    "title": "Choroby wątroby",
+    "label": "Ściśle przeciwwskazane",
+    "intro": "Osoby z istniejącymi chorobami wątroby powinny całkowicie unikać Kavy:",
+    "items": [
+      {
+        "name": "Wirusowe zapalenie wątroby (A, B, C)",
+        "text": "Aktywne lub przewlekłe zapalenie wątroby"
+      },
+      {
+        "name": "Marskość wątroby",
+        "text": "Niezależnie od stadium"
+      },
+      {
+        "name": "Stłuszczenie wątroby",
+        "text": "Alkoholowe i niealkoholowe stłuszczenie wątroby"
+      },
+      {
+        "name": "Podwyższone wartości wątrobowe",
+        "text": "Nieuzasadnione podwyższenie ALT, AST, GGT"
+      },
+      {
+        "name": "Poprzednie uszkodzenia wątroby",
+        "text": "Nawet jeśli obecnie znormalizowane"
+      }
+    ],
+    "reasonLabel": "Uzasadnienie:",
+    "reason": "Wątroba jest centralnym organem odpowiedzialnym za metabolizm kavalaktonów. Przy ograniczonej funkcji wątroby metabolity mogą się gromadzić, co zwiększa ryzyko dalszych uszkodzeń."
+  },
+  "schwangerschaft": {
+    "title": "Ciąża i karmienie piersią",
+    "label": "Ściśle przeciwwskazane",
+    "intro": "Kava nie powinna być stosowana w czasie ciąży i karmienia piersią:",
+    "items": [
+      {
+        "name": "Brak danych bezpieczeństwa",
+        "text": "Nie ma kontrolowanych badań dotyczących bezpieczeństwa w ciąży"
+      },
+      {
+        "name": "Przenikanie przez łożysko",
+        "text": "Kavalaktony mogą przekraczać barierę łożyskową"
+      },
+      {
+        "name": "Mleko matki",
+        "text": "Kavalaktony przenikają do mleka matki"
+      },
+      {
+        "name": "Relaksacja macicy",
+        "text": "Kavain może relaksować mięśnie macicy"
+      }
+    ],
+    "traditionLabel": "Tradycyjna praktyka:",
+    "tradition": "W kulturach pacyficznych Kava tradycyjnie nie jest spożywana przez kobiety w ciąży lub karmiące."
+  },
+  "kinder": {
+    "title": "Dzieci i młodzież",
+    "label": "Nie zalecane poniżej 18 roku życia",
+    "intro": "Kava nie powinna być stosowana przez dzieci i młodzież:",
+    "items": [
+      {
+        "name": "Rozwój",
+        "text": "Wpływ na rozwój mózgu nie został zbadany"
+      },
+      {
+        "name": "Metabolizm",
+        "text": "Dzieci metabolizują substancje inaczej niż dorośli"
+      },
+      {
+        "name": "Brak badań",
+        "text": "Brak danych klinicznych dla tej grupy wiekowej"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Względne przeciwwskazania",
+    "intro": "W przypadku następujących stanów należy zachować szczególną ostrożność. Stosowanie może być możliwe w określonych okolicznościach, ale powinno być przeprowadzone tylko po starannej ocenie i najlepiej po konsultacji z lekarzem."
+  },
+  "parkinson": {
+    "title": "Choroba Parkinsona",
+    "label": "Nie zalecane",
+    "intro": "Kava może pogarszać objawy Parkinsona:",
+    "items": [
+      {
+        "name": "Antagonizm dopaminy",
+        "text": "Kava może osłabiać działanie dopaminergiczne"
+      },
+      {
+        "name": "Interakcja z lewodopą",
+        "text": "Może zmniejszać skuteczność lewodopy"
+      },
+      {
+        "name": "Raporty przypadków",
+        "text": "Pogorszenie objawów pod wpływem Kavy udokumentowane"
+      }
+    ],
+    "caseReportLabel": "Raport przypadku:",
+    "caseReport": "Schelosky i in. (1995) opisali 45-letnią kobietę z chorobą Parkinsona, której objawy znacznie się pogorszyły po zażyciu Kavy."
+  },
+  "depression": {
+    "title": "Ciężka depresja",
+    "label": "Zalecana ostrożność",
+    "intro": "W przypadku ciężkiej depresji należy zachować ostrożność:",
+    "items": [
+      {
+        "name": "Tłumienie OUN",
+        "text": "Kava może nasilać apatię"
+      },
+      {
+        "name": "Interakcja z lekami",
+        "text": "Możliwe interakcje z lekami przeciwdepresyjnymi"
+      },
+      {
+        "name": "Samoleczenie",
+        "text": "Może opóźniać profesjonalne leczenie"
+      }
+    ],
+    "noteLabel": "Uwaga:",
+    "note": "W przypadku łagodnego do umiarkowanego lęku Kava może być pomocna, ale w przypadku ciężkiej depresji priorytetem powinno być profesjonalne leczenie."
+  },
+  "operation": {
+    "title": "Przed planowanymi operacjami",
+    "label": "Odstawić 2 tygodnie wcześniej",
+    "intro": "Kava powinna być odstawiona przed planowanymi operacjami:",
+    "items": [
+      {
+        "name": "Interakcja z anestezją",
+        "text": "Może nasilać działanie środków znieczulających"
+      },
+      {
+        "name": "Ryzyko krwawienia",
+        "text": "Możliwa interakcja z lekami przeciwkrzepliwymi"
+      },
+      {
+        "name": "Funkcja wątroby",
+        "text": "Ważna dla metabolizmu środków znieczulających"
+      }
+    ],
+    "recommendation": "Zalecenie: Odstawić Kava co najmniej 2 tygodnie przed planowaną operacją i poinformować anestezjologa o wcześniejszym spożyciu."
+  },
+  "fahren": {
+    "title": "Prowadzenie pojazdów i obsługa maszyn",
+    "label": "Ograniczona zdolność do prowadzenia",
+    "intro": "Kava może wpływać na zdolność reakcji:",
+    "items": [
+      {
+        "name": "Sedacja",
+        "text": "Możliwe zmęczenie i spowolnione reakcje"
+      },
+      {
+        "name": "Zależność od dawki",
+        "text": "Wyższe dawki mają silniejszy wpływ"
+      },
+      {
+        "name": "Różnice indywidualne",
+        "text": "Wrażliwość znacznie się różni"
+      }
+    ],
+    "noteLabel": "Uwaga:",
+    "note": "W przeciwieństwie do benzodiazepin, badania pokazują, że Kava mniej wpływa na funkcje poznawcze. Niemniej jednak należy znać swoją indywidualną reakcję przed prowadzeniem."
+  },
+  "vorsicht": {
+    "title": "Szczególna ostrożność",
+    "intro": "W przypadku niektórych grup osób wymagana jest zwiększona uwaga, nawet jeśli nie ma ścisłych przeciwwskazań."
+  },
+  "genetik": {
+    "title": "Czynniki genetyczne (polimorfizmy CYP2D6)",
+    "label": "Możliwa zwiększona wrażliwość",
+    "intro": "Około 5-10% populacji europejskiej to \"słabi metabolizatorzy\" dla CYP2D6:",
+    "items": [
+      {
+        "name": "Wolniejszy metabolizm",
+        "text": "Kavalaktony pozostają dłużej w organizmie"
+      },
+      {
+        "name": "Wyższe stężenia we krwi",
+        "text": "Wzmocnione działanie i skutki uboczne"
+      },
+      {
+        "name": "Rozpoznanie",
+        "text": "Niezwykle silna reakcja na normalne dawki"
+      }
+    ],
+    "recommendationLabel": "Zalecenie:",
+    "recommendation": "Jeśli reagujesz niezwykle wrażliwie na Kava, może istnieć czynnik genetyczny. Zacznij od niższych dawek."
+  },
+  "alter": {
+    "title": "Osoby starsze",
+    "label": "Zalecana dostosowana dawka",
+    "intro": "W przypadku osób starszych należy zachować szczególną ostrożność:",
+    "items": [
+      {
+        "name": "Zmniejszona funkcja wątroby",
+        "text": "Wolniejszy metabolizm w podeszłym wieku"
+      },
+      {
+        "name": "Polifarmacja",
+        "text": "Wyższe ryzyko interakcji"
+      },
+      {
+        "name": "Ryzyko upadków",
+        "text": "Sedacja może zwiększać ryzyko upadków"
+      }
+    ],
+    "recommendationLabel": "Zalecenie:",
+    "recommendation": "Zacznij od połowy zwykłej dawki i powoli zwiększaj."
+  },
+  "entscheidungshilfe": {
+    "title": "Pomoc w podjęciu decyzji: Czy Kava jest dla mnie odpowiednia?",
+    "selfCheck": {
+      "title": "Samodzielna kontrola przed spożyciem Kavy",
+      "nicht": {
+        "title": "Kava NIE jest odpowiednia, jeśli:",
+        "items": [
+          "Masz lub miałeś chorobę wątroby",
+          "Jesteś w ciąży lub karmisz",
+          "Masz mniej niż 18 lat",
+          "Regularnie pijesz alkohol",
+          "Przyjmujesz benzodiazepiny lub leki przeciwpsychotyczne",
+          "Przyjmujesz leki przeciwkrzepliwe"
+        ]
+      },
+      "arzt": {
+        "title": "Porozmawiaj z lekarzem, jeśli:",
+        "items": [
+          "Masz chorobę Parkinsona",
+          "Cierpisz na ciężką depresję",
+          "Regularnie przyjmujesz leki",
+          "Masz zaplanowaną operację",
+          "Masz ponad 65 lat"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava może być odpowiednia, jeśli:",
+        "items": [
+          "Jesteś zdrowy i nie masz problemów z wątrobą",
+          "Nie przyjmujesz żadnych z wymienionych leków",
+          "Nie pijesz alkoholu lub tylko okazjonalnie",
+          "Jesteś dorosły (powyżej 18 lat)",
+          "Nie jesteś w ciąży ani nie karmisz"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Ogólna rekomendacja",
+      "text": "W razie wątpliwości skonsultuj się z lekarzem lub farmaceutą przed spożyciem Kavy, szczególnie jeśli regularnie przyjmujesz leki lub masz ograniczenia zdrowotne."
+    }
+  },
+  "warnzeichen": {
+    "title": "Oznaki ostrzegawcze: Kiedy należy natychmiast przerwać",
+    "intro": "Natychmiast przerwij stosowanie i skonsultuj się z lekarzem w przypadku:",
+    "items": [
+      {
+        "name": "Żółtaczka",
+        "text": "skóry lub oczu (ikterus)"
+      },
+      {
+        "name": "Ciemny mocz",
+        "text": "(koloru piwa)"
+      },
+      {
+        "name": "Jasny stolec",
+        "text": "(odbarwiony)"
+      },
+      {
+        "name": "Niezwykłe zmęczenie",
+        "text": "lub osłabienie"
+      },
+      {
+        "name": "Nudności",
+        "text": "lub brak apetytu"
+      },
+      {
+        "name": "Ból",
+        "text": "w prawym górnym brzuchu"
+      }
+    ],
+    "note": "Te objawy mogą wskazywać na problemy z wątrobą i wymagają natychmiastowej konsultacji lekarskiej."
+  },
+  "quellen": {
+    "title": "Źródła",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Raport oceny dotyczący Piper methysticum G. Forst., rhizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "Ocena ryzyka hepatotoksyczności produktów Kava.",
+        "source": "Raport techniczny WHO."
+      },
+      {
+        "author": "Schelosky L. i in. (1995):",
+        "title": "Kava i antagonizm dopaminy.",
+        "source": "Journal of Neurology, Neurosurgery & Psychiatry."
+      },
+      {
+        "author": "Sarris J. i in. (2011):",
+        "title": "Kava: kompleksowy przegląd skuteczności, bezpieczeństwa i psychofarmakologii.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "Pełną listę wszystkich cytowanych badań znajdziesz na naszej",
+    "studiesLink": "stronie badań"
+  }
+}

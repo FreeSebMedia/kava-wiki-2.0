@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "title": "Bezpieczeństwo wątroby i hepatotoksyczność",
+    "subtitle": "Naukowa analiza kontrowersji dotyczącej Kavy: fakty, mity i aktualny stan badań.",
+    "category": "Bezpieczeństwo",
+    "breadcrumbs": {
+      "home": "Strona główna",
+      "sicherheit": "Bezpieczeństwo",
+      "current": "Bezpieczeństwo wątroby"
+    }
+  },
+  "toc": {
+    "title": "Spis treści",
+    "zusammenfassung": "Podsumowanie",
+    "verbot2002": "Zakaz z 2002 roku",
+    "wasWirklichGeschah": "Co naprawdę się wydarzyło",
+    "rehabilitation": "Rehabilitacja i wyroki sądowe",
+    "wissenschaft": "Dowody naukowe",
+    "whoBewertung": "Ocena WHO 2007",
+    "emaBewertung": "Ocena EMA 2017",
+    "klinischeStudien": "Badania kliniczne",
+    "risikofaktoren": "Zidentyfikowane czynniki ryzyka",
+    "extrakte": "Rodzaje ekstraktów",
+    "pflanzenteile": "Części roślin",
+    "genetik": "Czynniki genetyczne",
+    "komedikation": "Komedykacja i alkohol",
+    "mechanismen": "Możliwe mechanizmy",
+    "empfehlungen": "Praktyczne zalecenia",
+    "quellen": "Źródła"
+  },
+  "navigation": {
+    "continueTitle": "Kontynuuj w rozdziale Bezpieczeństwo",
+    "items": [
+      {
+        "title": "Przegląd",
+        "href": "/pl/bezpieczenstwo",
+        "description": "Powrót do przeglądu bezpieczeństwa"
+      },
+      {
+        "title": "Interakcje",
+        "href": "/pl/bezpieczenstwo/interakcje",
+        "description": "Leki i interakcje CYP450"
+      },
+      {
+        "title": "Przeciwwskazania",
+        "href": "/pl/bezpieczenstwo/przeciwwskazania",
+        "description": "Kiedy należy unikać Kavy"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Aktualna zgoda naukowa",
+    "intro": "Po wszechstronnych analizach przeprowadzonych przez WHO, EMA i niezależnych badaczy uznano:",
+    "points": [
+      "Tradycyjnie przygotowywana Kava z odmian szlachetnych jest przy prawidłowym stosowaniu <strong>bezpieczna</strong>",
+      "Ciężkie uszkodzenia wątroby są <strong>ekstremalnie rzadkie</strong> (szacowana częstość: 1:60.000 do 1:1.000.000)",
+      "Większość raportów przypadków wykazała <strong>znaczące wady jakościowe</strong> w ocenie przyczynowości",
+      "Zakaz UE z 2002 roku został uznany przez niemieckie sądy za <strong>nieproporcjonalny</strong>"
+    ]
+  },
+  "verbot2002": {
+    "title": "Zakaz z 2002 roku",
+    "intro": "W 2002 roku Kava została wycofana z rynku w Niemczech i wielu innych krajach europejskich. Federalny Instytut Leków i Produktów Medycznych (BfArM) cofnął zezwolenia na leki zawierające Kava po otrzymaniu raportów o ciężkich uszkodzeniach wątroby. Decyzja ta miała dalekosiężne konsekwencje dla globalnego rynku Kavy i krajów produkujących na Pacyfiku.",
+    "chronologie": {
+      "title": "Chronologia wydarzeń",
+      "note": "Szczegółowe informacje na temat aktualnego statusu prawnego w różnych krajach można znaleźć w",
+      "linkText": "Status prawny i legalność",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Pierwsze raporty przypadków uszkodzeń wątroby u użytkowników Kavy w Europie"
+        },
+        {
+          "date": "Nov 2001",
+          "text": "BfArM zleca wdrożenie procedury etapowej"
+        },
+        {
+          "date": "Jun 2002",
+          "text": "Cofnięcie zezwoleń w Niemczech"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Zakazy w UK, Francji, Szwajcarii, Kanadzie, Australii"
+        },
+        {
+          "date": "2014",
+          "text": "Sąd administracyjny w Kolonii uznaje zakaz za bezprawny"
+        },
+        {
+          "date": "2015",
+          "text": "OVG Münster potwierdza: zakaz był nieproporcjonalny"
+        },
+        {
+          "date": "2019",
+          "text": "Cofnięcie zezwoleń na leki ostatecznie uchylone"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Co naprawdę się wydarzyło: Krytyczna analiza",
+    "intro": "Początkowe raporty przypadków, które doprowadziły do zakazu, były intensywnie badane naukowo w kolejnych latach. Wykazały one znaczne wady metodologiczne:",
+    "probleme": {
+      "title": "Problemy raportów przypadków",
+      "items": [
+        "Niekompletna dokumentacja w ponad 50% przypadków",
+        "Brak standardowej oceny przyczynowości (RUCAM)",
+        "Ignorowanie komedykacji z substancjami hepatotoksycznymi",
+        "Często brak dokumentacji dotyczącej spożycia alkoholu",
+        "Niejasna jakość produktu i części roślin"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Późniejsze ustalenia",
+      "items": [
+        "Wiele produktów zawierało nadziemne części roślin",
+        "Ekstrakty acetonowe wykazywały wyższe ryzyko niż wodne",
+        "Kava Tudei była częściowo sprzedawana jako Noble",
+        "Zidentyfikowano kontaminację pleśnią w niektórych produktach",
+        "Zidentyfikowano polimorfizmy genetyczne jako czynnik ryzyka"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Rehabilitacja przez sądy",
+    "intro": "Po wieloletnich sporach prawnych niemieckie sądy doszły do jednoznacznego wniosku. Sąd administracyjny w Kolonii oraz później Naczelny Sąd Administracyjny w Münster stwierdziły, że zakaz był <strong>nieproporcjonalny</strong> i że władze nie oceniły poprawnie dowodów naukowych.",
+    "quote": "\"Przyjęta przez BfArM przyczynowość między przyjmowaniem leków zawierających Kava-Kava a występującymi uszkodzeniami wątroby nie jest wystarczająco udowodniona. Ocena ryzyka i korzyści została przeprowadzona błędnie.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "Dowody naukowe",
+    "intro": "Po zakazie przeprowadzono kilka wszechstronnych ocen naukowych, które przedstawiają bardziej złożony obraz bezpieczeństwa Kavy."
+  },
+  "whoBewertung": {
+    "title": "Ocena WHO 2007",
+    "intro": "Światowa Organizacja Zdrowia (WHO) przeprowadziła w 2007 roku wszechstronną analizę wszystkich dostępnych raportów przypadków. Wynik był pouczający:",
+    "analysisTitle": "Analiza WHO 93 raportów przypadków",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Przypadki \"prawdopodobnie\" przyczynowe",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Przypadki \"możliwe\" przyczynowe",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Przypadki nieocenione",
+        "color": "muted"
+      }
+    ],
+    "note": "WHO stwierdziła, że ekstrakty acetonowe i etanolowe miały wyższe ryzyko niż syntetyczne Kavalaktony, co sugeruje, że składniki inne niż Kavalakton mogą być przyczyną."
+  },
+  "emaBewertung": {
+    "title": "Ocena EMA 2017",
+    "intro": "Europejska Agencja Leków (EMA) opublikowała w 2017 roku 103-stronicowy raport oceniający, który podsumowuje wszystkie dostępne dane:",
+    "findings": [
+      {
+        "label": "Badania kliniczne",
+        "text": "Brak istotnej hepatotoksyczności w kontrolowanych badaniach"
+      },
+      {
+        "label": "Działania niepożądane",
+        "text": "Tylko łagodne, odwracalne zwiększenie transaminaz u kilku uczestników"
+      },
+      {
+        "label": "Czynniki ryzyka",
+        "text": "Ekstrakty organiczne, alkohol, wcześniejsze choroby wątroby, polimorfizmy genetyczne"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Dowody z badań klinicznych",
+    "intro": "Szczególnie istotny punkt: W kontrolowanych badaniach klinicznych z użyciem standaryzowanych preparatów Kavy <strong>nie zaobserwowano ciężkich uszkodzeń wątroby</strong>. Systematyczny przegląd Smitha i Leirasa (2018) analizował 11 randomizowanych badań i nie znalazł dowodów na hepatotoksyczność.",
+    "tableTitle": "Podsumowanie stanu badań",
+    "headers": [
+      "Badanie",
+      "Uczestnicy",
+      "Czas trwania",
+      "Uszkodzenia wątroby"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 tygodni",
+        "result": "Brak"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 tygodni",
+        "result": "Brak*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 tygodnie",
+        "result": "Brak"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 badań)",
+        "duration": "1-24 tygodnie",
+        "result": "Brak"
+      }
+    ],
+    "footnote": "*Łagodne zwiększenie transaminaz u 2 uczestników, jeden miał już podwyższone wartości wyjściowe"
+  },
+  "risikofaktoren": {
+    "title": "Zidentyfikowane czynniki ryzyka",
+    "intro": "Badania naukowe zidentyfikowały kilka czynników, które mogą zwiększać ryzyko wystąpienia działań niepożądanych wątroby. Zrozumienie tych czynników umożliwia bezpieczne stosowanie."
+  },
+  "extrakte": {
+    "title": "Rodzaje ekstraktów: Wodne vs. Organiczne",
+    "intro": "Kluczowym ustaleniem analizy WHO był różnica między różnymi metodami ekstrakcji:",
+    "waessrig": {
+      "title": "Ekstrakty wodne (tradycyjne)",
+      "items": [
+        "Tradycyjna metoda przygotowania",
+        "Ekstrahuje głównie Kavalaktony",
+        "Zawiera ochronne glutationy",
+        "Brak udokumentowanej hepatotoksyczności w populacjach Pacyfiku",
+        "Uzyskane przez FAO/WHO jako bezpieczne"
+      ]
+    },
+    "organisch": {
+      "title": "Ekstrakty organiczne (acetonowe/etanolowe)",
+      "items": [
+        "Przemysłowa metoda ekstrakcji",
+        "Wyższe stężenie Kavalaktonów",
+        "Ekstrahuje również Flawokawiny",
+        "Glutation nie jest ekstrahowany",
+        "Wyższe ryzyko w analizie WHO"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Części roślin: Korzeń vs. części nadziemne",
+    "intro": "Użycie różnych części roślin ma znaczący wpływ na bezpieczeństwo:",
+    "tableTitle": "Zawartość Pipermethystiny według części roślin",
+    "headers": [
+      "Część roślin",
+      "Pipermethystina",
+      "Bezpieczeństwo"
+    ],
+    "rows": [
+      {
+        "part": "Korzeń/Ryzom",
+        "content": "Niedetectowalne",
+        "safety": "Bezpieczne",
+        "color": "primary"
+      },
+      {
+        "part": "Łodygi",
+        "content": "Do 0,85%",
+        "safety": "Problematyczne",
+        "color": "amber"
+      },
+      {
+        "part": "Liście",
+        "content": "Około 0,2%",
+        "safety": "Toksyczne",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystina jest alkaloidem, który w warunkach in vitro działa silnie cytotoksycznie i zakłóca funkcję mitochondriów (Nerurkar et al., 2004). Występuje wyłącznie w nadziemnych częściach roślin."
+  },
+  "genetik": {
+    "title": "Czynniki genetyczne: Polimorfizmy CYP2D6",
+    "intro": "Kavalaktony są metabolizowane głównie przez system enzymatyczny cytochromu P450, szczególnie przez CYP2D6. Genetyczne warianty tego enzymu mogą znacznie wpływać na szybkość metabolizmu:",
+    "factors": [
+      {
+        "label": "Słabi metabolizatorzy (PM)",
+        "text": "Około 5-10% Europejczyków ma obniżoną aktywność CYP2D6, co może prowadzić do wyższych poziomów Kavalaktonów"
+      },
+      {
+        "label": "Reakcje idiosynkratyczne",
+        "text": "Niektóre przypadki mogą być wynikiem mechanizmów immunologicznych"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Komedykacja i alkohol",
+    "warning": {
+      "title": "Krytyczny czynnik ryzyka",
+      "text": "Kombinacja Kavy z alkoholem lub lekami hepatotoksycznymi znacznie zwiększa ryzyko uszkodzenia wątroby. W wielu z pierwotnych raportów przypadków dokumentowano spożycie alkoholu lub nie wykluczono go."
+    },
+    "intro": "WHO zidentyfikowała następujące komedykacje jako szczególnie problematyczne:",
+    "items": [
+      "Alkohol (synergiczna hepatotoksyczność)",
+      "Paracetamol/Acetaminofen (hepatotoksyczny)",
+      "Benzodiazepiny (interakcja CYP)",
+      "Leki przeciwpsychotyczne (interakcja CYP)",
+      "Statyny (potencjał hepatotoksyczny)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Możliwe mechanizmy hepatotoksyczności",
+    "intro": "Dokładne mechanizmy, przez które Kava w rzadkich przypadkach może powodować uszkodzenia wątroby, nie są jeszcze w pełni wyjaśnione. Dyskutowane są różne hipotezy:",
+    "hypotheses": [
+      {
+        "title": "1. Metabolity chinonowe",
+        "text": "Kavain i Dihydrokavain mogą być utleniane do reaktywnych metabolitów chinonowych, które reagują z białkami komórkowymi i mogą powodować stres oksydacyjny (Johnson et al., 2003). Glutation może neutralizować te metabolity – możliwy powód, dla którego ekstrakty wodne (zawierające glutation) są bezpieczniejsze."
+      },
+      {
+        "title": "2. Flawokawiny",
+        "text": "Flawokawina B wykazuje w warunkach in vitro cytotoksyczność i może indukować apoptozę w hepatocytach. Ekstrakty organiczne zawierają wyższe stężenia flawokawiny niż wodne preparaty."
+      },
+      {
+        "title": "3. Pipermethystina",
+        "text": "Ten alkaloid z nadziemnych części roślin jest silnie hepatotoksyczny i zakłóca funkcję mitochondrialną. Nie występuje w korzeniu, ale może dostać się do produktów przez kontaminację."
+      },
+      {
+        "title": "4. Reakcje idiosynkratyczne",
+        "text": "Niektóre przypadki mogą być wynikiem immunologicznych, idiosynkratycznych reakcji, które występują niezależnie od dawki i mają podłoże genetyczne."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktyczne zalecenia dotyczące bezpiecznego spożycia",
+    "intro": "Na podstawie dowodów naukowych można sformułować jasne zalecenia dotyczące bezpiecznego spożycia Kavy:",
+    "checklistTitle": "Lista kontrolna dla bezpiecznego spożycia Kavy",
+    "items": [
+      {
+        "label": "Używaj tylko Noble-Kava",
+        "text": "Zwróć uwagę na oznaczenie odmiany i kupuj w zaufanych źródłach"
+      },
+      {
+        "label": "Używaj tylko korzenia/ryzomu",
+        "text": "Brak produktów z liści lub łodyg"
+      },
+      {
+        "label": "Preferuj tradycyjne wodne przygotowanie",
+        "text": "Metoda ugniatania lub blendera z wodą"
+      },
+      {
+        "label": "Nie spożywaj alkoholu",
+        "text": "Przynajmniej 24 godziny przed i po spożyciu Kavy"
+      },
+      {
+        "label": "Zwróć uwagę na interakcje z lekami",
+        "text": "Zobacz interakcje"
+      },
+      {
+        "label": "Rezygnuj w przypadku chorób wątroby",
+        "text": "Zobacz przeciwwskazania"
+      },
+      {
+        "label": "Przestrzegaj umiarkowanej dawki",
+        "text": "Nie więcej niż 250 mg Kavalaktonów dziennie przy regularnym spożyciu"
+      }
+    ],
+    "selfObservation": {
+      "title": "Uwaga dotycząca samoobserwacji",
+      "text": "W przypadku nietypowego zmęczenia, zażółcenia skóry lub oczu, ciemnego moczu lub jasnego stolca należy natychmiast przerwać spożycie Kavy i skonsultować się z lekarzem. Objawy te mogą wskazywać na problemy z wątrobą."
+    }
+  },
+  "quellen": {
+    "title": "Źródła i literatura uzupełniająca",
+    "officialReports": {
+      "title": "Oficjalne raporty",
+      "items": [
+        {
+          "author": "WHO (2007):",
+          "title": "Ocena ryzyka hepatotoksyczności produktów Kava.",
+          "source": "Raport techniczny Światowej Organizacji Zdrowia."
+        },
+        {
+          "author": "FAO/WHO (2016):",
+          "title": "Kava: Przegląd bezpieczeństwa tradycyjnego i rekreacyjnego spożycia napojów.",
+          "source": "Raport techniczny FAO/WHO."
+        },
+        {
+          "author": "EMA (2017):",
+          "title": "Raport oceny dotyczący Piper methysticum G. Forst., rhizoma.",
+          "source": "EMA/HMPC/450589/2016."
+        }
+      ]
+    },
+    "reviews": {
+      "title": "Naukowe przeglądy",
+      "items": [
+        {
+          "author": "Teschke R. (2010):",
+          "title": "Hepatotoksyczność Kavy - przegląd kliniczny.",
+          "source": "Annals of Hepatology."
+        },
+        {
+          "author": "Teschke R., Lebot V. (2011):",
+          "title": "Hepatotoksyczność Kavy w tradycyjnym i nowoczesnym użyciu.",
+          "source": "British Journal of Clinical Pharmacology."
+        },
+        {
+          "author": "Sarris J. et al. (2011):",
+          "title": "Kava: kompleksowy przegląd skuteczności, bezpieczeństwa i psychofarmakologii.",
+          "source": "Australian & New Zealand Journal of Psychiatry."
+        }
+      ]
+    },
+    "moreStudies": "Pełną listę wszystkich cytowanych badań można znaleźć na naszej",
+    "studiesLink": "stronie badań"
+  }
+}

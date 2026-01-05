@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "Roślina",
+    "subtitle": "Taksonomia, nomenklatura i związek między Piper methysticum a jego dziką formą.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "pflanze": "Roślina"
+  },
+  "toc": {
+    "taxonomie": "Klasyfikacja taksonomiczna",
+    "name": "Znaczenie nazwy",
+    "wichmannii": "Piper wichmannii – Dziką formą",
+    "unterschiede": "Różnice w stosunku do uprawianego gatunku",
+    "domestikation": "Domestykacja i ewolucja",
+    "kulturgut": "Kava jako żywe dziedzictwo kulturowe"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> nie jest zwykłą rośliną użytkową. Jest wynikiem tysiącleci selekcji przez ludzi i istnieje dziś wyłącznie w formie uprawnej. Dzikie populacje już nie istnieją – każda roślina Kava na świecie jest klonem, który został przekazany przez ludzką rękę."
+  },
+  "taxonomie": {
+    "title": "Klasyfikacja taksonomiczna",
+    "intro": "Kava należy do rodziny <strong>Piperaceae</strong> (pieprzowate), jednej z najstarszych rodzin roślin kwiatowych. Rodzina ta obejmuje około 3.600 gatunków w 5 rodzajach, w tym znany czarny pieprz (<em>Piper nigrum</em>).",
+    "table": {
+      "headers": {
+        "rank": "Ranga taksonomiczna",
+        "classification": "Klasyfikacja",
+        "note": "Uwagi"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Królestwo",
+          "classification": "Plantae",
+          "note": "Rośliny"
+        },
+        "unterreich": {
+          "rank": "Podkrólestwo",
+          "classification": "Tracheobionta",
+          "note": "Rośliny naczyniowe"
+        },
+        "abteilung": {
+          "rank": "Gromada",
+          "classification": "Magnoliophyta",
+          "note": "Okrytonasienne"
+        },
+        "klasse": {
+          "rank": "Klasa",
+          "classification": "Magnoliopsida",
+          "note": "Dwuliścienne"
+        },
+        "ordnung": {
+          "rank": "Rząd",
+          "classification": "Piperales",
+          "note": "Pieprzowate"
+        },
+        "familie": {
+          "rank": "Rodzina",
+          "classification": "Piperaceae",
+          "note": "Pieprzowate"
+        },
+        "gattung": {
+          "rank": "Rodzaj",
+          "classification": "<em>Piper</em> L.",
+          "note": "Około 2.000 gatunków na całym świecie"
+        },
+        "art": {
+          "rank": "Gatunek",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "Opisany po raz pierwszy w 1786 roku"
+        }
+      }
+    },
+    "forster": "Opisany po raz pierwszy w 1786 roku przez <strong>Johanna Georga Adama Forstera</strong>, niemieckiego przyrodnika, który towarzyszył Jamesowi Cookowi w jego drugiej podróży dookoła świata. Forster dokumentował roślinę i jej zastosowanie na wyspach Pacyfiku."
+  },
+  "name": {
+    "title": "Znaczenie nazwy",
+    "intro": "Nazwa naukowa <em>Piper methysticum</em> jest połączeniem łaciny i greki:",
+    "piper": {
+      "title": "Piper",
+      "description": "Łacińskie słowo oznaczające \"pieprz\". Odnosi się do przynależności do rodziny pieprzowatych oraz lekko pikantnego smaku korzenia."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "Z greckiego <em>μεθυστικός</em> (methystikos) = \"upajający\" lub \"odurzający\". Opisuje psychoaktywny wpływ rośliny."
+    },
+    "localNames": {
+      "intro": "Nazwa \"Kava\" pochodzi z języków austroazjatyckich Pacyfiku. W różnych regionach istnieją różne określenia:",
+      "headers": {
+        "region": "Region",
+        "name": "Lokalna nazwa",
+        "meaning": "Znaczenie"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Gorzki\""
+        },
+        "fiji": {
+          "region": "Fiji",
+          "name": "Yaqona",
+          "meaning": "\"Gorzki korzeń\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Ostry, gorzki\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Gorzki\""
+        },
+        "hawaii": {
+          "region": "Hawaje",
+          "name": "'Awa",
+          "meaning": "\"Gorzki\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Napój Kava\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – Dziką formą",
+    "intro": "Najbliższym pokrewnym gatunkiem <em>Piper methysticum</em> jest <strong>Piper wichmannii</strong>, który uznawany jest za dziką formę współczesnej uprawnej Kava. Gatunek ten występuje naturalnie w Papui-Nowej Gwinei, na Wyspach Salomona i w północnym Vanuatu.",
+    "alert": "<strong>Ważne:</strong> <em>Piper wichmannii</em> jest czasami określane jako \"Dzikie Kava\" i spożywane lokalnie. Zawiera jednak inny profil kavalaktonów i uznawane jest za mniej tolerowane niż uprawiane odmiany Edelkava.",
+    "differences": {
+      "title": "Różnice między P. methysticum a P. wichmannii",
+      "headers": {
+        "feature": "Cechy",
+        "methysticum": "<em>P. methysticum</em> (uprawiane)",
+        "wichmannii": "<em>P. wichmannii</em> (dzikie)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Rozmnażanie",
+          "methysticum": "Sterylne, tylko wegetatywne",
+          "wichmannii": "Fertylne, produkuje nasiona"
+        },
+        "chromosomen": {
+          "feature": "Liczba chromosomów",
+          "methysticum": "Dekaploidalne (2n = 130)",
+          "wichmannii": "Diploidalne (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Zawartość kavalaktonów",
+          "methysticum": "Wyższa, zoptymalizowana",
+          "wichmannii": "Niższa, zmienna"
+        },
+        "chemotyp": {
+          "feature": "Chemotyp",
+          "methysticum": "Selekcjonowane pod kątem tolerancji",
+          "wichmannii": "Często podobne do \"Tudei\""
+        },
+        "verbreitung": {
+          "feature": "Rozprzestrzenienie",
+          "methysticum": "Tylko przez ludzi",
+          "wichmannii": "Naturalne rozprzestrzenienie"
+        },
+        "nutzung": {
+          "feature": "Tradycyjne zastosowanie",
+          "methysticum": "Dokumentowane od tysięcy lat",
+          "wichmannii": "Ograniczone, często unikane"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Domestykacja i ewolucja",
+    "intro": "Domestykacja Kava rozpoczęła się prawdopodobnie około <strong>3.000 lat</strong> temu w północnym Vanuatu. Badania genetyczne pokazują, że <em>Piper methysticum</em> powstało w wyniku wielokrotnej hybrydyzacji i poliploidyzacji z <em>Piper wichmannii</em>.",
+    "changes": "Proces domestykacji doprowadził do kilku kluczowych zmian:",
+    "cards": {
+      "polyploidie": {
+        "title": "Zwiększona poliploidalność",
+        "description": "Podczas gdy <em>P. wichmannii</em> jest diploidalne (2n = 26), <em>P. methysticum</em> jest dekaploidalne (2n = 130). Ta wielokrotność zestawu chromosomów doprowadziła do większych korzeni i wyższej zawartości kavalaktonów."
+      },
+      "fertilitaet": {
+        "title": "Utrata płodności",
+        "description": "Wysoka poliploidalność doprowadziła do sterylności. Roślina produkuje kwiaty, ale nie żywotne nasiona. To uczyniło ją całkowicie zależną od ludzi."
+      },
+      "wirkprofil": {
+        "title": "Zoptymalizowany profil działania",
+        "description": "Dzięki celowej selekcji preferowane były odmiany o przyjemniejszym działaniu i lepszej tolerancji. Doprowadziło to do powstania współczesnych odmian \"Edelkava\"."
+      },
+      "sortenvielfalt": {
+        "title": "Różnorodność odmian",
+        "description": "Dziś istnieje ponad 80 udokumentowanych kultivarów tylko w Vanuatu. Każda odmiana ma unikalny profil chemotypowy i charakterystyczne właściwości działania."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "Kava jako żywe dziedzictwo kulturowe",
+    "paragraph1": "Ponieważ Kava nie może się rozmnażać samodzielnie, każda istniejąca dziś roślina jest wynikiem nieprzerwanego łańcucha ludzkiego przekazu. Sadzonki były przekazywane z pokolenia na pokolenie, z rodziny do rodziny, z wioski do wioski.",
+    "quote": {
+      "text": "Kava jest jednym z najstarszych udokumentowanych przykładów świadomego selektywnego rolnictwa w południowym Pacyfiku. Roślina jest żywym dziedzictwem kulturowym – przekazywana z pokolenia na pokolenie.",
+      "author": "Sebastian Freidank, \"Kava – korzeń spokoju\""
+    },
+    "paragraph2": "W krajach pochodzenia Kava nie jest postrzegana tylko jako roślina użytkowa, ale często także jako <strong>żywa istota</strong> – z imieniem, charakterem i historią. Nie jest niczym niezwykłym, że poszczególne rośliny są nazywane i czczone w rytuałach. Ta głęboka więź między człowiekiem a rośliną sprawia, że Kava jest nie tylko skuteczna, ale także znacząca.",
+    "paragraph3": "Zależność od ludzi ma również swoje ciemne strony: bez ciągłej uprawy <em>Piper methysticum</em> wyginęłoby w ciągu jednego pokolenia. Podkreśla to odpowiedzialność, która wiąże się z uprawą i handlem Kava."
+  },
+  "navigation": {
+    "nextChapter": "Dalej w rozdziale Botanika:",
+    "morphologie": {
+      "title": "Morfologia",
+      "description": "Anatomia i system korzeniowy rośliny Kava"
+    }
+  }
+}
