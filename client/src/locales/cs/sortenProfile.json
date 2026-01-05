@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Profil odrůd podrobně",
+    "subtitle": "Podrobné profily nejdůležitějších odrůd Kava s chemotypy, účinky a doporučeními.",
+    "category": "Odrůdy"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "sorten": "Odrůdy",
+    "current": "Profily"
+  },
+  "toc": {
+    "title": "Obsah",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Přehled",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Moje oblíbené",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Filtr účinků",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady odrůdy",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Vyvážené odrůdy",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Těžké odrůdy",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Srovnání odrůd",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Původ",
+    "chemotype": "Chemotyp",
+    "duration": "Doba účinku",
+    "strength": "Síla",
+    "hits": "Výsledky",
+    "low": "Nízký",
+    "high": "Vysoký",
+    "variety": "Odrůda",
+    "region": "Region",
+    "type": "Typ",
+    "bestUse": "Nejlepší použití",
+    "resetFilters": "Resetovat filtry",
+    "matchingCriteria": "z {total} odrůd odpovídá vašim kritériím",
+    "noMatching": "Žádné odrůdy {category} neodpovídají aktuálním filtrům.",
+    "toComparison": "K interaktivnímu srovnání odrůd"
+  },
+  "overview": {
+    "intro": "Tato stránka poskytuje komplexní přehled o nejdůležitějších <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a> odrůdách, seřazených podle jejich účinků. Využijte tyto profily k nalezení ideální odrůdy pro vaše potřeby.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Kopový, euforický, společenský. Ideální na den.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Vyvážený, univerzální. Dobrý pro jakoukoli denní dobu.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Tělový, sedativní. Ideální na večer.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Filtr účinků",
+    "description": "Filtrujte odrůdy podle požadovaných účinků. Posuňte jezdce, abyste zobrazili pouze odrůdy s minimálně vybranou hodnotou.",
+    "euphoria": "Euforie",
+    "relaxation": "Uvolnění",
+    "sleepy": "Spavý"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady odrůdy",
+      "description": "Heady Kava jsou kopové a vyvolávají euforii, mentální jasnost a společenskost. Jsou ideální pro denní konzumaci, společenské akce a kreativní práci. <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Chemotyp</a> obvykle začíná s 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Vyvážené odrůdy",
+      "description": "Vyvážené Kava nabízejí vyvážený účinek mezi hlavou a tělem. Jsou univerzálně použitelné a hodí se jak na den, tak na večer. Ideální pro <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">řešení úzkosti</a> a obecné uvolnění."
+    },
+    "heavy": {
+      "title": "Těžké odrůdy",
+      "description": "Těžké Kava jsou tělové a vyvolávají hlubokou <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">uvolnění svalů</a> a sedaci. Jsou ideální na večer, při <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">problémech se spánkem</a> a na fyzickou regeneraci. Chemotyp často obsahuje DHK (2) na prominentní pozici."
+    }
+  },
+  "comparison": {
+    "title": "Srovnání odrůd",
+    "description": "Tato tabulka poskytuje rychlý přehled o všech důležitých odrůdách. Využijte také naše <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">interaktivní srovnávací nástroje</a> pro podrobné srovnání.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 hod.",
+      "strength": 4,
+      "description": "Legendární euforické Kava, jako šampaňské mezi Kava.",
+      "recommended": [
+        "Společenské akce",
+        "Kreativní práce",
+        "Denní konzumace"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 hod.",
+      "strength": 4,
+      "description": "Kava lidu Vanuatu, univerzální s kopovým počátečním účinkem.",
+      "recommended": [
+        "Společenské akce",
+        "Večerní konzumace",
+        "Začátečníci"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 hod.",
+      "strength": 3,
+      "description": "Nejoblíbenější denní Kava, mírné a přátelské pro začátečníky.",
+      "recommended": [
+        "Začátečníci",
+        "Práce",
+        "Společenské akce"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 hod.",
+      "strength": 4,
+      "description": "Královský 'Awa, extrémně cerebrální a mentálně čistící.",
+      "recommended": [
+        "Meditace",
+        "Kreativní práce",
+        "Kognice"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 hod.",
+      "strength": 3,
+      "description": "Vzácná euforická odrůda, velmi ceněná.",
+      "recommended": [
+        "Společenské akce",
+        "Zlepšení nálady"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 hod.",
+      "strength": 3,
+      "description": "Perfektní univerzální Kava, jemné a vyvážené.",
+      "recommended": [
+        "Začátečníci",
+        "Řešení úzkosti",
+        "Každodenní použití"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 hod.",
+      "strength": 4,
+      "description": "Kava lidu Vanuatu, spolehlivá a univerzální.",
+      "recommended": [
+        "Večerní konzumace",
+        "Uvolnění",
+        "Začátečníci"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 hod.",
+      "strength": 4,
+      "description": "Silné Kava s dobrou rovnováhou mezi hlavou a tělem.",
+      "recommended": [
+        "Zkušení uživatelé",
+        "Večerní konzumace"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 hod.",
+      "strength": 3,
+      "description": "Vyvážené Fiji Kava, univerzálně použitelné.",
+      "recommended": [
+        "Každodenní použití",
+        "Uvolnění"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 hod.",
+      "strength": 5,
+      "description": "Jedna z nejúčinnějších těžkých Kava, hluboká sedace.",
+      "recommended": [
+        "Problémy se spánkem",
+        "Uvolnění svalů",
+        "Večer"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 hod.",
+      "strength": 5,
+      "description": "Extrémně účinné Fiji Kava, silně sedativní.",
+      "recommended": [
+        "Zkušení uživatelé",
+        "Problémy se spánkem"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 hod.",
+      "strength": 4,
+      "description": "Malý bratr Palasy, mírně slabší, ale podobný.",
+      "recommended": [
+        "Těžcí začátečníci",
+        "Večerní konzumace"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 hod.",
+      "strength": 5,
+      "description": "Ceremonial Hawaiian 'Awa, velmi silný.",
+      "recommended": [
+        "Ceremonie",
+        "Spánek",
+        "Zkušení"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Společenské, Kreativní"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Začátečníci, Den"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Meditace, Kognice"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "243156",
+      "bestUse": "Úzkost, Univerzální"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Večer, Uvolnění"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "423561",
+      "bestUse": "Zkušení, Večer"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Heavy",
+      "chemotype": "423651",
+      "bestUse": "Spánek, Svaly"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Zkušení, Spánek"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Ceremonie, Spánek"
+    }
+  ]
+}

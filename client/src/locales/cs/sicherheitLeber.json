@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Bezpečnost jater a hepatotoxicita",
+    "subtitle": "Vědecká analýza kontroverze kolem Kavy: fakta, mýty a aktuální stav výzkumu.",
+    "category": "Bezpečnost",
+    "breadcrumbs": {
+      "home": "Domov",
+      "sicherheit": "Bezpečnost",
+      "current": "Bezpečnost jater"
+    }
+  },
+  "toc": {
+    "title": "Obsah",
+    "zusammenfassung": "Shrnutí",
+    "verbot2002": "Zákaz z roku 2002",
+    "wasWirklichGeschah": "Co se skutečně stalo",
+    "rehabilitation": "Rehabilitace a soudní rozhodnutí",
+    "wissenschaft": "Vědecké důkazy",
+    "whoBewertung": "Hodnocení WHO 2007",
+    "emaBewertung": "Hodnocení EMA 2017",
+    "klinischeStudien": "Klinické studie",
+    "risikofaktoren": "Identifikované rizikové faktory",
+    "extrakte": "Typy extraktů",
+    "pflanzenteile": "Rostlinné části",
+    "genetik": "Genetické faktory",
+    "komedikation": "Komedikace a alkohol",
+    "mechanismen": "Možné mechanismy",
+    "empfehlungen": "Praktická doporučení",
+    "quellen": "Zdroje"
+  },
+  "zusammenfassung": {
+    "title": "Aktuální vědecký konsensus",
+    "intro": "Po rozsáhlých analýzách WHO, EMA a nezávislých výzkumníků platí:",
+    "points": [
+      "Tradičně připravená Kava z Noble odrůd je při správném použití <strong>bezpečná</strong>",
+      "Těžké poškození jater je <strong>extrémně vzácné</strong> (odhadem incidence: 1:60.000 až 1:1.000.000)",
+      "Většina případových zpráv vykazovala <strong>významné nedostatky v kvalitě</strong> v hodnocení kauzality",
+      "Zákaz EU z roku 2002 byl německými soudy označen jako <strong>nepřiměřený</strong>"
+    ]
+  },
+  "verbot2002": {
+    "title": "Zákaz z roku 2002",
+    "intro": "V roce 2002 byla Kava v Německu a mnoha dalších evropských zemích stažena z trhu. Spolkový úřad pro léčivé přípravky a zdravotnické prostředky (BfArM) zrušil povolení pro léky obsahující Kavu poté, co byly obdrženy zprávy o těžkých poškozeních jater. Toto rozhodnutí mělo dalekosáhlé důsledky pro globální trh s Kavou a pacifické země producenty.",
+    "chronologie": {
+      "title": "Chronologie událostí",
+      "note": "Pro podrobné informace o aktuálním právním statusu v různých zemích viz",
+      "linkText": "Právní status a legalita",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "První případové zprávy o poškození jater u uživatelů Kavy v Evropě"
+        },
+        {
+          "date": "Nov 2001",
+          "text": "BfArM nařizuje postup podle stupňovitého plánu"
+        },
+        {
+          "date": "Jun 2002",
+          "text": "Zrušení povolení v Německu"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Zákazy ve Velké Británii, Francii, Švýcarsku, Kanadě, Austrálii"
+        },
+        {
+          "date": "2014",
+          "text": "Správní soud v Kolíně nad Rýnem prohlásil zákaz za nezákonný"
+        },
+        {
+          "date": "2015",
+          "text": "OVG Münster potvrzuje: Zákaz byl nepřiměřený"
+        },
+        {
+          "date": "2019",
+          "text": "Zrušení povolení pro léčivé přípravky bylo definitivně zrušeno"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Co se skutečně stalo: Kritická analýza",
+    "intro": "Původní případové zprávy, které vedly k zákazu, byly v následujících letech intenzivně vědecky zkoumány. Ukázaly se přitom značné metodické nedostatky:",
+    "probleme": {
+      "title": "Problémy případových zpráv",
+      "items": [
+        "Neúplná dokumentace ve více než 50% případů",
+        "Žádné standardizované hodnocení kauzality (RUCAM)",
+        "Komedikace s hepatotoxickými látkami ignorovány",
+        "Konzumace alkoholu často nebyla zdokumentována",
+        "Kvalita produktu a rostlinné části nejasné"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Pozdější zjištění",
+      "items": [
+        "Mnoho produktů obsahovalo nadzemní rostlinné části",
+        "Acetonické extrakty vykazovaly vyšší riziko než vodné",
+        "Tudei-Kava byla částečně prodávána jako Noble",
+        "Kontaminace plísní byla prokázána v některých produktech",
+        "Genetické polymorfismy identifikovány jako rizikový faktor"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Rehabilitace prostřednictvím soudů",
+    "intro": "Po letech právních sporů dospaly německé soudy k jednoznačnému závěru. Správní soud v Kolíně nad Rýnem a později Nejvyšší správní soud v Münsteru konstatovaly, že zákaz byl <strong>nepřiměřený</strong> a úřady správně nehodnotily vědecké důkazy.",
+    "quote": "\"Kauzalita mezi užíváním léků obsahujících Kavu a vzniklými poškozeními jater, jak ji předpokládal BfArM, není dostatečně prokázána. Hodnocení rizika a přínosu bylo provedeno chybně.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "Vědecké důkazy",
+    "intro": "Po zákazu bylo provedeno několik rozsáhlých vědeckých hodnocení, která vykreslují diferencovanější obraz bezpečnosti Kavy."
+  },
+  "whoBewertung": {
+    "title": "Hodnocení WHO 2007",
+    "intro": "Světová zdravotnická organizace (WHO) provedla v roce 2007 komplexní analýzu všech dostupných případových zpráv. Výsledek byl poučný:",
+    "analysisTitle": "WHO-analýza 93 případových zpráv",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Případy \"pravděpodobně\" kauzální",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Případy \"možná\" kauzální",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Případy nehodnotitelné",
+        "color": "muted"
+      }
+    ],
+    "note": "WHO zjistila, že acetonické a ethanolické extrakty vykazovaly vyšší riziko než syntetické Kavalactony, což naznačuje, že ne-Kavalactonové složky mohou být možnou příčinou."
+  },
+  "emaBewertung": {
+    "title": "Hodnocení EMA 2017",
+    "intro": "Evropská agentura pro léčivé přípravky (EMA) zveřejnila v roce 2017 103stránkovou hodnotící zprávu, která shrnovala všechna dostupná data:",
+    "findings": [
+      {
+        "label": "Klinické studie",
+        "text": "Žádná významná hepatotoxicita v kontrolovaných studiích"
+      },
+      {
+        "label": "Vedlejší účinky",
+        "text": "Pouze mírné, reverzibilní zvýšení transamináz u několika účastníků"
+      },
+      {
+        "label": "Rizikové faktory",
+        "text": "Organické extrakty, alkohol, předchozí onemocnění jater, genetické polymorfismy"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Důkazy z klinických studií",
+    "intro": "Zvlášť důležitý bod: V kontrolovaných klinických studiích se standardizovanými Kava preparáty nebyly <strong>pozorovány žádné těžké poškození jater</strong>. Systematický přehled Smitha a Leirase (2018) analyzoval 11 randomizovaných studií a nenašel žádné důkazy o hepatotoxicitě.",
+    "tableTitle": "Shrnutí stavu studií",
+    "headers": [
+      "Studie",
+      "Účastníci",
+      "Doba trvání",
+      "Poškození jater"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 týdnů",
+        "result": "Žádné"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 týdnů",
+        "result": "Žádné*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 týdny",
+        "result": "Žádné"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 studií)",
+        "duration": "1-24 týdnů",
+        "result": "Žádné"
+      }
+    ],
+    "footnote": "*Mírné zvýšení transamináz u 2 účastníků, jeden měl již zvýšené výchozí hodnoty"
+  },
+  "risikofaktoren": {
+    "title": "Identifikované rizikové faktory",
+    "intro": "Vědecký výzkum identifikoval několik faktorů, které mohou zvyšovat riziko hepatálních vedlejších účinků. Porozumění těmto faktorům umožňuje bezpečné použití."
+  },
+  "extrakte": {
+    "title": "Typy extraktů: Vodné vs. organické",
+    "intro": "Centrálním zjištěním analýzy WHO byl rozdíl mezi různými metodami extrakce:",
+    "waessrig": {
+      "title": "Vodné extrakty (tradiční)",
+      "items": [
+        "Tradiční metoda přípravy",
+        "Primárně extrahuje Kavalactony",
+        "Obsahuje ochranné glutathiony",
+        "Žádná zdokumentovaná hepatotoxicita v pacifických populacích",
+        "Klasifikováno FAO/WHO jako bezpečné"
+      ]
+    },
+    "organisch": {
+      "title": "Organické extrakty (acetonické/ethanolické)",
+      "items": [
+        "Průmyslová metoda extrakce",
+        "Vyšší koncentrace Kavalactonů",
+        "Extrahuje také Flavokaviny",
+        "Glutathion není extrahován",
+        "Vyšší riziko v analýze WHO"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Rostlinné části: Kořen vs. nadzemní části",
+    "intro": "Použití různých rostlinných částí má významný dopad na bezpečnost:",
+    "tableTitle": "Obsah Pipermethystinu podle rostlinné části",
+    "headers": [
+      "Rostlinná část",
+      "Pipermethystin",
+      "Bezpečnost"
+    ],
+    "rows": [
+      {
+        "part": "Kořen/Rhizom",
+        "content": "Nedetekovatelný",
+        "safety": "Bezpečné",
+        "color": "primary"
+      },
+      {
+        "part": "Stonkové slupky",
+        "content": "Až 0,85%",
+        "safety": "Problematické",
+        "color": "amber"
+      },
+      {
+        "part": "Listy",
+        "content": "Přibližně 0,2%",
+        "safety": "Toxické",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystin je alkaloid, který in vitro vykazuje silnou cytotoxicitu a narušuje funkci mitochondrií (Nerurkar et al., 2004). Vyskytuje se výhradně v nadzemních rostlinných částech."
+  },
+  "genetik": {
+    "title": "Genetické faktory: Polymorfismy CYP2D6",
+    "intro": "Kavalactony jsou primárně metabolizovány prostřednictvím systému enzymů cytochromu P450, zejména CYP2D6. Genetické varianty tohoto enzymu mohou výrazně ovlivnit metabolizační rychlost:",
+    "factors": [
+      {
+        "label": "Špatní metabolizátoři (PM)",
+        "text": "Přibližně 5-10% Evropanů má sníženou aktivitu CYP2D6, což může vést k vyšším hladinám Kavalactonů"
+      },
+      {
+        "label": "Idiosynkratické reakce",
+        "text": "Některé případy by mohly být způsobeny imunologickými mechanismy"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Komedikace a alkohol",
+    "warning": {
+      "title": "Kritický rizikový faktor",
+      "text": "Kombinace Kavy s alkoholem nebo hepatotoxickými léky výrazně zvyšuje riziko poškození jater. V mnoha původních případových zprávách byla konzumace alkoholu zdokumentována nebo nebyla vyloučena."
+    },
+    "intro": "WHO identifikovala následující komedikace jako obzvlášť problematické:",
+    "items": [
+      "Alkohol (synergistická hepatotoxicita)",
+      "Paracetamol/acetaminofen (hepatotoxický)",
+      "Benzodiazepiny (interakce CYP)",
+      "Antipsychotika (interakce CYP)",
+      "Statiny (hepatotoxický potenciál)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Možné mechanismy hepatotoxicity",
+    "intro": "Přesné mechanismy, kterými Kava může ve vzácných případech způsobit poškození jater, ještě nejsou zcela objasněny. Diskutuje se o několika hypotézách:",
+    "hypotheses": [
+      {
+        "title": "1. Chinonové metabolity",
+        "text": "Kavain a Dihydrokavain mohou být oxidovány na reaktivní chinonové metabolity, které reagují s buněčnými proteiny a mohou způsobit oxidační stres (Johnson et al., 2003). Glutathion může tyto metabolity neutralizovat – možný důvod, proč jsou vodné extrakty (které obsahují glutathion) bezpečnější."
+      },
+      {
+        "title": "2. Flavokaviny",
+        "text": "Flavokavin B vykazuje in vitro cytotoxicitu a může indukovat apoptózu v hepatocytech. Organické extrakty obsahují vyšší koncentrace flavokavinů než vodné přípravky."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Tento alkaloid se vyskytuje pouze v nadzemních rostlinných částech a je silně cytotoxický. Inhibuje mitochondriální dýchací řetězec a může vést k buněčné smrti."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktická doporučení pro maximální bezpečnost",
+    "items": [
+      {
+        "label": "Noble odrůdy",
+        "text": "Kupujte pouze ověřené Noble-Kava odrůdy od seriózních prodejců"
+      },
+      {
+        "label": "Kořen",
+        "text": "Používejte pouze produkty z kořenů a rhizomů, žádné nadzemní rostlinné části"
+      },
+      {
+        "label": "Vodná příprava",
+        "text": "Preferujte tradiční metodu přípravy"
+      },
+      {
+        "label": "Žádný alkohol",
+        "text": "Minimálně 24 hodin odstup od konzumace alkoholu"
+      },
+      {
+        "label": "Hodnoty jater",
+        "text": "Při pravidelném užívání roční kontrola hodnot jater"
+      },
+      {
+        "label": "Varovné signály",
+        "text": "Při žloutence, tmavém moči nebo neobvyklé únavě okamžitě přestat"
+      }
+    ]
+  }
+}

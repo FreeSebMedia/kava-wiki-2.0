@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Sorter & Kultivarer",
+    "subtitle": "En omfattende guide til Kava-sorter: Fra Borogu til Pouni Ono, fra Heady til Heavy.",
+    "category": "Sorter",
+    "breadcrumb": {
+      "home": "Hjemmeside",
+      "current": "Sorter"
+    }
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introduktion",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "De tre virkningstyper",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Dyrkningsregioner",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Hvilken sort passer til mig?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Uddybende artikler",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "I dag findes der <strong>over 100 dokumenterede Kava-sorter</strong>, der adskiller sig betydeligt i oprindelse, kemotype og virkning. Alene i Vanuatu, den formodede oprindelsesregion for planten, er mere end 80 forskellige kultivarer kendt. Denne mangfoldighed er resultatet af over 3.000 års målrettet selektion af stillehavs kulturer.",
+      "text": "Forskellene mellem sorterne er ikke kun akademiske – de bestemmer i høj grad, hvilken virkning en Kava-drink har. En <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai fra Vanuatu</a> virker helt anderledes end en <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka fra Fiji</a>. Forståelsen af disse forskelle er nøglen til en bevidst og tilfredsstillende Kava-oplevelse."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "Den vigtigste skelnen, som enhver Kava-forbruger skal kende, er mellem <strong>Noble Kava</strong> (ædelkava) og <strong>Tudei Kava</strong>. Denne klassificering blev indført af Vanuatu-regeringen og er baseret på <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kemotypen</a> for den respektive sort.",
+      "noble": {
+        "title": "Noble Kava (ædelkava)",
+        "items": [
+          "Udvalgt i århundreder for behagelig virkning",
+          "Kemotypen begynder med <strong>2</strong> eller <strong>4</strong>, aldrig med 5 eller 6",
+          "Virkningens indtræden: 10-20 minutter",
+          "Virkningens varighed: 3-6 timer, aftager rent",
+          "Ingen \"tømmermænd\" dagen efter",
+          "Sikker til regelmæssig brug"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Two-Day)",
+        "items": [
+          "Kemotypen begynder med <strong>5</strong> eller <strong>6</strong> (DHM-dominant)",
+          "Virkningens indtræden: 30-90 minutter (forsinket)",
+          "Virkningen varer ekstremt længe (op til 2 dage)",
+          "Forårsager ofte kvalme og sløvhed",
+          "\"Tømmermænd\"-følelse dagen efter",
+          "Forbudt til eksport i Vanuatu"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Vær opmærksom på, at forhandleren angiver kemotypen og den nøjagtige sort ved køb. Denne gennemsigtighed er et godt tegn på autentisk Noble Kava.",
+      "linkText": "Lær mere om Noble vs. Tudei"
+    },
+    "wirktypen": {
+      "title": "De tre virkningstyper",
+      "intro": "Noble Kava-sorter klassificeres efter deres dominerende virkning i tre kategorier. Denne klassificering er baseret på <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kemotypen</a> – altså den relative koncentration af de seks hoved-<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactoner</a>.",
+      "heady": {
+        "title": "Heady",
+        "description": "Hovedfokuseret virkning: Eufori, mental klarhed, socialitet. Ideel til dagen og sociale anledninger.",
+        "chemotype": "Begynder ofte med 4 (Kavain) eller 2 (DHK)",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Humør & Socialt"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Afbalanceret virkning: Afslapning uden træthed, mental ro med fysisk velvære.",
+        "chemotype": "Afbalanceret forhold mellem 4, 2 og 3",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Angstlindring"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Kropsfokuseret virkning: Dyb muskelafslapning, sedation, ideel til aftenen og til at sove.",
+        "chemotype": "Høj DHK-andel (2) på position 1-2",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Søvn & Afslapning"
+      },
+      "calculatorLink": "Kemotyperegner: Analyser hver kemotype"
+    },
+    "regionen": {
+      "title": "Dyrkningsregioner i oversigt",
+      "intro": "Kava dyrkes i dag i forskellige regioner i Stillehavet. Hver region har udviklet sine egne sorter, der er tilpasset det lokale klima og de kulturelle præferencer.",
+      "tableHeaders": {
+        "region": "Region",
+        "count": "Antal sorter",
+        "localName": "Lokalt navn",
+        "varieties": "Kendte sorter",
+        "characteristics": "Karakteristika"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "Største mangfoldighed, oprindelsesregion"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Ofte tungere, god forarbejdning"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Alle Noble, mere heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Meget potent, dyr"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Traditionel, ceremoniel"
+        },
+        {
+          "region": "Papua Ny Guinea",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Eneste Noble-sort"
+        }
+      ],
+      "vanuatuLink": "Sorter fra Vanuatu",
+      "pazifikLink": "Sorter fra Fiji, Tonga & Hawaii"
+    },
+    "auswahl": {
+      "title": "Hvilken sort passer til mig?",
+      "intro": "Valget af den rigtige Kava-sort afhænger af den ønskede effekt og tidspunktet på dagen. Her er en vejledning:",
+      "recommendations": [
+        {
+          "purpose": "Til sociale anledninger",
+          "type": "Heady",
+          "description": "Vælg en <strong>Heady</strong> Kava:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Mod stress & angst",
+          "type": "Balanced",
+          "description": "Vælg en <strong>Balanced</strong> Kava:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Til muskelafslapning",
+          "type": "Heavy",
+          "description": "Vælg en <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Til at falde i søvn",
+          "type": "Heavy",
+          "description": "Vælg en <strong>Heavy</strong> Kava:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Start med en <strong>Balanced</strong> Kava som Melo Melo eller Borogu. Disse sorter giver en behagelig, afbalanceret oplevelse uden ekstreme effekter i en retning.",
+      "tipLabel": "Tip til nybegyndere:"
+    },
+    "unterseiten": {
+      "title": "Uddybende artikler",
+      "intro": "Udforsk de enkelte aspekter af Kava-sorter i vores specialiserede undersider:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "Den vigtigste skelnen: Hvorfor Noble Kava er sikker, og Tudei bør undgås.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Sorter fra Vanuatu",
+      "description": "Over 80 sorter fra Kavas hjemland: Borogu, Melo Melo, Kelai, Palasa og mere.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Sorter fra Fiji, Tonga & Hawaii",
+      "description": "Regionale specialiteter: Loa Waka, Pouni Ono, 'Awa Moi og deres unikke egenskaber.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Sortsprofiler i detaljer",
+      "description": "Detaljerede profiler af de vigtigste sorter med kemotyper, virkninger og anbefalinger.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Tilbage",
+      "title": "Indholdsstoffer"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Videre",
+      "title": "Forberedelse"
+    }
+  }
+}

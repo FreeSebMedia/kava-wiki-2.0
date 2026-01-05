@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Nakamal & Kava-Bary",
+    "subtitle": "Od tradičních shromažďovacích domů po moderní Kava-Bary – sociální architektura kultury Kava",
+    "category": "Kultura"
+  },
+  "breadcrumbs": {
+    "home": "Domovská stránka",
+    "kultur": "Kultura",
+    "current": "Nakamal"
+  },
+  "toc": {
+    "einfuehrung": "Úvod",
+    "traditionell": "Tradiční Nakamal",
+    "atmosphaere": "Atmosféra & Pravidla",
+    "architektur": "Architektura",
+    "modern": "Moderní Kava-Bary",
+    "regionen": "Regionální rozdíly",
+    "etikette": "Nakamal-Etiketa",
+    "besuch": "Navštívit Nakamal"
+  },
+  "intro": {
+    "lead": "<strong>Nakamal</strong> je mnohem víc než jen místo, kde se pije Kava – je to srdce sociálního života ve Vanuatu a vzor pro Kava-Bary po celém světě.",
+    "p1": "V melanesické kultuře slouží Nakamal jako shromažďovací dům, komunitní centrum a duchovní místo zároveň. Zde se řeší konflikty, vyprávějí příběhy, utvářejí se aliance a udržuje se spojení s předky.",
+    "p2": "Dnes vedle tradičních Nakamal ve Vanuatu existují moderní Kava-Bary v Port Vila, Suva, Aucklandu a dokonce i ve západních městech jako Melbourne, Los Angeles a Berlín. Všechny sdílejí společné principy: klid, respekt a komunitu."
+  },
+  "traditional": {
+    "title": "Tradiční Nakamal",
+    "intro": "V tradičních vesnických komunitách Vanuatu je Nakamal <strong>centrálním shromažďovacím místem</strong> – místem, které je často vyhrazeno pouze mužům (i když se to ve městských oblastech mění).",
+    "functionsTitle": "Funkce Nakamalu",
+    "functions": [
+      {
+        "icon": "users",
+        "title": "Komunitní setkání",
+        "desc": "Každodenní shromažďovací místo pro vesničany po práci"
+      },
+      {
+        "icon": "scale",
+        "title": "Řešení konfliktů",
+        "desc": "Neshody se zde pod vlivem Kavy řeší mírově"
+      },
+      {
+        "icon": "landmark",
+        "title": "Politické poradenství",
+        "desc": "Důležitá rozhodnutí vesnice se diskutují v Nakamalu"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Duchovní spojení",
+        "desc": "Komunikace s duchy předků prostřednictvím rituálních Kava-ceremoníí"
+      },
+      {
+        "icon": "book",
+        "title": "Předávání znalostí",
+        "desc": "Ústní tradice historie, mýtů a kastom"
+      },
+      {
+        "icon": "handshake",
+        "title": " pohostinnost",
+        "desc": "Přijímání hostů a uzavírání aliancí"
+      }
+    ],
+    "genderNote": "Tradičně je Nakamal <strong>mužským prostorem</strong>. V mnoha vesnicích je ženám zakázáno vstupovat do Nakamalu nebo pít Kavu. Tato tradice se však liší z ostrova na ostrov a ve městských oblastech se stále více uvolňuje."
+  },
+  "atmosphere": {
+    "title": "Atmosféra & Pravidla",
+    "intro": "Nakamal je místem <strong>klidu a kontemplace</strong>. Atmosféra se zásadně liší od západních barů.",
+    "rulesTitle": "Pravidla Nakamalu",
+    "rules": [
+      {
+        "rule": "Mluvit tiše",
+        "explanation": "Hlasité rozhovory a smích jsou nevhodné – mluví se potichu"
+      },
+      {
+        "rule": "Tlumené světlo",
+        "explanation": "Kava dělá oči citlivými na světlo (\"Kava oči\") – jasné světlo se vyhýbá"
+      },
+      {
+        "rule": "Žádná hlasitá hudba",
+        "explanation": "Ticho nebo tiché tradiční zvuky jsou normou"
+      },
+      {
+        "rule": "Respektující chování",
+        "explanation": "Hádky a agresivní chování jsou tabu"
+      },
+      {
+        "rule": "Žádné jídlo",
+        "explanation": "Tradičně se v Nakamalu nejí – Kava se pije na lačný žaludek"
+      },
+      {
+        "rule": "Minimální pobyt",
+        "explanation": "Zůstáváte chvíli a pijete několik misek, než odejdete"
+      }
+    ],
+    "sensoryBox": {
+      "title": "Senzorický zážitek",
+      "sight": "Šero, často jen svíčky nebo slabé lampy",
+      "sound": "Tlumené hlasy, cvrčci, tiché klapání kokosových skořápek",
+      "smell": "Zemitá vůně Kavy, smíchaná s tropickým nočním vzduchem",
+      "taste": "Pikantní, zemitá chuť čerstvé Kavy",
+      "feel": "Rostoucí uvolnění, pocit komunity"
+    }
+  },
+  "architecture": {
+    "title": "Architektura Nakamalu",
+    "intro": "Tradiční Nakamaly jsou jednoduché, ale účelné struktury, které se přizpůsobují tropickému prostředí.",
+    "elementsTitle": "Typické prvky",
+    "elements": [
+      {
+        "element": "Přístřešek",
+        "description": "Střecha z palmových listů nebo vlnitého plechu na ochranu před deštěm"
+      },
+      {
+        "element": "Otevřené strany",
+        "description": "Dobré větrání díky otevřeným nebo polootvoreným stěnám"
+      },
+      {
+        "element": "Centrální ohniště",
+        "description": "V některých Nakamalech pro teplo a světlo"
+      },
+      {
+        "element": "Lavice nebo rohože",
+        "description": "Jednoduché sezení z dřeva nebo pletených rohoží"
+      },
+      {
+        "element": "Oblast přípravy Kavy",
+        "description": "Oblast s hmoždířem, sítkem a nádobou na vodu"
+      },
+      {
+        "element": "Odhazovací prostor",
+        "description": "Oblast nebo žlab na vyplivování mezi misky"
+      }
+    ],
+    "tannaStyle": {
+      "title": "Tanna styl",
+      "desc": "Na Tanně jsou Nakamaly často kulaté struktury z přírodních materiálů, které se harmonicky začleňují do krajiny. Svatý banyánový strom často stojí poblíž."
+    },
+    "urbanStyle": {
+      "title": "Městský styl",
+      "desc": "V Port Vila sahají Nakamaly od jednoduchých chatrčí po betonové struktury s neonovými světly – atmosféra však zůstává tradiční."
+    }
+  },
+  "modern": {
+    "title": "Moderní Kava-Bary",
+    "intro": "Mimo Vanuatu se koncept Nakamalu vyvinul na moderní <strong>Kava-Bary</strong> – místa, která spojují tradiční hodnoty s moderním komfortem.",
+    "typesTitle": "Typy Kava-Barů",
+    "types": [
+      {
+        "type": "Autenticky-tradiční",
+        "locations": "Port Vila, Suva, Nukuʻalofa",
+        "description": "Tradiční atmosféra s čerstvou Kavou, jednoduchým zařízením a místním publikem"
+      },
+      {
+        "type": "Diaspora-Nakamaly",
+        "locations": "Auckland, Sydney, Melbourne",
+        "description": "Provozováno pacifickými komunitami, místo setkání pro expatrioty, tradiční a moderní prvky"
+      },
+      {
+        "type": "Západní Kava-Bary",
+        "locations": "Florida, Kalifornie, New York, Berlín",
+        "description": "Moderní prostředí, často s Kava koktejly, kavárenská atmosféra, pro západní publikum"
+      },
+      {
+        "type": "Kava-Kavárny",
+        "locations": "Po celém světě",
+        "description": "Kombinace kavárny a Kava-Bary, často s čajem, kávou a Kava směsmi"
+      }
+    ],
+    "comparisonTitle": "Tradiční vs. Moderní",
+    "comparison": [
+      {
+        "aspect": "Příprava",
+        "traditional": "Čerstvě připraveno, často žvýkáno nebo mleté",
+        "modern": "Často instantní Kava nebo připraveno"
+      },
+      {
+        "aspect": "Atmosféra",
+        "traditional": "Velmi klidná, tlumené světlo",
+        "modern": "Uvolněná, ale často více zábavy"
+      },
+      {
+        "aspect": "Publikum",
+        "traditional": "Místní komunita, často pouze muži",
+        "modern": "Smíšené publikum, všech pohlaví"
+      },
+      {
+        "aspect": "Doplňková nabídka",
+        "traditional": "Pouze Kava",
+        "modern": "Často občerstvení, jiné nápoje, někdy jídlo"
+      },
+      {
+        "aspect": "Ceny",
+        "traditional": "Velmi levné (50-100 Vatu za misku)",
+        "modern": "Vyšší ($5-15 za misku)"
+      }
+    ]
+  },
+  "regions": {
+    "title": "Regionální rozdíly",
+    "intro": "Místa na pití Kavy se liší podle regionu v atmosféře a tradici.",
+    "places": [
+      {
+        "flag": "🇻🇺",
+        "country": "Vanuatu",
+        "name": "Nakamal",
+        "description": "Původ – tradiční vesnické Nakamaly a moderní městské varianty v Port Vila. Nejstrongější Kava, nejautentičtější zážitek.",
+        "highlight": "Více než 400 Nakamal pouze v Port Vila"
+      },
+      {
+        "flag": "🇫🇯",
+        "country": "Fiji",
+        "name": "Kava Circle",
+        "description": "Méně institucionalizované než ve Vanuatu – Kava se pije v domech, na shromážděních a v neformálních skupinách.",
+        "highlight": "Tanoa (Kava miska) jako středobod"
+      },
+      {
+        "flag": "🇹🇴",
+        "country": "Tonga",
+        "name": "Faikava",
+        "description": "Strukturovanější než na Fidži – Tu'i Kava vede ceremonii. Pije se také v moderních \"Kalapu\" (klubech).",
+        "highlight": "Přísná hierarchie při servírování"
+      },
+      {
+        "flag": "🇼🇸",
+        "country": "Samoa",
+        "name": "'Ava Circle",
+        "description": "Formální ceremonie s Taupou jako přípravou. Moderní varianty v \"Kava Barech\" v Apia.",
+        "highlight": "Vysoce ritualizovaná příprava"
+      },
+      {
+        "flag": "🇺🇸",
+        "country": "USA",
+        "name": "Kava Bar",
+        "description": "Západní styl s kavárenskou atmosférou. Zvlášť populární na Floridě a v Kalifornii. Často kombinováno s Kratomem.",
+        "highlight": "Více než 300 Kava-Barů na Floridě"
+      },
+      {
+        "flag": "🇳🇿",
+        "country": "Nový Zéland",
+        "name": "Kava Club",
+        "description": "Provozováno pacifickými komunitami. Důležité místo setkání pro Tonga, Samoany a Fidžijce v Aucklandu.",
+        "highlight": "Spojení s domovem v diaspoře"
+      }
+    ]
+  },
+  "etiquette": {
+    "title": "Nakamal-Etiketa",
+    "intro": "Ať už v tradičním Nakamalu ve Vanuatu nebo v Kava-Baru na Floridě – určité základní pravidla etikety platí všude.",
+    "dosTitle": "Co dělat",
+    "dos": [
+      "Mluvit tiše a být respektující",
+      "Pít Kavu na jeden zátah (\"High tide\")",
+      "Vrátit prázdnou misku",
+      "Věnovat čas – Kava není rychlý nápoj",
+      "Při rituálech dodržovat pokyny",
+      "\"Bula!\" (Fiji) nebo \"Malomalō!\" (Vanuatu) říct"
+    ],
+    "dontsTitle": "Co se vyhnout",
+    "donts": [
+      "Být hlučný nebo křičet",
+      "Pít Kavu po malých doušcích",
+      "Stát se netrpělivým",
+      "Fotografovat bez pozvání",
+      "Přinášet nebo míchat alkohol",
+      "Vyjednávat o cenách"
+    ],
+    "tipBox": {
+      "title": "Tip pro první návštěvníky",
+      "text": "Pokud navštěvujete Nakamal nebo Kava-Bar poprvé, požádejte personál o radu. Většina je hrdá na to, že nováčkům vysvětlují tradici a ráda pomůže s výběrem síly."
+    }
+  },
+  "visit": {
+    "title": "Navštívit Nakamal",
+    "intro": "Plánujete návštěvu tradičního Nakamalu nebo Kava-Baru? Zde jsou praktické tipy:",
+    "stepsTitle": "Krok za krokem",
+    "steps": [
+      {
+        "step": "Příjezd",
+        "desc": "Nakamaly se obvykle otevírají při západu slunce (17-18 hodin). Nepřicházejte příliš brzy."
+      },
+      {
+        "step": "Objednat",
+        "desc": "Vyberte si mezi \"High tide\" (plná miska) a \"Low tide\" (poloviční miska). Začněte jako nováček s poloviční miskou."
+      },
+      {
+        "step": "Čekat",
+        "desc": "Čerstvá příprava trvá několik minut. Využijte čas k nasátí atmosféry."
+      },
+      {
+        "step": "Pít",
+        "desc": "Pijte misku na jeden zátah. Pokud chcete, vyplivněte (žlab je často k dispozici)."
+      },
+      {
+        "step": "Čekat & Cítit",
+        "desc": "Počkejte 10-15 minut, než si objednáte další misku. Cítíte účinek."
+      },
+      {
+        "step": "Užít si",
+        "desc": "Zůstaňte chvíli, mluvte tiše, užívejte si klidnou atmosféru."
+      }
+    ],
+    "costsTitle": "Typické náklady",
+    "costs": [
+      {
+        "location": "Vanuatu (tradičně)",
+        "price": "50-150 Vatu (~€0,40-1,20)",
+        "note": "Velmi levné, čerstvá Kava"
+      },
+      {
+        "location": "Fiji",
+        "price": "FJ$2-5 (~€0,80-2)",
+        "note": "O něco dražší než Vanuatu"
+      },
+      {
+        "location": "Nový Zéland/Austrálie",
+        "price": "NZ$5-15 (~€3-8)",
+        "note": "Ceny v diaspoře"
+      },
+      {
+        "location": "USA/Evropa",
+        "price": "$8-18 (~€7-16)",
+        "note": "Ceny západních Kava-Barů"
+      }
+    ],
+    "findTitle": "Najít Nakamaly",
+    "findText": "V Port Vila je více než 400 Nakamal – nebudete mít problém najít jeden. Mimo Pacifik využijte adresáře Kava-Barů nebo se zeptejte v pacifických komunitách. Naše <a href=\"/de/kultur/kava-bars\">Kava-Bar mapa</a> vám pomůže najít místa ve vaší blízkosti."
+  },
+  "navigation": {
+    "title": "Pokračovat ve čtení",
+    "back": {
+      "label": "Předchozí kapitola",
+      "title": "Ceremonie & Rituály",
+      "href": "/de/kultur/zeremonien"
+    },
+    "next": {
+      "label": "Další kapitola",
+      "title": "Moderní Kava-Kultura",
+      "href": "/de/kultur/moderne"
+    }
+  },
+  "related": {
+    "title": "Související témata",
+    "links": [
+      {
+        "label": "Ceremonie & Rituály",
+        "href": "/de/kultur/zeremonien"
+      },
+      {
+        "label": "Tradiční příprava",
+        "href": "/de/zubereitung/traditionell"
+      },
+      {
+        "label": "Kava-Bar mapa",
+        "href": "/de/kultur/kava-bars"
+      },
+      {
+        "label": "Vanuatu odrůdy",
+        "href": "/de/sorten/vanuatu"
+      },
+      {
+        "label": "Slovník: Nakamal",
+        "href": "/de/glossar#nakamal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "subtitle": "Nejdůležitější rozlišení pro každého konzumenta Kavy: Proč je Noble Kava bezpečný a Tudei by se měl vyhýbat.",
+    "category": "Odrody",
+    "breadcrumb": {
+      "home": "Domovská stránka",
+      "sorten": "Odrody",
+      "current": "Noble vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "Obsah",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Úvod",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "Historie klasifikace",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "Chemické rozdíly",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "Rozdíly v účincích",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "Jak rozpoznat Tudei",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "Bezpečnostní aspekty",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Rozlišení mezi <strong>Noble Kava</strong> a <strong>Tudei Kava</strong> je nejzákladnější klasifikací ve světě Kavy. Rozhoduje o tom, zda je zážitek z Kavy příjemný a bezpečný, nebo nepříjemný a potenciálně škodlivý.",
+      "text": "Termín \"Tudei\" (také psáno jako \"Two-Day\") pochází z Bislama, kreolského jazyka Vanuatu, a doslovně znamená \"dva dny\" – což naznačuje extrémně dlouhou dobu účinku těchto odrůd. Noble Kava byla naopak po staletí vybírána pacifickými kulturami pro každodenní použití a nabízí příjemný, kontrolovatelný účinek."
+    },
+    "geschichte": {
+      "title": "Historie klasifikace",
+      "p1": "Formální rozlišení mezi Noble a Tudei Kava zavedla <strong>vláda Vanuatu</strong>, aby regulovala kvalitu exportní Kavy. V roce 2002 Vanuatu přijalo <strong>Zákon o Kávě</strong>, který zakazuje export Tudei odrůd. Tato legislativa byla reakcí na zprávy o poškození jater v Evropě, které byly spojovány s nekvalitními Kava produkty.",
+      "p2": "Výzkum <strong>Dr. Vincenta Lebota</strong>, předního vědce v oblasti Kavy, byl klíčový pro vývoj této klasifikace. Lebot vyvinul metody chemické analýzy Kava odrůd a identifikoval <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotypy</a>, které odlišují Noble od Tudei.",
+      "quote": "Klasifikace na Noble a Tudei není založena na subjektivních preferencích, ale na měřitelných chemických rozdílech, které přímo korelují s bezpečností a snášenlivostí.",
+      "quoteAuthor": "— Dr. Vincent Lebot, výzkumník Kavy"
+    },
+    "chemischeUnterschiede": {
+      "title": "Chemické rozdíly",
+      "intro": "Rozhodující rozdíl mezi Noble a Tudei Kava spočívá v <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotypu</a> – relativní koncentraci šesti hlavních <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">kavalaktonů</a>. Chemotyp je uveden jako šestimístné číslo, přičemž první číslice reprezentuje dominantní kavalakton.",
+      "tableHeaders": {
+        "merkmal": "Vlastnost",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Chemotyp začíná na",
+          "noble": "2 (DHK) nebo 4 (Kavain)",
+          "tudei": "5 (DHM) nebo 6 (Methysticin)"
+        },
+        {
+          "merkmal": "Dominantní kavalakton",
+          "noble": "Kavain nebo Dihydrokavain",
+          "tudei": "Dihydromethysticin"
+        },
+        {
+          "merkmal": "Obsah Flavokavain B",
+          "noble": "Nízký (<0.5%)",
+          "tudei": "Vysoký (až 5%)"
+        },
+        {
+          "merkmal": "Poměr DHM:Kavain",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Noble chemotypy (příklady)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Všechny začínají na 2 nebo 4 – nikdy na 5 nebo 6."
+      },
+      "tudeiCard": {
+        "title": "Tudei chemotypy (příklady)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "Začínají na 5 (DHM) nebo 6 (Methysticin) – varovný signál."
+      },
+      "calculatorLink": "Chemotyp kalkulačka: Analyzujte každý chemotyp"
+    },
+    "wirkungsunterschiede": {
+      "title": "Rozdíly v účincích",
+      "intro": "Chemické rozdíly vedou k drasticky odlišným profilům účinků:",
+      "tableHeaders": {
+        "aspekt": "Aspekt",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Nástup účinku",
+          "noble": "Rychlý (10-20 minut)",
+          "tudei": "Zpožděný (30-90 minut)"
+        },
+        {
+          "aspekt": "Doba trvání účinku",
+          "noble": "Mírná (3-6 hodin)",
+          "tudei": "Extrémně dlouhá (6-48 hodin)"
+        },
+        {
+          "aspekt": "Charakter účinku",
+          "noble": "Jasný, uvolněný, společenský",
+          "tudei": "Tupý, omámený, sedativní"
+        },
+        {
+          "aspekt": "Další den",
+          "noble": "Žádná kocovina",
+          "tudei": "Často letargie, nevolnost"
+        },
+        {
+          "aspekt": "Vedlejší účinky",
+          "noble": "Zřídka, mírné",
+          "tudei": "Často: nevolnost, bolesti hlavy"
+        },
+        {
+          "aspekt": "Denní užívání",
+          "noble": "Bezpečné",
+          "tudei": "Nedoporučuje se"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Zážitek z Noble Kava",
+        "text": "Typický zážitek z Noble Kava začíná mírným brněním na rtech, následovaným vlnou uvolnění. Mysl zůstává jasná, zatímco tělo se uvolňuje. Po 3-4 hodinách účinek jemně ustupuje a člověk se cítí osvěžený – připravený na klidný spánek nebo další aktivity."
+      },
+      "tudeiExperience": {
+        "title": "Zážitek z Tudei Kava",
+        "text": "Tudei Kava působí zpožděně a plíživě. Účinek je často ohromně sedativní, s \"omámeným\" pocitem. Další den se mnoho konzumentů stále cítí ovlivněno – odtud název \"Two-Day\". Nevolnost a bolesti hlavy jsou časté."
+      }
+    },
+    "erkennung": {
+      "title": "Jak rozpoznat Tudei",
+      "intro": "Bohužel je Tudei Kava někdy nelegálně přimíchávána nebo prodávána jako Noble. Zde jsou varovné signály:",
+      "warningTitle": "Varovné signály pro přimíchání Tudei",
+      "warnings": [
+        "<strong>Extrémně nízká cena</strong> – Tudei je levnější na výrobu",
+        "<strong>Žádné uvedení odrůdy</strong> – Název odrůdy by měl být vždy uveden",
+        "<strong>Žádný chemotyp</strong> – Chemotyp poskytuje informace o složení kavalaktonů",
+        "<strong>Zpožděný nástup účinku</strong> – Noble působí za 10-20 minut",
+        "<strong>Extrémní nevolnost</strong> – Více než mírné žaludeční potíže",
+        "<strong>Účinek další den</strong> – Noble ustupuje po 4-6 hodinách"
+      ],
+      "acetoneTestTitle": "Acetonový test",
+      "acetoneTestText": "Jednoduchý domácí test může pomoci identifikovat Tudei: <strong>Acetonový test</strong>. Při něm se Kava prášek míchá s acetonem. Noble Kava zbarvuje aceton do žluta, zatímco Tudei Kava vytváří oranžové až červené zbarvení (kvůli vysokému obsahu Flavokavain B).",
+      "recommendation": "<strong>Doporučení:</strong> Při nákupu dbejte na to, aby prodejce uvedl přesný chemotyp a odrůdu. Tyto informace ukazují, že se jedná o autentickou Noble Kava."
+    },
+    "sicherheit": {
+      "title": "Bezpečnostní aspekty",
+      "intro": "Rozlišení mezi Noble a Tudei není jen otázkou pohodlí, ale také <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">bezpečnosti</a>. Poškození jater, které bylo na počátku 2000. let spojováno s Kavou, je dnes většinou připisováno nekvalitním produktům:",
+      "causes": [
+        "Použití <strong>nadzemních částí rostlin</strong> (listy, stonky) místo pouze kořenů",
+        "Přimíchání <strong>Tudei odrůd</strong> s vysokým obsahem Flavokavain B",
+        "<strong>Acetonová extrakce</strong> místo tradiční přípravy s vodou",
+        "Použití <strong>nezralých rostlin</strong> (méně než 3 roky starých)"
+      ],
+      "conclusion": "Noble Kava, tradičně připravovaná z kořenů starších než 3-5 let, má <strong>tisíciletou bezpečnostní historii</strong> v pacifických kulturách. Vláda Vanuatu a mezinárodní organizace jako <strong>WHO</strong> potvrdily, že Noble Kava je při správném použití považována za bezpečnou.",
+      "moreLink": "Zjistěte více o bezpečnosti Kavy"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Pokračujte v kapitole Odrody:",
+    "next": {
+      "title": "Odrody z Vanuatu",
+      "description": "Více než 80 odrůd z domoviny Kavy: Borogu, Melo Melo, Kelai a další",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

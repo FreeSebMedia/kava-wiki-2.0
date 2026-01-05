@@ -1,0 +1,160 @@
+{
+  "page": {
+    "title": "Moderne Geschichte",
+    "subtitle": "Von der Kolonialzeit über das Verbot von 2002 bis zur heutigen Renaissance.",
+    "category": "Geschichte"
+  },
+  "breadcrumbs": [
+    { "label": "Home", "href": "/" },
+    { "label": "Geschichte", "href": "/geschichte" },
+    { "label": "Moderne Geschichte" }
+  ],
+  "toc": [
+    { "id": "kolonialzeit", "title": "Kolonialzeit & Missionierung", "level": 1 },
+    { "id": "erster-kontakt", "title": "Erster europäischer Kontakt", "level": 2 },
+    { "id": "unterdrueckung", "title": "Unterdrückung durch Missionare", "level": 2 },
+    { "id": "wissenschaft", "title": "Wissenschaftliche Entdeckung", "level": 1 },
+    { "id": "boom", "title": "Der Kava-Boom der 1990er", "level": 1 },
+    { "id": "verbot-2002", "title": "Das Verbot von 2002", "level": 1 },
+    { "id": "hintergrund", "title": "Hintergrund der Leberschäden-Debatte", "level": 2 },
+    { "id": "folgen", "title": "Folgen des Verbots", "level": 2 },
+    { "id": "rehabilitation", "title": "Die Rehabilitation", "level": 1 },
+    { "id": "gerichtsurteile", "title": "Gerichtsurteile", "level": 2 },
+    { "id": "who-stellungnahme", "title": "WHO-Stellungnahme", "level": 2 },
+    { "id": "heute", "title": "Kava heute", "level": 1 },
+    { "id": "dritte-welle", "title": "Die 'Dritte Welle'", "level": 2 }
+  ],
+  "content": {
+    "lead": "Die moderne Geschichte von Kava ist eine Geschichte von <strong>Entdeckung, Unterdrückung, Boom, Krise und Rehabilitation</strong>. Sie zeigt, wie eine jahrtausendealte Tradition durch westliche Interessen beeinflusst wurde – und wie sie sich letztlich behauptet hat.",
+    "kolonialzeit": {
+      "title": "Kolonialzeit & Missionierung",
+      "erster_kontakt": {
+        "title": "Erster europäischer Kontakt",
+        "text": "Der erste dokumentierte Kontakt zwischen Europäern und Kava fand während der <strong>Reisen von James Cook</strong> (1768–1779) statt. Der deutsche Naturforscher <strong>Johann Georg Adam Forster</strong>, der Cook auf seiner zweiten Weltumsegelung begleitete, beschrieb die Pflanze ausführlich und gab ihr 1786 den wissenschaftlichen Namen <em>Piper methysticum</em> – \"berauschender Pfeffer\".",
+        "quote": "Der Pfeffer, der berauscht... ein Mittel gegen die Sorgen des Lebens.",
+        "quote_author": "Johann Georg Adam Forster, 1786",
+        "follow_up": "Die frühen europäischen Beobachter waren fasziniert von der Wirkung der Pflanze und ihrer zentralen Rolle in den pazifischen Gesellschaften. Doch diese Faszination sollte bald einer anderen Haltung weichen."
+      },
+      "unterdrueckung": {
+        "title": "Unterdrückung durch Missionare",
+        "text1": "Im 19. Jahrhundert begannen christliche <strong>Missionare</strong>, systematisch gegen den Kava-Konsum vorzugehen. Sie sahen in der Pflanze eine Konkurrenz zum christlichen Abendmahl und ein Hindernis für die \"Zivilisierung\" der Inselbewohner.",
+        "text2": "Die Missionare versuchten, Kava durch <strong>Tee und Alkohol</strong> zu ersetzen – mit verheerenden Folgen. Während Kava friedlich macht und die Gemeinschaft stärkt, führte die Einführung von Alkohol zu Gewalt, Sucht und sozialen Problemen, die bis heute nachwirken.",
+        "irony_title": "Die Ironie der Geschichte",
+        "irony_text": "Die Missionare verboten Kava als \"Teufelszeug\" und führten stattdessen Alkohol ein. Heute wissen wir: Kava ist nicht süchtig machend und fördert friedliches Verhalten, während Alkohol zu Abhängigkeit und Gewalt führen kann. In vielen Gemeinschaften wird Kava heute bewusst als <strong>Alternative zu Alkohol</strong> gefördert.",
+        "conclusion": "In einigen Regionen (wie Teilen von Mikronesien) ging das Wissen um Kava fast vollständig verloren. In Vanuatu und Fiji hingegen überlebte die Tradition als <strong>Symbol des kulturellen Widerstands</strong> gegen die Kolonialmacht."
+      }
+    },
+    "wissenschaft": {
+      "title": "Wissenschaftliche Entdeckung",
+      "text1": "Im späten 19. und frühen 20. Jahrhundert begannen westliche Wissenschaftler, sich für die <strong>pharmakologischen Eigenschaften</strong> von Kava zu interessieren. Die ersten Kavalactone wurden isoliert und ihre Wirkung auf das Nervensystem untersucht.",
+      "text2": "In Deutschland erkannte die <strong>Kommission E</strong> des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM) 1990 offiziell die Wirksamkeit von Kava bei \"nervösen Angst-, Spannungs- und Unruhezuständen\" an. Dies führte zur Zulassung zahlreicher Kava-Präparate in deutschen Apotheken."
+    },
+    "boom": {
+      "title": "Der Kava-Boom der 1990er",
+      "text1": "In den 1990er Jahren erlebte Kava einen <strong>beispiellosen Boom</strong> in der westlichen Welt. Die Pflanze wurde als natürliche Alternative zu synthetischen Beruhigungsmitteln wie Valium vermarktet – mit dem Versprechen, angstlösend zu wirken, ohne abhängig zu machen.",
+      "text2": "Der Markt wuchs rasant. In Deutschland waren Produkte wie <strong>\"Antares\"</strong>, <strong>\"Kavasporal forte\"</strong> und <strong>\"Laitan\"</strong> weit verbreitet. Mindestens 24 Pharmaunternehmen verkauften Kava-Extrakte in Europa. Der globale Kava-Markt erreichte einen Wert von mehreren hundert Millionen Dollar.",
+      "market_title": "Der Kava-Markt vor 2002",
+      "market_stats": [
+        { "value": "24+", "label": "Pharmaunternehmen in Europa" },
+        { "value": "70+", "label": "Millionen Tagesdosen/Jahr (DE)" },
+        { "value": "$200M+", "label": "Globaler Marktwert" }
+      ]
+    },
+    "verbot_2002": {
+      "title": "Das Verbot von 2002",
+      "alert_title": "Der Wendepunkt",
+      "alert_text": "Im Juni 2002 widerrief das BfArM die Zulassungen für alle Kava-haltigen Arzneimittel in Deutschland. Grund waren 30 gemeldete Verdachtsfälle von Leberschäden, die mit Kava-Konsum in Verbindung gebracht wurden.",
+      "hintergrund": {
+        "title": "Hintergrund der Leberschäden-Debatte",
+        "text": "Die Entscheidung des BfArM basierte auf <strong>Spontanmeldungen</strong> von Ärzten, die bei Patienten Leberschäden festgestellt hatten und einen Zusammenhang mit Kava-Präparaten vermuteten. Doch die Qualität dieser Meldungen war von Anfang an umstritten:",
+        "problems": [
+          { "title": "Keine Kausalität bewiesen", "detail": "Die Meldungen zeigten nur zeitliche Korrelation, keinen kausalen Zusammenhang" },
+          { "title": "Andere Risikofaktoren", "detail": "Viele Patienten nahmen gleichzeitig andere Medikamente oder konsumierten Alkohol" },
+          { "title": "Produktqualität", "detail": "Einige Produkte enthielten minderwertige Pflanzenteile (Blätter, Stängel) statt nur Wurzeln" },
+          { "title": "Extraktionsverfahren", "detail": "Aceton- und Ethanol-Extrakte statt traditioneller wässriger Zubereitung" },
+          { "title": "Tudei-Kontamination", "detail": "Möglicherweise wurden minderwertige \"Tudei\"-Sorten verwendet" }
+        ]
+      },
+      "folgen": {
+        "title": "Folgen des Verbots",
+        "text": "Das Verbot hatte weitreichende Konsequenzen – nicht nur für den europäischen Markt, sondern auch für die <strong>Herkunftsländer im Pazifik</strong>:",
+        "consequences": [
+          { "title": "Wirtschaftlicher Schaden", "text": "Vanuatu verlor über Nacht seinen größten Exportmarkt. Tausende Bauern verloren ihre Lebensgrundlage." },
+          { "title": "Kulturelle Kränkung", "text": "Die pazifischen Nationen sahen das Verbot als Angriff auf ihr kulturelles Erbe." },
+          { "title": "Wissenschaftliche Kontroverse", "text": "Viele Forscher kritisierten die Entscheidung als übereilt und wissenschaftlich nicht fundiert." },
+          { "title": "Dominoeffekt", "text": "Andere Länder (UK, Frankreich, Kanada) folgten mit eigenen Einschränkungen." }
+        ]
+      }
+    },
+    "rehabilitation": {
+      "title": "Die Rehabilitation",
+      "text": "In den Jahren nach dem Verbot mehrten sich die Stimmen, die eine <strong>Neubewertung</strong> forderten. Wissenschaftliche Studien zeigten, dass traditionell zubereitete Kava aus hochwertigen Wurzeln sicher ist.",
+      "gerichtsurteile": {
+        "title": "Gerichtsurteile",
+        "text": "Mehrere <strong>Gerichtsverfahren</strong> in Deutschland führten zur schrittweisen Aufhebung des Verbots:",
+        "timeline": [
+          {
+            "year": "2014",
+            "title": "Erste Aufhebungen",
+            "text": "Das Oberverwaltungsgericht Nordrhein-Westfalen erklärte den pauschalen Widerruf der Zulassungen für rechtswidrig. Die Begründung: Die Kausalität zwischen Kava und Leberschäden sei nicht ausreichend belegt."
+          },
+          {
+            "year": "2019",
+            "title": "Endgültige Aufhebung",
+            "text": "Das Bundesverwaltungsgericht bestätigte die Aufhebung. Der Widerruf der Zulassungen wurde endgültig für rechtswidrig erklärt. Kava-Arzneimittel könnten theoretisch wieder zugelassen werden."
+          }
+        ]
+      },
+      "who_stellungnahme": {
+        "title": "WHO-Stellungnahme",
+        "text": "Die <strong>Weltgesundheitsorganisation (WHO)</strong> kam nach einer umfassenden Überprüfung zu dem Schluss, dass traditionell zubereitete Kava aus Edelkava-Sorten bei moderatem Konsum als sicher gilt. Die WHO empfahl jedoch Qualitätsstandards, um die Verwendung minderwertiger Pflanzenteile oder Sorten zu verhindern."
+      },
+      "consensus": {
+        "title": "Wissenschaftlicher Konsens heute",
+        "text": "Der aktuelle wissenschaftliche Konsens ist klar: <strong>Traditionell zubereitete Kava aus hochwertigen Edelkava-Wurzeln ist bei moderatem Konsum sicher.</strong> Die Leberschäden-Fälle von 2002 werden heute auf minderwertige Produkte, falsche Extraktionsverfahren und Wechselwirkungen zurückgeführt."
+      }
+    },
+    "heute": {
+      "title": "Kava heute",
+      "dritte_welle": {
+        "title": "Die \"Dritte Welle\"",
+        "text": "Heute erleben wir eine <strong>\"Dritte Welle\"</strong> der Kava-Kultur:",
+        "trends": [
+          {
+            "title": "Kava-Bars",
+            "text": "In den USA gibt es mittlerweile hunderte Kava-Bars als alkoholfreie soziale Treffpunkte. Von Florida bis Kalifornien entstehen Orte, an denen Menschen Kava in entspannter Atmosphäre genießen können."
+          },
+          {
+            "title": "Qualitätsbewusstsein",
+            "text": "Der Fokus liegt heute strikt auf \"Noble Kava\" – hochwertigen Edelkava-Sorten, die traditionell angebaut und verarbeitet werden."
+          },
+          {
+            "title": "Wissenschaftliche Anerkennung",
+            "text": "Kava gilt als die einzige botanische Substanz mit Level-1-Evidenz (Cochrane Review) für die Behandlung von Angstzuständen."
+          },
+          {
+            "title": "Kultureller Respekt",
+            "text": "Die neue Kava-Bewegung legt Wert auf Respekt gegenüber den Herkunftskulturen und faire Handelspraktiken."
+          }
+        ]
+      },
+      "today_boxes": [
+        {
+          "title": "In den Herkunftsländern",
+          "text": "Vanuatu, Fiji und Tonga haben Kava zu einem <strong>nationalen Kulturgut</strong> erklärt. Die Regierungen fördern den Export von Qualitäts-Kava und schützen traditionelles Wissen durch Gesetze und internationale Abkommen."
+        },
+        {
+          "title": "In Europa",
+          "text": "Nach aktueller juristischer Einschätzung ist Kava in Deutschland und der EU <strong>kein Novel Food</strong> und damit als Lebensmittel verkehrsfähig. Der Markt wächst langsam, aber stetig."
+        }
+      ],
+      "conclusion": "Die Geschichte von Kava zeigt, wie eine jahrtausendealte Tradition durch westliche Interessen beeinflusst, unterdrückt und schließlich rehabilitiert wurde. Heute steht Kava an einem <strong>Wendepunkt</strong>: Die Pflanze hat das Potenzial, als natürliche Alternative zu synthetischen Beruhigungsmitteln eine wichtige Rolle in der modernen Gesellschaft zu spielen – wenn sie mit dem nötigen Respekt und Qualitätsbewusstsein behandelt wird."
+    }
+  },
+  "navigation": {
+    "next_label": "Weiter zur nächsten Kategorie:",
+    "next_title": "Aktueller Rechtsstatus",
+    "next_description": "Die rechtliche Situation von Kava in Deutschland und weltweit",
+    "next_href": "/rechtsstatus"
+  }
+}

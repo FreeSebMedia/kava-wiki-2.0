@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Chemotyp-Rechner",
+    "subtitle": "Geben Sie einen 6-stelligen Chemotyp ein und erfahren Sie die erwartete Wirkung und Empfehlungen.",
+    "category": "Interaktiv"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "inhaltsstoffe": "Inhaltsstoffe",
+    "current": "Chemotyp-Rechner"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "rechner": "Chemotyp-Rechner",
+    "anleitung": "So funktioniert's",
+    "beispiele": "Beispiel-Chemotypen",
+    "legende": "Kavalacton-Legende"
+  },
+  "rechner": {
+    "title": "Chemotyp eingeben",
+    "subtitle": "6 Ziffern von 1-6, jede genau einmal",
+    "placeholder": "z.B. 426531",
+    "analyzeButton": "Analysieren",
+    "knownVariety": "Bekannte Sorte"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Fokus & Euphorie",
+      "description": "Erhöht Dopamin, fördert Fokus und leichte Euphorie"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Muskelentspannung",
+      "description": "Starke Muskelrelaxation und schmerzlindernde Wirkung"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "CB1-Aktivität",
+      "description": "Wirkt auf das Endocannabinoid-System, leicht stimulierend"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Anxiolytisch",
+      "description": "Hauptwirkstoff für Angstlösung und mentale Klarheit"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Lang sedierend",
+      "description": "Stark sedierend, langsamer Abbau – Tudei-Marker"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Sedierend",
+      "description": "Sedierend und neuroprotektiv"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Ungültig",
+      "description": "Bitte geben Sie einen gültigen 6-stelligen Chemotyp ein (Ziffern 1-6, jede genau einmal)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Dieser Chemotyp weist auf Tudei-Kava hin. DHM (5) an Position 1 oder 2 bedeutet sehr lange Wirkdauer mit möglichen Nebenwirkungen."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Kavain-dominante Sorte mit primär mentaler Wirkung. Ideal für soziale Anlässe und kreative Arbeit."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Ausgewogene Sorte mit Kavain und DHK in den ersten Positionen. Kombiniert mentale Klarheit mit körperlicher Entspannung."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Dihydrokavain-dominante Sorte mit primär körperlicher Wirkung. Ideal für Entspannung und Stressabbau."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Ausgewogene Sorte mit Mischung aus mentaler und körperlicher Wirkung. Vielseitig einsetzbar."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) an prominenter Position – typisch für Tudei-Kava",
+    "tudeiSideEffects": "Mögliche Nebenwirkungen: Übelkeit, langer 'Kater', Benommenheit",
+    "tudeiNotRecommended": "Nicht für regelmäßigen Konsum geeignet",
+    "dhmPosition1": "DHM an Position 1: Sehr starke, lang anhaltende Sedierung",
+    "dhmPosition2": "DHM an Position 2: Erhöhte Sedierung, längere Wirkdauer"
+  },
+  "strengths": {
+    "headyClear": "Klare, fokussierte Wirkung ohne starke Sedierung",
+    "headyMood": "Gute Stimmungsaufhellung und Angstlösung",
+    "headyBeginner": "Ideal für Einsteiger",
+    "headyBalancedBest": "Ideale Kombination aus Kopf- und Körperwirkung",
+    "headyBalancedMental": "Mentale Klarheit mit sanfter Entspannung",
+    "headyBalancedBody": "Leichte Muskelentspannung ohne starke Sedierung",
+    "heavyMuscle": "Starke Muskelentspannung",
+    "heavyPain": "Gute schmerzlindernde Wirkung",
+    "heavyRelax": "Tiefe körperliche Entspannung",
+    "balancedBoth": "Ausgewogene Wirkung auf Körper und Geist",
+    "balancedVersatile": "Vielseitig einsetzbar",
+    "balancedDaily": "Gute Alltagssorte",
+    "methysticinNeuro": "Methysticin prominent: Gute neuroprotektive Eigenschaften",
+    "yangoninStim": "Yangonin prominent: Leicht stimulierende Komponente",
+    "dmyDopamine": "DMY prominent: Verstärkte Dopamin-Wirkung, mehr Euphorie"
+  },
+  "effects": {
+    "headyEffects": [
+      "Mentale Klarheit",
+      "Angstlösung",
+      "Leichte Euphorie"
+    ],
+    "headyBalancedEffects": [
+      "Mentale Klarheit",
+      "Leichte Muskelentspannung",
+      "Stimmungsaufhellung"
+    ],
+    "heavyEffects": [
+      "Muskelrelaxation",
+      "Körperliche Ruhe",
+      "Schlaffördernd"
+    ],
+    "balancedEffects": [
+      "Ausgeglichene Entspannung",
+      "Moderate Angstlösung",
+      "Leichte Muskelentspannung"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Soziale Anlässe",
+      "Kreative Arbeit",
+      "Tagsüber oder früher Abend"
+    ],
+    "headyBalancedUse": [
+      "Vielseitige Anwendung",
+      "Soziale Anlässe mit Entspannung",
+      "Nachmittag bis Abend"
+    ],
+    "heavyUse": [
+      "Abendliche Entspannung",
+      "Nach körperlicher Anstrengung",
+      "Schlafvorbereitung"
+    ],
+    "balancedUse": [
+      "Tägliche Anwendung",
+      "Meditation",
+      "Flexible Nutzung"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalacton-Reihenfolge",
+    "strengthsTitle": "Stärken dieses Chemotyps",
+    "dominantEffects": "Dominante Effekte",
+    "recommendedUseTitle": "Empfohlene Anwendung"
+  },
+  "anleitung": {
+    "title": "So funktioniert's",
+    "paragraph1": "Der Chemotyp ist ein 6-stelliger Code, der die sechs Haupt-Kavalactone in absteigender Reihenfolge ihrer Konzentration auflistet. Die erste Ziffer steht für das Kavalacton mit der höchsten Konzentration, die letzte für das mit der niedrigsten.",
+    "rulesTitle": "Die wichtigsten Regeln:",
+    "rules": [
+      {
+        "label": "Position 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava – mentale Wirkung, Fokus, Angstlösung"
+      },
+      {
+        "label": "Position 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – körperliche Wirkung, Muskelentspannung"
+      },
+      {
+        "label": "Position 1 oder 2 = 5 (DHM)",
+        "text": "⚠️ Tudei-Kava – sehr lange Wirkung, mögliche Nebenwirkungen"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Beispiel-Chemotypen",
+    "intro": "Klicken Sie auf einen Beispiel-Chemotyp, um ihn zu analysieren:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalacton-Legende",
+    "intro": "Übersicht aller sechs Haupt-Kavalactone und ihrer Wirkungen:"
+  },
+  "hint": {
+    "title": "Hinweis:",
+    "text": "Diese Analyse basiert auf allgemeinen Richtlinien. Die tatsächliche Wirkung kann je nach Qualität, Zubereitung und individueller Empfindlichkeit variieren. Für detaillierte Informationen besuchen Sie unsere Seite zum",
+    "linkText": "Chemotyp-System"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Příprava & Použití",
+    "subtitle": "Od prášku k nápoji: Jak správně připravit Kavu, aby se dosáhlo maximálního účinku a nejlepší chuti.",
+    "category": "Příprava"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "current": "Příprava"
+  },
+  "toc": {
+    "title": "Obsah",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Základy extrakce",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Tradiční metoda (hnětení)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Metoda mixéru (blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Metoda shakeru (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instantní & Mikronizované",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Profesionální tipy pro nejlepší účinek",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kavalaktony jsou <strong>neve vodě rozpustné</strong>, ale rozpustné v tucích. Mechanicky se však přichytávají na škrobových částečkách kořene.",
+      "text": "Cílem každé přípravy je proto uvolnit tyto částice mechanickou silou (hnětením, mixováním) z rostlinných vláken a emulgovat je ve vodě. Čistá \"příprava čaje\" (pouze zalití horkou vodou) u Kavy <strong>nefunguje</strong> efektivně!"
+    },
+    "traditionell": {
+      "title": "Tradiční metoda (hnětení)",
+      "intro": "Toto je nejlepší metoda pro maximální sílu a autentický zážitek.",
+      "materialsTitle": "Co potřebujete:",
+      "materials": [
+        "Kava kořenový prášek (střední mletí)",
+        "Filtrační sáček (sáček na ořechové mléko, 75-100 mikronů)",
+        "Mísu s teplou (ne vařící!) vodou",
+        "Volitelně: Špetka mléka nebo kokosového mléka (tuk pomáhá při extrakci)"
+      ],
+      "instructionsTitle": "Pokyny:",
+      "instructions": [
+        "Dejte prášek do filtračního sáčku (cca 30-40g na 500ml vody).",
+        "Ponořte sáček do vody a nechte ho chvíli namočit.",
+        "<strong>Hnětení a vymačkávání:</strong> Hněťte sáček pod vodou důkladně po dobu 10-15 minut. Opakovaně ho vymačkejte. Voda by se měla zbarvit do mléčně hnědé (\"Grog\").",
+        "Poslední vymačkání sáčku.",
+        "Podávejte Kavu v miskách (Shells). Pijte rychle (\"Chug\"), ne usrkávejte!"
+      ]
+    },
+    "blender": {
+      "title": "Metoda mixéru (blender)",
+      "intro": "Rychlejší a často silnější, ale chuť může být o něco hořčí, protože se rozdrtí více rostlinných látek.",
+      "instructions": [
+        "Do stolního mixéru dejte vodu, Kava prášek a lžičku oleje/tuku.",
+        "Mixujte na vysoké rychlosti po dobu 3-4 minut.",
+        "Tekutinu přeceďte přes filtrační sáček nebo jemné síto do mísy.",
+        "Rostlinné zbytky v filtru dobře vymačkejte."
+      ]
+    },
+    "shaker": {
+      "title": "Metoda shakeru (Aluball)",
+      "intro": "Nejmodernější a nejrychlejší metoda, ideální na cesty.",
+      "text": "Používají se speciální shaker lahve s kuličkou (Aluball), která obsahuje kovové síto.",
+      "instructions": [
+        "Naplnit kuličku Kava.",
+        "Naplnit láhev vodou.",
+        "Kuličku vložte a 1-2 minuty důkladně protřepejte.",
+        "Hotovo!"
+      ],
+      "note": "Poznámka: Tato metoda je často o něco méně účinná než tradiční hnětení, ale velmi pohodlná."
+    },
+    "instant": {
+      "title": "Instantní & Mikronizované",
+      "intro": "Pro všechny, kteří nechtějí žádné úsilí.",
+      "items": [
+        {
+          "name": "Instantní Kava",
+          "description": "Dehydrovaná \"Zelená Kava šťáva\". Velmi silná, velmi drahá, okamžitě se rozpouští ve vodě. \"Královská třída.\""
+        },
+        {
+          "name": "Mikronizovaná Kava",
+          "description": "Extrémně jemně mletý kořenový prášek, ze kterého byly odstraněny hrubé vlákna. Pije se jednoduše. Může u citlivých žaludků způsobit spíše nevolnost než filtrovaná Kava."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Profesionální tipy pro nejlepší účinek",
+      "alert": {
+        "title": "Zlaté pravidlo",
+        "text": "Pijte Kavu vždy na <strong>prázdný žaludek</strong> (alespoň 3-4 hodiny po posledním jídle). Jinak je účinek výrazně slabší!"
+      },
+      "tips": [
+        {
+          "name": "Reverzní tolerance",
+          "text": "Mnoho lidí při prvním pokusu cítí málo. Tělo si musí nejprve \"zvyknout\" na kavalaktony. Pijte to několik dní po sobě."
+        },
+        {
+          "name": "\"Chaser\"",
+          "text": "Kava chutná zemitě a hořce. Mějte po ruce kousek ovoce (ananas, pomeranč), abyste hned po vypití kousli."
+        },
+        {
+          "name": "Zdroje tuku",
+          "text": "Po Kava sezení snězte malé, tučné jídlo (např. pizzu, kari). To může vyvolat druhou vlnu účinku."
+        }
+      ]
+    }
+  }
+}

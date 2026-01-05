@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Sikkerhed & Sundhed",
+    "subtitle": "Fakta i stedet for myter: Et videnskabeligt blik på hepatotoksicitet, bivirkninger og sikker forbrug.",
+    "category": "Sikkerhed"
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Videnskabelig konsensus",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Kapiteloversigt",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Leverens sikkerhed",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interaktioner",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Kontraindikationer",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Dosering anbefalinger",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Mulige bivirkninger",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Sikkerhedscheckliste",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Aktuel videnskabelig konsensus",
+    "intro": "Efter omfattende analyser fra <strong>WHO</strong>, <strong>EMA</strong> og uafhængige forskere:",
+    "points": [
+      "Traditionelt tilberedt Kava fra Noble-sorter er ved korrekt anvendelse <strong>sikkert</strong>",
+      "Alvorlige leverskader er <strong>ekstremt sjældne</strong> (estimeret incidens: 1:60.000 til 1:1.000.000)",
+      "EU-forbuddet fra 2002 er blevet vurderet som <strong>uforholdsmæssigt</strong> af tyske domstole",
+      "Risici opstår primært på grund af <strong>kvalitetsmangler</strong>, <strong>forkerte plantedele</strong> eller <strong>blandingsforbrug</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Kapiteloversigt: Sikkerhed i detaljer",
+    "intro": "Dette kapitel giver en omfattende, videnskabeligt baseret analyse af alle sikkerhedsrelevante aspekter af Kava. Klik på undersiderne for detaljerede oplysninger:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Leverens sikkerhed & hepatotoksicitet",
+        "href": "/de/sicherheit/leber",
+        "description": "Den videnskabelige sandhed om forbuddet fra 2002, WHO- og EMA-vurderinger, risikofaktorer og praktiske anbefalinger.",
+        "highlights": [
+          "WHO-vurdering 2007",
+          "EMA-rapport 2017",
+          "Domstolsafgørelser",
+          "Risikofaktorer"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interaktioner med medicin",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalactoner hæmmer CYP450-enzymer: Fuldstændig oversigt over højrisiko-kombinationer og moderate interaktioner.",
+        "highlights": [
+          "CYP450-system",
+          "Højrisiko-kombinationer",
+          "Interaktionstabel",
+          "Praktiske tips"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Kontraindikationer",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Hvornår Kava ikke bør anvendes: Absolutte og relative kontraindikationer for sikker håndtering.",
+        "highlights": [
+          "Leversygdomme",
+          "Graviditet",
+          "Parkinson",
+          "Beslutningshjælp"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Dosering anbefalinger",
+    "intro": "Den optimale dosis afhænger i høj grad af den individuelle tolerance (\"Reverse Tolerance\") og Kava-sorten. Start altid med lavere doser.",
+    "boxTitle": "Retningslinjer for Kavalactoner",
+    "medical": {
+      "title": "Medicinsk (angst)",
+      "value": "60–240 mg",
+      "unit": "Kavalactoner pr. dag"
+    },
+    "traditional": {
+      "title": "Traditionelt / Rekreativt",
+      "value": "250–500 mg",
+      "unit": "Kavalactoner pr. session"
+    },
+    "tableTitle": "Tilberedning med rodpulver (Medium Grind)",
+    "table": {
+      "headers": {
+        "level": "Erfaringsniveau",
+        "amount": "Mængde",
+        "water": "Vand"
+      },
+      "rows": [
+        {
+          "level": "Begynder",
+          "amount": "2-3 spsk (ca. 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Øvede",
+          "amount": "4-6 spsk (ca. 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Mulige bivirkninger",
+    "intro": "Selvom Kava er sikkert ved korrekt anvendelse, kan der opstå bivirkninger, især ved overdreven forbrug.",
+    "frequent": {
+      "title": "Hyppige (dosisafhængige)",
+      "items": [
+        {
+          "label": "Træthed:",
+          "value": "Især ved \"Heavy\"-sorter"
+        },
+        {
+          "label": "Kvalme:",
+          "value": "Ved høje doser på tom mave"
+        },
+        {
+          "label": "Dehydrering:",
+          "value": "Kava virker diuretisk"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Ved kronisk forbrug",
+      "items": [
+        {
+          "label": "Kava-dermatopati:",
+          "value": "Tør, skællende hud (reversibel)"
+        },
+        {
+          "label": "GGT-forhøjelse:",
+          "value": "Leverenzymer stiger let (reversibel)"
+        },
+        {
+          "label": "Vægttab:",
+          "value": "Ved meget højt forbrug"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Sikkerhedscheckliste",
+    "boxTitle": "For sikkert Kava-forbrug",
+    "items": [
+      "<strong>Kun Noble-Kava</strong> fra pålidelige kilder",
+      "<strong>Kun rod/rhizom</strong> – ingen blade eller stængler",
+      "<strong>Foretræk traditionel vandig tilberedning</strong>",
+      "<strong>Ingen alkohol</strong> – mindst 24 timers afstand"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Medicincheck</strong> – ",
+        "linkText": "Tjek interaktioner",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Vær opmærksom på kontraindikationer</strong> – ",
+        "linkText": "Se checkliste",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Vær opmærksom på advarselssignaler",
+      "text": "Ved gulfarvning af hud/øjne, mørk urin, lys afføring eller usædvanlig træthed, stop straks forbruget og kontakt en læge."
+    }
+  },
+  "quickLinks": {
+    "title": "Detaljerede oplysninger",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Leverens sikkerhed",
+        "description": "Hepatotoksicitet & forbuddet 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interaktioner",
+        "description": "Medicin & CYP450-interaktioner",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Kontraindikationer",
+        "description": "Hvornår Kava bør undgås",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "page": {
+    "title": "Účinky & Efekty",
+    "subtitle": "Jak se Kava cítí? Podrobný popis psychických a fyzických účinků.",
+    "category": "Účinky"
+  },
+  "toc": {
+    "title": "Obsah",
+    "neurobiologie": "Neurobiologické mechanismy",
+    "psyche": "Psychické účinky",
+    "koerper": "Fyzické účinky",
+    "wirkungstypen": "Heady, Heavy & Balanced",
+    "dauer": "Délka & Průběh",
+    "unterseiten": "Podrobné informace"
+  },
+  "intro": {
+    "paragraph1": "Kava je často označována jako \"přírodní benzodiazepin\", ale toto srovnání je zavádějící. Zatímco má silné anxiolytické a relaxační účinky, udržuje mysl jasnou a soustředěnou na rozdíl od alkoholu nebo farmaceutických sedativ.",
+    "paragraph2": "Tento stav je často popisován jako \"aktivní relaxace\": cítíte se klidně a spokojeně, ale jste plně akční a sociálně otevření."
+  },
+  "neurobiologie": {
+    "title": "Neurobiologické mechanismy",
+    "intro": "Účinky Kavy jsou založeny na složité interakci různých mechanismů v mozku:",
+    "mechanisms": [
+      {
+        "title": "Modulace GABA receptorů",
+        "description": "Kavalactony se vážou na GABA-A receptory (podobně jako Valium), ale na jiném vazebném místě. To zesiluje účinek tělu vlastního neurotransmiteru GABA, což vede k relaxaci a úlevě od úzkosti."
+      },
+      {
+        "title": "Blokáda sodíkových a vápenatých kanálů",
+        "description": "To snižuje vzrušivost nervových buněk a je zodpovědné za uvolnění svalů a antikonvulzivní (proti křečím) účinky."
+      },
+      {
+        "title": "Inhibice MAO-B",
+        "description": "Některé kavalactony inhibují enzym monoaminooxidázu-B, což zpomaluje rozklad dopaminu. To vysvětluje mírně euforické a náladu zlepšující účinky."
+      },
+      {
+        "title": "Inhibice zpětného vychytávání noradrenalinu",
+        "description": "Přispívá k podpoře koncentrace, aniž by vyvolávala nervozitu."
+      }
+    ]
+  },
+  "psyche": {
+    "title": "Psychické účinky",
+    "positiv": {
+      "title": "Pozitivní",
+      "items": [
+        "Silná úleva od úzkosti (anxiolýza)",
+        "Zlepšení nálady a euforie",
+        "Zvýšená sociabilita a hovornost",
+        "Mentální jasnost a soustředění",
+        "Redukce stresu a klid",
+        "Trpělivost a akceptace"
+      ]
+    },
+    "neutral": {
+      "title": "Neutrální / Negativní (při předávkování)",
+      "items": [
+        "Únava (u silných odrůd)",
+        "Lhostejnost",
+        "Lehké poruchy koordinace",
+        "Nevolnost (Kava nevolnost)"
+      ]
+    }
+  },
+  "koerper": {
+    "title": "Fyzické účinky",
+    "paragraph1": "Prvním znakem dobrého účinku Kavy je často <strong>necitlivost v ústech</strong> (lokální anestetický efekt kavalactonů).",
+    "paragraph2": "Následuje vlna relaxace, která často začíná v končetinách. Svalové napětí se uvolňuje, tělo se cítí \"těžké\" a příjemné. Bolesti (např. bolesti zad) mohou být zmírněny."
+  },
+  "wirkungstypen": {
+    "title": "Heady, Heavy & Balanced",
+    "intro": "Ne každá Kava má stejný účinek. V závislosti na chemotypu se rozlišují tři hlavní kategorie:",
+    "types": [
+      {
+        "name": "Heady",
+        "label": "Hlavově zaměřená & Sociální",
+        "description": "Dominováno kavainem. Působí na zlepšení nálady, euforii a hovornost. Ideální pro denní dobu nebo společenské akce. Způsobuje minimální únavu.",
+        "examples": "Pouni Ono (Tonga), Kelai (Vanuatu), Moi (Hawaii)"
+      },
+      {
+        "name": "Heavy",
+        "label": "Tělesně zaměřená & Sedativní",
+        "description": "Dominováno dihydrokavainem a methysticinem. Působí silně uvolňující a podporující spánek. Tělo se cítí těžké (\"Couch-Lock\"). Ideální na večer.",
+        "examples": "Borogu (Vanuatu), Ambae (Vanuatu)"
+      },
+      {
+        "name": "Balanced",
+        "label": "Vyvážená",
+        "description": "Směs obojího. Často začíná jako \"Heady\" a poté přechází do tělesné relaxace.",
+        "examples": "Melo Melo (Vanuatu), Loa Waka (Fiji)"
+      }
+    ]
+  },
+  "dauer": {
+    "title": "Délka & Průběh",
+    "items": [
+      {
+        "label": "Nástup",
+        "value": "10-20 minut po užití (na lačno)."
+      },
+      {
+        "label": "Vrchol",
+        "value": "Po cca 30-60 minutách."
+      },
+      {
+        "label": "Délka",
+        "value": "Hlavní účinek trvá cca 2-3 hodiny. Subtilní relaxace (\"Afterglow\") může trvat až 6-8 hodin."
+      },
+      {
+        "label": "Spánek",
+        "value": "Kava podporuje hluboký, osvěžující spánek bez \"kocoviny\" následující ráno. Mnoho uživatelů hlásí zvlášť svěží probuzení."
+      }
+    ]
+  },
+  "subpages": {
+    "title": "Podrobné informace",
+    "intro": "Klikněte na následující karty, abyste se dozvěděli více o jednotlivých oblastech účinků – se vědeckými pozadími, doporučenými chemotypy a praktickými tipy na použití.",
+    "angst": {
+      "title": "Úleva od úzkosti",
+      "description": "Jak Kava zmírňuje úzkosti a působí jako přírodní anxiolytikum"
+    },
+    "schlaf": {
+      "title": "Spánek & Relaxace",
+      "description": "Sedativní účinky a použití při poruchách spánku"
+    },
+    "muskel": {
+      "title": "Uvolnění svalů",
+      "description": "Fyzická relaxace a úleva od napětí"
+    },
+    "stimmung": {
+      "title": "Nálada & Sociální",
+      "description": "Euforické účinky a sociální účinek Kavy"
+    },
+    "kognition": {
+      "title": "Kognitivní účinky",
+      "description": "Soustředění, mentální jasnost a fenomén reverzní tolerance"
+    }
+  }
+}

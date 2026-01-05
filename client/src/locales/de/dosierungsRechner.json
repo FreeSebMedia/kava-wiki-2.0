@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Dosierungsrechner",
+    "subtitle": "Berechnen Sie Ihre optimale Kava-Dosierung basierend auf Sorte, Erfahrung und Zubereitungsmethode.",
+    "category": "Zubereitung"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "zubereitung": "Zubereitung",
+    "current": "Dosierungsrechner"
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      { "id": "rechner", "title": "Dosierungsrechner", "level": 1 },
+      { "id": "ergebnis", "title": "Ihre Empfehlung", "level": 1 },
+      { "id": "hinweise", "title": "Wichtige Hinweise", "level": 1 },
+      { "id": "faktoren", "title": "Einflussfaktoren", "level": 1 }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Kava-Sorte auswählen",
+    "selectStrainPlaceholder": "-- Sorte wählen --",
+    "potency": "Potenz",
+    "experienceLevel": "Erfahrungslevel",
+    "experienceLevels": {
+      "beginner": { "label": "Einsteiger", "desc": "Erste Wochen" },
+      "regular": { "label": "Regulär", "desc": "Mehrere Monate" },
+      "experienced": { "label": "Erfahren", "desc": "1+ Jahre" }
+    },
+    "prepMethod": "Zubereitungsmethode",
+    "methods": {
+      "traditional": { "label": "Traditionell", "desc": "Kneten" },
+      "blender": { "label": "Blender", "desc": "Mixer" },
+      "instant": { "label": "Instant", "desc": "Micronized" }
+    },
+    "bodyWeight": "Körpergewicht",
+    "kg": "kg",
+    "calculate": "Dosierung berechnen",
+    "instantPowder": "Instant Pulver",
+    "mediumGrind": "Medium Grind Pulver",
+    "water": "Wasser",
+    "kavalactones": "Kavalactone (geschätzt)",
+    "prepTime": "Zubereitungszeit",
+    "min": "Min",
+    "toPrepGuide": "Zur Zubereitungsanleitung"
+  },
+  "results": {
+    "title": "Ihre persönliche Empfehlung",
+    "bestTime": {
+      "title": "Beste Nutzungszeit",
+      "heady": "Tagsüber, für soziale Anlässe oder kreative Aktivitäten",
+      "heavy": "Abends, zur Entspannung oder vor dem Schlafengehen",
+      "balanced": "Flexibel, zu jeder Tageszeit geeignet"
+    },
+    "tip": {
+      "title": "Tipp für diese Sorte",
+      "default": "Genießen Sie diese Sorte auf nüchternen Magen für beste Wirkung."
+    }
+  },
+  "notes": {
+    "title": "Wichtige Hinweise",
+    "safety": {
+      "title": "Allgemeine Sicherheitshinweise",
+      "items": [
+        "Trinken Sie Kava immer auf <strong>nüchternen Magen</strong> (3-4h nach dem Essen)",
+        "Beginnen Sie mit der <strong>niedrigeren Dosierung</strong> und steigern Sie langsam",
+        "<strong>Reverse Tolerance:</strong> Die ersten Male kann die Wirkung schwächer sein",
+        "Kombinieren Sie Kava <strong>niemals mit Alkohol</strong> oder Medikamenten",
+        "Bei Lebererkrankungen oder Schwangerschaft: <strong>Kein Kava</strong>"
+      ]
+    },
+    "about": {
+      "title": "Über diesen Rechner",
+      "text": "Die berechneten Werte sind <strong>Richtwerte</strong> basierend auf durchschnittlichen Kavalacton-Gehalten und Erfahrungswerten. Die tatsächliche Wirkung kann je nach individueller Empfindlichkeit, Charge und Hersteller variieren."
+    }
+  },
+  "factors": {
+    "title": "Einflussfaktoren auf die Dosierung",
+    "items": [
+      {
+        "title": "Potenz der Sorte",
+        "text": "Verschiedene Sorten haben unterschiedliche Kavalacton-Gehalte. Eine 5-Sterne-Sorte wie Loa Waka benötigt weniger Pulver als eine mildere 3-Sterne-Sorte wie Pouni Ono."
+      },
+      {
+        "title": "Körpergewicht",
+        "text": "Schwerere Personen benötigen in der Regel mehr Kava für die gleiche Wirkung. Der Rechner passt die Empfehlung entsprechend an."
+      },
+      {
+        "title": "Zubereitungsmethode",
+        "text": "Instant/Micronized Kava ist konzentrierter als Medium Grind. Die Blender-Methode extrahiert etwas effizienter als traditionelles Kneten."
+      },
+      {
+        "title": "Erfahrungslevel",
+        "text": "Durch \"Reverse Tolerance\" benötigen erfahrene Nutzer oft weniger Kava für die gleiche Wirkung. Einsteiger sollten mit niedrigen Dosen beginnen."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Zubereitungsanleitungen",
+    "traditional": {
+      "title": "Traditionelle Methode",
+      "time": "20-25 Min",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Blender-Methode",
+      "time": "8-10 Min",
+      "href": "/de/zubereitung/blender"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "time": "30 Sek",
+      "href": "/de/zubereitung/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Gilt als einer der besten Heady Kavas weltweit. Begrenzte Verfügbarkeit.",
+    "borogu": "Der am häufigsten getrunkene Kava in Vanuatu. Sehr zuverlässig.",
+    "pouni-ono": "Sehr beliebter Einsteiger-Kava mit konsistenter Qualität.",
+    "moi": "Einer der seltensten und teuersten Kavas. Traditionell für hawaiianische Zeremonien.",
+    "melo-melo": "Sehr beliebter Einsteiger-Kava mit starker anxiolytischer Wirkung.",
+    "bir-kar": "Bekannt für seine Stärke und Zuverlässigkeit.",
+    "palasa": "Nicht für Einsteiger empfohlen. Sehr potent.",
+    "loa-waka": "Einer der stärksten kommerziell erhältlichen Kavas.",
+    "hiwa": "Traditionell nur für zeremonielle Zwecke verwendet. Sehr selten.",
+    "vula-waka": "Beliebter Allrounder aus Fiji.",
+    "silese": "Eine der euphorischsten Sorten überhaupt.",
+    "palarasul": "Guter Einstieg in Heavy Kavas."
+  }
+}

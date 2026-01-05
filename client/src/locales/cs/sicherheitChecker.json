@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Kontroler interakcí",
+    "subtitle": "Zkontrolujte potenciální interakce mezi vašimi léky a Kava",
+    "category": "Bezpečnost",
+    "breadcrumbs": {
+      "home": "Domov",
+      "sicherheit": "Bezpečnost",
+      "wechselwirkungen": "Interakce",
+      "current": "Kontroler interakcí"
+    }
+  },
+  "toc": {
+    "title": "Obsah",
+    "checker": "Kontroler interakcí",
+    "anleitung": "Návod",
+    "kategorien": "Kategorie rizika",
+    "haeufige": "Často kontrolované léky",
+    "hinweis": "Důležitá poznámka"
+  },
+  "ui": {
+    "disclaimerTitle": "Důležitá poznámka",
+    "disclaimerText": "Tento kontroler slouží pouze k informativním účelům a nenahrazuje lékařské poradenství. V případě nejistoty nebo pokud užíváte léky na předpis, vždy se poraďte s lékařem nebo lékárníkem.",
+    "inputTitle": "Zadejte léky",
+    "inputDescription": "Zadejte názvy svých léků (účinná látka nebo obchodní název)",
+    "placeholder": "např. Diazepam, Ibuprofen, Sertralin...",
+    "selectedMeds": "Vybrané léky:",
+    "checkButton": "Zkontrolovat interakce",
+    "commonCategories": "Časté skupiny léků",
+    "overallAssessment": "Celkové hodnocení",
+    "detailedAnalysis": "Podrobná analýza",
+    "category": "Kategorie",
+    "mechanism": "Mechanismus",
+    "affectedEnzymes": "Ovlivněné CYP enzymy",
+    "recommendation": "Doporučení",
+    "newCheck": "Nová kontrola",
+    "moreAbout": "Více o interakcích",
+    "moreInfo": "Další informace",
+    "liverSafety": "Bezpečnost jater a hepatotoxicita",
+    "contraindications": "Kontraindikace",
+    "safetyOverview": "Přehled bezpečnosti a zdraví",
+    "studies": "Vědecké studie"
+  },
+  "intro": {
+    "title": "Kontrola léků",
+    "text": "Zadejte název svého léku nebo účinné látky, abyste zkontrolovali možné interakce s Kava."
+  },
+  "search": {
+    "placeholder": "Zadejte lék nebo účinnou látku...",
+    "button": "Zkontrolovat",
+    "noResults": "Žádný lék s tímto názvem nebyl nalezen. Zkontrolujte prosím pravopis nebo se poraďte s lékařem."
+  },
+  "result": {
+    "risk": "Úroveň rizika",
+    "mechanism": "Mechanismus",
+    "recommendation": "Doporučení",
+    "alternatives": "Možné alternativy"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "VELMI VYSOKÉ RIZIKO",
+      "description": "Striktně kontraindikováno - kombinaci nikdy nepoužívejte"
+    },
+    "high": {
+      "label": "VYSOKÉ RIZIKO",
+      "description": "Kombinaci se vyhněte - možné značné zdravotní rizika"
+    },
+    "moderate": {
+      "label": "STŘEDNÍ RIZIKO",
+      "description": "Opatrnost je na místě - pouze pod lékařským dohledem"
+    },
+    "low": {
+      "label": "NÍZKÉ RIZIKO",
+      "description": "Pravděpodobně bezpečné při běžném užívání"
+    },
+    "none": {
+      "label": "ŽÁDNÉ ZNÁMÉ RIZIKO",
+      "description": "Žádné známé interakce nejsou zdokumentovány"
+    }
+  },
+  "anleitung": {
+    "title": "Jak používat kontroler",
+    "steps": [
+      "Zadejte název svého léku nebo účinné látky",
+      "Klikněte na \"Zkontrolovat\" nebo stiskněte Enter",
+      "Přečtěte si hodnocení rizika a doporučení",
+      "V případě pochybností se vždy poraďte s lékařem nebo lékárníkem"
+    ]
+  },
+  "kategorien": {
+    "title": "Vysvětlení kategorií rizika",
+    "high": {
+      "title": "Vysoké riziko",
+      "text": "Kombinaci by se mělo za všech okolností vyhnout. Možné závažné vedlejší účinky."
+    },
+    "moderate": {
+      "title": "Střední riziko",
+      "text": "Kombinaci pouze pod lékařským dohledem. Úprava dávky může být nutná."
+    },
+    "low": {
+      "title": "Nízké riziko",
+      "text": "Kombinace pravděpodobně bezpečná, ale je třeba brát v úvahu individuální reakce."
+    },
+    "unknown": {
+      "title": "Neznámé",
+      "text": "Není k dispozici dostatek dat. Doporučuje se opatrnost."
+    }
+  },
+  "haeufige": {
+    "title": "Často kontrolované léky",
+    "clickToCheck": "Klikněte na lék, abyste ho zkontrolovali:"
+  },
+  "hinweis": {
+    "title": "Důležitá poznámka",
+    "text": "Tento kontroler slouží pouze k obecným informacím a nenahrazuje lékařské poradenství. Databáze není úplná a je průběžně aktualizována. V případě nejistoty se vždy poraďte s lékařem nebo lékárníkem.",
+    "disclaimer": "Informace vycházejí z vědecké literatury a známých interakčních mechanismů. Individuální reakce se mohou lišit."
+  },
+  "navigation": {
+    "continueTitle": "Pokračovat v kapitole Bezpečnost",
+    "items": [
+      {
+        "title": "Přehled",
+        "href": "/cs/bezpecnost",
+        "description": "Zpět na přehled bezpečnosti"
+      },
+      {
+        "title": "Interakce",
+        "href": "/cs/bezpecnost/interakce",
+        "description": "Podrobné informace o interakcích"
+      },
+      {
+        "title": "Kontraindikace",
+        "href": "/cs/bezpecnost/kontraindikace",
+        "description": "Kdy by Kava neměla být používána"
+      }
+    ]
+  }
+}

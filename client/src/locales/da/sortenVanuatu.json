@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "Sorter fra Vanuatu",
+    "subtitle": "Over 80 Kava-sorter fra plantens hjemland: Fra Borogu til Kelai, fra Heavy til Heady.",
+    "category": "Sorter",
+    "breadcrumb": {
+      "home": "Hjemmeside",
+      "sorten": "Sorter",
+      "current": "Vanuatu"
+    }
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Vanuatu – Kavas hjemland",
+        "level": 1
+      },
+      {
+        "id": "borogu",
+        "title": "Borogu",
+        "level": 1
+      },
+      {
+        "id": "melo-melo",
+        "title": "Melo Melo",
+        "level": 1
+      },
+      {
+        "id": "kelai",
+        "title": "Kelai",
+        "level": 1
+      },
+      {
+        "id": "palasa",
+        "title": "Palasa",
+        "level": 1
+      },
+      {
+        "id": "palarasul",
+        "title": "Palarasul",
+        "level": 1
+      },
+      {
+        "id": "bir-kar",
+        "title": "Bir Kar",
+        "level": 1
+      },
+      {
+        "id": "weitere",
+        "title": "Andre sorter",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Oprindelse",
+    "chemotype": "Kemotype",
+    "duration": "Virkningsvarighed",
+    "hours": "Timer",
+    "effectProfile": "Virkningsprofil",
+    "recommendedFor": "Anbefalet til",
+    "tip": "Tip",
+    "note": "Bemærkning",
+    "variety": "Sort",
+    "type": "Type",
+    "characteristic": "Egenskab",
+    "popular": "Populær",
+    "legendary": "Legendarisk"
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "<strong>Vanuatu</strong> er den formodede oprindelse af Kava og huser med over 80 dokumenterede sorter den største mangfoldighed i verden. Mange af disse sorter er unikke for bestemte øer i øgruppen og er blevet dyrket af lokale samfund i århundreder.",
+      "text": "Mangfoldigheden i Vanuatu forklares ved de isolerede placeringer af de enkelte øer og den lange tradition for vegetativ formering. Da Kava ikke producerer frø, har hver ø udviklet sine egne kultivarer, tilpasset lokale jorde, klima og kulturelle præferencer. I dag eksporterer Vanuatu størstedelen af den Kava, der forbruges verden over, og har etableret strenge kvalitetsstandarder, der forbyder eksport af Tudei-sorter.",
+      "localNames": "<strong>Lokale navne:</strong> I Vanuatu kaldes Kava forskelligt afhængigt af ø og sprog: <em>Kava</em>, <em>Malok</em>, <em>Malogu</em> eller <em>Nakamal</em> (sidstnævnte refererer også til de traditionelle Kava-barer)."
+    },
+    "borogu": {
+      "name": "Borogu",
+      "badge": "Heady / Balanced",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 timer",
+      "description1": "<strong>Borogu</strong> (også kaldet \"Gorgor\") er Vanuatus \"folks Kava\" og en af de mest udbredte sorter i verden. Den stammer oprindeligt fra øen Pentecost og er standarden i mange Nakamals (traditionelle Kava-barer) i Port Vila.",
+      "description2": "Kemotypen 243516 viser en afbalanceret blanding med DHK i første position, hvilket er ansvarligt for den kropsbetonede, afslappende virkning. Kavain i anden position sikrer mental klarhed.",
+      "effects": [
+        "<strong>Kropsafslapning:</strong> Udpræget muskelafslapning, ideel efter en lang dag",
+        "<strong>Mentalt rolig:</strong> Beroliger sindet uden at gøre det sløret",
+        "<strong>Sklaffremmende:</strong> God til aftenen, fremmer en god søvn",
+        "<strong>Pålidelig:</strong> Konsistent virkning, lidt batch-variation"
+      ],
+      "recommendedFor": "Begyndere, aftenforbrug, <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">muskelafslapning</a>, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">søvnfremme</a>"
+    },
+    "meloMelo": {
+      "name": "Melo Melo",
+      "badge": "Balanced",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 timer",
+      "description1": "<strong>Melo Melo</strong> skylder sit navn sin \"mellow\" (bløde) virkning. Denne sort fra øen Ambae er kendt for sin usædvanligt afbalancerede virkning, der hverken er for beroligende eller for stimulerende.",
+      "description2": "Kemotypen 243156 viser et harmonisk forhold mellem alle hovedkavalactoner. Dette gør Melo Melo til en af de mest alsidige sorter, der kan nydes både om dagen og om aftenen.",
+      "effects": [
+        "<strong>Afbalanceret:</strong> Perfekt balance mellem hoved- og kropsvirkning",
+        "<strong>Angstlindrende:</strong> Fremragende mod <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">angsttilstande</a> og stress",
+        "<strong>Sosial:</strong> Fremmer selskabelighed uden træthed",
+        "<strong>Blød smag:</strong> Mildere end mange andre sorter"
+      ],
+      "recommendedFor": "Begyndere, <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">angstløsning</a>, sociale anledninger, allrounder",
+      "tip": "Melo Melo er en af de bedste sorter for Kava-begyndere. Den bløde, afbalancerede virkning giver et godt indtryk af, hvad Kava har at tilbyde, uden at overvælde."
+    },
+    "kelai": {
+      "name": "Kelai",
+      "badge": "Heady",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 timer",
+      "description1": "<strong>Kelai</strong> er en legendarisk sort fra øen Epi og betragtes som en af de \"headiest\" (hovedbetonede) Kavas overhovedet. I Kava-fællesskabet sammenlignes den ofte med champagne – elegant, euforisk og med en vis raffinement.",
+      "description2": "Kemotypen 421365 starter med <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a> (4), den kavalacton, der er ansvarlig for mental klarhed og eufori. Den relativt korte virkningsvarighed på 2-3 timer gør Kelai ideel til dagen eller tidlig aften.",
+      "effects": [
+        "<strong>Euforisk:</strong> Udpræget <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">humørforbedrende</a> virkning",
+        "<strong>Mentalt stimulerende:</strong> Fremmer kreativitet og snakkesalighed",
+        "<strong>Kort virkningsvarighed:</strong> Ideel til kontrollerede oplevelser",
+        "<strong>Knapt beroligende:</strong> Gør ikke træt, god til dagen"
+      ],
+      "recommendedFor": "Erfarne brugere, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">sociale anledninger</a>, kreativt arbejde, dagforbrug",
+      "note": "Kelai er ofte dyrere og sværere at finde end andre sorter. Øen Epi producerer kun begrænsede mængder, hvilket kan føre til knaphed."
+    },
+    "palasa": {
+      "name": "Palasa",
+      "badge": "Heavy",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 timer",
+      "description": "<strong>Palasa</strong> fra øen Malakula er en af de mest potente \"Heavy\" Kavas fra Vanuatu. Den er kendt for sin dybe, kropsbetonede virkning og drikkes traditionelt sent om aftenen.",
+      "effects": [
+        "<strong>Stærkt beroligende:</strong> Dyb kropsafslapning",
+        "<strong>Muskelafslappende:</strong> Ideel til <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">muskelspændinger</a>",
+        "<strong>Sklaffremmende:</strong> En af de bedste Kavas til <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">god søvn</a>",
+        "<strong>Langvarig:</strong> Virkningen varer 5-7 timer"
+      ],
+      "recommendedFor": "Aftenforbrug, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">søvnproblemer</a>, <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">muskelafslapning</a>"
+    },
+    "palarasul": {
+      "name": "Palarasul",
+      "badge": "Heavy",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 timer",
+      "description": "<strong>Palarasul</strong> er nært beslægtet med Palasa og stammer også fra Malakula. Navnet betyder \"lille Palasa\" og beskriver en lidt mildere, men stadig kropsbetonet variant.",
+      "effects": [
+        "<strong>Kropsbetonet:</strong> Udpræget fysisk afslapning",
+        "<strong>En smule mildere:</strong> Mindre overvældende end Palasa",
+        "<strong>God start:</strong> Velegnet til Heavy-Kava-novicer"
+      ]
+    },
+    "birKar": {
+      "name": "Bir Kar",
+      "badge": "Balanced",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 timer",
+      "description": "<strong>Bir Kar</strong> (også skrevet \"Birkar\") er en afbalanceret sort fra Malakula med et interessant virkningsprofil. Navnet betyder \"stærk Kava\" på det lokale sprog.",
+      "effects": [
+        "<strong>Afbalanceret:</strong> God balance mellem hoved og krop",
+        "<strong>Potent:</strong> På trods af \"Balanced\"-klassificeringen ret stærk",
+        "<strong>Alsidig:</strong> Velegnet til dag og aften"
+      ]
+    },
+    "weitere": {
+      "title": "Andre sorter fra Vanuatu",
+      "intro": "Udover de ovenfor beskrevne hovedsorter findes der i Vanuatu dusinvis af andre Noble-kultivarer. Her er et udvalg:",
+      "tableHeaders": {
+        "variety": "Sort",
+        "origin": "Oprindelse",
+        "type": "Type",
+        "characteristic": "Egenskab"
+      },
+      "tableRows": [
+        {
+          "variety": "Ambae",
+          "origin": "Ambae",
+          "type": "Heavy",
+          "characteristic": "Meget beroligende, til søvn"
+        },
+        {
+          "variety": "Pia",
+          "origin": "Pentecost",
+          "type": "Balanced",
+          "characteristic": "Mild, god til begyndere"
+        },
+        {
+          "variety": "Silese",
+          "origin": "Pentecost",
+          "type": "Heady",
+          "characteristic": "Euforisk, sjælden"
+        },
+        {
+          "variety": "Melmel",
+          "origin": "Diverse",
+          "type": "Balanced",
+          "characteristic": "Ligner Melo Melo"
+        },
+        {
+          "variety": "Poivota",
+          "origin": "Tanna",
+          "type": "Heavy",
+          "characteristic": "Traditionel, ceremoniel"
+        },
+        {
+          "variety": "Ahouia",
+          "origin": "Diverse",
+          "type": "Balanced",
+          "characteristic": "Mild, behagelig"
+        }
+      ],
+      "profilesLink": "Alle sorterprofiler i detaljer"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Fortsæt i kapitlet om sorter:",
+    "next": {
+      "title": "Sorter fra Fiji, Tonga & Hawaii",
+      "description": "Regionale specialiteter: Loa Waka, Pouni Ono, 'Awa Moi og deres unikke egenskaber",
+      "href": "/de/sorten/pazifik"
+    }
+  }
+}

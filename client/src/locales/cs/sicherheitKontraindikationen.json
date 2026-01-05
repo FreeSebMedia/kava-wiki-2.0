@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Kontraindikace",
+    "subtitle": "Kdy by se Kava neměla používat: Absolutní a relativní kontraindikace pro bezpečné používání.",
+    "category": "Bezpečnost",
+    "breadcrumbs": {
+      "home": "Domov",
+      "sicherheit": "Bezpečnost",
+      "current": "Kontraindikace"
+    }
+  },
+  "toc": {
+    "title": "Obsah",
+    "zusammenfassung": "Shrnutí",
+    "absolute": "Absolutní kontraindikace",
+    "leber": "Onemocnění jater",
+    "schwangerschaft": "Těhotenství a kojení",
+    "kinder": "Děti a mladiství",
+    "relative": "Relativní kontraindikace",
+    "parkinson": "Parkinsonova choroba",
+    "depression": "Těžká deprese",
+    "operation": "Před operacemi",
+    "fahren": "Řízení a obsluha strojů",
+    "vorsicht": "Zvláštní opatrnost",
+    "genetik": "Genetické faktory",
+    "alter": "Starší lidé",
+    "entscheidungshilfe": "Pomoc při rozhodování",
+    "quellen": "Zdroje"
+  },
+  "navigation": {
+    "continueTitle": "Pokračovat v kapitole Bezpečnost",
+    "items": [
+      {
+        "title": "Přehled",
+        "href": "/cs/bezpecnost",
+        "description": "Zpět na přehled bezpečnosti"
+      },
+      {
+        "title": "Bezpečnost jater",
+        "href": "/cs/bezpecnost/jatra",
+        "description": "Hepatotoxicita a zákaz z roku 2002"
+      },
+      {
+        "title": "Interakce",
+        "href": "/cs/bezpecnost/interakce",
+        "description": "Léky a interakce CYP450"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Důležitý přehled",
+    "intro": "I když je Kava při správném použití považována za bezpečnou, existují určité situace, kdy se její použití nedoporučuje nebo je kontraindikováno:",
+    "absolut": {
+      "title": "Absolutně kontraindikováno:",
+      "items": [
+        "Onemocnění jater",
+        "Těhotenství a kojení",
+        "Děti mladší 18 let"
+      ]
+    },
+    "relativ": {
+      "title": "Relativní kontraindikace:",
+      "items": [
+        "Parkinsonova choroba",
+        "Těžká deprese",
+        "Před plánovanými operacemi"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Absolutní kontraindikace",
+    "intro": "V následujících stavech by se Kava <strong>za žádných okolností</strong> neměla používat. Riziko jasně převyšuje jakýkoli možný přínos."
+  },
+  "leber": {
+    "title": "Onemocnění jater",
+    "label": "Přísně kontraindikováno",
+    "intro": "Osoby s existujícími onemocněními jater by se měly Kavy zcela vyvarovat:",
+    "items": [
+      {
+        "name": "Hepatitida (A, B, C)",
+        "text": "Aktivní nebo chronický zánět jater"
+      },
+      {
+        "name": "Cirrhóza jater",
+        "text": "Bez ohledu na stadium"
+      },
+      {
+        "name": "Tuková játra",
+        "text": "Alkoholová a nealkoholová tuková jaterní onemocnění"
+      },
+      {
+        "name": "Zvýšené jaterní hodnoty",
+        "text": "Nevysvětlitelné zvýšení ALT, AST, GGT"
+      },
+      {
+        "name": "Minulé poškození jater",
+        "text": "I když je aktuálně normalizováno"
+      }
+    ],
+    "reasonLabel": "Odůvodnění:",
+    "reason": "Játra jsou centrálním orgánem pro metabolismus kavalaktonů. Při omezené funkci jater se mohou metabolity hromadit a zvyšovat riziko dalších poškození."
+  },
+  "schwangerschaft": {
+    "title": "Těhotenství a kojení",
+    "label": "Přísně kontraindikováno",
+    "intro": "Kava by se během těhotenství a kojení neměla používat:",
+    "items": [
+      {
+        "name": "Žádná bezpečnostní data",
+        "text": "Neexistují kontrolované studie o bezpečnosti během těhotenství"
+      },
+      {
+        "name": "Průchod placentou",
+        "text": "Kavalaktony mohou překonat placentární bariéru"
+      },
+      {
+        "name": "Mateřské mléko",
+        "text": "Kavalaktony přecházejí do mateřského mléka"
+      },
+      {
+        "name": "Uvolnění dělohy",
+        "text": "Kavain může uvolnit děložní svalstvo"
+      }
+    ],
+    "traditionLabel": "Tradiční praxe:",
+    "tradition": "V pacifických kulturách se Kava tradičně nekonzumuje těhotnými nebo kojícími ženami."
+  },
+  "kinder": {
+    "title": "Děti a mladiství",
+    "label": "Nedoporučuje se do 18 let",
+    "intro": "Kava by neměla být používána dětmi a mladistvými:",
+    "items": [
+      {
+        "name": "Vývoj",
+        "text": "Účinky na vývoj mozku nebyly zkoumány"
+      },
+      {
+        "name": "Metabolismus",
+        "text": "Děti metabolizují látky jinak než dospělí"
+      },
+      {
+        "name": "Žádné studie",
+        "text": "Žádná klinická data pro tuto věkovou skupinu"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Relativní kontraindikace",
+    "intro": "V následujících stavech je třeba věnovat zvláštní pozornost. Použití může být za určitých okolností možné, mělo by však být prováděno pouze po pečlivém zvážení a ideálně po konzultaci s lékařem."
+  },
+  "parkinson": {
+    "title": "Parkinsonova choroba",
+    "label": "Nedoporučuje se",
+    "intro": "Kava může zhoršit příznaky Parkinsonovy choroby:",
+    "items": [
+      {
+        "name": "Dopaminový antagonismus",
+        "text": "Kava může oslabit dopaminergní účinky"
+      },
+      {
+        "name": "Interakce s levodopou",
+        "text": "Může snížit účinnost levodopy"
+      },
+      {
+        "name": "Případové zprávy",
+        "text": "Zhoršení příznaků při užívání Kavy bylo zdokumentováno"
+      }
+    ],
+    "caseReportLabel": "Případová zpráva:",
+    "caseReport": "Schelosky et al. (1995) hlásili o 45leté ženě s Parkinsonovou chorobou, jejíž příznaky se při užívání Kavy výrazně zhoršily."
+  },
+  "depression": {
+    "title": "Těžká deprese",
+    "label": "Je třeba opatrnosti",
+    "intro": "Při těžké depresi je třeba být opatrný:",
+    "items": [
+      {
+        "name": "Útlum CNS",
+        "text": "Kava může zesílit apatii"
+      },
+      {
+        "name": "Interakce s léky",
+        "text": "Možné interakce s antidepresivy"
+      },
+      {
+        "name": "Samoléčba",
+        "text": "Může zpozdit profesionální léčbu"
+      }
+    ],
+    "noteLabel": "Poznámka:",
+    "note": "Při mírné až středně těžké úzkosti může být Kava užitečná, ale při těžké depresi by měla mít přednost profesionální léčba."
+  },
+  "operation": {
+    "title": "Před plánovanými operacemi",
+    "label": "Vysadit 2 týdny předem",
+    "intro": "Kava by se měla před plánovanými operacemi vysadit:",
+    "items": [
+      {
+        "name": "Interakce s anestetiky",
+        "text": "Může zesílit účinek anestetik"
+      },
+      {
+        "name": "Riziko krvácení",
+        "text": "Možná interakce s antikoagulanty"
+      },
+      {
+        "name": "Funkce jater",
+        "text": "Důležité pro metabolismus anestetik"
+      }
+    ],
+    "recommendation": "Doporučení: Vysadit Kavu nejméně 2 týdny před plánovanou operací a informovat anesteziologa o předchozí konzumaci."
+  },
+  "fahren": {
+    "title": "Řízení a obsluha strojů",
+    "label": "Omezená schopnost řídit",
+    "intro": "Kava může ovlivnit reakční schopnost:",
+    "items": [
+      {
+        "name": "Sedace",
+        "text": "Únava a zpomalené reakce možné"
+      },
+      {
+        "name": "Dávkově závislé",
+        "text": "Vyšší dávky mají větší vliv"
+      },
+      {
+        "name": "Individuální rozdíly",
+        "text": "Citlivost se výrazně liší"
+      }
+    ],
+    "noteLabel": "Poznámka:",
+    "note": "Na rozdíl od benzodiazepinů ukazují studie, že Kava méně ovlivňuje kognitivní funkci. Přesto byste měli znát svou individuální reakci, než začnete řídit."
+  },
+  "vorsicht": {
+    "title": "Zvláštní opatrnost",
+    "intro": "U některých skupin lidí je třeba věnovat zvýšenou pozornost, i když neexistuje přísná kontraindikace."
+  },
+  "genetik": {
+    "title": "Genetické faktory (CYP2D6-polymorfismy)",
+    "label": "Možná zvýšená citlivost",
+    "intro": "Přibližně 5-10 % evropské populace jsou \"slabí metabolizátoři\" pro CYP2D6:",
+    "items": [
+      {
+        "name": "Pomalý metabolismus",
+        "text": "Kavalaktony zůstávají v těle déle"
+      },
+      {
+        "name": "Vyšší hladiny v krvi",
+        "text": "Zesílené účinky a vedlejší účinky"
+      },
+      {
+        "name": "Rozpoznání",
+        "text": "Neobvykle silná reakce na normální dávky"
+      }
+    ],
+    "recommendationLabel": "Doporučení:",
+    "recommendation": "Pokud na Kavu reagujete neobvykle citlivě, může být přítomen genetický faktor. Začněte s nižšími dávkami."
+  },
+  "alter": {
+    "title": "Starší lidé",
+    "label": "Doporučeno přizpůsobení dávkování",
+    "intro": "U starších lidí je třeba být obzvlášť opatrný:",
+    "items": [
+      {
+        "name": "Snížená funkce jater",
+        "text": "Pomalý metabolismus ve stáří"
+      },
+      {
+        "name": "Polyfarmacie",
+        "text": "Vyšší riziko interakcí"
+      },
+      {
+        "name": "Riziko pádu",
+        "text": "Sedace může zvýšit riziko pádu"
+      }
+    ],
+    "recommendationLabel": "Doporučení:",
+    "recommendation": "Začněte s polovinou obvyklé dávky a pomalu zvyšujte."
+  },
+  "entscheidungshilfe": {
+    "title": "Pomoc při rozhodování: Je Kava pro mě vhodná?",
+    "selfCheck": {
+      "title": "Sebehodnocení před užitím Kavy",
+      "nicht": {
+        "title": "Kava NENÍ vhodná, pokud:",
+        "items": [
+          "Máte nebo jste měli onemocnění jater",
+          "Jste těhotná nebo kojíte",
+          "Jste mladší 18 let",
+          "Pravidelně pijete alkohol",
+          "Užíváte benzodiazepiny nebo antipsychotika",
+          "Užíváte antikoagulanty (ředidla krve)"
+        ]
+      },
+      "arzt": {
+        "title": "Proberte to se svým lékařem, pokud:",
+        "items": [
+          "Máte Parkinsonovu chorobu",
+          "Trpíte těžkou depresí",
+          "Pravidelně užíváte léky",
+          "Máte naplánovanou operaci",
+          "Jste starší 65 let"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava může být vhodná, pokud:",
+        "items": [
+          "Jste zdraví a nemáte problémy s játry",
+          "Neuplatňujete žádné z výše uvedených léků",
+          "Nepijete nebo jen příležitostně alkohol",
+          "Jste dospělí (starší 18 let)",
+          "Nejste těhotná ani nekojíte"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Obecné doporučení",
+      "text": "V případě pochybností se před užitím Kavy poraďte s lékařem nebo lékárníkem, zejména pokud pravidelně užíváte léky nebo máte zdravotní omezení."
+    }
+  },
+  "warnzeichen": {
+    "title": "Varovné signály: Kdy byste měli okamžitě přestat",
+    "intro": "Okamžitě přestaňte užívat a vyhledejte lékaře, pokud:",
+    "items": [
+      {
+        "name": "Žloutnutí",
+        "text": "pokožky nebo očí (ikterus)"
+      },
+      {
+        "name": "Tmavá moč",
+        "text": "(barvy piva)"
+      },
+      {
+        "name": "Světlá stolice",
+        "text": "(dekolorizovaná)"
+      },
+      {
+        "name": "Neobvyklá únava",
+        "text": "nebo slabost"
+      },
+      {
+        "name": "Nevolnost",
+        "text": "nebo ztráta chuti k jídlu"
+      },
+      {
+        "name": "Bolest",
+        "text": "v pravém horním břiše"
+      }
+    ],
+    "note": "Tyto příznaky mohou naznačovat problémy s játry a vyžadují okamžité lékařské vyšetření."
+  },
+  "quellen": {
+    "title": "Zdroje",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Hodnotící zpráva o Piper methysticum G. Forst., rhizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "Hodnocení rizika hepatotoxicity s produkty Kava.",
+        "source": "Technická zpráva WHO."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava a dopaminový antagonismus.",
+        "source": "Journal of Neurology, Neurosurgery & Psychiatry."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: komplexní přehled účinnosti, bezpečnosti a psychofarmakologie.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "Úplný seznam všech citovaných studií naleznete na naší",
+    "studiesLink": "stránce studií"
+  }
+}

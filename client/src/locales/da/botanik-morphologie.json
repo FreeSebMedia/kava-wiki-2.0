@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morfologi",
+    "subtitle": "Detaljeret anatomi af Kava-planten med særlig fokus på det økonomisk betydningsfulde rodsystem.",
+    "category": "Botanik"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanik",
+    "morphologie": "Morfologi"
+  },
+  "toc": {
+    "ueberblick": "Morfologisk oversigt",
+    "wurzelsystem": "Rodsystmet",
+    "stumpf": "Stumpen (Corm)",
+    "seitenwurzeln": "Siderødderne (Waka)",
+    "kavalactonVerteilung": "Kavalacton-fordeling",
+    "staengel": "Stængler & Knuder",
+    "blaetter": "Blade",
+    "blueten": "Blomster & Frugter"
+  },
+  "intro": {
+    "paragraph1": "Morfologien af <em>Piper methysticum</em> er resultatet af tusindårig selektion. Mens de overjordiske dele af planten er vigtige for identifikation af sorter, ligger den egentlige værdi i de underjordiske strukturer – det komplekse rodsystem, der indeholder de eftertragtede kavalactoner."
+  },
+  "overview": {
+    "title": "Morfologisk oversigt",
+    "paragraph1": "Kava er en flerårig, stedsegrøn busk med en typisk højde på <strong>1,5 til 3 meter</strong>. Under optimale forhold – rigeligt vand, næringsstoffer og skygge – kan enkelte planter nå op til 5 meter.",
+    "table": {
+      "headers": {
+        "plantPart": "Plantedel",
+        "characteristic": "Karakteristik",
+        "kavalactoneContent": "Kavalacton-indhold"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Rødder (Rhizom)",
+          "characteristic": "Tykk, vedholdende, forgrenet",
+          "content": "Meget høj (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Siderødder",
+          "characteristic": "Fint, fibrøst, udstrakt",
+          "content": "Højeste indhold"
+        },
+        "stem": {
+          "name": "Stængel (Stamme)",
+          "characteristic": "Knudret, bambuslignende",
+          "content": "Lav til middel"
+        },
+        "leaves": {
+          "name": "Blade",
+          "characteristic": "Hjerteformet, stor",
+          "content": "Meget lav"
+        },
+        "flowers": {
+          "name": "Blomster",
+          "characteristic": "Små, akslignende",
+          "content": "Ikke anvendt"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "Rodsystmet",
+    "paragraph1": "Den økonomisk og farmakologisk vigtigste del af Kava-planten er det underjordiske rodsystem. Det består af to hovedkomponenter, der adskiller sig i deres sammensætning og kvalitet.",
+    "qualityAlert": {
+      "title": "Kvalitetskarakteristik:",
+      "text": "Højkvalitets Kava fremstilles udelukkende af rødderne. Brug af overjordiske plante dele (stængler, blade) betragtes som lavkvalitets og kan føre til uønskede bivirkninger."
+    },
+    "stump": {
+      "title": "Stumpen (Corm/Stump)",
+      "paragraph1": "Stumpen er den tykke, vedholdende del lige under jordoverfladen. Den danner den centrale masse af rodsystemet og kan hos ældre planter nå betydelige dimensioner.",
+      "properties": {
+        "title": "Egenskaber",
+        "items": [
+          "Vægt: 5-25 kg ved modne planter",
+          "Diameter: 10-30 cm",
+          "Tekstur: Hård, vedholdende, fibrøs",
+          "Farve: Lys brun til mørkebrun"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalacton-profil",
+        "items": [
+          "Samlet indhold: Middel til høj",
+          "Mere Dihydromethysticin (DHM)",
+          "Mindre Kavain end siderødder",
+          "Tendens til at være \"tungere\" i virkningen"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "Siderødderne (Lateral Roots / Waka)",
+      "paragraph1": "Siderødderne er de finere rødder, der strækker sig fra stumpen og breder sig i jorden. På Fiji kaldes de \"Waka\" og betragtes som den mest værdifulde komponent.",
+      "properties": {
+        "title": "Egenskaber",
+        "items": [
+          "Diameter: 0,5-3 cm",
+          "Længde: Op til flere meter",
+          "Tekstur: Blødere, mindre vedholdende",
+          "Farve: Lys brun, gullig"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalacton-profil",
+        "items": [
+          "Samlet indhold: Højeste af alle plantedelene",
+          "Højere Kavain-andel",
+          "Mere afbalanceret virkningsprofil",
+          "Premium-kvalitet (\"Waka Grade\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Kavalacton-fordeling i planten",
+      "paragraph1": "Konzentrationen af kavalactoner varierer meget mellem forskellige plantedelene. Dette har direkte indflydelse på kvaliteten og sikkerheden af Kava-produkter.",
+      "table": {
+        "headers": {
+          "plantPart": "Plantedel",
+          "kavalactoneContent": "Kavalacton-indhold",
+          "usage": "Anvendelse",
+          "qualityLevel": "Kvalitetsniveau"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Siderødder (Waka)",
+            "content": "10-20%",
+            "usage": "Premium-Kava",
+            "quality": "Højeste"
+          },
+          "stump": {
+            "name": "Stump (Corm)",
+            "content": "5-15%",
+            "usage": "Standard-Kava",
+            "quality": "Høj"
+          },
+          "basalStem": {
+            "name": "Basal Stamme (Lewena)",
+            "content": "3-8%",
+            "usage": "Blandet eller alene",
+            "quality": "Middel"
+          },
+          "upperStem": {
+            "name": "Øverste Stamme",
+            "content": "1-3%",
+            "usage": "Ikke anbefalet",
+            "quality": "Lav"
+          },
+          "leaves": {
+            "name": "Blade",
+            "content": "<1%",
+            "usage": "Ikke anvendt",
+            "quality": "Uegnet"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Advarsel:",
+        "text": "Brug af blade og overjordiske stængeldelene er blevet forbundet med historiske rapporter om leverskader. Kvalitets Kava bruger udelukkende rodmateriale."
+      }
+    }
+  },
+  "stems": {
+    "title": "Stængler & Knuder",
+    "paragraph1": "Stænglerne (stammer) af Kava er et af de vigtigste kendetegn ved <strong>sortsidentifikation</strong>. De vokser oprejst og forgrener sig med alderen.",
+    "structure": {
+      "title": "Struktur",
+      "items": [
+        "<strong>Knuder (Nodes):</strong> Tydeligt synlige fortykkelser, ligesom ved bambus",
+        "<strong>Internodier:</strong> De sektioner mellem knuderne, variable i længden",
+        "<strong>Diameter:</strong> 2-5 cm, afhængig af alder og sort",
+        "<strong>Højde:</strong> 1,5-3 m (op til 5 m under optimale forhold)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Sorts kendetegn",
+      "paragraph1": "Farven og mønstringen af stænglerne er et nøglekarakteristika til adskillelse af kultivarer:",
+      "items": [
+        "<strong>Grøn:</strong> Ofte ved mange standard sorter",
+        "<strong>Flekket:</strong> Karakteristisk for bestemte varianter",
+        "<strong>Stribet:</strong> Længdestriber i forskellige farver",
+        "<strong>Mørk lilla/Sort:</strong> Sjældne, ofte særligt værdsatte sorter"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Blade",
+    "paragraph1": "Blade af Kava er store, iøjnefaldende og tjener primært til fotosyntese. De bruges traditionelt ikke til Kava-tilberedning.",
+    "characteristics": {
+      "title": "Bladkarakteristika",
+      "formSize": {
+        "title": "Form & Størrelse",
+        "items": [
+          "Hjerteformet (cordat)",
+          "Bredde: 15-30 cm",
+          "Længde: 20-35 cm",
+          "Skiftevis anbragt"
+        ]
+      },
+      "surface": {
+        "title": "Overflade",
+        "items": [
+          "Glatt til let behåret",
+          "Skinnende på oversiden",
+          "Mat på undersiden",
+          "Tydelige bladnerver"
+        ]
+      },
+      "color": {
+        "title": "Farve",
+        "items": [
+          "Lys grøn til mørkegrøn",
+          "Lilla nuancer mulige",
+          "Bladstilke ofte farvet",
+          "Sortsspecifikke variationer"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Blomster & Frugter",
+    "paragraph1": "Selvom <em>Piper methysticum</em> producerer blomster, er planten funktionelt steril og danner ingen levedygtige frø.",
+    "flowerStructure": {
+      "title": "Blomsterstruktur",
+      "items": [
+        "<strong>Type:</strong> Akslignende blomsterstande (Spadix)",
+        "<strong>Størrelse:</strong> 3-9 cm lange",
+        "<strong>Farve:</strong> Grønlig-hvid til gullig",
+        "<strong>Position:</strong> Modsat bladene",
+        "<strong>Køn:</strong> Ofte enkønnet (diøcisk)"
+      ]
+    },
+    "sterility": {
+      "title": "Sterilitet",
+      "paragraph1": "Steriliteten af <em>P. methysticum</em> er et resultat af høj polyploidi (Dekaploidi). Dette betyder:",
+      "items": [
+        "Ingen levedygtige frø",
+        "Udelukkende vegetativ formering",
+        "Fuldstændig afhængighed af mennesker",
+        "Alle planter er genetiske kloner"
+      ]
+    },
+    "paragraph2": "Denne sterilitet har vidtrækkende konsekvenser: Uden kontinuerlig menneskelig dyrkning ville <em>Piper methysticum</em> uddø inden for en generation. Hver nuværende Kava-plante er resultatet af en uafbrudt kæde af stiklingsformer, der går tilbage til de første domesticeringer for omkring 3.000 år siden."
+  },
+  "navigation": {
+    "continueText": "Fortsæt i kapitlet Botanik:",
+    "nextChapter": {
+      "title": "Dyrkning & Økologi",
+      "description": "Dyrkning, formering & vækstbetingelser"
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "Chemotyp-systemet",
+    "subtitle": "Hvordan den 6-cifrede kode forudsiger virkningen af en Kava-sort og adskiller Noble fra Tudei.",
+    "category": "Indholdsstoffer"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "inhaltsstoffe": "Indholdsstoffer",
+    "current": "Chemotyper"
+  },
+  "toc": {
+    "title": "Indhold",
+    "einfuehrung": "Hvad er en chemotyp?",
+    "nummerierung": "Nummereringen af Kavalactoner",
+    "lesen": "Læse en chemotyp",
+    "beispiele": "Eksempler & fortolkning",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Tudei-genkendelse baseret på chemotypen",
+    "wirkungsprofile": "Virkninger efter chemotyp",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Balanced Kavas",
+    "qualitaet": "Chemotyp & kvalitetskontrol"
+  },
+  "einfuehrung": {
+    "paragraph1": "Den <strong>Chemotyp</strong> er en 6-cifret kode, der opregner de seks hoved-Kavalactoner i faldende rækkefølge efter deres koncentration. Den fungerer som et \"fingeraftryk\" for hver Kava-sort og gør det muligt at forudsige den forventede virkning – endnu før man har taget en slurk.",
+    "paragraph2": "Dette system blev udviklet i 1980'erne af Vincent Lebot og er i dag den internationale standard for klassificering og kvalitetskontrol af Kava. Det er det vigtigste værktøj til at skelne mellem højkvalitets \"Noble Kava\" og lavkvalitets \"Tudei Kava.\""
+  },
+  "nummerierung": {
+    "title": "Nummereringen af Kavalactoner",
+    "intro": "Hver af de seks hoved-Kavalactoner er tildelt et ciffer. Denne tildeling er historisk betinget og baseret på rækkefølgen af deres opdagelse eller kromatografisk elution:",
+    "tableHeaders": {
+      "digit": "Ciffer",
+      "kavalacton": "Kavalacton",
+      "abbreviation": "Forkortelse",
+      "effect": "Hovedvirkning"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Fokus, dopaminforøgelse"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Muskelafslapning, analgesi"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "CB1-aktivitet, eufori"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Angstdæmpende, \"Heady\"-effekt"
+      },
+      {
+        "digit": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Langvarig sederende, Tudei-markør"
+      },
+      {
+        "digit": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Sederende, neurobeskyttende"
+      }
+    ],
+    "mnemonic": "<strong>Huskeregel:</strong> Cifferet <strong>4</strong> (Kavain) og <strong>2</strong> (Dihydrokavain) er de \"gode\" startpositioner for Noble Kava. Cifferet <strong>5</strong> (Dihydromethysticin) på de første to pladser er et advarselssignal for Tudei-Kava."
+  },
+  "lesen": {
+    "title": "Læse en chemotyp",
+    "intro": "Chemotypen skrives som et 6-cifret tal, hvor hver position angiver den relative koncentration:",
+    "positions": [
+      {
+        "rank": "1. Plads",
+        "label": "Højeste koncentration",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "2. Plads",
+        "label": "Næsthøjeste",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3. Plads",
+        "label": "Tredje højeste",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4. Plads",
+        "label": "Fjerde højeste",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5. Plads",
+        "label": "Femte højeste",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6. Plads",
+        "label": "Laveste",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Eksempler & fortolkning",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Typisk Noble Kava (f.eks. Borogu)",
+        "description": "<strong>Kavain</strong> dominerer, efterfulgt af <strong>Dihydrokavain</strong>. DHM (5) er kun på 4. plads. Forventet virkning: Klar, fokuseret afslapning med god muskelafslapning. Ingen \"tømmermænd.\""
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, kropsfokuseret (f.eks. Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> på første plads betyder stærkere kropsafslapning. Ideel til aftenen. Stadig Noble, da DHM (5) ligger langt tilbage."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (f.eks. Isa)",
+        "description": "<strong>DHM (5)</strong> på første plads er et klart advarselssignal. Forventet virkning: Meget langvarig sedation (12+ timer), mulig kvalme, \"tømmermænd\" næste dag. Ikke egnet til regelmæssig brug."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (f.eks. Palimanu)",
+        "description": "<strong>DHM (5)</strong> på 2. plads er også problematisk. Selvom DHK (2) er foran, gør den høje DHM-andel denne sort uegnet til eksport og regelmæssig brug."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Adskillelsen mellem <strong>Noble Kava</strong> (ædelkava) og <strong>Tudei Kava</strong> (to-dages Kava) er fundamental for Kava-kvaliteten. Navnet \"Tudei\" stammer fra, at virkningen af disse sorter kan vare op til to dage – med ubehagelige bivirkninger.",
+    "tableHeaders": {
+      "criterion": "Kriterium",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Chemotyp-start",
+        "noble": "Begynder med 4 eller 2, aldrig med 5",
+        "tudei": "Begynder ofte med 5 eller har 5 på 2. plads"
+      },
+      {
+        "criterion": "Virkningens indtræden",
+        "noble": "Hurtig (10-20 minutter)",
+        "tudei": "Forsinket (30-90 minutter)"
+      },
+      {
+        "criterion": "Virkningens varighed",
+        "noble": "Moderat (3-6 timer)",
+        "tudei": "Meget lang (6-12+ timer)"
+      },
+      {
+        "criterion": "Virkningens karakter",
+        "noble": "Klar, afslappet, social",
+        "tudei": "Dum, sederende, svimmel"
+      },
+      {
+        "criterion": "Bivirkninger",
+        "noble": "Minimal ved korrekt tilberedning",
+        "tudei": "Kvalme, hovedpine, \"tømmermænd\""
+      },
+      {
+        "criterion": "Eksportgodkendelse",
+        "noble": "Ja (reguleret)",
+        "tudei": "Nej (forbudt i Vanuatu)"
+      },
+      {
+        "criterion": "Eksempel-sorter",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wildkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Tudei-genkendelse baseret på chemotypen",
+    "intro": "Den enkleste regel til genkendelse af Tudei-Kava:",
+    "warningTitle": "Advarselssignaler",
+    "warnings": [
+      "<strong>5</strong> på position 1 eller 2",
+      "<strong>5</strong> foran <strong>4</strong> i chemotypen",
+      "Meget høj samlet DHM-andel (>15%)"
+    ],
+    "safeTitle": "Sikre tegn",
+    "safeIndicators": [
+      "<strong>4</strong> eller <strong>2</strong> på position 1",
+      "<strong>5</strong> på position 4, 5 eller 6",
+      "Kavain-dominans (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Virkninger efter chemotyp",
+    "intro": "Baseret på chemotypen kan Noble Kava-sorter opdeles i tre hovedkategorier:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavas har <strong>Kavain (4)</strong> på første plads og kendetegnes ved en primært mental virkning. De fremmer fokus, klarhed og en behagelig humørforbedring uden at sedere kraftigt.",
+    "idealTitle": "Ideel til:",
+    "idealFor": [
+      "Sociale anledninger og samtaler",
+      "Kreativt arbejde",
+      "Dagen eller tidlig aften",
+      "Begyndere (mildere virkning)"
+    ],
+    "examples": "<strong>Eksempel-sorter:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavas har <strong>Dihydrokavain (2)</strong> på første plads og virker primært på kroppen. De tilbyder stærk muskelafslapning og er ideelle til at slappe af efter en lang dag.",
+    "idealTitle": "Ideel til:",
+    "idealFor": [
+      "Aftensafslapning",
+      "Stressaflastning og muskelafslapning",
+      "Forberedelse til søvn",
+      "Erfarne Kava-drikkere"
+    ],
+    "examples": "<strong>Eksempel-sorter:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Balanced Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Balanced Kavas har en afbalanceret fordeling af Kavain og Dihydrokavain og tilbyder både mental klarhed og fysisk afslapning. De er de mest alsidige sorter.",
+    "idealTitle": "Ideel til:",
+    "idealFor": [
+      "Daglig brug",
+      "Meditation og mindfulness",
+      "Alsidig brug (dag eller aften)",
+      "Alle erfaringsniveauer"
+    ],
+    "examples": "<strong>Eksempel-sorter:</strong> Bir Kar, Melomelo (afhængig af batch)"
+  },
+  "qualitaet": {
+    "title": "Chemotyp & kvalitetskontrol",
+    "intro": "Chemotypen er i dag det vigtigste værktøj til <strong>kvalitetskontrol</strong> i den internationale Kava-handel. I Vanuatu, den største Kava-eksportør, er analyse af chemotypen lovpligtig, før Kava kan eksporteres.",
+    "lawTitle": "Vanuatu Kava Act (2002)",
+    "lawText": "Kava-loven i Vanuatu fastslår, at kun <strong>Noble Kava-sorter</strong> er godkendt til eksport. Tudei-sorter og deres blandinger er udelukket fra eksport. Overholdelse kontrolleres gennem chemotyp-analyser.",
+    "lawNote": "Dette er en af grundene til, at Kava fra Vanuatu betragtes som særligt høj kvalitet – der er statslige kvalitetskontroller, der skal forhindre Tudei-kontaminering.",
+    "consumerTip": "<strong>Tip til forbrugere:</strong> Seriøse Kava-forhandlere angiver chemotypen for deres produkter eller kan oplyse den på anmodning. Hvis en forhandler ikke kan give chemotyp-oplysninger, bør man være forsigtig."
+  },
+  "navigation": {
+    "nextCategory": "Videre til næste kategori:",
+    "sortenTitle": "Sorter & varianter",
+    "sortenDescription": "Over 80 dokumenterede Kava-sorter og deres egenskaber"
+  }
+}

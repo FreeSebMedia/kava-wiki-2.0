@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "Planten",
+    "subtitle": "Taksonomi, nomenklatur og forholdet mellem Piper methysticum og dens vilde urform.",
+    "category": "Botanik"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanik",
+    "pflanze": "Planten"
+  },
+  "toc": {
+    "taxonomie": "Taksonomisk klassifikation",
+    "name": "Betydning af navnet",
+    "wichmannii": "Piper wichmannii – Den vilde urform",
+    "unterschiede": "Forskelle til den kultiverede art",
+    "domestikation": "Domestikation & evolution",
+    "kulturgut": "Kava som levende kulturarv"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> er ikke en almindelig nytteplante. Den er resultatet af tusindårig menneskelig selektion og eksisterer i dag udelukkende som en kultiveret form. Vilde populationer findes ikke længere – hver Kava-plante i verden er en klon, der er blevet videreført af menneskelig hånd."
+  },
+  "taxonomie": {
+    "title": "Taksonomisk klassifikation",
+    "intro": "Kava tilhører familien <strong>Piperaceae</strong> (peberplanter), en af de ældste blomsterplantefamilier. Denne familie omfatter cirka 3.600 arter i 5 slægter, herunder den kendte sorte peber (<em>Piper nigrum</em>).",
+    "table": {
+      "headers": {
+        "rank": "Taksonomisk rang",
+        "classification": "Klassifikation",
+        "note": "Bemærkning"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Rige",
+          "classification": "Plantae",
+          "note": "Planter"
+        },
+        "unterreich": {
+          "rank": "Underige",
+          "classification": "Tracheobionta",
+          "note": "Karplanter"
+        },
+        "abteilung": {
+          "rank": "Afdeling",
+          "classification": "Magnoliophyta",
+          "note": "Dækkende frø"
+        },
+        "klasse": {
+          "rank": "Klasse",
+          "classification": "Magnoliopsida",
+          "note": "To kimblade"
+        },
+        "ordnung": {
+          "rank": "Orden",
+          "classification": "Piperales",
+          "note": "Peberlignende"
+        },
+        "familie": {
+          "rank": "Familie",
+          "classification": "Piperaceae",
+          "note": "Peberplanter"
+        },
+        "gattung": {
+          "rank": "Slægt",
+          "classification": "<em>Piper</em> L.",
+          "note": "Ca. 2.000 arter verden over"
+        },
+        "art": {
+          "rank": "Art",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "Første beskrivelse 1786"
+        }
+      }
+    },
+    "forster": "Den første beskrivelse blev lavet i 1786 af <strong>Johann Georg Adam Forster</strong>, en tysk naturforsker, der fulgte James Cook på hans anden verdensomsejling. Forster dokumenterede planten og dens anvendelse på de stillehavsøer."
+  },
+  "name": {
+    "title": "Betydning af navnet",
+    "intro": "Det videnskabelige navn <em>Piper methysticum</em> er en kombination af latin og græsk:",
+    "piper": {
+      "title": "Piper",
+      "description": "Latinsk for \"peber\". Henviser til tilhørsforholdet til familien af peberplanter og den let krydrede smag af roden."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "Fra det græske <em>μεθυστικός</em> (methystikos) = \"berusende\" eller \"gør beruset\". Beskriver den psykoaktive virkning af planten."
+    },
+    "localNames": {
+      "intro": "Navnet \"Kava\" stammer selv fra de austronesisk sprog i Stillehavet. I forskellige regioner findes der forskellige betegnelser:",
+      "headers": {
+        "region": "Region",
+        "name": "Lokalt navn",
+        "meaning": "Betydning"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Bitter\""
+        },
+        "fiji": {
+          "region": "Fiji",
+          "name": "Yaqona",
+          "meaning": "\"Bitter rod\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Skarp, bitter\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Bitter\""
+        },
+        "hawaii": {
+          "region": "Hawaii",
+          "name": "'Awa",
+          "meaning": "\"Bitter\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Kava-drink\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – Den vilde urform",
+    "intro": "Den nærmeste beslægtede art til <em>Piper methysticum</em> er <strong>Piper wichmannii</strong>, som betragtes som den vilde urform af den nuværende kultiverede Kava. Denne art findes naturligt i Papua Ny Guinea, Salomonerne og det nordlige Vanuatu.",
+    "alert": "<strong>Vigtigt:</strong> <em>Piper wichmannii</em> kaldes nogle gange \"Wild Kava\" og forbruges lokalt. Den indeholder dog en anden kavalacton-profil og betragtes som mindre tolerabel end de kultiverede edelkava-varianter.",
+    "differences": {
+      "title": "Forskelle mellem P. methysticum og P. wichmannii",
+      "headers": {
+        "feature": "Egenskab",
+        "methysticum": "<em>P. methysticum</em> (kultiveret)",
+        "wichmannii": "<em>P. wichmannii</em> (vild)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Fortplantning",
+          "methysticum": "Steril, kun vegetativ",
+          "wichmannii": "Fertil, producerer frø"
+        },
+        "chromosomen": {
+          "feature": "Antal kromosomer",
+          "methysticum": "Dekaploid (2n = 130)",
+          "wichmannii": "Diploid (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Kavalacton-indhold",
+          "methysticum": "Højere, optimeret",
+          "wichmannii": "Lavere, variabel"
+        },
+        "chemotyp": {
+          "feature": "Chemotyp",
+          "methysticum": "Udvalgt for tolerabilitet",
+          "wichmannii": "Ofte \"Tudei\"-lignende"
+        },
+        "verbreitung": {
+          "feature": "Udbredelse",
+          "methysticum": "Kun gennem mennesker",
+          "wichmannii": "Naturlig udbredelse"
+        },
+        "nutzung": {
+          "feature": "Traditionel anvendelse",
+          "methysticum": "Tusindvis af år dokumenteret",
+          "wichmannii": "Begrænset, ofte undgået"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Domestikation & evolution",
+    "intro": "Domestikationen af Kava begyndte sandsynligvis for omkring <strong>3.000 år</strong> siden i det nordlige Vanuatu. Genetiske studier viser, at <em>Piper methysticum</em> er opstået gennem gentagen hybridisering og polyploidi fra <em>Piper wichmannii</em>.",
+    "changes": "Processen med domestikation førte til flere afgørende ændringer:",
+    "cards": {
+      "polyploidie": {
+        "title": "Øget polyploidi",
+        "description": "Mens <em>P. wichmannii</em> er diploid (2n = 26), er <em>P. methysticum</em> dekaploid (2n = 130). Denne forøgelse af kromosomantallet førte til større rødder og højere kavalacton-indhold."
+      },
+      "fertilitaet": {
+        "title": "Tab af fertilitet",
+        "description": "Den høje polyploidi førte til sterilitet. Planten producerer blomster, men ingen levedygtige frø. Dette gjorde den helt afhængig af mennesker."
+      },
+      "wirkprofil": {
+        "title": "Optimeret virkningsprofil",
+        "description": "Gennem målrettet selektion blev sorter med mere behagelig virkning og bedre tolerabilitet prioriteret. Dette førte til dannelsen af de nuværende \"edelkava\"-varianter."
+      },
+      "sortenvielfalt": {
+        "title": "Sortsdiversitet",
+        "description": "I dag findes der over 80 dokumenterede kultivarer alene i Vanuatu. Hver sort har et unikt kemotyp-profil og karakteristiske virkningsegenskaber."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "Kava som levende kulturarv",
+    "paragraph1": "Da Kava ikke kan reproducere sig selv, er hver eksisterende plante i dag resultatet af en uafbrudt kæde af menneskelig overlevering. Stiklinger er blevet videregivet fra generation til generation, fra familie til familie, fra landsby til landsby.",
+    "quote": {
+      "text": "Kava er dermed et af de ældste dokumenterede eksempler på bevidst selektiv landbrug i Syd-Stillehavet. Planten er en levende kulturarv – videregivet fra generation til generation.",
+      "author": "Sebastian Freidank, \"Kava – Roden til ro\""
+    },
+    "paragraph2": "I oprindelseslandene betragtes Kava ikke kun som en nytteplante, men ofte også som et <strong>levende væsen</strong> – med navn, karakter og historie. Det er ikke usædvanligt, at enkelte planter får navne og æres i ritualer. Denne dybe forbindelse mellem menneske og plante er det, der gør Kava ikke kun effektiv, men også meningsfuld.",
+    "paragraph3": "Afhængigheden af mennesker har også en bagside: Uden kontinuerlig dyrkning ville <em>Piper methysticum</em> uddø inden for en generation. Dette understreger det ansvar, der følger med dyrkning og handel med Kava."
+  },
+  "navigation": {
+    "nextChapter": "Fortsæt i kapitlet Botanik:",
+    "morphologie": {
+      "title": "Morfologi",
+      "description": "Anatomi & rotsystem af Kava-planten"
+    }
+  }
+}

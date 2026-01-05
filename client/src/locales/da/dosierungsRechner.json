@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Doseringsberegner",
+    "subtitle": "Beregn din optimale Kava-dosering baseret på sort, erfaring og tilberedningsmetode.",
+    "category": "Tilberedning"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "zubereitung": "Tilberedning",
+    "current": "Doseringsberegner"
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Doseringsberegner",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Din anbefaling",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Vigtige bemærkninger",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Indflydelsesfaktorer",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Vælg Kava-sort",
+    "selectStrainPlaceholder": "-- Vælg sort --",
+    "potency": "Potens",
+    "experienceLevel": "Erfaringsniveau",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Begynder",
+        "desc": "Første uger"
+      },
+      "regular": {
+        "label": "Regelmæssig",
+        "desc": "Flere måneder"
+      },
+      "experienced": {
+        "label": "Erfaren",
+        "desc": "1+ år"
+      }
+    },
+    "prepMethod": "Tilberedningsmetode",
+    "methods": {
+      "traditional": {
+        "label": "Traditionel",
+        "desc": "Æltning"
+      },
+      "blender": {
+        "label": "Blender",
+        "desc": "Mixer"
+      },
+      "instant": {
+        "label": "Instant",
+        "desc": "Mikroniseret"
+      }
+    },
+    "bodyWeight": "Kropsvægt",
+    "kg": "kg",
+    "calculate": "Beregn dosering",
+    "instantPowder": "Instant pulver",
+    "mediumGrind": "Medium grind pulver",
+    "water": "Vand",
+    "kavalactones": "Kavalactone (estimeret)",
+    "prepTime": "Tilberedningstid",
+    "min": "Min",
+    "toPrepGuide": "Til tilberedningsvejledning"
+  },
+  "results": {
+    "title": "Din personlige anbefaling",
+    "bestTime": {
+      "title": "Bedste brugstid",
+      "heady": "I løbet af dagen, til sociale anledninger eller kreative aktiviteter",
+      "heavy": "Om aftenen, til afslapning eller før sengetid",
+      "balanced": "Fleksibel, egnet til enhver tid på dagen"
+    },
+    "tip": {
+      "title": "Tip til denne sort",
+      "default": "Nyd denne sort på tom mave for bedst effekt."
+    }
+  },
+  "notes": {
+    "title": "Vigtige bemærkninger",
+    "safety": {
+      "title": "Generelle sikkerhedsanvisninger",
+      "items": [
+        "Drik Kava altid på <strong>tom mave</strong> (3-4 timer efter måltid)",
+        "Start med <strong>lavere dosering</strong> og øg langsomt",
+        "<strong>Omvendt tolerance:</strong> De første gange kan virkningen være svagere",
+        "Kombiner aldrig Kava <strong>med alkohol</strong> eller medicin",
+        "Ved leversygdomme eller graviditet: <strong>Ingen Kava</strong>"
+      ]
+    },
+    "about": {
+      "title": "Om denne beregner",
+      "text": "De beregnede værdier er <strong>retningslinjer</strong> baseret på gennemsnitlige kavalacton-indhold og erfaringer. Den faktiske virkning kan variere afhængigt af individuel følsomhed, batch og producent."
+    }
+  },
+  "factors": {
+    "title": "Indflydelsesfaktorer på doseringen",
+    "items": [
+      {
+        "title": "Sortens potens",
+        "text": "Forskellige sorter har forskellige kavalacton-indhold. En 5-stjernet sort som Loa Waka kræver mindre pulver end en mildere 3-stjernet sort som Pouni Ono."
+      },
+      {
+        "title": "Kropsvægt",
+        "text": "Tungere personer har normalt brug for mere Kava for samme effekt. Beregneren justerer anbefalingen derefter."
+      },
+      {
+        "title": "Tilberedningsmetode",
+        "text": "Instant/mikroniseret Kava er mere koncentreret end medium grind. Blender-metoden ekstraherer lidt mere effektivt end traditionel æltning."
+      },
+      {
+        "title": "Erfaringsniveau",
+        "text": "Gennem \"omvendt tolerance\" har erfarne brugere ofte brug for mindre Kava for samme effekt. Begyndere bør starte med lave doser."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Tilberedningsvejledninger",
+    "traditional": {
+      "title": "Traditionel metode",
+      "time": "20-25 Min",
+      "href": "/da/tilberedning/traditionel"
+    },
+    "blender": {
+      "title": "Blender-metode",
+      "time": "8-10 Min",
+      "href": "/da/tilberedning/blender"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "time": "30 Sek",
+      "href": "/da/tilberedning/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Betegnes som en af de bedste Heady Kavas i verden. Begrænset tilgængelighed.",
+    "borogu": "Den mest drikkede Kava i Vanuatu. Meget pålidelig.",
+    "pouni-ono": "Meget populær begyndersort med ensartet kvalitet.",
+    "moi": "En af de sjældneste og dyreste Kavas. Traditionelt til hawaiianske ceremonier.",
+    "melo-melo": "Meget populær begyndersort med stærk angstdæmpende effekt.",
+    "bir-kar": "Kendt for sin styrke og pålidelighed.",
+    "palasa": "Ikke anbefalet til begyndere. Meget potent.",
+    "loa-waka": "En af de stærkeste kommercielt tilgængelige Kavas.",
+    "hiwa": "Traditionelt kun brugt til ceremonielle formål. Meget sjælden.",
+    "vula-waka": "Populær allrounder fra Fiji.",
+    "silese": "En af de mest euforiske sorter overhovedet.",
+    "palarasul": "God indgang til Heavy Kavas."
+  }
+}

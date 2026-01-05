@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Indholdsstoffer & Kemi",
+    "subtitle": "De farmakologiske hemmeligheder ved Piper methysticum: Kavalactoner, kemotyper og virkningsmekanismer.",
+    "category": "Indholdsstoffer"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "current": "Indholdsstoffer"
+  },
+  "toc": {
+    "title": "Indhold",
+    "uebersicht": "Oversigt over virkestoffer",
+    "kavalactone": "De 6 hovedkavalactoner",
+    "chemotypen": "Kemotyp-systemet",
+    "synergien": "Synergier & Entourage-effekt",
+    "weitere": "Andre indholdsstoffer",
+    "unterseiten": "Uddybende artikler"
+  },
+  "uebersicht": {
+    "paragraph1": "Den psykoaktive virkning af Kava skabes primært af en gruppe forbindelser, der er kendt som <strong>Kavalactoner</strong> (eller Kava-Pyone). I modsætning til mange andre psykoaktive planter (som kaffe eller te) indeholder Kava ikke alkaloider som hovedvirkestoffer.",
+    "paragraph2": "Indtil videre er 18 forskellige kavalactoner blevet identificeret, men seks af dem er ansvarlige for over 96% af den farmakologiske virkning. Disse seks \"Major Kavalactones\" danner grundlaget for klassificering og kvalitetsbestemmelse af Kava."
+  },
+  "kavalactone": {
+    "title": "De 6 hovedkavalactoner",
+    "intro": "Hver kavalacton har et unikt virkningsprofil. Den samlede virkning af en Kava-sort stammer fra det specifikke blandingsforhold af disse seks komponenter.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "Navn",
+      "abbreviation": "Forkortelse",
+      "effect": "Primær virkning"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Fokus, dopaminforøgelse, eufori"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Stærk muskelafslapning, analgesi (smertelindring)"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "Stimulerende, virker på CB1-receptorer (endocannabinoid-systemet)"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Angstdæmpende, humørforbedrende, mental fokus. Ansvarlig for \"Heady\"-effekten."
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Sederende, langvarig. Høje koncentrationer kan forårsage kvalme (typisk for Tudei-Kava)."
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Stærkt sederende, angstdæmpende, neurobeskyttende."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Kemotyp-systemet",
+    "intro": "For at forudsige virkningen af en Kava-sort anvendes en 6-cifret kode, der opregner kavalactonerne i faldende rækkefølge af deres koncentration. Dette kaldes <strong>Chemotyp</strong>.",
+    "exampleTitle": "Eksempel: Kemotyp 426531",
+    "exampleText": "Dette betyder, at <strong>Kavain (4)</strong> har den højeste koncentration, efterfulgt af <strong>Dihydrokavain (2)</strong>, derefter <strong>Methysticin (6)</strong>, osv.",
+    "nobleTudeiTitle": "Noble Kava vs. Tudei Kava",
+    "nobleTudeiIntro": "Kemotypen er det vigtigste værktøj til at skelne mellem høj kvalitet \"Noble Kava\" (ædelkava) og den lavere kvalitet \"Tudei Kava\" (Two-Day Kava).",
+    "nobleDescription": "<strong>Noble Kava:</strong> Kemotyper begynder ofte med <strong>4</strong> (Kavain) eller <strong>2</strong> (Dihydrokavain). Dette giver en behagelig, angstdæmpende virkning uden lang \"tømmermænd\".",
+    "nobleCodes": "Typiske koder: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Tudei Kava:</strong> Kemotyper begynder ofte med <strong>5</strong> (Dihydromethysticin) eller <strong>2</strong> med meget højt 5-tal. DHM nedbrydes meget langsomt og kan føre til dagevis af træthed og kvalme.",
+    "tudeiCodes": "Typiske koder: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Synergier & Entourage-effekt",
+    "paragraph1": "Ligesom med cannabis (terpener & cannabinoider) er den samlede ekstrakt af Kava mere effektiv end isolerede kavalactoner. Dette kaldes entourage-effekten.",
+    "paragraph2": "Isoleret kavain virker dog angstdæmpende, men kombinationen med yangonin (MAO-B-hæmning) og desmethoxyyangonin (dopaminforøgelse) forstærker den humørforbedrende virkning betydeligt. Derfor foretrækkes traditionelle præparater eller fuldspektrum-ekstrakter frem for isolerede stoffer."
+  },
+  "weitere": {
+    "title": "Andre indholdsstoffer",
+    "intro": "Udover kavalactonerne indeholder roden:",
+    "items": [
+      {
+        "label": "Flavokaviner (A, B, C)",
+        "text": "Chalkoner med potentielle antitumor egenskaber, men også mistænkt for at være cytotoksiske ved ekstremt høje doser (hovedsageligt i Tudei-varianter)."
+      },
+      {
+        "label": "Alkaloider",
+        "text": "Pipermethystin findes hovedsageligt i <strong>bladene og stilkene</strong>, ikke i roden. Det er giftigt og en hovedårsag til, at der traditionelt kun indtages rødder."
+      },
+      {
+        "label": "Stivelse & kostfibre",
+        "text": "Udgør ca. 43% af tørvægten og giver den typiske konsistens af drikken."
+      },
+      {
+        "label": "Mineralstoffer",
+        "text": "Kalium, calcium, magnesium."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "Uddybende artikler",
+    "intro": "For mere detaljerede oplysninger om de enkelte emner, besøg vores specialiserede undersider:",
+    "kavalactoneTitle": "De 6 hovedkavalactoner",
+    "kavalactoneDescription": "Detaljerede virkningsprofiler for kavain, dihydrokavain, methysticin, dihydromethysticin, yangonin og desmethoxyyangonin.",
+    "chemotypenTitle": "Kemotyp-systemet",
+    "chemotypenDescription": "Hvordan den 6-cifrede kode forudsiger virkningen og adskiller Noble Kava fra Tudei.",
+    "learnMore": "Lær mere"
+  }
+}

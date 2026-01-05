@@ -1,0 +1,297 @@
+{
+  "page": {
+    "title": "Retlig status & Legalitet",
+    "subtitle": "En detaljeret juridisk analyse af situationen i Tyskland og EU",
+    "category": "Ret"
+  },
+  "toc": {
+    "novel-food-status": "Novel-Food-status",
+    "situation-deutschland": "Situation i Tyskland",
+    "arzneimittel-vs-lebensmittel": "Lægemidler vs. Fødevarer",
+    "eu-rechtslage": "EU-retsforhold",
+    "downloads": "Download af juridisk vurdering",
+    "faq": "Ofte stillede spørgsmål (FAQ)",
+    "fazit": "Konklusion & Anbefaling"
+  },
+  "intro": {
+    "lead": "Den retlige situation for Kava (<em>Piper methysticum</em>) i Europa er kompleks og ofte misforstået. Ifølge den nuværende juridiske vurdering er Kava i Tyskland og EU <strong>ikke et Novel Food</strong> og dermed generelt lovligt, medmindre det markedsføres som lægemiddel.",
+    "alertTitle": "Vigtig oplysning",
+    "alertText": "Kava blev indtaget i betydeligt omfang i EU før den 15. maj 1997. Derfor falder det <strong>ikke</strong> ind under Novel-Food-forordningen (EU) 2015/2283 og kræver ikke godkendelse som et nyt fødevareprodukt."
+  },
+  "novelFood": {
+    "title": "Novel-Food-status",
+    "p1": "Det afgørende spørgsmål for Kavas lovlighed som fødevare eller kosttilskud i EU er, om det klassificeres som et \"nyt fødevareprodukt\" (Novel Food). Novel-Food-forordningen definerer alle fødevarer som nye, som ikke blev brugt i betydeligt omfang i EU til menneskelig konsum før <strong>15. maj 1997</strong>.",
+    "p2": "En aktuel juridisk vurdering konkluderer entydigt: <strong>Kava er ikke et Novel Food.</strong>"
+  },
+  "cards": {
+    "historicalEvidence": {
+      "title": "Historiske beviser",
+      "items": [
+        {
+          "label": "Lægemiddelgodkendelse før 1997:",
+          "text": "Kava var allerede officielt godkendt i Tyskland længe før 1997 (Kommission E Monografi 1990)."
+        },
+        {
+          "label": "Markedspræsentation:",
+          "text": "Mindst 24 medicinalfirmaer solgte allerede før 1997 Kava-ekstrakter i Europa (Kilde: ETC Group)."
+        },
+        {
+          "label": "Udbredelse:",
+          "text": "Produkter som \"Antares\" eller \"Kavasporal forte\" var meget udbredte og frit tilgængelige."
+        }
+      ]
+    },
+    "legalConsequence": {
+      "title": "Retlig konsekvens",
+      "items": [
+        {
+          "label": "Ingen godkendelsespligt:",
+          "text": "Da Kava ikke er et Novel Food, skal det ikke gennemgå en langvarig godkendelsesproces."
+        },
+        {
+          "label": "Lovlighed:",
+          "text": "Kava-produkter kan lovligt sælges som fødevarer eller kosttilskud."
+        },
+        {
+          "label": "Bevisbyrde:",
+          "text": "Myndighederne skal bevise, at Kava <em>ikke</em> blev indtaget – hvilket er umuligt i lyset af de historiske fakta."
+        }
+      ]
+    }
+  },
+  "germany": {
+    "title": "Situationen i Tyskland",
+    "intro": "Tyskland har en særlig historie i håndteringen af Kava. Udviklingen kan opdeles i tre faser:",
+    "phases": [
+      {
+        "title": "Fase 1: Blomstringstiden (indtil 2001)",
+        "text": "Kava var et populært og anerkendt plantebaseret middel. Kommission E (BfArM) bekræftede i 1990 effektiviteten ved nervøse angsttilstande. Der var adskillige godkendte præparater i apoteker og helsekostbutikker."
+      },
+      {
+        "title": "Fase 2: Forbuddet (2002–2014)",
+        "text": "På grund af mistanker om leverskader (som senere blev vurderet som tvivlsomme) tilbagekaldte BfArM i 2002 godkendelserne for Kava-lægemidler. Dette førte til et de facto markedforbud."
+      },
+      {
+        "title": "Fase 3: Ophævelsen (fra 2014/2019)",
+        "text": "Domstole erklærede det generelle forbud for ulovligt. I 2019 blev tilbagekaldelsen af godkendelserne endeligt ophævet. I dag gælder: Forbuddet vedrørte <em>lægemidler</em>. Som <em>fødevare</em> (under hensyntagen til ikke-Novel-Food-status) har Kava aldrig været eksplicit forbudt."
+      }
+    ],
+    "distinction": {
+      "title": "Afgrænsning: Lægemidler vs. Fødevarer",
+      "p1": "Et vigtigt juridisk aspekt er afgrænsningen. Kava må ikke sælges som lægemiddel i Tyskland uden at have en tilsvarende godkendelse (som i øjeblikket sjældent anmodes om af producenter). Det handles derfor som <strong>fødevare</strong>, <strong>kosttilskud</strong> eller <strong>ingrediens</strong>.",
+      "p2": "Handlende må ikke fremsætte sundhedsrelaterede påstande (\"hjælper mod angstlidelse\"), da dette ville gøre produktet til et præsentationslægemiddel. Påstande om generel afslapning eller tradition vurderes derimod inden for rammerne af fødevarelovgivningen."
+    }
+  },
+  "eu": {
+    "title": "EU-retsforhold",
+    "intro": "På EU-niveau er der ikke noget centralt forbud mod Kava. Reguleringen er dog inkonsekvent. Det følgende kort giver et overblik over den aktuelle situation i forskellige europæiske lande:",
+    "table": {
+      "headers": {
+        "country": "Land",
+        "status": "Status",
+        "details": "Detaljer"
+      },
+      "rows": [
+        {
+          "country": "Deutschland",
+          "status": "Lovlig",
+          "details": "Som fødevare/NEM lovligt (ikke et Novel Food). Lægemiddelstatus mulig, men sjælden."
+        },
+        {
+          "country": "Polen",
+          "status": "Lovlig",
+          "details": "Det gamle forbud blev eksplicit ophævet i 2018. Kava er frit tilgængelig."
+        },
+        {
+          "country": "Großbritannien",
+          "status": "Begrænset",
+          "details": "Salg til menneskelig konsum er officielt stadig begrænset, besiddelse og import til eget brug tolereres ofte."
+        },
+        {
+          "country": "Frankreich",
+          "status": "Gråzone",
+          "details": "Streng fortolkning af lægemiddellovgivningen, men ingen eksplicit Novel-Food-forbud."
+        }
+      ]
+    }
+  },
+  "conclusion": {
+    "title": "Konklusion & Anbefaling",
+    "text": "Den retlige panik fra begyndelsen af 2000'erne er videnskabeligt og juridisk forældet. Kava er lovligt tilgængelig i Tyskland og mange dele af EU. Forbrugere bør dog sikre sig, at de køber <strong>Noble Kava</strong> fra certificerede forhandlere for at sikre kvalitet og sikkerhed.",
+    "disclaimerTitle": "Retlig bemærkning",
+    "disclaimerText": "Disse oplysninger udgør ikke juridisk rådgivning. Retstilstanden kan ændre sig. Vi anbefaler forhandlere og importører at søge juridisk rådgivning før kommerciel handel."
+  },
+  "sources": {
+    "title": "Kilder & Referencer",
+    "items": [
+      "Juridisk vurdering af Kavas klassificering som Novel Food (2025), GFY Babilon LLP",
+      "Kommission E Monografi, Bundesanzeiger nr. 101 af 1.6.1990",
+      "ETC Group: \"The Kava Boom\", RAFI Communique, 1996/1997",
+      "Forvaltningsdomstolen i Köln, domme om ophævelse af tilbagekaldelsesbeskeder",
+      "Forordning (EU) 2015/2283 om nye fødevarer"
+    ]
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål om legalitet (FAQ)",
+    "items": [
+      {
+        "question": "Må jeg bestille Kava fra USA?",
+        "answer": "<p class=\"mb-2\"><strong>Generelt ja, men med forsigtighed.</strong> Da Kava ikke er klassificeret som et narkotikum i Tyskland, er import til privat brug ikke strafbar i henhold til narkotikaloven (BtMG).</p><p>Dog kan tolden tilbageholde forsendelsen, hvis der er mistanke om, at det drejer sig om et ikke-godkendt lægemiddel. I så fald bliver forsendelsen ofte sendt tilbage til afsenderen eller destrueret. Det anbefales derfor at bestille fra europæiske forhandlere, der allerede har indført varerne i EU.</p>"
+      },
+      {
+        "question": "Er besiddelse af Kava strafbart?",
+        "answer": "<p><strong>Nej.</strong> Besiddelse af Kava-rodpulver er lovligt i Tyskland og de fleste EU-lande. Kava er ikke underlagt narkotikaloven (BtMG). Det er et lovligt plantebaseret stof.</p>"
+      },
+      {
+        "question": "Hvorfor findes Kava ikke på apoteket?",
+        "answer": "<p class=\"mb-2\">Efter forbuddet i 2002 (som blev ophævet i 2014/2015) har mange medicinalproducenter ikke fornyet deres godkendelser, da proceduren er dyr og besværlig.</p><p>I øjeblikket er der næsten ingen godkendte Kava-færdigpræparater i Tyskland. Kava er derfor primært tilgængelig som råmateriale (f.eks. som \"badeadditiv\" eller etnobotanisk udstillingsmateriale) eller i nogle tilfælde som kosttilskud (i andre EU-lande).</p>"
+      },
+      {
+        "question": "Må jeg tage Kava med i flyet?",
+        "answer": "<p class=\"mb-2\">Inden for EU er dette normalt uproblematisk, så længe det drejer sig om mængder til eget brug.</p><p>Ved rejser uden for EU (f.eks. til Australien, New Zealand eller USA) bør du kontrollere de gældende importbestemmelser. I nogle lande (f.eks. Singapore, Japan) kan der gælde strengere regler. Informer dig før rejsen hos den relevante ambassade.</p>"
+      },
+      {
+        "question": "Er Kava et \"Novel Food\"?",
+        "answer": "<p class=\"mb-2\"><strong>Efter gældende ret: Nej.</strong></p><p>Et \"Novel Food\" er et fødevareprodukt, der ikke blev indtaget i betydeligt omfang i EU før den 15. maj 1997. Da Kava dog allerede længe før denne dato var til stede i Europa (også som fødevare/nydelsesmiddel i helsekostbutikker) og som lægemiddel, gælder Novel-Food-forordningen ikke her. Ikke desto mindre forsøger nogle myndigheder lejlighedsvis at klassificere Kava som sådan, hvilket dog er juridisk anfægteligt.</p>"
+      }
+    ]
+  },
+  "download": {
+    "title": "Download af juridisk vurdering",
+    "description": "Download her den fulde juridiske vurdering af Kavas klassificering som Novel Food. Tilgængelig på tysk og engelsk.",
+    "buttonDe": "Vurdering (Tysk)",
+    "buttonEn": "Legal Opinion (Engelsk)",
+    "copyright": {
+      "title": "Ophavsret og brugsbetingelser:",
+      "text": "Den juridiske vurdering er bestilt af <strong>Kava-Mode.com</strong>.",
+      "cta": "Køb kvalitets Noble Kava i Tyskland og Europa."
+    }
+  },
+  "map": {
+    "title": "Retlig status i Europa",
+    "disclaimer": "Bemærk: Dette kort er kun til orientering og udgør ikke juridisk rådgivning. Love kan ændre sig.",
+    "statusLabels": {
+      "legal": "Lovlig / Tilladt",
+      "grey": "Gråzone / Tolereret",
+      "restricted": "Begrænset / Forbudt"
+    },
+    "countries": {
+      "IS": {
+        "name": "Island",
+        "details": "Gråzone: Import til eget brug tolereres ofte."
+      },
+      "NO": {
+        "name": "Norge",
+        "details": "Strengt reguleret: Gælder som lægemiddel."
+      },
+      "SE": {
+        "name": "Sverige",
+        "details": "Lægemiddelstatus: Ingen fri salg."
+      },
+      "FI": {
+        "name": "Finland",
+        "details": "Lægemiddelstatus: Receptpligtig."
+      },
+      "IE": {
+        "name": "Irland",
+        "details": "Salgsforbud for Kava-produkter."
+      },
+      "UK": {
+        "name": "UK",
+        "details": "Salg forbudt, besiddelse til eget brug lovligt."
+      },
+      "DK": {
+        "name": "Danmark",
+        "details": "Lægemiddelstatus: Receptpligtig."
+      },
+      "EE": {
+        "name": "Estland",
+        "details": "Status uklar, import ofte muligt."
+      },
+      "NL": {
+        "name": "Holland",
+        "details": "Gråzone: Salg begrænset, besiddelse lovligt."
+      },
+      "DE": {
+        "name": "Tyskland",
+        "details": "Lovlig: Som fødevare/ingrediens lovligt (ikke som lægemiddel)."
+      },
+      "PL": {
+        "name": "Polen",
+        "details": "Lovlig: Forbuddet blev ophævet i 2018."
+      },
+      "LT": {
+        "name": "Litauen",
+        "details": "Gråzone."
+      },
+      "LV": {
+        "name": "Letland",
+        "details": "Gråzone."
+      },
+      "BE": {
+        "name": "Belgien",
+        "details": "Gråzone: Import til eget brug ofte muligt."
+      },
+      "LU": {
+        "name": "Luxembourg",
+        "details": "Gråzone."
+      },
+      "CZ": {
+        "name": "Tjekkiet",
+        "details": "Lovlig: Ingen specifikke forbud kendt."
+      },
+      "SK": {
+        "name": "Slovakiet",
+        "details": "Gråzone."
+      },
+      "FR": {
+        "name": "Frankrig",
+        "details": "Strengt reguleret: Salg af Kava-produkter forbudt."
+      },
+      "CH": {
+        "name": "Schweiz",
+        "details": "Lægemiddelstatus: Import af små mængder muligt."
+      },
+      "AT": {
+        "name": "Østrig",
+        "details": "Gråzone: Lignende som DE, men strengere fortolkning."
+      },
+      "HU": {
+        "name": "Ungarn",
+        "details": "Lovlig: Ingen forbud."
+      },
+      "PT": {
+        "name": "Portugal",
+        "details": "Gråzone."
+      },
+      "ES": {
+        "name": "Spanien",
+        "details": "Lovlig: Salg og besiddelse tilladt."
+      },
+      "IT": {
+        "name": "Italien",
+        "details": "Gråzone: Salg som fødevare tolereres ofte."
+      },
+      "SI": {
+        "name": "Slovenien",
+        "details": "Gråzone."
+      },
+      "HR": {
+        "name": "Kroatien",
+        "details": "Gråzone."
+      },
+      "GR": {
+        "name": "Grækenland",
+        "details": "Gråzone."
+      },
+      "BG": {
+        "name": "Bulgarien",
+        "details": "Lovlig."
+      },
+      "RO": {
+        "name": "Rumænien",
+        "details": "Gråzone."
+      }
+    }
+  }
+}

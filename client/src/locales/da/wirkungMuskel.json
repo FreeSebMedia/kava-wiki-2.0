@@ -1,0 +1,233 @@
+{
+  "page": {
+    "title": "Muskelafslapning",
+    "subtitle": "Hvordan Kavalactoner løsner spændinger og fremmer fysisk afslapning.",
+    "category": "Virkningsmekanisme"
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introduktion",
+        "level": 1
+      },
+      {
+        "id": "mechanismen",
+        "title": "Virkningsmekanismer",
+        "level": 1
+      },
+      {
+        "id": "kavalactone",
+        "title": "Relevante Kavalactoner",
+        "level": 1
+      },
+      {
+        "id": "anwendungen",
+        "title": "Anvendelsesområder",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Anbefalede kemotyper & sorter",
+        "level": 1
+      },
+      {
+        "id": "praxis",
+        "title": "Praktisk anvendelse",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "wirkung": "Virkningsmekanisme",
+    "current": "Muskelafslapning"
+  },
+  "einfuehrung": {
+    "paragraph1": "Den <strong>muskelafslappende effekt</strong> af Kava er en af de mest mærkbare effekter. Allerede efter den første Shell begynder en bølge af afslapning at bevæge sig gennem kroppen – spændinger løsner sig, kroppen føles \"tung\" og behagelig.",
+    "paragraph2": "I den traditionelle anvendelse i Stillehavet har Kava i årtusinder været brugt til at lindre muskelsmerter og fysisk spænding. Moderne forskning har afklaret de underliggende mekanismer."
+  },
+  "mechanismen": {
+    "title": "Virkningsmekanismer",
+    "intro": "Den muskelafslappende effekt af Kava er baseret på flere synergistiske mekanismer, der virker både centralt (hjerne/rugmarv) og perifert.",
+    "items": [
+      {
+        "icon": "zap",
+        "title": "Natrium- og calciumkanalblokade",
+        "text": "Kavalactoner blokerer spændingsafhængige <strong>natrium- og calciumkanaler</strong> i nerveceller. Dette reducerer excitabiliteten af motoneuroner (nerveceller, der styrer muskler) og fører til en reduktion af muskeltonus. Denne mekanisme er også ansvarlig for den <strong>antikonvulsive</strong> (krampeløsende) effekt."
+      },
+      {
+        "icon": "activity",
+        "title": "Central GABA-modulation",
+        "text": "Forstærkningen af GABA-effekten i hjernen og rygmarven reducerer <strong>central muskelspænding</strong>. GABA er den vigtigste hæmmende neurotransmitter og regulerer også muskeltonus på spinalniveau."
+      },
+      {
+        "icon": "heart",
+        "title": "Perifer effekt",
+        "text": "Nogle Kavalactoner virker også direkte på <strong>glat muskulatur</strong> (f.eks. i blodkar). Dette kan føre til en let vasodilatation (udvidelse af blodkar) og forklarer den varme følelse, som mange brugere rapporterer."
+      }
+    ],
+    "quote": {
+      "text": "Kavalactoner blokerer spændingsafhængige natrium- og calciumkanaler på neuronalt niveau, hvilket bidrager til den muskelafslappende effekt.",
+      "source": "— Kava – Roden til ro"
+    }
+  },
+  "kavalactone": {
+    "title": "Relevante Kavalactoner",
+    "intro": "Ikke alle Kavalactoner virker lige stærkt muskelafslappende. Især to forbindelser skiller sig ud:",
+    "dhk": {
+      "position": "2",
+      "title": "Dihydrokavain (DHK)",
+      "positionLabel": "Position 2 i kemotypen",
+      "description": "DHK er den <strong>stærkeste muskelafslappende</strong> Kavalacton. Det virker primært gennem blokering af natriumkanaler og har en udtalt sedativ komponent.",
+      "profileLabel": "Virkningsprofil:",
+      "profile": "Stærkt muskelafslappende, sedativt, kropsfokuseret. Ideel til aftenbrug og ved spændinger."
+    },
+    "dhm": {
+      "position": "5",
+      "title": "Dihydromethysticin (DHM)",
+      "positionLabel": "Position 5 i kemotypen",
+      "description": "DHM har også stærke muskelafslappende egenskaber, men er også den Kavalacton med den <strong>længste virkningsvarighed</strong>. Det kan ved høje koncentrationer føre til vedvarende træthed.",
+      "warningLabel": "Advarsel:",
+      "warning": "Høje DHM-koncentrationer (Position 1-2) er typiske for Tudei-sorter og kan føre til \"tømmermænd\"-symptomer."
+    },
+    "table": {
+      "headers": {
+        "kavalacton": "Kavalacton",
+        "relaxation": "Muskelafslapning",
+        "sedation": "Sedation",
+        "duration": "Varighed"
+      },
+      "rows": [
+        {
+          "name": "Dihydrokavain (2)",
+          "relaxation": "⭐⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐",
+          "duration": "Middel"
+        },
+        {
+          "name": "Dihydromethysticin (5)",
+          "relaxation": "⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐⭐",
+          "duration": "Lang"
+        },
+        {
+          "name": "Methysticin (3)",
+          "relaxation": "⭐⭐⭐",
+          "sedation": "⭐⭐⭐",
+          "duration": "Middel"
+        },
+        {
+          "name": "Kavain (4)",
+          "relaxation": "⭐⭐",
+          "sedation": "⭐⭐",
+          "duration": "Kort"
+        }
+      ]
+    }
+  },
+  "anwendungen": {
+    "title": "Anvendelsesområder",
+    "intro": "Den muskelafslappende effekt af Kava kan være nyttig ved forskellige klager:",
+    "items": [
+      {
+        "title": "Spændinger i nakke-/skulderområdet",
+        "text": "Stress og skærmarbejde fører ofte til kroniske spændinger. Kava kan hjælpe med at løsne disse og forbedre velvære."
+      },
+      {
+        "title": "Rygsmerter",
+        "text": "Ved muskulære rygsmerter kan den afslappende effekt give lindring. Kava erstatter ikke lægelig behandling, men kan have en støttende effekt."
+      },
+      {
+        "title": "Spændingshovedpine",
+        "text": "Hovedpine, der skyldes muskelspændinger i nakke- og hovedområdet, kan lindres gennem afslapning."
+      },
+      {
+        "title": "Menstruationsbesvær",
+        "text": "Den krampeløsende effekt kan være nyttig ved menstruationskramper. Traditionelt blev Kava også brugt til dette formål i Stillehavet."
+      },
+      {
+        "title": "Efter sport",
+        "text": "Til restitution efter intensiv træning kan Kava hjælpe med at afslappe musklerne og fremme heling."
+      },
+      {
+        "title": "Restless Legs Syndrom",
+        "text": "Nogle brugere rapporterer om lindring ved rastløse ben. Kombinationen af muskelafslapning og angstdæmpning kan være effektiv her."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Anbefalede kemotyper & sorter",
+    "intro": "For maksimal <strong>muskelafslapning</strong> bør sorter med højt DHK-indhold (Position 2 i første eller anden position) vælges. Disse \"Heavy\" Kavas er kropsfokuserede og ideelle til aftenbrug.",
+    "heavy": {
+      "label": "Heavy",
+      "idealFor": "Maksimal muskelafslapning",
+      "varieties": [
+        {
+          "name": "Palasa (Vanuatu)",
+          "chemotype": "423651",
+          "description": "Meget kropsfokuseret, stærk muskelafslapning. Ideel ved spændinger."
+        },
+        {
+          "name": "Ambae (Vanuatu)",
+          "chemotype": "246531",
+          "description": "DHK-dominant, udtalt \"Couch-Lock\"-effekt."
+        },
+        {
+          "name": "Palarasul (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Stærkt sedativ med god muskelafslapning."
+        },
+        {
+          "name": "Borogu (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Klassiker med afbalanceret kropslig effekt."
+        }
+      ]
+    },
+    "tip": {
+      "title": "Kemotyp-tip",
+      "text": "Vær opmærksom på <strong>position 2 (DHK)</strong> i kemotypen. Jo længere fremme, desto stærkere muskelafslapning. En kemotype som <strong>246...</strong> eller <strong>426...</strong> indikerer en kropsfokuseret sort. Brug <a href=\"/de/inhaltsstoffe/rechner\" class=\"text-primary hover:underline\">kemotyperegneren</a> til at analysere sorter."
+    }
+  },
+  "praxis": {
+    "title": "Praktisk anvendelse",
+    "intro": "Til anvendelse ved muskelspændinger er der nogle anbefalinger:",
+    "boxTitle": "Anbefalinger til muskelafslapning",
+    "tips": [
+      {
+        "label": "Timing:",
+        "text": "Bedst om aftenen, 1-2 timer før sengetid. Den sedative komponent af de muskelafslappende sorter kan gøre træt."
+      },
+      {
+        "label": "Dosering:",
+        "text": "2-3 Shells (30-45g pulver) for tydelig fysisk effekt. Nybegyndere bør starte med mindre."
+      },
+      {
+        "label": "Kombination:",
+        "text": "Varme (varmt bad, varmepude) forstærker den afslappende effekt. Også lette strækøvelser kan være nyttige."
+      },
+      {
+        "label": "Regelmæssighed:",
+        "text": "Ved kroniske spændinger kan en regelmæssig aftenbrug (med pauser) være fornuftig."
+      },
+      {
+        "label": "Hydration:",
+        "text": "Drik tilstrækkeligt med vand, da Kava kan have en let dehydratiserende effekt."
+      }
+    ],
+    "feeling": {
+      "title": "\"Kava-følelsen\"",
+      "text": "Den fysiske afslapning gennem Kava beskrives ofte som en behagelig \"vægt\". Lemmerne føles varme og afslappede, spændinger løsner sig som af sig selv. Denne tilstand skal ikke forveksles med svimmelhed – sindet forbliver klart, kun kroppen slapper dybt af."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Videre i kapitlet Virkningsmekanisme:",
+    "next": {
+      "title": "Humør & Socialt",
+      "description": "Hvordan Kava løfter humøret og fremmer sociale interaktioner",
+      "href": "/de/wirkung/stimmung"
+    }
+  }
+}

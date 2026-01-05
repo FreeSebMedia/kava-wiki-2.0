@@ -1,0 +1,297 @@
+{
+  "page": {
+    "title": "Právní status & Legalita",
+    "subtitle": "Podrobná právní analýza situace v Německu a EU",
+    "category": "Právo"
+  },
+  "toc": {
+    "novel-food-status": "Status nového jídla",
+    "situation-deutschland": "Situace v Německu",
+    "arzneimittel-vs-lebensmittel": "Léky vs. Potraviny",
+    "eu-rechtslage": "Právní situace v EU",
+    "downloads": "Stáhnout právní posudek",
+    "faq": "Časté dotazy (FAQ)",
+    "fazit": "Závěr & Doporučení"
+  },
+  "intro": {
+    "lead": "Právní situace Kavy (<em>Piper methysticum</em>) v Evropě je složitá a často nedorozuměná. Podle aktuální právní analýzy je Kava v Německu a EU <strong>žádné nové jídlo</strong> a je tedy obecně způsobilá k oběhu, pokud není prodávána jako lék.",
+    "alertTitle": "Důležitý poznatek",
+    "alertText": "Kava byla v EU konzumována v významném rozsahu před 15. květnem 1997. Proto nespadá <strong>pod</strong> nařízení o nových potravinách (EU) 2015/2283 a nevyžaduje schválení jako novou potravinu."
+  },
+  "novelFood": {
+    "title": "Status nového jídla",
+    "p1": "Rozhodující otázkou pro způsobilost Kavy jako potraviny nebo doplňku stravy v EU je, zda je klasifikována jako \"nová potravina\" (Novel Food). Nařízení o nových potravinách definuje všechny potraviny jako nové, které nebyly před <strong>15. květnem 1997</strong> v EU používány v významném rozsahu pro lidskou spotřebu.",
+    "p2": "Aktuální právní posudek dospěl k jednoznačnému závěru: <strong>Kava není nová potravina.</strong>"
+  },
+  "cards": {
+    "historicalEvidence": {
+      "title": "Historické důkazy",
+      "items": [
+        {
+          "label": "Schválení léku před rokem 1997:",
+          "text": "Kava byla v Německu oficiálně schválena již dlouho před rokem 1997 (Monografie Komise E 1990)."
+        },
+        {
+          "label": "Přítomnost na trhu:",
+          "text": "Nejméně 24 farmaceutických společností prodávalo Kava extrakty v Evropě již před rokem 1997 (zdroj: ETC Group)."
+        },
+        {
+          "label": "Rozšíření:",
+          "text": "Produkty jako \"Antares\" nebo \"Kavasporal forte\" byly široce rozšířené a volně dostupné."
+        }
+      ]
+    },
+    "legalConsequence": {
+      "title": "Právní důsledek",
+      "items": [
+        {
+          "label": "Žádná povinnost schválení:",
+          "text": "Jelikož Kava není nová potravina, nemusí procházet zdlouhavým schvalovacím procesem."
+        },
+        {
+          "label": "Způsobilost k oběhu:",
+          "text": "Kava produkty mohou být legálně prodávány jako potraviny nebo doplňky stravy."
+        },
+        {
+          "label": "Důkazní břemeno:",
+          "text": "Úřady by musely prokázat, že Kava <em>nebyla</em> konzumována – což je vzhledem k historickým faktům nemožné."
+        }
+      ]
+    }
+  },
+  "germany": {
+    "title": "Situace v Německu",
+    "intro": "Německo má zvláštní historii v zacházení s Kavou. Vývoj lze rozdělit do tří fází:",
+    "phases": [
+      {
+        "title": "Fáze 1: Zlatý věk (do roku 2001)",
+        "text": "Kava byla oblíbeným a uznávaným rostlinným prostředkem. Komise E (BfArM) potvrdila v roce 1990 účinnost při nervových úzkostech. Existovalo mnoho schválených přípravků v lékárnách a drogeriích."
+      },
+      {
+        "title": "Fáze 2: Zákaz (2002–2014)",
+        "text": "Vzhledem k podezřením na poškození jater (která byla později klasifikována jako sporná) zrušilo BfArM v roce 2002 schválení pro Kava léky. To vedlo k faktickému zákazu na trhu."
+      },
+      {
+        "title": "Fáze 3: Zrušení (od roku 2014/2019)",
+        "text": "Soudy prohlásily plošný zákaz za nezákonný. V roce 2019 bylo zrušení schválení definitivně zrušeno. Dnes platí: Zákaz se vztahoval na <em>léky</em>. Jako <em>potravina</em> (s ohledem na status ne-nové potraviny) Kava nikdy nebyla výslovně zakázána."
+      }
+    ],
+    "distinction": {
+      "title": "Rozlišení: Léky vs. Potraviny",
+      "p1": "Důležitým právním aspektem je rozlišení. Kava nesmí být v Německu prodávána jako lék, aniž by měla odpovídající schválení (které v současnosti málokterý výrobce žádá). Je proto obchodována jako <strong>potravina</strong>, <strong>doplňky stravy</strong> nebo <strong>složka</strong>.",
+      "p2": "Obchodníci nesmí činit žádná prohlášení týkající se léčebných účinků (\"pomáhá proti úzkostem\"), protože by to produkt učinilo prezentovaným lékem. Prohlášení o obecném uvolnění nebo tradici by však měla být posuzována v rámci potravinového práva."
+    }
+  },
+  "eu": {
+    "title": "Právní situace v EU",
+    "intro": "Na úrovni EU neexistuje centrální zákaz Kavy. Regulace je však nejednotná. Následující mapa poskytuje přehled o aktuální situaci v různých evropských zemích:",
+    "table": {
+      "headers": {
+        "country": "Země",
+        "status": "Status",
+        "details": "Podrobnosti"
+      },
+      "rows": [
+        {
+          "country": "Německo",
+          "status": "Legální",
+          "details": "Jako potravina/NEM způsobilá k oběhu (žádné nové jídlo). Status léku možný, ale vzácný."
+        },
+        {
+          "country": "Polsko",
+          "status": "Legální",
+          "details": "Starý zákaz byl v roce 2018 výslovně zrušen. Kava je volně prodejná."
+        },
+        {
+          "country": "Velká Británie",
+          "status": "Omezeno",
+          "details": "Prodej pro lidskou spotřebu je oficiálně stále omezen, vlastnictví a dovoz pro osobní potřebu jsou často tolerovány."
+        },
+        {
+          "country": "Francie",
+          "status": "Šedá zóna",
+          "details": "Přísná interpretace zákonů o lécích, ale žádný výslovný zákaz nových potravin."
+        }
+      ]
+    }
+  },
+  "conclusion": {
+    "title": "Závěr & Doporučení",
+    "text": "Právní panika z počátku 2000. let je vědecky a právně překonaná. Kava je v Německu a mnoha částech EU legálně dostupná. Spotřebitelé by si však měli dávat pozor na nákup <strong>Noble Kava</strong> od certifikovaných obchodníků, aby zajistili kvalitu a bezpečnost.",
+    "disclaimerTitle": "Právní upozornění",
+    "disclaimerText": "Tyto informace nepředstavují právní poradenství. Právní situace se může měnit. Doporučujeme obchodníkům a dovozcům, aby se před obchodováním právně poradili."
+  },
+  "sources": {
+    "title": "Zdroje & Odkazy",
+    "items": [
+      "Právní posudek k zařazení Kavy jako nového jídla (2025), GFY Babilon LLP",
+      "Monografie Komise E, Bundesanzeiger č. 101 ze dne 1.6.1990",
+      "ETC Group: \"Kava Boom\", RAFI Communique, 1996/1997",
+      "Správní soud v Kolíně, rozsudky k zrušení rozhodnutí o zrušení",
+      "Nařízení (EU) 2015/2283 o nových potravinách"
+    ]
+  },
+  "faq": {
+    "title": "Časté dotazy k legalitě (FAQ)",
+    "items": [
+      {
+        "question": "Mohu si objednat Kavu z USA?",
+        "answer": "<p class=\"mb-2\"><strong>Obecně ano, ale s opatrností.</strong> Jelikož Kava není v Německu zařazena mezi omamné látky, dovoz pro osobní potřebu není trestný podle zákona o omamných látkách (BtMG).</p><p>Ale celní úřad může zásilku zadržet, pokud existuje podezření, že se jedná o neschválený lék. V takovém případě je zásilka většinou vrácena odesílateli nebo zničena. Doporučuje se proto objednávat u evropských obchodníků, kteří již zboží dovezli do EU.</p>"
+      },
+      {
+        "question": "Je vlastnictví Kavy trestné?",
+        "answer": "<p><strong>Ne.</strong> Vlastnictví Kava kořenového prášku je v Německu a většině zemí EU legální. Kava nepodléhá zákonu o omamných látkách (BtMG). Je to legální rostlinná látka.</p>"
+      },
+      {
+        "question": "Proč není Kava v lékárně?",
+        "answer": "<p class=\"mb-2\">Po zákazu v roce 2002 (který byl zrušen v roce 2014/2015) mnoho farmaceutických výrobců své schválení neobnovilo, protože proces je nákladný a složitý.</p><p>V současnosti existuje v Německu jen málo schválených Kava hotových léků. Kava je proto primárně dostupná jako surovina (např. jako \"koupelový přísada\" nebo etnobotanický výukový materiál) nebo v některých případech jako doplněk stravy (v jiných zemích EU).</p>"
+      },
+      {
+        "question": "Mohu si vzít Kavu do letadla?",
+        "answer": "<p class=\"mb-2\">V rámci EU je to obvykle bez problémů, pokud se jedná o množství pro osobní potřebu.</p><p>Při cestování mimo EU (např. do Austrálie, Nového Zélandu nebo do USA) byste měli zkontrolovat tamní dovozní předpisy. V některých zemích (např. Singapur, Japonsko) mohou platit přísnější pravidla. Informujte se před odjezdem na příslušné ambasádě.</p>"
+      },
+      {
+        "question": "Je Kava \"nové jídlo\"?",
+        "answer": "<p class=\"mb-2\"><strong>Podle převládající právní praxe: Ne.</strong></p><p>\"Nové jídlo\" je potravina, která nebyla před 15. květnem 1997 v EU konzumována v významném rozsahu. Kava však byla již dlouho před tímto datem v Evropě (také jako potravina/poživatina v obchodech se zdravou výživou) a jako lék přítomna, takže se nařízení o nových potravinách na to nevztahuje. Přesto se některé úřady občas pokoušejí Kavu takto klasifikovat, což je však právně napadnutelné.</p>"
+      }
+    ]
+  },
+  "download": {
+    "title": "Stáhnout právní posudek",
+    "description": "Zde si stáhněte kompletní právní posudek k zařazení Kavy jako nového jídla. Dostupné v němčině a angličtině.",
+    "buttonDe": "Posudek (Německy)",
+    "buttonEn": "Právní posudek (Anglicky)",
+    "copyright": {
+      "title": "Upozornění na autorská práva & Podmínky použití:",
+      "text": "Právní posudek byl objednán společností <strong>Kava-Mode.com</strong>.",
+      "cta": "Kupte kvalitní Nobel-Kava v Německu a Evropě."
+    }
+  },
+  "map": {
+    "title": "Právní status v Evropě",
+    "disclaimer": "Poznámka: Tato mapa slouží pouze jako orientační a nepředstavuje právní poradenství. Zákony se mohou měnit.",
+    "statusLabels": {
+      "legal": "Legální / Povolené",
+      "grey": "Šedá zóna / Tolerováno",
+      "restricted": "Omezeno / Zakázáno"
+    },
+    "countries": {
+      "IS": {
+        "name": "Island",
+        "details": "Šedá zóna: Dovoz pro osobní potřebu většinou tolerován."
+      },
+      "NO": {
+        "name": "Norsko",
+        "details": "Přísně regulováno: Považováno za lék."
+      },
+      "SE": {
+        "name": "Švédsko",
+        "details": "Status léku: Žádný volný prodej."
+      },
+      "FI": {
+        "name": "Finsko",
+        "details": "Status léku: Na předpis."
+      },
+      "IE": {
+        "name": "Irsko",
+        "details": "Zákaz prodeje Kava produktů."
+      },
+      "UK": {
+        "name": "UK",
+        "details": "Prodej zakázán, vlastnictví pro osobní potřebu legální."
+      },
+      "DK": {
+        "name": "Dánsko",
+        "details": "Status léku: Na předpis."
+      },
+      "EE": {
+        "name": "Estonsko",
+        "details": "Status nejasný, dovoz často možný."
+      },
+      "NL": {
+        "name": "Nizozemsko",
+        "details": "Šedá zóna: Prodej omezen, vlastnictví legální."
+      },
+      "DE": {
+        "name": "Německo",
+        "details": "Legální: Jako potravina/složka způsobilá k oběhu (ne jako lék)."
+      },
+      "PL": {
+        "name": "Polsko",
+        "details": "Legální: Zákaz byl v roce 2018 zrušen."
+      },
+      "LT": {
+        "name": "Litva",
+        "details": "Šedá zóna."
+      },
+      "LV": {
+        "name": "Lotyšsko",
+        "details": "Šedá zóna."
+      },
+      "BE": {
+        "name": "Belgie",
+        "details": "Šedá zóna: Dovoz pro osobní potřebu většinou možný."
+      },
+      "LU": {
+        "name": "Lucembursko",
+        "details": "Šedá zóna."
+      },
+      "CZ": {
+        "name": "Česká republika",
+        "details": "Legální: Žádné specifické zákazy nejsou známy."
+      },
+      "SK": {
+        "name": "Slovensko",
+        "details": "Šedá zóna."
+      },
+      "FR": {
+        "name": "Francie",
+        "details": "Přísně regulováno: Prodej Kava produktů zakázán."
+      },
+      "CH": {
+        "name": "Švýcarsko",
+        "details": "Status léku: Dovoz malých množství možný."
+      },
+      "AT": {
+        "name": "Rakousko",
+        "details": "Šedá zóna: Podobně jako DE, ale přísnější interpretace."
+      },
+      "HU": {
+        "name": "Maďarsko",
+        "details": "Legální: Žádné zákazy."
+      },
+      "PT": {
+        "name": "Portugalsko",
+        "details": "Šedá zóna."
+      },
+      "ES": {
+        "name": "Španělsko",
+        "details": "Legální: Prodej a vlastnictví povoleno."
+      },
+      "IT": {
+        "name": "Itálie",
+        "details": "Šedá zóna: Prodej jako potravina často tolerován."
+      },
+      "SI": {
+        "name": "Slovinsko",
+        "details": "Šedá zóna."
+      },
+      "HR": {
+        "name": "Chorvatsko",
+        "details": "Šedá zóna."
+      },
+      "GR": {
+        "name": "Řecko",
+        "details": "Šedá zóna."
+      },
+      "BG": {
+        "name": "Bulharsko",
+        "details": "Legální."
+      },
+      "RO": {
+        "name": "Rumunsko",
+        "details": "Šedá zóna."
+      }
+    }
+  }
+}

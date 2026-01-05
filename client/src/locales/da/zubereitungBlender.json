@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Blender-metode",
+    "subtitle": "Den hurtige og effektive måde at forberede Kava på – ideel til den moderne hverdag.",
+    "category": "Forberedelse"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "zubereitung": "Forberedelse",
+    "current": "Blender-metode"
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Oversigt",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Nødvendige materialer",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Trin-for-trin vejledning",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Sammenligning med den traditionelle metode",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Ekspert-tips",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Samlet tid",
+    "fast": "Hurtig",
+    "lowEffort": "Lidt arbejde",
+    "highPotency": "Høj styrke",
+    "effectiveExtraction": "Effektiv ekstraktion",
+    "tip": "Tip",
+    "essential": "Essentiel",
+    "importantForBestResults": "Vigtigt for de bedste resultater",
+    "aspect": "Aspekt",
+    "traditional": "Traditionel (Æltning)",
+    "blender": "Blender",
+    "otherMethods": "Andre forberedelsesmetoder"
+  },
+  "overview": {
+    "intro": "Blender-metoden er det <strong>moderne alternativ</strong> til den traditionelle æltning. Den er hurtigere, mindre arbejdsintensiv og giver stadig en <strong>meget god ekstraktion</strong>.",
+    "alert": {
+      "title": "Ideel til...",
+      "text": "Begyndere, der søger en enkel metode, eller erfarne brugere, der har lidt tid. Blender-metoden er også perfekt til større mængder."
+    }
+  },
+  "materials": {
+    "title": "Nødvendige materialer",
+    "essential": [
+      {
+        "name": "Standmixer / Blender",
+        "note": "Mindst 500 watt, helst 1000+ watt"
+      },
+      {
+        "name": "Kava-rod pulver",
+        "type": "Medium grind",
+        "note": "20-40g afhængigt af erfaring"
+      },
+      {
+        "name": "Filterpose",
+        "note": "Nødde-mælk pose eller fint si"
+      },
+      {
+        "name": "Varmt vand",
+        "note": "400-600ml, håndvarmt (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Kokosolie eller kokosmælk",
+        "note": "1 spsk – essentiel for god ekstraktion!"
+      },
+      {
+        "name": "Køkkenvægt",
+        "note": "Til konsistent dosering"
+      },
+      {
+        "name": "Stor skål",
+        "note": "Til at opsamle ved filtrering"
+      }
+    ],
+    "alert": {
+      "title": "Mixer-krav",
+      "text": "Brug en kraftfuld standmixer. Stavblendere eller svage blendere ekstrakterer ikke effektivt og kan overophede. Ideelt er højtydende blendere som Vitamix eller Blendtec."
+    }
+  },
+  "steps": {
+    "title": "Trin-for-trin vejledning",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Forbered ingredienserne",
+        "duration": "2 Min",
+        "description": "Mål og forbered alle ingredienser.",
+        "details": [
+          "Veje Kava-pulver (20-40g afhængigt af erfaring)",
+          "Mål vand (400-600ml)",
+          "Forbered 1 spsk kokosolie eller kokosmælk",
+          "Gør filterpose og opsamlingsskål klar"
+        ],
+        "tip": "Fedtstoffet er særligt vigtigt i Blender-metoden, da det stabiliserer emulsionen."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Læg i blenderen",
+        "duration": "1 Min",
+        "description": "Fyld alle ingredienser i standmixeren.",
+        "details": [
+          "Først hæld vandet i (håndvarmt, 35-45°C)",
+          "Tilsæt derefter Kava-pulveret",
+          "Til sidst tilsættes fedtet (kokosolie/kokosmælk)",
+          "Luk låget tæt!"
+        ],
+        "tip": "Varmt vand forbedrer ekstraktionen. Koldt vand fungerer også, men er mindre effektivt."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Bland",
+        "duration": "3-4 Min",
+        "description": "Blend på højeste niveau for maksimal ekstraktion.",
+        "details": [
+          "Sæt blenderen på højeste niveau",
+          "Blend i 3-4 minutter kontinuerligt",
+          "Blandingen bliver skummende og mælkeagtig-brun",
+          "Tag korte pauser ved overophedning"
+        ],
+        "tip": "Længere blending = stærkere Kava. Men pas på: Nogle blendere overopheder efter 4+ minutter."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filtrer",
+        "duration": "3 Min",
+        "description": "Hæld blandingen gennem en filterpose.",
+        "details": [
+          "Placer filterposen over en stor skål",
+          "Hæld langsomt blenderblandingen i",
+          "Klem posen og vrid den",
+          "Pres flere gange, indtil der næsten ikke kommer væske mere"
+        ],
+        "tip": "Dette trin er vigtigt! Uden filtrering drikker du grove fibre, som kan forårsage kvalme."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Server",
+        "duration": "Straks",
+        "description": "Nyd din Blender-Kava!",
+        "details": [
+          "Hæld i skåle eller kopper",
+          "Valgfrit: Kort i køleskabet for kold Kava",
+          "Drik i et drag ('Chug')",
+          "Hav en chaser (frugt) klar"
+        ],
+        "tip": "Blender-Kava kan smage lidt mere bittert end traditionelt tilberedt. En god chaser hjælper!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Sammenligning med den traditionelle metode",
+    "conclusion": "<strong>Konklusion:</strong> Blender-metoden er ideel til hverdagen og begyndere. Til særlige lejligheder eller maksimal styrke er den traditionelle metode at foretrække.",
+    "items": [
+      {
+        "aspect": "Forberedelsestid",
+        "traditional": "20-25 minutter",
+        "blender": "8-10 minutter",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Styrke",
+        "traditional": "Meget høj",
+        "blender": "Høj til meget høj",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Smag",
+        "traditional": "Mildere, jordagtig",
+        "blender": "Bitterere, mere intens",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Arbejdsindsats",
+        "traditional": "Høj (fysisk)",
+        "blender": "Lav",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Udstyr",
+        "traditional": "Kun pose + skål",
+        "blender": "Standmixer nødvendig",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "For begyndere",
+        "traditional": "Godt egnet",
+        "blender": "Meget godt egnet",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Ekspert-tips",
+    "items": [
+      {
+        "name": "Isterning-trick",
+        "text": "Tilsæt 2-3 isterninger til blenderen. Det køler blandingen under blending og forhindrer overophedning ved længere blendetider."
+      },
+      {
+        "name": "Dobbelt filtrering",
+        "text": "Filtrer to gange – først gennem en grov, derefter gennem en fin pose. Det giver en glattere Kava uden sediment."
+      },
+      {
+        "name": "Lecithin-boost",
+        "text": "En teskefuld solsikke-lecithin forbedrer emulsionen og kan øge bioavailability af Kavalactone."
+      },
+      {
+        "name": "Batch-forberedelse",
+        "text": "Forbered større mængder og opbevar den filtrerede Kava i køleskabet. Holder 2-3 dage. Ryst godt før indtagelse!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Traditionel æltning",
+      "subtitle": "Maksimal styrke, autentisk oplevelse",
+      "href": "/da/forberedelse/traditionelt"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Ingen indsats, klar til at drikke med det samme",
+      "href": "/da/forberedelse/instant"
+    },
+    "calculator": {
+      "title": "Dosering beregner",
+      "subtitle": "Personlige anbefalinger til din sort",
+      "href": "/da/forberedelse/beregner"
+    }
+  }
+}

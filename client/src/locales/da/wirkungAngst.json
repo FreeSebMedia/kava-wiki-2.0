@@ -1,0 +1,278 @@
+{
+  "page": {
+    "title": "Angstløsning & Anxiolyse",
+    "subtitle": "Hvordan Kava naturligt lindrer angst – virkningsmekanismer, studier og anbefalede sorter.",
+    "category": "Virkningsmekanisme"
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introduktion",
+        "level": 1
+      },
+      {
+        "id": "wirkmechanismus",
+        "title": "Virkningsmekanisme",
+        "level": 1
+      },
+      {
+        "id": "gaba-system",
+        "title": "GABA-systemet",
+        "level": 2
+      },
+      {
+        "id": "weitere-mechanismen",
+        "title": "Andre mekanismer",
+        "level": 2
+      },
+      {
+        "id": "studienlage",
+        "title": "Videnskabelig studieoversigt",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Kava vs. Benzodiazepiner",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Anbefalede kemotyper & sorter",
+        "level": 1
+      },
+      {
+        "id": "anwendung",
+        "title": "Praktisk anvendelse",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "wirkung": "Virkningsmekanisme",
+    "current": "Angstløsning"
+  },
+  "einfuehrung": {
+    "paragraph1": "Den <strong>angstløsende effekt</strong> (Anxiolyse) er den bedst dokumenterede og videnskabeligt undersøgte egenskab ved Kava. I årtusinder har folkene i Stillehavsområdet brugt planten til at finde indre ro – og moderne forskning bekræfter denne traditionelle anvendelse.",
+    "paragraph2": "I modsætning til farmaceutiske anxiolytika som benzodiazepiner virker Kava <strong>uden kognitive begrænsninger</strong>. Sindet forbliver klart og fokuseret, mens spændinger og bekymringer opløses. Denne unikke tilstand beskrives ofte som \"vågen afslapning\" eller \"aktiv sindsro\"."
+  },
+  "wirkmechanismus": {
+    "title": "Virkningsmekanisme",
+    "intro": "Den anxiolytiske effekt af Kava er baseret på et komplekst samspil mellem flere neurobiologiske mekanismer. I centrum står moduleringen af <strong>GABA-systemet</strong>, men også andre neurotransmitter-systemer er involveret.",
+    "gaba": {
+      "title": "GABA-systemet",
+      "intro": "GABA (Gamma-aminobutyric acid) er den vigtigste hæmmende neurotransmitter i hjernen. Når GABA binder sig til sin receptor, åbner en kloridkanal, negative ioner strømmer ind i nervecellen, og denne bliver mindre excitabel. Resultatet: <strong>Beroligelse, afslapning, angstløsning</strong>.",
+      "boxTitle": "Forløbet af GABA-modulation",
+      "steps": [
+        "Kavalacton (f.eks. Kavain) når hjernen via blodcirkulationen",
+        "Binding til GABA-A-receptoren på nerveceller (et andet sted end benzodiazepiner)",
+        "Åbning af kloridkanalen → øget indstrømning af Cl⁻-ioner",
+        "Neuronale hyperpolarisering → nervecellens excitabilitet falder",
+        "Mærkbar effekt: Beroligelse, angstløsning, muskelafslapning"
+      ],
+      "conclusion": "Den afgørende forskel fra benzodiazepiner: Kavalactoner binder sig til et <strong>andet sted på GABA-A-receptoren</strong>. Dette forklarer, hvorfor Kava ikke forårsager afhængighed og ikke påvirker de kognitive funktioner."
+    },
+    "weitere": {
+      "title": "Andre mekanismer",
+      "items": [
+        {
+          "title": "Natrium-/calciumkanal-blokade",
+          "text": "Kavalactoner blokerer spændingsafhængige natrium- og calciumkanaler. Dette reducerer excitabiliteten af nerveceller og bidrager til den beroligende effekt. Denne mekanisme er også ansvarlig for den <strong>antikonvulsive</strong> (krampeløsende) effekt."
+        },
+        {
+          "title": "MAO-B-hæmning",
+          "text": "Nogle kavalactoner (især Desmethoxyyangonin) hæmmer enzymet monoaminoxidase-B. Dette bremser nedbrydningen af dopamin og bidrager til den <strong>humørforbedrende</strong> effekt – uden risici ved klassiske MAO-hæmmere."
+        },
+        {
+          "title": "Noradrenalin-genoptagelse",
+          "text": "Hæmningen af noradrenalin-genoptagelsen bidrager til <strong>forbedring af koncentrationen</strong> uden at gøre en nervøs. Dette forklarer den \"vågne afslapning\", som adskiller Kava fra sederende stoffer."
+        },
+        {
+          "title": "CB1-receptor-affinitet",
+          "text": "Yangonin viser en dokumenteret affinitet til CB1-receptoren i endocannabinoid-systemet. Dette forklarer den let <strong>euforiserende</strong> komponent af Kava-effekten."
+        }
+      ]
+    }
+  },
+  "studienlage": {
+    "title": "Videnskabelig studieoversigt",
+    "intro": "Den anxiolytiske effekt af Kava er dokumenteret gennem adskillige kliniske studier. En <strong>Cochrane-meta-analyse</strong> fra 2003 (opdateret 2018) opsummerede resultaterne og kom til en positiv konklusion.",
+    "boxTitle": "Vigtige studieresultater",
+    "studies": [
+      {
+        "name": "Cochrane-review (Pittler & Ernst, 2003):",
+        "text": "Analyse af 11 randomiserede kontrollerede studier med i alt 645 deltagere. Kava viste en signifikant overlegenhed i forhold til placebo ved behandling af angstlidelser."
+      },
+      {
+        "name": "Sarris et al. (2013):",
+        "text": "Dobbeltblind, placebokontrolleret studie med 75 deltagere med generaliseret angstlidelse. Kava-ekstrakt (120-240 mg kavalactoner/dag) førte til signifikant reduktion af angstsymptomer."
+      },
+      {
+        "name": "Lehrl (2004):",
+        "text": "Sammenligningsstudie mellem Kava og Oxazepam (benzodiazepin). Begge viste sammenlignelig anxiolytisk effekt, men Kava uden kognitive nedsættelser."
+      }
+    ],
+    "quote": {
+      "text": "Studieoversigten om Kava er særligt stærk inden for angstlindring. Studier viser en reduktion af fysiologiske stressmarkører (f.eks. hjertefrekvens, cortisol) efter indtagelse af Kava-ekstrakter eller traditionelle drikke.",
+      "source": "— Kava – Roden til ro"
+    }
+  },
+  "vergleich": {
+    "title": "Kava vs. Benzodiazepiner",
+    "intro": "Sammenligningen mellem Kava og benzodiazepiner er særligt oplysende, da begge påvirker GABA-systemet, men med meget forskellige resultater.",
+    "table": {
+      "headers": {
+        "property": "Egenskab",
+        "kava": "Kava",
+        "benzo": "Benzodiazepiner"
+      },
+      "rows": [
+        {
+          "property": "Anxiolytisk effekt",
+          "kava": "Stærk, men blid",
+          "benzo": "Meget stærk"
+        },
+        {
+          "property": "Kognitiv funktion",
+          "kava": "Bevares eller forbedres",
+          "benzo": "Påvirket"
+        },
+        {
+          "property": "Sedation",
+          "kava": "Lav til moderat",
+          "benzo": "Stærk"
+        },
+        {
+          "property": "Afhængighedspotentiale",
+          "kava": "Meget lavt",
+          "benzo": "Højt (efter få uger)"
+        },
+        {
+          "property": "Toleransudvikling",
+          "kava": "Omvendt tolerance",
+          "benzo": "Hurtig tolerance"
+        },
+        {
+          "property": "Abstinenssymptomer",
+          "kava": "Ingen kendte",
+          "benzo": "Alvorlige, potentielt farlige"
+        },
+        {
+          "property": "Interaktioner",
+          "kava": "Lave",
+          "benzo": "Talrige"
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Fordele ved Kava",
+      "items": [
+        "Ingen udvikling af afhængighed selv ved langvarig anvendelse",
+        "Mental klarhed forbliver intakt – ideel til arbejde og sociale situationer",
+        "Ingen \"hangover\" eller rebound-angst dagen efter",
+        "Kan tages efter behov uden opbygning af tolerance",
+        "Naturligt produkt med tusindårig tradition"
+      ]
+    }
+  },
+  "chemotypen": {
+    "title": "Anbefalede kemotyper & sorter",
+    "intro": "For den <strong>angstløsende effekt</strong> er sorter med højt kavainindhold (position 4 som første i kemotypen) særligt anbefalelsesværdige. Disse \"Heady\" Kavas virker primært mentalt og holder sindet klart.",
+    "headyLabel": "Heady",
+    "idealFor": "Ideel til angstløsning",
+    "varieties": [
+      {
+        "name": "Borogu (Vanuatu)",
+        "chemotype": "426531",
+        "description": "Klassisk Noble Kava, afbalanceret med let Heady-tendens. Ideel for begyndere."
+      },
+      {
+        "name": "Kelai (Vanuatu)",
+        "chemotype": "423165",
+        "description": "Stærkt anxiolytisk, meget populær. Klar, fokuseret afslapning."
+      },
+      {
+        "name": "Melo Melo (Vanuatu)",
+        "chemotype": "463251",
+        "description": "Heady med let eufori. Ideel til sociale situationer."
+      },
+      {
+        "name": "Pouni Ono (Tonga)",
+        "chemotype": "426315",
+        "description": "Humørforbedrende og angstløsende. Premium kvalitet."
+      }
+    ],
+    "warning": {
+      "title": "Ikke anbefalet til angstløsning",
+      "text": "<strong>Tudei-sorter</strong> (genkendelig ved DHM på position 1 eller 2, f.eks. kemotype 526431) er ikke egnede til behandling af angst. De virker stærkt sederende og kan føre til træthed dagen efter. Også meget \"Heavy\" sorter kan være kontraproduktive, når klarhed ønskes."
+    }
+  },
+  "anwendung": {
+    "title": "Praktisk anvendelse",
+    "intro": "Til anvendelse ved angstlidelser findes der forskellige strategier, afhængigt af om det drejer sig om akutte situationer eller langsigtet støtte.",
+    "acute": {
+      "title": "Ved akut angst",
+      "items": [
+        {
+          "label": "Dosering:",
+          "text": "1-2 Shells (ca. 15-30g pulver)"
+        },
+        {
+          "label": "Forberedelse:",
+          "text": "Traditionelt æltet i vand"
+        },
+        {
+          "label": "Virkningsindtræden:",
+          "text": "15-30 minutter"
+        },
+        {
+          "label": "Sort:",
+          "text": "Heady Kava (f.eks. Kelai, Borogu)"
+        },
+        {
+          "label": "Tip:",
+          "text": "På tom mave for hurtigere virkning"
+        }
+      ]
+    },
+    "daily": {
+      "title": "Til daglig støtte",
+      "items": [
+        {
+          "label": "Dosering:",
+          "text": "100-250 mg kavalactoner/dag"
+        },
+        {
+          "label": "Form:",
+          "text": "Traditionel drik eller kapsler"
+        },
+        {
+          "label": "Timing:",
+          "text": "Om aftenen eller efter behov"
+        },
+        {
+          "label": "Bemærk:",
+          "text": "\"Omvendt tolerance\" – effekten kan øges over tid"
+        },
+        {
+          "label": "Pause:",
+          "text": "1-2 dage om ugen anbefales"
+        }
+      ]
+    },
+    "reverseTolerance": {
+      "title": "Omvendt tolerance",
+      "text": "Et unikt fænomen ved Kava: I modsætning til de fleste psykoaktive stoffer kan effekten ved regelmæssig anvendelse <strong>blive stærkere</strong>, ikke svagere. Begyndere har ofte brug for højere doser, mens erfarne brugere klarer sig med mindre. Dette gør Kava til en bæredygtig mulighed for langsigtet angsthåndtering."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Fortsæt i kapitlet Virkning:",
+    "next": {
+      "title": "Søvn & afslapning",
+      "description": "Hvordan Kava forbedrer søvn og fremmer dyb afslapning",
+      "href": "/da/virkning/soevn"
+    }
+  }
+}

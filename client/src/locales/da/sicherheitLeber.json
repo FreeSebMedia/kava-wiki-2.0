@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Leversikkerhed & Hepatotoksicitet",
+    "subtitle": "En videnskabelig analyse af Kava-leverkontroversen: Fakta, myter og den nuværende forskningsstatus.",
+    "category": "Sikkerhed",
+    "breadcrumbs": {
+      "home": "Hjem",
+      "sicherheit": "Sikkerhed",
+      "current": "Leversikkerhed"
+    }
+  },
+  "toc": {
+    "title": "Indhold",
+    "zusammenfassung": "Sammenfatning",
+    "verbot2002": "Forbuddet fra 2002",
+    "wasWirklichGeschah": "Hvad der virkelig skete",
+    "rehabilitation": "Rehabilitering & domme",
+    "wissenschaft": "Den videnskabelige evidens",
+    "whoBewertung": "WHO-vurdering 2007",
+    "emaBewertung": "EMA-vurdering 2017",
+    "klinischeStudien": "Kliniske studier",
+    "risikofaktoren": "Identificerede risikofaktorer",
+    "extrakte": "Ekstrakt-typer",
+    "pflanzenteile": "Plantedelene",
+    "genetik": "Genetiske faktorer",
+    "komedikation": "Komedikation & alkohol",
+    "mechanismen": "Mulige mekanismer",
+    "empfehlungen": "Praktiske anbefalinger",
+    "quellen": "Kilder"
+  },
+  "zusammenfassung": {
+    "title": "Aktuel videnskabelig konsensus",
+    "intro": "Efter omfattende analyser af WHO, EMA og uafhængige forskere gælder:",
+    "points": [
+      "Traditionelt tilberedt Kava fra Noble-varianter er ved korrekt anvendelse <strong>sikkert</strong>",
+      "Alvorlige leverskader er <strong>ekstremt sjældne</strong> (estimeret incidens: 1:60.000 til 1:1.000.000)",
+      "De fleste tilfælde rapporterede <strong>betydelige kvalitetsmangler</strong> i kausalitetsvurderingen",
+      "EU-forbuddet fra 2002 blev af tyske domstole vurderet som <strong>uforholdsmæssigt</strong>"
+    ]
+  },
+  "verbot2002": {
+    "title": "Forbuddet fra 2002",
+    "intro": "I 2002 blev Kava fjernet fra markedet i Tyskland og mange andre europæiske lande. Det Føderale Institut for Lægemidler og Medicinsk Udstyr (BfArM) tilbagekaldte godkendelserne for Kava-holdige lægemidler, efter at der var indkommet rapporter om alvorlige leverskader. Denne beslutning havde vidtrækkende konsekvenser for det globale Kava-marked og de stillehavsproducerende lande.",
+    "chronologie": {
+      "title": "Tidslinje for begivenheder",
+      "note": "For detaljerede oplysninger om den aktuelle retsstatus i forskellige lande se",
+      "linkText": "Retsstatus & Legalitet",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Første tilfælde af leverskader hos Kava-brugere i Europa"
+        },
+        {
+          "date": "Nov 2001",
+          "text": "BfArM beordrer trinvise procedurer"
+        },
+        {
+          "date": "Jun 2002",
+          "text": "Tilbagekaldelse af godkendelser i Tyskland"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Forbud i UK, Frankrig, Schweiz, Canada, Australien"
+        },
+        {
+          "date": "2014",
+          "text": "Forvaltningsdomstolen i Köln erklærer forbuddet for ulovligt"
+        },
+        {
+          "date": "2015",
+          "text": "OVG Münster bekræfter: Forbuddet var uforholdsmæssigt"
+        },
+        {
+          "date": "2019",
+          "text": "Tilbagekaldelsen af lægemiddelgodkendelser blev endeligt ophævet"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Hvad der virkelig skete: En kritisk analyse",
+    "intro": "De oprindelige tilfælde, der førte til forbuddet, blev i de følgende år intensivt undersøgt videnskabeligt. Her viste sig betydelige metodiske mangler:",
+    "probleme": {
+      "title": "Problemer med tilfælde",
+      "items": [
+        "Ufuldstændig dokumentation i over 50% af tilfældene",
+        "Ingen standardiseret kausalitetsvurdering (RUCAM)",
+        "Komedikation med hepatotoksiske stoffer ignoreret",
+        "Alkoholforbrug ofte ikke dokumenteret",
+        "Produktkvalitet og plantedelene uklare"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Senere erkendelser",
+      "items": [
+        "Mange produkter indeholdt overjordiske plantedelene",
+        "Acetoniske ekstrakter viste højere risiko end vandige",
+        "Tudei-Kava blev delvist solgt som Noble",
+        "Skimmelkontaminering påvist i nogle produkter",
+        "Genetiske polymorfismer identificeret som risikofaktor"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Rehabilitering gennem domstolene",
+    "intro": "Efter mange års retssager kom tyske domstole til et entydigt resultat. Forvaltningsdomstolen i Köln og senere Oberverwaltungsgericht Münster fastslog, at forbuddet var <strong>uforholdsmæssigt</strong> og at myndighederne ikke korrekt havde vurderet den videnskabelige evidens.",
+    "quote": "\"Den kausalitet, som BfArM antager mellem indtagelse af Kava-holdige lægemidler og de opståede leverskader, er ikke tilstrækkeligt dokumenteret. Risiko-nytte-vurderingen blev udført forkert.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "Den videnskabelige evidens",
+    "intro": "Efter forbuddet blev der gennemført flere omfattende videnskabelige vurderinger, der tegner et mere nuanceret billede af Kava-sikkerhed."
+  },
+  "whoBewertung": {
+    "title": "WHO-vurdering 2007",
+    "intro": "Verdenssundhedsorganisationen (WHO) gennemførte i 2007 en omfattende analyse af alle tilgængelige tilfælde. Resultatet var oplysende:",
+    "analysisTitle": "WHO-analyse af 93 tilfælde",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Tilfælde \"sandsynligvis\" kausale",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Tilfælde \"muligvis\" kausale",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Tilfælde ikke vurderbare",
+        "color": "muted"
+      }
+    ],
+    "note": "WHO fandt, at acetoniske og ethanoliske ekstrakter havde en højere risiko end syntetiske Kavalactoner, hvilket peger på ikke-Kavalacton-komponenter som en mulig årsag."
+  },
+  "emaBewertung": {
+    "title": "EMA-vurdering 2017",
+    "intro": "Den Europæiske Lægemiddelagentur (EMA) offentliggjorde i 2017 en 103-siders vurderingsrapport, der opsummerede alle tilgængelige data:",
+    "findings": [
+      {
+        "label": "Kliniske studier",
+        "text": "Ingen signifikant hepatotoksicitet i kontrollerede studier"
+      },
+      {
+        "label": "Bivirkninger",
+        "text": "Kun milde, reversible transaminase-forhøjelser hos få deltagere"
+      },
+      {
+        "label": "Risikofaktorer",
+        "text": "Organiske ekstrakter, alkohol, forudgående leversygdom, genetiske polymorfismer"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Evidens fra kliniske studier",
+    "intro": "Et særligt vigtigt punkt: I kontrollerede kliniske studier med standardiserede Kava-præparater blev <strong>ingen alvorlige leverskader</strong> observeret. En systematisk oversigt af Smith & Leiras (2018) analyserede 11 randomiserede studier og fandt ingen tegn på hepatotoksicitet.",
+    "tableTitle": "Sammenfatning af studier",
+    "headers": [
+      "Studie",
+      "Deltagere",
+      "Varighed",
+      "Leverskader"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 uger",
+        "result": "Ingen"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 uger",
+        "result": "Ingen*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 uger",
+        "result": "Ingen"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 studier)",
+        "duration": "1-24 uger",
+        "result": "Ingen"
+      }
+    ],
+    "footnote": "*Milde transaminase-forhøjelser hos 2 deltagere, en havde allerede forhøjede baselineværdier"
+  },
+  "risikofaktoren": {
+    "title": "Identificerede risikofaktorer",
+    "intro": "Den videnskabelige forskning har identificeret flere faktorer, der kan øge risikoen for hepatisk bivirkninger. Forståelsen af disse faktorer muliggør en sikker anvendelse."
+  },
+  "extrakte": {
+    "title": "Ekstrakt-typer: Vandig vs. Organisk",
+    "intro": "Et centralt fund fra WHO-analysen var forskellen mellem forskellige ekstraktionsmetoder:",
+    "waessrig": {
+      "title": "Vandige ekstrakter (traditionelt)",
+      "items": [
+        "Traditionel tilberedningsmetode",
+        "Ekstraherer primært Kavalactoner",
+        "Indeholder beskyttende Glutathion",
+        "Ingen dokumenteret hepatotoksicitet i stillehavs-befolkninger",
+        "Vurderet som sikker af FAO/WHO"
+      ]
+    },
+    "organisch": {
+      "title": "Organiske ekstrakter (acetoniske/ethanoliske)",
+      "items": [
+        "Industriel ekstraktionsmetode",
+        "Højere Kavalacton-koncentration",
+        "Ekstraherer også Flavokaviner",
+        "Glutathion ekstraheres ikke",
+        "Højere risiko i WHO-analyse"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Plantedelene: Rod vs. overjordiske dele",
+    "intro": "Brugen af forskellige plantedelene har betydelige konsekvenser for sikkerheden:",
+    "tableTitle": "Pipermethystin-indhold efter plantedel",
+    "headers": [
+      "Plantedel",
+      "Pipermethystin",
+      "Sikkerhed"
+    ],
+    "rows": [
+      {
+        "part": "Rod/Rhizom",
+        "content": "Ikke påviselig",
+        "safety": "Sikker",
+        "color": "primary"
+      },
+      {
+        "part": "Stængelskaller",
+        "content": "Op til 0,85%",
+        "safety": "Problematisk",
+        "color": "amber"
+      },
+      {
+        "part": "Blade",
+        "content": "Ca. 0,2%",
+        "safety": "Toksisk",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystin er et alkaloid, der in vitro har en stærk cytotoksisk virkning og forstyrrer mitochondriefunktionen (Nerurkar et al., 2004). Det findes udelukkende i overjordiske plantedelene."
+  },
+  "genetik": {
+    "title": "Genetiske faktorer: CYP2D6-polymorfismer",
+    "intro": "Kavalactoner metaboliseres primært gennem cytochrom P450 enzym-systemet, især via CYP2D6. Genetiske varianter af dette enzym kan betydeligt påvirke metaboliseringshastigheden:",
+    "factors": [
+      {
+        "label": "Dårlige metaboliserere (PM)",
+        "text": "Ca. 5-10% af europæerne har en reduceret CYP2D6-aktivitet, hvilket kan føre til højere Kavalacton-niveauer"
+      },
+      {
+        "label": "Idiosynkratiske reaktioner",
+        "text": "Nogle tilfælde kan skyldes immunformidlede mekanismer"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Komedikation & Alkohol",
+    "warning": {
+      "title": "Kritisk risikofaktor",
+      "text": "Kombinationen af Kava med alkohol eller hepatotoksiske lægemidler øger risikoen for leverskader betydeligt. I mange af de oprindelige tilfælde var alkoholforbrug dokumenteret eller ikke udelukket."
+    },
+    "intro": "WHO identificerede følgende komedikamenter som særligt problematiske:",
+    "items": [
+      "Alkohol (synergistisk hepatotoksicitet)",
+      "Paracetamol/Acetaminophen (hepatotoksisk)",
+      "Benzodiazepiner (CYP-interaktion)",
+      "Antipsykotika (CYP-interaktion)",
+      "Statiner (hepatotoksisk potentiale)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Mulige mekanismer for hepatotoksicitet",
+    "intro": "De præcise mekanismer, hvormed Kava i sjældne tilfælde kan forårsage leverskader, er endnu ikke fuldt ud klarlagt. Flere hypoteser diskuteres:",
+    "hypotheses": [
+      {
+        "title": "1. Chinon-metabolitter",
+        "text": "Kavain og Dihydrokavain kan oxideres til reaktive chinon-metabolitter, der reagerer med cellulære proteiner og kan forårsage oxidativt stress (Johnson et al., 2003). Glutathion kan neutralisere disse metabolitter – en mulig grund til, at vandige ekstrakter (der indeholder glutathion) er sikrere."
+      },
+      {
+        "title": "2. Flavokaviner",
+        "text": "Flavokavin B viser in vitro cytotoksicitet og kan inducere apoptose i hepatocytter. Organiske ekstrakter indeholder højere koncentrationer af flavokaviner end vandige præparater."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Dette alkaloid findes kun i overjordiske plantedelene og er stærkt cytotoksisk. Det hæmmer den mitochondriale åndedrætskæde og kan føre til celledød."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktiske anbefalinger for maksimal sikkerhed",
+    "items": [
+      {
+        "label": "Noble-varianter",
+        "text": "Køb kun verificerede Noble-Kava-varianter fra seriøse forhandlere"
+      },
+      {
+        "label": "Rod",
+        "text": "Brug kun rod- og rhizomprodukter, ingen overjordiske plantedelene"
+      },
+      {
+        "label": "Vandig tilberedning",
+        "text": "Foretræk traditionel tilberedningsmetode"
+      },
+      {
+        "label": "Ingen alkohol",
+        "text": "Mindst 24 timers afstand til alkoholforbrug"
+      },
+      {
+        "label": "Leverværdier",
+        "text": "Ved regelmæssigt forbrug årlig kontrol af leverværdier"
+      },
+      {
+        "label": "Advarselssignaler",
+        "text": "Stop straks ved gulsot, mørk urin eller usædvanlig træthed"
+      }
+    ]
+  }
+}

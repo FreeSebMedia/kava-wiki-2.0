@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Odrůdy z Fiji, Tonga a Hawaii",
+    "subtitle": "Regionální Kava speciality z celého Pacifiku: Od Fijského Yaqona po hawaiské 'Awa.",
+    "category": "Odrůdy"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "sorten": "Odrůdy",
+    "current": "Pacifik"
+  },
+  "toc": {
+    "title": "Obsah",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fiji – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Všechny Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Další regiony",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Původ",
+    "type": "Typ",
+    "composition": "Složení",
+    "duration": "Doba účinku",
+    "effectProfile": "Profil účinku",
+    "recommendedFor": "Doporučeno pro:",
+    "variety": "Odrůda",
+    "speciality": "Zvláštnost"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\">Na <strong>Fiji</strong> je Kava známá pod názvem <strong>Yaqona</strong> (vyslovováno \"Yang-gona\") a považuje se za oficiální národní nápoj. Název znamená \"hořký\" a odkazuje na charakteristickou chuť. Druhý název, <strong>Malogu</strong>, znamená \"uklidnit\" a popisuje účinek.</p><p>Fiji má <strong>13 zdokumentovaných odrůd Kavy</strong> a je známá svou kvalitní zpracováním. Zvlášť ceněná je <strong>Waka</strong> – Kava, která se vyrábí výhradně z postranních kořenů (ne z oddenku) a považuje se za silnější.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Těžká",
+        "speciality": "Velmi potentní, silně sedativní"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Vyvážená",
+        "speciality": "Vyvážená, všestranná"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Těžká",
+        "speciality": "Dlouhotrvající"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Vyvážená",
+        "speciality": "Tradiční"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Těžká",
+        "speciality": "Vzácná, velmi ceněná"
+      },
+      {
+        "name": "Yalu",
+        "type": "Vyvážená",
+        "speciality": "Mírná, příjemná"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Těžká",
+      "Velmi potentní"
+    ],
+    "origin": "Fiji (různé ostrovy)",
+    "type": "Waka (postranní kořeny)",
+    "duration": "5-8 hodin",
+    "description": "<strong>Loa Waka</strong> je jednou z nejpotentnějších Kavy na trhu. \"Loa\" znamená ve fijijštině \"tmavý\" a odkazuje na barvu kořenů. \"Waka\" označuje kvalitní postranní kořeny. Tato kombinace vytváří extrémně silnou, tělesně zaměřenou Kavu.",
+    "effects": [
+      {
+        "text": "<strong>Extrémně sedativní:</strong> Jedna z nejsilnějších \"Těžkých\" Kavy"
+      },
+      {
+        "text": "<strong>Hloubková relaxace svalů:</strong> Ideální při <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">napětí</a>"
+      },
+      {
+        "text": "<strong>Podporující spánek:</strong> Perfektní pro <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">problémy se spánkem</a>"
+      },
+      {
+        "text": "<strong>Dlouhotrvající:</strong> Účinek může trvat 5-8 hodin"
+      }
+    ],
+    "recommendedFor": "Zkušené uživatele, večerní konzumaci, těžké problémy se spánkem",
+    "warning": "<strong>Upozornění:</strong> Loa Waka je velmi potentní. Začátečníci by měli začít s nižší dávkou a počkat na účinek, než přidají další."
+  },
+  "tonga": {
+    "title": "Tonga – Všechny Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> je jedinečná ve světě Kavy: <strong>Všechny tam pěstované odrůdy jsou Noble</strong>. V Tonge neexistují žádné Tudei odrůdy. To činí tonganskou Kavu zvlášť bezpečnou a předvídatelnou.</p><p>Tonganská Kava je známá svou spíše <strong>\"heady\"</strong> (hlavově zaměřenou) účinností. Odrůdy jsou tendenci méně sedativní než Fijská nebo Vanuatu Kava a hodí se dobře pro denní konzumaci a společenské akce.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "Nejoblíbenější odrůda, společenská"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Vyvážená",
+        "speciality": "Mírná, příjemná"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Vyvážená",
+        "speciality": "Tradiční"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Vyvážená",
+        "speciality": "Jemná, dobrá pro začátečníky"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euforická"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Přátelská pro začátečníky"
+    ],
+    "origin": "Tonga",
+    "composition": "Blend (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 hodiny",
+    "description": "<strong>Pouni Ono</strong> je pravděpodobně nejznámější \"denní Kava\" a je směsí několika tonganských odrůd (typicky Leka Hina, Kava Kula a Kava Fulufulu). Název znamená \"šestkrát\" a odkazuje na tradiční přípravu.",
+    "effects": [
+      {
+        "text": "<strong>Euforická:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Zvedající náladu</a> a společenská"
+      },
+      {
+        "text": "<strong>Probuzení:</strong> Téměř nesedativní, ideální pro den"
+      },
+      {
+        "text": "<strong>Jemná chuť:</strong> Příjemnější než mnoho jiných odrůd"
+      },
+      {
+        "text": "<strong>Krátká doba účinku:</strong> Dobře kontrolovatelná"
+      }
+    ],
+    "recommendedFor": "Začátečníky, denní konzumaci, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">společenské akce</a>, práci",
+    "tip": "<strong>Tip:</strong> Pouni Ono je jednou z nejlepších odrůd pro začátečníky Kavy. Jemná chuť a příjemný, neohromující účinek usnadňují vstup."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">Na Hawaii se Kava nazývá <strong>'Awa</strong>. Hawaii má <strong>13 tradičních odrůd</strong>, které všechny platí za Noble a jsou vhodné pro konzumaci. Hawaijský 'Awa je známý svou vysokou potencií a jedinečným charakterem.</p><p>'Awa má zvláštní kulturní význam na Hawaii. Historicky byl určitý 'Awa vyhrazen pro šlechtu (Ali'i). Dnes je hawaiská Kava často čerstvě připravována a je kvůli vysokým výrobním nákladům dražší než Kava z jiných regionů.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Královská Kava, velmi cerebrální"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Těžká",
+        "speciality": "Ceremoniální, silně sedativní"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Vyvážená",
+        "speciality": "Vyvážená, všestranná"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Mírná, příjemná"
+      },
+      {
+        "name": "Nene",
+        "type": "Vyvážená",
+        "speciality": "Tradiční"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Těžká",
+        "speciality": "Vzácná, velmi ceněná"
+      }
+    ],
+    "warning": "<strong>Upozornění:</strong> Na Hawaii se také pěstují dvě importované Tudei odrůdy: <strong>Isa</strong> a <strong>Iwi</strong>. Tyto nejsou domácí a měly by být vyhýbány."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Královský"
+    ],
+    "origin": "Hawaii",
+    "type": "Heady / Cerebrální",
+    "duration": "2-4 hodiny",
+    "description": "<strong>Moi</strong> je legendární \"Kava králů\". V hawaiské historii byl Moi vyhrazen pro šlechtu (Ali'i) a nesměl být konzumován obyčejnými lidmi. Dnes je známý svou výjimečně cerebrální, mentálně vyjasňující účinností.",
+    "effects": [
+      {
+        "text": "<strong>Extrémně cerebrální:</strong> Podporuje mentální jasnost a soustředění"
+      },
+      {
+        "text": "<strong>Podporující kreativitu:</strong> Ideální pro <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kreativní práci</a>"
+      },
+      {
+        "text": "<strong>Téměř nesedativní:</strong> Není únavný"
+      },
+      {
+        "text": "<strong>Spirituální:</strong> Tradičně pro meditaci a ceremonie"
+      }
+    ],
+    "recommendedFor": "Kreativní práci, meditaci, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kognitivní úkoly</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>Na <strong>Samoa</strong> se Kava nazývá <strong>'Ava</strong>. Samoa má pouze <strong>4 zdokumentované odrůdy</strong>, ale bohatou ceremoniální tradici. Ceremonie 'Ava je důležitou součástí samoanské kultury a koná se při oficiálních příležitostech.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Vyvážená",
+        "speciality": "Tradiční, ceremoniální"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Mírná, příjemná"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Těžká",
+        "speciality": "Silnější, sedativní"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Vyvážená",
+        "speciality": "Importováno z Tonga"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Další regiony",
+    "intro": "Kromě hlavních pěstebních oblastí se Kava vyskytuje také v několika dalších pacifických regionech:",
+    "regions": [
+      {
+        "name": "Papua Nová Guinea",
+        "description": "PNG má pouze <strong>jednu Noble odrůdu</strong>: <strong>Kau kupwe</strong>, která se pěstuje na ostrově Baluan. Většina ostatních PNG odrůd jsou Tudei a měly by být vyhýbány."
+      },
+      {
+        "name": "Šalomouny",
+        "description": "Šalomouny mají také pouze <strong>jednu Noble odrůdu</strong>: <strong>Melomelo</strong> (nemělo by být zaměňováno s Vanuatským Melo Melo, ačkoli by mohly být příbuzné)."
+      },
+      {
+        "name": "Mikronésie",
+        "description": "Ve Federativních státech Mikronésie (Pohnpei) existuje odrůda <strong>Rahmwahnger</strong>. Kava má tam důležitý ceremoniální význam."
+      },
+      {
+        "name": "Wallis a Futuna",
+        "description": "Tyto francouzské teritorie mají své vlastní Kava tradice, ale málo zdokumentovaných unikátních odrůd."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Pokračovat v kapitole Odrůdy:",
+    "nextTitle": "Profily odrůd v detailu",
+    "nextDescription": "Podrobné profily všech důležitých odrůd s chemotypy, účinky a doporučeními",
+    "nextLink": "/de/sorten/profile"
+  }
+}

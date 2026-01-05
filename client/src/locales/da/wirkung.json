@@ -1,0 +1,139 @@
+{
+  "page": {
+    "title": "Virkning & Effekter",
+    "subtitle": "Hvordan føles Kava? En detaljeret beskrivelse af de psykiske og fysiske effekter.",
+    "category": "Virkning"
+  },
+  "toc": {
+    "title": "Indhold",
+    "neurobiologie": "Neurobiologiske mekanismer",
+    "psyche": "Psykisk virkning",
+    "koerper": "Fysisk virkning",
+    "wirkungstypen": "Heady, Heavy & Balanced",
+    "dauer": "Varighed & Forløb",
+    "unterseiten": "Detaljerede oplysninger"
+  },
+  "intro": {
+    "paragraph1": "Kava kaldes ofte \"natur-benzodiazepin\", men denne sammenligning halter. Mens det virker stærkt angstdæmpende og afslappende, holder det sindet klart og fokuseret i modsætning til alkohol eller farmaceutiske sedativer.",
+    "paragraph2": "Tilstanden beskrives ofte som \"aktiv afslapning\": Man føler sig rolig og tilfreds, men er stadig handlingsdygtig og socialt åben."
+  },
+  "neurobiologie": {
+    "title": "Neurobiologiske mekanismer",
+    "intro": "Effekten af Kava er baseret på et komplekst samspil af forskellige mekanismer i hjernen:",
+    "mechanisms": [
+      {
+        "title": "GABA-receptor-modulation",
+        "description": "Kavalactoner binder sig til GABA-A-receptorer (ligesom Valium), men på et andet bindingssted. Dette forstærker virkningen af kroppens eget budbringermolekyle GABA, hvilket fører til afslapning og angstdæmpning."
+      },
+      {
+        "title": "Natrium- & Calciumkanal-blokade",
+        "description": "Dette reducerer excitabiliteten af nerveceller og er ansvarligt for den muskelafslappende og antikonvulsive (krampeløsende) virkning."
+      },
+      {
+        "title": "MAO-B-hæmning",
+        "description": "Nogle Kavalactoner hæmmer enzymet monoaminoxidase-B, hvilket langsommeligt nedbryder dopamin. Dette forklarer den let euforiserende og humørforbedrende effekt."
+      },
+      {
+        "title": "Noradrenalin-genoptagelse-hæmning",
+        "description": "Bidrager til øget koncentration uden at gøre en nervøs."
+      }
+    ]
+  },
+  "psyche": {
+    "title": "Psykisk virkning",
+    "positiv": {
+      "title": "Positiv",
+      "items": [
+        "Stærk angstdæmpning (Anxiolyse)",
+        "Humørforbedring & eufori",
+        "Øget sociabilitet & snakkesalighed",
+        "Mental klarhed & fokus",
+        "Stressreduktion & sindsro",
+        "Tålmodighed & accept"
+      ]
+    },
+    "neutral": {
+      "title": "Neutral / Negativ (ved overdosering)",
+      "items": [
+        "Træthed (ved kraftige sorter)",
+        "Ligegyldighed",
+        "Lettere koordinationsproblemer",
+        "Kvalme (Kava kvalme)"
+      ]
+    }
+  },
+  "koerper": {
+    "title": "Fysisk virkning",
+    "paragraph1": "Det første tegn på en god Kava-virkning er ofte en <strong>følelse af bedøvelse i munden</strong> (lokalanæstetisk effekt af Kavalactoner).",
+    "paragraph2": "Derefter følger en bølge af afslapning, der ofte begynder i lemmerne. Muskelspændinger løsner sig, kroppen føles \"tung\" og behagelig. Smerter (f.eks. rygsmerter) kan lindres."
+  },
+  "wirkungstypen": {
+    "title": "Heady, Heavy & Balanced",
+    "intro": "Ikke hver Kava virker ens. Afhængigt af kemotypen skelner man mellem tre hovedkategorier:",
+    "types": [
+      {
+        "name": "Heady",
+        "label": "Hovedfokuseret & Social",
+        "description": "Domineret af Kavain. Virker humørforbedrende, euforiserende og snakkesalig. Ideel til dagtimerne eller sociale anledninger. Gør næsten ikke træt.",
+        "examples": "Pouni Ono (Tonga), Kelai (Vanuatu), Moi (Hawaii)"
+      },
+      {
+        "name": "Heavy",
+        "label": "Kropsfokuseret & Sedativ",
+        "description": "Domineret af Dihydrokavain og Methysticin. Virker stærkt muskelafslappende og søvnfremmende. Kroppen føles tung (\"Couch-Lock\"). Ideel til aftenen.",
+        "examples": "Borogu (Vanuatu), Ambae (Vanuatu)"
+      },
+      {
+        "name": "Balanced",
+        "label": "Afbalanceret",
+        "description": "En blanding af begge. Begynder ofte \"Heady\" og går derefter over i en fysisk afslapning.",
+        "examples": "Melo Melo (Vanuatu), Loa Waka (Fiji)"
+      }
+    ]
+  },
+  "dauer": {
+    "title": "Varighed & Forløb",
+    "items": [
+      {
+        "label": "Indtræden",
+        "value": "10-20 minutter efter indtagelse (på tom mave)."
+      },
+      {
+        "label": "Top",
+        "value": "Efter ca. 30-60 minutter."
+      },
+      {
+        "label": "Varighed",
+        "value": "Hovedvirkningen varer ca. 2-3 timer. En subtil afslapning (\"Afterglow\") kan vare op til 6-8 timer."
+      },
+      {
+        "label": "Søvn",
+        "value": "Kava fremmer dyb, genoprettende søvn uden \"hangover\" næste morgen. Mange brugere rapporterer om en særlig frisk opvågning."
+      }
+    ]
+  },
+  "subpages": {
+    "title": "Detaljerede oplysninger",
+    "intro": "Klik på de følgende kort for at lære mere om de enkelte virkningsområder – med videnskabelige baggrunde, anbefalede kemotyper og praktiske anvendelsestips.",
+    "angst": {
+      "title": "Angstdæmpning",
+      "description": "Hvordan Kava lindrer angst og virker som et naturligt anxiolytikum"
+    },
+    "schlaf": {
+      "title": "Søvn & Afslapning",
+      "description": "Sedative effekter og anvendelse ved søvnforstyrrelser"
+    },
+    "muskel": {
+      "title": "Muskelafslapning",
+      "description": "Fysisk afslapning og lindring af spændinger"
+    },
+    "stimmung": {
+      "title": "Humør & Sociale relationer",
+      "description": "Euforiserende effekter og social virkning af Kava"
+    },
+    "kognition": {
+      "title": "Kognitive effekter",
+      "description": "Fokus, mental klarhed og fænomenet om omvendt tolerance"
+    }
+  }
+}

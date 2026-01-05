@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Interaktions-Checker",
+    "subtitle": "Tjek potentielle interaktioner mellem dine medicin og Kava",
+    "category": "Sikkerhed",
+    "breadcrumbs": {
+      "home": "Hjem",
+      "sicherheit": "Sikkerhed",
+      "wechselwirkungen": "Interaktioner",
+      "current": "Interaktions-Checker"
+    }
+  },
+  "toc": {
+    "title": "Indhold",
+    "checker": "Interaktions-Checker",
+    "anleitung": "Vejledning",
+    "kategorien": "Risiko-kategorier",
+    "haeufige": "Ofte kontrollerede lægemidler",
+    "hinweis": "Vigtig bemærkning"
+  },
+  "ui": {
+    "disclaimerTitle": "Vigtig bemærkning",
+    "disclaimerText": "Denne checker er kun til information og erstatter ikke lægelig rådgivning. Ved usikkerhed eller hvis du tager receptpligtige lægemidler, skal du altid konsultere en læge eller apoteker.",
+    "inputTitle": "Indtast medicin",
+    "inputDescription": "Indtast navnene på dine medicin (aktiv ingrediens eller handelsnavn)",
+    "placeholder": "f.eks. Diazepam, Ibuprofen, Sertralin...",
+    "selectedMeds": "Valgte lægemidler:",
+    "checkButton": "Tjek interaktioner",
+    "commonCategories": "Almindelige lægemiddelgrupper",
+    "overallAssessment": "Samlet vurdering",
+    "detailedAnalysis": "Detaljeret analyse",
+    "category": "Kategori",
+    "mechanism": "Mekanisme",
+    "affectedEnzymes": "Berørte CYP-enzymer",
+    "recommendation": "Anbefaling",
+    "newCheck": "Ny kontrol",
+    "moreAbout": "Mere om interaktioner",
+    "moreInfo": "Yderligere information",
+    "liverSafety": "Leversikkerhed & Hepatotoksicitet",
+    "contraindications": "Kontraindikationer",
+    "safetyOverview": "Sikkerhed & Sundhed Oversigt",
+    "studies": "Videnskabelige studier"
+  },
+  "intro": {
+    "title": "Lægemiddel-check",
+    "text": "Indtast navnet på dit lægemiddel eller aktiv ingrediens for at tjekke mulige interaktioner med Kava."
+  },
+  "search": {
+    "placeholder": "Indtast lægemiddel eller aktiv ingrediens...",
+    "button": "Tjek",
+    "noResults": "Ingen lægemiddel med dette navn fundet. Tjek venligst stavemåden eller konsulter en læge."
+  },
+  "result": {
+    "risk": "Risikoniveau",
+    "mechanism": "Mekanisme",
+    "recommendation": "Anbefaling",
+    "alternatives": "Mulige alternativer"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "MEGET HØJ RISIKO",
+      "description": "Strengt kontraindiceret - kombination aldrig anvendes"
+    },
+    "high": {
+      "label": "HØJ RISIKO",
+      "description": "Undgå kombination - betydelige sundhedsrisici mulige"
+    },
+    "moderate": {
+      "label": "MODERAT RISIKO",
+      "description": "Forsigtighed påkrævet - kun under lægelig overvågning"
+    },
+    "low": {
+      "label": "LAV RISIKO",
+      "description": "Sandsynligvis sikker ved normal anvendelse"
+    },
+    "none": {
+      "label": "INGEN KENDT RISIKO",
+      "description": "Ingen kendte interaktioner dokumenteret"
+    }
+  },
+  "anleitung": {
+    "title": "Sådan bruger du checker",
+    "steps": [
+      "Indtast navnet på dit lægemiddel eller aktiv ingrediens",
+      "Klik på \"Tjek\" eller tryk på Enter",
+      "Læs risikovurderingen og anbefalingerne",
+      "Ved tvivl skal du altid konsultere en læge eller apoteker"
+    ]
+  },
+  "kategorien": {
+    "title": "Risiko-kategorier forklaret",
+    "high": {
+      "title": "Høj risiko",
+      "text": "Kombination bør undgås under alle omstændigheder. Alvorlige bivirkninger mulige."
+    },
+    "moderate": {
+      "title": "Moderat risiko",
+      "text": "Kombination kun under lægelig overvågning. Dosisjustering kan være nødvendig."
+    },
+    "low": {
+      "title": "Lav risiko",
+      "text": "Kombination sandsynligvis sikker, men individuelle reaktioner skal tages i betragtning."
+    },
+    "unknown": {
+      "title": "Ukendt",
+      "text": "Ingen tilstrækkelige data tilgængelige. Forsigtighed anbefales."
+    }
+  },
+  "haeufige": {
+    "title": "Ofte kontrollerede lægemidler",
+    "clickToCheck": "Klik på et lægemiddel for at tjekke det:"
+  },
+  "hinweis": {
+    "title": "Vigtig bemærkning",
+    "text": "Denne checker er kun til generel information og erstatter ikke lægelig rådgivning. Databasen er ikke komplet og opdateres løbende. Ved usikkerhed skal du altid konsultere en læge eller apoteker.",
+    "disclaimer": "Oplysningerne er baseret på videnskabelig litteratur og kendte interaktionsmekanismer. Individuelle reaktioner kan variere."
+  },
+  "navigation": {
+    "continueTitle": "Fortsæt i kapitlet Sikkerhed",
+    "items": [
+      {
+        "title": "Oversigt",
+        "href": "/da/sikkerhed",
+        "description": "Tilbage til sikkerhedsoversigten"
+      },
+      {
+        "title": "Interaktioner",
+        "href": "/da/sikkerhed/wechselwirkungen",
+        "description": "Detaljerede oplysninger om interaktioner"
+      },
+      {
+        "title": "Kontraindikationer",
+        "href": "/da/sikkerhed/kontraindikationen",
+        "description": "Hvornår Kava ikke bør anvendes"
+      }
+    ]
+  }
+}

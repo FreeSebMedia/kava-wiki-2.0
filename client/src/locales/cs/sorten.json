@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Odrůdy a kultivary",
+    "subtitle": "Komplexní průvodce světem odrůd Kavy: Od Borogu po Pouni Ono, od Heady po Heavy.",
+    "category": "Odrůdy",
+    "breadcrumb": {
+      "home": "Domovská stránka",
+      "current": "Odrůdy"
+    }
+  },
+  "toc": {
+    "title": "Obsah",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Úvod",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "Tři typy účinků",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Pěstební oblasti",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Která odrůda se hodí pro mě?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Hlubší články",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Dnes existuje <strong>více než 100 zdokumentovaných odrůd Kavy</strong>, které se liší původem, chemotypem a účinkem. Pouze ve Vanuatu, předpokládané domovině rostliny, je známo více než 80 různých kultivarů. Tato rozmanitost je výsledkem více než 3 000 let cílené selekce pacifických kultur.",
+      "text": "Rozdíly mezi odrůdami nejsou pouze akademické povahy – zásadně určují, jaký účinek má nápoj z Kavy. <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai z Vanuatu</a> působí zcela jinak než <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka z Fiji</a>. Pochopení těchto rozdílů je klíčem k vědomé a uspokojivé zkušenosti s Kavou."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "Nejdůležitější rozlišení, které musí každý konzument Kavy znát, je mezi <strong>Noble Kava</strong> (Edelkava) a <strong>Tudei Kava</strong>. Tato klasifikace byla zavedena vládou Vanuatu a vychází z <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotypu</a> dané odrůdy.",
+      "noble": {
+        "title": "Noble Kava (Edelkava)",
+        "items": [
+          "Po staletí selektováno pro příjemný účinek",
+          "Chemotyp začíná na <strong>2</strong> nebo <strong>4</strong>, nikdy na 5 nebo 6",
+          "Nástup účinku: 10-20 minut",
+          "Doba účinku: 3-6 hodin, čistě odeznívá",
+          "Žádná \"kocovina\" následující den",
+          "Bezpečné pro pravidelné užívání"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Two-Day)",
+        "items": [
+          "Chemotyp začíná na <strong>5</strong> nebo <strong>6</strong> (DHM-dominantní)",
+          "Nástup účinku: 30-90 minut (zpožděný)",
+          "Účinek trvá extrémně dlouho (až 2 dny)",
+          "Často způsobuje nevolnost a letargii",
+          "\"Kocovina\" následující den",
+          "Ve Vanuatu zakázáno pro export"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Při nákupu dbejte na to, aby prodejce uvedl chemotyp a přesnou odrůdu. Tato transparentnost je dobrým znamením pro autentickou Noble Kavu.",
+      "linkText": "Zjistit více o Noble vs. Tudei"
+    },
+    "wirktypen": {
+      "title": "Tři typy účinků",
+      "intro": "Odrůdy Noble Kava jsou rozděleny do tří kategorií podle jejich dominantního účinku. Toto rozdělení vychází z <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">chemotypu</a> – tedy relativní koncentrace šesti hlavních <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">kavalaktonů</a>.",
+      "heady": {
+        "title": "Heady",
+        "description": "Účinek zaměřený na hlavu: euforie, mentální jasnost, společenskost. Ideální pro den a společenské akce.",
+        "chemotype": "Často začíná na 4 (kavain) nebo 2 (DHK)",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Nálada & sociální"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Vyvážený účinek: relaxace bez únavy, mentální klid s tělesným pohodlím.",
+        "chemotype": "Vyvážený poměr 4, 2 a 3",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Úleva od úzkosti"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Účinek zaměřený na tělo: hluboká svalová relaxace, sedace, ideální na večer a na spaní.",
+        "chemotype": "Vysoký podíl DHK (2) na pozicích 1-2",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Spánek & relaxace"
+      },
+      "calculatorLink": "Chemotypový kalkulátor: Analyzujte každý chemotyp"
+    },
+    "regionen": {
+      "title": "Pěstební oblasti v přehledu",
+      "intro": "Kava se dnes pěstuje v různých oblastech Pacifiku. Každá oblast vyvinula své vlastní odrůdy, které jsou přizpůsobeny místnímu klimatu a kulturním preferencím.",
+      "tableHeaders": {
+        "region": "Oblast",
+        "count": "Počet odrůd",
+        "localName": "Místní název",
+        "varieties": "Známé odrůdy",
+        "characteristics": "Charakteristika"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "Největší rozmanitost, domovská oblast"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Často těžší, dobré zpracování"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Všechny Noble, spíše heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Velmi potentní, drahé"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Tradiční, ceremoniální"
+        },
+        {
+          "region": "Papua-Nová Guinea",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Jediná Noble odrůda"
+        }
+      ],
+      "vanuatuLink": "Odrůdy z Vanuatu",
+      "pazifikLink": "Odrůdy z Fiji, Tonga & Hawaii"
+    },
+    "auswahl": {
+      "title": "Která odrůda se hodí pro mě?",
+      "intro": "Výběr správné odrůdy Kavy závisí na požadovaném účinku a denní době. Zde je orientační příručka:",
+      "recommendations": [
+        {
+          "purpose": "Pro společenské akce",
+          "type": "Heady",
+          "description": "Vyberte <strong>Heady</strong> Kavu:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Proti stresu a úzkosti",
+          "type": "Balanced",
+          "description": "Vyberte <strong>Balanced</strong> Kavu:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Pro svalovou relaxaci",
+          "type": "Heavy",
+          "description": "Vyberte <strong>Heavy</strong> Kavu:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Na spaní",
+          "type": "Heavy",
+          "description": "Vyberte <strong>Heavy</strong> Kavu:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Začněte s <strong>Balanced</strong> Kavou jako je Melo Melo nebo Borogu. Tyto odrůdy nabízejí příjemný, vyvážený zážitek bez extrémních účinků na jednu stranu.",
+      "tipLabel": "Tip pro začátečníky:"
+    },
+    "unterseiten": {
+      "title": "Hlubší články",
+      "intro": "Prozkoumejte jednotlivé aspekty odrůd Kavy na našich specializovaných podstránkách:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "Nejdůležitější rozlišení: Proč je Noble Kava bezpečná a Tudei by se měla vyhýbat.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Odrůdy z Vanuatu",
+      "description": "Více než 80 odrůd z domoviny Kavy: Borogu, Melo Melo, Kelai, Palasa a další.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Odrůdy z Fiji, Tonga & Hawaii",
+      "description": "Regionální speciality: Loa Waka, Pouni Ono, 'Awa Moi a jejich jedinečné vlastnosti.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Profily odrůd v detailu",
+      "description": "Podrobné profily nejdůležitějších odrůd s chemotypy, účinky a doporučeními.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Zpět",
+      "title": "Složení"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Další",
+      "title": "Příprava"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Srovnání odrůd",
+    "subtitle": "Porovnejte dvě odrůdy Kavy vedle sebe"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "sorten": "Odrůdy",
+    "current": "Srovnání"
+  },
+  "ui": {
+    "selectVariety": "Vyberte odrůdu...",
+    "firstVariety": "První odrůda",
+    "secondVariety": "Druhá odrůda",
+    "toProfile": "K profilu odrůdy",
+    "potency": "Síla",
+    "badgeInfo": "Štítky <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> ukazují rozdíl od druhé odrůdy"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Vyvážený",
+    "heavy": "Těžký"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Srovnání účinků"
+    },
+    "basicInfo": {
+      "title": "Základní informace"
+    },
+    "dosage": {
+      "title": "Doporučené dávkování"
+    },
+    "applications": {
+      "title": "Oblasti použití"
+    },
+    "usageTimes": {
+      "title": "Časy užívání"
+    },
+    "kavalactones": {
+      "title": "Profil kavalaktonů"
+    },
+    "notes": {
+      "title": "Poznámky"
+    }
+  },
+  "effects": {
+    "euphoria": "Euforie",
+    "relaxation": "Uvolnění",
+    "sedation": "Sedace",
+    "clarity": "Jasnost",
+    "sociability": "Společenskost",
+    "anxiolysis": "Úzkostní úleva"
+  },
+  "info": {
+    "chemotype": "Chemotyp",
+    "duration": "Doba účinku",
+    "availability": "Dostupnost",
+    "price": "Cena"
+  },
+  "dosageLabels": {
+    "beginner": "Začátečník",
+    "regular": "Pravidelný",
+    "experienced": "Zkušený"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Vyberte dvě odrůdy k porovnání",
+    "description": "Využijte rozbalovací nabídky výše k výběru dvou odrůd Kavy a jejich vlastností, účinků a doporučení k přímému srovnání.",
+    "tips": {
+      "title": "Tipy na srovnání",
+      "items": [
+        "Porovnávejte odrůdy ze stejné kategorie pro podobné účinky",
+        "Porovnávejte Heady vs. Heavy pro protichůdné zážitky",
+        "Věnujte pozornost rozdílům v chemotypech pro vědecké poznatky"
+      ]
+    },
+    "quickSelections": "Rychlý výběr",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu klasika",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Doporučení pro začátečníky",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

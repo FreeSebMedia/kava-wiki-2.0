@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Forberedelse & Anvendelse",
+    "subtitle": "Fra pulver til drik: Hvordan man korrekt forbereder Kava for at opnå maksimal effekt og den bedste smag.",
+    "category": "Forberedelse"
+  },
+  "breadcrumbs": {
+    "home": "Hjem",
+    "current": "Forberedelse"
+  },
+  "toc": {
+    "title": "Indhold",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Grundlæggende om ekstraktion",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Traditionel metode (Æltning)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Mixer-metode (Blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Shaker-metode (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instant & Micronized",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Pro-tips for bedste effekt",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kavalactoner er <strong>ikke vandopløselige</strong>, men fedtopløselige. De hænger dog mekanisk fast på stivelsespartiklerne fra roden.",
+      "text": "Målet med enhver forberedelse er derfor at løsne disse partikler fra plantefibrerne ved mekanisk kraft (æltning, blanding) og emulgere dem i vand. En ren \"te-forberedelse\" (kun hældende varmt vand) fungerer <strong>ikke</strong> effektivt med Kava!"
+    },
+    "traditionell": {
+      "title": "Traditionel metode (Æltning)",
+      "intro": "Dette er den bedste metode for maksimal styrke og en autentisk oplevelse.",
+      "materialsTitle": "Hvad du har brug for:",
+      "materials": [
+        "Kava-rodpulver (Medium Grind)",
+        "En filterpose (nødde-mælkepose, 75-100 mikron)",
+        "En skål med varmt (ikke kogende!) vand",
+        "Valgfrit: Et skud mælk eller kokosmælk (fedt hjælper med ekstraktionen)"
+      ],
+      "instructionsTitle": "Instruktioner:",
+      "instructions": [
+        "Læg pulveret i filterposen (ca. 30-40g pr. 500ml vand).",
+        "Dyp posen i vandet og lad den trække kort.",
+        "<strong>Ælt og vrid:</strong> Ælt posen kraftigt under vand i 10-15 minutter. Vrid den flere gange. Vandet skal blive mælke-brunt (\"Grog\").",
+        "Klem posen en sidste gang.",
+        "Server Kavaen i skåle (Shells). Drik hurtigt (\"Chug\"), ikke nip!"
+      ]
+    },
+    "blender": {
+      "title": "Mixer-metode (Blender)",
+      "intro": "Hurtigere og ofte stærkere, men smagen kan være lidt mere bitter, da flere plantebestanddele bliver knust.",
+      "instructions": [
+        "Tilsæt vand, Kava-pulver og en teskefuld olie/fedt i en standmixer.",
+        "Bland på høj hastighed i 3-4 minutter.",
+        "Hæld væsken gennem en filterpose eller en fin si i en skål.",
+        "Klem planteaffaldet godt ud i filteret."
+      ]
+    },
+    "shaker": {
+      "title": "Shaker-metode (Aluball)",
+      "intro": "Den mest moderne og hurtigste metode, ideel til at tage med.",
+      "text": "Man bruger specielle shaker-flasker med en kugle (Aluball), der indeholder en metalsi.",
+      "instructions": [
+        "Fyld Kava i si-kuglen.",
+        "Fyld vand i flasken.",
+        "Sæt kuglen i og ryst kraftigt i 1-2 minutter.",
+        "Færdig!"
+      ],
+      "note": "Bemærk: Denne metode er ofte lidt mindre potent end den traditionelle æltning, men meget bekvem."
+    },
+    "instant": {
+      "title": "Instant & Micronized",
+      "intro": "For alle, der ikke ønsker nogen besvær.",
+      "items": [
+        {
+          "name": "Instant Kava",
+          "description": "Dehydreret \"Green Kava Saft\". Meget potent, meget dyr, opløses straks i vand. \"Kongernes klasse\"."
+        },
+        {
+          "name": "Micronized Kava",
+          "description": "Ekstremt fint malet rod-pulver, hvor de grove fibre er fjernet. Man drikker det bare med. Kan hos følsomme maver føre til kvalme mere end filtreret Kava."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Pro-tips for bedste effekt",
+      "alert": {
+        "title": "Den Gyldne Regel",
+        "text": "Drik Kava altid på <strong>tom mave</strong> (mindst 3-4 timer efter det sidste måltid). Effekten er ellers markant svagere!"
+      },
+      "tips": [
+        {
+          "name": "Omvendt Tolerance",
+          "text": "Mange mennesker mærker lidt ved første gang. Kroppen skal først \"vænne sig\" til kavalactonerne. Drik det i et par dage i træk."
+        },
+        {
+          "name": "Chaser",
+          "text": "Kava smager jordagtigt og bittert. Hav et stykke frugt (ananas, appelsin) klar til at tage en bid af lige efter du har drukket."
+        },
+        {
+          "name": "Fedt-kilde",
+          "text": "Spis et lille, fedtholdigt måltid (f.eks. pizza, curry) efter Kava-sessionen. Dette kan udløse en anden bølge af effekt."
+        }
+      ]
+    }
+  }
+}

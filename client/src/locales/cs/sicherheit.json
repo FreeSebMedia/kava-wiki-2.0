@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Bezpečnost & Zdraví",
+    "subtitle": "Fakta místo mýtů: Vědecký pohled na hepatotoxicitu, vedlejší účinky a bezpečnou konzumaci.",
+    "category": "Bezpečnost"
+  },
+  "toc": {
+    "title": "Obsah",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Vědecký konsenzus",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Přehled kapitol",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Bezpečnost jater",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interakce",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Kontraindikace",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Doporučení dávkování",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Možné vedlejší účinky",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Bezpečnostní kontrolní seznam",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Aktuální vědecký konsenzus",
+    "intro": "Na základě rozsáhlých analýz od <strong>WHO</strong>, <strong>EMA</strong> a nezávislých výzkumníků:",
+    "points": [
+      "Tradičně připravený Kava z Noble odrůd je při správném použití <strong>bezpečný</strong>",
+      "Těžké poškození jater je <strong>extrémně vzácné</strong> (odhadovaná incidence: 1:60.000 až 1:1.000.000)",
+      "Zákaz EU z roku 2002 byl německými soudy označen za <strong>nepřiměřený</strong>",
+      "Rizika vznikají primárně z <strong>kvalitativních nedostatků</strong>, <strong>nesprávných rostlinných částí</strong> nebo <strong>smíšené konzumace</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Přehled kapitol: Bezpečnost v detailu",
+    "intro": "Tato kapitola poskytuje komplexní, vědecky podloženou analýzu všech aspektů bezpečnosti Kava. Klikněte na podstránky pro podrobné informace:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Bezpečnost jater & hepatotoxicita",
+        "href": "/cs/bezpecnost/leber",
+        "description": "Vědecká pravda o zákazu z roku 2002, hodnocení WHO a EMA, rizikové faktory a praktická doporučení.",
+        "highlights": [
+          "Hodnocení WHO 2007",
+          "Zpráva EMA 2017",
+          "Soudní rozhodnutí",
+          "Rizikové faktory"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interakce s léky",
+        "href": "/cs/bezpecnost/wechselwirkungen",
+        "description": "Kavalaktony inhibují enzymy CYP450: Kompletní přehled vysoce rizikových kombinací a mírných interakcí.",
+        "highlights": [
+          "CYP450 systém",
+          "Vysoce rizikové kombinace",
+          "Tabulka interakcí",
+          "Praktické tipy"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Kontraindikace",
+        "href": "/cs/bezpecnost/kontraindikationen",
+        "description": "Kdy by se Kava neměla používat: Absolutní a relativní kontraindikace pro bezpečné zacházení.",
+        "highlights": [
+          "Onemocnění jater",
+          "Těhotenství",
+          "Parkinsonova choroba",
+          "Pomoc při rozhodování"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Doporučení dávkování",
+    "intro": "Optimální dávka silně závisí na individuální toleranci (\"reverzní tolerance\") a odrůdě Kava. Vždy začínejte s nižšími dávkami.",
+    "boxTitle": "Orientace pro Kavalaktony",
+    "medical": {
+      "title": "Lékařské (úzkost)",
+      "value": "60–240 mg",
+      "unit": "Kavalaktony denně"
+    },
+    "traditional": {
+      "title": "Tradiční / Rekreační",
+      "value": "250–500 mg",
+      "unit": "Kavalaktony na sezení"
+    },
+    "tableTitle": "Příprava s práškem z kořene (střední mletí)",
+    "table": {
+      "headers": {
+        "level": "Úroveň zkušenosti",
+        "amount": "Množství",
+        "water": "Voda"
+      },
+      "rows": [
+        {
+          "level": "Začátečník",
+          "amount": "2-3 lžíce (cca 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Pokročilý",
+          "amount": "4-6 lžíce (cca 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Možné vedlejší účinky",
+    "intro": "I když je Kava při správném použití bezpečná, mohou se objevit vedlejší účinky, zejména při nadměrné konzumaci.",
+    "frequent": {
+      "title": "Časté (dávkově závislé)",
+      "items": [
+        {
+          "label": "Únava:",
+          "value": "Zvláště u \"Heavy\" odrůd"
+        },
+        {
+          "label": "Nevolnost:",
+          "value": "Při vysokých dávkách na lačný žaludek"
+        },
+        {
+          "label": "Dehydratace:",
+          "value": "Kava má diuretické účinky"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Při chronické konzumaci",
+      "items": [
+        {
+          "label": "Kava dermopatie:",
+          "value": "Suchá, šupinatá pokožka (reverzibilní)"
+        },
+        {
+          "label": "Zvýšení GGT:",
+          "value": "Jaterní enzym mírně stoupá (reverzibilní)"
+        },
+        {
+          "label": "Úbytek hmotnosti:",
+          "value": "Při velmi vysoké konzumaci"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Bezpečnostní kontrolní seznam",
+    "boxTitle": "Pro bezpečnou konzumaci Kava",
+    "items": [
+      "<strong>Používejte pouze Noble-Kava</strong> z důvěryhodných zdrojů",
+      "<strong>Pouze kořen/rhizom</strong> – žádné listy nebo stonky",
+      "<strong>Preferujte tradiční vodní přípravu</strong>",
+      "<strong>Žádný alkohol</strong> – minimálně 24 hodin odstup"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Kontrola léků</strong> – ",
+        "linkText": "Zkontrolujte interakce",
+        "href": "/cs/bezpecnost/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Dodržujte kontraindikace</strong> – ",
+        "linkText": "Zobrazit kontrolní seznam",
+        "href": "/cs/bezpecnost/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Věnujte pozornost varovným signálům",
+      "text": "Při žloutnutí pleti/očí, tmavém moči, světlé stolici nebo neobvyklé únavě okamžitě přestaňte konzumovat a vyhledejte lékaře."
+    }
+  },
+  "quickLinks": {
+    "title": "Podrobné informace",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Bezpečnost jater",
+        "description": "Hepatotoxicita & zákaz 2002",
+        "href": "/cs/bezpecnost/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interakce",
+        "description": "Léky & CYP450 interakce",
+        "href": "/cs/bezpecnost/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Kontraindikace",
+        "description": "Kdy by se Kava měla vyhýbat",
+        "href": "/cs/bezpecnost/kontraindikationen"
+      }
+    ]
+  }
+}

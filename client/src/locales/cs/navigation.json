@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Změnit jazyk"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Botanika",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Úvod do botaniky"
+        },
+        "pflanze": {
+          "name": "Rostlina",
+          "description": "Taxonomie & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Morfologie",
+          "description": "Anatomie & kořenový systém"
+        },
+        "anbau": {
+          "name": "Pěstování & ekologie",
+          "description": "Kultivace & množení"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "Historie",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Historie Kavy"
+        },
+        "urspruenge": {
+          "name": "Původy",
+          "description": "Vanuatu & domestikace"
+        },
+        "verbreitung": {
+          "name": "Rozšíření",
+          "description": "Pacifická expanze"
+        },
+        "moderne": {
+          "name": "Moderní historie",
+          "description": "Zákaz 2002 & rehabilitace"
+        },
+        "zeitleiste": {
+          "name": "Interaktivní časová osa",
+          "description": "5000 let historie Kavy"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Složení",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Kavalaktony & chemotypy"
+        },
+        "kavalactone": {
+          "name": "6 Kavalaktonů",
+          "description": "Podrobné profily účinků"
+        },
+        "chemotypen": {
+          "name": "Chemotypový systém",
+          "description": "Rozpoznání Noble vs. Tudei"
+        },
+        "rechner": {
+          "name": "Chemotypový kalkulátor",
+          "description": "Interaktivní analytický nástroj"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Účinky",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Mechanismy účinku"
+        },
+        "angst": {
+          "name": "Úleva od úzkosti",
+          "description": "Anxiolytický účinek"
+        },
+        "schlaf": {
+          "name": "Spánek & relaxace",
+          "description": "Sedativní účinky"
+        },
+        "muskel": {
+          "name": "Uvolnění svalů",
+          "description": "Fyzické uvolnění"
+        },
+        "stimmung": {
+          "name": "Nálada & sociální interakce",
+          "description": "Euforické účinky"
+        },
+        "kognition": {
+          "name": "Kognitivní účinky",
+          "description": "Fokus & reverzní tolerance"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Bezpečnost",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Bezpečnost & vedlejší účinky"
+        },
+        "leber": {
+          "name": "Bezpečnost jater",
+          "description": "Hepatotoxicita & zákaz 2002"
+        },
+        "wechselwirkungen": {
+          "name": "Interakce",
+          "description": "Léky & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Kontraindikace",
+          "description": "Kdy se Kavy vyhnout"
+        },
+        "checker": {
+          "name": "Kontrolor interakcí",
+          "description": "Kontrola léků"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Odrody",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Odrody & kultivary"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "Důležité rozlišení"
+        },
+        "vanuatu": {
+          "name": "Odrody z Vanuatu",
+          "description": "Borogu, Melo Melo, Kelai & další"
+        },
+        "pazifik": {
+          "name": "Odrody z Pacifiku",
+          "description": "Fiji, Tonga, Hawaii, Samoa"
+        },
+        "profile": {
+          "name": "Profily odrůd",
+          "description": "Podrobné profily"
+        },
+        "vergleich": {
+          "name": "Srovnání odrůd",
+          "description": "Srovnání dvou odrůd"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Příprava",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Metody přípravy"
+        },
+        "traditionell": {
+          "name": "Tradiční metoda",
+          "description": "Hnětení s plátnem"
+        },
+        "blender": {
+          "name": "Metoda mixéru",
+          "description": "Rychlá příprava"
+        },
+        "instant": {
+          "name": "Instantní Kava",
+          "description": "Mikronizovaná Kava"
+        },
+        "rechner": {
+          "name": "Kalkulátor dávkování",
+          "description": "Vypočítat optimální množství"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Kultura",
+      "items": {
+        "uebersicht": {
+          "name": "Přehled",
+          "description": "Kultura & tradice"
+        },
+        "zeremonien": {
+          "name": "Ceremonie & rituály",
+          "description": "Yaqona, 'Ava & rituály Nakamal"
+        },
+        "nakamal": {
+          "name": "Nakamal & Kava bary",
+          "description": "Tradiční & moderní místa"
+        },
+        "moderne": {
+          "name": "Moderní kultura Kavy",
+          "description": "Globální rozšíření & renesance"
+        },
+        "weltkarte": {
+          "name": "Interaktivní mapa světa",
+          "description": "Prozkoumat oblasti Kavy"
+        },
+        "kava-bars": {
+          "name": "Hledání Kava barů",
+          "description": "Najít Kava bary po celém světě"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Více",
+      "items": {
+        "faq": {
+          "name": "Často kladené otázky",
+          "description": "Časté dotazy"
+        },
+        "studien": {
+          "name": "Studie",
+          "description": "Vědecký výzkum"
+        },
+        "rechtsstatus": {
+          "name": "Právní status",
+          "description": "Právní situace"
+        },
+        "glossar": {
+          "name": "Glosář",
+          "description": "Vysvětlení odborných termínů"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Nejrozsáhlejší znalostní portál o Piper methysticum na světě. Vědecky podložené, kulturně respektující.",
+    "sections": {
+      "wissen": {
+        "title": "Znalosti",
+        "links": {
+          "botanik": "Botanika",
+          "geschichte": "Historie",
+          "wissenschaft": "Věda",
+          "sicherheit": "Bezpečnost"
+        }
+      },
+      "praxis": {
+        "title": "Praxe",
+        "links": {
+          "zubereitung": "Příprava",
+          "sorten": "Odrody & chemotypy",
+          "rechtsstatus": "Právní status",
+          "faq": "Často kladené otázky"
+        }
+      },
+      "partner": {
+        "title": "Partneři & kniha",
+        "recommendedReading": "Doporučená literatura:",
+        "bookTitle": "\"Kava – Kořen klidu\""
+      }
+    },
+    "copyright": "Všechna práva vyhrazena.",
+    "legal": {
+      "impressum": "Impressum",
+      "datenschutz": "Ochrana osobních údajů"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Domov"
+  },
+  "toc": {
+    "title": "Obsah"
+  },
+  "recommendation": {
+    "label": "Doporučení",
+    "title": "Prémiová Noble Kava",
+    "text": "Objevte certifikovanou kvalitu a čistotu u našeho oficiálního partnera.",
+    "cta": "Na Kava-mode.com"
+  }
+}

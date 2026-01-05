@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Interakce s léky",
+    "subtitle": "Kavalaktony inhibují důležité jaterní enzymy: Co byste měli vědět o interakcích CYP450 a bezpečných kombinacích.",
+    "category": "Bezpečnost",
+    "breadcrumbs": {
+      "home": "Domov",
+      "sicherheit": "Bezpečnost",
+      "current": "Interakce"
+    }
+  },
+  "toc": {
+    "title": "Obsah",
+    "zusammenfassung": "Shrnutí",
+    "cyp450": "Systém CYP450",
+    "welcheEnzyme": "Ovlivněné enzymy",
+    "klinischeBedeutung": "Klinický význam",
+    "hochrisiko": "Vysokorizikové kombinace",
+    "alkohol": "Alkohol",
+    "benzodiazepine": "Benzodiazepiny a sedativa",
+    "antipsychotika": "Antipsychotika",
+    "antikoagulantien": "Antikoagulancia",
+    "moderatesRisiko": "Střední riziko",
+    "antidepressiva": "Antidepresiva",
+    "antikonvulsiva": "Antikonvulziva",
+    "parkinson": "Léky na Parkinsonovu chorobu",
+    "hepatotoxisch": "Hepatotoxické léky",
+    "tabelle": "Tabulka interakcí",
+    "empfehlungen": "Praktická doporučení",
+    "quellen": "Zdroje"
+  },
+  "navigation": {
+    "continueTitle": "Pokračovat v kapitole Bezpečnost",
+    "items": [
+      {
+        "title": "Přehled",
+        "href": "/cs/bezpecnost",
+        "description": "Zpět na přehled bezpečnosti"
+      },
+      {
+        "title": "Jaterní bezpečnost",
+        "href": "/cs/bezpecnost/leber",
+        "description": "Hepatotoxicita a zákaz z roku 2002"
+      },
+      {
+        "title": "Kontraindikace",
+        "href": "/cs/bezpecnost/kontraindikace",
+        "description": "Kdy se Kava vyhnout"
+      },
+      {
+        "title": "Kontrolor interakcí",
+        "href": "/cs/bezpecnost/checker",
+        "description": "Zkontrolujte své léky"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Důležité varování",
+    "intro": "Kava má <strong>vysoký potenciál pro interakce s léky</strong> díky inhibici enzymů cytochromu P450. Nikdy nekombinujte Kavu s:",
+    "items": [
+      {
+        "name": "Alkohol",
+        "text": "Zesílená sedace a hepatotoxicita"
+      },
+      {
+        "name": "Benzodiazepiny",
+        "text": "Riziko respirační deprese"
+      },
+      {
+        "name": "Antipsychotika",
+        "text": "Zesílená sedace, pohybové poruchy"
+      },
+      {
+        "name": "Antikoagulancia",
+        "text": "Riziko krvácení"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "Systém cytochromu P450",
+    "intro": "Systém cytochromu P450 (CYP450) je rodina enzymů v játrech, které jsou zodpovědné za metabolismus většiny léků. Když látka inhibuje tyto enzymy, jiné látky se metabolizují pomaleji – jejich účinek a vedlejší účinky se tím mohou zesílit.",
+    "importance": {
+      "title": "Proč je to důležité?",
+      "text": "Přibližně <strong>70-80 % všech léků</strong> je metabolizováno přes enzymy CYP450. Pokud Kava tyto enzymy inhibuje, může se koncentrace jiných léků v krvi zvýšit – někdy na nebezpečné hodnoty. To platí zejména pro léky s <strong>úzkým terapeutickým oknem</strong>, kde malé změny dávkování mohou mít velký dopad."
+    }
+  },
+  "enzyme": {
+    "title": "Které enzymy jsou inhibovány?",
+    "intro": "Studie Mathewse a kol. (2002) a dalších výzkumníků ukázaly, že kavalaktony inhibují několik důležitých enzymů CYP450:",
+    "headers": [
+      "Enzym",
+      "Síla inhibice",
+      "Důležitá substráty (příklady)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Silná",
+        "substrates": "Kofein, teofylin, klozapin, olanzapin"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Silná",
+        "substrates": "Warfarin, fenytoin, NSAID (ibuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Střední",
+        "substrates": "Omeprazol, diazepam, klopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Střední",
+        "substrates": "Kodein, tramadol, mnoho antidepresiv"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Silná",
+        "substrates": "Benzodiazepiny, statiny, mnoho antibiotik"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Klinický význam",
+    "text": "Studie Russmanna a kol. (2005) ukázala, že i tradiční vodné extrakty Kavy inhibují CYP1A2 u lidí. Inhibice byla závislá na dávce a klinicky relevantní. To znamená, že i tradičně připravená Kava může způsobit interakce.",
+    "positive": {
+      "title": "Pozitivní vedlejší účinek?",
+      "text": "Inhibice CYP1A2 by teoreticky mohla poskytnout ochranný účinek proti některým environmentálním karcinogenům, které jsou aktivovány tímto enzymem. To by mohlo vysvětlit, proč pacifické populace mají nízké míry rakoviny navzdory vysoké konzumaci Kavy."
+    }
+  },
+  "hochrisiko": {
+    "title": "Vysokorizikové kombinace",
+    "intro": "Následující kombinace by měly být <strong>za všech okolností vyhnuty</strong>. Mohou vést k těžkým, potenciálně život ohrožujícím vedlejším účinkům."
+  },
+  "alkohol": {
+    "title": "Alkohol",
+    "risk": "VELMI VYSOKÉ",
+    "intro": "Kombinace Kavy a alkoholu je obzvlášť nebezpečná z několika důvodů:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Synergická sedace",
+        "text": "Obě látky působí sedativně na CNS. Kombinovaný účinek je silnější než součet jednotlivých účinků."
+      },
+      {
+        "number": "2.",
+        "label": "Addivní hepatotoxicita",
+        "text": "Obě látky jsou metabolizovány v játrech a mohou je zatěžovat. Kombinace výrazně zvyšuje riziko poškození jater."
+      },
+      {
+        "number": "3.",
+        "label": "Interakce CYP",
+        "text": "Alkohol také ovlivňuje enzymy CYP, což může vést k nepředvídatelným interakcím."
+      }
+    ],
+    "recommendation": "Doporučení: Minimálně 24 hodin odstup mezi konzumací alkoholu a Kavy."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepiny a sedativa",
+    "risk": "VELMI VYSOKÉ",
+    "intro": "Benzodiazepiny (diazepam, lorazepam, alprazolam atd.) a Z-látky (zolpidem, zopiclon) by nikdy neměly být kombinovány s Kavou:",
+    "points": [
+      {
+        "label": "Zesílená sedace",
+        "text": "Obě látky působí na GABA receptory a vzájemně se zesilují"
+      },
+      {
+        "label": "Respirační deprese",
+        "text": "Kombinace může nebezpečně zpomalit dýchání"
+      },
+      {
+        "label": "Inhibice CYP3A4",
+        "text": "Kava zpomaluje metabolismus benzodiazepinů, což prodlužuje jejich účinek"
+      }
+    ],
+    "caseReportLabel": "Případová zpráva:",
+    "caseReport": "Almeida a Grimsley (1996) hlásili o 54letém muži, který po kombinaci Kavy s alprazolamem upadl do semikomatózního stavu."
+  },
+  "antipsychotika": {
+    "title": "Antipsychotika",
+    "risk": "VYSOKÉ",
+    "intro": "Antipsychotika jako haloperidol, risperidon, olanzapin a klozapin:",
+    "points": [
+      {
+        "label": "Zesílená sedace",
+        "text": "Addivní CNS tlumící účinek"
+      },
+      {
+        "label": "Extrapyramidové symptomy",
+        "text": "Zvýšené riziko pohybových poruch"
+      },
+      {
+        "label": "Inhibice CYP1A2/CYP2D6",
+        "text": "Zpomalený metabolismus, vyšší hladiny v krvi"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Antikoagulancia (ředidla krve)",
+    "risk": "VYSOKÉ",
+    "intro": "Warfarin a další antagonisty vitaminu K:",
+    "points": [
+      {
+        "label": "Inhibice CYP2C9",
+        "text": "Kava inhibuje enzym, který metabolizuje warfarin"
+      },
+      {
+        "label": "Zvýšená INR",
+        "text": "Zesílená tendence ke krvácení"
+      },
+      {
+        "label": "Riziko krvácení",
+        "text": "Může vést k nebezpečnému vnitřnímu krvácení"
+      }
+    ],
+    "recommendation": "Při užívání antikoagulancií je Kava kontraindikována."
+  },
+  "moderatesRisiko": {
+    "title": "Kombinace se středním rizikem",
+    "intro": "Následující kombinace vyžadují opatrnost a měly by být prováděny pouze po konzultaci s lékařem. Úprava dávky může být nutná."
+  },
+  "antidepressiva": {
+    "title": "Antidepresiva",
+    "risk": "STŘEDNÍ",
+    "ssri": {
+      "title": "SSRI (fluoxetin, sertralin, paroxetin atd.):",
+      "items": [
+        "Inhibice CYP2D6 může zpomalit metabolismus",
+        "Teoretické riziko serotoninového syndromu (nízké)",
+        "Možná zesílená sedace"
+      ]
+    },
+    "snri": {
+      "title": "SNRIs (venlafaxin, duloxetin):",
+      "items": [
+        "Podobné interakce jako SSRI",
+        "Inhibice CYP2D6 relevantní pro venlafaxin"
+      ]
+    },
+    "mao": {
+      "title": "Inhibitory MAO:",
+      "items": [
+        "Kava inhibuje MAO-B (slabě)",
+        "Teoretické riziko, ale klinicky málo zdokumentováno",
+        "Opatrnost u nevratných inhibitorů MAO"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Antikonvulziva (antiepileptika)",
+    "risk": "STŘEDNÍ",
+    "intro": "Fenytoin, karbamazepin, valproát a další antikonvulziva:",
+    "points": [
+      {
+        "label": "Interakce CYP",
+        "text": "Možné změny hladin v krvi"
+      },
+      {
+        "label": "Zesílená sedace",
+        "text": "Addivní CNS účinek"
+      },
+      {
+        "label": "Kontrola záchvatů",
+        "text": "Může být narušena"
+      }
+    ],
+    "note": "Při epilepsii by měla být Kava používána pouze pod lékařským dohledem."
+  },
+  "parkinson": {
+    "title": "Léky na Parkinsonovu chorobu",
+    "risk": "STŘEDNÍ až VYSOKÉ",
+    "intro": "Levodopa a dopaminoví agonisté:",
+    "points": [
+      {
+        "label": "Dopaminový antagonismus",
+        "text": "Kava by mohla oslabit účinek levodopy"
+      },
+      {
+        "label": "Případová zpráva",
+        "text": "Zhoršení symptomů Parkinsonovy choroby pod Kava zdokumentováno"
+      }
+    ],
+    "recommendation": "Při Parkinsonově chorobě je Kava kontraindikována."
+  },
+  "hepatotoxisch": {
+    "title": "Hepatotoxické léky",
+    "risk": "STŘEDNÍ",
+    "intro": "Léky s známým hepatotoxickým potenciálem:",
+    "items": [
+      {
+        "name": "Paracetamol/acetaminofen",
+        "text": "Zvláště problematické při vyšších dávkách"
+      },
+      {
+        "name": "Statiny",
+        "text": "Atorvastatin, simvastatin atd. (substráty CYP3A4)"
+      },
+      {
+        "name": "Methotrexát",
+        "text": "Imunosupresivum s hepatotoxicitou"
+      },
+      {
+        "name": "Isoniazid",
+        "text": "Lék na tuberkulózu"
+      }
+    ],
+    "note": "Kombinace s hepatotoxickými léky zvyšuje riziko poškození jater."
+  },
+  "tabelle": {
+    "title": "Přehledová tabulka interakcí",
+    "headers": [
+      "Třída látek",
+      "Příklady",
+      "Riziko",
+      "Mechanismus"
+    ],
+    "rows": [
+      {
+        "class": "Alkohol",
+        "examples": "Ethanol",
+        "risk": "VELMI VYSOKÉ",
+        "mechanism": "Synergická sedace, hepatotoxicita"
+      },
+      {
+        "class": "Benzodiazepiny",
+        "examples": "Diazepam, lorazepam, alprazolam",
+        "risk": "VELMI VYSOKÉ",
+        "mechanism": "Zesílení GABA, inhibice CYP3A4"
+      },
+      {
+        "class": "Antipsychotika",
+        "examples": "Haloperidol, olanzapin, klozapin",
+        "risk": "VYSOKÉ",
+        "mechanism": "Inhibice CYP1A2/2D6, sedace"
+      },
+      {
+        "class": "Antikoagulancia",
+        "examples": "Warfarin, fenprokumon",
+        "risk": "VYSOKÉ",
+        "mechanism": "Inhibice CYP2C9, riziko krvácení"
+      },
+      {
+        "class": "SSRI",
+        "examples": "Fluoxetin, sertralin, paroxetin",
+        "risk": "STŘEDNÍ",
+        "mechanism": "Inhibice CYP2D6"
+      },
+      {
+        "class": "Antikonvulziva",
+        "examples": "Fenytoin, karbamazepin",
+        "risk": "STŘEDNÍ",
+        "mechanism": "Interakce CYP, sedace"
+      },
+      {
+        "class": "Léky na Parkinsonovu chorobu",
+        "examples": "Levodopa, dopaminoví agonisté",
+        "risk": "STŘEDNÍ",
+        "mechanism": "Dopaminový antagonismus"
+      },
+      {
+        "class": "Statiny",
+        "examples": "Atorvastatin, simvastatin",
+        "risk": "STŘEDNÍ",
+        "mechanism": "Inhibice CYP3A4, hepatotoxicita"
+      },
+      {
+        "class": "Opioidy",
+        "examples": "Kodein, tramadol, morfin",
+        "risk": "STŘEDNÍ",
+        "mechanism": "Inhibice CYP2D6, sedace"
+      },
+      {
+        "class": "Kofein",
+        "examples": "Káva, energetické nápoje",
+        "risk": "NÍZKÉ",
+        "mechanism": "Inhibice CYP1A2 (prodloužený účinek)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktická doporučení",
+    "checklistTitle": "Kontrolní seznam před konzumací Kavy",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Zkontrolujte seznam léků",
+        "text": "Zkontrolujte všechny aktuální léky na interakce"
+      },
+      {
+        "number": "2.",
+        "label": "Konzultujte lékaře",
+        "text": "Při pravidelném užívání léků vyhledejte lékařskou radu před konzumací Kavy"
+      },
+      {
+        "number": "3.",
+        "label": "Vyhněte se alkoholu",
+        "text": "Minimálně 24 hodin před a po konzumaci Kavy nepijte alkohol"
+      },
+      {
+        "number": "4.",
+        "label": "Dávku snižte",
+        "text": "Při současném užívání léků začněte s nižší dávkou Kavy"
+      },
+      {
+        "number": "5.",
+        "label": "Sledujte příznaky",
+        "text": "Dávejte pozor na neobvyklou únavu, závratě nebo jiné příznaky"
+      }
+    ],
+    "professionalNote": {
+      "title": "Poznámka pro lékaře a lékárníky",
+      "text": "U pacientů, kteří konzumují Kavu, by měla být provedena kontrola medikace na substráty CYP450. Zvláštní opatrnost je nutná u léků s úzkým terapeutickým oknem. Úprava dávky může být nutná."
+    }
+  },
+  "quellen": {
+    "title": "Zdroje",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Inhibice aktivit lidského cytochromu P450 Kava extraktem a kavalaktony.",
+        "source": "Metabolismus léků a dispozice."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Farmakokinetické a farmakodynamické interakce léků s Kavou.",
+        "source": "Časopis etnofarmakologie."
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "Tradiční vodné extrakty Kavy inhibují cytochrom P450 1A2 u lidí.",
+        "source": "Klinická farmakologie a terapie."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Potenciál interakce Kavy a třezalky s léky.",
+        "source": "Časopis etnofarmakologie."
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "Inhibice cytochromu P450 3A4 extrakty a kavalaktony Piper methysticum.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "Úplný seznam všech citovaných studií naleznete na naší",
+    "studiesLink": "stránce studií"
+  }
+}

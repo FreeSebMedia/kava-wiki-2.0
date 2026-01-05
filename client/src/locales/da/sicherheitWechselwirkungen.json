@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Interaktioner med medicin",
+    "subtitle": "Kavalactoner hæmmer vigtige leverenzymer: Hvad du skal vide om CYP450-interaktioner og sikre kombinationer.",
+    "category": "Sikkerhed",
+    "breadcrumbs": {
+      "home": "Hjem",
+      "sicherheit": "Sikkerhed",
+      "current": "Interaktioner"
+    }
+  },
+  "toc": {
+    "title": "Indhold",
+    "zusammenfassung": "Resumé",
+    "cyp450": "CYP450-systemet",
+    "welcheEnzyme": "Berørte enzymer",
+    "klinischeBedeutung": "Klinisk betydning",
+    "hochrisiko": "Højrisiko-kombinationer",
+    "alkohol": "Alkohol",
+    "benzodiazepine": "Benzodiazepiner & sovemidler",
+    "antipsychotika": "Antipsykotika",
+    "antikoagulantien": "Antikoagulantia",
+    "moderatesRisiko": "Moderat risiko",
+    "antidepressiva": "Antidepressiva",
+    "antikonvulsiva": "Antikonvulsiva",
+    "parkinson": "Parkinson-medicin",
+    "hepatotoxisch": "Hepatotoksiske lægemidler",
+    "tabelle": "Interaktionstabel",
+    "empfehlungen": "Praktiske anbefalinger",
+    "quellen": "Kilder"
+  },
+  "navigation": {
+    "continueTitle": "Fortsæt i kapitlet Sikkerhed",
+    "items": [
+      {
+        "title": "Oversigt",
+        "href": "/da/sikkerhed",
+        "description": "Tilbage til sikkerhedsoversigten"
+      },
+      {
+        "title": "Leversikkerhed",
+        "href": "/da/sikkerhed/leber",
+        "description": "Hepatotoksicitet & forbuddet i 2002"
+      },
+      {
+        "title": "Kontraindikationer",
+        "href": "/da/sikkerhed/kontraindikationen",
+        "description": "Hvornår Kava skal undgås"
+      },
+      {
+        "title": "Interaktions-tjekker",
+        "href": "/da/sikkerhed/checker",
+        "description": "Tjek dine lægemidler"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Vigtig advarsel",
+    "intro": "Kava har et <strong>højt potentiale for lægemiddelinteraktioner</strong> ved hæmning af cytochrom P450-enzymer. Kombiner aldrig Kava med:",
+    "items": [
+      {
+        "name": "Alkohol",
+        "text": "Forstærket sedation og leverskade"
+      },
+      {
+        "name": "Benzodiazepiner",
+        "text": "Risiko for respirationsdepression"
+      },
+      {
+        "name": "Antipsykotika",
+        "text": "Forstærket sedation, bevægelsesforstyrrelser"
+      },
+      {
+        "name": "Antikoagulantia",
+        "text": "Blødningsrisiko"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "CYP450-systemet",
+    "intro": "CYP450-systemet (CYP450) er en familie af enzymer i leveren, der er ansvarlige for nedbrydning af de fleste lægemidler. Når et stof hæmmer disse enzymer, nedbrydes andre stoffer langsommere – deres virkning og bivirkninger kan derfor forstærkes.",
+    "importance": {
+      "title": "Hvorfor er det vigtigt?",
+      "text": "Cirka <strong>70-80% af alle lægemidler</strong> metaboliseres via CYP450-enzymer. Når Kava hæmmer disse enzymer, kan koncentrationen af andre lægemidler i blodet stige – nogle gange til farlige niveauer. Dette gælder især for lægemidler med <strong>snævert terapeutisk vindue</strong>, hvor små dosisændringer kan have store konsekvenser."
+    }
+  },
+  "enzyme": {
+    "title": "Hvilke enzymer hæmmes?",
+    "intro": "Studier af Mathews et al. (2002) og andre forskere har vist, at kavalactoner hæmmer flere vigtige CYP450-enzymer:",
+    "headers": [
+      "Enzym",
+      "Hæmningsstyrke",
+      "Vigtige substrater (eksempler)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Stærk",
+        "substrates": "Koffein, Theophyllin, Clozapin, Olanzapin"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Stærk",
+        "substrates": "Warfarin, Phenytoin, NSAID'er (Ibuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Moderat",
+        "substrates": "Omeprazol, Diazepam, Clopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Moderat",
+        "substrates": "Kodein, Tramadol, mange antidepressiva"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Stærk",
+        "substrates": "Benzodiazepiner, Statiner, mange antibiotika"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Klinisk betydning",
+    "text": "En undersøgelse af Russmann et al. (2005) viste, at også traditionelle vandige Kava-ekstrakter hæmmer CYP1A2 hos mennesker. Hæmningen var dosisafhængig og klinisk relevant. Dette betyder, at selv traditionelt tilberedt Kava kan forårsage interaktioner.",
+    "positive": {
+      "title": "Positiv bivirkning?",
+      "text": "CYP1A2-hæmning kunne teoretisk give en beskyttende effekt mod visse miljøkarcinogener, der aktiveres via dette enzym. Dette kunne forklare, hvorfor stillehavsfolk, trods højt Kava-forbrug, har lave kræftforekomster."
+    }
+  },
+  "hochrisiko": {
+    "title": "Højrisiko-kombinationer",
+    "intro": "De følgende kombinationer bør <strong>undgås under alle omstændigheder</strong>. De kan føre til alvorlige, potentielt livstruende bivirkninger."
+  },
+  "alkohol": {
+    "title": "Alkohol",
+    "risk": "MEGET HØJ",
+    "intro": "Kombinationen af Kava og alkohol er særligt farlig af flere grunde:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Synergistisk sedation",
+        "text": "Begge stoffer virker sedativt på CNS. Den kombinerede effekt er stærkere end summen af de enkelte virkninger."
+      },
+      {
+        "number": "2.",
+        "label": "Additiv hepatotoksicitet",
+        "text": "Begge stoffer nedbrydes i leveren og kan belaste den. Kombinationen øger risikoen for leverskader betydeligt."
+      },
+      {
+        "number": "3.",
+        "label": "CYP-interaktion",
+        "text": "Alkohol påvirker også CYP-enzymer, hvilket kan føre til uforudsigelige interaktioner."
+      }
+    ],
+    "recommendation": "Anbefaling: Mindst 24 timers afstand mellem alkohol- og Kava-forbrug."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepiner & sovemidler",
+    "risk": "MEGET HØJ",
+    "intro": "Benzodiazepiner (Diazepam, Lorazepam, Alprazolam osv.) og Z-stoffer (Zolpidem, Zopiclon) bør aldrig kombineres med Kava:",
+    "points": [
+      {
+        "label": "Forstærket sedation",
+        "text": "Begge virker på GABA-receptorer og forstærker hinanden"
+      },
+      {
+        "label": "Respirationsdepression",
+        "text": "Kombinationen kan farligt nedsætte vejrtrækningen"
+      },
+      {
+        "label": "CYP3A4-hæmning",
+        "text": "Kava nedsætter nedbrydningen af benzodiazepiner, hvilket forlænges deres virkning"
+      }
+    ],
+    "caseReportLabel": "Case-rapport:",
+    "caseReport": "Almeida & Grimsley (1996) rapporterede om en 54-årig mand, der faldt i en semikomatøs tilstand efter at have kombineret Kava med Alprazolam."
+  },
+  "antipsychotika": {
+    "title": "Antipsykotika",
+    "risk": "HØJ",
+    "intro": "Antipsykotika som Haloperidol, Risperidon, Olanzapin og Clozapin:",
+    "points": [
+      {
+        "label": "Forstærket sedation",
+        "text": "Additiv CNS-dæmpende effekt"
+      },
+      {
+        "label": "Ekstrapyramidale symptomer",
+        "text": "Øget risiko for bevægelsesforstyrrelser"
+      },
+      {
+        "label": "CYP1A2/CYP2D6-hæmning",
+        "text": "Langsommere nedbrydning, højere blodniveauer"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Antikoagulantia (blodfortyndere)",
+    "risk": "HØJ",
+    "intro": "Warfarin og andre vitamin K-antagonister:",
+    "points": [
+      {
+        "label": "CYP2C9-hæmning",
+        "text": "Kava hæmmer enzymet, der nedbryder Warfarin"
+      },
+      {
+        "label": "Forhøjet INR",
+        "text": "Forstærket blødningsbenægtelse"
+      },
+      {
+        "label": "Blødningsrisiko",
+        "text": "Kan føre til farlige indre blødninger"
+      }
+    ],
+    "recommendation": "Ved indtagelse af antikoagulantia er Kava kontraindiceret."
+  },
+  "moderatesRisiko": {
+    "title": "Kombinationer med moderat risiko",
+    "intro": "De følgende kombinationer kræver forsigtighed og bør kun ske efter konsultation med en læge. En dosisjustering kan være nødvendig."
+  },
+  "antidepressiva": {
+    "title": "Antidepressiva",
+    "risk": "MODERAT",
+    "ssri": {
+      "title": "SSRI'er (Fluoxetin, Sertralin, Paroxetin osv.):",
+      "items": [
+        "CYP2D6-hæmning kan nedsætte nedbrydningen",
+        "Teoretisk risiko for et serotoninsyndrom (lav)",
+        "Forstærket sedation mulig"
+      ]
+    },
+    "snri": {
+      "title": "SNRI'er (Venlafaxin, Duloxetin):",
+      "items": [
+        "Lignende interaktioner som SSRI'er",
+        "CYP2D6-hæmning relevant for Venlafaxin"
+      ]
+    },
+    "mao": {
+      "title": "MAO-hæmmere:",
+      "items": [
+        "Kava hæmmer MAO-B (svagt)",
+        "Teoretisk risiko, men klinisk lidt dokumenteret",
+        "Forsigtighed ved irreversible MAO-hæmmere"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Antikonvulsiva (antiepileptika)",
+    "risk": "MODERAT",
+    "intro": "Phenytoin, Carbamazepin, Valproat og andre antikonvulsiva:",
+    "points": [
+      {
+        "label": "CYP-interaktioner",
+        "text": "Ændrede blodniveauer mulige"
+      },
+      {
+        "label": "Forstærket sedation",
+        "text": "Additiv CNS-effekt"
+      },
+      {
+        "label": "Anfaldskontrol",
+        "text": "Kunne blive påvirket"
+      }
+    ],
+    "note": "Ved epilepsi bør Kava kun anvendes under lægeligt tilsyn."
+  },
+  "parkinson": {
+    "title": "Parkinson-medicin",
+    "risk": "MODERAT til HØJ",
+    "intro": "Levodopa og dopaminagonister:",
+    "points": [
+      {
+        "label": "Dopamin-antagonisme",
+        "text": "Kava kunne svække virkningen af Levodopa"
+      },
+      {
+        "label": "Case-rapport",
+        "text": "Forværring af Parkinson-symptomer under Kava dokumenteret"
+      }
+    ],
+    "recommendation": "Ved Parkinsons sygdom er Kava kontraindiceret."
+  },
+  "hepatotoxisch": {
+    "title": "Hepatotoksiske lægemidler",
+    "risk": "MODERAT",
+    "intro": "Lægemidler med kendt hepatotoksisk potentiale:",
+    "items": [
+      {
+        "name": "Paracetamol/Acetaminophen",
+        "text": "Især problematisk ved højere doser"
+      },
+      {
+        "name": "Statiner",
+        "text": "Atorvastatin, Simvastatin osv. (CYP3A4-substrater)"
+      },
+      {
+        "name": "Methotrexat",
+        "text": "Immunosuppressiv med leverskade"
+      },
+      {
+        "name": "Isoniazid",
+        "text": "Tuberkulose-medicin"
+      }
+    ],
+    "note": "Kombinationen med hepatotoksiske lægemidler øger risikoen for leverskader."
+  },
+  "tabelle": {
+    "title": "Oversigtstabel over interaktioner",
+    "headers": [
+      "Stofklasse",
+      "Eksempler",
+      "Risiko",
+      "Mekanisme"
+    ],
+    "rows": [
+      {
+        "class": "Alkohol",
+        "examples": "Ethanol",
+        "risk": "MEGET HØJ",
+        "mechanism": "Synergistisk sedation, hepatotoksicitet"
+      },
+      {
+        "class": "Benzodiazepiner",
+        "examples": "Diazepam, Lorazepam, Alprazolam",
+        "risk": "MEGET HØJ",
+        "mechanism": "GABA-forstærkning, CYP3A4-hæmning"
+      },
+      {
+        "class": "Antipsykotika",
+        "examples": "Haloperidol, Olanzapin, Clozapin",
+        "risk": "HØJ",
+        "mechanism": "CYP1A2/2D6-hæmning, sedation"
+      },
+      {
+        "class": "Antikoagulantien",
+        "examples": "Warfarin, Phenprocoumon",
+        "risk": "HØJ",
+        "mechanism": "CYP2C9-hæmning, blødningsrisiko"
+      },
+      {
+        "class": "SSRI'er",
+        "examples": "Fluoxetin, Sertralin, Paroxetin",
+        "risk": "MODERAT",
+        "mechanism": "CYP2D6-hæmning"
+      },
+      {
+        "class": "Antikonvulsiva",
+        "examples": "Phenytoin, Carbamazepin",
+        "risk": "MODERAT",
+        "mechanism": "CYP-interaktioner, sedation"
+      },
+      {
+        "class": "Parkinson-medicin",
+        "examples": "Levodopa, dopaminagonister",
+        "risk": "MODERAT",
+        "mechanism": "Dopamin-antagonisme"
+      },
+      {
+        "class": "Statiner",
+        "examples": "Atorvastatin, Simvastatin",
+        "risk": "MODERAT",
+        "mechanism": "CYP3A4-hæmning, hepatotoksicitet"
+      },
+      {
+        "class": "Opioider",
+        "examples": "Kodein, Tramadol, Morfin",
+        "risk": "MODERAT",
+        "mechanism": "CYP2D6-hæmning, sedation"
+      },
+      {
+        "class": "Koffein",
+        "examples": "Kaffe, energidrikke",
+        "risk": "LAV",
+        "mechanism": "CYP1A2-hæmning (forlænget virkning)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Praktiske anbefalinger",
+    "checklistTitle": "Tjekliste før Kava-forbrug",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Tjek medicinliste",
+        "text": "Kontroller alle aktuelle lægemidler for interaktioner"
+      },
+      {
+        "number": "2.",
+        "label": "Konsulter læge",
+        "text": "Søg lægelig rådgivning før Kava-forbrug ved regelmæssig medicinindtagelse"
+      },
+      {
+        "number": "3.",
+        "label": "Undgå alkohol",
+        "text": "Drik ikke alkohol mindst 24 timer før og efter Kava-forbrug"
+      },
+      {
+        "number": "4.",
+        "label": "Doser lavt",
+        "text": "Start med en lavere Kava-dosis ved samtidig medicinindtagelse"
+      },
+      {
+        "number": "5.",
+        "label": "Overvåg symptomer",
+        "text": "Vær opmærksom på usædvanlig træthed, svimmelhed eller andre symptomer"
+      }
+    ],
+    "professionalNote": {
+      "title": "Bemærkning til læger og farmaceuter",
+      "text": "Hos patienter, der indtager Kava, bør medicineringen gennemgås for CYP450-substrater. Særlig forsigtighed er påkrævet ved lægemidler med snævert terapeutisk vindue. En dosisjustering kan være nødvendig."
+    }
+  },
+  "quellen": {
+    "title": "Kilder",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Inhibition of Human Cytochrome P450 Activities by Kava Extract and Kavalactones.",
+        "source": "Drug Metabolism and Disposition."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Pharmacokinetic and pharmacodynamic drug interactions with Kava.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "Traditional Aqueous Kava Extracts Inhibit Cytochrome P450 1A2 in Humans.",
+        "source": "Clinical Pharmacology & Therapeutics."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Potential for interaction of kava and St. John's wort with drugs.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "Inhibition of Cytochrome P450 3A4 by Extracts and Kavalactones of Piper methysticum.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "En komplet liste over alle citerede studier kan findes på vores",
+    "studiesLink": "studieside"
+  }
+}
