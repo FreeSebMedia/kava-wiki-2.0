@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Bileşenler & Kimya",
+    "subtitle": "Piper methysticum'un farmakolojik sırları: Kavalaktonlar, kimyotipler ve etki mekanizmaları.",
+    "category": "Bileşenler"
+  },
+  "breadcrumbs": {
+    "home": "Anasayfa",
+    "current": "Bileşenler"
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "uebersicht": "Etken Maddelerin Özeti",
+    "kavalactone": "6 Ana Kavalakton",
+    "chemotypen": "Kimyotip Sistemi",
+    "synergien": "Sinerjiler & Entourage Etkisi",
+    "weitere": "Diğer Bileşenler",
+    "unterseiten": "Derinlemesine Makaleler"
+  },
+  "uebersicht": {
+    "paragraph1": "Kava'nın psikoaktif etkisi, <strong>Kavalaktonlar</strong> (veya Kava-Pyonlar) olarak bilinen bir grup bileşen tarafından üretilir. Diğer birçok psikoaktif bitkinin (örneğin kahve veya çay) aksine, Kava ana etken maddesi olarak alkaloid içermez.",
+    "paragraph2": "Şu ana kadar 18 farklı kavalakton tanımlanmıştır, ancak bunlardan altısı farmakolojik etkinin %96'sından fazlasından sorumludur. Bu altı \"Ana Kavalakton\", Kava'nın sınıflandırılması ve kalite belirlenmesi için temel oluşturur."
+  },
+  "kavalactone": {
+    "title": "6 Ana Kavalakton",
+    "intro": "Her kavalaktonun benzersiz bir etki profili vardır. Bir Kava çeşidinin toplam etkisi, bu altı bileşenin belirli karışım oranından kaynaklanır.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "İsim",
+      "abbreviation": "Kısaltma",
+      "effect": "Ana Etki"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Odak, Dopamin artışı, Euphoria"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Güçlü kas gevşemesi, Analjezi (ağrı kesici)"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "Uyarıcı, CB1 reseptörleri üzerinde etki (Endokannabinoid Sistemi)"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anksiyolitik (kaygı giderici), ruh hali iyileştirici, zihinsel odak. \"Heady\" etkisinden sorumlu."
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Sakinleştirici, uzun süreli. Yüksek konsantrasyonlar bulantıya neden olabilir (Tudei-Kava için tipik)."
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Güçlü sakinleştirici, anksiyolitik, nöroprotektif."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Kimyotip Sistemi",
+    "intro": "Bir Kava çeşidinin etkisini tahmin etmek için, kavalaktonları konsantrasyonlarına göre azalan sırayla listeleyen 6 haneli bir kod kullanılır. Buna <strong>Kimyotip</strong> denir.",
+    "exampleTitle": "Örnek: Kimyotip 426531",
+    "exampleText": "Bu, <strong>Kavain (4)</strong>'in en yüksek konsantrasyona sahip olduğunu, ardından <strong>Dihydrokavain (2)</strong>, sonra <strong>Methysticin (6)</strong> geldiğini gösterir.",
+    "nobleTudeiTitle": "Noble Kava vs. Tudei Kava",
+    "nobleTudeiIntro": "Kimyotip, kaliteli \"Noble Kava\" (soylu kava) ile düşük kaliteli \"Tudei Kava\" (İki Gün Kava) arasında ayrım yapmanın en önemli aracıdır.",
+    "nobleDescription": "<strong>Noble Kava:</strong> Kimyotipler genellikle <strong>4</strong> (Kavain) veya <strong>2</strong> (Dihydrokavain) ile başlar. Bu, uzun bir \"sarhoşluk\" olmadan hoş, kaygı giderici bir etki sağlar.",
+    "nobleCodes": "Tipik Kodlar: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Tudei Kava:</strong> Kimyotipler genellikle <strong>5</strong> (Dihydromethysticin) veya çok yüksek 5'li oranla <strong>2</strong> ile başlar. DHM çok yavaş parçalanır ve günlerce süren yorgunluk ve bulantıya yol açabilir.",
+    "tudeiCodes": "Tipik Kodlar: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Sinerjiler & Entourage Etkisi",
+    "paragraph1": "Kava'da, toplam ekstraktın, izole edilmiş kavalaktonlardan daha etkili olduğu, Cannabis'teki (Terpenler & Kanabinoidler) gibi bir durumdur. Buna Entourage Etkisi denir.",
+    "paragraph2": "İzole edilmiş Kavain kaygı giderici etki gösterse de, Yangonin (MAO-B inhibisyonu) ve Desmethoxyyangonin (Dopamin artışı) ile kombinasyonu ruh hali iyileştirici etkisini önemli ölçüde artırır. Bu nedenle, geleneksel hazırlıklar veya tam spektrumlu ekstraktlar, izole edilmiş etken maddelere tercih edilir."
+  },
+  "weitere": {
+    "title": "Diğer Bileşenler",
+    "intro": "Kavalaktonların yanı sıra, kök şunları içerir:",
+    "items": [
+      {
+        "label": "Flavokavinler (A, B, C)",
+        "text": "Potansiyel antitümör özellikleri olan chalconlar, ancak aşırı yüksek dozlarda sitotoksik olma şüphesi taşır (özellikle Tudei çeşitlerinde)."
+      },
+      {
+        "label": "Alkaloidler",
+        "text": "Pipermethystin esas olarak <strong>yapraklarda ve saplarda</strong> bulunur, kökte değil. Toksiktir ve geleneksel olarak sadece köklerin tüketilmesinin ana nedenidir."
+      },
+      {
+        "label": "Nişasta & Lifler",
+        "text": "Kuru madde miktarının yaklaşık %43'ünü oluşturur ve içeceğin tipik kıvamını sağlar."
+      },
+      {
+        "label": "Mineraller",
+        "text": "Potasyum, Kalsiyum, Magnezyum."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "Derinlemesine Makaleler",
+    "intro": "Her bir konu hakkında daha ayrıntılı bilgi için, özel alt sayfalarımızı ziyaret edin:",
+    "kavalactoneTitle": "6 Ana Kavalakton",
+    "kavalactoneDescription": "Kavain, Dihydrokavain, Methysticin, Dihydromethysticin, Yangonin ve Desmethoxyyangonin için ayrıntılı etki profilleri.",
+    "chemotypenTitle": "Kimyotip Sistemi",
+    "chemotypenDescription": "6 haneli kodun etkiyi nasıl tahmin ettiğini ve Noble Kava ile Tudei'yi nasıl ayırdığını.",
+    "learnMore": "Daha fazla bilgi edinin"
+  }
+}

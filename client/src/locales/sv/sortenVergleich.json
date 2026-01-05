@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Sortjämförelse",
+    "subtitle": "Jämför två Kava-sorter direkt bredvid varandra"
+  },
+  "breadcrumbs": {
+    "home": "Hem",
+    "sorten": "Sorter",
+    "current": "Jämförelse"
+  },
+  "ui": {
+    "selectVariety": "Välj sort...",
+    "firstVariety": "Första sorten",
+    "secondVariety": "Andra sorten",
+    "toProfile": "Till sortprofilen",
+    "potency": "Potens",
+    "badgeInfo": "De <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> märkena visar skillnaden till den andra sorten"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Balans",
+    "heavy": "Tung"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Effektprofil-jämförelse"
+    },
+    "basicInfo": {
+      "title": "Grundläggande information"
+    },
+    "dosage": {
+      "title": "Rekommenderad dosering"
+    },
+    "applications": {
+      "title": "Användningsområden"
+    },
+    "usageTimes": {
+      "title": "Intagningstider"
+    },
+    "kavalactones": {
+      "title": "Kavalakton-profil"
+    },
+    "notes": {
+      "title": "Anteckningar"
+    }
+  },
+  "effects": {
+    "euphoria": "Eufori",
+    "relaxation": "Avkoppling",
+    "sedation": "Sedering",
+    "clarity": "Klarhet",
+    "sociability": "Sällskaplighet",
+    "anxiolysis": "Ångestlösning"
+  },
+  "info": {
+    "chemotype": "Kemotyp",
+    "duration": "Verkningsduration",
+    "availability": "Tillgänglighet",
+    "price": "Pris"
+  },
+  "dosageLabels": {
+    "beginner": "Nybörjare",
+    "regular": "Regelbunden",
+    "experienced": "Erfaren"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Välj två sorter att jämföra",
+    "description": "Använd rullgardinsmenyerna ovan för att välja två Kava-sorter och ställ deras egenskaper, effekter och rekommendationer direkt mot varandra.",
+    "tips": {
+      "title": "Jämföreställningstips",
+      "items": [
+        "Jämför sorter inom samma kategori för liknande effektprofiler",
+        "Jämför Heady vs. Heavy för motsatta upplevelser",
+        "Var uppmärksam på kemotyp-skillnader för vetenskapliga insikter"
+      ]
+    },
+    "quickSelections": "Snabbval",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu-klassiker",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Nybörjarrekommendation",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

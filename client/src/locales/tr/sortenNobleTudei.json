@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Noble Kava ve Tudei Kava",
+    "subtitle": "Her Kava tüketicisi için en önemli ayrım: Neden Noble Kava güvenlidir ve Tudei'den kaçınılmalıdır.",
+    "category": "Çeşitler",
+    "breadcrumb": {
+      "home": "Anasayfa",
+      "sorten": "Çeşitler",
+      "current": "Noble vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Giriş",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "Sınıflandırma Tarihi",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "Kimyasal Farklılıklar",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "Etkisel Farklılıklar",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "Tudei'yi Tanıma",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "Güvenlik Açısından",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Noble Kava ile Tudei Kava arasındaki ayrım, Kava dünyasındaki en temel sınıflandırmadır. Bu, bir Kava deneyiminin keyifli ve güvenli mi yoksa rahatsız edici ve potansiyel olarak zararlı mı olacağını belirler.",
+      "text": "\"Tudei\" terimi (aynı zamanda \"Two-Day\" olarak da yazılır), Vanuatu'nun kreol dili Bislama'dan gelmektedir ve kelime anlamı \"iki gün\"dir – bu, bu çeşitlerin son derece uzun etki süresine bir atıftır. Öte yandan, Noble Kava, yüzyıllar boyunca Pasifik kültürleri tarafından günlük kullanım için seçilmiştir ve keyifli, kontrol edilebilir bir etki sunar."
+    },
+    "geschichte": {
+      "title": "Sınıflandırma Tarihi",
+      "p1": "Noble ve Tudei Kava arasındaki resmi ayrım, <strong>Vanuatu Hükümeti</strong> tarafından, ihracat Kava kalitesini düzenlemek amacıyla getirilmiştir. 2002 yılında Vanuatu, Tudei çeşitlerinin ihracatını yasaklayan <strong>Kava Yasası</strong>nı çıkarmıştır. Bu yasama, Avrupa'da düşük kaliteli Kava ürünleriyle ilişkilendirilen karaciğer hasarı raporlarına bir tepki olarak ortaya çıkmıştır.",
+      "p2": "<strong>Dr. Vincent Lebot</strong> tarafından yapılan araştırmalar, bu sınıflandırmanın gelişiminde kritik bir rol oynamıştır. Lebot, Kava çeşitlerinin kimyasal analizine yönelik yöntemler geliştirmiş ve Noble ile Tudei'yi ayıran <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kimyasal tipleri</a> tanımlamıştır.",
+      "quote": "Noble ve Tudei arasındaki sınıflandırma, öznel tercihlere değil, güvenlik ve uyumlulukla doğrudan ilişkili ölçülebilir kimyasal farklılıklara dayanmaktadır.",
+      "quoteAuthor": "— Dr. Vincent Lebot, Kava Araştırmacısı"
+    },
+    "chemischeUnterschiede": {
+      "title": "Kimyasal Farklılıklar",
+      "intro": "Noble ve Tudei Kava arasındaki belirleyici fark, <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kimyasal tip</a> – altı ana <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalakton</a>un göreceli konsantrasyonudur. Kimyasal tip, ilk rakamın baskın Kavalaktonu temsil ettiği altı haneli bir sayı olarak belirtilir.",
+      "tableHeaders": {
+        "merkmal": "Özellik",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Kimyasal tip başlar",
+          "noble": "2 (DHK) veya 4 (Kavain)",
+          "tudei": "5 (DHM) veya 6 (Methysticin)"
+        },
+        {
+          "merkmal": "Baskın Kavalakton",
+          "noble": "Kavain veya Dihydrokavain",
+          "tudei": "Dihydromethysticin"
+        },
+        {
+          "merkmal": "Flavokavain B içeriği",
+          "noble": "Düşük (<0.5%)",
+          "tudei": "Yüksek (5'e kadar)"
+        },
+        {
+          "merkmal": "DHM:Kavain oranı",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Noble Kimyasal Tipler (Örnekler)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Hepsi 2 veya 4 ile başlar – asla 5 veya 6 ile değil."
+      },
+      "tudeiCard": {
+        "title": "Tudei Kimyasal Tipler (Örnekler)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "5 (DHM) veya 6 (Methysticin) ile başlar – bir uyarı işareti."
+      },
+      "calculatorLink": "Kimyasal Tip Hesaplayıcı: Her Kimyasal Tipi Analiz Edin"
+    },
+    "wirkungsunterschiede": {
+      "title": "Etkisel Farklılıklar",
+      "intro": "Kimyasal farklılıklar, oldukça farklı etki profillerine yol açar:",
+      "tableHeaders": {
+        "aspekt": "Açı",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Etkileşim süresi",
+          "noble": "Hızlı (10-20 dakika)",
+          "tudei": "Gecikmeli (30-90 dakika)"
+        },
+        {
+          "aspekt": "Etkileşim süresi",
+          "noble": "Orta (3-6 saat)",
+          "tudei": "Son derece uzun (6-48 saat)"
+        },
+        {
+          "aspekt": "Etkileşim karakteri",
+          "noble": "Açık, rahat, sosyal",
+          "tudei": "Düşük, sersemletici, sedatif"
+        },
+        {
+          "aspekt": "Ertesi gün",
+          "noble": "Sarhoşluk yok",
+          "tudei": "Çoğu zaman halsizlik, bulantı"
+        },
+        {
+          "aspekt": "Yan etkiler",
+          "noble": "Nadir, hafif",
+          "tudei": "Sık: Bulantı, baş ağrısı"
+        },
+        {
+          "aspekt": "Günlük kullanım",
+          "noble": "Güvenli",
+          "tudei": "Tavsiye edilmez"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Noble Kava Deneyimi",
+        "text": "Tipik bir Noble Kava deneyimi, dudaklarda hafif bir karıncalanma ile başlar, ardından bir rahatlama dalgası gelir. Zihin net kalırken, beden rahatlar. 3-4 saat sonra etki nazikçe azalır ve kişi tazelenmiş hisseder – dinlendirici bir uykuya veya diğer aktivitelere hazır."
+      },
+      "tudeiExperience": {
+        "title": "Tudei Kava Deneyimi",
+        "text": "Tudei Kava, gecikmeli ve sinsi bir etki gösterir. Etki genellikle aşırı derecede sedatif olup, \"sersemletici\" bir his yaratır. Ertesi gün birçok tüketici hâlâ etkilenmiş hisseder – bu nedenle ismi \"Two-Day\"dir. Bulantı ve baş ağrısı sık görülür."
+      }
+    },
+    "erkennung": {
+      "title": "Tudei'yi Tanıma",
+      "intro": "Maalesef, Tudei Kava bazen yasadışı olarak karıştırılmakta veya Noble olarak satılmaktadır. İşte uyarı işaretleri:",
+      "warningTitle": "Tudei Karışımı için Uyarı İşaretleri",
+      "warnings": [
+        "<strong>Aşırı düşük fiyat</strong> – Tudei üretimi daha ucuzdur",
+        "<strong>Tür belirtimi yok</strong> – Tür adı her zaman belirtilmelidir",
+        "<strong>Kimyasal tip yok</strong> – Kimyasal tip, Kavalakton bileşimini gösterir",
+        "<strong>Gecikmeli etki süresi</strong> – Noble 10-20 dakikada etki eder",
+        "<strong>Aşırı bulantı</strong> – Hafif mide rahatsızlığından fazlası",
+        "<strong>Ertesi gün etkisi</strong> – Noble 4-6 saat içinde etkisini kaybeder"
+      ],
+      "acetoneTestTitle": "Aseton Testi",
+      "acetoneTestText": "Tudei'yi tanımlamak için basit bir ev testi yardımcı olabilir: <strong>Aseton Testi</strong>. Kava tozu asetona karıştırılır. Noble Kava, asetonun sarı renge dönüşmesine neden olurken, Tudei Kava turuncu-kırmızı bir renk oluşturur (yüksek Flavokavain-B içeriğinden dolayı).",
+      "recommendation": "<strong>Tavsiye:</strong> Satın alırken, satıcının kesin kimyasal tipi ve türü belirtmesine dikkat edin. Bu bilgiler, bunun gerçek Noble Kava olduğunu gösterir."
+    },
+    "sicherheit": {
+      "title": "Güvenlik Açısından",
+      "intro": "Noble ve Tudei arasındaki ayrım sadece konfor meselesi değil, aynı zamanda <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">güvenlik</a> meselesidir. 2000'lerin başında Kava ile ilişkilendirilen karaciğer hasarları, günümüzde çoğunlukla düşük kaliteli ürünlere atfedilmektedir:",
+      "causes": [
+        "<strong>Yüzeysel bitki parçalarının</strong> (yapraklar, saplar) kullanımı, sadece kökler yerine",
+        "<strong>Yüksek Flavokavain-B içeriğine sahip</strong> Tudei çeşitlerinin karıştırılması",
+        "<strong>Aseton ekstraksiyonu</strong> yerine geleneksel su hazırlığı",
+        "<strong>Olgunlaşmamış bitkilerin</strong> kullanımı (3 yıldan daha genç)"
+      ],
+      "conclusion": "Noble Kava, en az 3-5 yaşındaki köklerden geleneksel olarak hazırlanmış olup, Pasifik kültürlerinde <strong>binlerce yıllık bir güvenlik geçmişine</strong> sahiptir. Vanuatu hükümeti ve <strong>Dünya Sağlık Örgütü (WHO)</strong> gibi uluslararası kuruluşlar, doğru kullanıldığında Noble Kava'nın güvenli olduğunu doğrulamıştır.",
+      "moreLink": "Kava güvenliği hakkında daha fazla bilgi edinin"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Çeşitler bölümünde devam:",
+    "next": {
+      "title": "Vanuatu'dan Çeşitler",
+      "description": "Kava'nın anavatanından 80'den fazla çeşit: Borogu, Melo Melo, Kelai ve daha fazlası",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

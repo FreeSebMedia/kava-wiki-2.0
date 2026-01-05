@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "title": "Anlık Kava",
+    "subtitle": "Kava'yı keyifle tüketmenin en hızlı yolu - hareket halindeyken veya aceleyle ihtiyaç duyduğunuzda mükemmel.",
+    "category": "Hazırlama"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "zubereitung": "Hazırlama",
+    "current": "Anlık Kava"
+  },
+  "toc": {
+    "title": "İçerik",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Genel Bakış",
+        "level": 1
+      },
+      {
+        "id": "was-ist",
+        "title": "Anlık Kava Nedir?",
+        "level": 1
+      },
+      {
+        "id": "arten",
+        "title": "Anlık Kava Türleri",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Hazırlama",
+        "level": 1
+      },
+      {
+        "id": "dosierung",
+        "title": "Dozaj Önerileri",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Diğer Yöntemlerle Karşılaştırma",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "İpuçları & Püf Noktaları",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "prepTime": "Hazırlama Süresi",
+    "noFilter": "Filtre Yok",
+    "justStir": "Sadece karıştırın",
+    "practical": "Pratik",
+    "idealForTravel": "Hareket halindeyken ideal",
+    "potency": "Potansiyel",
+    "advantages": "Avantajlar",
+    "disadvantages": "Dezavantajlar",
+    "productType": "Ürün Tipi",
+    "beginner": "Yeni Başlayan",
+    "regular": "Normal",
+    "experienced": "Deneyimli",
+    "aspect": "Açı",
+    "traditional": "Geleneksel",
+    "blender": "Mikser",
+    "instant": "Anlık",
+    "otherMethods": "Diğer Hazırlama Yöntemleri"
+  },
+  "overview": {
+    "intro": "Anlık Kava, Kava'yı tüketmenin <strong>en hızlı ve en kolay</strong> yoludur. Sadece suyla karıştırın, karıştırın ve için - <strong>yoğurma yok, filtreleme yok</strong>."
+  },
+  "whatIs": {
+    "title": "Anlık Kava Nedir?",
+    "text": "\"Anlık Kava\", zahmetli bir hazırlama gerektirmeden tüketilebilen Kava ürünlerinin genel adıdır. Geleneksel orta öğütme tozunun aksine, anlık ürünler doğrudan suda çözülür.",
+    "alert": {
+      "title": "Önemli Fark",
+      "text": "Anlık Kava, <strong>Kava ekstresi kapsülleri veya tabletleri</strong> ile aynı değildir. Tam Kava deneyimini sunan içilebilir formlardır."
+    }
+  },
+  "types": {
+    "title": "Anlık Kava Türleri",
+    "items": [
+      {
+        "name": "Mikronize Kava",
+        "description": "Tamamen suda çözülen ultrafine öğütülmüş kök tozu.",
+        "pros": [
+          "En hızlı hazırlama",
+          "Tam bitki bileşenleri",
+          "Filtreleme gerektirmiyor"
+        ],
+        "cons": [
+          "Mide sorunlarına neden olabilir",
+          "Kumlu bir doku mümkün",
+          "Orta öğütmeden daha pahalı"
+        ],
+        "potency": "Yüksek",
+        "color": "amber"
+      },
+      {
+        "name": "Dehidre Kava Ekstresi",
+        "description": "Geleneksel olarak hazırlanmış Kava'dan elde edilen yoğunlaştırılmış ekstrakt, dondurarak kurutulmuş.",
+        "pros": [
+          "Çok potent",
+          "Pürüzsüz doku",
+          "Mide dostu"
+        ],
+        "cons": [
+          "En pahalı",
+          "Daha az otantik tat",
+          "Sınırlı bulunabilirlik"
+        ],
+        "potency": "Çok yüksek",
+        "color": "purple"
+      },
+      {
+        "name": "Kava Konsantresi (sıvı)",
+        "description": "Sadece su ile seyreltilmesi gereken hazır Kava çözeltisi.",
+        "pros": [
+          "Anında içime hazır",
+          "Tutarlı güç",
+          "Hareket halindeyken pratik"
+        ],
+        "cons": [
+          "Sınırlı raf ömrü",
+          "Daha az seçenek",
+          "Genellikle katkı maddeleri ile"
+        ],
+        "potency": "Orta ile yüksek",
+        "color": "blue"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Hazırlama",
+    "intro": "Anlık Kava'nın hazırlanması son derece basit - bu yüzden adı böyle!",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Ölçme",
+        "description": "İstenilen miktarda Anlık Kava'yı bir bardağa veya kaseye koyun."
+      },
+      {
+        "number": 2,
+        "title": "Su ekleme",
+        "description": "200-300ml su (soğuk veya sıcak) ekleyin."
+      },
+      {
+        "number": 3,
+        "title": "Karıştırın & İçin",
+        "description": "Tamamen çözülene kadar iyice karıştırın, ardından bir yudumda için."
+      }
+    ],
+    "alert": {
+      "title": "Pro İpucu: Şaker kullanın",
+      "text": "Bir protein şakeri veya kokteyl şakeri, Anlık Kava'yı karıştırmaktan çok daha iyi çözer. Özellikle Mikronize Kava'da topaklanmayı önler."
+    }
+  },
+  "dosage": {
+    "title": "Dozaj Önerileri",
+    "note": "<strong>Not:</strong> Bu değerler genel kılavuzlardır. Gerçek potansiyel, üreticiye ve çeşide göre büyük ölçüde değişir. Her zaman düşük bir dozajla başlayın!",
+    "items": [
+      {
+        "type": "Mikronize",
+        "beginner": "2-3g",
+        "regular": "4-6g",
+        "experienced": "6-10g"
+      },
+      {
+        "type": "Dehidre Ekstrakt",
+        "beginner": "1-2g",
+        "regular": "2-4g",
+        "experienced": "4-6g"
+      },
+      {
+        "type": "Konsantre (sıvı)",
+        "beginner": "15-30ml",
+        "regular": "30-45ml",
+        "experienced": "45-60ml"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Diğer Yöntemlerle Karşılaştırma",
+    "items": [
+      {
+        "aspect": "Hazırlama Süresi",
+        "traditional": "20-25 Dakika",
+        "blender": "8-10 Dakika",
+        "instant": "30 Saniye"
+      },
+      {
+        "aspect": "Çaba",
+        "traditional": "Yüksek",
+        "blender": "Orta",
+        "instant": "Minimal"
+      },
+      {
+        "aspect": "Potansiyel",
+        "traditional": "Çok yüksek",
+        "blender": "Yüksek",
+        "instant": "Orta-Yüksek"
+      },
+      {
+        "aspect": "Tat",
+        "traditional": "Otantik",
+        "blender": "Yoğun",
+        "instant": "Değişken"
+      },
+      {
+        "aspect": "Porsiyon Başına Maliyet",
+        "traditional": "Uygun fiyatlı",
+        "blender": "Uygun fiyatlı",
+        "instant": "Pahalı"
+      },
+      {
+        "aspect": "Hareket Halinde",
+        "traditional": "Pratik değil",
+        "blender": "Pratik değil",
+        "instant": "İdeal"
+      }
+    ]
+  },
+  "tips": {
+    "title": "İpuçları & Püf Noktaları",
+    "items": [
+      {
+        "name": "Meyve Suyu ile Karıştırma",
+        "text": "Anlık Kava'yı su yerine meyve suyu ile karıştırın. Ananas veya mango suyu acı tadı mükemmel bir şekilde kaplar."
+      },
+      {
+        "name": "Hindistan Cevizi Sütü İle Artırma",
+        "text": "Su yerine hindistan cevizi sütü kullanın. Yağ, Kavalactone'ların emilimini artırır ve tadı daha kremamsı hale getirir."
+      },
+      {
+        "name": "Seyahat Porsiyonları",
+        "text": "Anlık Kava'yı küçük zip torbalara önceden porsiyonlayın. Böylece hareket halindeyken her zaman doğru miktarı yanınızda bulundurursunuz."
+      },
+      {
+        "name": "Soğuk Tüketin",
+        "text": "Anlık Kava soğuk genellikle sıcak olandan daha iyi tat verir. Soğuk su ve birkaç buz küpü ile karıştırarak ferahlatıcı bir içecek hazırlayın."
+      }
+    ],
+    "alert": {
+      "title": "Mikronize Kava'ya Dikkat",
+      "text": "Mikronize Kava tüm bitki liflerini içerir ve hassas kişilerde mide sorunlarına neden olabilir. Bulantı hissederseniz, dehidre ekstrakt veya geleneksel hazırlama yöntemine geçin."
+    }
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Geleneksel Yoğurma Yöntemi",
+      "subtitle": "Maksimum potansiyel, otantik deneyim",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Mikser Yöntemi",
+      "subtitle": "Hızlı ve etkili",
+      "href": "/de/zubereitung/blender"
+    },
+    "calculator": {
+      "title": "Dozaj Hesaplayıcı",
+      "subtitle": "Çeşidinize özel öneriler",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

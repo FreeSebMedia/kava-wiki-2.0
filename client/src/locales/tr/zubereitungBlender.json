@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Blender Yöntemi",
+    "subtitle": "Modern günlük yaşam için ideal, hızlı ve etkili Kava hazırlama yöntemi.",
+    "category": "Hazırlama"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "zubereitung": "Hazırlama",
+    "current": "Blender Yöntemi"
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Genel Bakış",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Gerekli Malzemeler",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Adım Adım Talimat",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Geleneksel Yöntemle Karşılaştırma",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Uzman İpuçları",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Toplam Süre",
+    "fast": "Hızlı",
+    "lowEffort": "Az Çaba",
+    "highPotency": "Yüksek Potans",
+    "effectiveExtraction": "Etkili Ekstraksiyon",
+    "tip": "İpucu",
+    "essential": "Temel",
+    "importantForBestResults": "En iyi sonuçlar için önemli",
+    "aspect": "Açı",
+    "traditional": "Geleneksel (Yoğurma)",
+    "blender": "Blender",
+    "otherMethods": "Diğer Hazırlama Yöntemleri"
+  },
+  "overview": {
+    "intro": "Blender yöntemi, geleneksel yoğurma yönteminin <strong>modern alternatifi</strong>dir. Daha hızlı, daha az iş gücü gerektirir ve yine de <strong>çok iyi bir ekstraksiyon</strong> sağlar.",
+    "alert": {
+      "title": "İdeal için...",
+      "text": "Kolay bir yöntem arayan yeni başlayanlar veya az zamanı olan deneyimli kullanıcılar. Blender yöntemi ayrıca daha büyük miktarlar için de mükemmeldir."
+    }
+  },
+  "materials": {
+    "title": "Gerekli Malzemeler",
+    "essential": [
+      {
+        "name": "Masa Blenderı",
+        "note": "En az 500 Watt, tercihen 1000+ Watt"
+      },
+      {
+        "name": "Kava Kök Tozu",
+        "type": "Orta Öğütme",
+        "note": "Deneyime bağlı olarak 20-40g"
+      },
+      {
+        "name": "Filtre Torbası",
+        "note": "Süt torbası veya ince süzgeç"
+      },
+      {
+        "name": "Ilımlı Su",
+        "note": "400-600ml, el ısısında (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Hindistan Cevizi Yağı veya Hindistan Cevizi Sütü",
+        "note": "1 yemek kaşığı – iyi bir ekstraksiyon için temel!"
+      },
+      {
+        "name": "Mutfak Tartısı",
+        "note": "Tutarlı dozaj için"
+      },
+      {
+        "name": "Büyük Kase",
+        "note": "Süzme sırasında toplamak için"
+      }
+    ],
+    "alert": {
+      "title": "Blender Gereksinimleri",
+      "text": "Güçlü bir masa blenderı kullanın. El blenderı veya zayıf blenderlar etkili bir şekilde ekstrakte etmez ve aşırı ısınabilir. Vitamix veya Blendtec gibi yüksek güçlü blenderlar idealdir."
+    }
+  },
+  "steps": {
+    "title": "Adım Adım Talimat",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Malzemeleri Hazırlayın",
+        "duration": "2 Dakika",
+        "description": "Tüm malzemeleri ölçün ve hazırlayın.",
+        "details": [
+          "Kava tozunu tartın (deneyime bağlı olarak 20-40g)",
+          "Suyu ölçün (400-600ml)",
+          "1 yemek kaşığı Hindistan cevizi yağı veya sütü hazırlayın",
+          "Filtre torbasını ve toplama kasesini hazırlayın"
+        ],
+        "tip": "Yağ, blender yönteminde özellikle önemlidir, çünkü emülsiyonu stabilize eder."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Blender'a Ekleyin",
+        "duration": "1 Dakika",
+        "description": "Tüm malzemeleri masa blenderına koyun.",
+        "details": [
+          "Önce suyu ekleyin (ılımlı, 35-45°C)",
+          "Sonra kava tozunu ekleyin",
+          "Son olarak yağı (Hindistan cevizi yağı/sütü) ekleyin",
+          "Kapağı sıkıca kapatın!"
+        ],
+        "tip": "Ilımlı su ekstraksiyonu iyileştirir. Soğuk su da işe yarar, ancak daha az etkilidir."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Karıştırma",
+        "duration": "3-4 Dakika",
+        "description": "Maksimum ekstraksiyon için en yüksek ayarda karıştırın.",
+        "details": [
+          "Blender'ı en yüksek ayara getirin",
+          "3-4 dakika boyunca sürekli karıştırın",
+          "Karışım köpüklü ve sütlü-kahverengi olacaktır",
+          "Aşırı ısınma durumunda kısa molalar verin"
+        ],
+        "tip": "Daha uzun karıştırma = daha güçlü kava. Ama dikkat: Bazı blenderlar 4+ dakikadan sonra aşırı ısınabilir."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Süzme",
+        "duration": "3 Dakika",
+        "description": "Karışımı bir filtre torbasından süzün.",
+        "details": [
+          "Filtre torbasını büyük bir kasenin üzerine yerleştirin",
+          "Blender karışımını yavaşça dökün",
+          "Torbayı sıkıştırın ve sıkın",
+          "Neredeyse hiç sıvı kalmayana kadar birkaç kez sıkıştırın"
+        ],
+        "tip": "Bu adım önemlidir! Süzmeden içerseniz, mide bulantısına neden olabilecek kaba lifleri de alırsınız."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Servis",
+        "duration": "Hemen",
+        "description": "Blender Kava'nızın tadını çıkarın!",
+        "details": [
+          "Kase veya fincanlara dökün",
+          "İsteğe bağlı: Soğuk kava için kısa bir süre buzdolabında bekletin",
+          "Bir yudumda içmek ('Chug')",
+          "Chaser (meyve) hazırlayın"
+        ],
+        "tip": "Blender Kava, geleneksel olarak hazırlananlardan biraz daha acı olabilir. İyi bir chaser yardımcı olur!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Geleneksel Yöntemle Karşılaştırma",
+    "conclusion": "<strong>Sonuç:</strong> Blender yöntemi günlük yaşam ve yeni başlayanlar için idealdir. Özel günler veya maksimum potans için geleneksel yöntem tercih edilmelidir.",
+    "items": [
+      {
+        "aspect": "Hazırlama Süresi",
+        "traditional": "20-25 Dakika",
+        "blender": "8-10 Dakika",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Potans",
+        "traditional": "Çok Yüksek",
+        "blender": "Yüksek ile çok yüksek",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Tat",
+        "traditional": "Daha Yumuşak, Topraklı",
+        "blender": "Daha Acı, Yoğun",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Çaba",
+        "traditional": "Yüksek (fiziksel)",
+        "blender": "Düşük",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Ekipman",
+        "traditional": "Sadece Torba + Kase",
+        "blender": "Masa blenderı gerekli",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Yeni Başlayanlar İçin",
+        "traditional": "İyi Uygun",
+        "blender": "Çok İyi Uygun",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Uzman İpuçları",
+    "items": [
+      {
+        "name": "Buz Küpü Hilesi",
+        "text": "Blender'a 2-3 buz küpü ekleyin. Bu, karışımı karıştırma sırasında soğutur ve uzun karıştırma sürelerinde aşırı ısınmayı önler."
+      },
+      {
+        "name": "Çift Filtrasyon",
+        "text": "İlk önce kaba, sonra ince bir torbadan süzün. Bu, tortusuz daha pürüzsüz bir kava sağlar."
+      },
+      {
+        "name": "Lecithin Artışı",
+        "text": "Bir tatlı kaşığı ayçiçeği lesitini emülsiyonu iyileştirir ve Kavalactone'ların biyoyararlanımını artırabilir."
+      },
+      {
+        "name": "Parti Hazırlığı",
+        "text": "Daha büyük miktarlar hazırlayın ve süzülmüş kava'yı buzdolabında saklayın. 2-3 gün dayanır. İçmeden önce iyice çalkalayın!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Geleneksel Yoğurma Yöntemi",
+      "subtitle": "Maksimum potans, otantik deneyim",
+      "href": "/tr/hazirlama/geleneksel"
+    },
+    "instant": {
+      "title": "Anlık Kava",
+      "subtitle": "Hiçbir çaba yok, hemen içmeye hazır",
+      "href": "/tr/hazirlama/anlik"
+    },
+    "calculator": {
+      "title": "Dozaj Hesaplayıcı",
+      "subtitle": "Sizin çeşidinize özel öneriler",
+      "href": "/tr/hazirlama/hesaplayici"
+    }
+  }
+}

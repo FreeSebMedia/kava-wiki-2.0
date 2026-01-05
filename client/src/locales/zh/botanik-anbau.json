@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "种植与生态",
+    "subtitle": "生长条件、繁殖方法和传统卡瓦种植的艺术。",
+    "category": "植物学"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "植物学",
+    "current": "种植与生态"
+  },
+  "toc": {
+    "vermehrung": "无性繁殖",
+    "stecklinge": "插枝获取",
+    "klima": "气候要求",
+    "boden": "土壤特性",
+    "pflege": "护理与生长",
+    "ernte": "收获与成熟期",
+    "qualitaet": "质量因素",
+    "anbauregionen": "重要种植区域"
+  },
+  "intro": {
+    "paragraph1": "卡瓦的种植是一门艺术，已经传承了数千年。由于<em>Piper methysticum</em>是无性繁殖且不产生种子，这种植物完全依赖于人类。这种独特的依赖关系导致了太平洋民族与他们的神圣植物之间深厚的文化联系。"
+  },
+  "vermehrung": {
+    "title": "无性繁殖",
+    "paragraph1": "卡瓦的繁殖仅通过<strong>插枝进行</strong>。这是植物无性繁殖的直接结果——这一特征是经过数千年的驯化而形成的。",
+    "advantages": {
+      "title": "无性繁殖的优势",
+      "items": [
+        "与母植物的遗传一致性",
+        "保持经过验证的品种特性",
+        "可预测的化学型特征",
+        "比种子生长更快",
+        "世代相传的优良品质"
+      ]
+    },
+    "challenges": {
+      "title": "挑战",
+      "items": [
+        "无法产生遗传变异",
+        "对疾病的易感性（克隆）",
+        "依赖母植物",
+        "传播速度有限",
+        "品种丧失的风险"
+      ]
+    },
+    "stecklinge": {
+      "title": "插枝获取与种植",
+      "paragraph1": "传统的插枝获取方法遵循一个经过验证的过程：",
+      "steps": [
+        {
+          "number": "1",
+          "title": "选择",
+          "description": "从经过验证的母植物上选择健康的茎段，带有2-3个节点"
+        },
+        {
+          "number": "2",
+          "title": "切割",
+          "description": "在节点下方进行干净的切割，长度约为20-30厘米"
+        },
+        {
+          "number": "3",
+          "title": "准备",
+          "description": "去除下部叶子，短时间晾干切口"
+        },
+        {
+          "number": "4",
+          "title": "种植",
+          "description": "将其插入松散、湿润的土壤中，置于阴凉处，定期浇水"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "气候要求",
+    "paragraph1": "卡瓦是一种<strong>热带植物</strong>，具有特定的气候要求。它仅在相对狭窄的环境条件范围内生长。",
+    "table": {
+      "headers": {
+        "parameter": "参数",
+        "optimal": "最佳范围",
+        "tolerance": "耐受范围",
+        "note": "备注"
+      },
+      "rows": [
+        {
+          "parameter": "温度",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "不耐霜冻"
+        },
+        {
+          "parameter": "降水量",
+          "optimal": "2,000-3,000 mm/年",
+          "tolerance": "1,500-4,000 mm/年",
+          "note": "均匀分布"
+        },
+        {
+          "parameter": "空气湿度",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "偏好高湿度"
+        },
+        {
+          "parameter": "海拔高度",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "偏好低地"
+        },
+        {
+          "parameter": "阳光",
+          "optimal": "半阴",
+          "tolerance": "30-70%阴影",
+          "note": "幼苗：需要更多阴影"
+        }
+      ]
+    },
+    "alert": "<strong>阴影需求：</strong>年轻的卡瓦植物（0-2年）需要大约70-80%的阴影。随着年龄的增长，它们可以承受更多的阳光，但仍然受益于部分阴影。"
+  },
+  "boden": {
+    "title": "土壤特性",
+    "paragraph1": "土壤特性是成功种植卡瓦的关键因素之一。植物对排水和养分含量有很高的要求。",
+    "ideal": {
+      "title": "理想的土壤特性",
+      "items": [
+        {
+          "label": "结构：",
+          "value": "松散、颗粒状、通气良好"
+        },
+        {
+          "label": "排水：",
+          "value": "优秀——积水会迅速导致根腐"
+        },
+        {
+          "label": "pH值：",
+          "value": "微酸至中性（5.5-6.5）"
+        },
+        {
+          "label": "有机含量：",
+          "value": "高，富含腐殖质"
+        },
+        {
+          "label": "深度：",
+          "value": "至少60厘米以促进根系发展"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "需避免",
+      "items": [
+        {
+          "label": "压实土壤：",
+          "value": "抑制根系生长"
+        },
+        {
+          "label": "积水：",
+          "value": "导致根腐和真菌感染"
+        },
+        {
+          "label": "重粘土：",
+          "value": "排水差"
+        },
+        {
+          "label": "盐碱土：",
+          "value": "卡瓦对盐敏感"
+        },
+        {
+          "label": "贫瘠土壤：",
+          "value": "降低卡瓦内酯含量"
+        }
+      ]
+    },
+    "paragraph2": "在传统的种植区域，通常更偏好<strong>火山土壤</strong>。这些土壤提供了排水、矿物质含量和结构的理想组合。在瓦努阿图和斐济，卡瓦种植通常在轻微倾斜的山坡上进行，以确保自然排水。"
+  },
+  "pflege": {
+    "title": "护理与生长",
+    "paragraph1": "一旦建立，卡瓦是一种相对容易护理的植物。主要的护理措施集中在前两年。",
+    "table": {
+      "headers": {
+        "phase": "生长阶段",
+        "period": "时间段",
+        "tasks": "主要任务",
+        "notes": "特别事项"
+      },
+      "rows": [
+        {
+          "phase": "建立",
+          "period": "0-6个月",
+          "tasks": "定期浇水，确保阴影",
+          "notes": "关键阶段"
+        },
+        {
+          "phase": "幼年阶段",
+          "period": "6-18个月",
+          "tasks": "杂草控制、覆盖、必要时施肥",
+          "notes": "快速生长"
+        },
+        {
+          "phase": "成熟阶段",
+          "period": "18-36个月",
+          "tasks": "最小护理，害虫控制",
+          "notes": "根系发展"
+        },
+        {
+          "phase": "收获成熟",
+          "period": "3-5+年",
+          "tasks": "质量评估，收获准备",
+          "notes": "最佳效能"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "收获与成熟期",
+    "paragraph1": "收获时间对最终产品的质量至关重要。卡瓦种植的一个重要规则是：<strong>植物越老，效力和效果特征越强。</strong>",
+    "qualitaet": {
+      "title": "收获时的质量因素",
+      "table": {
+        "headers": {
+          "age": "收获时年龄",
+          "content": "卡瓦内酯含量",
+          "quality": "质量等级",
+          "usage": "用途"
+        },
+        "rows": [
+          {
+            "age": "< 2 年",
+            "content": "低（3-5%）",
+            "quality": "未成熟",
+            "qualityColor": "red",
+            "usage": "不推荐"
+          },
+          {
+            "age": "2-3 年",
+            "content": "中（5-10%）",
+            "quality": "可接受",
+            "qualityColor": "yellow",
+            "usage": "简单产品"
+          },
+          {
+            "age": "3-5 年",
+            "content": "高（10-15%）",
+            "quality": "良好",
+            "qualityColor": "green",
+            "usage": "标准质量"
+          },
+          {
+            "age": "5-7 年",
+            "content": "非常高（15-20%）",
+            "quality": "优质",
+            "qualityColor": "blue",
+            "usage": "高质量产品"
+          },
+          {
+            "age": "> 7 年",
+            "content": "最高（18-25%）",
+            "quality": "卓越",
+            "qualityColor": "purple",
+            "usage": "仪式用途"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "为了获得高质量（'高贵卡瓦'），植物必须生长至少3到5年。植物越老，效力和效果特征通常越强。",
+      "author": "Sebastian Freidank, \"卡瓦——宁静之根\""
+    }
+  },
+  "anbauregionen": {
+    "title": "重要种植区域",
+    "paragraph1": "如今，卡瓦在太平洋的热带岛屿带中种植。每个地区都有其独特的品种、传统和质量特征。",
+    "table": {
+      "headers": {
+        "region": "地区",
+        "varieties": "知名品种",
+        "characteristics": "特点",
+        "production": "生产"
+      },
+      "rows": [
+        {
+          "region": "瓦努阿图",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "最大的品种多样性（80+ 种植品种）",
+          "production": "全球最大生产国",
+          "highlight": true
+        },
+        {
+          "region": "斐济",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "以\"Waka\"（优质根）闻名",
+          "production": "第二大生产国"
+        },
+        {
+          "region": "汤加",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "非常温和的\"奶油\"卡瓦",
+          "production": "中等生产"
+        },
+        {
+          "region": "萨摩亚",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "传统仪式",
+          "production": "本地消费"
+        },
+        {
+          "region": "夏威夷",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "复兴传统品种",
+          "production": "增长中"
+        },
+        {
+          "region": "波纳佩",
+          "varieties": "Sakau品种",
+          "characteristics": "新鲜卡瓦汁（\"Sakau\"）",
+          "production": "本地消费"
+        }
+      ]
+    },
+    "paragraph2": "<strong>瓦努阿图</strong>被认为是栽培卡瓦的发源地，至今仍拥有最大的遗传多样性。从这里，植物通过波利尼西亚航海者传播到整个太平洋——作为每次新岛屿定居时携带的重要\"独木舟植物\"之一。"
+  },
+  "navigation": {
+    "nextCategory": "继续到下一个类别：",
+    "nextTitle": "历史与起源",
+    "nextSubtitle": "卡瓦在太平洋的3000年旅程"
+  }
+}

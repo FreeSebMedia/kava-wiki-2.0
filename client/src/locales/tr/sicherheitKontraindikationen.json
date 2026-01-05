@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Kontrendikasyonlar",
+    "subtitle": "Kava'nın kullanılmaması gereken durumlar: Güvenli kullanım için mutlak ve göreceli karşıt göstergeler.",
+    "category": "Güvenlik",
+    "breadcrumbs": {
+      "home": "Ana Sayfa",
+      "sicherheit": "Güvenlik",
+      "current": "Kontrendikasyonlar"
+    }
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "zusammenfassung": "Özet",
+    "absolute": "Mutlak Kontrendikasyonlar",
+    "leber": "Karaciğer Hastalıkları",
+    "schwangerschaft": "Hamilelik & Emzirme",
+    "kinder": "Çocuklar & Gençler",
+    "relative": "Göreceli Kontrendikasyonlar",
+    "parkinson": "Parkinson Hastalığı",
+    "depression": "Ağır Depresyon",
+    "operation": "Ameliyatlardan Önce",
+    "fahren": "Araç Kullanma & Makine Kullanma",
+    "vorsicht": "Özel Dikkat",
+    "genetik": "Genetik Faktörler",
+    "alter": "Yaşlılar",
+    "entscheidungshilfe": "Karar Yardımı",
+    "quellen": "Kaynaklar"
+  },
+  "navigation": {
+    "continueTitle": "Güvenlik Bölümüne Devam",
+    "items": [
+      {
+        "title": "Genel Bakış",
+        "href": "/tr/guvenlik",
+        "description": "Güvenlik genel bakışına geri dön"
+      },
+      {
+        "title": "Karaciğer Güvenliği",
+        "href": "/tr/guvenlik/karaciger",
+        "description": "Hepatotoksisite & 2002 Yasağı"
+      },
+      {
+        "title": "Etkileşimler",
+        "href": "/tr/guvenlik/etkilesimler",
+        "description": "İlaçlar & CYP450 Etkileşimleri"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Önemli Genel Bakış",
+    "intro": "Kava, uygun şekilde kullanıldığında güvenli kabul edilse de, kullanımının önerilmediği veya kontrendike olduğu belirli durumlar vardır:",
+    "absolut": {
+      "title": "Mutlak kontrendike:",
+      "items": [
+        "Karaciğer hastalıkları",
+        "Hamilelik & Emzirme",
+        "18 yaş altındaki çocuklar"
+      ]
+    },
+    "relativ": {
+      "title": "Göreceli Kontrendikasyonlar:",
+      "items": [
+        "Parkinson hastalığı",
+        "Ağır depresyon",
+        "Planlanan ameliyatlardan önce"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Mutlak Kontrendikasyonlar",
+    "intro": "Aşağıdaki durumlarda Kava <strong>hiçbir koşulda</strong> kullanılmamalıdır. Risk, olası faydaları açıkça aşmaktadır."
+  },
+  "leber": {
+    "title": "Karaciğer Hastalıkları",
+    "label": "Kesinlikle kontrendike",
+    "intro": "Mevcut karaciğer hastalığı olan kişiler Kava'dan tamamen kaçınmalıdır:",
+    "items": [
+      {
+        "name": "Hepatit (A, B, C)",
+        "text": "Aktif veya kronik karaciğer iltihabı"
+      },
+      {
+        "name": "Karaciğer sirozu",
+        "text": "Aşamasından bağımsız"
+      },
+      {
+        "name": "Yağlı karaciğer",
+        "text": "Alkolik ve alkol dışı yağlı karaciğer hastalığı"
+      },
+      {
+        "name": "Yüksek karaciğer değerleri",
+        "text": "Açıklanamayan ALT, AST, GGT artışı"
+      },
+      {
+        "name": "Önceki karaciğer hasarları",
+        "text": "Şu anda normalleşmiş olsa bile"
+      }
+    ],
+    "reasonLabel": "Gerekçe:",
+    "reason": "Karaciğer, Kavalaktonların metabolizmasında merkezi bir organdır. Karaciğer fonksiyonu kısıtlandığında, metabolitler birikir ve daha fazla hasar riski artar."
+  },
+  "schwangerschaft": {
+    "title": "Hamilelik & Emzirme",
+    "label": "Kesinlikle kontrendike",
+    "intro": "Kava, hamilelik ve emzirme döneminde kullanılmamalıdır:",
+    "items": [
+      {
+        "name": "Güvenlik verisi yok",
+        "text": "Hamilelikte güvenlik ile ilgili kontrollü çalışma yoktur"
+      },
+      {
+        "name": "Plasentaya geçiş",
+        "text": "Kavalaktonlar plasenta bariyerini geçebilir"
+      },
+      {
+        "name": "Anne sütü",
+        "text": "Kavalaktonlar anne sütüne geçer"
+      },
+      {
+        "name": "Rahim gevşemesi",
+        "text": "Kavain rahim kaslarını gevşetebilir"
+      }
+    ],
+    "traditionLabel": "Geleneksel Uygulama:",
+    "tradition": "Pasifik kültürlerinde Kava, geleneksel olarak hamile veya emziren kadınlar tarafından tüketilmez."
+  },
+  "kinder": {
+    "title": "Çocuklar & Gençler",
+    "label": "18 yaş altı için önerilmez",
+    "intro": "Kava, çocuklar ve gençler tarafından kullanılmamalıdır:",
+    "items": [
+      {
+        "name": "Gelişim",
+        "text": "Beyin gelişimi üzerindeki etkileri incelenmemiştir"
+      },
+      {
+        "name": "Metabolizma",
+        "text": "Çocuklar, maddeleri yetişkinlerden farklı metabolize eder"
+      },
+      {
+        "name": "Çalışma yok",
+        "text": "Bu yaş grubu için klinik veri yok"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Göreceli Kontrendikasyonlar",
+    "intro": "Aşağıdaki durumlarda özel dikkat gereklidir. Kullanım belirli koşullar altında mümkün olabilir, ancak yalnızca dikkatli bir değerlendirme ve ideal olarak doktor danışmanlığı sonrasında yapılmalıdır."
+  },
+  "parkinson": {
+    "title": "Parkinson Hastalığı",
+    "label": "Önerilmez",
+    "intro": "Kava, Parkinson semptomlarını kötüleştirebilir:",
+    "items": [
+      {
+        "name": "Dopamin antagonizması",
+        "text": "Kava, dopaminerjik etkileri azaltabilir"
+      },
+      {
+        "name": "Levodopa etkileşimi",
+        "text": "Levodopa'nın etkinliğini azaltabilir"
+      },
+      {
+        "name": "Vaka raporları",
+        "text": "Kava altında semptomların kötüleşmesi belgelenmiştir"
+      }
+    ],
+    "caseReportLabel": "Vaka raporu:",
+    "caseReport": "Schelosky ve ark. (1995), Kava alımı sırasında semptomları belirgin şekilde kötüleşen 45 yaşında bir Parkinson hastası kadını rapor etmiştir."
+  },
+  "depression": {
+    "title": "Ağır Depresyon",
+    "label": "Dikkatli olunmalı",
+    "intro": "Ağır depresyon durumunda dikkatli olunmalıdır:",
+    "items": [
+      {
+        "name": "CNS baskılanması",
+        "text": "Kava, isteksizliği artırabilir"
+      },
+      {
+        "name": "İlaç etkileşimi",
+        "text": "Antidepresanlarla etkileşimler mümkün"
+      },
+      {
+        "name": "Kendine ilaç verme",
+        "text": "Profesyonel tedaviyi geciktirebilir"
+      }
+    ],
+    "noteLabel": "Not:",
+    "note": "Hafif ile orta dereceli anksiyete durumunda Kava faydalı olabilir, ancak ağır depresyonda profesyonel tedavi öncelikli olmalıdır."
+  },
+  "operation": {
+    "title": "Planlanan Ameliyatlardan Önce",
+    "label": "2 hafta önce bırakılmalı",
+    "intro": "Kava, planlanan ameliyatlardan önce bırakılmalıdır:",
+    "items": [
+      {
+        "name": "Anestezi etkileşimi",
+        "text": "Anesteziklerin etkisini artırabilir"
+      },
+      {
+        "name": "Kanama riski",
+        "text": "Antikoagülan ilaçlarla olası etkileşim"
+      },
+      {
+        "name": "Karaciğer fonksiyonu",
+        "text": "Anesteziklerin metabolizması için önemlidir"
+      }
+    ],
+    "recommendation": "Öneri: Planlanan bir ameliyattan en az 2 hafta önce Kava'yı bırakın ve anestezi uzmanına önceki tüketimi bildirin."
+  },
+  "fahren": {
+    "title": "Araç Kullanma & Makine Kullanma",
+    "label": "Sınırlı sürüş yeteneği",
+    "intro": "Kava, tepki yeteneğini etkileyebilir:",
+    "items": [
+      {
+        "name": "Sedasyon",
+        "text": "Yorgunluk ve yavaşlamış tepkiler mümkün"
+      },
+      {
+        "name": "Doza bağlı",
+        "text": "Daha yüksek dozlar daha fazla etki eder"
+      },
+      {
+        "name": "Bireysel farklılıklar",
+        "text": "Hassasiyet büyük ölçüde değişir"
+      }
+    ],
+    "noteLabel": "Not:",
+    "note": "Benzodiazepinlerin aksine, çalışmalar Kava'nın bilişsel fonksiyonu daha az etkilediğini göstermektedir. Ancak, araç kullanmadan önce bireysel tepkiyi bilmek önemlidir."
+  },
+  "vorsicht": {
+    "title": "Özel Dikkat",
+    "intro": "Belirli gruplarda, kesin bir kontrendikasyon olmasa bile, artırılmış dikkat gereklidir."
+  },
+  "genetik": {
+    "title": "Genetik Faktörler (CYP2D6 Polimorfizmleri)",
+    "label": "Artmış hassasiyet mümkün",
+    "intro": "Avrupa nüfusunun yaklaşık %5-10'u CYP2D6 için \"Zayıf Metabolizörler\"dir:",
+    "items": [
+      {
+        "name": "Yavaş metabolizma",
+        "text": "Kavalaktonlar vücutta daha uzun süre kalır"
+      },
+      {
+        "name": "Daha yüksek kan seviyeleri",
+        "text": "Artmış etki ve yan etkiler"
+      },
+      {
+        "name": "Tanıma",
+        "text": "Normal dozlara karşı alışılmadık derecede güçlü tepki"
+      }
+    ],
+    "recommendationLabel": "Öneri:",
+    "recommendation": "Kava'ya karşı alışılmadık derecede hassasiyet gösteriyorsanız, genetik bir faktör olabilir. Daha düşük dozlarla başlayın."
+  },
+  "alter": {
+    "title": "Yaşlılar",
+    "label": "Ayarlanmış dozaj önerilir",
+    "intro": "Yaşlı bireylerde özel dikkat gereklidir:",
+    "items": [
+      {
+        "name": "Azalmış karaciğer fonksiyonu",
+        "text": "Yaşla birlikte yavaşlayan metabolizma"
+      },
+      {
+        "name": "Polifarmasi",
+        "text": "Etkileşim riski daha yüksek"
+      },
+      {
+        "name": "Düşme riski",
+        "text": "Sedasyon düşme riskini artırabilir"
+      }
+    ],
+    "recommendationLabel": "Öneri:",
+    "recommendation": "Alışılmış dozun yarısı ile başlayın ve yavaşça artırın."
+  },
+  "entscheidungshilfe": {
+    "title": "Karar Yardımı: Kava benim için uygun mu?",
+    "selfCheck": {
+      "title": "Kava tüketmeden önce kendinizi kontrol edin",
+      "nicht": {
+        "title": "Kava, eğer:",
+        "items": [
+          "Bir karaciğer hastalığınız varsa veya olduysa",
+          "Hamileyseniz veya emziriyorsanız",
+          "18 yaşından küçükseniz",
+          "Düzenli olarak alkol tüketiyorsanız",
+          "Benzodiazepin veya antipsikotik alıyorsanız",
+          "Antikoagülan (kan sulandırıcı) alıyorsanız"
+        ]
+      },
+      "arzt": {
+        "title": "Eğer:",
+        "items": [
+          "Parkinson hastalığınız varsa",
+          "Ağır depresyon yaşıyorsanız",
+          "Düzenli olarak ilaç alıyorsanız",
+          "Planlı bir ameliyatınız varsa",
+          "65 yaşından büyük iseniz"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava uygun olabilir, eğer:",
+        "items": [
+          "Sağlıklıysanız ve karaciğer probleminiz yoksa",
+          "Yukarıda belirtilen ilaçlardan hiçbiri alınmıyorsa",
+          "Alkol tüketiminiz yoksa veya sadece ara sıra alıyorsanız",
+          "Yetişkin iseniz (18 yaş ve üzeri)",
+          "Hamile değilseniz veya emzirmiyorsanız"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Genel Öneri",
+      "text": "Şüphe durumunda, Kava tüketmeden önce bir doktora veya eczacıya danışın, özellikle düzenli olarak ilaç alıyorsanız veya sağlık kısıtlamalarınız varsa."
+    }
+  },
+  "warnzeichen": {
+    "title": "Uyarı İşaretleri: Hemen durmanız gereken durumlar",
+    "intro": "Aşağıdaki durumlarda hemen tüketimi durdurun ve doktora başvurun:",
+    "items": [
+      {
+        "name": "Sararma",
+        "text": "cilt veya gözlerde (ikterus)"
+      },
+      {
+        "name": "Koyu idrar",
+        "text": "(bira rengi)"
+      },
+      {
+        "name": "Açık dışkı",
+        "text": "(renksiz)"
+      },
+      {
+        "name": "Alışılmadık yorgunluk",
+        "text": "veya zayıflık"
+      },
+      {
+        "name": "Bulantı",
+        "text": "veya iştahsızlık"
+      },
+      {
+        "name": "Ağrı",
+        "text": "sağ üst karın bölgesinde"
+      }
+    ],
+    "note": "Bu belirtiler karaciğer problemlerine işaret edebilir ve acil tıbbi değerlendirme gerektirir."
+  },
+  "quellen": {
+    "title": "Kaynaklar",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Piper methysticum G. Forst., rizoma üzerine Değerlendirme Raporu.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "Kava Ürünleri ile Hepatotoksisite Riskinin Değerlendirilmesi.",
+        "source": "WHO Teknik Raporu."
+      },
+      {
+        "author": "Schelosky L. ve ark. (1995):",
+        "title": "Kava ve dopamin antagonizması.",
+        "source": "Nöroloji, Nörocerrahi & Psikiyatri Dergisi."
+      },
+      {
+        "author": "Sarris J. ve ark. (2011):",
+        "title": "Kava: Etkililik, güvenlik ve psikofarmakoloji üzerine kapsamlı bir inceleme.",
+        "source": "Avustralya & Yeni Zelanda Psikiyatri Dergisi."
+      }
+    ],
+    "moreStudies": "Tüm alıntılanan çalışmaların tam listesini",
+    "studiesLink": "Çalışmalar Sayfasında bulabilirsiniz."
+  }
+}

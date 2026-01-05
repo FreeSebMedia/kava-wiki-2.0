@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "首页",
+    "description": "关于Kava（Piper methysticum）的全球最大知识门户。科学基础，文化根植。关于效果、制备、品种和法律状况的一切信息。"
+  },
+  "hero": {
+    "badge": "Piper methysticum",
+    "title": "宁静之根",
+    "subtitle": "关于太平洋放松根的全面知识门户。科学基础，文化根植。",
+    "cta": {
+      "studies": "科学研究",
+      "learnMore": "了解更多"
+    }
+  },
+  "stats": [
+    {
+      "label": "传统使用",
+      "value": "3000+",
+      "suffix": "年"
+    },
+    {
+      "label": "主要Kavalactone",
+      "value": "6",
+      "suffix": "有效成分"
+    },
+    {
+      "label": "瓦努阿图的品种",
+      "value": "80+",
+      "suffix": "栽培品种"
+    },
+    {
+      "label": "科学研究",
+      "value": "100+",
+      "suffix": "研究"
+    }
+  ],
+  "intro": {
+    "title": "自然的礼物，",
+    "titleHighlight": "经科学验证。",
+    "text": "Kava（Piper methysticum）不仅仅是一种植物。数千年来，它一直是太平洋岛屿文化的社会和精神中心。今天，现代科学证实了岛民们一直以来的认识：Kava放松身体，清晰思维，而不影响认知能力。",
+    "quote": "Kava是唯一具有1级证据的植物物质，用于治疗焦虑。",
+    "quoteSource": "— Cochrane Review"
+  },
+  "features": [
+    {
+      "icon": "shield",
+      "title": "安全性",
+      "text": "最新研究驳斥了关于正确使用时肝脏毒性的旧神话。"
+    },
+    {
+      "icon": "beaker",
+      "title": "效果",
+      "text": "通过Kavalactone证明的抗焦虑（减轻焦虑）特性。"
+    },
+    {
+      "icon": "history",
+      "title": "文化",
+      "text": "深深扎根于瓦努阿图、斐济和汤加的传统中。"
+    }
+  ],
+  "categories": {
+    "title": "知识数据库",
+    "subtitle": "深入了解Kava的世界。选择一个领域以了解更多。",
+    "items": [
+      {
+        "title": "植物学",
+        "desc": "形态学、种植和分布",
+        "link": "/botanik"
+      },
+      {
+        "title": "历史",
+        "desc": "从起源到现代",
+        "link": "/geschichte"
+      },
+      {
+        "title": "成分",
+        "desc": "Kavalactone和化学类型",
+        "link": "/inhaltsstoffe"
+      },
+      {
+        "title": "研究",
+        "desc": "临床研究和证据",
+        "link": "/studien"
+      },
+      {
+        "title": "效果",
+        "desc": "对身体和精神的影响",
+        "link": "/wirkung"
+      },
+      {
+        "title": "安全性",
+        "desc": "剂量和副作用",
+        "link": "/sicherheit"
+      },
+      {
+        "title": "品种",
+        "desc": "高贵Kava与Tudei",
+        "link": "/sorten"
+      },
+      {
+        "title": "制备",
+        "desc": "传统和现代方法",
+        "link": "/zubereitung"
+      }
+    ]
+  },
+  "partner": {
+    "label": "官方合作伙伴",
+    "title": "Kava-mode.com",
+    "text": "欧洲领先的Kava品牌和全球高品质高贵Kava的批发商。经过验证的质量，直接来自太平洋的农场。",
+    "cta": "访问商店"
+  },
+  "book": {
+    "label": "推荐阅读",
+    "title": "\"Kava – 宁静之根\"",
+    "text": "Sebastian Freidank关于Kava的效果、应用、历史和文化的全面指南。每位Kava爱好者的标准著作。",
+    "cta": "查看书籍"
+  }
+}

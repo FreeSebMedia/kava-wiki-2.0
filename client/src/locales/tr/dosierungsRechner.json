@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Dozaj Hesaplayıcı",
+    "subtitle": "Çeşit, deneyim ve hazırlama yöntemine dayalı olarak optimal Kava dozunuzu hesaplayın.",
+    "category": "Hazırlama"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "zubereitung": "Hazırlama",
+    "current": "Dozaj Hesaplayıcı"
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Dozaj Hesaplayıcı",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Tavsiyeniz",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Önemli Notlar",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Etkileyen Faktörler",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Kava çeşidi seçin",
+    "selectStrainPlaceholder": "-- Çeşit seçin --",
+    "potency": "Potansiyel",
+    "experienceLevel": "Deneyim Seviyesi",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Yeni Başlayan",
+        "desc": "İlk Haftalar"
+      },
+      "regular": {
+        "label": "Düzenli",
+        "desc": "Birkaç Ay"
+      },
+      "experienced": {
+        "label": "Deneyimli",
+        "desc": "1+ Yıl"
+      }
+    },
+    "prepMethod": "Hazırlama Yöntemi",
+    "methods": {
+      "traditional": {
+        "label": "Geleneksel",
+        "desc": "Yoğurma"
+      },
+      "blender": {
+        "label": "Blender",
+        "desc": "Mikser"
+      },
+      "instant": {
+        "label": "Anlık",
+        "desc": "Mikronize"
+      }
+    },
+    "bodyWeight": "Vücut Ağırlığı",
+    "kg": "kg",
+    "calculate": "Dozajı Hesapla",
+    "instantPowder": "Anlık Toz",
+    "mediumGrind": "Orta Öğütülmüş Toz",
+    "water": "Su",
+    "kavalactones": "Kavalacton (tahmini)",
+    "prepTime": "Hazırlama Süresi",
+    "min": "Dak",
+    "toPrepGuide": "Hazırlama Kılavuzuna Git"
+  },
+  "results": {
+    "title": "Kişisel Tavsiyeniz",
+    "bestTime": {
+      "title": "En İyi Kullanım Zamanı",
+      "heady": "Gündüz, sosyal etkinlikler veya yaratıcı aktiviteler için",
+      "heavy": "Akşam, rahatlama veya uyku öncesi",
+      "balanced": "Esnek, her saat için uygun"
+    },
+    "tip": {
+      "title": "Bu Çeşit için İpucu",
+      "default": "En iyi etki için bu çeşidi aç karnına tüketin."
+    }
+  },
+  "notes": {
+    "title": "Önemli Notlar",
+    "safety": {
+      "title": "Genel Güvenlik Bilgileri",
+      "items": [
+        "Kava'yı her zaman <strong>boş mideyle</strong> için (yemekten 3-4 saat sonra)",
+        "Daha <strong>düşük dozajla</strong> başlayın ve yavaşça artırın",
+        "<strong>Gerçek Tolerans:</strong> İlk birkaç kez etki daha zayıf olabilir",
+        "Kava'yı <strong>asla alkolle</strong> veya ilaçlarla birleştirmeyin",
+        "Karaciğer hastalığı veya hamilelik durumunda: <strong>Kava yok</strong>"
+      ]
+    },
+    "about": {
+      "title": "Bu Hesaplayıcı Hakkında",
+      "text": "Hesaplanan değerler, ortalama kavalacton içeriklerine ve deneyimlere dayalı <strong>kılavuz değerlerdir</strong>. Gerçek etki, bireysel hassasiyete, partiye ve üreticiye bağlı olarak değişebilir."
+    }
+  },
+  "factors": {
+    "title": "Dozajı Etkileyen Faktörler",
+    "items": [
+      {
+        "title": "Çeşidin Potansiyeli",
+        "text": "Farklı çeşitlerin farklı kavalacton içerikleri vardır. Loa Waka gibi 5 yıldızlı bir çeşit, Pouni Ono gibi daha hafif bir 3 yıldızlı çeşitten daha az toz gerektirir."
+      },
+      {
+        "title": "Vücut Ağırlığı",
+        "text": "Daha ağır kişiler genellikle aynı etki için daha fazla Kava gerektirir. Hesaplayıcı tavsiyeyi buna göre ayarlar."
+      },
+      {
+        "title": "Hazırlama Yöntemi",
+        "text": "Anlık/Mikronize Kava, Orta Öğütülmüş Kava'dan daha yoğundur. Blender yöntemi, geleneksel yoğurmadan biraz daha verimli bir şekilde özütler."
+      },
+      {
+        "title": "Deneyim Seviyesi",
+        "text": "\"Gerçek Tolerans\" nedeniyle, deneyimli kullanıcılar genellikle aynı etki için daha az Kava gerektirir. Yeni başlayanlar düşük dozlarla başlamalıdır."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Hazırlama Talimatları",
+    "traditional": {
+      "title": "Geleneksel Yöntem",
+      "time": "20-25 Dak",
+      "href": "/tr/hazirlama/geleneksel"
+    },
+    "blender": {
+      "title": "Blender Yöntemi",
+      "time": "8-10 Dak",
+      "href": "/tr/hazirlama/blender"
+    },
+    "instant": {
+      "title": "Anlık Kava",
+      "time": "30 Sn",
+      "href": "/tr/hazirlama/anlik"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Dünyanın en iyi Heady Kava'larından biri olarak kabul edilir. Sınırlı bulunabilirlik.",
+    "borogu": "Vanuatu'da en çok içilen Kava. Çok güvenilir.",
+    "pouni-ono": "Tutarlı kalitesi ile çok popüler bir başlangıç Kava'sı.",
+    "moi": "En nadir ve en pahalı Kava'lardan biri. Geleneksel olarak Hawaii törenleri için kullanılır.",
+    "melo-melo": "Güçlü anksiyolitik etkisi ile çok popüler bir başlangıç Kava'sı.",
+    "bir-kar": "Gücü ve güvenilirliği ile bilinir.",
+    "palasa": "Yeni başlayanlar için önerilmez. Çok potansiyel.",
+    "loa-waka": "Ticari olarak mevcut en güçlü Kava'lardan biri.",
+    "hiwa": "Geleneksel olarak sadece tören amaçlı kullanılır. Çok nadir.",
+    "vula-waka": "Fiji'den popüler bir çok yönlü Kava.",
+    "silese": "En coşkulu çeşitlerden biri.",
+    "palarasul": "Heavy Kava'lara iyi bir giriş."
+  }
+}

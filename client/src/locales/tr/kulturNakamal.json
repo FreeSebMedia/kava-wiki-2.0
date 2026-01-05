@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Nakamal & Kava-Barlar",
+    "subtitle": "Geleneksel toplantı evlerinden modern Kava-Barlara – Kava kültürünün sosyal mimarisi",
+    "category": "Kültür"
+  },
+  "breadcrumbs": {
+    "home": "Anasayfa",
+    "kultur": "Kültür",
+    "current": "Nakamal"
+  },
+  "toc": {
+    "einfuehrung": "Giriş",
+    "traditionell": "Geleneksel Nakamal",
+    "atmosphaere": "Atmosfer & Kurallar",
+    "architektur": "Mimari",
+    "modern": "Modern Kava-Barlar",
+    "regionen": "Bölgesel Farklılıklar",
+    "etikette": "Nakamal Etiketi",
+    "besuch": "Bir Nakamal Ziyareti"
+  },
+  "intro": {
+    "lead": "<strong>Nakamal</strong>, sadece Kava içilen bir yerden çok daha fazlasıdır – Vanuatu'daki sosyal yaşamın kalbidir ve dünya genelindeki Kava-Barlar için bir modeldir.",
+    "p1": "Melanezyalı kültüründe Nakamal, bir toplantı evi, topluluk merkezi ve ruhsal bir yer olarak hizmet eder. Burada çatışmalar çözülür, hikayeler anlatılır, ittifaklar kurulur ve atalarla bağ sürdürülür.",
+    "p2": "Bugün Vanuatu'daki geleneksel Nakamalların yanı sıra Port Vila, Suva, Auckland ve hatta Melbourne, Los Angeles ve Berlin gibi batı şehirlerinde modern Kava-Barlar bulunmaktadır. Hepsi ortak ilkeleri paylaşır: huzur, saygı ve topluluk."
+  },
+  "traditional": {
+    "title": "Geleneksel Nakamal",
+    "intro": "Vanuatu'nun geleneksel köy topluluklarında Nakamal, <strong>merkezi toplantı yeri</strong>dir – genellikle sadece erkeklere ayrılmış bir yer (bu durum kentsel alanlarda değişmektedir).",
+    "functionsTitle": "Nakamal'ın Fonksiyonları",
+    "functions": [
+      {
+        "icon": "users",
+        "title": "Topluluk Buluşma Noktası",
+        "desc": "Köylüler için iş sonrası günlük buluşma yeri"
+      },
+      {
+        "icon": "scale",
+        "title": "Çatışma Çözümü",
+        "desc": "Tartışmalar burada Kava etkisi altında barışçıl bir şekilde çözülür"
+      },
+      {
+        "icon": "landmark",
+        "title": "Siyasi Danışma",
+        "desc": "Önemli köy kararları Nakamal'da tartışılır"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Ruhsal Bağlantı",
+        "desc": "Ritüel Kava törenleri aracılığıyla atalar ruhlarıyla iletişim"
+      },
+      {
+        "icon": "book",
+        "title": "Bilgi Aktarımı",
+        "desc": "Tarih, mitler ve kastomun sözlü aktarımı"
+      },
+      {
+        "icon": "handshake",
+        "title": "Misafirperverlik",
+        "desc": "Misafirlerin kabulü ve ittifakların mühürlenmesi"
+      }
+    ],
+    "genderNote": "Geleneksel olarak Nakamal, <strong>erkek alanı</strong>dır. Birçok köyde kadınların Nakamal'a girmesi veya Kava içmesi yasaktır. Ancak bu gelenek adadan adaya değişiklik göstermekte ve kentsel alanlarda giderek gevşemektedir."
+  },
+  "atmosphere": {
+    "title": "Atmosfer & Kurallar",
+    "intro": "Bir Nakamal, <strong>huzur ve düşünce</strong> yeri olarak hizmet eder. Atmosfer, batı barlarından köklü bir şekilde farklıdır.",
+    "rulesTitle": "Nakamal Kuralları",
+    "rules": [
+      {
+        "rule": "Yavaş konuşmak",
+        "explanation": "Yüksek sesle konuşmak ve gülmek uygun değildir – ses tonunu alçaltmak gerekir"
+      },
+      {
+        "rule": "Karanlık ışık",
+        "explanation": "Kava gözleri ışığa duyarlı hale getirir (\"Kava gözleri\") – parlak ışıktan kaçınılır"
+      },
+      {
+        "rule": "Yüksek müzik yok",
+        "explanation": "Sessizlik veya hafif geleneksel sesler normdur"
+      },
+      {
+        "rule": "Saygılı davranış",
+        "explanation": "Tartışma ve agresif davranışlar tabu"
+      },
+      {
+        "rule": "Yemek yok",
+        "explanation": "Geleneksel olarak Nakamal'da yemek yenmez – Kava aç karnına içilir"
+      },
+      {
+        "rule": "Minimum kalış süresi",
+        "explanation": "Gitmeden önce bir süre kalınır ve birkaç kadeh içilir"
+      }
+    ],
+    "sensoryBox": {
+      "title": "Duyusal Deneyim",
+      "sight": "Alacakaranlık, genellikle sadece mumlar veya zayıf lambalar",
+      "sound": "Alçak sesler, cırcır böceği sesleri, hindistancevizi kabuklarının hafif tıklaması",
+      "smell": "Toprak kokulu Kava, tropikal gece havasıyla karışmış",
+      "taste": "Taze Kava'nın biberli, toprak tadı",
+      "feel": "Artan rahatlama, topluluk hissi"
+    }
+  },
+  "architecture": {
+    "title": "Nakamal'ın Mimari",
+    "intro": "Geleneksel Nakamallar, tropikal ortama uyum sağlayan basit ama işlevsel yapılardır.",
+    "elementsTitle": "Tipik Unsurlar",
+    "elements": [
+      {
+        "element": "Çatı Altı Alan",
+        "description": "Yağmurdan koruma için palmiyeden veya galvanizli sacdan yapılmış çatı"
+      },
+      {
+        "element": "Açık Kenarlar",
+        "description": "Açık veya yarı açık duvarlar aracılığıyla iyi havalandırma"
+      },
+      {
+        "element": "Merkezi Ateş Yeri",
+        "description": "Bazı Nakamallarda ısı ve ışık için"
+      },
+      {
+        "element": "Oturaçlar veya Halılar",
+        "description": "Ahşap veya dokuma halılardan yapılmış basit oturma alanları"
+      },
+      {
+        "element": "Kava Hazırlama Alanı",
+        "description": "Havaneli, süzgeç ve su kabı ile donatılmış alan"
+      },
+      {
+        "element": "Tükürme Alanı",
+        "description": "Kadehler arasında tükürmek için alan veya oluk"
+      }
+    ],
+    "tannaStyle": {
+      "title": "Tanna Tarzı",
+      "desc": "Tanna'da Nakamallar genellikle doğal malzemelerden yapılmış yuvarlak yapılar olup, manzaraya uyum sağlar. Kutsal Banyan ağacı genellikle yakınlarda bulunur."
+    },
+    "urbanStyle": {
+      "title": "Şehir Tarzı",
+      "desc": "Port Vila'daki Nakamallar, basit kulübelerden neon ışıklı beton yapılara kadar değişiklik göstermektedir – ancak atmosfer geleneksel kalmaktadır."
+    }
+  },
+  "modern": {
+    "title": "Modern Kava-Barlar",
+    "intro": "Vanuatu'nun dışında Nakamal konsepti modern <strong>Kava-Barlar</strong> olarak evrim geçirmiştir – geleneksel değerleri çağdaş konforla birleştiren yerler.",
+    "typesTitle": "Kava-Bar Türleri",
+    "types": [
+      {
+        "type": "Otantik-geleneksel",
+        "locations": "Port Vila, Suva, Nukuʻalofa",
+        "description": "Taze Kava, basit dekor ve yerel halk ile geleneksel atmosfer"
+      },
+      {
+        "type": "Diaspora-Nakamallar",
+        "locations": "Auckland, Sydney, Melbourne",
+        "description": "Pasifik toplulukları tarafından işletilen, expatriatların buluşma noktası, geleneksel ve modern unsurlar"
+      },
+      {
+        "type": "Batı Kava-Barları",
+        "locations": "Florida, Kaliforniya, New York, Berlin",
+        "description": "Modern bir ortam, genellikle Kava kokteylleri, kafe atmosferi, batılı kitleye yönelik"
+      },
+      {
+        "type": "Kava-Kafeleri",
+        "locations": "Dünya genelinde",
+        "description": "Kafe ve Kava-Bar karışımı, genellikle çay, kahve ve Kava karışımları ile"
+      }
+    ],
+    "comparisonTitle": "Geleneksel vs. Modern",
+    "comparison": [
+      {
+        "aspect": "Hazırlama",
+        "traditional": "Taze hazırlanmış, genellikle çiğnenerek veya öğütülerek",
+        "modern": "Genellikle anlık Kava veya önceden hazırlanmış"
+      },
+      {
+        "aspect": "Atmosfer",
+        "traditional": "Çok sakin, loş ışık",
+        "modern": "Rahat, ancak genellikle daha fazla eğlence"
+      },
+      {
+        "aspect": "Kitle",
+        "traditional": "Yerel topluluk, genellikle sadece erkekler",
+        "modern": "Karışık kitle, tüm cinsiyetler"
+      },
+      {
+        "aspect": "Ekstra Teklif",
+        "traditional": "Sadece Kava",
+        "modern": "Genellikle atıştırmalıklar, diğer içecekler, bazen yemek"
+      },
+      {
+        "aspect": "Fiyatlar",
+        "traditional": "Çok uygun (50-100 Vatu kadeh başına)",
+        "modern": "Daha yüksek ($5-15 kadeh başına)"
+      }
+    ]
+  },
+  "regions": {
+    "title": "Bölgesel Farklılıklar",
+    "intro": "Kava içme yerleri, atmosfer ve geleneklere göre bölgeye göre değişiklik gösterir.",
+    "places": [
+      {
+        "flag": "🇻🇺",
+        "country": "Vanuatu",
+        "name": "Nakamal",
+        "description": "Köken – Port Vila'daki geleneksel köy Nakamalları ve modern kentsel varyantlar. En güçlü Kava, en otantik deneyim.",
+        "highlight": "Sadece Port Vila'da 400'den fazla Nakamal"
+      },
+      {
+        "flag": "🇫🇯",
+        "country": "Fiji",
+        "name": "Kava Çemberi",
+        "description": "Vanuatu'dan daha az kurumsal – Kava evlerde, toplantılarda ve gayri resmi gruplarda içilir.",
+        "highlight": "Tanoa (Kava kasesi) merkezde"
+      },
+      {
+        "flag": "🇹🇴",
+        "country": "Tonga",
+        "name": "Faikava",
+        "description": "Fiji'den daha yapılandırılmış – Tu'i Kava töreni yönetir. Modern \"Kalapu\" (Kulüpler) içinde de içilir.",
+        "highlight": "Servis sırası konusunda katı bir hiyerarşi"
+      },
+      {
+        "flag": "🇼🇸",
+        "country": "Samoa",
+        "name": "'Ava Çemberi",
+        "description": "Taupou'nun hazırlayıcı olduğu resmi törenler. Apia'daki \"Kava Barlar\"da modern varyantlar.",
+        "highlight": "Son derece ritüelleştirilmiş hazırlama"
+      },
+      {
+        "flag": "🇺🇸",
+        "country": "ABD",
+        "name": "Kava Bar",
+        "description": "Batı tarzı, kafe atmosferi. Özellikle Florida ve Kaliforniya'da popüler. Genellikle Kratom ile birleştirilir.",
+        "highlight": "Florida'da 300'den fazla Kava Bar"
+      },
+      {
+        "flag": "🇳🇿",
+        "country": "Yeni Zelanda",
+        "name": "Kava Kulübü",
+        "description": "Pasifik toplulukları tarafından işletilmektedir. Auckland'daki Tongalılar, Samoalılar ve Fijililer için önemli bir buluşma noktası.",
+        "highlight": "Diaspora'daki anavatan bağlantısı"
+      }
+    ]
+  },
+  "etiquette": {
+    "title": "Nakamal Etiketi",
+    "intro": "Vanuatu'daki geleneksel bir Nakamal veya Florida'daki bir Kava-Bar'da – bazı temel etik kuralları her yerde geçerlidir.",
+    "dosTitle": "Yapılması Gerekenler",
+    "dos": [
+      "Yavaş konuşmak ve saygılı olmak",
+      "Kava'yı bir yudumda içmek (\"High tide\")",
+      "Boş kadehi geri vermek",
+      "Zaman ayırmak – Kava hızlı bir içecek değildir",
+      "Ritüellerde talimatlara uymak",
+      "\"Bula!\" (Fiji) veya \"Malomalō!\" (Vanuatu) demek"
+    ],
+    "dontsTitle": "Kaçınılması Gerekenler",
+    "donts": [
+      "Yüksek sesle konuşmak veya bağırmak",
+      "Kava'yı küçük yudumlarla içmek",
+      "Sabırsız olmak",
+      "Davet olmadan fotoğraf çekmek",
+      "Alkol getirmek veya karıştırmak",
+      "Fiyatlar üzerinde pazarlık yapmak"
+    ],
+    "tipBox": {
+      "title": "İlk Ziyaretçiler için İpucu",
+      "text": "Eğer bir Nakamal veya Kava-Bar'ı ilk kez ziyaret ediyorsanız, personelden tavsiye isteyin. Çoğu, yeni gelenlere geleneği açıklamaktan gurur duyar ve güç seçimi konusunda yardımcı olmaktan memnuniyet duyar."
+    }
+  },
+  "visit": {
+    "title": "Bir Nakamal Ziyareti",
+    "intro": "Geleneksel bir Nakamal veya Kava-Bar'ı ziyaret etmeyi mi planlıyorsunuz? İşte pratik ipuçları:",
+    "stepsTitle": "Adım Adım",
+    "steps": [
+      {
+        "step": "Varış",
+        "desc": "Nakamallar genellikle gün batımında (17-18 saatleri arasında) açılır. Çok erken gelmeyin."
+      },
+      {
+        "step": "Sipariş",
+        "desc": "\"High tide\" (tam kadeh) ve \"Low tide\" (yarım kadeh) arasında seçim yapın. Başlangıç olarak yarım kadeh ile başlayın."
+      },
+      {
+        "step": "Bekleme",
+        "desc": "Taze hazırlama birkaç dakika sürer. Atmosferi hissetmek için bu zamanı değerlendirin."
+      },
+      {
+        "step": "İçme",
+        "desc": "Kadehi bir yudumda için. İsterseniz, sonrasında tükürün (genellikle bir oluk mevcuttur)."
+      },
+      {
+        "step": "Bekleme & Hissetme",
+        "desc": "Başka bir kadeh sipariş etmeden önce 10-15 dakika bekleyin. Etkisini hissedin."
+      },
+      {
+        "step": "Keyif",
+        "desc": "Bir süre kalın, sessizce sohbet edin, huzurlu atmosferin tadını çıkarın."
+      }
+    ],
+    "costsTitle": "Tipik Maliyetler",
+    "costs": [
+      {
+        "location": "Vanuatu (geleneksel)",
+        "price": "50-150 Vatu (~€0,40-1,20)",
+        "note": "Çok uygun, taze Kava"
+      },
+      {
+        "location": "Fiji",
+        "price": "FJ$2-5 (~€0,80-2)",
+        "note": "Vanuatu'dan biraz daha pahalı"
+      },
+      {
+        "location": "Yeni Zelanda/Avustralya",
+        "price": "NZ$5-15 (~€3-8)",
+        "note": "Diaspora fiyatları"
+      },
+      {
+        "location": "ABD/Avrupa",
+        "price": "$8-18 (~€7-16)",
+        "note": "Batı Kava-Bar fiyatları"
+      }
+    ],
+    "findTitle": "Nakamalları Bulmak",
+    "findText": "Port Vila'da 400'den fazla Nakamal bulunmaktadır – bir tane bulmakta zorlanmayacaksınız. Pasifik dışındaki yerlerde Kava-Bar dizinlerini kullanın veya Pasifik topluluklarına sorun. Bizim <a href=\"/de/kultur/kava-bars\">Kava-Bar Haritamız</a>, yakınınızdaki yerleri bulmanıza yardımcı olacaktır."
+  },
+  "navigation": {
+    "title": "Devamını Oku",
+    "back": {
+      "label": "Önceki Bölüm",
+      "title": "Törenler & Ritüeller",
+      "href": "/de/kultur/zeremonien"
+    },
+    "next": {
+      "label": "Sonraki Bölüm",
+      "title": "Modern Kava Kültürü",
+      "href": "/de/kultur/moderne"
+    }
+  },
+  "related": {
+    "title": "İlgili Konular",
+    "links": [
+      {
+        "label": "Törenler & Ritüeller",
+        "href": "/de/kultur/zeremonien"
+      },
+      {
+        "label": "Geleneksel Hazırlama",
+        "href": "/de/zubereitung/traditionell"
+      },
+      {
+        "label": "Kava-Bar Haritası",
+        "href": "/de/kultur/kava-bars"
+      },
+      {
+        "label": "Vanuatu Çeşitleri",
+        "href": "/de/sorten/vanuatu"
+      },
+      {
+        "label": "Sözlük: Nakamal",
+        "href": "/de/glossar#nakamal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Sortprofil i detalj",
+    "subtitle": "Detaljerade profiler av de viktigaste Kava-sorterna med kemotyper, effekter och rekommendationer.",
+    "category": "Sorten"
+  },
+  "breadcrumbs": {
+    "home": "Hem",
+    "sorten": "Sorten",
+    "current": "Profiler"
+  },
+  "toc": {
+    "title": "Innehåll",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Översikt",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Mina favoriter",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Effektfilter",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady-sorter",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Balanced-sorter",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Heavy-sorter",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Sortjämförelse",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Ursprung",
+    "chemotype": "Kemotyp",
+    "duration": "Verkningsduration",
+    "strength": "Styrka",
+    "hits": "Treff",
+    "low": "Låg",
+    "high": "Hög",
+    "variety": "Sort",
+    "region": "Region",
+    "type": "Typ",
+    "bestUse": "Bästa användning",
+    "resetFilters": "Återställ filter",
+    "matchingCriteria": "av {total} sorter uppfyller dina kriterier",
+    "noMatching": "Inga {category} sorter uppfyller de aktuella filterkriterierna.",
+    "toComparison": "Till interaktiv sortjämförelse"
+  },
+  "overview": {
+    "intro": "Denna sida ger en omfattande översikt över de viktigaste <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a>-sorterna, ordnade efter deras effekttyp. Använd dessa profiler för att hitta den perfekta sorten för dina behov.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Huvudbetonad, euforisk, social. Idealisk för dagen.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Välbalanserad, mångsidig. Bra för alla tider på dygnet.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Kroppsbetraktad, sederande. Idealisk för kvällen.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Effektfilter",
+    "description": "Filtrera sorterna efter dina önskade effekter. Flytta reglagen för att endast visa sorter med minst det valda värdet.",
+    "euphoria": "Eufori",
+    "relaxation": "Avkoppling",
+    "sleepy": "Sömnig"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady-sorter",
+      "description": "Heady Kavas är huvudbetonade och ger eufori, mental klarhet och social gemenskap. De är idealiska för dagskonsumtion, sociala tillställningar och kreativt arbete. <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Kemotypen</a> börjar typiskt med 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Balanced-sorter",
+      "description": "Balanced Kavas erbjuder en balanserad effekt mellan huvud och kropp. De är mångsidiga och passar både för dagen och kvällen. Idealisk för <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">ångestlösning</a> och allmän avkoppling."
+    },
+    "heavy": {
+      "title": "Heavy-sorter",
+      "description": "Heavy Kavas är kroppsbetraktade och ger djup <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">muskelavkoppling</a> och sedering. De är idealiska för kvällen, vid <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">sömnproblem</a> och för fysisk återhämtning. Kemotypen har ofta DHK (2) på en framträdande plats."
+    }
+  },
+  "comparison": {
+    "title": "Sortjämförelse",
+    "description": "Denna tabell ger en snabb översikt över alla viktiga sorter. Använd även vårt <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">interaktiva jämförelseverktyg</a> för detaljerade jämförelser.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 tim.",
+      "strength": 4,
+      "description": "Legendarisk euforisk Kava, som champagne bland Kavas.",
+      "recommended": [
+        "Sociala tillställningar",
+        "Kreativt arbete",
+        "Dagskonsumtion"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 tim.",
+      "strength": 4,
+      "description": "Folkkava från Vanuatu, mångsidig med huvudbetonad inledande effekt.",
+      "recommended": [
+        "Sociala tillställningar",
+        "Kvällskonsumtion",
+        "Nykomling"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 tim.",
+      "strength": 3,
+      "description": "Den mest populära dagskavan, mild och nybörjarvänlig.",
+      "recommended": [
+        "Nybörjare",
+        "Arbete",
+        "Sociala tillställningar"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 tim.",
+      "strength": 4,
+      "description": "Den kungliga 'Awa, extremt cerebral och mentalt klargörande.",
+      "recommended": [
+        "Meditation",
+        "Kreativt arbete",
+        "Kognition"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 tim.",
+      "strength": 3,
+      "description": "Sällsynt euforisk sort, mycket uppskattad.",
+      "recommended": [
+        "Sociala tillställningar",
+        "Stämningshöjande"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 tim.",
+      "strength": 3,
+      "description": "Den perfekta allroundern, mild och balanserad.",
+      "recommended": [
+        "Nybörjare",
+        "Ångestlösning",
+        "Vardagsbruk"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 tim.",
+      "strength": 4,
+      "description": "Folkkava från Vanuatu, pålitlig och mångsidig.",
+      "recommended": [
+        "Kvällskonsumtion",
+        "Avkoppling",
+        "Nybörjare"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 tim.",
+      "strength": 4,
+      "description": "Stark Kava med bra balans mellan huvud och kropp.",
+      "recommended": [
+        "Erfarna användare",
+        "Kvällskonsumtion"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 tim.",
+      "strength": 3,
+      "description": "Välbalanserad Fiji-Kava, mångsidig.",
+      "recommended": [
+        "Vardagsbruk",
+        "Avkoppling"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 tim.",
+      "strength": 5,
+      "description": "En av de mest potenta Heavy Kavas, djup sedering.",
+      "recommended": [
+        "Sömnproblem",
+        "Muskelavkoppling",
+        "Kväll"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 tim.",
+      "strength": 5,
+      "description": "Extremt potent Fiji-Kava, starkt sederande.",
+      "recommended": [
+        "Erfarna användare",
+        "Sömnproblem"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 tim.",
+      "strength": 4,
+      "description": "Lilla bror till Palasa, något mildare men liknande.",
+      "recommended": [
+        "Heavy-noviser",
+        "Kvällskonsumtion"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 tim.",
+      "strength": 5,
+      "description": "Ceremoniell hawaiiansk 'Awa, mycket stark.",
+      "recommended": [
+        "Cermonier",
+        "Sömn",
+        "Erfarna"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Socialt, Kreativt"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Nybörjare, Dag"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Meditation, Kognition"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "243156",
+      "bestUse": "Ångest, Allrounder"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Kväll, Avkoppling"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Balanced",
+      "chemotype": "423561",
+      "bestUse": "Erfarna, Kväll"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Heavy",
+      "chemotype": "423651",
+      "bestUse": "Sömn, Muskel"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Erfarna, Sömn"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Heavy",
+      "chemotype": "—",
+      "bestUse": "Cermonier, Sömn"
+    }
+  ]
+}

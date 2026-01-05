@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "剂量计算器",
+    "subtitle": "根据品种、经验和制备方法计算您的最佳Kava剂量。",
+    "category": "制备"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "zubereitung": "制备",
+    "current": "剂量计算器"
+  },
+  "toc": {
+    "title": "内容",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "剂量计算器",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "您的推荐",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "重要提示",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "影响因素",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "选择Kava品种",
+    "selectStrainPlaceholder": "-- 选择品种 --",
+    "potency": "效力",
+    "experienceLevel": "经验水平",
+    "experienceLevels": {
+      "beginner": {
+        "label": "初学者",
+        "desc": "初始几周"
+      },
+      "regular": {
+        "label": "常规",
+        "desc": "几个月"
+      },
+      "experienced": {
+        "label": "有经验",
+        "desc": "1年以上"
+      }
+    },
+    "prepMethod": "制备方法",
+    "methods": {
+      "traditional": {
+        "label": "传统",
+        "desc": "揉捏"
+      },
+      "blender": {
+        "label": "搅拌机",
+        "desc": "混合器"
+      },
+      "instant": {
+        "label": "即溶",
+        "desc": "微粉化"
+      }
+    },
+    "bodyWeight": "体重",
+    "kg": "千克",
+    "calculate": "计算剂量",
+    "instantPowder": "即溶粉",
+    "mediumGrind": "中等研磨粉",
+    "water": "水",
+    "kavalactones": "Kavalactone（估计）",
+    "prepTime": "制备时间",
+    "min": "分钟",
+    "toPrepGuide": "查看制备指南"
+  },
+  "results": {
+    "title": "您的个人推荐",
+    "bestTime": {
+      "title": "最佳使用时间",
+      "heady": "白天，适合社交场合或创造性活动",
+      "heavy": "晚上，适合放松或睡前",
+      "balanced": "灵活，适合任何时间"
+    },
+    "tip": {
+      "title": "此品种的提示",
+      "default": "空腹享用此品种以获得最佳效果。"
+    }
+  },
+  "notes": {
+    "title": "重要提示",
+    "safety": {
+      "title": "一般安全提示",
+      "items": [
+        "始终在<strong>空腹</strong>时饮用Kava（餐后3-4小时）",
+        "从<strong>较低剂量</strong>开始，逐渐增加",
+        "<strong>反向耐受性：</strong>第一次使用时效果可能较弱",
+        "绝对<strong>不要将Kava与酒精</strong>或药物混合",
+        "如有肝病或怀孕：<strong>不饮用Kava</strong>"
+      ]
+    },
+    "about": {
+      "title": "关于此计算器",
+      "text": "计算出的值是基于平均Kavalacton含量和经验值的<strong>参考值</strong>。实际效果可能因个体敏感性、批次和制造商而异。"
+    }
+  },
+  "factors": {
+    "title": "影响剂量的因素",
+    "items": [
+      {
+        "title": "品种的效力",
+        "text": "不同品种的Kavalacton含量不同。像Loa Waka这样的5星品种所需的粉末比温和的3星品种如Pouni Ono要少。"
+      },
+      {
+        "title": "体重",
+        "text": "体重较重的人通常需要更多的Kava以获得相同的效果。计算器会相应调整推荐。"
+      },
+      {
+        "title": "制备方法",
+        "text": "即溶/微粉化Kava比中等研磨的更浓缩。搅拌机方法的提取效率高于传统揉捏。"
+      },
+      {
+        "title": "经验水平",
+        "text": "由于\"反向耐受性\"，有经验的用户通常需要更少的Kava以获得相同的效果。初学者应从低剂量开始。"
+      }
+    ]
+  },
+  "navigation": {
+    "title": "制备指南",
+    "traditional": {
+      "title": "传统方法",
+      "time": "20-25分钟",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "搅拌机方法",
+      "time": "8-10分钟",
+      "href": "/de/zubereitung/blender"
+    },
+    "instant": {
+      "title": "即溶Kava",
+      "time": "30秒",
+      "href": "/de/zubereitung/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "被认为是全球最佳的Heady Kava之一。供应有限。",
+    "borogu": "在瓦努阿图最常饮用的Kava。非常可靠。",
+    "pouni-ono": "非常受欢迎的初学者Kava，质量稳定。",
+    "moi": "最稀有和最昂贵的Kava之一。传统上用于夏威夷仪式。",
+    "melo-melo": "非常受欢迎的初学者Kava，具有强烈的抗焦虑效果。",
+    "bir-kar": "以其强度和可靠性而闻名。",
+    "palasa": "不推荐给初学者。非常强效。",
+    "loa-waka": "市场上最强的商业Kava之一。",
+    "hiwa": "传统上仅用于仪式目的。非常稀有。",
+    "vula-waka": "来自斐济的受欢迎的全能型Kava。",
+    "silese": "最具欣快感的品种之一。",
+    "palarasul": "进入Heavy Kava的良好选择。"
+  }
+}

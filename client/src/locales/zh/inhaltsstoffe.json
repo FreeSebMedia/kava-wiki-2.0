@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "成分与化学",
+    "subtitle": "Piper methysticum 的药理学秘密：Kavalactone、化学型和作用机制。",
+    "category": "成分"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "current": "成分"
+  },
+  "toc": {
+    "title": "目录",
+    "uebersicht": "活性成分概述",
+    "kavalactone": "六种主要 Kavalactone",
+    "chemotypen": "化学型系统",
+    "synergien": "协同作用与伴随效应",
+    "weitere": "其他成分",
+    "unterseiten": "深入文章"
+  },
+  "uebersicht": {
+    "paragraph1": "Kava 的精神活性作用主要由一组称为 <strong>Kavalactone</strong>（或 Kava-Pyone）的化合物产生。与许多其他精神活性植物（如咖啡或茶）不同，Kava 并不含有生物碱作为主要活性成分。",
+    "paragraph2": "迄今为止，已识别出 18 种不同的 Kavalactone，但其中六种负责超过 96% 的药理作用。这六种 \"主要 Kavalactone\" 构成了 Kava 分类和质量评估的基础。"
+  },
+  "kavalactone": {
+    "title": "六种主要 Kavalactone",
+    "intro": "每种 Kavalactone 具有独特的作用特征。Kava 品种的整体效果源于这六种成分的特定混合比例。",
+    "tableHeaders": {
+      "number": "#",
+      "name": "名称",
+      "abbreviation": "缩写",
+      "effect": "主要作用"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "集中注意力，增加多巴胺，欣快感"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "强烈的肌肉放松，镇痛（缓解疼痛）"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "刺激作用，作用于 CB1 受体（内源性大麻素系统）"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "抗焦虑（缓解焦虑），提升情绪，精神集中。负责 \"Heady\" 效果。"
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "镇静，持久。高浓度可能导致恶心（典型于 Tudei-Kava）。"
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "强烈镇静，抗焦虑，神经保护。"
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "化学型系统",
+    "intro": "为了预测 Kava 品种的效果，使用一个 6 位数字代码，按浓度降序列出 Kavalactone。这被称为 <strong>化学型</strong>。",
+    "exampleTitle": "示例：化学型 426531",
+    "exampleText": "这意味着 <strong>Kavain (4)</strong> 具有最高浓度，其次是 <strong>Dihydrokavain (2)</strong>，然后是 <strong>Methysticin (6)</strong>，等等。",
+    "nobleTudeiTitle": "高贵 Kava 与 Tudei Kava",
+    "nobleTudeiIntro": "化学型是区分高质量 \"高贵 Kava\"（Edelkava）和低质量 \"Tudei Kava\"（Two-Day Kava）的最重要工具。",
+    "nobleDescription": "<strong>高贵 Kava：</strong> 化学型通常以 <strong>4</strong>（Kavain）或 <strong>2</strong>（Dihydrokavain）开头。这提供了一种愉悦的、抗焦虑的效果，而不会有长时间的 \"宿醉\"。",
+    "nobleCodes": "典型代码：423165，426531，246531",
+    "tudeiDescription": "<strong>Tudei Kava：</strong> 化学型通常以 <strong>5</strong>（Dihydromethysticin）或 <strong>2</strong> 开头，且 5 的比例非常高。DHM 的代谢非常缓慢，可能导致几天的疲劳和恶心。",
+    "tudeiCodes": "典型代码：253461，526431"
+  },
+  "synergien": {
+    "title": "协同作用与伴随效应",
+    "paragraph1": "与大麻（萜烯和大麻素）类似，Kava 的整体提取物比单一 Kavalactone 更有效。这被称为伴随效应。",
+    "paragraph2": "虽然单独的 Kavain 具有抗焦虑作用，但与 Yangonin（MAO-B 抑制）和 Desmethoxyyangonin（增加多巴胺）的结合显著增强了提升情绪的效果。因此，传统制备或全谱提取物优于单一活性成分。"
+  },
+  "weitere": {
+    "title": "其他成分",
+    "intro": "除了 Kavalactone，根部还含有：",
+    "items": [
+      {
+        "label": "Flavokavine (A, B, C)",
+        "text": "具有潜在抗肿瘤特性的查尔酮，但在极高剂量下也被怀疑具有细胞毒性（主要在 Tudei 品种中）。"
+      },
+      {
+        "label": "生物碱",
+        "text": "Pipermethystin 主要存在于 <strong>叶子和茎</strong> 中，而不在根部。它是有毒的，也是传统上仅消费根部的主要原因。"
+      },
+      {
+        "label": "淀粉和纤维",
+        "text": "约占干重的 43%，提供饮料的典型稠度。"
+      },
+      {
+        "label": "矿物质",
+        "text": "钾、钙、镁。"
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "深入文章",
+    "intro": "有关各个主题的详细信息，请访问我们的专业子页面：",
+    "kavalactoneTitle": "六种主要 Kavalactone",
+    "kavalactoneDescription": "Kavain、Dihydrokavain、Methysticin、Dihydromethysticin、Yangonin 和 Desmethoxyyangonin 的详细作用特征。",
+    "chemotypenTitle": "化学型系统",
+    "chemotypenDescription": "6 位数字代码如何预测效果并区分高贵 Kava 和 Tudei。",
+    "learnMore": "了解更多"
+  }
+}

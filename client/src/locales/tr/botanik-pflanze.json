@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "Bitki",
+    "subtitle": "Taksonomi, nomenklatür ve Piper methysticum ile onun vahşi atası arasındaki ilişki.",
+    "category": "Botanik"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanik",
+    "pflanze": "Bitki"
+  },
+  "toc": {
+    "taxonomie": "Taksonomik Sıralama",
+    "name": "İsmin Anlamı",
+    "wichmannii": "Piper wichmannii – Vahşi Atası",
+    "unterschiede": "Kültüretilmiş Türle Farklılıklar",
+    "domestikation": "Ehlileştirme & Evrim",
+    "kulturgut": "Kava'nın Yaşayan Kültürel Mirası"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> sıradan bir tarım bitkisi değildir. Binlerce yıllık insan seçiminin bir sonucudur ve bugün yalnızca kültüretilmiş form olarak var olmaktadır. Vahşi popülasyonlar artık yoktur – dünyadaki her Kava bitkisi, insan eliyle aktarılmış bir klondur."
+  },
+  "taxonomie": {
+    "title": "Taksonomik Sıralama",
+    "intro": "Kava, <strong>Piperaceae</strong> (bibergiller) familyasına aittir, bu da en eski çiçekli bitki ailelerinden biridir. Bu aile, aralarında bilinen kara biberin (<em>Piper nigrum</em>) de bulunduğu yaklaşık 3.600 türü içermektedir.",
+    "table": {
+      "headers": {
+        "rank": "Taksonomik Sıra",
+        "classification": "Sınıflandırma",
+        "note": "Not"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Alemi",
+          "classification": "Plantae",
+          "note": "Bitkiler"
+        },
+        "unterreich": {
+          "rank": "Alt Alem",
+          "classification": "Tracheobionta",
+          "note": "Damarlı Bitkiler"
+        },
+        "abteilung": {
+          "rank": "Bölüm",
+          "classification": "Magnoliophyta",
+          "note": "Kapalı Tohumlu Bitkiler"
+        },
+        "klasse": {
+          "rank": "Sınıf",
+          "classification": "Magnoliopsida",
+          "note": "İki Çenekli Bitkiler"
+        },
+        "ordnung": {
+          "rank": "Sıra",
+          "classification": "Piperales",
+          "note": "Bibergiller"
+        },
+        "familie": {
+          "rank": "Aile",
+          "classification": "Piperaceae",
+          "note": "Bibergiller"
+        },
+        "gattung": {
+          "rank": "Cins",
+          "classification": "<em>Piper</em> L.",
+          "note": "Dünya genelinde yaklaşık 2.000 tür"
+        },
+        "art": {
+          "rank": "Tür",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "İlk tanım 1786"
+        }
+      }
+    },
+    "forster": "İlk tanım 1786 yılında <strong>Johann Georg Adam Forster</strong> tarafından yapılmıştır; kendisi James Cook'un ikinci dünya turuna eşlik eden bir Alman doğa bilimcisidir. Forster, bitkiyi ve Pasifik adalarındaki kullanımını belgeledi."
+  },
+  "name": {
+    "title": "İsmin Anlamı",
+    "intro": "Bilimsel isim <em>Piper methysticum</em> Latince ve Yunanca'nın bir kombinasyonudur:",
+    "piper": {
+      "title": "Piper",
+      "description": "Latince'de \"biber\" anlamına gelir. Bibergiller familyasına ait olduğunu ve kökünün hafif acı tadını ifade eder."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "Yunanca <em>μεθυστικός</em> (methystikos) = \"sarhoş edici\" veya \"sarhoş yapan\" kelimesinden gelmektedir. Bitkinin psikoaktif etkisini tanımlar."
+    },
+    "localNames": {
+      "intro": "\"Kava\" ismi, Pasifik'in Austronesian dillerinden gelmektedir. Farklı bölgelerde farklı adlandırmalar mevcuttur:",
+      "headers": {
+        "region": "Bölge",
+        "name": "Yerel İsim",
+        "meaning": "Anlamı"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Aci\""
+        },
+        "fiji": {
+          "region": "Fiji",
+          "name": "Yaqona",
+          "meaning": "\"Aci Kök\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Acı, acı\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Aci\""
+        },
+        "hawaii": {
+          "region": "Hawaii",
+          "name": "'Awa",
+          "meaning": "\"Aci\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Kava İçeceği\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – Vahşi Atası",
+    "intro": "<em>Piper methysticum</em>’un en yakın akrabası <strong>Piper wichmannii</strong>’dir ve günümüz kültüretilmiş Kava'sının vahşi atası olarak kabul edilmektedir. Bu tür, Papua Yeni Gine, Solomon Adaları ve kuzey Vanuatu'da doğal olarak bulunmaktadır.",
+    "alert": "<strong>Önemli:</strong> <em>Piper wichmannii</em> bazen \"Vahşi Kava\" olarak adlandırılır ve yerel olarak tüketilir. Ancak, farklı bir kavalakton profiline sahiptir ve kültüretilmiş kaliteli Kava türlerine göre daha az toleranslıdır.",
+    "differences": {
+      "title": "P. methysticum ile P. wichmannii Arasındaki Farklılıklar",
+      "headers": {
+        "feature": "Özellik",
+        "methysticum": "<em>P. methysticum</em> (kültüretilmiş)",
+        "wichmannii": "<em>P. wichmannii</em> (vahşi)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Üreme",
+          "methysticum": "Steril, sadece vejetatif",
+          "wichmannii": "Fertil, tohum üretir"
+        },
+        "chromosomen": {
+          "feature": "Kromozom Sayısı",
+          "methysticum": "Dekaploid (2n = 130)",
+          "wichmannii": "Diploid (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Kavalakton İçeriği",
+          "methysticum": "Daha yüksek, optimize edilmiş",
+          "wichmannii": "Daha düşük, değişken"
+        },
+        "chemotyp": {
+          "feature": "Kimyasal Tip",
+          "methysticum": "Tolerans için seçilmiştir",
+          "wichmannii": "Sıklıkla \"Tudei\" benzeri"
+        },
+        "verbreitung": {
+          "feature": "Yayılma",
+          "methysticum": "Sadece insanlar tarafından",
+          "wichmannii": "Doğal yayılma"
+        },
+        "nutzung": {
+          "feature": "Geleneksel Kullanım",
+          "methysticum": "Binlerce yıl belgelenmiştir",
+          "wichmannii": "Sınırlı, genellikle kaçınılır"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Ehlileştirme & Evrim",
+    "intro": "Kava'nın ehlileştirilmesi muhtemelen yaklaşık <strong>3.000 yıl</strong> önce kuzey Vanuatu'da başlamıştır. Genetik çalışmalar, <em>Piper methysticum</em>’un tekrar eden melezleme ve poliploidi ile <em>Piper wichmannii</em>’den türediğini göstermektedir.",
+    "changes": "Ehlileştirme süreci birkaç önemli değişikliğe yol açtı:",
+    "cards": {
+      "polyploidie": {
+        "title": "Artan Poliploidi",
+        "description": "<em>P. wichmannii</em> diploid (2n = 26) iken, <em>P. methysticum</em> dekaploid (2n = 130) dir. Kromozom setinin bu çoğalması, daha büyük kökler ve daha yüksek kavalakton içeriğine yol açtı."
+      },
+      "fertilitaet": {
+        "title": "Fertilitenin Kaybı",
+        "description": "Yüksek poliploidi, steriliteye yol açtı. Bitki çiçekler üretse de, yaşamaya elverişli tohumlar üretmez. Bu da onu tamamen insana bağımlı hale getirdi."
+      },
+      "wirkprofil": {
+        "title": "Optimize Edilmiş Etki Profili",
+        "description": "Hedefli seçim yoluyla, daha hoş etki ve daha iyi tolerans gösteren çeşitler tercih edildi. Bu, günümüz \"Kalite Kava\" çeşitlerinin ortaya çıkmasına yol açtı."
+      },
+      "sortenvielfalt": {
+        "title": "Çeşit Çeşitliliği",
+        "description": "Bugün yalnızca Vanuatu'da 80'den fazla belgelenmiş kültivar bulunmaktadır. Her bir çeşidin kendine özgü bir kimyasal profil ve karakteristik etki özellikleri vardır."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "Kava'nın Yaşayan Kültürel Mirası",
+    "paragraph1": "Kava kendiliğinden üreyemediği için, bugün var olan her bitki kesintisiz bir insan aktarım zincirinin sonucudur. Kesimler nesilden nesile, aileden aileye, köyden köye aktarılmıştır.",
+    "quote": {
+      "text": "Kava, Güney Pasifik'teki bilinçli seçici tarımın en eski belgelenmiş örneklerinden biridir. Bitki, nesilden nesile aktarılan bir yaşayan kültürel mirastır.",
+      "author": "Sebastian Freidank, \"Kava – Huzurun Kökü\""
+    },
+    "paragraph2": "Kaynak ülkelerde Kava, sadece bir tarım bitkisi olarak değil, aynı zamanda bir <strong>yaşayan varlık</strong> olarak da görülmektedir – isim, karakter ve hikaye ile. Bireysel bitkilerin adlandırılması ve ritüellerde onurlandırılması yaygındır. İnsan ve bitki arasındaki bu derin bağ, Kava'yı sadece etkili değil, aynı zamanda anlamlı kılar.",
+    "paragraph3": "İnsana bağımlılık aynı zamanda bir gölge yanına sahiptir: Sürekli bir tarım yapılmadığı takdirde, <em>Piper methysticum</em> bir nesil içinde yok olacaktır. Bu, Kava'nın yetiştirilmesi ve ticareti ile ilgili sorumluluğu vurgulamaktadır."
+  },
+  "navigation": {
+    "nextChapter": "Botanik bölümünde devam:",
+    "morphologie": {
+      "title": "Morfoloji",
+      "description": "Kava bitkisinin anatomisi ve kök sistemi"
+    }
+  }
+}

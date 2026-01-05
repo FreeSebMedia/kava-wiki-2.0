@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Blender-metoden",
+    "subtitle": "Det snabba och effektiva sättet att förbereda Kava – idealiskt för den moderna vardagen.",
+    "category": "Förberedelse"
+  },
+  "breadcrumbs": {
+    "home": "Hem",
+    "zubereitung": "Förberedelse",
+    "current": "Blender-metoden"
+  },
+  "toc": {
+    "title": "Innehåll",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Översikt",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Nödvändiga material",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Steg-för-steg instruktion",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Jämförelse med den traditionella metoden",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Expert-tips",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Total tid",
+    "fast": "Snabbt",
+    "lowEffort": "Litet arbete",
+    "highPotency": "Hög potens",
+    "effectiveExtraction": "Effektiv extraktion",
+    "tip": "Tips",
+    "essential": "Väsentlig",
+    "importantForBestResults": "Viktigt för bästa resultat",
+    "aspect": "Aspekt",
+    "traditional": "Traditionell (knåda)",
+    "blender": "Blender",
+    "otherMethods": "Andra förberedelsemetoder"
+  },
+  "overview": {
+    "intro": "Blender-metoden är det <strong>moderna alternativet</strong> till den traditionella knådningsmetoden. Den är snabbare, mindre arbetskrävande och ger ändå en <strong>mycket bra extraktion</strong>.",
+    "alert": {
+      "title": "Ideal för...",
+      "text": "Nykomlingar som söker en enkel metod, eller erfarna användare som har lite tid. Blender-metoden är också perfekt för större mängder."
+    }
+  },
+  "materials": {
+    "title": "Nödvändiga material",
+    "essential": [
+      {
+        "name": "Ståndmixer / Blender",
+        "note": "Minst 500 watt, helst 1000+ watt"
+      },
+      {
+        "name": "Kava-rotpulver",
+        "type": "Medium grind",
+        "note": "20-40g beroende på erfarenhet"
+      },
+      {
+        "name": "Filterpåse",
+        "note": "Nötköttsmjölkpåse eller fin sil"
+      },
+      {
+        "name": "Varmt vatten",
+        "note": "400-600ml, handvarmt (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Kokosolja eller kokosmjölk",
+        "note": "1 msk – väsentlig för bra extraktion!"
+      },
+      {
+        "name": "Köksvåg",
+        "note": "För konsekvent dosering"
+      },
+      {
+        "name": "Stor skål",
+        "note": "För att fånga upp vid filtrering"
+      }
+    ],
+    "alert": {
+      "title": "Mixer-krav",
+      "text": "Använd en kraftfull ståndmixer. Stavmixers eller svaga mixrar extraherar inte effektivt och kan överhettas. Idealiska är högpresterande mixrar som Vitamix eller Blendtec."
+    }
+  },
+  "steps": {
+    "title": "Steg-för-steg instruktion",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Förbered ingredienserna",
+        "duration": "2 min",
+        "description": "Mät upp och förbered alla ingredienser.",
+        "details": [
+          "Väg upp Kava-pulver (20-40g beroende på erfarenhet)",
+          "Mät upp vatten (400-600ml)",
+          "Förbered 1 msk kokosolja eller kokosmjölk",
+          "Ha filterpåse och fångstskål redo"
+        ],
+        "tip": "Fettet är särskilt viktigt i Blender-metoden, eftersom det stabiliserar emulsionen."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Lägg i mixern",
+        "duration": "1 min",
+        "description": "Fyll alla ingredienser i ståndmixern.",
+        "details": [
+          "Fyll först på med vatten (handvarmt, 35-45°C)",
+          "Tillsätt sedan Kava-pulvret",
+          "Till sist, tillsätt fettet (kokosolja/kokosmjölk)",
+          "Stäng locket ordentligt!"
+        ],
+        "tip": "Varmt vatten förbättrar extraktionen. Kallt vatten fungerar också, men är mindre effektivt."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Mixa",
+        "duration": "3-4 min",
+        "description": "Mixa på högsta nivå för maximal extraktion.",
+        "details": [
+          "Ställ mixern på högsta nivå",
+          "Mixa i 3-4 minuter kontinuerligt",
+          "Blandningen blir skummig och mjölkig-brun",
+          "Ta korta pauser vid överhettning"
+        ],
+        "tip": "Längre mixning = starkare Kava. Men var försiktig: vissa mixrar överhettas efter 4+ minuter."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filtrera",
+        "duration": "3 min",
+        "description": "Häll blandningen genom en filterpåse.",
+        "details": [
+          "Placera filterpåsen över en stor skål",
+          "Häll långsamt i mixerblandningen",
+          "Kram ihop påsen och vrid ur den",
+          "Pressa flera gånger tills knappt någon vätska kommer ut"
+        ],
+        "tip": "Detta steg är viktigt! Utan filtrering dricker du grova fibrer som kan orsaka illamående."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Servera",
+        "duration": "Omedelbart",
+        "description": "Njut av din Blender-Kava!",
+        "details": [
+          "Fyll i skålar eller koppar",
+          "Valfritt: Kyl kort i kylskåp för kall Kava",
+          "Drick i ett svep ('Chug')",
+          "Ha en chaser (frukt) redo"
+        ],
+        "tip": "Blender-Kava kan smaka något bittert jämfört med traditionellt tillagad. En bra chaser hjälper!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Jämförelse med den traditionella metoden",
+    "conclusion": "<strong>Slutsats:</strong> Blender-metoden är idealisk för vardagen och nykomlingar. För speciella tillfällen eller maximal potens är den traditionella metoden att föredra.",
+    "items": [
+      {
+        "aspect": "Förberedelse tid",
+        "traditional": "20-25 minuter",
+        "blender": "8-10 minuter",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Potens",
+        "traditional": "Mycket hög",
+        "blender": "Hög till mycket hög",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Smak",
+        "traditional": "Mildare, jordig",
+        "blender": "Bitterare, intensivare",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Arbete",
+        "traditional": "Högt (fysiskt)",
+        "blender": "Lågt",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Utrustning",
+        "traditional": "Endast påse + skål",
+        "blender": "Ståndmixer behövs",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "För nykomlingar",
+        "traditional": "Bra lämpad",
+        "blender": "Mycket bra lämpad",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Expert-tips",
+    "items": [
+      {
+        "name": "Isbitstrick",
+        "text": "Tillsätt 2-3 isbitar i mixern. Det kyler blandningen under mixningen och förhindrar överhettning vid längre mixningstider."
+      },
+      {
+        "name": "Dubbel filtrering",
+        "text": "Filtrera två gånger – först genom en grov, sedan genom en fin påse. Det ger en slätare Kava utan sediment."
+      },
+      {
+        "name": "Lecithin-boost",
+        "text": "En tesked solroslecitin förbättrar emulsionen och kan öka biotillgängligheten av Kavalactoner."
+      },
+      {
+        "name": "Batch-förberedelse",
+        "text": "Förbered större mängder och förvara den filtrerade Kavan i kylskåp. Håller i 2-3 dagar. Skaka väl innan du dricker!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Traditionell knådningsmetod",
+      "subtitle": "Maximal potens, autentisk upplevelse",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Ingen ansträngning, omedelbart drickfärdig",
+      "href": "/de/zubereitung/instant"
+    },
+    "calculator": {
+      "title": "Doseringsräknare",
+      "subtitle": "Personliga rekommendationer för din sort",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

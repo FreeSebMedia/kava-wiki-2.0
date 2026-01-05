@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Kemo Tip Hesaplayıcı",
+    "subtitle": "6 haneli bir kemo tip girin ve beklenen etki ve önerileri öğrenin.",
+    "category": "Etkileşimli"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "inhaltsstoffe": "İçindekiler",
+    "current": "Kemo Tip Hesaplayıcı"
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "rechner": "Kemo Tip Hesaplayıcı",
+    "anleitung": "Nasıl çalışır",
+    "beispiele": "Örnek Kemo Tipleri",
+    "legende": "Kavalakton Efsanesi"
+  },
+  "rechner": {
+    "title": "Kemo Tip Girin",
+    "subtitle": "1-6 arası 6 rakam, her biri tam olarak bir kez",
+    "placeholder": "örneğin 426531",
+    "analyzeButton": "Analiz Et",
+    "knownVariety": "Bilinen Çeşit"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Odak & Euphoria",
+      "description": "Dopamini artırır, odaklanmayı ve hafif bir euphoria'yı teşvik eder"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Kas gevşemesi",
+      "description": "Güçlü kas gevşemesi ve ağrı kesici etki"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "CB1 Aktivitesi",
+      "description": "Endokannabinoid sistem üzerinde etkili, hafif uyarıcı"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Anksiyolitik",
+      "description": "Kaygı çözümü ve zihinsel netlik için ana etken madde"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Uzun süreli sedasyon",
+      "description": "Güçlü sedatif, yavaş metabolizma - Tudei işareti"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Sedatif",
+      "description": "Sedatif ve nöro koruyucu"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Geçersiz",
+      "description": "Lütfen geçerli bir 6 haneli kemo tip girin (1-6 rakamları, her biri tam olarak bir kez)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Bu kemo tipi Tudei-Kava'yı işaret eder. 1 veya 2. pozisyonda DHM (5) uzun etki süresi ve olası yan etkiler anlamına gelir."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Ağırlıklı olarak zihinsel etkiye sahip Kavain-dominant bir çeşit. Sosyal etkinlikler ve yaratıcı işler için idealdir."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "İlk pozisyonlarda Kavain ve DHK ile dengeli bir çeşit. Zihinsel netliği fiziksel gevşeme ile birleştirir."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Ağırlıklı olarak fiziksel etkiye sahip Dihydrokavain-dominant bir çeşit. Gevşeme ve stres azaltma için idealdir."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Zihinsel ve fiziksel etki karışımı ile dengeli bir çeşit. Çok yönlü kullanılabilir."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "Öne çıkan pozisyonda DHM (5) - Tudei-Kava için tipik",
+    "tudeiSideEffects": "Olası yan etkiler: Bulantı, uzun 'sarhoşluk', sersemlik",
+    "tudeiNotRecommended": "Düzenli tüketim için uygun değildir",
+    "dhmPosition1": "1. pozisyonda DHM: Çok güçlü, uzun süreli sedasyon",
+    "dhmPosition2": "2. pozisyonda DHM: Artan sedasyon, daha uzun etki süresi"
+  },
+  "strengths": {
+    "headyClear": "Aşırı sedasyon olmadan net, odaklanmış etki",
+    "headyMood": "İyi ruh hali artırma ve kaygı çözümü",
+    "headyBeginner": "Yeni başlayanlar için ideal",
+    "headyBalancedBest": "Baş ve beden etkisinin ideal kombinasyonu",
+    "headyBalancedMental": "Hafif gevşeme ile zihinsel netlik",
+    "headyBalancedBody": "Güçlü sedasyon olmadan hafif kas gevşemesi",
+    "heavyMuscle": "Güçlü kas gevşemesi",
+    "heavyPain": "İyi ağrı kesici etki",
+    "heavyRelax": "Derin fiziksel gevşeme",
+    "balancedBoth": "Beden ve zihin üzerinde dengeli etki",
+    "balancedVersatile": "Çok yönlü kullanılabilir",
+    "balancedDaily": "İyi bir günlük çeşit",
+    "methysticinNeuro": "Methysticin belirgin: İyi nöro koruyucu özellikler",
+    "yangoninStim": "Yangonin belirgin: Hafif uyarıcı bileşen",
+    "dmyDopamine": "DMY belirgin: Artan dopamin etkisi, daha fazla euphoria"
+  },
+  "effects": {
+    "headyEffects": [
+      "Zihinsel netlik",
+      "Kaygı çözümü",
+      "Hafif euphoria"
+    ],
+    "headyBalancedEffects": [
+      "Zihinsel netlik",
+      "Hafif kas gevşemesi",
+      "Ruh hali artırma"
+    ],
+    "heavyEffects": [
+      "Kas gevşemesi",
+      "Fiziksel huzur",
+      "Uyku teşvik edici"
+    ],
+    "balancedEffects": [
+      "Dengeli gevşeme",
+      "Orta düzeyde kaygı çözümü",
+      "Hafif kas gevşemesi"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Sosyal etkinlikler",
+      "Yaratıcı işler",
+      "Gündüz veya erken akşam"
+    ],
+    "headyBalancedUse": [
+      "Çok yönlü kullanım",
+      "Gevşeme ile sosyal etkinlikler",
+      "Öğleden sonra akşama kadar"
+    ],
+    "heavyUse": [
+      "Akşam gevşemesi",
+      "Fiziksel çabadan sonra",
+      "Uyku hazırlığı"
+    ],
+    "balancedUse": [
+      "Günlük kullanım",
+      "Meditasyon",
+      "Esnek kullanım"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalakton Sıralaması",
+    "strengthsTitle": "Bu Kemo Tipinin Güçlü Yönleri",
+    "dominantEffects": "Dominant Etkiler",
+    "recommendedUseTitle": "Önerilen Kullanım"
+  },
+  "anleitung": {
+    "title": "Nasıl çalışır",
+    "paragraph1": "Kemo tipi, altı ana Kavalaktonu konsantrasyonlarına göre azalan sırayla listeleyen 6 haneli bir koddur. İlk rakam en yüksek konsantrasyona sahip kavalaktonu, son rakam ise en düşük olanı temsil eder.",
+    "rulesTitle": "En Önemli Kurallar:",
+    "rules": [
+      {
+        "label": "Pozisyon 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava - zihinsel etki, odak, kaygı çözümü"
+      },
+      {
+        "label": "Pozisyon 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava - fiziksel etki, kas gevşemesi"
+      },
+      {
+        "label": "Pozisyon 1 veya 2 = 5 (DHM)",
+        "text": "⚠️ Tudei-Kava - çok uzun etki, olası yan etkiler"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Örnek Kemo Tipleri",
+    "intro": "Bir örnek kemo tipe tıklayarak analiz edin:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalakton Efsanesi",
+    "intro": "Altı ana Kavalakton ve etkileri hakkında genel bakış:"
+  },
+  "hint": {
+    "title": "Not:",
+    "text": "Bu analiz genel kılavuzlara dayanmaktadır. Gerçek etki, kalite, hazırlama ve bireysel hassasiyete bağlı olarak değişebilir. Daha ayrıntılı bilgiler için lütfen",
+    "linkText": "Kemo Tip Sistemi"
+  }
+}

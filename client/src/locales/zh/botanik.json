@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Piper methysticum 的植物学",
+    "subtitle": "深入了解卡瓦植物的分类学、形态学和生态学。",
+    "category": "植物学"
+  },
+  "toc": {
+    "einfuehrung": "介绍",
+    "klassifikation": "科学分类",
+    "ueberblick": "形态学概述",
+    "verbreitung": "分布与栖息地",
+    "vertiefung": "深入文章"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>，通常被称为卡瓦或卡瓦卡瓦，是一种来自胡椒科（Piperaceae）的热带灌木。<em>Piper methysticum</em> 的名字翻译为“醉人的胡椒”（来自希腊语 <em>methystikos</em> = 醉人）。",
+    "paragraph2": "与许多其他精神活性植物不同，卡瓦不含生物碱作为主要活性成分，而是一类独特的化合物，称为<strong>卡瓦内酯</strong>。该植物在太平洋地区的文化中发挥了数千年的核心作用，今天是人类选择的结果。"
+  },
+  "classification": {
+    "title": "科学分类",
+    "headers": {
+      "rank": "等级",
+      "name": "科学名称"
+    },
+    "ranks": {
+      "reich": "界",
+      "abteilung": "门",
+      "ordnung": "目",
+      "familie": "科",
+      "gattung": "属",
+      "art": "种"
+    },
+    "values": {
+      "reich": "Plantae (植物)",
+      "abteilung": "Tracheophyta (维管植物)",
+      "ordnung": "Piperales (胡椒目)",
+      "familie": "Piperaceae (胡椒科)",
+      "gattung": "Piper (胡椒)",
+      "art": "Piper methysticum G. Forst."
+    },
+    "note": "最近的亲缘种是<em>Piper wichmannii</em>，被认为是现代栽培卡瓦植物的野生原型。虽然<em>P. wichmannii</em>（通常称为“野生卡瓦”）可以进行有性繁殖，但栽培的<em>P. methysticum</em>是无性繁殖的，完全依赖于人类。"
+  },
+  "morphology": {
+    "title": "形态学概述",
+    "intro": "卡瓦是一种常绿的多年生灌木，通常高度为1.5至3米，但在最佳条件下可高达5米。",
+    "aboveGround": {
+      "title": "地上部分",
+      "leaves": "<strong>叶子：</strong> 大，心形（心脏形），宽20-30厘米",
+      "stems": "<strong>茎：</strong> 节状，竹状，品种特有的颜色",
+      "flowers": "<strong>花：</strong> 穗状，不能结种子（无种子）"
+    },
+    "belowGround": {
+      "title": "地下部分",
+      "stump": "<strong>块茎：</strong> 粗壮的木质根茎",
+      "roots": "<strong>侧根（Waka）：</strong> 较细的根，含有最高的卡瓦内酯含量",
+      "weight": "<strong>重量：</strong> 成熟植物（3-5年以上）重5-25千克"
+    }
+  },
+  "distribution": {
+    "title": "分布与栖息地",
+    "intro": "卡瓦原产于西太平洋。其起源地被认为是在北瓦努阿图，那里拥有最大的遗传多样性。从那里，植物通过波利尼西亚航海者（“独木舟植物”）传播到整个太平洋。",
+    "regionsIntro": "今天，卡瓦主要在以下地区种植：",
+    "regions": {
+      "vanuatu": "<strong>瓦努阿图：</strong> 世界上最大的生产国，拥有超过80种不同的品种。",
+      "fiji": "<strong>斐济：</strong> 以“Waka”（根）和“Lewena”（基茎）而闻名。",
+      "tonga": "<strong>汤加：</strong> 生产非常温和的“奶油”卡瓦（例如 Pouni Ono）。",
+      "samoa": "<strong>萨摩亚：</strong> 在这里卡瓦被称为'Ava。",
+      "hawaii": "<strong>夏威夷：</strong> 在这里卡瓦被称为'Awa（例如 Moi, Mahakea）。",
+      "pohnpei": "<strong>波恩佩：</strong> 以���费新鲜卡瓦汁（“Sakau”）而闻名。"
+    }
+  },
+  "subpages": {
+    "title": "深入文章",
+    "intro": "探索以下子页面以获取有关卡瓦植物学特定方面的详细信息。",
+    "pflanze": {
+      "title": "植物",
+      "description": "分类学、命名法以及<Piper methysticum>与其野生原型<Piper wichmannii>之间的关系。",
+      "topics": [
+        "分类学定位",
+        "名称的意义",
+        "驯化与进化",
+        "卡瓦作为活的文化遗产"
+      ]
+    },
+    "morphologie": {
+      "title": "形态学",
+      "description": "卡瓦植物的详细解剖，特别关注经济重要的根系。",
+      "topics": [
+        "根系（块茎与Waka）",
+        "卡瓦内酯分布",
+        "茎与叶子",
+        "花与不育"
+      ]
+    },
+    "anbau": {
+      "title": "种植与生态",
+      "description": "生长条件、繁殖方法以及传统卡瓦种植的艺术。",
+      "topics": [
+        "无性繁殖",
+        "气候要求",
+        "土壤特性",
+        "收获与质量因素"
+      ]
+    }
+  }
+}

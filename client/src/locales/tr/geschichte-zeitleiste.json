@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "Kava'nın Tarihi",
+    "subtitle": "5.000 yıllık Kava tarihine bir yolculuk - Melanezyada evcilleştirilmesinden modern dünyada küresel yayılımına kadar.",
+    "category": "Tarih"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "geschichte": "Tarih",
+    "zeitleiste": "Zaman Çizelgesi"
+  },
+  "ui": {
+    "filter": "Filtre",
+    "allEpochs": "Tüm Dönemler",
+    "readMore": "Daha fazla bilgi",
+    "loading": "Yükleniyor..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Tarih Öncesi ve Evcil Hayvanlaştırma",
+      "description": "Melanezya'daki Kava kültürünün başlangıçları"
+    },
+    "classical": {
+      "name": "Klasik Pasifik Dönemi",
+      "description": "Austronesya Yayılması ile Dağılım"
+    },
+    "colonial": {
+      "name": "Sömürge Dönemi",
+      "description": "Avrupa İletişimi ve Misyonerlik"
+    },
+    "modern": {
+      "name": "Modern Dönem",
+      "description": "Bilimsel Araştırma ve Sömürgecilikten Kurtulma"
+    },
+    "contemporary": {
+      "name": "Günümüz",
+      "description": "Küresel Yayılma ve Kültürel Rönesans"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Köken & Evcil Hale Getirme",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Pasifik'teki Yayılım",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Sömürge Dönemi",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Bilim & Araştırma",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Modern Dönem",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Günümüz",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "M.Ö. 3000 civarı",
+      "title": "Kava'nın Evcilleştirilmesi",
+      "description": "Papua Yeni Gine ve Vanuatu'nun yağmur ormanlarında Piper wichmannii'nin kültüre alınmış Kava bitkisi (Piper methysticum) olarak evcilleştirilmesine başlanır.",
+      "details": "Seçici yetiştirme ve vejetatif çoğaltma ile ilk Noble Kava çeşitleri, daha yüksek Kavalacton içeriği ve daha düşük toksisite ile ortaya çıkar.",
+      "location": "Papua Yeni Gine / Vanuatu",
+      "links": [
+        {
+          "label": "Bitki",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Kökenler",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "M.Ö. 2500 civarı",
+      "title": "Vanuatu'daki İlk Kava Törenleri",
+      "description": "Vanuatu adalarında ilk ritüel Kava törenleri gelişir. Nakamal merkezi toplantı yeri haline gelir.",
+      "details": "Genç erkekler tarafından kökün çiğnenmesi geleneği olarak yerleşir. Kava, atalar ve ruhlarla iletişim aracı haline gelir.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Törenler",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "M.Ö. 1500–1000 civarı",
+      "title": "Lapita Genişlemesi",
+      "description": "Lapita kültürü, Melanezya'dan Batı Polinezya'ya deniz yoluyla Kava'yı yayar.",
+      "details": "Lapita seramiği üzerindeki arkeolojik buluntular yayılma yollarını gösterir. Kava bitkileri, yüzer kanolarla çelik olarak taşınır.",
+      "location": "Melanezya → Polinezya"
+    },
+    "fiji-arrival": {
+      "year": "M.Ö. 1000 civarı",
+      "title": "Kava Fiji'ye Ulaşır",
+      "description": "Kava, Fiji'ye tanıtılır ve 'Yaqona' olarak bilinir. Tanoa (Kava kasesi) etrafında benzersiz törenler gelişir.",
+      "details": "Başlangıçta Kava, Fiji'de çiğneme ile değil, öğütme ile hazırlanır. Būrau (erkek evleri) içinde atalara tapma ile bağlantı kurulur.",
+      "location": "Fiji",
+      "links": [
+        {
+          "label": "Fiji Törenleri",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Pasifik Çeşitleri",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "M.Ö. 500 civarı",
+      "title": "Kava Tonga ve Samoa'da",
+      "description": "'Ava Töreni Tonga ve Samoa'da katı bir hiyerarşi ile yüksek dereceli bir gelenek haline gelir.",
+      "details": "Tou'a (Kava karıştırıcısı) ve Matāpule (tören yöneticisi) önemli ritüel rolleri haline gelir. İçme sırası sosyal düzeni yansıtır.",
+      "location": "Tonga / Samoa",
+      "links": [
+        {
+          "label": "'Ava Töreni",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "M.S. 300–500 civarı",
+      "title": "Kava Hawaii'ye Ulaşır",
+      "description": "Polinezya denizcileri Kava'yı Hawaii'ye getirir, burada 'Awa' olarak bilinir ve Tanrıça Hina ile ilişkilendirilir.",
+      "details": "Hawaii'de, Kahuna (rahip) iyileştirme ritüelleri ile bağlantılı benzersiz bir Kava kültürü gelişir. 'Awa Hiwa çeşidi tören amaçları için ayrılır.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Hawaii Çeşitleri",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "M.S. 500 civarı",
+      "title": "Pohnpei'de Sakau Kültürü",
+      "description": "Mikronezya'daki Pohnpei'de Sakau töreni bağımsız bir gelenek olarak gelişir.",
+      "details": "Düz bir taş üzerinde hazırlama ve hibiskus lifleri ile sıkıştırma, mikronezya Kava kültürü için karakteristik hale gelir.",
+      "location": "Pohnpei (Mikronezya)"
+    },
+    "fiji-tongan-influence": {
+      "year": "M.Ö. 1750 civarı",
+      "title": "Tongan Etkisi Fiji'de",
+      "description": "Fiji, Tongalı Kava törenlerini benimser: Çiğneme, Tanoa kaseleri ve Bilo kupaları standart hale gelir.",
+      "details": "Sevusevu töreni resmi bir selamlaşma olarak yerleşir. Hristiyan misyonerler, 'uygar' Polinezya törenlerini destekler.",
+      "location": "Fiji"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "İlk Avrupa Teması",
+      "description": "Hollandalı denizciler Jacob Le Maire ve Willem Schouten Pasifik adalarına ulaşır ve Kava'yı ilk kez belgeler.",
+      "details": "Avrupalılar, yerli halkın 'garip içeceğini' tanımlar, ancak kültürel önemini anlamazlar.",
+      "location": "Pasifik"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Kaptan Cook'un Belgelendirmesi",
+      "description": "James Cook, Pasifik yolculukları sırasında Kava törenlerini ayrıntılı olarak belgeler ve örnekler getirir.",
+      "details": "Cook'un Tonga ve Hawaii'deki 'Ava Töreni' hakkındaki raporları Avrupa'da bilimsel ilgi uyandırır. Botanikçi Johann Georg Forster, bitkiyi ilk kez bilimsel olarak tanımlar.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Tarih",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Bilimsel Sınıflandırma",
+      "description": "Johann Georg Forster Kava'yı Piper methysticum ('sarhoş edici biber bitkisi') olarak sınıflandırır.",
+      "details": "İsim, Yunanca 'methystikos' (sarhoş edici) kelimesinden türetilmiştir. Forster, bitkiyi 'De Plantis Esculentis Insularum Oceani Australis' adlı eserinde tanımlar.",
+      "location": "Avrupa",
+      "links": [
+        {
+          "label": "Botanik",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Misyoner Direnişi",
+      "description": "Hristiyan misyonerler Kava'yı 'putperest' bir içecek olarak savaşır. Bazı bölgelerde törenler yasaklanır.",
+      "details": "Misyonerler çiğnemenin hijyenik olmadığını ve törenleri 'tembel, çürüyen, hatta şeytani' olarak eleştirir. Doğu Futuna'da çiğneme, 1930'da misyoner emriyle durdurulur.",
+      "location": "Pasifik",
+      "links": [
+        {
+          "label": "Sömürge Etkileri",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "Kavalactonların Keşfi",
+      "description": "Alman kimyagerler Kava'dan ilk kez aktif bileşenleri izole eder ve bunlara 'Kavain' adını verir.",
+      "details": "Bu keşif, Kava etkisinin bilimsel araştırması ve sonraki farmasötik uygulamalar için temel oluşturur.",
+      "location": "Almanya",
+      "links": [
+        {
+          "label": "Kavalactonlar",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Alman Sömürge Yönetimi",
+      "description": "Almanya, Pasifik'in bazı bölgelerini (Alman Yeni Gine, Samoa) kontrol eder. Kava bilimsel olarak araştırılır.",
+      "details": "Alman bilim insanları Kava çeşitlerini ve hazırlama yöntemlerini belgeler. Sömürge yönetimi Kava tüketimini büyük ölçüde tolere eder.",
+      "location": "Alman Yeni Gine / Samoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Louis Lewin'in Araştırması",
+      "description": "Alman toksikolog Louis Lewin, Kava hakkında kapsamlı çalışmalar yayınlar ve onu 'Euphorica' olarak sınıflandırır.",
+      "details": "Lewin'in 'Phantastica' eseri psikofarmakolojinin standart eseri haline gelir. Kava'yı insanlığın en önemli keyif verici maddelerinden biri olarak tanımlar.",
+      "location": "Almanya"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Bağımsızlık & Kültürel Rönesans",
+      "description": "Pasifik ülkeleri bağımsızlık kazanır. Kava, kültürel kimliğin sembolü olarak kamu alanına geri döner.",
+      "details": "Samoa (1962), Fiji (1970), Tonga (1970), Vanuatu (1980) bağımsız olur. Kava törenleri devlet kuruluşları ve resmi etkinliklerde kutlanır.",
+      "location": "Pasifik",
+      "links": [
+        {
+          "label": "Modern Tarih",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu Bağımsız Oluyor",
+      "description": "Vanuatu, Fransız-Britanya sömürge yönetiminden bağımsızlık kazanır. Kava ulusal sembol haline gelir.",
+      "details": "Yeni ulus Kava'yı kimliğinin bir parçası yapar. Nakamallar, Port Vila ve diğer şehirlerde önemli sosyal kurumlar haline gelir.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "1990'lar",
+      "title": "Anksiyete Üzerine Klinik Çalışmalar",
+      "description": "İlk kontrollü klinik çalışmalar, Kava özlerinin anksiyolitik etkisini gösterir.",
+      "details": "Meta-analizler, Kava'nın anksiyete bozukluklarındaki etkinliğini doğrular. Kava preparatları Avrupa ve ABD'de bitkisel ilaçlar olarak popüler hale gelir.",
+      "location": "Avrupa / ABD",
+      "links": [
+        {
+          "label": "Çalışmalar",
+          "url": "/studien"
+        },
+        {
+          "label": "Anksiyete Üzerindeki Etkisi",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990'lar",
+      "title": "ABD'deki İlk Kava Barları",
+      "description": "Florida ve Kaliforniya'da, alkolsüz bir alternatif olarak ilk batılı Kava barları açılır.",
+      "details": "Kava bar hareketi, Pasifik diasporasının olduğu şehirlerde başlar. Fort Lauderdale, Amerikan Kava sahnesinin merkezi haline gelir.",
+      "location": "ABD (Florida)",
+      "links": [
+        {
+          "label": "Modern Kava Kültürü",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal & Kava Barları",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Almanya'da Kava Yasağı",
+      "description": "Almanya, karaciğer hasarları ile ilgili raporlar sonrasında Kava preparatlarını yasaklar. Diğer AB ülkeleri de takip eder.",
+      "details": "BfArM, Kava içeren tüm ilaçların onayını iptal eder. Karar, 30 hepatotoksisite şüphesi üzerine alınır, ancak daha sonra aşırı olarak eleştirilir.",
+      "location": "Almanya / AB",
+      "links": [
+        {
+          "label": "Karaciğer Güvenliği",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Hukuki Durum",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Vanuatu'nun Noble-Sadece İhracat Politikası",
+      "description": "Vanuatu, sıkı ihracat kuralları getirir: Sadece Noble Kava çeşitleri ihraç edilebilir.",
+      "details": "Politika, kaliteyi güvence altına almayı ve Kava'nın itibarını korumayı amaçlar. Daha yüksek DHM/DHK içeriğine sahip Tudei çeşitleri ihracattan hariç tutulur.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Noble vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Vanuatu Çeşitleri",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "WHO Risk Değerlendirmesi",
+      "description": "WHO, kapsamlı bir risk değerlendirmesi yayınlar ve geleneksel olarak hazırlanmış Kava'yı güvenli olarak sınıflandırır.",
+      "details": "Değerlendirme, geleneksel hazırlama (güvenli) ile özler (potansiyel olarak sorunlu) arasında ayrım yapar. Kök dışı parçaların kullanımı risk faktörü olarak tanımlanır.",
+      "location": "Uluslararası",
+      "links": [
+        {
+          "label": "Güvenlik",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Almanya'da Rehabilitasyon",
+      "description": "Alman mahkemeleri Kava yasağını kaldırır. Orijinal karar bilimsel olarak dayanıksız olarak değerlendirilir.",
+      "details": "Federal İdare Mahkemesi, risk değerlendirmesinin hatalı olduğuna karar verir. Kava ürünleri tekrar yasal olarak satılabilir.",
+      "location": "Almanya",
+      "links": [
+        {
+          "label": "Hukuki Durum",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Codex Alimentarius Standardı",
+      "description": "Codex Alimentarius, Kava için bir içecek olarak uluslararası bir standart kabul eder.",
+      "details": "Standart, kalite kriterlerini, Kavalacton sınır değerlerini ve etiketleme gerekliliklerini tanımlar. Uluslararası ticaret için bir dönüm noktasıdır.",
+      "location": "Uluslararası"
+    },
+    "global-expansion": {
+      "year": "2020'ler",
+      "title": "Kava Barlarının Küresel Genişlemesi",
+      "description": "ABD'de 200'den fazla Kava barı açılır. 'Sober Curious' hareketi büyümeyi teşvik eder.",
+      "details": "Kava, sosyal rahatlama için alkolsüz bir alternatif olarak popüler hale gelir. Austin, Denver ve New York gibi şehirler canlı Kava sahneleri geliştirir.",
+      "location": "ABD / Avrupa / Avustralya",
+      "links": [
+        {
+          "label": "Modern Kava Kültürü",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020'ler",
+      "title": "İklim Değişikliği Zorlukları",
+      "description": "Pasifik Kava çiftçileri, iklim değişikliğinin mahsuller üzerindeki etkileriyle mücadele ediyor.",
+      "details": "Değişen yağış desenleri, siklonlar ve artan sıcaklıklar geleneksel tarım alanlarını tehdit ediyor. Sürdürülebilir tarım yöntemleri daha önemli hale geliyor.",
+      "location": "Pasifik",
+      "links": [
+        {
+          "label": "Tarım",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "Bugün",
+      "title": "Kültürel Rönesans",
+      "description": "Genç Pasifik nesilleri 'Kava Kolektifleri' kurar ve geleneksel bilgileri dijital olarak belgeler.",
+      "details": "Podcast'ler, YouTube kanalları ve Instagram hesapları Kava kültürünü dünya çapında yayar. Gelenek ve modernite arasındaki bağlantı, yeni kültürel kimlik biçimleri yaratır.",
+      "location": "Pasifik / Küresel",
+      "links": [
+        {
+          "label": "Kültür & Gelenek",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Genel Bakış",
+    "events": "Etkinlikler",
+    "epochs": "Dönemler",
+    "yearsOfHistory": "Tarih Yılları",
+    "milestones": "Dönüm Noktaları",
+    "keyMilestones": "Ana Dönüm Noktaları",
+    "relatedPages": "İlgili Sayfalar",
+    "noEventsFound": "Bu filtreler için etkinlik bulunamadı.",
+    "resetFilters": "Filtreleri Sıfırla",
+    "bce": "M.Ö.",
+    "origins": "Kökenler",
+    "spreadPacific": "Pasifik'te Yayılma",
+    "modernHistory": "Modern Tarih",
+    "interactiveMap": "Etkileşimli Dünya Haritası"
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "İlaçlarla Etkileşimler",
+    "subtitle": "Kavalaktonlar önemli karaciğer enzimlerini inhibe eder: CYP450 etkileşimleri ve güvenli kombinasyonlar hakkında bilmeniz gerekenler.",
+    "category": "Güvenlik",
+    "breadcrumbs": {
+      "home": "Ana Sayfa",
+      "sicherheit": "Güvenlik",
+      "current": "Etkileşimler"
+    }
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "zusammenfassung": "Özet",
+    "cyp450": "CYP450 Sistemi",
+    "welcheEnzyme": "Etkilenen Enzimler",
+    "klinischeBedeutung": "Klinik Önemi",
+    "hochrisiko": "Yüksek Riskli Kombinasyonlar",
+    "alkohol": "Alkol",
+    "benzodiazepine": "Benzodiazepinler & Uyku İlaçları",
+    "antipsychotika": "Antipsikotikler",
+    "antikoagulantien": "Antikoagülanlar",
+    "moderatesRisiko": "Orta Risk",
+    "antidepressiva": "Antidepresanlar",
+    "antikonvulsiva": "Antikonvülsanlar",
+    "parkinson": "Parkinson İlaçları",
+    "hepatotoxisch": "Hepatotoksik İlaçlar",
+    "tabelle": "Etkileşim Tablosu",
+    "empfehlungen": "Pratik Öneriler",
+    "quellen": "Kaynaklar"
+  },
+  "navigation": {
+    "continueTitle": "Güvenlik Bölümünde Devam Et",
+    "items": [
+      {
+        "title": "Genel Bakış",
+        "href": "/de/sicherheit",
+        "description": "Güvenlik Genel Bakışına Dön"
+      },
+      {
+        "title": "Karaciğer Güvenliği",
+        "href": "/de/sicherheit/leber",
+        "description": "Hepatotoksisite & 2002 Yasağı"
+      },
+      {
+        "title": "Kontrendikasyonlar",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Kava'nın ne zaman kaçınılması gerektiği"
+      },
+      {
+        "title": "Etkileşim Kontrolü",
+        "href": "/de/sicherheit/checker",
+        "description": "İlaçlarınızı Kontrol Edin"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Önemli Uyarı",
+    "intro": "Kava, <strong>sitokrom P450 enzimlerini inhibe ederek yüksek ilaç etkileşimi potansiyeline</strong> sahiptir. Kava'yı asla şu maddelerle birleştirmeyin:",
+    "items": [
+      {
+        "name": "Alkol",
+        "text": "Artan sedasyon ve karaciğer toksisitesi"
+      },
+      {
+        "name": "Benzodiazepinler",
+        "text": "Solunum depresyonu riski"
+      },
+      {
+        "name": "Antipsikotikler",
+        "text": "Artan sedasyon, hareket bozuklukları"
+      },
+      {
+        "name": "Antikoagülanlar",
+        "text": "Kanama riski"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "Sitokrom P450 Sistemi",
+    "intro": "Sitokrom P450 sistemi (CYP450), karaciğerdeki çoğu ilacın metabolizmasından sorumlu bir enzim ailesidir. Bir madde bu enzimleri inhibe ettiğinde, diğer maddelerin metabolizması yavaşlar – bu, etkilerinin ve yan etkilerinin artmasına neden olabilir.",
+    "importance": {
+      "title": "Bu neden önemlidir?",
+      "text": "Yaklaşık <strong>yüzde 70-80 tüm ilaçlar</strong> CYP450 enzimleri aracılığıyla metabolize edilir. Kava bu enzimleri inhibe ettiğinde, diğer ilaçların kan içindeki konsantrasyonu artabilir – bazen tehlikeli seviyelere kadar. Bu, küçük doz değişikliklerinin büyük etkiler yarattığı <strong>darı terapötik pencere</strong> olan ilaçlar için özellikle geçerlidir."
+    }
+  },
+  "enzyme": {
+    "title": "Hangi enzimler inhibe ediliyor?",
+    "intro": "Mathews ve ark. (2002) ve diğer araştırmacıların çalışmaları, kavalaktonların birkaç önemli CYP450 enzimini inhibe ettiğini göstermiştir:",
+    "headers": [
+      "Enzim",
+      "İnhibe Gücü",
+      "Önemli Substratlar (Örnekler)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Güçlü",
+        "substrates": "Kafein, Teofilin, Klozapin, Olanzapin"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Güçlü",
+        "substrates": "Warfarin, Fenitoin, NSAID'ler (İbuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Orta",
+        "substrates": "Omeprazol, Diazepam, Klopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Orta",
+        "substrates": "Kodein, Tramadol, birçok antidepresan"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Güçlü",
+        "substrates": "Benzodiazepinler, Statinler, birçok antibiyotik"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Klinik Önemi",
+    "text": "Russmann ve ark. (2005) tarafından yapılan bir çalışma, geleneksel sulu kava özlerinin insanlarda CYP1A2'yi inhibe ettiğini göstermiştir. İnhibisyon doz bağımlıydı ve klinik olarak anlamlıydı. Bu, geleneksel olarak hazırlanmış kava'nın bile etkileşimlere neden olabileceği anlamına gelir.",
+    "positive": {
+      "title": "Pozitif Yan Etki?",
+      "text": "CYP1A2 inhibisyonu teorik olarak bu enzim aracılığıyla aktive olan belirli çevresel kanserojenlere karşı koruyucu bir etki sağlayabilir. Bu, Pasifik topluluklarının yüksek kava tüketimine rağmen düşük kanser oranlarına sahip olmasının nedenini açıklayabilir."
+    }
+  },
+  "hochrisiko": {
+    "title": "Yüksek Riskli Kombinasyonlar",
+    "intro": "Aşağıdaki kombinasyonlar <strong>her durumda kaçınılmalıdır</strong>. Ciddi, potansiyel olarak hayatı tehdit eden yan etkilere yol açabilir."
+  },
+  "alkohol": {
+    "title": "Alkol",
+    "risk": "ÇOK YÜKSEK",
+    "intro": "Kava ve alkol kombinasyonu birkaç nedenle özellikle tehlikelidir:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Sinerjik Sedasyon",
+        "text": "Her iki madde de merkezi sinir sistemine sedatif etki yapar. Kombine etki, bireysel etkilerin toplamından daha güçlüdür."
+      },
+      {
+        "number": "2.",
+        "label": "Additif Hepatotoksisite",
+        "text": "Her iki madde de karaciğerde metabolize edilir ve bu durumu zorlayabilir. Kombinasyon, karaciğer hasarı riskini önemli ölçüde artırır."
+      },
+      {
+        "number": "3.",
+        "label": "CYP Etkileşimi",
+        "text": "Alkol de CYP enzimlerini etkiler, bu da öngörülemeyen etkileşimlere yol açabilir."
+      }
+    ],
+    "recommendation": "Öneri: Alkol ve kava tüketimi arasında en az 24 saat ara verin."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepinler & Uyku İlaçları",
+    "risk": "ÇOK YÜKSEK",
+    "intro": "Benzodiazepinler (Diazepam, Lorazepam, Alprazolam vb.) ve Z maddeleri (Zolpidem, Zopiclon) asla kava ile birleştirilmemelidir:",
+    "points": [
+      {
+        "label": "Artan Sedasyon",
+        "text": "Her ikisi de GABA reseptörleri üzerinde etki gösterir ve birbirlerini artırır."
+      },
+      {
+        "label": "Solunum Depresyonu",
+        "text": "Kombinasyon, solunumu tehlikeli bir şekilde yavaşlatabilir."
+      },
+      {
+        "label": "CYP3A4 İnhibisyonu",
+        "text": "Kava, benzodiazepinlerin metabolizmasını yavaşlatarak etkilerini uzatır."
+      }
+    ],
+    "caseReportLabel": "Vaka Raporu:",
+    "caseReport": "Almeida & Grimsley (1996), kava ile alprazolam kombinasyonu sonrası 54 yaşındaki bir erkeğin yarı komatöz bir duruma girdiğini bildirmiştir."
+  },
+  "antipsychotika": {
+    "title": "Antipsikotikler",
+    "risk": "YÜKSEK",
+    "intro": "Haloperidol, Risperidon, Olanzapin ve Klozapin gibi antipsikotikler:",
+    "points": [
+      {
+        "label": "Artan Sedasyon",
+        "text": "Additif merkezi sinir sistemi baskılayıcı etkisi"
+      },
+      {
+        "label": "Ekstrapiramidal Semptomlar",
+        "text": "Hareket bozukluğu riski artmıştır."
+      },
+      {
+        "label": "CYP1A2/CYP2D6 İnhibisyonu",
+        "text": "Metabolizma yavaşlar, kan seviyeleri artar."
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Antikoagülanlar (Kan Sulandırıcılar)",
+    "risk": "YÜKSEK",
+    "intro": "Warfarin ve diğer Vitamin K antagonisti ilaçlar:",
+    "points": [
+      {
+        "label": "CYP2C9 İnhibisyonu",
+        "text": "Kava, warfarin metabolizmasını inhibe eden enzimi etkiler."
+      },
+      {
+        "label": "Artan INR",
+        "text": "Kanama eğilimi artar."
+      },
+      {
+        "label": "Kanama Riski",
+        "text": "Tehlikeli iç kanamalara yol açabilir."
+      }
+    ],
+    "recommendation": "Antikoagülan kullanıyorsanız, kava kontrendikedir."
+  },
+  "moderatesRisiko": {
+    "title": "Orta Riskli Kombinasyonlar",
+    "intro": "Aşağıdaki kombinasyonlar dikkat gerektirir ve yalnızca bir doktorla danışarak yapılmalıdır. Doz ayarlaması gerekebilir."
+  },
+  "antidepressiva": {
+    "title": "Antidepresanlar",
+    "risk": "ORTA",
+    "ssri": {
+      "title": "SSRI'lar (Fluoksetin, Sertralin, Paroksetin vb.):",
+      "items": [
+        "CYP2D6 inhibisyonu metabolizmayı yavaşlatabilir.",
+        "Teorik olarak serotonin sendromu riski (düşük).",
+        "Artan sedasyon mümkün."
+      ]
+    },
+    "snri": {
+      "title": "SNRİ'ler (Venlafaksin, Duloksetin):",
+      "items": [
+        "SSRI'lar ile benzer etkileşimler.",
+        "CYP2D6 inhibisyonu venlafaksin için önemlidir."
+      ]
+    },
+    "mao": {
+      "title": "MAO İnhibitörleri:",
+      "items": [
+        "Kava MAO-B'yi (zayıf) inhibe eder.",
+        "Teorik risk, ancak klinik olarak az belgelenmiştir.",
+        "Tersine etki gösteren MAO inhibitörlerinde dikkatli olun."
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Antikonvülsanlar (Antiepileptikler)",
+    "risk": "ORTA",
+    "intro": "Fenitoin, Karbamazepin, Valproat ve diğer antikonvülsanlar:",
+    "points": [
+      {
+        "label": "CYP Etkileşimleri",
+        "text": "Kan seviyelerinde değişiklikler olabilir."
+      },
+      {
+        "label": "Artan Sedasyon",
+        "text": "Additif merkezi sinir sistemi etkisi."
+      },
+      {
+        "label": "Nöbet Kontrolü",
+        "text": "Bozulabilir."
+      }
+    ],
+    "note": "Epilepsi durumunda kava yalnızca doktor gözetiminde kullanılmalıdır."
+  },
+  "parkinson": {
+    "title": "Parkinson İlaçları",
+    "risk": "ORTA ile YÜKSEK",
+    "intro": "Levodopa ve Dopamin Agonistleri:",
+    "points": [
+      {
+        "label": "Dopamin Antagonizması",
+        "text": "Kava, levodopa'nın etkisini azaltabilir."
+      },
+      {
+        "label": "Vaka Raporu",
+        "text": "Kava altında Parkinson semptomlarının kötüleştiği belgelenmiştir."
+      }
+    ],
+    "recommendation": "Parkinson hastalığında kava kontrendikedir."
+  },
+  "hepatotoxisch": {
+    "title": "Hepatotoksik İlaçlar",
+    "risk": "ORTA",
+    "intro": "Bilinen hepatotoksik potansiyele sahip ilaçlar:",
+    "items": [
+      {
+        "name": "Parasetamol/Asitaminofen",
+        "text": "Özellikle yüksek dozlarda sorunlu."
+      },
+      {
+        "name": "Statinler",
+        "text": "Atorvastatin, Simvastatin vb. (CYP3A4 substratları)"
+      },
+      {
+        "name": "Metotreksat",
+        "text": "Karaciğer toksisitesi olan immünsüpresif."
+      },
+      {
+        "name": "İsoniazid",
+        "text": "Verem ilacı."
+      }
+    ],
+    "note": "Hepatotoksik ilaçlarla kombinasyon karaciğer hasarı riskini artırır."
+  },
+  "tabelle": {
+    "title": "Etkileşimlerin Genel Tablosu",
+    "headers": [
+      "Maddenin Sınıfı",
+      "Örnekler",
+      "Risk",
+      "Mekanizma"
+    ],
+    "rows": [
+      {
+        "class": "Alkol",
+        "examples": "Ethanol",
+        "risk": "ÇOK YÜKSEK",
+        "mechanism": "Sinerjik sedasyon, hepatotoksisite"
+      },
+      {
+        "class": "Benzodiazepinler",
+        "examples": "Diazepam, Lorazepam, Alprazolam",
+        "risk": "ÇOK YÜKSEK",
+        "mechanism": "GABA artırımı, CYP3A4 inhibisyonu"
+      },
+      {
+        "class": "Antipsikotikler",
+        "examples": "Haloperidol, Olanzapin, Klozapin",
+        "risk": "YÜKSEK",
+        "mechanism": "CYP1A2/2D6 inhibisyonu, sedasyon"
+      },
+      {
+        "class": "Antikoagülanlar",
+        "examples": "Warfarin, Fenprocoumon",
+        "risk": "YÜKSEK",
+        "mechanism": "CYP2C9 inhibisyonu, kanama riski"
+      },
+      {
+        "class": "SSRI'lar",
+        "examples": "Fluoksetin, Sertralin, Paroksetin",
+        "risk": "ORTA",
+        "mechanism": "CYP2D6 inhibisyonu"
+      },
+      {
+        "class": "Antikonvülsanlar",
+        "examples": "Fenitoin, Karbamazepin",
+        "risk": "ORTA",
+        "mechanism": "CYP etkileşimleri, sedasyon"
+      },
+      {
+        "class": "Parkinson İlaçları",
+        "examples": "Levodopa, Dopamin Agonistleri",
+        "risk": "ORTA",
+        "mechanism": "Dopamin antagonizması"
+      },
+      {
+        "class": "Statinler",
+        "examples": "Atorvastatin, Simvastatin",
+        "risk": "ORTA",
+        "mechanism": "CYP3A4 inhibisyonu, hepatotoksisite"
+      },
+      {
+        "class": "Opioidler",
+        "examples": "Kodein, Tramadol, Morfin",
+        "risk": "ORTA",
+        "mechanism": "CYP2D6 inhibisyonu, sedasyon"
+      },
+      {
+        "class": "Kafein",
+        "examples": "Kahve, Enerji İçecekleri",
+        "risk": "DÜŞÜK",
+        "mechanism": "CYP1A2 inhibisyonu (uzatılmış etki)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Pratik Öneriler",
+    "checklistTitle": "Kava Tüketmeden Önce Kontrol Listesi",
+    "items": [
+      {
+        "number": "1.",
+        "label": "İlaç Listesini Kontrol Edin",
+        "text": "Tüm mevcut ilaçları etkileşimler açısından kontrol edin."
+      },
+      {
+        "number": "2.",
+        "label": "Doktorla Danışın",
+        "text": "Düzenli ilaç kullanıyorsanız, kava tüketmeden önce doktor tavsiyesi alın."
+      },
+      {
+        "number": "3.",
+        "label": "Alkolden Kaçının",
+        "text": "Kava tüketiminden en az 24 saat önce ve sonra alkol almayın."
+      },
+      {
+        "number": "4.",
+        "label": "Düşük Dozda Başlayın",
+        "text": "Eş zamanlı ilaç kullanıyorsanız, daha düşük bir kava dozu ile başlayın."
+      },
+      {
+        "number": "5.",
+        "label": "Semptomları İzleyin",
+        "text": "Alışılmadık yorgunluk, baş dönmesi veya diğer semptomlara dikkat edin."
+      }
+    ],
+    "professionalNote": {
+      "title": "Doktorlar ve Eczacılar için Not",
+      "text": "Kava tüketen hastalarda ilaçların CYP450 substratları açısından gözden geçirilmesi gerekmektedir. Dar terapötik pencereye sahip ilaçlarda özel dikkat gösterilmelidir. Doz ayarlaması gerekebilir."
+    }
+  },
+  "quellen": {
+    "title": "Kaynaklar",
+    "items": [
+      {
+        "author": "Mathews J.M. ve ark. (2002):",
+        "title": "Kava Ekstresi ve Kavalaktonlar Tarafından İnsan Sitokrom P450 Aktivitelerinin İnhibisyonu.",
+        "source": "İlaç Metabolizması ve Dağılımı."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Kava ile Farmakokinetik ve Farmakodinamik İlaç Etkileşimleri.",
+        "source": "Etnofarmakoloji Dergisi."
+      },
+      {
+        "author": "Russmann S. ve ark. (2005):",
+        "title": "Geleneksel Sulu Kava Ekstraktları İnsanlarda Sitokrom P450 1A2'yi İnhibe Eder.",
+        "source": "Klinik Farmakoloji & Terapötikler."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Kava ve St. John's Wort'un İlaçlarla Etkileşim Potansiyeli.",
+        "source": "Etnofarmakoloji Dergisi."
+      },
+      {
+        "author": "Unger M. ve ark. (2002):",
+        "title": "Piper methysticum'un Ekstraktları ve Kavalaktonları Tarafından Sitokrom P450 3A4'ün İnhibisyonu.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "Tüm alıntılanan çalışmaların tam listesini",
+    "studiesLink": "Çalışmalar Sayfasında bulabilirsiniz."
+  }
+}

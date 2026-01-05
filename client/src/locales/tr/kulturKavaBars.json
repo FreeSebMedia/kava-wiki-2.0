@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava-Bar Bulucu",
+    "description": "Dünya genelinde Kava-Bar'ları bul – Florida'dan Yeni Zelanda'ya. Adresler, değerlendirmeler ve açılış saatleri ile."
+  },
+  "breadcrumb": {
+    "home": "Ana Sayfa",
+    "kultur": "Kültür",
+    "current": "Kava-Bar Bulucu"
+  },
+  "viewToggle": {
+    "list": "Liste",
+    "map": "Harita"
+  },
+  "search": {
+    "placeholder": "İsim, şehir veya ülke ile ara...",
+    "resultsCount": "Kava-Bar(lar) bulundu",
+    "resultSingular": "Kava-Bar bulundu",
+    "resultPlural": "Kava-Bar'lar bulundu"
+  },
+  "filter": {
+    "button": "Filtre",
+    "country": "Ülke",
+    "allCountries": "Tüm Ülkeler",
+    "region": "Bölge/Eyalet",
+    "allRegions": "Tüm Bölgeler",
+    "minRating": "Minimum Değerlendirme",
+    "allRatings": "Tüm Değerlendirmeler",
+    "rating4Plus": "4+ Yıldız",
+    "rating45Plus": "4.5+ Yıldız",
+    "clearFilters": "Filtreleri sıfırla",
+    "features": "Özellikler"
+  },
+  "featureLabels": {
+    "wifi": "WLAN",
+    "outdoor": "Açık Alan",
+    "food": "Yiyecekler",
+    "live-music": "Canlı Müzik",
+    "events": "Etkinlikler",
+    "traditional": "Geleneksel Hazırlama",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Oyunlar",
+    "parking": "Otopark",
+    "accessible": "Erişilebilir",
+    "late-night": "Gece Açık"
+  },
+  "countryNames": {
+    "US": "ABD",
+    "AU": "Avustralya",
+    "NZ": "Yeni Zelanda",
+    "DE": "Almanya",
+    "UK": "Birleşik Krallık",
+    "CA": "Kanada"
+  },
+  "bar": {
+    "verified": "Doğrulanmış",
+    "address": "Adres",
+    "hours": "Açılış Saatleri",
+    "specialties": "Uzmanlıklar",
+    "features": "Özellikler",
+    "reviews": "Değerlendirmeler",
+    "call": "Ara",
+    "website": "Web Sitesi",
+    "route": "Rota",
+    "routePlan": "Rota Planla",
+    "backToList": "Listeye Dön"
+  },
+  "empty": {
+    "title": "Hiç Kava-Bar bulunamadı",
+    "description": "Başka arama terimleri veya filtreler deneyin.",
+    "resetButton": "Filtreleri sıfırla"
+  },
+  "stats": {
+    "title": "Kava-Bar İstatistikleri",
+    "bars": "Kava-Bar'lar",
+    "countries": "Ülkeler",
+    "inUSA": "ABD'de",
+    "verified": "Doğrulanmış"
+  },
+  "cta": {
+    "title": "Bir Kava-Bar biliyor musun?",
+    "description": "Veritabanını genişletmemize yardımcı ol! Burada listelenmeyen bir Kava-Bar biliyorsan, bize bildir.",
+    "button": "Kava-Bar öner"
+  },
+  "related": {
+    "title": "İlgili Sayfalar",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bar'lar",
+      "subtitle": "Kava İçme Kültürünün Tarihi"
+    },
+    "moderne": {
+      "title": "Modern Kava Kültürü",
+      "subtitle": "Bugünkü Küresel Yayılım"
+    },
+    "weltkarte": {
+      "title": "Etkileşimli Dünya Haritası",
+      "subtitle": "Kava Bölgelerini Keşfet"
+    }
+  },
+  "navigation": {
+    "nakamal": "/tr/kultur/nakamal",
+    "moderne": "/tr/kultur/moderne",
+    "weltkarte": "/tr/kultur/weltkarte",
+    "kontakt": "/tr/iletisim"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "Florida'daki en tanınmış Kava-Bar zincirlerinden biri, otantik atmosferi ve Vanuatu ile Fiji'den yüksek kaliteli Kava çeşitleri ile.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Kava Smoothies"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra, Vanuatu Adası'ndan en kaliteli Kava kullanıyor. Binlerce yıldır törenlerde kullanılıyor.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Kava Flights"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Rahat bir atmosferde geleneksel olarak hazırlanmış Kava çeşitleri sunan yerel bir Kava-Bar.",
+      "specialties": [
+        "Geleneksel Kava",
+        "Kratom Çayları"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Las Olas'ın kalbinde, Pasifik esintisiyle premium Kava-Bar ve geniş bir Noble Kava çeşitleri yelpazesi.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Tongan Kava",
+        "Kava Flights"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "Madeira Beach'in ilk Kava-Bar'ı! Pinellas'taki ilk Kava-Bar'ın sahibi tarafından.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "En iyi Fijian Kava, nargile, Kratom ve Kava-Komedi Pazartesi'si ile rahat bir Kava-Lounge.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Komedi Geceleri"
+      ]
+    },
+    "roots-miami": {
+      "description": "Wynwood'da sanatsal bir atmosferde kentsel bir Kava-Bar, düzenli canlı müzik etkinlikleri ile.",
+      "specialties": [
+        "House Blend",
+        "Kava Kokteylleri",
+        "Kratom Çayları"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Miami'de çağdaş bir Kava-Bar, lounge ve perakende noktası.",
+      "specialties": [
+        "Botanik Karışımlar",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Kava Culture franchise zincirinin merkezi, en geniş Kava çeşitleri yelpazesine sahip.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Kava Kokteylleri",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Bonita Springs'te modern, şık kapalı/açık Kava-Bar.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Clearwater'da 14-17 saatleri arasında Happy Hour sunan rahat bir Kava-Bar.",
+      "specialties": [
+        "Happy Hour Özel Teklifleri",
+        "Kava Shot'ları"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Fort Myers şehir merkezindeki Kava Culture, açık mikrofon geceleri, sanat ve lezzetli Kava kokteylleri ile.",
+      "specialties": [
+        "Açık Mikrofon Geceleri",
+        "Sanat Etkinlikleri"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Orlando şehir merkezinde rahat bir atmosferde Kava Culture.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kratom Karışımları"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB, Buddha Blends Vegan Mutfağı ile. Açık plaj barı, bilardo masası, dart, açık mikrofon.",
+      "specialties": [
+        "Plaj Vibes",
+        "Vegan Yiyecek",
+        "Canlı Müzik"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Key West'teki Kava Culture - tropikal atmosfer ve premium Kava.",
+      "specialties": [
+        "Ada Karışımı",
+        "Tropikal Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Tampa şehir merkezindeki Kava Culture, kentsel bir atmosfer sunuyor.",
+      "specialties": [
+        "Kentsel Karışım",
+        "Kava Shot'ları"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "South Tampa'daki Kava Culture, rahat bir mahalle atmosferi sunuyor.",
+      "specialties": [
+        "Mahalle Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Naples'teki Kava Culture, şık bir atmosfer sunuyor.",
+      "specialties": [
+        "Premium Seçim",
+        "Kava Flights"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte, plaj havası, kanalda açık plaj.",
+      "specialties": [
+        "Plaj Vibes",
+        "Kanal Manzaraları"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Estero'daki Kava Culture, rahat bir konumda.",
+      "specialties": [
+        "Rahat Konum",
+        "Kaliteli Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Lake Mary'deki Kava Culture - rahat bir atmosfer.",
+      "specialties": [
+        "Rahat Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze, Tallahassee'de Kava, çay ve rahatlamak için bir yer sunan bir Kava-Bar.",
+      "specialties": [
+        "Öğrenci Özel Teklifleri",
+        "Rahat Vibes"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Downtown Melbourne FL Island Root Kava Bar.",
+      "specialties": [
+        "Geleneksel Kava",
+        "Topluluk Etkinlikleri"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge, kahve, çay, Kava, Kratom ve nargile ile Kava-Java-Nargile-Lounge.",
+      "specialties": [
+        "Nargile",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Aile tarafından işletilen, maksimum refah için tüm organik botanikler ve çaylar.",
+      "specialties": [
+        "Organik Botanikler",
+        "Wellness Çayları"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors, Kava ve Kratom ile yerel bir vape dükkanı ve lounge.",
+      "specialties": [
+        "Vape Ürünleri",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge, yaratıcı ve huzurlu zihinler için bir buluşma noktası.",
+      "specialties": [
+        "Yaratıcı Topluluk",
+        "Canlı Müzik"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Kava ve Kratom ile etnobotanik çay-bar.",
+      "specialties": [
+        "Etnobotanikler",
+        "Çay Karışımları"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Turnpike üzerinde Kava, Vapor ve eHookah. Rahatla, dinlen ve keyfini çıkar!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula, rahat bir plaj atmosferinde premium Kava sunuyor.",
+      "specialties": [
+        "Plaj Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava, çay ve topluluk etkinlikleri ile sosyal bir buluşma noktasıdır.",
+      "specialties": [
+        "Sosyal Etkinlikler",
+        "Kava",
+        "Çay"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava, üniversite şehri Gainesville için otantik Kava sunuyor.",
+      "specialties": [
+        "Üniversite Vibes",
+        "Premium Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Jacksonville'deki Peaceful Warrior Kava Bar, wellness ve rahatlamaya odaklanıyor.",
+      "specialties": [
+        "Wellness",
+        "Geleneksel Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe, Kava ve ruhsal bir topluluk atmosferi sunuyor.",
+      "specialties": [
+        "Ruhsal Topluluk",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "Pensacola'daki The Kava Tap - Kava'nın musluktan sunulduğu rahat bir bar atmosferi.",
+      "specialties": [
+        "Musluk Kava",
+        "Bar Vibes"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala, Florida'nın merkezi için premium Kava sunuyor.",
+      "specialties": [
+        "Merkezi Florida",
+        "Premium Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe Orlando, merkezi Florida'ya Pasifik Vibes getiriyor.",
+      "specialties": [
+        "Pasifik Vibes",
+        "Premium Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Phoenix'teki Purple Lotus Kava Bar - Arizona'nın birinci Kava destinasyonu.",
+      "specialties": [
+        "Arizona'nın İlk",
+        "Premium Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Arizona'nın Tempe şehrindeki Kava Culture - ASU öğrencileri için ideal.",
+      "specialties": [
+        "Öğrenci Dostu",
+        "Premium Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "Tucson'daki The Root, otantik Kava ve Kratom sunuyor.",
+      "specialties": [
+        "Otantik Kava",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "San Diego'daki Bula Kava House, rahat bir plaj atmosferi sunuyor.",
+      "specialties": [
+        "Plaj Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "San Francisco'daki Kava Roots - Bay Area'nın ilk Kava-Bar'ı.",
+      "specialties": [
+        "Bay Area İlk",
+        "Premium Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava Los Angeles, Hollywood'a premium Kava getiriyor.",
+      "specialties": [
+        "Hollywood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Alkolsüz, her yaştan misafire açık, bitkisel bir lounge, eliksirler, egzotik ürünler ve çiğ gıda ile.",
+      "specialties": [
+        "Bitkisel Eliksirler",
+        "Çiğ Gıda",
+        "Her Yaş"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "Eğlenceli ve sosyal bir atmosferde en iyi geleneksel Kava'yı sunar. Chill-spot için en yenilikçi fikir!",
+      "specialties": [
+        "Geleneksel Hazırlama",
+        "Kava Eğitimi"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Güney Oregon'un kalbinde eczane, çay bahçesi, sanat galerisi ve müzik etkinlikleri yeri! Kava, Big Island Hawaii'den ithal edilmektedir.",
+      "specialties": [
+        "Kava Kombucha",
+        "Sanat Galerisi",
+        "Müzik Mekanı"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "Austin'in popüler Kava-Bar'ı, rahat bir atmosfer, oyunlar ve topluluk etkinlikleri ile.",
+      "specialties": [
+        "Kava Flights",
+        "Kratom Karışımları",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture, Lewisville, Texas'ta.",
+      "specialties": [
+        "Premium Kava",
+        "Texas Vibes"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture, North Fort Worth'ta.",
+      "specialties": [
+        "Premium Kava",
+        "Rahat Konum"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - ŞU AN AÇIK Ohio'da.",
+      "specialties": [
+        "Premium Kava",
+        "Orta Batı Vibes"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture, Toledo, Ohio'da.",
+      "specialties": [
+        "Premium Kava",
+        "Ohio Lokasyonu"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "Salt Lake City'nin ilk Kava-Bar'ı, premium Kava çeşitleri ve davetkar bir topluluk sunuyor.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Törenleri"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Kava, Güney Pasifik'ten bir köktür. Rahatlamak ve sakinleşmek için seremoniyel bir içecek olarak kullanılır.",
+      "specialties": [
+        "NYC Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra, Amerika'nın en iyi Kava-Bar'ı, premium Kava ve diğer bitkiler ile.",
+      "specialties": [
+        "Premium Kava",
+        "Bitkisel Karışımlar"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia, Kava ile infüze içecekler ve çiğ tatlılar ile bonsai bitkilerine özel bir Kava-Bar.",
+      "specialties": [
+        "Çiğ Tatlılar",
+        "Bonsai Bitkileri",
+        "Kava İçecekleri"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Tam bir bitki ve Kava ürünleri yelpazesi, meyve suyu barı, tütün, nargile, vape ürünleri - hepsi tek bir çatı altında.",
+      "specialties": [
+        "Bitkisel Ürünler",
+        "Meyve Suyu Barı"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "Missouri'deki ilk Kava-Bar! Gelin ve ne olduğunu görün. Haftanın 7 günü açık.",
+      "specialties": [
+        "Missouri'nin İlk",
+        "Geleneksel Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar, Carrboro, Kuzey Carolina'da.",
+      "specialties": [
+        "Premium Kava",
+        "Üniversite Şehri Vibes"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar, Wilmington, Kuzey Carolina'da.",
+      "specialties": [
+        "Kıyı Vibes",
+        "Premium Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision, Kava ve Kratom gibi spesiyaliteler sunan benzersiz bir ortak çalışma alanı ve kafe.",
+      "specialties": [
+        "Ortak Çalışma Alanı",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Sağlıklı bir beden için sağlıklı gıda ve Kava! Alaska'nın Kava destinasyonu.",
+      "specialties": [
+        "Acai Kaseleri",
+        "Smoothie'ler",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture, Spartanburg, Güney Carolina'da.",
+      "specialties": [
+        "Premium Kava",
+        "Güney Misafirperverliği"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "Avustralya'nın ilk özel Kava-Lounge'u, otantik Fijian Kava ve Pasifik misafirperverliği ile.",
+      "specialties": [
+        "Fiji Waka",
+        "Vanuatu Kava",
+        "Geleneksel Tören"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Melbourne'un Kava-Bar'ı, Pasifik Market'te Kava ve Kratom çeşitleri ile.",
+      "specialties": [
+        "Fiji Kava",
+        "Tongan Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "Brisbane'ın otantik Kava-Bar'ı, Fijian dekor ve geleneksel hazırlama ile.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Törenleri"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "Auckland'ın özel Kava-Lounge'u, Victoria Park Market'te sıcak, davetkar bir topluluk ve Pasifik'ten Noble Kava çeşitleri ile.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Waka",
+        "Vanuatu Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Güney Auckland'da uygun fiyatlı ve geniş bir Kava tozu yelpazesi sunan otantik Kava-Bar.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Kava",
+        "Kava Tozu Satışı"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "Berlin'in ilk Kava-Lounge'u, Kreuzberg'de rahat bir atmosfer ve düzenli Kava törenleri ile.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Törenleri"
+      ]
+    },
+    "kava-club-london": {
+      "description": "Londra'nın ilk Kava-Kulübü, Shoreditch'te kentsel bir atmosfer ve premium Kava çeşitleri ile.",
+      "specialties": [
+        "Fiji Premium",
+        "Kava Kokteylleri"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Vancouver'ın samimi Kava-Kafesi, Kava ve sağlıklı yiyecek çeşitleri ile.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Smoothie Kaseleri"
+      ]
+    }
+  }
+}

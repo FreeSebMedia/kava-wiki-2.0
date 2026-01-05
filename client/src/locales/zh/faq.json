@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "常见问题解答 – 关于卡瓦的所有信息",
+    "badge": "常见问题",
+    "description": "关于卡瓦的常见问题的答案 – 从作用和剂量到安全性和合法性。科学依据，通俗易懂。"
+  },
+  "ui": {
+    "searchPlaceholder": "搜索问题...",
+    "categories": "类别",
+    "all": "所有",
+    "results": "结果",
+    "clearFilters": "重置筛选",
+    "noResults": "未找到结果",
+    "noResultsHint": "尝试其他搜索词或选择其他类别。",
+    "showAll": "显示所有问题",
+    "relatedArticles": "相关文章：",
+    "questionNotAnswered": "你的问题不在其中？",
+    "contactHint": "联系我们，我们很乐意为您提供帮助。我们会根据您的问题定期更新常见问题解答。",
+    "getInTouch": "联系",
+    "viewGlossary": "查看词汇表"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "基础知识",
+      "description": "关于卡瓦的基本信息、来源和植物学"
+    },
+    "wirkung": {
+      "name": "作用与效果",
+      "description": "卡瓦的作用、作用持续时间和体验报告"
+    },
+    "sicherheit": {
+      "name": "安全性与副作用",
+      "description": "副作用、风险和相互作用"
+    },
+    "dosierung": {
+      "name": "剂量与服用",
+      "description": "推荐剂量和不同的服用方式"
+    },
+    "zubereitung": {
+      "name": "制备",
+      "description": "传统与现代的制备方法"
+    },
+    "kauf": {
+      "name": "购买与合法性",
+      "description": "来源和德国及欧盟的法律情况"
+    },
+    "vergleiche": {
+      "name": "比较",
+      "description": "卡瓦与其他补充剂的比较"
+    },
+    "kultur": {
+      "name": "文化与传统",
+      "description": "仪式、传统和文化意义"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "什么是卡瓦（Kava-Kava）？",
+      "answer": "卡瓦（Piper methysticum）是一种来自胡椒科（Piperaceae）的植物，已有超过3000年的栽培历史，主要分布在太平洋地区。这个名字的意思是“醉人的胡椒”。植物的根部含有卡瓦内酯（Kavalactone）——具有放松、抗焦虑和提升情绪特性的生物活性化合物。卡瓦传统上被制成饮料，在瓦努阿图、斐济、汤加、萨摩亚和夏威夷的文化中占据着核心地位。",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "Piper methysticum 的植物学"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "卡瓦的历史"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Piper methysticum 是什么意思？",
+      "answer": "Piper methysticum 是卡瓦植物的科学（拉丁）名称。“Piper”意为胡椒，指的是胡椒科植物。“Methysticum”源自希腊词“methystikos”，意为“醉人”或“使人醉”。这个名字是由约翰·乔治·福斯特（Johann Georg Forster）在1777年赋予的，他在詹姆斯·库克的第二次环球航行中对这植物进行了科学描述。",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "卡瓦植物"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "卡瓦最初来自哪里？",
+      "answer": "卡瓦最初来自西太平洋，瓦努阿图被认为是其发源地。那里有超过80种不同的品种，基因多样性最大。大约3000年前，卡瓦从野生种Piper wichmannii驯化，并通过波利尼西亚航海者作为“独木舟植物”传播到整个太平洋——包括斐济、汤加、萨摩亚、夏威夷和波恩佩。",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "互动卡瓦世界地图"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "卡瓦的历史"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "什么是卡瓦根？",
+      "answer": "卡瓦根是用于制备饮料的植物部分。它由两个主要部分组成：根茎（也称为“块茎”或“Lewena”）——厚实的木质根茎——和侧根（“Waka”），其卡瓦内酯含量最高。一株成熟的卡瓦植物（3-5岁）可以发展出5-25公斤的根茎。只有地下部分应被使用，因为叶子和茎可能含有不良化合物。",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "卡瓦植物的形态学"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "什么是高贵卡瓦？",
+      "answer": "高贵卡瓦指的是传统上用于日常消费的卡瓦品种，具有良好的卡瓦内酯特征。它们以愉悦的效果、良好的耐受性和最小的副作用而著称。与之相对的是“Tudei”（两天）品种，它们具有更强烈、更持久且常常不愉快的效果。高贵品种如Borogu、Melomelo、Palarasul或Pouni Ono适合定期使用。购买时应始终注意“高贵”标签。",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "卡瓦品种"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "高贵与Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "卡瓦如何发挥作用？",
+      "answer": "卡瓦主要通过其卡瓦内酯与大脑中的GABA系统相互作用。其作用包括：肌肉放松、焦虑和压力减少、轻微的愉悦感和情绪提升、清醒状态下的社交能力改善，以及促进深度和恢复性的睡眠。与酒精不同，卡瓦不会影响思维清晰度。效果通常在服用后15-30分钟开始，并持续2-4小时。",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "卡瓦的作用"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "卡瓦内酯"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "卡瓦的作用持续多长时间？",
+      "answer": "卡瓦的作用持续时间因剂量、品种和个体敏感性而异。通常效果在15-30分钟后开始，并在约1-2小时后达到高峰。主要效果持续2-4小时，愉悦的放松感可能会持续更长时间。在较高剂量或较强品种下，效果可能会持续长达6小时。促进睡眠的效果可能会持续整晚。"
+    },
+    "kava-gegen-angst": {
+      "question": "卡瓦对焦虑有帮助吗？",
+      "answer": "是的，卡瓦在许多临床研究中显示出抗焦虑（抗焦虑）效果。2003年的一项Cochrane荟萃分析确认了其在焦虑障碍中的有效性。卡瓦内酯对GABA受体的作用类似于苯二氮卓类药物，但没有成瘾潜力。卡瓦可以帮助治疗广泛性焦虑障碍、社交焦虑和压力引起的紧张。重要的是：对于已诊断的焦虑障碍，应与医生讨论使用。",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "科学研究"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "卡瓦与焦虑"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "卡瓦能帮助抑郁症吗？",
+      "answer": "一些研究表明，卡瓦具有提升情绪的特性。墨尔本大学的一项研究（2013年）显示其对轻度至中度抑郁症有积极效果。其作用归因于对多巴胺和血清素受体的调节。然而，卡瓦不能替代专业的抑郁症治疗。对于已诊断的抑郁障碍，始终应咨询医生，特别是当已服用抗抑郁药时。",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "科学研究"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "卡瓦能改善睡眠吗？",
+      "answer": "是的，卡瓦可以改善睡眠质量。卡瓦内酯的放松效果有助于入睡，并促进更深、更恢复性的睡眠。与许多安眠药不同，卡瓦不会导致第二天的“宿醉”。研究表明，卡瓦在压力引起的睡眠障碍中尤其有效。为了促进睡眠，建议在睡前1-2小时服用卡瓦。含有较高DHM和DHK含量的品种（如Borogu）特别有助于睡眠。",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "卡瓦助眠"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "卡瓦有哪些副作用？",
+      "answer": "在正确使用高贵卡瓦品种的情况下，副作用很少且轻微。可能的副作用包括：嘴唇和舌头的暂时麻木（正常）、空腹服用时轻微恶心、嗜睡（特别是在较高剂量下），以及在长期过量使用时可逆的皮肤脱屑（“卡瓦皮肤病”）。重要的是使用纯根粉，并避免在服用期间饮酒。",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "卡瓦的安全性"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "副作用详细信息"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "卡瓦对肝脏有害吗？",
+      "answer": "肝脏毒性的问题很复杂。2002年德国对卡瓦的禁令是基于关于肝损伤的报告，但这些报告大多归因于低质量产品（使用叶子/茎而非根）、Tudei品种（不适合日常消费）、酒精提取物和与药物的相互作用。研究表明，传统制备的高贵卡瓦对健康成年人是安全的。然而，肝病患者应避免使用卡瓦，定期消费者应检查肝功能。",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "卡瓦与肝脏"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "高贵与Tudei卡瓦"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "卡瓦是一种毒品吗？",
+      "answer": "卡瓦不属于毒品法意义上的毒品。它是一种具有精神活性效果的传统饮料，类似于咖啡或茶。卡瓦不成瘾，不会导致耐药性，也没有滥用潜力。世界卫生组织将卡瓦列为“非成瘾性”。在大多数国家，卡瓦是合法的。其效果是轻微的放松，而不是像酒精或非法物质那样的醉酒效果。"
+    },
+    "kava-alkohol": {
+      "question": "可以将卡瓦与酒精结合吗？",
+      "answer": "不，卡瓦不应与酒精结合。两种物质都作用于GABA系统，可能会相互增强，导致过度镇静。此外，两者都通过肝脏代谢，增加负担。在传统的太平洋文化中，卡瓦被作为酒精的替代品消费，而不是与酒精一起消费。在饮酒和卡瓦消费之间至少要间隔24小时。",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "相互作用"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "如何正确剂量卡瓦？",
+      "answer": "卡瓦粉的推荐剂量为每次2-4汤匙（约15-30克），分为2-3碗。对于初学者，建议从较低剂量（1-2汤匙）开始。卡瓦内酯的单次剂量应不超过250毫克。重要的是：卡瓦的完全效果通常在连续几天的定期服用后才会显现（“反向耐受性”）。每天不应超过300毫克卡瓦内酯的长期使用。",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "卡瓦的制备"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "如何最好地服用卡瓦？",
+      "answer": "传统的方法是将其制备成饮料：将卡瓦粉揉入水中并通过筛子过滤。饮料通常在碗中（“Shells”）饮用，每次2-3碗，间隔10-15分钟。或者可以选择速溶卡瓦（简单溶于水）、胶囊或酊剂。最佳效果是在稍微空腹的状态下服用，大约在最后一餐后2-3小时。饮用后小吃可以增强效果。",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "传统制备"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "可以每天饮用卡瓦吗？",
+      "answer": "是的，在太平洋文化中，卡瓦传统上是每天消费的。对于西方使用，建议定期休息（例如，每周1-2天不饮用卡瓦）。在每天消费的情况下，剂量应保持适中，并仅使用高贵卡瓦品种。定期消费者应每年检查肝功能。重要的是：多喝水并注意健康饮食。"
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "卡瓦粉和胶囊哪个更好？",
+      "answer": "卡瓦粉提供最真实的体验和最佳效果，但需要制备。胶囊在外出时很方便，但通常含有较少的卡瓦内酯，效果较弱。速溶卡瓦是一个不错的折中选择——简单溶于水，效果良好。对于初学者，我们推荐速溶卡瓦或中磨粉。为了获得最强的效果：传统制备的粉末。胶囊适合偶尔、低剂量的使用。"
+    },
+    "kava-zubereitung": {
+      "question": "如何传统制备卡瓦？",
+      "answer": "传统制备：1）将2-4汤匙卡瓦粉放入布袋或坚果奶袋中。2）放入约500毫升温水（不要热水）的碗中。3）揉捏并挤压5-10分钟，直到水变成乳白色。4）挤压并取出袋子。5）倒入碗中迅速饮用。味道是泥土味和轻微苦味——这是正常的。一块水果作为“追味”有助于改善口感。",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "传统制备"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "速溶卡瓦"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "卡瓦的味道如何？",
+      "answer": "卡瓦有一种独特的泥土味，常被描述为“需要适应的味道”。味道略苦，带有胡椒和泥土的风味，略有辛辣。饮用后会出现嘴唇和舌头的暂时麻木——这是活性卡瓦内酯的标志。改善建议：冷饮卡瓦，与椰奶混合，或吃一块菠萝/芒果作为“追味”。随着时间的推移，人们会逐渐适应这种味道。"
+    },
+    "kava-tee": {
+      "question": "可以将卡瓦制成茶吗？",
+      "answer": "卡瓦不应像普通茶那样用沸水制备，因为高温会破坏卡瓦内酯。使用温水（约40°C）。市面上的“卡瓦茶”产品通常只含有少量卡瓦，效果不如传统制备的卡瓦粉。为了获得最佳效果，我们推荐使用中磨卡瓦粉的传统揉捏方法或高质量的速溶卡瓦。",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "制备方法"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "卡瓦在德国合法吗？",
+      "answer": "卡瓦在德国的法律情况很复杂。2002年，卡瓦作为药物被禁止，因出现肝损伤的报告。2014年，德国联邦行政法院撤销了这一禁令，因为科学依据不足。目前，卡瓦的进口和个人使用是合法的。然而，作为营养补充剂或药物的销售仍然受到限制。卡瓦可以从欧盟国家（如荷兰、英国）或直接从太平洋地区订购。",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "卡瓦的法律地位"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "在哪里可以购买卡瓦？",
+      "answer": "卡瓦可以通过多种方式获得：1）来自太平洋（瓦努阿图、斐济）的在线商店——最高质量，但交货时间较长。2）欧洲商家（英国、荷兰）——更快的交货，良好的选择。3）专门的卡瓦酒吧——用于现场消费。在德国的药店（DM、Rossmann）或药房目前没有卡瓦。购买时请注意：高贵卡瓦品种、纯根（无叶/茎）、实验室分析和来源说明。",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "卡瓦酒吧查找"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "DM或药店有卡瓦吗？",
+      "answer": "不，卡瓦目前在DM、Rossmann或德国药店都没有出售。这是由于德国的监管情况，限制了卡瓦作为营养补充剂或药物的销售。含有Piper methysticum的同类药物（高度稀释）以前在药店有售，但现在也变得稀少。要获得真正的卡瓦粉，您需要依赖专门的在线商家。"
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "卡瓦是否重新上市？",
+      "answer": "是的，卡瓦已经重新上市，尽管在德国零售市场上并不常见。自2014年禁令解除后，卡瓦可以合法进口用于个人使用。最佳的来源是来自太平洋（瓦努阿图、斐济、汤加）的专门在线商家或欧洲供应商（英国、荷兰）。近年来，质量和可用性显著改善，德国的卡瓦爱好者社区也在不断壮大。"
+    },
+    "kava-vs-ashwagandha": {
+      "question": "卡瓦与阿什瓦甘达有什么区别？",
+      "answer": "卡瓦和阿什瓦甘达都是适应原植物，但有明显不同：卡瓦作用迅速（15-30分钟）且急性放松，理想用于情境性焦虑或压力。阿什瓦甘达则是长期作用，持续数周，调节皮质醇水平。卡瓦通常制成饮料，阿什瓦甘达通常以胶囊形式服用。卡瓦具有明显的精神活性效果，而阿什瓦甘达则更微妙。两者可以结合使用，卡瓦适用于急性情况，阿什瓦甘达则适用于长期抗压。"
+    },
+    "kava-vs-baldrian": {
+      "question": "卡瓦与缬草有什么区别？",
+      "answer": "卡瓦和缬草（Valerian）都是放松的，但有不同的特征：卡瓦更强烈地抗焦虑，并在清醒的状态下促进社交。缬草主要促进睡眠，可能会导致嗜睡。卡瓦的作用更快（15-30分钟），而缬草通常需要数周的定期服用。卡瓦的味道是泥土味，而缬草则有不愉快的气味和味道。卡瓦更适合社交场合，而缬草更适合作为纯粹的安眠药。"
+    },
+    "kava-vs-kratom": {
+      "question": "卡瓦与克拉托姆有什么区别？",
+      "answer": "卡瓦和克拉托姆截然不同，不应混淆：卡瓦含有卡瓦内酯，具有放松效果且没有成瘾潜力。克拉托姆含有生物碱（Mitragynin），作用于阿片受体，具有成瘾潜力。卡瓦在大多数国家是合法的，而克拉托姆在许多国家（包括德国）是被禁止或受限的。卡瓦有着安全使用的悠久传统，而克拉托姆则与健康风险相关。我们不建议使用克拉托姆。"
+    },
+    "kava-alternative": {
+      "question": "卡瓦的替代品有哪些？",
+      "answer": "用于放松和抗焦虑的卡瓦天然替代品包括：阿什瓦甘达（适应原，长期）、缬草（促进睡眠）、西番莲（轻微抗焦虑）、L-茶氨酸（来自茶，促进放松）、镁（肌肉放松）、CBD（大麻二酚，在德国合法）。然而，这些替代品都无法提供卡瓦独特的特征，卡瓦结合了放松、社交和思维清晰。对于社交场合中酒精的最佳替代品，卡瓦没有真正的替代品。"
+    },
+    "kava-zeremonie": {
+      "question": "什么是卡瓦仪式？",
+      "answer": "卡瓦仪式是太平洋地区的一种传统仪式，在该仪式中，卡瓦被共同制备和饮用。仪式遵循严格的协议：谁来制备卡瓦？谁先喝第一碗？饮用的顺序是什么？在斐济，这个仪式称为“Sevusevu”，是正式国家活动的一部分。在汤加和萨摩亚，有高度正式化的“Ava”仪式，设有特定角色。该仪式象征着尊重、好客和社会联系。",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "仪式与传统"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "什么是Nakamal？",
+      "answer": "Nakamal是瓦努阿图的传统卡瓦饮用场所。最初是一个男性聚集的地方，村庄社区在晚上聚集饮用卡瓦。如今，“Nakamal”也指在维拉港和其他城市的现代卡瓦酒吧。气氛宁静而尊重——人们聚在一起，饮用多碗，进行轻声交谈。Nakamal是一个社会平衡的场所，各个阶层的人们在这里聚会。",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal与卡瓦酒吧"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "卡瓦在不同文化中有哪些名称？",
+      "answer": "卡瓦在不同的太平洋文化中有不同的名称：瓦努阿图：卡瓦或Malok。斐济：Yaqona（发音为“Yang-gona”）。汤加：卡瓦或'Ava。萨摩亚：'Ava。夏威夷：'Awa。波恩佩：Sakau。巴布亚新几内亚：卡瓦。科学名称Piper methysticum意为“醉人的胡椒”。在德国，常用的名称有卡瓦、卡瓦卡瓦和醉椒。",
+      "relatedLinks": [
+        {
+          "href": "/de/glossar",
+          "label": "词汇表"
+        }
+      ]
+    }
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

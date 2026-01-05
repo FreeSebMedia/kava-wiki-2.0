@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Çeşit Profilleri Detaylı",
+    "subtitle": "Kimyasal tipleri, etkileri ve önerileri ile en önemli Kava çeşitlerinin detaylı profilleri.",
+    "category": "Çeşitler"
+  },
+  "breadcrumbs": {
+    "home": "Anasayfa",
+    "sorten": "Çeşitler",
+    "current": "Profiller"
+  },
+  "toc": {
+    "title": "İçerik",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Genel Bakış",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Favorilerim",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Etkiler Filtreleme",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Heady Çeşitler",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Dengeli Çeşitler",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Ağır Çeşitler",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Çeşit Karşılaştırması",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Menşei",
+    "chemotype": "Kimyasal Tip",
+    "duration": "Etkileme Süresi",
+    "strength": "Güç",
+    "hits": "Sonuç",
+    "low": "Düşük",
+    "high": "Yüksek",
+    "variety": "Çeşit",
+    "region": "Bölge",
+    "type": "Tür",
+    "bestUse": "En İyi Kullanım",
+    "resetFilters": "Filtreleri Sıfırla",
+    "matchingCriteria": "{total} çeşitten {criteria} kriterlerinize uymaktadır.",
+    "noMatching": "Hiçbir {category} çeşidi mevcut filtre kriterlerine uymamaktadır.",
+    "toComparison": "Etkileşimli çeşit karşılaştırmasına git"
+  },
+  "overview": {
+    "intro": "Bu sayfa, etkilerine göre sıralanmış en önemli <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a> çeşitleri hakkında kapsamlı bir genel bakış sunmaktadır. İhtiyaçlarınıza uygun mükemmel çeşidi bulmak için bu profilleri kullanın.",
+    "categories": [
+      {
+        "name": "Heady",
+        "description": "Zihin odaklı, coşkulu, sosyal. Gün için idealdir.",
+        "color": "yellow"
+      },
+      {
+        "name": "Balanced",
+        "description": "Dengeli, çok yönlü. Her zaman için uygundur.",
+        "color": "blue"
+      },
+      {
+        "name": "Heavy",
+        "description": "Beden odaklı, sedatif. Akşam için idealdir.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Etkiler Filtreleme",
+    "description": "Çeşitleri istediğiniz etkilerine göre filtreleyin. Sadece seçilen değere en az sahip olan çeşitleri görüntülemek için kaydırıcıları hareket ettirin.",
+    "euphoria": "Coşku",
+    "relaxation": "Rahatlama",
+    "sleepy": "Uykulu"
+  },
+  "sections": {
+    "heady": {
+      "title": "Heady Çeşitler",
+      "description": "Heady Kava'lar zihin odaklıdır ve coşku, zihinsel netlik ve sosyal etkileşim yaratır. Günlük tüketim, sosyal etkinlikler ve yaratıcı işler için idealdir. <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Kimyasal tip</a> genellikle 4 ile başlar (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Dengeli Çeşitler",
+      "description": "Dengeli Kava'lar, zihin ve beden arasında dengeli bir etki sunar. Çok yönlüdürler ve hem gündüz hem de akşam için uygundur. <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">Kaygı giderme</a> ve genel rahatlama için idealdir."
+    },
+    "heavy": {
+      "title": "Ağır Çeşitler",
+      "description": "Ağır Kava'lar beden odaklıdır ve derin <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">kas rahatlaması</a> ve sedasyon yaratır. Akşam, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">uyku sorunları</a> ve fiziksel iyileşme için idealdir. Kimyasal tip genellikle DHK (2) belirgin bir konumda bulunur."
+    }
+  },
+  "comparison": {
+    "title": "Çeşit Karşılaştırması",
+    "description": "Bu tablo, tüm önemli çeşitler hakkında hızlı bir genel bakış sunmaktadır. Detaylı karşılaştırmalar için <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">etkileşimli karşılaştırma aracımızı</a> da kullanın.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 Saat",
+      "strength": 4,
+      "description": "Efsanevi coşkulu Kava, Kava'lar arasında şampanya gibi.",
+      "recommended": [
+        "Sosyal etkinlikler",
+        "Yaratıcı işler",
+        "Gündüz tüketimi"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 Saat",
+      "strength": 4,
+      "description": "Vanuatu'nun halk Kava'sı, zihin odaklı başlangıç etkisi ile çok yönlü.",
+      "recommended": [
+        "Sosyal etkinlikler",
+        "Akşam tüketimi",
+        "Yeni başlayanlar"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 Saat",
+      "strength": 3,
+      "description": "En popüler gündüz Kava'sı, hafif ve yeni başlayan dostu.",
+      "recommended": [
+        "Yeni başlayanlar",
+        "Çalışma",
+        "Sosyal etkinlikler"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 Saat",
+      "strength": 4,
+      "description": "'Awa'nın kraliyet versiyonu, son derece zihinsel ve zihinsel olarak netleştirici.",
+      "recommended": [
+        "Meditasyon",
+        "Yaratıcı işler",
+        "Kognisyon"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 Saat",
+      "strength": 3,
+      "description": "Nadir bulunan coşkulu çeşit, çok değerli.",
+      "recommended": [
+        "Sosyal etkinlikler",
+        "Ruh halini iyileştirme"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 Saat",
+      "strength": 3,
+      "description": "Mükemmel çok yönlü, nazik ve dengeli.",
+      "recommended": [
+        "Yeni başlayanlar",
+        "Kaygı giderme",
+        "Günlük kullanım"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Dengeli)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 Saat",
+      "strength": 4,
+      "description": "Vanuatu'nun halk Kava'sı, güvenilir ve çok yönlü.",
+      "recommended": [
+        "Akşam tüketimi",
+        "Rahatlama",
+        "Yeni başlayanlar"
+      ],
+      "badge": "Heady / Balanced",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 Saat",
+      "strength": 4,
+      "description": "Zihin ve beden arasında iyi bir dengeye sahip güçlü Kava.",
+      "recommended": [
+        "Deneyimli kullanıcılar",
+        "Akşam tüketimi"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 Saat",
+      "strength": 3,
+      "description": "Dengeli Fiji Kava'sı, çok yönlü kullanım için uygundur.",
+      "recommended": [
+        "Günlük kullanım",
+        "Rahatlama"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 Saat",
+      "strength": 5,
+      "description": "En güçlü Heavy Kava'lardan biri, derin sedasyon.",
+      "recommended": [
+        "Uyku sorunları",
+        "Kas rahatlaması",
+        "Akşam"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 Saat",
+      "strength": 5,
+      "description": "Son derece güçlü Fiji Kava'sı, yüksek derecede sedatif.",
+      "recommended": [
+        "Deneyimli kullanıcılar",
+        "Uyku sorunları"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 Saat",
+      "strength": 4,
+      "description": "Palasa'nın küçük kardeşi, biraz daha hafif ama benzer.",
+      "recommended": [
+        "Heavy yeni başlayanlar",
+        "Akşam tüketimi"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 Saat",
+      "strength": 5,
+      "description": "Törensel Hawaii 'Awa, çok güçlü.",
+      "recommended": [
+        "Törenler",
+        "Uyku",
+        "Deneyimli"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Heady",
+      "chemotype": "421365",
+      "bestUse": "Sosyal, Yaratıcı"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Heady",
+      "chemotype": "Blend",
+      "bestUse": "Yeni başlayanlar, Gün"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Heady",
+      "chemotype": "—",
+      "bestUse": "Meditasyon, Kognisyon"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Dengeli",
+      "chemotype": "243156",
+      "bestUse": "Kaygı, Çok yönlü"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Heady / Balanced",
+      "chemotype": "243516",
+      "bestUse": "Akşam, Rahatlama"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Dengeli",
+      "chemotype": "423561",
+      "bestUse": "Deneyimli, Akşam"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Ağır",
+      "chemotype": "423651",
+      "bestUse": "Uyku, Kas"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Ağır",
+      "chemotype": "—",
+      "bestUse": "Deneyimli, Uyku"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Ağır",
+      "chemotype": "—",
+      "bestUse": "Törenler, Uyku"
+    }
+  ]
+}

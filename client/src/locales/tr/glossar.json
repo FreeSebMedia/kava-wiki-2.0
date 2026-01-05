@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Sözlük",
+    "title": "Kava Sözlüğü",
+    "subtitle": "Kava ile ilgili 50'den fazla terim – Kavalaktonlardan Kava Törenine kadar"
+  },
+  "intro": "Bu sözlük, Kava ile ilgili en önemli terimleri açıklar. Kimyasal bileşiklerden hazırlama yöntemlerine ve kültürel geleneklere kadar – burada tüm terimleri anlaşılır bir şekilde bulabilirsiniz.",
+  "search": {
+    "placeholder": "Terim ara...",
+    "noResults": "İçin terim bulunamadı",
+    "clearSearch": "Aramayı temizle",
+    "resultsCount": "{{count}} terim(ler) bulundu"
+  },
+  "categories": {
+    "chemie": "Kimya & İçerikler",
+    "wirkung": "Etkiler & Etkiler",
+    "kultur": "Kültür & Gelenek",
+    "sorten": "Çeşitler & Varyeteler",
+    "zubereitung": "Hazırlama",
+    "sicherheit": "Güvenlik"
+  },
+  "toc": {
+    "uebersicht": "Genel Bakış",
+    "suche": "Ara",
+    "chemie": "Kimya & İçerikler",
+    "wirkung": "Etkiler & Etkiler",
+    "sorten": "Çeşitler & Varyeteler",
+    "zubereitung": "Hazırlama",
+    "kultur": "Kültür & Gelenek",
+    "sicherheit": "Güvenlik"
+  },
+  "ui": {
+    "relatedTerms": "İlgili Terimler",
+    "relatedLinks": "Daha Fazla Bilgi",
+    "backToTop": "Yukarı",
+    "showMore": "Daha Fazla Göster",
+    "showLess": "Daha Az Göster"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalakton",
+      "shortDefinition": "Kava'daki psikoaktif bileşenler",
+      "fullExplanation": "Kavalaktonlar, Kava'nın psikoaktif etkilerinden sorumlu olan 18 lakton grubudur. **Altı ana kavalakton** toplam içeriğin yaklaşık %96'sını oluşturur: Desmethoxyyangonin (DMY), Dihydrokavain (DHK), Yangonin (Y), Kavain (K), Dihydromethysticin (DHM) ve Methysticin (M). Her kavalaktonun kendine özgü bir etki profili vardır – anksiyolitik, kas gevşetici ve sedatif etkilerle. Kökteki toplam içerik genellikle %3-20 arasındadır.",
+      "relatedTerms": [
+        "Kimyotip",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Altı Ana Kavalakton",
+          "href": "/tr/içerikler/kavalakton"
+        },
+        {
+          "label": "Kimyotip Sistemi",
+          "href": "/tr/içerikler/kimyotipler"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Kimyotip",
+      "shortDefinition": "Bir Kava çeşidinin kimyasal profili",
+      "fullExplanation": "Kimyotip, altı ana kavalaktonun konsantrasyona göre sıralamasını belirten **6 haneli bir koddur**. Her kavalaktonun bir numarası vardır: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. \"426315\" gibi bir kimyotip, Kavain'in (4) en yüksek konsantrasyona sahip olduğunu, ardından DHK'nın (2) geldiğini gösterir. Kimyotip, bir çeşidin etkisini belirlemede önemli bir rol oynar – \"heady\" (zihinsel, coşkulu) veya \"heavy\" (bedensel, sedatif) olup olmadığını belirler.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kimyotip Hesaplayıcı",
+          "href": "/tr/içerikler/hesaplayici"
+        },
+        {
+          "label": "Kimyotip Sistemi",
+          "href": "/tr/içerikler/kimyotipler"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "Anksiyolitik etki için en önemli kavalakton",
+      "fullExplanation": "Kavain (Kimyotip sisteminde 4 numara) en iyi araştırılan kavalakton olup **anksiyolitik (anksiyete giderici) etkiden sorumlu ana bileşen** olarak kabul edilir. GABA reseptörleri, dopamin ve noradrenalin taşıyıcıları üzerinde etki gösterir. Yüksek kavain içeriğine sahip çeşitler (kimyotipte 4 birinci veya ikinci sırada) genellikle yüksek kaliteli olarak kabul edilir ve \"heady\" olarak adlandırılır. Kavain ayrıca nöroprotektif özelliklere sahiptir.",
+      "relatedTerms": [
+        "Kavalakton",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonlar Ayrıntılı",
+          "href": "/tr/içerikler/kavalakton"
+        },
+        {
+          "label": "Anksiyolitik Etki",
+          "href": "/tr/etkiler/anksiyete"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "Kas gevşetici kavalakton",
+      "fullExplanation": "Dihydrokavain (DHK, Kimyotip sisteminde 2 numara) **en güçlü kas gevşetici kavalakton**dur. Gerilim kontrollü sodyum kanalları üzerinde etki gösterir ve lokal anestezik özelliklere sahiptir – bu nedenle içtikten sonra ağızda tipik bir uyuşma hissi oluşur. DHK, fiziksel gevşemeden de sorumludur. Yüksek DHK içeriğine sahip çeşitler (1. sırada 2) genellikle \"heavy\" olarak sınıflandırılır.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Heavy",
+        "Kas Gevşetme"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kas Gevşetme",
+          "href": "/tr/etkiler/kas"
+        },
+        {
+          "label": "Kavalaktonlar Ayrıntılı",
+          "href": "/tr/içerikler/kavalakton"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Ağır sedatif kavalakton, Tudei'de baskın",
+      "fullExplanation": "Dihydromethysticin (DHM, Kimyotip sisteminde 5 numara) **ağır sedatif bir kavalakton**dur. Yüksek konsantrasyonlarda (1. sırada 5) Tudei Kava için tipiktir ve uzun süreli yan etkilere neden olabilir. Noble Kava'da DHM, ılımlı miktarlarda bulunur ve gevşetici etkiye katkıda bulunur. DHM, Kavain'den daha uzun bir yarı ömre sahiptir, bu nedenle Tudei etkileri iki güne kadar sürebilir.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/tr/çeşitler/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "CB1 reseptör afinitesi olan kavalakton",
+      "fullExplanation": "Yangonin (Y, Kimyotip sisteminde 3 numara) **CB1 kannabinoid reseptörlerine afinitesi** olan benzersiz bir kavalaktondur. Bu, Kava'nın ruh halini iyileştirici ve hafif coşku verici etkilerine katkıda bulunabilir. Yangonin ayrıca Kava özlerinin sarı renginden de sorumludur. Anti-inflamatuar özelliklere sahiptir ve terapötik potansiyeli araştırılmaktadır.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Kimyotip"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonlar Ayrıntılı",
+          "href": "/tr/içerikler/kavalakton"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Ruh halini iyileştirici kavalakton",
+      "fullExplanation": "Desmethoxyyangonin (DMY, Kimyotip sisteminde 1 numara) **ruh halini iyileştirici bir kavalakton**dur ve MAO-B inhibitörü özellikleri gösterir. Beyindeki dopamin mevcudiyetini artırabilir, bu da coşku verici etkilerine katkıda bulunur. DMY, Kava'nın antidepresan etkisinden de sorumludur. Kavain ile birleştiğinde, bir çeşidin \"heady\" özelliklerini güçlendirir.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonlar Ayrıntılı",
+          "href": "/tr/içerikler/kavalakton"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Uzun etkili sedatif kavalakton",
+      "fullExplanation": "Methysticin (M, Kimyotip sisteminde 6 numara) **uzun etkili bir sedatif kavalakton**dur. Fiziksel gevşeme ve uyku teşvikine katkıda bulunur. Methysticin ayrıca antikonvülsan (kas gevşetici) özelliklere sahiptir. Çoğu Noble çeşitte Methysticin, ılımlı miktarlarda bulunur ve diğer kavalaktonların etkisini tamamlar.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktonlar Ayrıntılı",
+          "href": "/tr/içerikler/kavalakton"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "Kava'nın bilimsel adı",
+      "fullExplanation": "Piper methysticum, Kava bitkisinin **bilimsel (Latince) adıdır**. Adı kelime anlamıyla \"sarhoş edici biber\" anlamına gelir (Yunanca \"methystikos\" = sarhoş edici). Bitki, **Bibergiller (Piperaceae)** familyasına aittir ve kara biber ile yakından ilişkilidir. Kava, yalnızca vejetatif olarak çoğaltılabilen steril bir kültür bitkisidir – bu, insan tarafından binlerce yıl önce evcilleştirildiğinin bir göstergesidir.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botanik"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bitki",
+          "href": "/tr/botanik/bitki"
+        },
+        {
+          "label": "Botanik Genel Bakış",
+          "href": "/tr/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Kava bitkisinin vahşi atası",
+      "fullExplanation": "Piper wichmannii, Piper methysticum'un **vahşi atasıdır**. Bu vahşi tür Papua Yeni Gine ve Solomon Adaları'nda bulunur ve cinsel olarak ürer (steril kültür formunun aksine). Bilim insanları, Kava'nın yaklaşık 3.000 yıl önce Piper wichmannii'den **evcilleştirildiğine** inanıyor. Vahşi Kava genellikle istenmeyen bileşenler açısından daha yüksek miktarlar içerir ve tüketim için önerilmez.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tarih",
+          "href": "/tr/tarih"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Çalkonlar",
+      "shortDefinition": "Kava'daki flavonoid bileşenler",
+      "fullExplanation": "Çalkonlar, Kava'da bulunan bir **flavonoid bileşenler sınıfıdır**. En önemlileri Flavokavain A, B ve C'dir. Flavokavain A ve C, nispeten zararsız olarak kabul edilirken, **Flavokavain B (FKB)** potansiyel karaciğer toksisitesi ile ilişkilendirilmiştir. Çalkonlar esas olarak bitkinin üst kısımlarında ve Tudei çeşitlerinde bulunur. Kökten elde edilen Noble Kava, yalnızca düşük miktarlarda içerir.",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Güvenlik",
+          "href": "/tr/guvenlik"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Ekstraksiyon",
+      "shortDefinition": "Kavalaktonların elde edilme süreci",
+      "fullExplanation": "Ekstraksiyon, **kavalaktonların bitki materyalinden çözülmesi** sürecini ifade eder. Geleneksel hazırlama yönteminde bu, su içinde yoğurma ile yapılır – kavalaktonlar yağda çözünür ve mekanik güç ve emülsifikasyon yoluyla ekstrakte edilir. Endüstriyel ekstraktlar genellikle etanol veya asetat gibi çözücüler kullanır. **Sulu ekstraktlar**, daha az istenmeyen bileşen içerdiğinden daha güvenli kabul edilir.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Yoğurma Yöntemi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hazırlama",
+          "href": "/tr/hazirlama"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobutirik Asit",
+      "shortDefinition": "En önemli inhibe edici nörotransmitter",
+      "fullExplanation": "GABA (Gamma-Aminobutirik Asit), merkezi sinir sistemindeki **en önemli inhibe edici nörotransmitterdir**. Nöronal uyarılabilirliği azaltır ve sakinleştirici, anksiyolitik ve uyku teşvik edici etkiler gösterir. Kavalaktonlar – özellikle Kavain ve DHK – GABA reseptörlerini modüle eder, ancak **Benzodiazepinlerden farklı bir şekilde**. Bu, Kava'nın tipik uyku ilaçlarının yan etkilerini (bağımlılık, bilişsel bozulma olmadan) olmadan gevşetmesini açıklar.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Kavain",
+        "Anksiyolitik"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Anksiyolitik Etki",
+          "href": "/tr/etkiler/anksiyete"
+        },
+        {
+          "label": "Bilimsel Çalışmalar",
+          "href": "/tr/calisma"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Ters Tolerans",
+      "germanTerm": "Ters Tolerans",
+      "shortDefinition": "Zamanla Kava'nın daha güçlü etki göstermesi olayı",
+      "fullExplanation": "Ters Tolerans, Kava'nın **özgün bir fenomenidir**: Çoğu psikoaktif maddede, aynı etki için zamanla daha fazla ihtiyaç duyulurken, Kava'da bu **tersine** işler. Birçok yeni kullanıcı ilk seferde az veya hiç bir şey hissetmez. Birkaç oturumdan sonra (genellikle 3-7 gün düzenli tüketim) vücut kavalaktonlara \"açılır\" ve etki belirgin şekilde artar. Kesin mekanizmalar henüz tam olarak anlaşılamamıştır, ancak kavalaktonların yağ dokusunda birikimi veya reseptörlerin duyarlılığı ile ilgili olabilir.",
+      "relatedTerms": [
+        "Kavalakton",
+        "Dozaj"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bilişsel Etkiler",
+          "href": "/tr/etkiler/bilissel"
+        },
+        {
+          "label": "Dozaj Hesaplayıcı",
+          "href": "/tr/hazirlama/hesaplayici"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anksiyolitik",
+      "germanTerm": "Anksiyete Giderme",
+      "shortDefinition": "Kava'nın anksiyolitik etkisi",
+      "fullExplanation": "Anksiyolitik, bir maddenin **anksiyete giderici etkisini** ifade eder. Kava, anksiyolitik etki için **Seviye-1 Kanıtı** olan birkaç bitkisel maddeden biridir (Cochrane İncelemesi). Anksiyolitik etki, esasen GABA reseptörlerinin modülasyonu ve limbik sistemin etkilenmesi yoluyla gerçekleşir. Benzodiazepinlerin aksine, Kava **düşük ila orta dozlarda bilişsel bozulma, bağımlılık ve sedasyon** yaratmaz.",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalakton"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Anksiyolitik Etki",
+          "href": "/tr/etkiler/anksiyete"
+        },
+        {
+          "label": "Bilimsel Çalışmalar",
+          "href": "/tr/calisma"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Derin Kava gevşeme durumu",
+      "fullExplanation": "\"Krunk\", Kava topluluğunda, yeterli miktarda Kava tükettikten sonra **derin gevşeme ve iyi olma hali** için kullanılan bir terimdir. Terim, muhtemelen \"sarhoş\" kelimesinden türetilmiştir, ancak farklı bir durumu tanımlar: **gevşek bedende net zihin**. Tipik belirtiler arasında huzur hissi, kas gevşemesi, hafif coşku ve sosyal açıklık bulunur – alkolün etkilerinden uzak.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Etkiler",
+          "href": "/tr/etkiler"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Kas Gevşetme",
+      "shortDefinition": "Kava'nın fiziksel gevşeme etkisi",
+      "fullExplanation": "Kava'nın **kas gevşetici etkisi**, en belirgin etkilerden biridir. Bu etki esas olarak DHK (Dihydrokavain) aracılığıyla gerçekleşir ve kas hücrelerindeki sodyum kanallarını etkiler. Bu gevşeme, **zayıflık veya koordinasyon sorunlarıyla** ilişkili değildir – kişi gevşemiş hisseder, ancak etkilenmiş hissetmez. Bu nedenle Kava, gerginlik, stres kaynaklı kas problemleri ve kas gevşetici alternatif olarak değerlidir.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalakton"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kas Gevşetme",
+          "href": "/tr/etkiler/kas"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Euphoria",
+      "shortDefinition": "Kava ile yükselmiş ruh hali",
+      "fullExplanation": "Kava, özellikle yüksek Kavain içeriğine sahip Heady çeşitlerde **hafif ila orta düzeyde bir coşku** yaratabilir. Bu coşku, alkol veya diğer maddelerden farklıdır: **net, sosyal ve serbest bırakıcı değildir**. Ruh halinin iyileşmesi, Kavain ve DMY'nin dopamin ve serotonin sistemleri üzerindeki etkisiyle sağlanır. Kelai, Moi ve Pouni Ono gibi Heady çeşitler, coşku verici özellikleriyle bilinir.",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Sedasyon",
+      "shortDefinition": "Sakinleştirici, uyku teşvik edici etki",
+      "fullExplanation": "Sedasyon, Kava'nın **sakinleştirici ve uyku teşvik edici etkisini** ifade eder ve özellikle Heavy çeşitlerde belirgindir. Bu etki esas olarak DHM, DHK ve Methysticin aracılığıyla sağlanır. Düşük ila orta dozlarda Kava **sedatif değildir** ve zihinsel netliği korur. Ancak yüksek dozlarda veya Heavy çeşitlerde belirgin bir yorgunluk hissi oluşabilir. Bu, Kava'yı uyku problemleri için doğal bir seçenek haline getirir.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Uyku"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Uyku & Gevşeme",
+          "href": "/tr/etkiler/uyku"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Nöroprotektif",
+      "shortDefinition": "Sinir hücrelerine koruma etkisi",
+      "fullExplanation": "Nöroprotektif özellikler, **sinir hücrelerini hasarlardan koruma yeteneğini** ifade eder. Araştırmalar, Kavain ve diğer kavalaktonların nöroprotektif etkileri olabileceğini göstermektedir – nöronları oksidatif stresten ve eksitotoksisiteye karşı korurlar. Bu, Kava'yı nörodejeneratif hastalıklar için ilginç bir araştırma konusu haline getirebilir. Nöroprotektif özellikler, Kava'nın bilişsel fonksiyonu etkilememesine de katkıda bulunur.",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalakton"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bilimsel Çalışmalar",
+          "href": "/tr/calisma"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analjezi",
+      "germanTerm": "Ağrı Kesici",
+      "shortDefinition": "Kava'nın ağrı kesici etkisi",
+      "fullExplanation": "Analjezi, bir maddenin **ağrı kesici etkisini** ifade eder. Kava'nın hafif analjezik özellikleri vardır ve bu etkiler esas olarak DHK aracılığıyla sağlanır. Lokal anestezik etkisi (ağızda uyuşma) bu özelliğin doğrudan bir kanıtıdır. Kava, geleneksel olarak **baş ağrıları, diş ağrıları ve kas ağrıları** için kullanılır. Ancak ağrı kesici etkisi hafif olup, şiddetli ağrılarda tıbbi tedaviyi ikame etmez.",
+      "relatedTerms": [
+        "DHK",
+        "Kas Gevşetme"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Etkiler",
+          "href": "/tr/etkiler"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava Dermopatisi",
+      "germanTerm": "Kava Cilt Döküntüsü",
+      "shortDefinition": "Aşırı tüketimde cilt değişikliği",
+      "fullExplanation": "Kava Dermopatisi, çok yüksek, uzun süreli Kava tüketimi sonucunda ortaya çıkabilecek **geri dönüşümlü bir cilt değişikliğidir**. Bu, özellikle avuç içlerinde, ayak tabanlarında ve ön kollarında sarımsı bir tonla, kuru ve pullu cilt olarak kendini gösterir. Sebebi muhtemelen ciltteki **kolesterol metabolizmasının bozulmasıdır**. Dermopati, tüketimin azaltılması veya durdurulması sonrasında tamamen kaybolur ve karaciğer hasarının bir işareti değildir.",
+      "relatedTerms": [
+        "Güvenlik",
+        "Dozaj"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Güvenlik",
+          "href": "/tr/guvenlik"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Seçkin Kava",
+      "shortDefinition": "Yüksek kaliteli, geleneksel olarak tüketilen Kava çeşitleri",
+      "fullExplanation": "Noble Kava, **yüzyıllardır günlük tüketim için yetiştirilen Kava çeşitlerini** ifade eder. Dengeli bir **kavalakton profili** ile karakterizedir, yüksek Kavain içeriği ve Flavokavain B (FKB) gibi istenmeyen bileşenlerin düşük içeriği ile. Noble çeşitler genellikle kimyotipte ilk iki sırada 4 veya 2'ye sahiptir. Düzenli tüketim için güvenli kabul edilirler ve Vanuatu'da yasal olarak ihraç edilebilecek tek çeşitlerdir.",
+      "relatedTerms": [
+        "Tudei",
+        "Kimyotip",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/tr/çeşitler/noble-tudei"
+        },
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "İki Gün Kava",
+      "shortDefinition": "Vahşi veya düşük kaliteli Kava çeşitleri",
+      "fullExplanation": "Tudei (\"iki gün\"dan gelir), **vahşi veya düşük kaliteli Kava çeşitlerini** ifade eder; etkileri ve yan etkileri iki güne kadar sürebilir. Yüksek miktarda **Flavokavain B (FKB)** ve **Dihydromethysticin (DHM)** içerirler ve bu da bulantı, baş ağrısı ve muhtemel karaciğer toksisitesi ile ilişkilendirilmiştir. Tudei çeşitler genellikle kimyotipte 5 (DHM) ile birinci sıradadır. Vanuatu'da Tudei Kava'nın ihracı **yasaktır**. Ciddi satıcılar yalnızca Noble Kava satmaktadır.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/tr/çeşitler/noble-tudei"
+        },
+        {
+          "label": "Güvenlik",
+          "href": "/tr/guvenlik"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Zihinsel",
+      "shortDefinition": "Coşku verici, zihinsel etki yaratan Kava çeşitleri",
+      "fullExplanation": "\"Heady\", etkisi **özellikle zihinsel ve coşku verici** olan Kava çeşitlerini tanımlar. Bu çeşitler genellikle **Kavain (4) birinci veya ikinci sırada** kimyotipte yer alır. Heady Kava'lar sosyal etkileşimi teşvik eder, ruh halini yükseltir ve yoğun sedasyon olmadan hafif coşku verebilir. Özellikle sosyal etkinlikler, yaratıcı işler veya öğleden sonraları için uygundurlar. Kelai, Moi, Pouni Ono ve Silese gibi bilinen Heady çeşitler, coşku verici özellikleri ile tanınır.",
+      "relatedTerms": [
+        "Heavy",
+        "Balanced",
+        "Kavain",
+        "Kimyotip"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        },
+        {
+          "label": "Çeşit Karşılaştırması",
+          "href": "/tr/çeşitler/karsilastir"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Bedensel",
+      "shortDefinition": "Ağır sedatif, bedensel etki yaratan Kava çeşitleri",
+      "fullExplanation": "\"Heavy\", etkisi **özellikle bedensel ve sedatif** olan Kava çeşitlerini tanımlar. Bu çeşitler genellikle **DHK (2) veya DHM (5) birinci sırada** kimyotipte yer alır. Heavy Kava'lar kasları yoğun bir şekilde gevşetir, uykuya teşvik eder ve çok sedatif etkiler gösterebilir. Özellikle akşam, uyku problemleri veya derin gevşeme için uygundurlar. Loa Waka, Hiwa, Palasa ve Palarasul gibi bilinen Heavy çeşitler, güçlü sedatif etkileri ile tanınır.",
+      "relatedTerms": [
+        "Heady",
+        "Balanced",
+        "DHK",
+        "Kimyotip"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        },
+        {
+          "label": "Uyku & Gevşeme",
+          "href": "/tr/etkiler/uyku"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Balanced",
+      "germanTerm": "Dengeli",
+      "shortDefinition": "Dengeli etki yaratan Kava çeşitleri",
+      "fullExplanation": "\"Balanced\", **heady ve heavy özelliklerin dengeli bir karışımını** sunan Kava çeşitlerini tanımlar. Bu çeşitler genellikle hem Kavain (4) hem de DHK (2) kimyotipte önde yer alır. Balanced Kava'lar hem zihinsel netlik hem de fiziksel gevşeme sağlar ve bu nedenle **çok yönlüdür** – öğleden sonralardan akşamlara kadar. Borogu, Melo Melo, Bir Kar ve Vula Waka gibi bilinen Balanced çeşitler, dengeli etkileri ile tanınır.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Kimyotip"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        },
+        {
+          "label": "Çeşit Karşılaştırması",
+          "href": "/tr/çeşitler/karsilastir"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Kültivar",
+      "shortDefinition": "Yetiştirilen Kava varyetesi",
+      "fullExplanation": "Bir kültivar, **yetiştirme yoluyla oluşmuş bir bitki varyetesidir**. Kava'da 100'den fazla farklı kültivar bulunmaktadır ve bunlar kimyotip, etki, tat ve büyüme şekli açısından farklılık gösterir. Kava steril olduğundan ve yalnızca vejetatif olarak çoğaltılabildiğinden, kültivarlar **ana bitkinin genetik klonlarıdır**. Borogu, Kelai, Melo Melo, Palasa ve daha birçok tanınmış kültivar vardır. Her kültivarın kendine özgü bir kavalakton \"parmak izi\" vardır.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Kimyotip"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Ana köklerden elde edilen Kava",
+      "fullExplanation": "\"Waka\", bitkinin **ana köklerinden (yan kökler)** elde edilen Kava'yı ifade eder. Waka, **en yüksek kalite seviyesi** olarak kabul edilir çünkü ana kökler en yüksek kavalakton içeriğine sahiptir. Terim Fiji ve Tonga'dan gelmektedir. Waka, Lewena'dan (gövde kökü) daha pahalıdır, ancak daha potansiyel ve tat açısından daha hafiftir. Piyasadaki çoğu premium Kava Waka kalitesindedir.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava'nın kök gövdesinden elde edilmesi",
+      "fullExplanation": "\"Lewena\" (aynı zamanda \"Lawena\" olarak da bilinir), bitkinin **kök gövdesinden (rizom)** elde edilen Kava'yı ifade eder. Lewena, Waka'dan **daha düşük kavalakton içeriğine** sahiptir, ancak tadı daha hafif ve fiyatı daha uygundur. Genellikle başlangıç Kava'sı olarak önerilir veya daha hafif bir etki tercih edenler için. Fiji'de Lewena geleneksel olarak günlük tüketim için kullanılırken, Waka özel etkinlikler için ayrılmıştır.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Çeşit Profilleri",
+          "href": "/tr/çeşitler/profil"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Yeşil Kava",
+      "germanTerm": "Taze Kava",
+      "shortDefinition": "Taze hasat edilmiş, kurutulmamış Kava",
+      "fullExplanation": "\"Yeşil Kava\" veya \"Taze Kava\", **kurutulmamış taze Kava köklerini** ifade eder. Pasifik kökenli ülkelerde Kava geleneksel olarak taze hazırlanır – kökler soyulur, doğranır ve hemen yoğrulur. Taze Kava, kurutulmuş Kava'dan **farklı bir tat ve etkiye** sahiptir: genellikle daha hafif, \"yeşil\" bir tat ve daha hızlı bir etki ile. Instant Kava, dehidre edilmiş Yeşil Kava suyundan yapılır.",
+      "relatedTerms": [
+        "Instant Kava",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kültür",
+          "href": "/tr/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Kava için Hawaii terimi",
+      "fullExplanation": "'Awa, **Kava için Hawaii terimidir**. Hawaii'nin, Moi, Hiwa, Nene ve Papa Ele'ele gibi benzersiz kültivarlarla kendi Kava geleneği vardır. Hawaii'ye özgü 'Awa çeşitleri genellikle özellikle potansiyel olup karakteristik etki profillerine sahiptir. 'Awa, geleneksel olarak **tören, tıbbi ve ruhsal amaçlar** için kullanılmıştır. Hawaii'nin 'Awa kültürü, geleneksel çeşitlere artan ilgi ile yeniden canlanmaktadır.",
+      "relatedTerms": [
+        "Kültivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tarih",
+          "href": "/tr/tarih"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Orta Öğütme",
+      "germanTerm": "Orta Öğütme",
+      "shortDefinition": "Geleneksel hazırlama için standart öğütme derecesi",
+      "fullExplanation": "Orta Öğütme, **Kava kök tozu için standart öğütme derecesidir** ve geleneksel yoğurma yöntemi ve blender hazırlama için kullanılır. Toz, **kumlu ila unlu bir kıvama** sahiptir ve kavalaktonları ekstrakte etmek için bir filtre torbası (75-100 mikron) ile yoğrulmalıdır. Orta Öğütme, Instant/Mikronize'den daha ucuzdur ve doğru hazırlama ile en iyi potansiyeli sağlar. Kalın bitki lifleri süzülür.",
+      "relatedTerms": [
+        "Mikronize",
+        "Instant Kava",
+        "Yoğurma Yöntemi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Geleneksel Yöntem",
+          "href": "/tr/hazirlama/geleneksel"
+        },
+        {
+          "label": "Blender Yöntemi",
+          "href": "/tr/hazirlama/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Mikronize Kava",
+      "germanTerm": "Mikronize Kava",
+      "shortDefinition": "Filtrasyon olmadan son derece ince öğütülmüş Kava",
+      "fullExplanation": "Mikronize Kava, **son derece ince öğütülmüş kök tozu**dur; kaba lifler zaten çıkarılmıştır. **Doğrudan suya karıştırılabilir**, yoğurma veya filtreleme gerektirmez. Partiküller o kadar incedir ki süspansiyonda kalır ve içilir. Mikronize, Orta Öğütme'den daha pratik ancak daha pahalıdır ve hassas mideye sahip olanlarda **bulantıya** neden olabilir, çünkü lifler de yenir.",
+      "relatedTerms": [
+        "Orta Öğütme",
+        "Instant Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava Hazırlama",
+          "href": "/tr/hazirlama/instant"
+        },
+        {
+          "label": "Dozaj Hesaplayıcı",
+          "href": "/tr/hazirlama/hesaplayici"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "Anında Kava",
+      "shortDefinition": "Dehidre edilmiş Kava suyu, hemen içmeye hazır",
+      "fullExplanation": "Instant Kava, **dehidre edilmiş \"Yeşil Kava\" suyudur** – taze Kava suyu, dondurarak kurutulmuş veya sprey ile kurutulmuştur. En **potansiyel ve en pahalı** Kava formudur, çünkü kavalaktonlar zaten ekstrakte edilmiştir. Instant Kava, suya hemen çözülür ve yoğurma veya filtreleme gerektirmez. Dozaj, Orta Öğütme'den belirgin şekilde daha düşüktür (2-6g yerine 20-50g). Kava hazırlamanın \"kraliyet sınıfı\" olarak kabul edilir.",
+      "relatedTerms": [
+        "Mikronize",
+        "Orta Öğütme",
+        "Yeşil Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava Hazırlama",
+          "href": "/tr/hazirlama/instant"
+        },
+        {
+          "label": "Dozaj Hesaplayıcı",
+          "href": "/tr/hazirlama/hesaplayici"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Yoğurma Yöntemi",
+      "shortDefinition": "Geleneksel Pasifik hazırlama yöntemi",
+      "fullExplanation": "Yoğurma yöntemi, **Kava'nın geleneksel Pasifik hazırlama şeklidir** ve 3.000 yıldan fazla bir süredir uygulanmaktadır. Orta Öğütme tozu bir filtre torbasına konur ve sıcak su (35-45°C) içinde **10-15 dakika yoğrulur ve sıkılır**. Mekanik güç yoluyla kavalaktonlar bitki liflerinden çözülür ve suya emülsifiye edilir. Sonuç, sütlü kahverengi bir \"Grog\" olur. Bu yöntem, **en iyi ekstraksiyon ve potansiyeli** sağlar.",
+      "relatedTerms": [
+        "Orta Öğütme",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Geleneksel Yöntem",
+          "href": "/tr/hazirlama/geleneksel"
+        },
+        {
+          "label": "Hazırlama Genel Bakış",
+          "href": "/tr/hazirlama"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "İkinci Yıkama",
+      "germanTerm": "İkinci Demleme",
+      "shortDefinition": "Kava tozunun yeniden kullanımı",
+      "fullExplanation": "\"İkinci Yıkama\", **zaten yoğrulmuş Kava tozunun** ikinci bir geçiş için yeniden kullanılmasını ifade eder. İlk yoğurmadan sonra toz, yaklaşık **%30-50 oranında orijinal kavalakton içerir**. İkinci yıkama daha zayıftır, ancak hala etkilidir. Bazı kullanıcılar birinci ve ikinci yıkamayı birleştirir, bazıları ise ayrı içer. Üçüncü bir yıkama genellikle daha fazla fayda sağlamaz.",
+      "relatedTerms": [
+        "Yoğurma Yöntemi",
+        "Orta Öğütme"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Geleneksel Yöntem",
+          "href": "/tr/hazirlama/geleneksel"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Filtre Torbası",
+      "germanTerm": "Filtre Torbası",
+      "shortDefinition": "Kava'yı filtrelemek için torba",
+      "fullExplanation": "Filtre Torbası, Kava'yı yoğurmak ve filtrelemek için kullanılan **naylon veya pamuk torbasıdır**. İdeal delik boyutu **75-100 mikron** olmalıdır – bitki liflerini tutacak kadar ince, ancak kavalakton emülsiyonu için yeterince geçirgendir. Filtre torbaları yeniden kullanılabilir ve her kullanım sonrası durulanmalı ve kurutulmalıdır. Geleneksel hazırlama için vazgeçilmez bir araçtır.",
+      "relatedTerms": [
+        "Yoğurma Yöntemi",
+        "Orta Öğütme"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Geleneksel Yöntem",
+          "href": "/tr/hazirlama/geleneksel"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "Bir porsiyon Kava içeceği",
+      "fullExplanation": "\"Shell\", tipik olarak 100-150ml olan **bir porsiyon Kava içeceği** için yaygın bir terimdir. Terim, Kava'nın içildiği geleneksel hindistancevizi kabuğundan (Bilo) gelmektedir. Kava barlarında \"Shell\" sipariş edilir – bir oturum genellikle birkaç saat içinde 3-6 Shell'den oluşur. Her Shell için dozaj, Grog'un gücüne ve kişisel tercihlere göre değişir. \"Bir shell daha\" Kava topluluğunda sıkça duyulan bir ifadedir.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Dozaj Hesaplayıcı",
+          "href": "/tr/hazirlama/hesaplayici"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Modern Kava hazırlama cihazı",
+      "fullExplanation": "AluBall, geleneksel yoğurma yöntemini basitleştiren **modern bir Kava hazırlama cihazıdır**. Bir shaker şişesinden ve özel bir süzgeç toplarından oluşur. Orta Öğütme tozu topa konur, su eklenir ve 2-3 dakika çalkalanır. Ekstraksiyon, geleneksel yoğurmaktan daha hızlıdır, ancak muhtemelen daha az verimlidir. AluBall, **hareket halindeki ve basit bir hazırlama tercih edenler için** popülerdir.",
+      "relatedTerms": [
+        "Yoğurma Yöntemi",
+        "Orta Öğütme"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hazırlama Genel Bakış",
+          "href": "/tr/hazirlama"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "Tamamlanmış Kava içeceği",
+      "fullExplanation": "\"Grog\", özellikle Vanuatu ve Fiji'de **tamamlanmış Kava içeceği** için kullanılan bir terimdir. İsim, sömürge döneminden gelmekte olup Britanya Donanması tarafından benimsenmiştir. Geleneksel Kava Grog'u, **sütlü kahverengi bir renge** (sütlü kahve gibi) ve topraklı, hafif biberli bir tada sahiptir. Kava barlarında Grog genellikle hindistancevizi kabuklarında (Bilos) servis edilir ve bir yudumda içilir.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Yoğurma Yöntemi"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kültür",
+          "href": "/tr/kultur"
+        },
+        {
+          "label": "Hazırlama",
+          "href": "/tr/hazirlama"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Kava içmek için geleneksel hindistancevizi kabuğu",
+      "fullExplanation": "Bir Bilo, Kava'nın servis edilmesi ve içilmesi için geleneksel olarak kullanılan **yarım hindistancevizi kabuğudur**. Fiji ve diğer Pasifik kültürlerinde Bilo'dan içmek, **tören ritüelinin** bir parçasıdır. İçmeden önce bir kez alkışlanır, \"Bula!\" (Fiji) veya \"Mālō!\" (Tonga) denir, içecek bir yudumda içilir ve ardından üç kez alkışlanır. Modern Kava tutkunları, otantik bir deneyim için Bilo kullanır.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kültür",
+          "href": "/tr/kultur"
+        },
+        {
+          "label": "Tarih",
+          "href": "/tr/tarih"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Vanuatu'daki geleneksel Kava barı",
+      "fullExplanation": "Bir Nakamal, **Vanuatu'daki geleneksel Kava barıdır**; burada yerel halk ve turistler bir araya gelerek Kava içer. Terim, köydeki erkeklerin toplanma yerini ifade ediyordu. Modern Nakamallar genellikle basit kulübeler veya bankların bulunduğu açık alanlardır. Kava taze hazırlanır ve kaselerde servis edilir. Katı **sosyal kurallar** vardır: sessiz konuşulur, saygılı davranılır ve akşam karanlığında içilir. Nakamallar, önemli sosyal buluşma noktalarıdır.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kültür",
+          "href": "/tr/kultur"
+        },
+        {
+          "label": "Tarih",
+          "href": "/tr/tarih/ilkler"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Geleneksel ahşap Kava kasesi",
+      "fullExplanation": "Bir Tanoa, Kava'nın geleneksel olarak hazırlandığı ve servis edildiği **büyük, düz bir ahşap kase**dir. Fiji, Samoa ve Tonga'ya özgüdür ve genellikle tek parça ahşaptan oyulmuştur, çoğu zaman oyulmuş ayakları vardır. Tanoa, Kava töreninin **merkezidir** – Grog burada karıştırılır ve katılımcılara bir Bilo ile dağıtılır. Kaliteli Tanoa'lar sanat eserleri olarak kabul edilir ve aile mirası olarak aktarılır.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Tören"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kültür",
+          "href": "/tr/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Kava içme sırasında Fijili selam",
+      "fullExplanation": "\"Bula!\" Kava içmeden önce söylenen **geleneksel Fijili selamdır**. Kelime \"hayat\" anlamına gelir ve iyi dilekleri ifade eder. Ritüel: Bir kez alkışla, \"Bula!\" diye bağır, Shell'i bir yudumda iç, üç kez alkışla. Diğer Pasifik kültürlerinde benzer çağrılar vardır: Tonga'da \"Mālō!\", Vanuatu'da \"Taki!\". Bu ritüeller, **topluluk ve saygı** oluşturur ve Kava kültürünün önemli bir parçasıdır.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kültür",
+          "href": "/tr/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Tudei Kava'daki potansiyel karaciğer toksik bileşen",
+      "fullExplanation": "Flavokavain B (FKB), Tudei Kava ve bitkinin üst kısımlarında (saplar, yapraklar) daha yüksek konsantrasyonlarda bulunan bir **çalkondur**. **Potansiyel karaciğer toksisitesi** ile ilişkilendirilmiştir ve tarihi karaciğer hasarlarının bazılarına neden olabilir. Noble Kava çeşitleri **çok düşük FKB seviyelerine** sahiptir. Bu, yalnızca Noble Kava'nın tüketilmesi önerilen ana nedenlerden biridir ve Tudei Kava'nın Vanuatu'da ihraç edilmesi yasaktır.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Karaciğer Güvenliği"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Karaciğer Güvenliği",
+          "href": "/tr/guvenlik/karaciger"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/tr/çeşitler/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Sitochrom P450",
+      "shortDefinition": "İlaç metabolizması için karaciğer enzimleri",
+      "fullExplanation": "CYP450 (Sitochrom P450), çoğu ilacın metabolizmasından sorumlu olan bir **karaciğer enzimleri ailesidir**. Kavalaktonlar, belirli CYP450 enzimlerini **inhibit edebilir**, özellikle CYP2C9, CYP2C19 ve CYP3A4. Bu, ilaçların metabolizmasını yavaşlatabilir ve etkilerini artırabilir. Bu nedenle Kava, bu enzimler aracılığıyla metabolize edilen ilaçlarla **birlikte kullanılmamalıdır** – özellikle benzodiazepinler, antidepresanlar ve kan basıncı ilaçları.",
+      "relatedTerms": [
+        "Etkileşimler",
+        "Karaciğer Güvenliği"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Etkileşimler",
+          "href": "/tr/guvenlik/etkilesimler"
+        },
+        {
+          "label": "Etkileşim Kontrolü",
+          "href": "/tr/guvenlik/kontrol"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Karaciğer Güvenliği",
+      "shortDefinition": "Kava ve karaciğer – gerçekler ve mitler",
+      "fullExplanation": "Kava'nın **karaciğer güvenliği** sorunu uzun zamandır tartışmalıdır. 2000'li yılların başlarında karaciğer hasarı ile ilgili raporlar birçok ülkede yasaklara yol açtı. Ancak sonraki araştırmalar, çoğu durumun **Tudei Kava, bitkinin üst kısımlarından elde edilen ekstraktlar veya önceden var olan hastalıklarla** ilişkili olduğunu göstermiştir. Geleneksel olarak hazırlanan Noble Kava güvenli kabul edilir. WHO, 2016'da \"geleneksel olarak hazırlanmış Kava içeceklerinin kabul edilebilir bir güvenlik profiline sahip olduğunu\" doğrulamıştır.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Karaciğer Güvenliği",
+          "href": "/tr/guvenlik/karaciger"
+        },
+        {
+          "label": "Bilimsel Çalışmalar",
+          "href": "/tr/calisma"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Etkileşimler",
+      "shortDefinition": "Kava'nın diğer maddelerle etkileşimleri",
+      "fullExplanation": "Kava, **çeşitli maddelerle etkileşimler** gösterebilir. Kaçınılması gereken en önemli kombinasyonlar: **Alkol** (artmış karaciğer toksisitesi), **Benzodiazepinler ve uyku ilaçları** (artmış sedasyon), **Antidepresanlar** (CYP450 etkileşimleri), **Parkinson ilaçları** (dopamin etkileşimleri). Ayrıca diğer CNS baskılayıcı maddelerden de kaçınılmalıdır. Düzenli ilaç kullanımı varsa, Kava tüketmeden önce bir doktora danışılmalıdır.",
+      "relatedTerms": [
+        "CYP450",
+        "Karaciğer Güvenliği"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Etkileşimler",
+          "href": "/tr/guvenlik/etkilesimler"
+        },
+        {
+          "label": "Etkileşim Kontrolü",
+          "href": "/tr/guvenlik/kontrol"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Dozaj",
+      "shortDefinition": "Güvenli tüketim için doğru miktar",
+      "fullExplanation": "Kava'nın doğru **dozajı**, birçok faktöre bağlıdır: vücut ağırlığı, deneyim, çeşit ve hazırlama şekli. **Orta Öğütme** için tipik bir oturum 20-50g toz, birkaç Shell'e dağıtılmıştır. **Instant Kava** için 2-6g yaygındır. Yeni başlayanlar düşük dozlarla başlamalı ve **ters toleransı** dikkate almalıdır. Önerilen günlük maksimum doz yaklaşık 250mg kavalaktonlardır. Aşırı doz, yoğun yorgunluğa yol açar, ancak tehlikeli durumlar oluşturmaz.",
+      "relatedTerms": [
+        "Ters Tolerans",
+        "Shell",
+        "Kavalakton"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Dozaj Hesaplayıcı",
+          "href": "/tr/hazirlama/hesaplayici"
+        }
+      ]
+    }
+  }
+}

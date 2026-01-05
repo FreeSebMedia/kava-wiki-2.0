@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "SSS – Kava Hakkında Her Şey",
+    "badge": "Sıkça Sorulan Sorular",
+    "description": "Kava ile ilgili en sık sorulan sorulara yanıtlar – etkisi ve dozajından güvenlik ve yasal duruma kadar. Bilimsel olarak temellendirilmiş ve anlaşılır bir şekilde açıklanmıştır."
+  },
+  "ui": {
+    "searchPlaceholder": "Soru ara...",
+    "categories": "Kategoriler",
+    "all": "Hepsi",
+    "results": "Sonuçlar",
+    "clearFilters": "Filtreleri sıfırla",
+    "noResults": "Sonuç bulunamadı",
+    "noResultsHint": "Başka arama terimleri deneyin veya farklı bir kategori seçin.",
+    "showAll": "Tüm soruları göster",
+    "relatedArticles": "İlgili makaleler:",
+    "questionNotAnswered": "Sorun burada yok mu?",
+    "contactHint": "Bizimle iletişime geçin, size yardımcı olmaktan memnuniyet duyarız. SSS'mizi düzenli olarak sizin sorularınıza dayanarak genişletiyoruz.",
+    "getInTouch": "İletişime geç",
+    "viewGlossary": "Sözlüğü görüntüle"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "Temeller",
+      "description": "Kava hakkında temel bilgiler, kökeni ve botanik"
+    },
+    "wirkung": {
+      "name": "Etkiler & Etkiler",
+      "description": "Kava'nın etkileri, etki süresi ve deneyim raporları"
+    },
+    "sicherheit": {
+      "name": "Güvenlik & Yan Etkiler",
+      "description": "Yan etkiler, riskler ve etkileşimler"
+    },
+    "dosierung": {
+      "name": "Dozaj & Alım",
+      "description": "Önerilen miktarlar ve çeşitli alım şekilleri"
+    },
+    "zubereitung": {
+      "name": "Hazırlama",
+      "description": "Geleneksel ve modern hazırlama yöntemleri"
+    },
+    "kauf": {
+      "name": "Satın Alma & Yasal Durum",
+      "description": "Tedarik kaynakları ve Almanya ile AB'deki yasal durum"
+    },
+    "vergleiche": {
+      "name": "Karşılaştırmalar",
+      "description": "Kava'nın diğer takviye gıdalarla karşılaştırılması"
+    },
+    "kultur": {
+      "name": "Kültür & Gelenek",
+      "description": "Törenler, gelenekler ve kültürel anlam"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "Kava (Kava-Kava) nedir?",
+      "answer": "Kava (Piper methysticum), 3.000 yıldan fazla bir süredir Pasifik bölgesinde yetiştirilen, bibergiller (Piperaceae) familyasına ait bir bitki türüdür. İsim, \"sarhoş edici biber\" anlamına gelir. Bitkinin kökleri, rahatlatıcı, anksiyete giderici ve ruh hali yükseltici özelliklere sahip bioaktif bileşikler olan Kavalactonlar içerir. Kava geleneksel olarak bir içecek olarak hazırlanır ve Vanuatu, Fiji, Tonga, Samoa ve Hawaii kültürlerinde merkezi bir rol oynar.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "Piper methysticum Botaniği"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Kava'nın Tarihi"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Piper methysticum ne anlama geliyor?",
+      "answer": "Piper methysticum, Kava bitkisinin bilimsel (Latince) adıdır. \"Piper\" biber anlamına gelir ve bibergiller familyasına atıfta bulunur. \"Methysticum\" ise Yunanca \"methystikos\" kelimesinden gelir ve \"sarhoş edici\" veya \"sarhoş eden\" anlamına gelir. Bu isim, bitkiyi James Cook'un ikinci dünya turu sırasında bilimsel olarak tanımlayan Johann Georg Forster tarafından 1777'de verilmiştir.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "Kava Bitkisi"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "Kava nereden geliyor?",
+      "answer": "Kava, Batı Pasifik'ten köken alıyor ve Vanuatu, köken bölgesi olarak kabul ediliyor. Burada 80'den fazla farklı çeşitle en büyük genetik çeşitlilik bulunmaktadır. Bitki, yaklaşık 3.000 yıl önce yabanı Piper wichmannii türünden evcilleştirilmiş ve Polinezya denizcileri tarafından \"Canoe Plant\" olarak tüm Pasifik'e yayılmıştır – Fiji, Tonga, Samoa, Hawaii ve Pohnpei'ye.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "Etkileşimli Kava Dünya Haritası"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "Kava'nın Tarihi"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "Kava kökü nedir?",
+      "answer": "Kava kökü, içeceğin hazırlanmasında kullanılan bitkinin parçasıdır. İki ana bölümden oluşur: kalın, odunsu kök gövdesi olan kısım (aynı zamanda \"Corm\" veya \"Lewena\" olarak da adlandırılır) ve en yüksek Kavalacton içeriğine sahip yan kökler (\"Waka\"). Olgun bir Kava bitkisi (3-5 yaşında) 5-25 kg ağırlığında bir kök gövdesi geliştirebilir. Sadece yer altı kısımları kullanılmalıdır, çünkü yapraklar ve saplar istenmeyen bileşikler içerebilir.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "Kava Bitkisi Morfolojisi"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "Noble Kava nedir?",
+      "answer": "Noble Kava, geleneksel olarak günlük tüketim için yetiştirilen ve uygun bir Kavalacton profiline sahip Kava çeşitlerini ifade eder. Hoş etkileri, iyi toleransı ve minimum yan etkileri ile karakterizedir. Buna karşılık, \"Tudei\" (İki Gün) çeşitleri, daha güçlü, daha uzun süreli ve genellikle rahatsız edici etkiler gösterir. Borogu, Melomelo, Palarasul veya Pouni Ono gibi Noble çeşitler, düzenli kullanım için uygundur. Satın alırken her zaman \"Noble\" etiketine dikkat edilmelidir.",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "Kava Çeşitleri"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "Kava nasıl etki eder?",
+      "answer": "Kava, esas olarak GABA sistemi ile etkileşime giren Kavalactonları aracılığıyla etki eder. Etkileri arasında: kasların gevşemesi, anksiyete ve stresin azaltılması, hafif bir coşku ve yükselmiş ruh hali, net bir kafayla sosyal etkileşimin artması ve dinlendirici bir uykuya yardımcı olma yer alır. Alkolün aksine, Kava zihinsel netliği etkilemez. Etki genellikle alımdan 15-30 dakika sonra başlar ve 2-4 saat sürer.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "Kava'nın Etkisi"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "Kavalactonlar"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "Kava ne kadar süreyle etki eder?",
+      "answer": "Kava'nın etki süresi, dozaj, çeşit ve bireysel hassasiyete bağlı olarak değişir. Genellikle etki 15-30 dakika içinde başlar ve yaklaşık 1-2 saat sonra zirveye ulaşır. Ana etki 2-4 saat sürer, ancak hoş bir gevşeme hissi daha uzun sürebilir. Daha yüksek dozlar veya daha güçlü çeşitlerde etki 6 saate kadar hissedilebilir. Uykuya yardımcı etkisi tüm gece sürebilir."
+    },
+    "kava-gegen-angst": {
+      "question": "Kava anksiyete için yardımcı olur mu?",
+      "answer": "Evet, Kava birçok klinik çalışmada anksiyolitik (anksiyete giderici) etkiler göstermiştir. 2003 tarihli bir Cochrane meta-analizi, anksiyete bozuklukları üzerindeki etkinliğini doğrulamıştır. Kavalactonlar, GABA reseptörleri üzerinde benzodiazepinler gibi etki eder, ancak bağımlılık potansiyeli olmadan. Kava, yaygın anksiyete bozukluğu, sosyal anksiyete ve stres kaynaklı gerginlikte yardımcı olabilir. Önemli: Tanı konmuş anksiyete bozuklukları için kullanımı bir doktorla görüşülmelidir.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Bilimsel Çalışmalar"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "Kava ile Anksiyete"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "Kava depresyon için yardımcı olabilir mi?",
+      "answer": "Bazı çalışmalar, Kava'nın ruh hali yükseltici özelliklere sahip olduğunu öne sürmektedir. Melbourne Üniversitesi'nden (2013) bir çalışma, hafif ila orta dereceli depresyonlarda olumlu etkiler göstermiştir. Etki, dopamin ve serotonin reseptörlerinin modülasyonuna atfedilmektedir. Ancak Kava, depresyonun profesyonel tedavisinin yerini almaz. Tanı konmuş depresyon bozuklukları için her zaman bir doktora danışılmalıdır, özellikle de antidepresan kullanılıyorsa.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Bilimsel Çalışmalar"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "Kava uyku kalitesini artırır mı?",
+      "answer": "Evet, Kava uyku kalitesini artırabilir. Kavalactonların rahatlatıcı etkisi, uykuya dalmayı kolaylaştırır ve daha derin, dinlendirici bir uykuya yardımcı olur. Birçok uyku ilacının aksine, Kava ertesi sabah \"hangover\" yapmaz. Çalışmalar, Kava'nın özellikle stres kaynaklı uyku bozukluklarında etkili olduğunu göstermektedir. Uykuya yardımcı olması için Kava'nın yatmadan 1-2 saat önce alınması önerilir. Daha yüksek DHM ve DHK içeriğine sahip çeşitler (Borogu gibi) özellikle uykuya yardımcıdır.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "Daha İyi Uyku için Kava"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "Kava'nın yan etkileri nelerdir?",
+      "answer": "Noble Kava çeşitlerinin doğru kullanımıyla yan etkiler nadirdir ve hafif düzeydedir. Olası yan etkiler arasında: dudaklar ve dilde geçici uyuşma (normal), aç karnına alındığında hafif mide bulantısı, uyku hali (özellikle yüksek dozlarda) ve kronik aşırı tüketim durumunda geri dönüşümlü cilt soyulması (\"Kava Dermopatisi\") yer alır. Önemli olan, Noble çeşitlerden saf kök tozu kullanmak ve alım sırasında alkolden kaçınmaktır.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "Kava'nın Güvenliği"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "Yan Etkiler Ayrıntılı"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "Kava karaciğere zarar verir mi?",
+      "answer": "Karaciğer toksisitesi sorusu karmaşıktır. 2002'deki Alman Kava yasağı, karaciğer hasarına dair raporlara dayanıyordu, ancak bunlar çoğunlukla düşük kaliteli ürünlere (kökler yerine yaprakların/sapların kullanımı), Tudei çeşitlerine (günlük tüketim için uygun değil), alkol ekstraktlarına ve ilaçlarla etkileşimlere atfedilmiştir. Çalışmalar, geleneksel olarak hazırlanmış Noble Kava'nın sağlıklı yetişkinler için güvenli olduğunu göstermektedir. Ancak karaciğer hastalığı olan kişiler Kava'dan kaçınmalı ve düzenli tüketiciler karaciğer değerlerini kontrol ettirmelidir.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "Kava ve Karaciğer"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei Kava"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "Kava bir uyuşturucu mu?",
+      "answer": "Kava, uyuşturucu yasası anlamında bir uyuşturucu değildir. Psikoaktif etkisi olan geleneksel bir içecektir, kahve veya çay gibi. Kava bağımlılık yapmaz, tolerans gelişimine neden olmaz ve kötüye kullanım potansiyeli yoktur. WHO, Kava'yı \"bağımlılık yapmayan\" olarak sınıflandırmıştır. Çoğu ülkede Kava yasal olarak temin edilebilir. Etkisi hafif rahatlatıcıdır, alkol veya yasadışı maddeler anlamında sarhoş edici değildir."
+    },
+    "kava-alkohol": {
+      "question": "Kava alkol ile birleştirilebilir mi?",
+      "answer": "Hayır, Kava alkol ile birleştirilmemelidir. Her iki madde de GABA sistemine etki eder ve birbirlerini artırabilir, bu da aşırı sedasyona yol açabilir. Ayrıca, her ikisi de karaciğerde metabolize edilir, bu da yükü artırır. Geleneksel Pasifik kültüründe Kava, alkol yerine tüketilmektedir, birlikte değil. Alkol ve Kava tüketimi arasında en az 24 saat bekleyin.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "Etkileşimler"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "Kava nasıl doğru dozajlanır?",
+      "answer": "Kava tozu için önerilen dozaj, oturum başına 2-4 yemek kaşığı (yaklaşık 15-30g) olup, 2-3 kaseye bölünmüştür. Yeni başlayanlar için daha düşük bir dozla (1-2 yemek kaşığı) başlamaları önerilir. Kavalacton dozu, tek seferde 250mg'ı geçmemelidir. Önemli: Kava, genellikle birkaç gün boyunca düzenli alım sonrası tam etkisini gösterir (\"Ters Tolerans\"). Uzun süreli kullanımlarda günde 300mg Kavalacton'dan fazla alınmamalıdır.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Kava'nın Hazırlanması"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "Kava en iyi nasıl alınır?",
+      "answer": "Geleneksel yöntem, içecek olarak hazırlanmasıdır: Kava tozu su ile yoğrulur ve bir süzgeçten süzülür. İçecek, genellikle 10-15 dakika aralıklarla oturum başına 2-3 kase olarak içilir. Alternatif olarak, anlık Kava (sadece suya karıştırmak) veya kapsül veya tentürler mevcuttur. En iyi etki, hafif aç karnına, son öğünden yaklaşık 2-3 saat sonra alınarak elde edilir. İçtikten sonra küçük bir atıştırmalık, etkiyi artırabilir.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Geleneksel Hazırlama"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "Kava her gün içilebilir mi?",
+      "answer": "Evet, Pasifik kültürlerinde Kava geleneksel olarak her gün tüketilmektedir. Batı kullanımı için, düzenli aralar vermek önerilir (örneğin, haftada 1-2 gün Kava olmadan). Günlük tüketimde dozajın ılımlı kalması ve yalnızca Noble Kava çeşitlerinin kullanılması gerekmektedir. Düzenli tüketiciler, yıllık olarak karaciğer değerlerini kontrol ettirmelidir. Önemli: Yeterince su içmek ve sağlıklı bir beslenmeye dikkat etmek."
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "Hangisi daha iyi: Kava tozu mu yoksa kapsüller mi?",
+      "answer": "Kava tozu, en otantik deneyimi ve en iyi etkiyi sunar, ancak hazırlama gerektirir. Kapsüller, hareket halindeyken pratik olmakla birlikte, genellikle daha az Kavalacton içerir ve daha zayıf etki gösterir. Anlık Kava, iyi bir uzlaşmadır – sadece suya karıştırmak, iyi etki sağlar. Yeni başlayanlar için anlık Kava veya orta öğütülmüş toz öneriyoruz. En güçlü etki için: geleneksel olarak hazırlanmış toz. Kapsüller, ara sıra, düşük dozda kullanım için uygundur."
+    },
+    "kava-zubereitung": {
+      "question": "Kava geleneksel olarak nasıl hazırlanır?",
+      "answer": "Geleneksel hazırlama: 1) 2-4 yemek kaşığı Kava tozunu bir bez torbaya veya süt torbasına koyun. 2) Yaklaşık 500ml ılık (sıcak değil!) su ile bir kaseye koyun. 3) 5-10 dakika yoğurun ve su sütlü-kahverengi olana kadar sıkın. 4) Torbayı sıkın ve çıkarın. 5) Kaseye dökün ve hızlıca için. Tat, topraklı ve hafif acıdır – bu normaldir. Bir parça meyve \"chaser\" olarak tat karşısında yardımcı olur.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Geleneksel Hazırlama"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "Anlık Kava"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "Kava nasıl bir tat?",
+      "answer": "Kava, genellikle \"edinilmiş tat\" olarak tanımlanan karakteristik, topraklı bir tada sahiptir. Tat hafif acı, biberli ve topraklıdır, belirli bir keskinlik taşır. İçtikten sonra dudaklar ve dilde geçici bir uyuşma hissi oluşur – bu, aktif Kavalactonların bir işareti. İyileştirme ipuçları: Kava'yı soğuk içmek, hindistancevizi sütü ile karıştırmak veya bir parça ananas/mango yemek. Zamanla tattan alışılır."
+    },
+    "kava-tee": {
+      "question": "Kava çay olarak hazırlanabilir mi?",
+      "answer": "Kava, normal çay gibi kaynar su ile hazırlanmalıdır, çünkü yüksek sıcaklıklar Kavalactonları yok edebilir. Ilık su (yaklaşık 40°C) kullanın. Ticari \"Kava çayı\" ürünleri genellikle düşük miktarda Kava içerir ve geleneksel olarak hazırlanmış Kava tozundan daha az etkilidir. En iyi etki için, orta öğütülmüş Kava tozu veya kaliteli anlık Kava ile geleneksel yoğurma yöntemini öneriyoruz.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Hazırlama Yöntemleri"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "Kava Almanya'da yasal mı?",
+      "answer": "Almanya'da Kava'nın yasal durumu karmaşıktır. 2002'de Kava, karaciğer hasarına dair raporlar sonrasında bir ilaç olarak yasaklandı. Bu yasak, 2014'te Federal İdare Mahkemesi tarafından bilimsel temelin yetersiz olması nedeniyle kaldırıldı. Şu anda, kişisel kullanım için Kava'nın ithalatı ve bulundurulması yasaldır. Ancak, gıda takviyesi veya ilaç olarak satışı hala kısıtlıdır. Kava, AB dışından (örneğin, Hollanda, Birleşik Krallık) veya doğrudan Pasifik'ten sipariş edilebilir.",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "Kava'nın Yasal Durumu"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "Kava nereden satın alınabilir?",
+      "answer": "Kava çeşitli yollarla temin edilebilir: 1) Pasifik'ten (Vanuatu, Fiji) çevrimiçi mağazalar – en yüksek kalite, ancak daha uzun teslimat süresi. 2) Avrupa satıcıları (Birleşik Krallık, Hollanda) – daha hızlı teslimat, iyi seçim. 3) Uzman Kava barları – yerinde tüketim için. Almanya'daki eczanelerde (DM, Rossmann) veya eczanelerde şu anda Kava mevcut değildir. Satın alırken dikkat edilmesi gerekenler: Noble Kava çeşitleri, saf kök (yaprak/sap yok), laboratuvar analizleri ve menşei bilgileri.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "Kava Barı Bulucu"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "DM veya eczanede Kava var mı?",
+      "answer": "Hayır, Kava şu anda ne DM'de, ne Rossmann'da ne de Almanya'daki eczanelerde mevcut değildir. Bu, Almanya'daki düzenleyici durumdan kaynaklanmaktadır; bu durum Kava'nın gıda takviyesi veya ilaç olarak satışını kısıtlamaktadır. Piper methysticum içeren homoeopatik preparatlar (şiddetle seyreltilmiş) daha önce eczanelerde mevcutken, şimdi de nadir hale gelmiştir. Gerçek Kava tozu için uzman çevrimiçi satıcılara başvurmanız gerekecektir."
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "Kava tekrar mevcut mu?",
+      "answer": "Evet, Kava tekrar mevcut, ancak Almanya'daki perakende satışta değil. 2014'te yasak kaldırıldıktan sonra, Kava kişisel kullanım için yasal olarak ithal edilebilir. En iyi tedarik kaynağı, Pasifik'ten (Vanuatu, Fiji, Tonga) veya Avrupa tedarikçilerinden (Birleşik Krallık, Hollanda) uzman çevrimiçi satıcılardır. Kalite ve erişilebilirlik son yıllarda önemli ölçüde artmış olup, Almanya'da Kava meraklıları için büyüyen bir topluluk bulunmaktadır."
+    },
+    "kava-vs-ashwagandha": {
+      "question": "Kava ve Ashwagandha arasındaki fark nedir?",
+      "answer": "Kava ve Ashwagandha her ikisi de adaptogen bitkilerdir, ancak belirgin şekilde farklıdır: Kava hızlı (15-30 dakika) ve akut rahatlatıcı etki gösterir, durumsal anksiyete veya stres için idealdir. Ashwagandha, haftalar boyunca uzun vadeli etki gösterir ve kortizol seviyesini düzenler. Kava bir içecek olarak hazırlanırken, Ashwagandha genellikle kapsül olarak alınır. Kava belirgin bir psikoaktif etki gösterirken, Ashwagandha daha ince bir etkiye sahiptir. Her ikisi bir arada kullanılabilir; Kava acil durumlar için, Ashwagandha ise uzun vadeli stres direnci için uygundur."
+    },
+    "kava-vs-baldrian": {
+      "question": "Kava ve Baldrian arasındaki fark nedir?",
+      "answer": "Kava ve Baldrian (Valerian) her ikisi de rahatlatıcıdır, ancak farklı profillere sahiptir: Kava daha güçlü anksiyete giderici etki gösterir ve net bir kafayla sosyal etkileşimi teşvik eder. Baldrian esasen uykuya yardımcıdır ve uyku hali yaratabilir. Kava'nın etki süresi daha hızlıdır (15-30 dakika), Baldrian'ın etkisi genellikle düzenli alım gerektirir. Kava'nın tadı topraklıdır, Baldrian ise hoş olmayan bir koku ve tat taşır. Kava sosyal durumlar için daha uygundur, Baldrian ise saf bir uyku ilacı olarak daha iyidir."
+    },
+    "kava-vs-kratom": {
+      "question": "Kava ve Kratom arasındaki fark nedir?",
+      "answer": "Kava ve Kratom tamamen farklıdır ve karıştırılmamalıdır: Kava, Kavalactonlar içerir ve bağımlılık potansiyeli olmadan rahatlatıcı etki gösterir. Kratom, opioid reseptörlerinde etki eden alkaloidler (Mitragynin) içerir ve bağımlılık potansiyeli vardır. Kava, çoğu ülkede yasaldır, Kratom ise birçok ülkede (Almanya dahil) yasaklanmış veya düzenlenmiştir. Kava'nın güvenli kullanım geleneği uzun bir geçmişe sahiptir, Kratom ise sağlık riskleri ile ilişkilidir. Kratom'dan kaçınmayı öneriyoruz."
+    },
+    "kava-alternative": {
+      "question": "Kava'ya alternatifler nelerdir?",
+      "answer": "Rahatlama ve anksiyete giderme için Kava'ya doğal alternatifler şunlardır: Ashwagandha (adaptogen, uzun vadeli), Baldrian (uykuya yardımcı), Passionsblume (hafif anksiyete giderici), L-Theanin (çaydan, rahatlamayı teşvik eder), Magnezyum (kas gevşetici), CBD (Kannabidiol, Almanya'da yasal). Ancak bu alternatiflerin hiçbiri, Kava'nın rahatlama, sosyal etkileşim ve zihinsel netlik kombinasyonunu sunan eşsiz profilini sağlamaz. Sosyal durumlarda alkol için en iyi alternatif olarak Kava'nın gerçek bir yerine geçecek bir şey yoktur."
+    },
+    "kava-zeremonie": {
+      "question": "Kava töreni nedir?",
+      "answer": "Kava töreni, Kava'nın topluca hazırlandığı ve içildiği geleneksel bir ritüeldir. Tören, sıkı protokollere uyar: Kava'yı kim hazırlar? İlk kaseyi kim alır? Hangi sırayla içilir? Fiji'de bu törene \"Sevusevu\" denir ve resmi devlet etkinliklerinin bir parçasıdır. Tonga ve Samoa'da belirli rollere sahip yüksek formalize 'Ava törenleri vardır. Tören, saygı, misafirperverlik ve sosyal bağları simgeler.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "Törenler & Ritüeller"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "Nakamal nedir?",
+      "answer": "Nakamal, Vanuatu'da geleneksel bir Kava içme yeridir. Başlangıçta, köy topluluğunun akşam Kava içmek için toplandığı bir erkek evi olarak işlev görmüştür. Bugün \"Nakamal\", Port Vila ve diğer şehirlerdeki modern Kava barlarını da ifade eder. Atmosfer sakin ve saygılıdır – birlikte oturulur, birkaç kase içilir ve sessiz sohbetler yapılır. Nakamallar, her kesimden insanın bir araya geldiği sosyal denge yerleridir.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal & Kava Barları"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "Kava'nın farklı kültürlerdeki isimleri nelerdir?",
+      "answer": "Kava'nın farklı Pasifik kültürlerinde farklı isimleri vardır: Vanuatu: Kava veya Malok. Fiji: Yaqona (\"Yang-gona\" olarak telaffuz edilir). Tonga: Kava veya 'Ava. Samoa: 'Ava. Hawaii: 'Awa. Pohnpei: Sakau. Papua Yeni Gine: Kava. Bilimsel adı Piper methysticum \"sarhoş edici biber\" anlamına gelir. Almanya'da Kava, Kava-Kava ve Rauschpfeffer olarak bilinir.",
+      "relatedLinks": [
+        {
+          "href": "/de/glossar",
+          "label": "Sözlük"
+        }
+      ]
+    }
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

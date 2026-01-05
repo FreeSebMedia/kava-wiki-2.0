@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "Kimyotip Sistemi",
+    "subtitle": "6 haneli kodun bir Kava çeşidinin etkisini nasıl tahmin ettiğini ve Noble ile Tudei'yi nasıl ayırdığını.",
+    "category": "İçerikler"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "inhaltsstoffe": "İçerikler",
+    "current": "Kimyotipler"
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "einfuehrung": "Kimyotip nedir?",
+    "nummerierung": "Kavalaktonların numaralandırılması",
+    "lesen": "Bir kimyotipi okumak",
+    "beispiele": "Örnekler & Yorumlama",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Kimyotipe göre Tudei tanıma",
+    "wirkungsprofile": "Kimyotipe göre etki profilleri",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Balanced Kavas",
+    "qualitaet": "Kimyotip & Kalite kontrolü"
+  },
+  "einfuehrung": {
+    "paragraph1": "Kimyotip, altı ana kavalaktonu konsantrasyonlarına göre azalan sırada listeleyen 6 haneli bir koddur. Her Kava çeşidi için bir \"parmak izi\" gibi çalışır ve bir yudum almadan önce beklenen etkiyi tahmin etmeyi sağlar.",
+    "paragraph2": "Bu sistem 1980'lerde Vincent Lebot tarafından geliştirilmiştir ve günümüzde Kava'nın sınıflandırılması ve kalite kontrolü için uluslararası standarttır. Yüksek kaliteli \"Noble Kava\" ile düşük kaliteli \"Tudei Kava\"yı ayırmanın en önemli aracıdır."
+  },
+  "nummerierung": {
+    "title": "Kavalaktonların numaralandırılması",
+    "intro": "Altı ana kavalaktonun her biri bir rakama atanmıştır. Bu atama tarihsel olarak belirlenmiş olup, keşif sırasına veya kromatografik elüsyona dayanmaktadır:",
+    "tableHeaders": {
+      "digit": "Rakam",
+      "kavalacton": "Kavalakton",
+      "abbreviation": "Kısaltma",
+      "effect": "Ana etki"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Odak, Dopamin artışı"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Kas gevşemesi, analjezi"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "CB1 aktivitesi, euforia"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anksiyolitik, \"Heady\" etkisi"
+      },
+      {
+        "digit": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Uzun süreli sedasyon, Tudei belirteci"
+      },
+      {
+        "digit": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Sedatif, nöroprotektif"
+      }
+    ],
+    "mnemonic": "<strong>Hafıza yardımı:</strong> Rakamlar <strong>4</strong> (Kavain) ve <strong>2</strong> (Dihydrokavain) Noble Kava için \"iyi\" başlangıç pozisyonlarıdır. Rakam <strong>5</strong> (Dihydromethysticin) ilk iki pozisyonda ise Tudei Kava için bir uyarı işareti olarak kabul edilir."
+  },
+  "lesen": {
+    "title": "Bir kimyotipi okumak",
+    "intro": "Kimyotip, her pozisyonun göreli konsantrasyonu belirttiği 6 haneli bir sayı olarak yazılır:",
+    "positions": [
+      {
+        "rank": "1. Sıra",
+        "label": "En yüksek kons.",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "2. Sıra",
+        "label": "İkinci en yüksek",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3. Sıra",
+        "label": "Üçüncü en yüksek",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4. Sıra",
+        "label": "Dördüncü en yüksek",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5. Sıra",
+        "label": "Beşinci en yüksek",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6. Sıra",
+        "label": "En düşük",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Örnekler & Yorumlama",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Tipik Noble Kava (örneğin Borogu)",
+        "description": "<strong>Kavain</strong> baskındır, ardından <strong>Dihydrokavain</strong> gelir. DHM (5) sadece 4. sıradadır. Beklenen etki: Net, odaklanmış rahatlama ile iyi kas gevşemesi. Hiçbir \"sarhoşluk\" yok."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, bedensel odaklı (örneğin Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> birinci sırada olması, daha güçlü bedensel rahatlama anlamına gelir. Akşam için idealdir. Hala Noble'dır, çünkü DHM (5) oldukça geridedir."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (örneğin Isa)",
+        "description": "<strong>DHM (5)</strong> birinci sırada olması net bir uyarı işaretidir. Beklenen etki: Çok uzun süreli sedasyon (12+ saat), olası bulantı, ertesi gün \"sarhoşluk\". Düzenli tüketim için uygun değildir."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (örneğin Palimanu)",
+        "description": "<strong>DHM (5)</strong> ikinci sırada olması da sorunludur. DHK (2) önde olsa da, yüksek DHM oranı bu çeşidi ihracat ve düzenli tüketim için uygun hale getirmemektedir."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Noble Kava (Edelkava) ile Tudei Kava (İki Gün Kava) arasındaki ayrım, Kava kalitesi için temeldir. \"Tudei\" ismi, bu çeşitlerin etkisinin iki güne kadar sürebileceğinden gelmektedir – hoş olmayan yan etkilerle birlikte.",
+    "tableHeaders": {
+      "criterion": "Kriter",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Kimyotip başlangıcı",
+        "noble": "4 veya 2 ile başlar, asla 5 ile başlamaz",
+        "tudei": "Genellikle 5 ile başlar veya 5 ikinci sıradadır"
+      },
+      {
+        "criterion": "Etkilerin başlaması",
+        "noble": "Hızlı (10-20 dakika)",
+        "tudei": "Gecikmeli (30-90 dakika)"
+      },
+      {
+        "criterion": "Etkilerin süresi",
+        "noble": "Orta (3-6 saat)",
+        "tudei": "Çok uzun (6-12+ saat)"
+      },
+      {
+        "criterion": "Etkilerin karakteri",
+        "noble": "Açık, rahat, sosyal",
+        "tudei": "Dumura uğratıcı, sedatif, sersemletici"
+      },
+      {
+        "criterion": "Yan etkiler",
+        "noble": "Doğru hazırlamada minimum",
+        "tudei": "Bulantı, baş ağrısı, \"sarhoşluk\""
+      },
+      {
+        "criterion": "İhracat izni",
+        "noble": "Evet (düzenlenmiş)",
+        "tudei": "Hayır (Vanuatu'da yasak)"
+      },
+      {
+        "criterion": "Örnek çeşitler",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wildkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Kimyotipe göre Tudei tanıma",
+    "intro": "Tudei Kava'yı tanımanın en basit kuralı:",
+    "warningTitle": "Uyarı işaretleri",
+    "warnings": [
+      "<strong>5</strong> 1. veya 2. pozisyonda",
+      "<strong>5</strong> <strong>4</strong>'ten önce kimyotipte",
+      "Çok yüksek DHM toplam oranı (>15%)"
+    ],
+    "safeTitle": "Güvenli işaretler",
+    "safeIndicators": [
+      "<strong>4</strong> veya <strong>2</strong> 1. pozisyonda",
+      "<strong>5</strong> 4, 5 veya 6. pozisyonda",
+      "Kavain baskınlığı (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Kimyotipe göre etki profilleri",
+    "intro": "Kimyotipe dayalı olarak Noble Kava çeşitleri üç ana kategoriye ayrılabilir:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavas, <strong>Kavain (4)</strong> birinci sırada olup, öncelikle zihinsel bir etki gösterir. Odaklanmayı, netliği ve hoş bir ruh hali artırmayı teşvik eder, yoğun bir sedasyon olmadan.",
+    "idealTitle": "İdeal için:",
+    "idealFor": [
+      "Sosyal etkinlikler ve sohbetler",
+      "Yaratıcı işler",
+      "Gündüz veya erken akşam",
+      "Yeni başlayanlar (daha hafif etki)"
+    ],
+    "examples": "<strong>Örnek çeşitler:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavas, <strong>Dihydrokavain (2)</strong> birinci sırada olup, öncelikle bedene etki eder. Güçlü kas gevşemesi sağlar ve uzun bir günün ardından rahatlamak için idealdir.",
+    "idealTitle": "İdeal için:",
+    "idealFor": [
+      "Akşam rahatlaması",
+      "Stres azaltma ve kas gevşemesi",
+      "Uyku hazırlığı",
+      "Deneyimli Kava içicileri"
+    ],
+    "examples": "<strong>Örnek çeşitler:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Balanced Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Balanced Kavas, Kavain ve Dihydrokavain'in dengeli bir dağılımına sahiptir ve hem zihinsel netlik hem de bedensel rahatlama sunar. En çok yönlü çeşitlerdir.",
+    "idealTitle": "İdeal için:",
+    "idealFor": [
+      "Günlük kullanım",
+      "Meditasyon ve mindfulness",
+      "Çeşitli kullanım (gündüz veya akşam)",
+      "Tüm deneyim seviyeleri"
+    ],
+    "examples": "<strong>Örnek çeşitler:</strong> Bir Kar, Melomelo (partiye göre değişir)"
+  },
+  "qualitaet": {
+    "title": "Kimyotip & Kalite kontrolü",
+    "intro": "Kimyotip, günümüzde uluslararası Kava ticaretinde <strong>kalite kontrolü</strong> için en önemli araçtır. Vanuatu, en büyük Kava ihracatçısı, Kava'nın ihraç edilmeden önce kimyotip analizinin yasal olarak zorunlu olduğu bir yerdir.",
+    "lawTitle": "Vanuatu Kava Yasası (2002)",
+    "lawText": "Vanuatu Kava Yasası, yalnızca <strong>Noble Kava çeşitlerinin</strong> ihracata izin verildiğini belirtir. Tudei çeşitleri ve bunların karışımları ihracattan hariçtir. Uygunluk, kimyotip analizleriyle kontrol edilmektedir.",
+    "lawNote": "Bu, Vanuatu'dan gelen Kava'nın özellikle yüksek kaliteli olarak kabul edilmesinin nedenlerinden biridir - Tudei kontaminasyonunu önlemek için devletin kalite kontrolleri vardır.",
+    "consumerTip": "<strong>Tüketiciler için ipucu:</strong> Ciddi Kava satıcıları, ürünlerinin kimyotipini belirtir veya talep üzerine bunu bildirebilir. Eğer bir satıcı kimyotip bilgisi sağlayamazsa, dikkatli olunmalıdır."
+  },
+  "navigation": {
+    "nextCategory": "Sonraki kategoriye geç:",
+    "sortenTitle": "Çeşitler & Varyeteler",
+    "sortenDescription": "80'den fazla belgelenmiş Kava çeşidi ve özellikleri"
+  }
+}

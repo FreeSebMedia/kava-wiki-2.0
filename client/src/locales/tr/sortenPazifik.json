@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Fiji, Tonga ve Hawaii'den Çeşitler",
+    "subtitle": "Tüm Pasifik'ten bölgesel Kava spesiyaliteleri: Fiji'nin Yaqona'sından Hawaii'nin 'Awa'sına.",
+    "category": "Çeşitler"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "sorten": "Çeşitler",
+    "current": "Pasifik"
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fiji – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Tüm Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Diğer Bölgeler",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Menşei",
+    "type": "Tür",
+    "composition": "Bileşim",
+    "duration": "Etkisi Süresi",
+    "effectProfile": "Etkili Profil",
+    "recommendedFor": "Tavsiye Edilen:",
+    "variety": "Çeşit",
+    "speciality": "Özellik"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\"><strong>Fiji</strong>'de Kava, <strong>Yaqona</strong> (\"Yang-gona\" olarak telaffuz edilir) adıyla bilinir ve resmi ulusal içecek olarak kabul edilir. İsim \"acı\" anlamına gelir ve karakteristik tadına atıfta bulunur. İkinci bir isim olan <strong>Malogu</strong>, \"rahatlatmak\" anlamına gelir ve etkisini tanımlar.</p><p>Fiji'nin <strong>13 belgelenmiş Kava çeşidi</strong> vardır ve yüksek kaliteli işlenmesi ile tanınır. Özellikle <strong>Waka</strong> – yalnızca yan köklerden (ana kök değil) üretilen Kava, potansiyel olarak daha güçlü kabul edilir.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Ağır",
+        "speciality": "Çok potent, güçlü sedatif"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Dengeli",
+        "speciality": "Dengeli, çok yönlü"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Ağır",
+        "speciality": "Uzun süreli"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Dengeli",
+        "speciality": "Geleneksel"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Ağır",
+        "speciality": "Nadir, çok değerli"
+      },
+      {
+        "name": "Yalu",
+        "type": "Dengeli",
+        "speciality": "Hafif, hoş"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Ağır",
+      "Çok Potent"
+    ],
+    "origin": "Fiji (çeşitli adalar)",
+    "type": "Waka (yan kökler)",
+    "duration": "5-8 saat",
+    "description": "<strong>Loa Waka</strong>, piyasadaki en potansiyelli Kava'lardan biridir. \"Loa\" Fijice \"koyu\" anlamına gelir ve köklerin rengini ifade eder. \"Waka\" ise kaliteli yan kökleri belirtir. Bu kombinasyon, son derece güçlü, bedensel bir Kava oluşturur.",
+    "effects": [
+      {
+        "text": "<strong>Son derece sedatif:</strong> En güçlü \"Ağır\" Kavalardan biri"
+      },
+      {
+        "text": "<strong>Derin kas gevşemesi:</strong> <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">Gerginlikler</a> için ideal"
+      },
+      {
+        "text": "<strong>Uyku teşvik edici:</strong> <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">Uyku sorunları</a> için mükemmel"
+      },
+      {
+        "text": "<strong>Uzun süreli:</strong> Etki 5-8 saat sürebilir"
+      }
+    ],
+    "recommendedFor": "Deneyimli kullanıcılar, akşam tüketimi, ağır uyku problemleri",
+    "warning": "<strong>Dikkat:</strong> Loa Waka çok potenttir. Yeni başlayanlar daha düşük bir dozla başlamalı ve etkisini beklemelidir."
+  },
+  "tonga": {
+    "title": "Tonga – Tüm Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong>, Kava dünyasında benzersizdir: <strong>Orada yetiştirilen tüm çeşitler Noble'dır</strong>. Tonga'da Tudei çeşitleri yoktur. Bu, Tonga Kava'sını özellikle güvenli ve öngörülebilir kılar.</p><p>Tonga Kava'sı, daha çok <strong>\"heady\"</strong> (baş odaklı) etkisi ile tanınır. Çeşitler, Fiji veya Vanuatu Kava'sına göre daha az sedatif olma eğilimindedir ve gün içi tüketim ve sosyal etkinlikler için uygundur.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "En popüler çeşit, sosyal"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Dengeli",
+        "speciality": "Hafif, hoş"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Dengeli",
+        "speciality": "Geleneksel"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Dengeli",
+        "speciality": "Nazik, yeni başlayanlar için iyi"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euphorik"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Yeni başlayanlar için uygun"
+    ],
+    "origin": "Tonga",
+    "composition": "Karışım (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 saat",
+    "description": "<strong>Pouni Ono</strong>, muhtemelen en bilinen \"gündüz Kava'sıdır\" ve birkaç Tonga çeşidinin karışımıdır (tipik olarak Leka Hina, Kava Kula ve Kava Fulufulu). İsim \"altı kez\" anlamına gelir ve geleneksel hazırlama yöntemine atıfta bulunur.",
+    "effects": [
+      {
+        "text": "<strong>Euphorik:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Ruh halini iyileştirici</a> ve sosyal"
+      },
+      {
+        "text": "<strong>Uyanık tutucu:</strong> Neredeyse sedatif değil, gün için ideal"
+      },
+      {
+        "text": "<strong>Hafif tat:</strong> Birçok diğer çeşitten daha hoş"
+      },
+      {
+        "text": "<strong>Kısa etki süresi:</strong> İyi kontrol edilebilir"
+      }
+    ],
+    "recommendedFor": "Yeni başlayanlar, gündüz tüketimi, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">sosyal etkinlikler</a>, iş",
+    "tip": "<strong>İpucu:</strong> Pouni Ono, Kava yeni başlayanları için en iyi çeşitlerden biridir. Hafif tadı ve hoş, bunaltıcı olmayan etkisi, başlangıcı kolaylaştırır."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">Hawaii'de Kava <strong>'Awa</strong> olarak adlandırılır. Hawaii'nin <strong>13 geleneksel çeşidi</strong> vardır ve hepsi Noble olarak kabul edilir ve tüketim için uygundur. Hawaii 'Awa'sı yüksek potansiyeli ve benzersiz karakteri ile tanınır.</p><p>'Awa'nın Hawaii'de özel bir kültürel önemi vardır. Tarihsel olarak, belirli 'Awa, soylulara (Ali'i) ayrılmıştır. Bugün, Hawaii Kava'sı genellikle taze hazırlanır ve yüksek üretim maliyetleri nedeniyle diğer bölgelerden gelen Kava'dan daha pahalıdır.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Kraliyet Kava'sı, çok zihinsel"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Ağır",
+        "speciality": "Tören, güçlü sedatif"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Dengeli",
+        "speciality": "Dengeli, çok yönlü"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Hafif, hoş"
+      },
+      {
+        "name": "Nene",
+        "type": "Dengeli",
+        "speciality": "Geleneksel"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Ağır",
+        "speciality": "Nadir, çok değerli"
+      }
+    ],
+    "warning": "<strong>Dikkat:</strong> Hawaii'de ayrıca iki ithal Tudei çeşidi yetiştirilmektedir: <strong>Isa</strong> ve <strong>Iwi</strong>. Bunlar yerli değildir ve kaçınılmalıdır."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Kraliyet"
+    ],
+    "origin": "Hawaii",
+    "type": "Heady / Zihinsel",
+    "duration": "2-4 saat",
+    "description": "<strong>Moi</strong>, \"Kralların Kava'sı\" olarak bilinir. Hawaii tarihindeki Moi, soylulara (Ali'i) ayrılmıştır ve halk tarafından tüketilmesine izin verilmemiştir. Bugün, olağanüstü zihinsel, zihinsel netlik sağlayan etkisi ile tanınır.",
+    "effects": [
+      {
+        "text": "<strong>Son derece zihinsel:</strong> Zihinsel netliği ve odaklanmayı artırır"
+      },
+      {
+        "text": "<strong>Yaratıcılığı teşvik edici:</strong> <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">yaratıcı çalışmalar</a> için ideal"
+      },
+      {
+        "text": "<strong>Neredeyse sedatif değil:</strong> Yorgunluk yapmaz"
+      },
+      {
+        "text": "<strong>Ruhsal:</strong> Geleneksel olarak meditasyon ve törenler için"
+      }
+    ],
+    "recommendedFor": "Yaratıcı çalışmalar, meditasyon, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">bilişsel görevler</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p><strong>Samoa</strong>'da Kava <strong>'Ava</strong> olarak adlandırılır. Samoa'nın yalnızca <strong>4 belgelenmiş çeşidi</strong> vardır, ancak zengin bir törensel geleneği vardır. 'Ava töreni, Samoa kültürünün önemli bir parçasıdır ve resmi etkinliklerde gerçekleştirilir.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Dengeli",
+        "speciality": "Geleneksel, törensel"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Hafif, hoş"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Ağır",
+        "speciality": "Daha güçlü, sedatif"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Dengeli",
+        "speciality": "Tonga'dan ithal"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Diğer Bölgeler",
+    "intro": "Ana yetiştirme alanlarının yanı sıra, Kava bazı diğer Pasifik bölgelerinde de bulunmaktadır:",
+    "regions": [
+      {
+        "name": "Papua Yeni Gine",
+        "description": "PNG'nin yalnızca <strong>bir Noble çeşidi</strong> vardır: <strong>Kau kupwe</strong>, Baluan Adası'nda yetiştirilir. Diğer çoğu PNG çeşidi Tudei'dir ve kaçınılmalıdır."
+      },
+      {
+        "name": "Solomon Adaları",
+        "description": "Solomon Adaları'nın da yalnızca <strong>bir Noble çeşidi</strong> vardır: <strong>Melomelo</strong> (Vanuatu'nun Melo Melo'su ile karıştırılmamalıdır, ancak akraba olabilirler)."
+      },
+      {
+        "name": "Mikronezya",
+        "description": "Mikronezya Federal Devletleri'nde (Pohnpei) <strong>Rahmwahnger</strong> çeşidi bulunmaktadır. Kava burada önemli bir törensel öneme sahiptir."
+      },
+      {
+        "name": "Wallis ve Futuna",
+        "description": "Bu Fransız topraklarının kendi Kava gelenekleri vardır, ancak belgelenmiş benzersiz çeşitleri azdır."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Çeşitler bölümünde devam:",
+    "nextTitle": "Çeşit profilleri detaylı",
+    "nextDescription": "Tüm önemli çeşitlerin kimyasal tipleri, etkileri ve önerileri ile detaylı profilleri",
+    "nextLink": "/de/sorten/profile"
+  }
+}

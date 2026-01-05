@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Dil değiştir"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Botanik",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Botaniğe giriş"
+        },
+        "pflanze": {
+          "name": "Bitki",
+          "description": "Taksonomi & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Morfoloji",
+          "description": "Anatomi & Kök sistemi"
+        },
+        "anbau": {
+          "name": "Yetiştirme & Ekoloji",
+          "description": "Kültivasyon & Üretim"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "Tarih",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Kava'nın tarihi"
+        },
+        "urspruenge": {
+          "name": "Kökenler",
+          "description": "Vanuatu & Evcilik"
+        },
+        "verbreitung": {
+          "name": "Yayılma",
+          "description": "Pasifik genişlemesi"
+        },
+        "moderne": {
+          "name": "Modern Tarih",
+          "description": "2002 Yasağı & Rehabilitasyon"
+        },
+        "zeitleiste": {
+          "name": "Etkileşimli Zaman Çizelgesi",
+          "description": "5000 yıllık Kava tarihi"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Bileşenler",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Kavalactonlar & Kimyasal tipler"
+        },
+        "kavalactone": {
+          "name": "6 Kavalacton",
+          "description": "Detaylı etki profilleri"
+        },
+        "chemotypen": {
+          "name": "Kimyasal Tip Sistemi",
+          "description": "Noble vs. Tudei tanıma"
+        },
+        "rechner": {
+          "name": "Kimyasal Tip Hesaplayıcı",
+          "description": "Etkileşimli analiz aracı"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Etki",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Etki mekanizmaları"
+        },
+        "angst": {
+          "name": "Kaygı Giderme",
+          "description": "Anksiyolitik etki"
+        },
+        "schlaf": {
+          "name": "Uyku & Rahatlama",
+          "description": "Sedatif etkiler"
+        },
+        "muskel": {
+          "name": "Kas Rahatlatma",
+          "description": "Fiziksel rahatlama"
+        },
+        "stimmung": {
+          "name": "Ruh Hali & Sosyal",
+          "description": "Euforik etkiler"
+        },
+        "kognition": {
+          "name": "Bilişsel Etkiler",
+          "description": "Odaklanma & Ters Tolerans"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Güvenlik",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Güvenlik & Yan etkiler"
+        },
+        "leber": {
+          "name": "Karaciğer Güvenliği",
+          "description": "Hepatotoksisite & 2002 Yasağı"
+        },
+        "wechselwirkungen": {
+          "name": "Etkileşimler",
+          "description": "İlaçlar & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Kontrendikasyonlar",
+          "description": "Ne zaman Kava'dan kaçınılmalı"
+        },
+        "checker": {
+          "name": "Etkileşim Kontrol Aracı",
+          "description": "İlaçları kontrol et"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Çeşitler",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Çeşitler & Kültivarlar"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "Önemli ayrım"
+        },
+        "vanuatu": {
+          "name": "Vanuatu Çeşitleri",
+          "description": "Borogu, Melo Melo, Kelai & daha fazlası"
+        },
+        "pazifik": {
+          "name": "Pasifik Çeşitleri",
+          "description": "Fiji, Tonga, Hawaii, Samoa"
+        },
+        "profile": {
+          "name": "Çeşit Profilleri",
+          "description": "Detaylı tanıtımlar"
+        },
+        "vergleich": {
+          "name": "Çeşit Karşılaştırması",
+          "description": "İki çeşidi karşılaştır"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Hazırlama",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Hazırlama yöntemleri"
+        },
+        "traditionell": {
+          "name": "Geleneksel Yöntem",
+          "description": "Süzme bezi ile yoğurma"
+        },
+        "blender": {
+          "name": "Blender Yöntemi",
+          "description": "Hızlı hazırlama"
+        },
+        "instant": {
+          "name": "Anında Kava",
+          "description": "Mikronize Kava"
+        },
+        "rechner": {
+          "name": "Dozaj Hesaplayıcı",
+          "description": "Optimal miktarı hesapla"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Kültür",
+      "items": {
+        "uebersicht": {
+          "name": "Genel Bakış",
+          "description": "Kültür & Gelenek"
+        },
+        "zeremonien": {
+          "name": "Törenler & Ritüeller",
+          "description": "Yaqona, 'Ava & Nakamal ritüelleri"
+        },
+        "nakamal": {
+          "name": "Nakamal & Kava Barları",
+          "description": "Geleneksel & modern yerler"
+        },
+        "moderne": {
+          "name": "Modern Kava Kültürü",
+          "description": "Küresel yayılma & Rönesans"
+        },
+        "weltkarte": {
+          "name": "Etkileşimli Dünya Haritası",
+          "description": "Kava bölgelerini keşfet"
+        },
+        "kava-bars": {
+          "name": "Kava Barı Bulucu",
+          "description": "Dünya genelinde Kava barlarını bul"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Daha Fazla",
+      "items": {
+        "faq": {
+          "name": "SSS",
+          "description": "Sıkça Sorulan Sorular"
+        },
+        "studien": {
+          "name": "Araştırmalar",
+          "description": "Bilimsel araştırmalar"
+        },
+        "rechtsstatus": {
+          "name": "Hukuki Durum",
+          "description": "Hukuki durum"
+        },
+        "glossar": {
+          "name": "Sözlük",
+          "description": "Teknik terimler açıklanmıştır"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Piper methysticum hakkında dünya çapında en kapsamlı bilgi portalı. Bilimsel olarak temellendirilmiş, kültürel olarak saygılı.",
+    "sections": {
+      "wissen": {
+        "title": "Bilgi",
+        "links": {
+          "botanik": "Botanik",
+          "geschichte": "Tarih",
+          "wissenschaft": "Bilim",
+          "sicherheit": "Güvenlik"
+        }
+      },
+      "praxis": {
+        "title": "Uygulama",
+        "links": {
+          "zubereitung": "Hazırlama",
+          "sorten": "Çeşitler & Kimyasal tipler",
+          "rechtsstatus": "Hukuki durum",
+          "faq": "Sıkça Sorulan Sorular"
+        }
+      },
+      "partner": {
+        "title": "Ortaklar & Kitap",
+        "recommendedReading": "Önerilen okuma:",
+        "bookTitle": "\"Kava – Huzur Kökü\""
+      }
+    },
+    "copyright": "Tüm hakları saklıdır.",
+    "legal": {
+      "impressum": "Yasal Uyarı",
+      "datenschutz": "Veri Koruma"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa"
+  },
+  "toc": {
+    "title": "İçindekiler"
+  },
+  "recommendation": {
+    "label": "Tavsiye",
+    "title": "Premium Noble Kava",
+    "text": "Resmi ortağımızda sertifikalı kalite ve saflığı keşfedin.",
+    "cta": "Kava-mode.com'a git"
+  }
+}

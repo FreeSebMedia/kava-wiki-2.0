@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "形态学",
+    "subtitle": "Kava植物的详细解剖，特别关注经济上重要的根系。",
+    "category": "植物学"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "植物学",
+    "morphologie": "形态学"
+  },
+  "toc": {
+    "ueberblick": "形态学概述",
+    "wurzelsystem": "根系",
+    "stumpf": "块茎（Corm）",
+    "seitenwurzeln": "侧根（Waka）",
+    "kavalactonVerteilung": "Kavalacton分布",
+    "staengel": "茎和节点",
+    "blaetter": "叶子",
+    "blueten": "花和果实"
+  },
+  "intro": {
+    "paragraph1": "<em>Piper methysticum</em>的形态学是数千年选择的结果。虽然植物的地上部分对于品种的识别很重要，但真正的价值在于地下结构——包含所需Kavalactone的复杂根系。"
+  },
+  "overview": {
+    "title": "形态学概述",
+    "paragraph1": "Kava是一种常绿的多年生灌木，典型的生长高度为<strong>1.5到3米</strong>。在最佳条件下——充足的水分、养分和阴影——单株植物可以达到5米。",
+    "table": {
+      "headers": {
+        "plantPart": "植物部分",
+        "characteristic": "特征",
+        "kavalactoneContent": "Kavalacton含量"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "根茎（Rhizom）",
+          "characteristic": "粗壮，木质，分枝",
+          "content": "非常高（3-20%）"
+        },
+        "lateralRoots": {
+          "name": "侧根",
+          "characteristic": "细，纤维状，广泛分布",
+          "content": "最高含量"
+        },
+        "stem": {
+          "name": "茎（干）",
+          "characteristic": "节状，竹状",
+          "content": "低至中等"
+        },
+        "leaves": {
+          "name": "叶子",
+          "characteristic": "心形，大",
+          "content": "非常少"
+        },
+        "flowers": {
+          "name": "花",
+          "characteristic": "小，穗状",
+          "content": "未使用"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "根系",
+    "paragraph1": "Kava植物经济和药理上最重要的部分是地下根系。它由两个主要组成部分构成，这些部分在组成和质量上有所不同。",
+    "qualityAlert": {
+      "title": "质量特征：",
+      "text": "高质量的Kava仅由根部制成。使用地上植物部分（茎、叶）被视为低质量，可能导致不良副作用。"
+    },
+    "stump": {
+      "title": "块茎（Corm/Stump）",
+      "paragraph1": "<strong>块茎</strong>是位于地表下方的粗壮木质部分。它构成根茎的中心部分，老植物可以达到相当大的尺寸。",
+      "properties": {
+        "title": "特性",
+        "items": [
+          "重量：成熟植物5-25 kg",
+          "直径：10-30 cm",
+          "质地：坚硬，木质，纤维状",
+          "颜色：浅棕色至深棕色"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalacton特征",
+        "items": [
+          "总含量：中到高",
+          "更多的二氢美克斯汀（DHM）",
+          "比侧根含有更少的Kavain",
+          "倾向于具有更“重”的效果"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "侧根（Lateral Roots / Waka）",
+      "paragraph1": "<strong>侧根</strong>是从块茎发出的更细的根，向土壤中扩展。在斐济，它们被称为“Waka”，被视为最高质量的成分。",
+      "properties": {
+        "title": "特性",
+        "items": [
+          "直径：0.5-3 cm",
+          "长度：可达几米",
+          "质地：柔软，木质较少",
+          "颜色：浅棕色，黄色"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalacton特征",
+        "items": [
+          "总含量：所有植物部分中最高",
+          "Kavain含量更高",
+          "效果特征更均衡",
+          "优质（“Waka等级”）"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "植物中的Kavalacton分布",
+      "paragraph1": "Kavalactone的浓度在不同植物部分之间差异很大。这直接影响Kava产品的质量和安全性。",
+      "table": {
+        "headers": {
+          "plantPart": "植物部分",
+          "kavalactoneContent": "Kavalacton含量",
+          "usage": "用途",
+          "qualityLevel": "质量等级"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "侧根（Waka）",
+            "content": "10-20%",
+            "usage": "优质Kava",
+            "quality": "最高"
+          },
+          "stump": {
+            "name": "块茎（Corm）",
+            "content": "5-15%",
+            "usage": "标准Kava",
+            "quality": "高"
+          },
+          "basalStem": {
+            "name": "基部干（Lewena）",
+            "content": "3-8%",
+            "usage": "混合或单独使用",
+            "quality": "中"
+          },
+          "upperStem": {
+            "name": "上部干",
+            "content": "1-3%",
+            "usage": "不推荐",
+            "quality": "低"
+          },
+          "leaves": {
+            "name": "叶子",
+            "content": "<1%",
+            "usage": "未使用",
+            "quality": "不适合"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "警告：",
+        "text": "使用叶子和地上茎部分与历史上关于肝毒性的报告有关。高质量的Kava仅使用根材料。"
+      }
+    }
+  },
+  "stems": {
+    "title": "茎和节点",
+    "paragraph1": "Kava的茎（干）是<strong>品种识别</strong>的一个重要特征。它们直立生长，随着年龄的增长而分枝。",
+    "structure": {
+      "title": "结构",
+      "items": [
+        "<strong>节点（Nodes）：</strong>明显的增厚，类似于竹子",
+        "<strong>节间：</strong>节点之间的部分，长度可变",
+        "<strong>直径：</strong>2-5 cm，取决于年龄和品种",
+        "<strong>高度：</strong>1.5-3 m（在最佳条件下可达5 m）"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "品种特征",
+      "paragraph1": "茎的颜色和花纹是区分栽培品种的关键特征：",
+      "items": [
+        "<strong>绿色：</strong>常见于许多标准品种",
+        "<strong>斑点：</strong>特定品种的特征",
+        "<strong>条纹：</strong>不同颜色的纵向条纹",
+        "<strong>深紫色/黑色：</strong>稀有，通常特别受重视的品种"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "叶子",
+    "paragraph1": "Kava的叶子大而显眼，主要用于光合作用。传统上不用于Kava的制备。",
+    "characteristics": {
+      "title": "叶子特征",
+      "formSize": {
+        "title": "形状与大小",
+        "items": [
+          "心形（cordat）",
+          "宽度：15-30 cm",
+          "长度：20-35 cm",
+          "交替排列"
+        ]
+      },
+      "surface": {
+        "title": "表面",
+        "items": [
+          "光滑至略有毛发",
+          "上面光亮",
+          "下面暗淡",
+          "明显的叶脉"
+        ]
+      },
+      "color": {
+        "title": "颜色",
+        "items": [
+          "浅绿色至深绿色",
+          "可能有紫色阴影",
+          "叶柄常常有颜色",
+          "品种特异性变异"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "花和果实",
+    "paragraph1": "尽管<em>Piper methysticum</em>会开花，但该植物在功能上是无性繁殖的，并且不产生可育种子。",
+    "flowerStructure": {
+      "title": "花结构",
+      "items": [
+        "<strong>类型：</strong>穗状花序（Spadix）",
+        "<strong>大小：</strong>长3-9 cm",
+        "<strong>颜色：</strong>绿色至白色或黄色",
+        "<strong>位置：</strong>与叶子相对",
+        "<strong>性别：</strong>通常为单性（雌雄异株）"
+      ]
+    },
+    "sterility": {
+      "title": "不育性",
+      "paragraph1": "<em>P. methysticum</em>的不育性是由于高倍性（十倍体）造成的。这意味着：",
+      "items": [
+        "没有可育种子",
+        "仅通过无性繁殖",
+        "完全依赖于人类",
+        "所有植物都是基因克隆"
+      ]
+    },
+    "paragraph2": "这种不育性有深远的后果：如果没有持续的人类栽培，<em>Piper methysticum</em>将在一代内灭绝。今天存在的每一株Kava植物都是一条不间断的插枝繁殖链的结果，追溯到大约3000年前的第一次驯化。"
+  },
+  "navigation": {
+    "continueText": "继续阅读植物学章节：",
+    "nextChapter": {
+      "title": "种植与生态",
+      "description": "栽培、繁殖与生长条件"
+    }
+  }
+}

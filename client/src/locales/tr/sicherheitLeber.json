@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Karaciğer Güvenliği & Hepatotoksisite",
+    "subtitle": "Kava-karaciğer tartışmasının bilimsel analizi: Gerçekler, mitler ve mevcut araştırma durumu.",
+    "category": "Güvenlik",
+    "breadcrumbs": {
+      "home": "Ana Sayfa",
+      "sicherheit": "Güvenlik",
+      "current": "Karaciğer Güvenliği"
+    }
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "zusammenfassung": "Özet",
+    "verbot2002": "2002 Yılı Yasağı",
+    "wasWirklichGeschah": "Gerçekten Ne Oldu",
+    "rehabilitation": "Rehabilitasyon & Mahkeme Kararları",
+    "wissenschaft": "Bilimsel Kanıtlar",
+    "whoBewertung": "DSÖ Değerlendirmesi 2007",
+    "emaBewertung": "EMA Değerlendirmesi 2017",
+    "klinischeStudien": "Klinik Çalışmalar",
+    "risikofaktoren": "Tanımlanan Risk Faktörleri",
+    "extrakte": "Ekstrakt Türleri",
+    "pflanzenteile": "Bitki Kısımları",
+    "genetik": "Genetik Faktörler",
+    "komedikation": "Komedikasyon & Alkol",
+    "mechanismen": "Olası Mekanizmalar",
+    "empfehlungen": "Pratik Tavsiyeler",
+    "quellen": "Kaynaklar"
+  },
+  "zusammenfassung": {
+    "title": "Mevcut Bilimsel Konsensüs",
+    "intro": "DSÖ, EMA ve bağımsız araştırmacılar tarafından kapsamlı analizler sonucunda:",
+    "points": [
+      "Geleneksel olarak hazırlanmış Noble türlerden Kava, uygun kullanıldığında <strong>güvenlidir</strong>",
+      "Ağır karaciğer hasarları <strong>son derece nadirdir</strong> (tahmini insidans: 1:60.000 ile 1:1.000.000 arasında)",
+      "Çoğu vaka raporu, <strong>önemli kalite eksiklikleri</strong> göstermiştir",
+      "2002 yılı AB yasağı, Alman mahkemeleri tarafından <strong>orantısız</strong> olarak değerlendirilmiştir"
+    ]
+  },
+  "verbot2002": {
+    "title": "2002 Yılı Yasağı",
+    "intro": "2002 yılında Kava, Almanya ve birçok diğer Avrupa ülkesinde piyasadan kaldırıldı. İlaç ve Tıbbi Cihazlar Federal Kurumu (BfArM), ağır karaciğer hasarları hakkında gelen raporların ardından Kava içeren ilaçların ruhsatlarını iptal etti. Bu karar, küresel Kava pazarında ve Pasifik üretici ülkelerinde geniş kapsamlı sonuçlar doğurdu.",
+    "chronologie": {
+      "title": "Olayların Kronolojisi",
+      "note": "Farklı ülkelerdeki mevcut yasal durum hakkında detaylı bilgi için bakınız",
+      "linkText": "Yasal Durum & Yasalite",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Avrupa'da Kava kullanıcılarında karaciğer hasarları hakkında ilk vaka raporları"
+        },
+        {
+          "date": "Kas 2001",
+          "text": "BfArM aşamalı plan sürecini başlattı"
+        },
+        {
+          "date": "Haz 2002",
+          "text": "Almanya'daki ruhsatların iptali"
+        },
+        {
+          "date": "2002-2003",
+          "text": "İngiltere, Fransa, İsviçre, Kanada, Avustralya'da yasaklar"
+        },
+        {
+          "date": "2014",
+          "text": "Köln İdare Mahkemesi, yasağı hukuka aykırı olarak ilan etti"
+        },
+        {
+          "date": "2015",
+          "text": "Münster İdare Mahkemesi, yasağın orantısız olduğunu onayladı"
+        },
+        {
+          "date": "2019",
+          "text": "İlaç ruhsatlarının iptali kesin olarak kaldırıldı"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Gerçekten Ne Oldu: Eleştirel Bir Analiz",
+    "intro": "Yasağa yol açan ilk vaka raporları, sonraki yıllarda yoğun bir şekilde bilimsel olarak incelendi. Bu süreçte önemli metodolojik eksiklikler ortaya çıktı:",
+    "probleme": {
+      "title": "Vaka Raporlarındaki Problemler",
+      "items": [
+        "Vaka raporlarının %50'sinden fazlasında eksik belgeler",
+        "Standartlaştırılmış nedensellik değerlendirmesi yok (RUCAM)",
+        "Hepatotoksik maddelerle komedikasyon göz ardı edildi",
+        "Alkol tüketimi sıklıkla belgelenmedi",
+        "Ürün kalitesi ve bitki kısımları belirsiz"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Sonraki Bulgu",
+      "items": [
+        "Birçok ürün, üst kısım bitki parçalarını içeriyordu",
+        "Asetonik ekstraktlar, sulu olanlardan daha yüksek risk gösterdi",
+        "Tudei-Kava kısmen Noble olarak satıldı",
+        "Bazı ürünlerde küf kontaminasyonu tespit edildi",
+        "Genetik polimorfizmler risk faktörü olarak tanımlandı"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Mahkemeler Tarafından Rehabilitasyon",
+    "intro": "Yıllarca süren hukuki mücadelelerin ardından Alman mahkemeleri kesin bir sonuca vardı. Köln İdare Mahkemesi ve daha sonra Münster İdare Mahkemesi, yasağın <strong>orantısız</strong> olduğunu ve yetkililerin bilimsel kanıtları doğru değerlendirmediğini belirtti.",
+    "quote": "\"BfArM tarafından Kava-kava içeren ilaçların alınması ile ortaya çıkan karaciğer hasarları arasındaki nedensellik yeterince kanıtlanmamıştır. Risk-fayda değerlendirmesi hatalı bir şekilde yapılmıştır.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "Bilimsel Kanıtlar",
+    "intro": "Yasağın ardından, Kava güvenliği hakkında daha ayrıntılı bir resim çizen birkaç kapsamlı bilimsel değerlendirme yapıldı."
+  },
+  "whoBewertung": {
+    "title": "DSÖ Değerlendirmesi 2007",
+    "intro": "Dünya Sağlık Örgütü (DSÖ), 2007 yılında mevcut tüm vaka raporlarının kapsamlı bir analizini gerçekleştirdi. Sonuçlar ilginçti:",
+    "analysisTitle": "DSÖ'nün 93 Vaka Raporu Analizi",
+    "cases": [
+      {
+        "count": "8",
+        "label": "\"Muhtemel\" nedensel vakalar",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "\"Olası\" nedensel vakalar",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Değerlendirilemeyen vakalar",
+        "color": "muted"
+      }
+    ],
+    "note": "DSÖ, asetonik ve etanolik ekstraktların, sentetik Kavalactonlardan daha yüksek bir risk taşıdığını belirtti; bu da Kavalacton dışı bileşenlerin olası bir neden olduğunu gösteriyor."
+  },
+  "emaBewertung": {
+    "title": "EMA Değerlendirmesi 2017",
+    "intro": "Avrupa İlaç Ajansı (EMA), 2017 yılında mevcut tüm verileri özetleyen 103 sayfalık bir değerlendirme raporu yayımladı:",
+    "findings": [
+      {
+        "label": "Klinik Çalışmalar",
+        "text": "Kontrollü çalışmalarda anlamlı bir hepatotoksisite yok"
+      },
+      {
+        "label": "Yan Etkiler",
+        "text": "Sadece birkaç denekte hafif, geri dönüşümlü transaminaz artışları"
+      },
+      {
+        "label": "Risk Faktörleri",
+        "text": "Organik ekstraktlar, alkol, mevcut karaciğer hastalığı, genetik polimorfizmler"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Klinik Çalışmalardan Elde Edilen Kanıtlar",
+    "intro": "Özellikle önemli bir nokta: Standartlaştırılmış Kava preparatları ile kontrollü klinik çalışmalarda <strong>ağır karaciğer hasarları</strong> gözlemlenmemiştir. Smith & Leiras (2018) tarafından yapılan sistematik bir inceleme, 11 randomize çalışmayı analiz etti ve hepatotoksisiteye dair herhangi bir belirti bulamadı.",
+    "tableTitle": "Çalışma Durumunun Özeti",
+    "headers": [
+      "Çalışma",
+      "Katılımcılar",
+      "Süre",
+      "Karaciğer Hasarları"
+    ],
+    "studies": [
+      {
+        "study": "Sarris ve ark. (2013)",
+        "participants": "75",
+        "duration": "6 Hafta",
+        "result": "Yok"
+      },
+      {
+        "study": "Boerner ve ark. (2003)",
+        "participants": "129",
+        "duration": "8 Hafta",
+        "result": "Yok*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 Hafta",
+        "result": "Yok"
+      },
+      {
+        "study": "Cochrane İncelemesi (2003)",
+        "participants": "645 (7 çalışma)",
+        "duration": "1-24 Hafta",
+        "result": "Yok"
+      }
+    ],
+    "footnote": "*2 denekte hafif transaminaz artışları, birinin zaten yüksek başlangıç değerleri vardı"
+  },
+  "risikofaktoren": {
+    "title": "Tanımlanan Risk Faktörleri",
+    "intro": "Bilimsel araştırmalar, karaciğerle ilgili yan etki riskini artırabilecek birkaç faktör tanımlamıştır. Bu faktörlerin anlaşılması, güvenli bir kullanım sağlar."
+  },
+  "extrakte": {
+    "title": "Ekstrakt Türleri: Sulu vs. Organik",
+    "intro": "DSÖ analizinin merkezi bulgularından biri, farklı ekstraksiyon yöntemleri arasındaki farktı:",
+    "waessrig": {
+      "title": "Sulu Ekstraktlar (geleneksel)",
+      "items": [
+        "Geleneksel hazırlama yöntemi",
+        "Başlıca Kavalactonları ekstrakte eder",
+        "Koruyucu Glutatyon içerir",
+        "Pasifik nüfuslarında belgelenmiş hepatotoksisite yoktur",
+        "FAO/DSÖ tarafından güvenli olarak değerlendirilmiştir"
+      ]
+    },
+    "organisch": {
+      "title": "Organik Ekstraktlar (asetonik/etanolik)",
+      "items": [
+        "Endüstriyel ekstraksiyon yöntemi",
+        "Daha yüksek Kavalacton konsantrasyonu",
+        "Ayrıca Flavokavinleri ekstrakte eder",
+        "Glutatyon ekstrakte edilmez",
+        "DSÖ analizinde daha yüksek risk"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Bitki Kısımları: Kök vs. Üst Kısımlar",
+    "intro": "Farklı bitki kısımlarının kullanımı güvenlik üzerinde önemli etkilere sahiptir:",
+    "tableTitle": "Bitki Kısmına Göre Pipermethystin İçeriği",
+    "headers": [
+      "Bitki Kısmı",
+      "Pipermethystin",
+      "Güvenlik"
+    ],
+    "rows": [
+      {
+        "part": "Kök/Rhizom",
+        "content": "Tespit edilemez",
+        "safety": "Güvenli",
+        "color": "primary"
+      },
+      {
+        "part": "Sap Kabukları",
+        "content": "Yüzde 0,85'e kadar",
+        "safety": "Sorunlu",
+        "color": "amber"
+      },
+      {
+        "part": "Yapraklar",
+        "content": "Yaklaşık %0,2",
+        "safety": "Toksik",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystin, in vitro olarak güçlü sitotoksik etki gösteren ve mitokondri fonksiyonunu bozan bir alkaloiddir (Nerurkar ve ark., 2004). Sadece üst kısım bitki parçalarında bulunur."
+  },
+  "genetik": {
+    "title": "Genetik Faktörler: CYP2D6 Polimorfizmleri",
+    "intro": "Kavalactonlar, esas olarak Cytochrome P450 enzim sistemi aracılığıyla metabolize edilir, özellikle CYP2D6 üzerinden. Bu enzimin genetik varyantları, metabolizma hızını önemli ölçüde etkileyebilir:",
+    "factors": [
+      {
+        "label": "Zayıf Metabolizörler (PM)",
+        "text": "Avrupalıların yaklaşık %5-10'u, daha yüksek Kavalacton seviyelerine yol açabilecek azaltılmış CYP2D6 aktivitesine sahiptir."
+      },
+      {
+        "label": "İdiosinkratik Tepkiler",
+        "text": "Bazı vakalar, immün aracılı mekanizmalara bağlı olabilir."
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Komedikasyon & Alkol",
+    "warning": {
+      "title": "Kritik Risk Faktörü",
+      "text": "Kava'nın alkol veya hepatotoksik ilaçlarla kombinasyonu, karaciğer hasarı riskini önemli ölçüde artırır. İlk vaka raporlarının birçokında alkol tüketimi belgelenmiş veya dışlanmamıştır."
+    },
+    "intro": "DSÖ, aşağıdaki komedikasyonları özellikle sorunlu olarak tanımladı:",
+    "items": [
+      "Alkol (sinerjik hepatotoksisite)",
+      "Parasetamol/Asitaminofen (hepatotoksik)",
+      "Benzodiazepinler (CYP etkileşimi)",
+      "Antipsikotikler (CYP etkileşimi)",
+      "Statinler (hepatotoksik potansiyel)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Hepatotoksisitenin Olası Mekanizmaları",
+    "intro": "Kava'nın nadir durumlarda karaciğer hasarına neden olabileceği kesin mekanizmalar henüz tam olarak açıklığa kavuşturulmamıştır. Birkaç hipotez tartışılmaktadır:",
+    "hypotheses": [
+      {
+        "title": "1. Chinon Metabolitleri",
+        "text": "Kavain ve Dihydrokavain, hücresel proteinlerle reaksiyona girebilecek reaktif chinon metabolitlerine oksitlenebilir ve oksidatif stres oluşturabilir (Johnson ve ark., 2003). Glutatyon, bu metabolitleri nötralize edebilir - bu, sulu ekstraktların (glutatyon içeren) neden daha güvenli olduğuna dair bir olası açıklamadır."
+      },
+      {
+        "title": "2. Flavokavine",
+        "text": "Flavokavin B, in vitro sitotoksisite gösterir ve hepatositlerde apoptozu indükleyebilir. Organik ekstraktlar, sulu preparatlardan daha yüksek flavokavin konsantrasyonları içerir."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Bu alkaloid yalnızca üst kısım bitki parçalarında bulunur ve güçlü sitotoksik etkiye sahiptir. Mitokondri solunum zincirini inhibe eder ve hücre ölümüne yol açabilir."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Maksimum Güvenlik için Pratik Tavsiyeler",
+    "items": [
+      {
+        "label": "Noble Türler",
+        "text": "Sadece güvenilir satıcılardan doğrulanmış Noble Kava türleri satın alın"
+      },
+      {
+        "label": "Kök",
+        "text": "Sadece kök ve rhizom ürünleri kullanın, üst kısım bitki parçaları kullanmayın"
+      },
+      {
+        "label": "Sulu Hazırlama",
+        "text": "Geleneksel hazırlama yöntemini tercih edin"
+      },
+      {
+        "label": "Alkol Yok",
+        "text": "Alkol tüketiminden en az 24 saat uzak durun"
+      },
+      {
+        "label": "Karaciğer Değerleri",
+        "text": "Düzenli tüketim durumunda yıllık karaciğer değerlerinin kontrolü"
+      },
+      {
+        "label": "Uyarı İşaretleri",
+        "text": "Sarılık, koyu idrar veya alışılmadık yorgunluk durumunda derhal durun"
+      }
+    ]
+  }
+}

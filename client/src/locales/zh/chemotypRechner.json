@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "化学类型计算器",
+    "subtitle": "输入一个6位数字的化学类型，了解预期效果和建议。",
+    "category": "互动"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "inhaltsstoffe": "成分",
+    "current": "化学类型计算器"
+  },
+  "toc": {
+    "title": "内容",
+    "rechner": "化学类型计算器",
+    "anleitung": "使用说明",
+    "beispiele": "示例化学类型",
+    "legende": "Kavalacton图例"
+  },
+  "rechner": {
+    "title": "输入化学类型",
+    "subtitle": "1-6的6个数字，每个数字只能出现一次",
+    "placeholder": "例如 426531",
+    "analyzeButton": "分析",
+    "knownVariety": "已知品种"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "去甲氧基杨根",
+      "short": "DMY",
+      "effect": "专注与欣快",
+      "description": "增加多巴胺，促进专注和轻微的欣快感"
+    },
+    "2": {
+      "name": "二氢卡瓦因",
+      "short": "DHK",
+      "effect": "肌肉放松",
+      "description": "强效肌肉松弛和镇痛效果"
+    },
+    "3": {
+      "name": "杨根",
+      "short": "Y",
+      "effect": "CB1活性",
+      "description": "作用于内源性大麻素系统，轻微刺激"
+    },
+    "4": {
+      "name": "卡瓦因",
+      "short": "K",
+      "effect": "抗焦虑",
+      "description": "主要成分用于缓解焦虑和提高心理清晰度"
+    },
+    "5": {
+      "name": "二氢美克斯汀",
+      "short": "DHM",
+      "effect": "长效镇静",
+      "description": "强效镇静，代谢缓慢 – Tudei标记"
+    },
+    "6": {
+      "name": "美克斯汀",
+      "short": "M",
+      "effect": "镇静",
+      "description": "镇静和神经保护"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "无效",
+      "description": "请输入有效的6位数字化学类型（数字1-6，每个数字只能出现一次）。"
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "此化学类型指向Tudei-Kava。DHM (5) 在位置1或2意味着非常长的作用时间，可能有副作用。"
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "以卡瓦因为主的品种，主要具有心理效果。适合社交场合和创造性工作。"
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "平衡的品种，卡瓦因和DHK在前两位。结合心理清晰度与身体放松。"
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "以二氢卡瓦因为主的品种，主要具有身体效果。适合放松和减压。"
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "平衡的品种，结合心理和身体效果。用途广泛。"
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) 在显著位置 – 典型的Tudei-Kava",
+    "tudeiSideEffects": "可能的副作用：恶心，长时间的'宿醉'，嗜睡",
+    "tudeiNotRecommended": "不适合定期消费",
+    "dhmPosition1": "DHM在位置1：非常强烈，持久的镇静",
+    "dhmPosition2": "DHM在位置2：增加镇静，延长作用时间"
+  },
+  "strengths": {
+    "headyClear": "清晰、专注的效果，无强烈镇静",
+    "headyMood": "良好的情绪提升和缓解焦虑",
+    "headyBeginner": "适合初学者",
+    "headyBalancedBest": "理想的头脑与身体效果结合",
+    "headyBalancedMental": "心理清晰度与轻微放松",
+    "headyBalancedBody": "轻微肌肉放松，无强烈镇静",
+    "heavyMuscle": "强效肌肉放松",
+    "heavyPain": "良好的镇痛效果",
+    "heavyRelax": "深度身体放松",
+    "balancedBoth": "对身体和精神的平衡效果",
+    "balancedVersatile": "用途广泛",
+    "balancedDaily": "良好的日常品种",
+    "methysticinNeuro": "美克斯汀显著：良好的神经保护特性",
+    "yangoninStim": "杨根显著：轻微刺激成分",
+    "dmyDopamine": "DMY显著：增强多巴胺效果，更多欣快感"
+  },
+  "effects": {
+    "headyEffects": [
+      "心理清晰度",
+      "缓解焦虑",
+      "轻微欣快"
+    ],
+    "headyBalancedEffects": [
+      "心理清晰度",
+      "轻微肌肉放松",
+      "情绪提升"
+    ],
+    "heavyEffects": [
+      "肌肉放松",
+      "身体安静",
+      "促进睡眠"
+    ],
+    "balancedEffects": [
+      "平衡的放松",
+      "适度缓解焦虑",
+      "轻微肌肉放松"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "社交场合",
+      "创造性工作",
+      "白天或早晚"
+    ],
+    "headyBalancedUse": [
+      "多用途",
+      "社交场合中的放松",
+      "下午到晚上"
+    ],
+    "heavyUse": [
+      "晚间放松",
+      "身体劳累后",
+      "准备睡眠"
+    ],
+    "balancedUse": [
+      "每日使用",
+      "冥想",
+      "灵活使用"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalacton顺序",
+    "strengthsTitle": "此化学类型的优点",
+    "dominantEffects": "主导效果",
+    "recommendedUseTitle": "推荐使用"
+  },
+  "anleitung": {
+    "title": "使用说明",
+    "paragraph1": "化学类型是一个6位数字的代码，按浓度递减顺序列出六种主要Kavalactone。第一个数字代表浓度最高的Kavalacton，最后一个数字代表浓度最低的。",
+    "rulesTitle": "重要规则：",
+    "rules": [
+      {
+        "label": "位置1 = 4 (卡瓦因)",
+        "text": "\"Heady\" Kava – 心理效果，专注，缓解焦虑"
+      },
+      {
+        "label": "位置1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – 身体效果，肌肉放松"
+      },
+      {
+        "label": "位置1或2 = 5 (DHM)",
+        "text": "⚠️ Tudei-Kava – 非常长的效果，可能有副作用"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "示例化学类型",
+    "intro": "点击一个示例化学类型进行分析：",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalacton图例",
+    "intro": "六种主要Kavalactone及其效果的概述："
+  },
+  "hint": {
+    "title": "提示：",
+    "text": "此分析基于一般指导原则。实际效果可能因质量、制备和个人敏感性而异。有关详细信息，请访问我们的",
+    "linkText": "化学类型系统"
+  }
+}

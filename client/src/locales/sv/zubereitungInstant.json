@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "title": "Instant Kava",
+    "subtitle": "Det snabbaste sättet att njuta av Kava – perfekt för resande eller när det måste gå snabbt.",
+    "category": "Beredd"
+  },
+  "breadcrumbs": {
+    "home": "Hem",
+    "zubereitung": "Beredd",
+    "current": "Instant Kava"
+  },
+  "toc": {
+    "title": "Innehåll",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Översikt",
+        "level": 1
+      },
+      {
+        "id": "was-ist",
+        "title": "Vad är Instant Kava?",
+        "level": 1
+      },
+      {
+        "id": "arten",
+        "title": "Typer av Instant Kava",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Beredd",
+        "level": 1
+      },
+      {
+        "id": "dosierung",
+        "title": "Dosering rekommendationer",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Jämförelse med andra metoder",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Tips & Tricks",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "prepTime": "Beredd tid",
+    "noFilter": "Ingen filter",
+    "justStir": "Bara rör om",
+    "practical": "Praktisk",
+    "idealForTravel": "Ideal för resande",
+    "potency": "Potens",
+    "advantages": "Fördelar",
+    "disadvantages": "Nackdelar",
+    "productType": "Produkttyp",
+    "beginner": "Nybörjare",
+    "regular": "Regelbunden",
+    "experienced": "Erfaren",
+    "aspect": "Aspekt",
+    "traditional": "Traditionell",
+    "blender": "Mixer",
+    "instant": "Instant",
+    "otherMethods": "Andra beredningsmetoder"
+  },
+  "overview": {
+    "intro": "Instant Kava är det <strong>snabbaste och enklaste</strong> sättet att njuta av Kava. Blanda bara med vatten, rör om och drick – <strong>ingen knådning, inget filtrering</strong>."
+  },
+  "whatIs": {
+    "title": "Vad är Instant Kava?",
+    "text": "\"Instant Kava\" är en samlingsterm för Kava-produkter som kan konsumeras utan komplicerad beredning. Till skillnad från traditionellt medium malet pulver, som måste knådas och filtreras, löser sig Instant-produkter direkt i vatten.",
+    "alert": {
+      "title": "Viktig skillnad",
+      "text": "Instant Kava är <strong>inte samma sak</strong> som Kava-extraktkapslar eller -tabletter. Det handlar om drickbara former som erbjuder hela Kava-upplevelsen."
+    }
+  },
+  "types": {
+    "title": "Typer av Instant Kava",
+    "items": [
+      {
+        "name": "Mikroniserad Kava",
+        "description": "Ultrafint malet rotpulver som löser sig helt i vatten.",
+        "pros": [
+          "Snabbaste beredning",
+          "Fulla växtämnen",
+          "Ingen filtrering behövs"
+        ],
+        "cons": [
+          "Kan orsaka magproblem",
+          "Sandig textur möjlig",
+          "Dyrare än medium malning"
+        ],
+        "potency": "Hög",
+        "color": "amber"
+      },
+      {
+        "name": "Dehydrerad Kava-extrakt",
+        "description": "Koncentrerat extrakt från traditionellt beredd Kava, frystorkat.",
+        "pros": [
+          "Mycket potent",
+          "Slät textur",
+          "Magsnällare"
+        ],
+        "cons": [
+          "Dyrast",
+          "Mindre autentisk smak",
+          "Begränsad tillgång"
+        ],
+        "potency": "Mycket hög",
+        "color": "purple"
+      },
+      {
+        "name": "Kava-koncentrat (flytande)",
+        "description": "Färdig Kava-lösning, bara späd med vatten.",
+        "pros": [
+          "Omedelbart drickfärdig",
+          "Konsistent styrka",
+          "Praktisk för resande"
+        ],
+        "cons": [
+          "Begränsad hållbarhet",
+          "Mindre urval",
+          "Ofta med tillsatser"
+        ],
+        "potency": "Medium till hög",
+        "color": "blue"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Beredning",
+    "intro": "Beredningen av Instant Kava är otroligt enkel – därav namnet!",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Mäta",
+        "description": "Mät upp önskad mängd Instant Kava i ett glas eller en skål."
+      },
+      {
+        "number": 2,
+        "title": "Tillsätt vatten",
+        "description": "Häll i 200-300ml vatten (kallt eller varmt)."
+      },
+      {
+        "number": 3,
+        "title": "Rör om & Drick",
+        "description": "Rör om kraftigt tills det är upplöst, drick sedan i ett svep."
+      }
+    ],
+    "alert": {
+      "title": "Pro-tips: Använd shaker",
+      "text": "En proteinshaker eller cocktailshaker löser Instant Kava mycket bättre än att bara röra om. Särskilt med Mikroniserad Kava förhindrar det klumpbildning."
+    }
+  },
+  "dosage": {
+    "title": "Dosering rekommendationer",
+    "note": "<strong>Observera:</strong> Dessa värden är riktlinjer. Den faktiska potensen varierar kraftigt beroende på tillverkare och sort. Börja alltid med en låg dos!",
+    "items": [
+      {
+        "type": "Mikroniserad",
+        "beginner": "2-3g",
+        "regular": "4-6g",
+        "experienced": "6-10g"
+      },
+      {
+        "type": "Dehydrerad extrakt",
+        "beginner": "1-2g",
+        "regular": "2-4g",
+        "experienced": "4-6g"
+      },
+      {
+        "type": "Koncentrat (flytande)",
+        "beginner": "15-30ml",
+        "regular": "30-45ml",
+        "experienced": "45-60ml"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Jämförelse med andra metoder",
+    "items": [
+      {
+        "aspect": "Beredningstid",
+        "traditional": "20-25 Min",
+        "blender": "8-10 Min",
+        "instant": "30 sekunder"
+      },
+      {
+        "aspect": "Arbete",
+        "traditional": "Högt",
+        "blender": "Medium",
+        "instant": "Minimal"
+      },
+      {
+        "aspect": "Potens",
+        "traditional": "Mycket hög",
+        "blender": "Hög",
+        "instant": "Medium-Hög"
+      },
+      {
+        "aspect": "Smak",
+        "traditional": "Autentisk",
+        "blender": "Intensiv",
+        "instant": "Varierar"
+      },
+      {
+        "aspect": "Kostnad per portion",
+        "traditional": "Billig",
+        "blender": "Billig",
+        "instant": "Dyr"
+      },
+      {
+        "aspect": "För resande",
+        "traditional": "Opraktisk",
+        "blender": "Opraktisk",
+        "instant": "Ideal"
+      }
+    ]
+  },
+  "tips": {
+    "title": "Tips & Tricks",
+    "items": [
+      {
+        "name": "Blanda med juice",
+        "text": "Blanda Instant Kava med fruktjuice istället för vatten. Ananas- eller mangosaft döljer den bittra smaken utmärkt."
+      },
+      {
+        "name": "Kokosmjölk-boost",
+        "text": "Använd kokosmjölk istället för vatten. Fettet förbättrar absorptionen av Kavalactone och gör smaken krämigare."
+      },
+      {
+        "name": "Reseportioner",
+        "text": "Portionera Instant Kava i små zip-påsar i förväg. Så har du alltid rätt mängd med dig när du är på språng."
+      },
+      {
+        "name": "Njut kallt",
+        "text": "Instant Kava smakar ofta bättre kallt än varmt. Blanda det med kallt vatten och några isbitar för en uppfriskande dryck."
+      }
+    ],
+    "alert": {
+      "title": "Försiktighet med Mikroniserad Kava",
+      "text": "Mikroniserad Kava innehåller alla växtfibrer och kan orsaka magproblem hos känsliga personer. Om du känner illamående, byt till dehydrerat extrakt eller traditionell beredning."
+    }
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Traditionell knådningsmetod",
+      "subtitle": "Maximal potens, autentisk upplevelse",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Mixer-metod",
+      "subtitle": "Snabb och effektiv",
+      "href": "/de/zubereitung/blender"
+    },
+    "calculator": {
+      "title": "Dosering kalkylator",
+      "subtitle": "Personliga rekommendationer för din sort",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Çeşit Karşılaştırması",
+    "subtitle": "İki Kava çeşidini yan yana karşılaştırın"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "sorten": "Çeşitler",
+    "current": "Karşılaştırma"
+  },
+  "ui": {
+    "selectVariety": "Çeşit seçin...",
+    "firstVariety": "İlk Çeşit",
+    "secondVariety": "İkinci Çeşit",
+    "toProfile": "Çeşit profiline",
+    "potency": "Potans",
+    "badgeInfo": "Diğer çeşide olan farkı gösteren <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> rozetleri"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Dengeli",
+    "heavy": "Ağır"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Etkiler Profili Karşılaştırması"
+    },
+    "basicInfo": {
+      "title": "Temel Bilgiler"
+    },
+    "dosage": {
+      "title": "Önerilen Dozaj"
+    },
+    "applications": {
+      "title": "Uygulama Alanları"
+    },
+    "usageTimes": {
+      "title": "Kullanım Zamanları"
+    },
+    "kavalactones": {
+      "title": "Kavalakton Profili"
+    },
+    "notes": {
+      "title": "Notlar"
+    }
+  },
+  "effects": {
+    "euphoria": "Euphoria",
+    "relaxation": "Rahatlama",
+    "sedation": "Sakinleştirici",
+    "clarity": "Açıklık",
+    "sociability": "Sosyallik",
+    "anxiolysis": "Anksiyete Azaltma"
+  },
+  "info": {
+    "chemotype": "Kimyasal Tip",
+    "duration": "Etkili Süre",
+    "availability": "Mevcudiyet",
+    "price": "Fiyat"
+  },
+  "dosageLabels": {
+    "beginner": "Yeni Başlayan",
+    "regular": "Düzenli",
+    "experienced": "Deneyimli"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Karşılaştırmak için iki çeşit seçin",
+    "description": "Üstteki açılır menüleri kullanarak iki Kava çeşidi seçin ve özelliklerini, etkilerini ve önerilerini doğrudan karşılaştırın.",
+    "tips": {
+      "title": "Karşılaştırma İpuçları",
+      "items": [
+        "Benzer etki profilleri için aynı kategorideki çeşitleri karşılaştırın",
+        "Zıt deneyimler için Heady ile Heavy'yi karşılaştırın",
+        "Bilimsel içgörüler için kimyasal tip farklılıklarına dikkat edin"
+      ]
+    },
+    "quickSelections": "Hızlı Seçimler",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu Klasikleri",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Yeni Başlayanlar için Öneri",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "植物",
+    "subtitle": "分类学、命名法以及Piper methysticum与其野生祖先之间的关系。",
+    "category": "植物学"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "植物学",
+    "pflanze": "植物"
+  },
+  "toc": {
+    "taxonomie": "分类学分类",
+    "name": "名称的意义",
+    "wichmannii": "Piper wichmannii – 野生祖先",
+    "unterschiede": "与栽培种的区别",
+    "domestikation": "驯化与进化",
+    "kulturgut": "卡瓦作为活的文化遗产"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> 不是一种普通的经济作物。它是数千年人类选择的结果，如今仅以栽培形式存在。野生种群已经不存在——世界上的每一株卡瓦植物都是通过人类手工传播的克隆体。"
+  },
+  "taxonomie": {
+    "title": "分类学分类",
+    "intro": "卡瓦属于<strong>Piperaceae</strong>（胡椒科），这是最古老的开花植物家族之一。该家族包含约3600种，分为5个属，其中包括著名的黑胡椒（<em>Piper nigrum</em>）。",
+    "table": {
+      "headers": {
+        "rank": "分类等级",
+        "classification": "分类",
+        "note": "备注"
+      },
+      "rows": {
+        "reich": {
+          "rank": "界",
+          "classification": "Plantae",
+          "note": "植物"
+        },
+        "unterreich": {
+          "rank": "亚界",
+          "classification": "Tracheobionta",
+          "note": "维管植物"
+        },
+        "abteilung": {
+          "rank": "门",
+          "classification": "Magnoliophyta",
+          "note": "被子植物"
+        },
+        "klasse": {
+          "rank": "纲",
+          "classification": "Magnoliopsida",
+          "note": "双子叶植物"
+        },
+        "ordnung": {
+          "rank": "目",
+          "classification": "Piperales",
+          "note": "胡椒目"
+        },
+        "familie": {
+          "rank": "科",
+          "classification": "Piperaceae",
+          "note": "胡椒科"
+        },
+        "gattung": {
+          "rank": "属",
+          "classification": "<em>Piper</em> L.",
+          "note": "全球约2000种"
+        },
+        "art": {
+          "rank": "种",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "首次描述于1786年"
+        }
+      }
+    },
+    "forster": "首次描述于1786年，由<strong>约翰·乔治·亚当·福斯特</strong>进行，他是一位德国自然学家，曾陪同詹姆斯·库克进行第二次环球航行。福斯特记录了这种植物及其在太平洋岛屿上的使用。"
+  },
+  "name": {
+    "title": "名称的意义",
+    "intro": "科学名称<em>Piper methysticum</em>是拉丁语和希腊语的组合：",
+    "piper": {
+      "title": "Piper",
+      "description": "拉丁语意为\"胡椒\"。指的是其属于胡椒科以及根部略带辛辣的味道。"
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "源自希腊语<em>μεθυστικός</em>（methystikos）= \"醉人\"或\"使人陶醉\"。描述了植物的精神活性作用。"
+    },
+    "localNames": {
+      "intro": "名称\"卡瓦\"本身源于太平洋的南岛语。在不同地区有不同的称谓：",
+      "headers": {
+        "region": "地区",
+        "name": "地方名称",
+        "meaning": "意义"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "瓦努阿图",
+          "name": "Kava, Malok",
+          "meaning": "\"苦\""
+        },
+        "fiji": {
+          "region": "斐济",
+          "name": "Yaqona",
+          "meaning": "\"苦根\""
+        },
+        "tonga": {
+          "region": "汤加",
+          "name": "Kava",
+          "meaning": "\"辛辣，苦\""
+        },
+        "samoa": {
+          "region": "萨摩亚",
+          "name": "'Ava",
+          "meaning": "\"苦\""
+        },
+        "hawaii": {
+          "region": "夏威夷",
+          "name": "'Awa",
+          "meaning": "\"苦\""
+        },
+        "pohnpei": {
+          "region": "波纳佩",
+          "name": "Sakau",
+          "meaning": "\"卡瓦饮料\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – 野生祖先",
+    "intro": "与<em>Piper methysticum</em>最密切相关的种是<strong>Piper wichmannii</strong>，被认为是现代栽培卡瓦的野生祖先。该物种自然分布于巴布亚新几内亚、所罗门群岛和北瓦努阿图。",
+    "alert": "<strong>重要：</strong><em>Piper wichmannii</em>有时被称为\"野生卡瓦\"并在当地消费。然而，它含有不同的卡瓦内酯谱，被认为比栽培的优质卡瓦品种更难以耐受。",
+    "differences": {
+      "title": "P. methysticum与P. wichmannii之间的区别",
+      "headers": {
+        "feature": "特征",
+        "methysticum": "<em>P. methysticum</em>（栽培）",
+        "wichmannii": "<em>P. wichmannii</em>（野生）"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "繁殖",
+          "methysticum": "不育，仅通过无性繁殖",
+          "wichmannii": "可育，产生种子"
+        },
+        "chromosomen": {
+          "feature": "染色体数",
+          "methysticum": "十倍体（2n = 130）",
+          "wichmannii": "二倍体（2n = 26）"
+        },
+        "kavalacton": {
+          "feature": "卡瓦内酯含量",
+          "methysticum": "更高，优化",
+          "wichmannii": "更低，变化大"
+        },
+        "chemotyp": {
+          "feature": "化学类型",
+          "methysticum": "选择以适应性为主",
+          "wichmannii": "常常类似于\"Tudei\""
+        },
+        "verbreitung": {
+          "feature": "分布",
+          "methysticum": "仅通过人类",
+          "wichmannii": "自然分布"
+        },
+        "nutzung": {
+          "feature": "传统用途",
+          "methysticum": "数千年有记录",
+          "wichmannii": "有限，常被避免"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "驯化与进化",
+    "intro": "卡瓦的驯化可能始于约<strong>3000年前</strong>在北瓦努阿图。基因研究表明，<em>Piper methysticum</em>是通过反复的杂交和多倍体化从<em>Piper wichmannii</em>演变而来的。",
+    "changes": "驯化过程导致了几个关键变化：",
+    "cards": {
+      "polyploidie": {
+        "title": "增加的多倍体性",
+        "description": "虽然<em>P. wichmannii</em>是二倍体（2n = 26），但<em>P. methysticum</em>是十倍体（2n = 130）。这种染色体组的倍增导致了更大的根和更高的卡瓦内酯含量。"
+      },
+      "fertilitaet": {
+        "title": "失去生育能力",
+        "description": "高多倍体性导致了不育。虽然植物会产生花，但不产生可育种子。这使其完全依赖于人类。"
+      },
+      "wirkprofil": {
+        "title": "优化的效应特征",
+        "description": "通过有针对性的选择，优先选择具有更愉悦效果和更好耐受性的品种。这导致了现代\"优质卡瓦\"品种的出现。"
+      },
+      "sortenvielfalt": {
+        "title": "品种多样性",
+        "description": "如今，仅在瓦努阿图就存在超过80种已记录的栽培品种。每个品种都有独特的化学类型特征和特定的效应特性。"
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "卡瓦作为活的文化遗产",
+    "paragraph1": "由于卡瓦无法自我繁殖，今天存在的每一株植物都是人类不断传承的结果。插枝从一代传到另一代，从家庭到家庭，从村庄到村庄。 ",
+    "quote": {
+      "text": "因此，卡瓦是南太平洋地区最古老的有意识选择农业的记录之一。这种植物是一个活的文化遗产——代代相传。",
+      "author": "塞巴斯蒂安·弗雷丹克，《卡瓦——宁静之根》"
+    },
+    "paragraph2": "在原产国，卡瓦不仅被视为经济作物，往往也被视为一种<strong>活的存在</strong>——有名字、个性和历史。单个植物被命名并在仪式中受到崇敬并不罕见。这种人与植物之间的深厚联系使得卡瓦不仅有效，而且意义深远。",
+    "paragraph3": "对人类的依赖也有阴暗面：如果没有持续的栽培，<em>Piper methysticum</em>将在一代人内灭绝。这强调了种植和交易卡瓦所带来的责任。"
+  },
+  "navigation": {
+    "nextChapter": "继续阅读植物学章节：",
+    "morphologie": {
+      "title": "形态学",
+      "description": "卡瓦植物的解剖学与根系"
+    }
+  }
+}

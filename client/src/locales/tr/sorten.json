@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Çeşitler & Kültivarlar",
+    "subtitle": "Borogu'dan Pouni Ono'ya, Heady'den Heavy'ye Kava çeşitleri dünyasında kapsamlı bir rehber.",
+    "category": "Çeşitler",
+    "breadcrumb": {
+      "home": "Anasayfa",
+      "current": "Çeşitler"
+    }
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Giriş",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava ve Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "Üç Etki Türü",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Yetiştirme Bölgeleri",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Hangi çeşit benim için uygun?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Derinlemesine Makaleler",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Bugün <strong>100'den fazla belgelenmiş Kava çeşidi</strong> bulunmaktadır; bunlar köken, kimyasal yapı ve etki açısından önemli ölçüde farklılık göstermektedir. Vanuatu'da, bitkinin muhtemel anavatanında, 80'den fazla farklı kültivar bilinmektedir. Bu çeşitlilik, Pasifik kültürleri tarafından 3.000 yılı aşkın bir süredir yapılan hedefli seçimin sonucudur.",
+      "text": "Çeşitler arasındaki farklar yalnızca akademik bir nitelik taşımamakta – bir Kava içeceğinin hangi etkiyi göstereceğini belirlemektedir. <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Vanuatu'dan bir Kelai</a>, <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Fiji'den bir Loa Waka</a>'dan tamamen farklı bir etki gösterir. Bu farklılıkların anlaşılması, bilinçli ve tatmin edici bir Kava deneyiminin anahtarıdır."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava ve Tudei Kava",
+      "intro": "Her Kava tüketicisinin bilmesi gereken en önemli ayrım, <strong>Noble Kava</strong> (Şerefli Kava) ile <strong>Tudei Kava</strong> arasındadır. Bu sınıflandırma, Vanuatu hükümeti tarafından tanıtılmıştır ve her çeşidin <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kimyasal yapısına</a> dayanmaktadır.",
+      "noble": {
+        "title": "Noble Kava (Şerefli Kava)",
+        "items": [
+          "Yüzyıllar boyunca hoş bir etki için seçilmiştir",
+          "Kimyasal yapı <strong>2</strong> veya <strong>4</strong> ile başlar, asla 5 veya 6 ile başlamaz",
+          "Etki başlangıcı: 10-20 dakika",
+          "Etki süresi: 3-6 saat, temiz bir şekilde sona erer",
+          "Ertesi gün \"kötü hissetme\" yoktur",
+          "Düzenli kullanım için güvenlidir"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (İki Günlük)",
+        "items": [
+          "Kimyasal yapı <strong>5</strong> veya <strong>6</strong> ile başlar (DHM-dominant)",
+          "Etki başlangıcı: 30-90 dakika (gecikmeli)",
+          "Etki çok uzun sürer (2 güne kadar)",
+          "Sıklıkla mide bulantısı ve halsizlik yapar",
+          "\"Kötü hissetme\" durumu ertesi gün",
+          "Vanuatu'da ihracat için yasaktır"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Alışveriş yaparken, satıcının kimyasal yapıyı ve kesin çeşidi belirtmesine dikkat edin. Bu şeffaflık, otantik Noble Kava için iyi bir işarettir.",
+      "linkText": "Noble ve Tudei hakkında daha fazla bilgi edinin"
+    },
+    "wirktypen": {
+      "title": "Üç Etki Türü",
+      "intro": "Noble Kava çeşitleri, baskın etkilerine göre üç kategoriye ayrılır. Bu sınıflandırma, <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kimyasal yapı</a> – yani altı ana <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalakton</a>'un göreceli konsantrasyonu – temel alınarak yapılır.",
+      "heady": {
+        "title": "Heady",
+        "description": "Baş odaklı etki: Euphoria, zihinsel netlik, sosyallik. Günlük ve sosyal etkinlikler için idealdir.",
+        "chemotype": "Genellikle 4 (Kavain) veya 2 (DHK) ile başlar",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Ruh Hali & Sosyallik"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Dengeli etki: Yorgunluk olmadan rahatlama, zihinsel huzur ile fiziksel iyi hissetme.",
+        "chemotype": "4, 2 ve 3'ün dengeli oranı",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Kaygı Giderme"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Vücut odaklı etki: Derin kas gevşemesi, sedasyon, akşam ve uyku için idealdir.",
+        "chemotype": "1-2 pozisyonda yüksek DHK oranı (2)",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Uyku & Rahatlama"
+      },
+      "calculatorLink": "Kimyasal yapı hesaplayıcısı: Her kimyasal yapıyı analiz edin"
+    },
+    "regionen": {
+      "title": "Yetiştirme Bölgeleri Genel Görünümü",
+      "intro": "Kava bugün Pasifik'in çeşitli bölgelerinde yetiştirilmektedir. Her bölge, yerel iklime ve kültürel tercihlere uyum sağlamak için kendi çeşitlerini geliştirmiştir.",
+      "tableHeaders": {
+        "region": "Bölge",
+        "count": "Çeşit Sayısı",
+        "localName": "Yerel İsim",
+        "varieties": "Bilinen Çeşitler",
+        "characteristics": "Karakteristik"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "En büyük çeşitlilik, anavatan"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Genellikle ağır, iyi işlenmiş"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Hepsi Noble, daha çok heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Çok güçlü, pahalı"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Geleneksel, törensel"
+        },
+        {
+          "region": "Papua Yeni Gine",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Tek Noble çeşit"
+        }
+      ],
+      "vanuatuLink": "Vanuatu'dan çeşitler",
+      "pazifikLink": "Fiji, Tonga & Hawaii'den çeşitler"
+    },
+    "auswahl": {
+      "title": "Hangi çeşit benim için uygun?",
+      "intro": "Doğru Kava çeşidini seçmek, istediğiniz etki ve günün saatine bağlıdır. İşte bir rehber:",
+      "recommendations": [
+        {
+          "purpose": "Sosyal etkinlikler için",
+          "type": "Heady",
+          "description": "Bir <strong>Heady</strong> Kava seçin:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Stres ve kaygıya karşı",
+          "type": "Balanced",
+          "description": "Bir <strong>Balanced</strong> Kava seçin:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Kas gevşetmek için",
+          "type": "Heavy",
+          "description": "Bir <strong>Heavy</strong> Kava seçin:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Uykuya dalmak için",
+          "type": "Heavy",
+          "description": "Bir <strong>Heavy</strong> Kava seçin:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Melo Melo veya Borogu gibi bir <strong>Balanced</strong> Kava ile başlayın. Bu çeşitler, aşırı etkiler olmadan hoş, dengeli bir deneyim sunar.",
+      "tipLabel": "Yeni başlayanlar için ipucu:"
+    },
+    "unterseiten": {
+      "title": "Derinlemesine Makaleler",
+      "intro": "Kava çeşitlerinin her bir yönünü, özel alt sayfalarımızda keşfedin:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava ve Tudei",
+      "description": "En önemli ayrım: Neden Noble Kava güvenlidir ve Tudei'den kaçınılmalıdır.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Vanuatu'dan Çeşitler",
+      "description": "Kava'nın anavatanından 80'den fazla çeşit: Borogu, Melo Melo, Kelai, Palasa ve daha fazlası.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Fiji, Tonga & Hawaii'dan Çeşitler",
+      "description": "Bölgesel özelikler: Loa Waka, Pouni Ono, 'Awa Moi ve onların benzersiz özellikleri.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Çeşit Profilleri Detaylı",
+      "description": "Kimyasal yapılar, etkiler ve öneriler ile en önemli çeşitlerin detaylı profilleri.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Geri",
+      "title": "İçindekiler"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "İleri",
+      "title": "Hazırlama"
+    }
+  }
+}

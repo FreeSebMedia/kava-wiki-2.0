@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "title": "Traditionell knådmethode",
+    "subtitle": "Den autentiska stillahavska metoden för Kava-förberedelse – för maximal styrka och en verklig upplevelse.",
+    "category": "Förberedelse"
+  },
+  "breadcrumbs": {
+    "home": "Hem",
+    "zubereitung": "Förberedelse",
+    "current": "Traditionell metod"
+  },
+  "toc": {
+    "title": "Innehåll",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Översikt",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Nödvändiga material",
+        "level": 1
+      },
+      {
+        "id": "vorbereitung",
+        "title": "Förberedelse",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Steg-för-steg instruktion",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Expert tips",
+        "level": 1
+      },
+      {
+        "id": "fehler",
+        "title": "Vanliga misstag",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Total tid",
+    "bestPotency": "Bästa styrka",
+    "maxExtraction": "Maximal extraktion",
+    "authentic": "Autentisk",
+    "traditionalMethod": "Traditionell metod",
+    "tip": "Tips",
+    "essential": "Väsentlig",
+    "optionalRecommended": "Valfritt (rekommenderat)",
+    "mistake": "Misstag",
+    "consequence": "Konsekvens",
+    "solution": "Lösning",
+    "otherMethods": "Andra förberedningsmetoder"
+  },
+  "overview": {
+    "intro": "Den traditionella knådmethode är den <strong>ursprungliga stillahavska metoden</strong> för Kava-förberedelse, som har praktiserats i över 3 000 år. Den ger den <strong>starkaste extraktionen</strong> och den mest autentiska smakupplevelsen.",
+    "alert": {
+      "title": "Varför denna metod?",
+      "text": "Kavalactoner är fettlösliga, inte vattenlösliga. De fäster vid stärkepartiklarna i roten. Genom mekanisk knådning löses dessa partiklar upp och emulgeras i vatten – därför är denna metod så effektiv."
+    }
+  },
+  "materials": {
+    "title": "Nödvändiga material",
+    "essential": [
+      {
+        "name": "Kava rotpulver",
+        "type": "Medium malning",
+        "note": "15-50g beroende på erfarenhet och önskad styrka"
+      },
+      {
+        "name": "Filterpåse",
+        "type": "Nötmjölkspåse",
+        "note": "75-100 mikron maskstorlek, återanvändbar"
+      },
+      {
+        "name": "Stor skål",
+        "type": "",
+        "note": "Minst 1 liter kapacitet"
+      },
+      {
+        "name": "Varmt vatten",
+        "type": "",
+        "note": "35-45°C, handvarmt – INTE kokande!"
+      }
+    ],
+    "optional": [
+      {
+        "name": "Kokosmjölk eller helmjölk",
+        "note": "1-2 msk – Fett förbättrar extraktionen"
+      },
+      {
+        "name": "Köksvåg",
+        "note": "För exakt dosering"
+      },
+      {
+        "name": "Kokosnötsskål (Bilo)",
+        "note": "För den autentiska upplevelsen"
+      },
+      {
+        "name": "Chaser (frukt)",
+        "note": "Ananas, apelsin eller mango mot smaken"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Förberedelse",
+    "alert": {
+      "title": "Viktigt: Tom mage",
+      "text": "Drick alltid Kava på <strong>tom mage</strong> – minst 3-4 timmar efter den senaste måltiden. Effekten är annars betydligt svagare eller uteblir helt!"
+    },
+    "text": "Innan du börjar, se till att alla material är redo. Förberedelsen bör göras i ett svep, utan avbrott."
+  },
+  "steps": {
+    "title": "Steg-för-steg instruktion",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Mäta upp pulvret",
+        "duration": "1 min",
+        "description": "Mät upp den önskade mängden Kava-pulver.",
+        "details": [
+          "Nykomling: 15-20g per portion",
+          "Regelbunden: 25-35g per portion",
+          "Erfaren: 35-50g per portion",
+          "Använd Medium malning för bästa resultat"
+        ],
+        "tip": "Använd vår doseringsräknare för personliga rekommendationer baserat på din sort och erfarenhet."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Förbered vatten",
+        "duration": "2 min",
+        "description": "Förbered varmt vatten i en stor skål.",
+        "details": [
+          "Vattentemperatur: 35-45°C (handvarmt)",
+          "Vattenmängd: 300-500ml per portion",
+          "Valfritt: Tillsätt 1-2 msk kokosmjölk eller helmjölk",
+          "ANVÄND ALDRIG kokande vatten!"
+        ],
+        "tip": "Fett förbättrar extraktionen av Kavalactoner avsevärt. Kokosmjölk är traditionellt och smakligt idealisk."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Blötläggning",
+        "duration": "5 min",
+        "description": "Låt pulvret blötläggas i filterpåsen.",
+        "details": [
+          "Lägg pulvret i nötmjölkspåsen (75-100 mikron)",
+          "Stäng eller vrid påsen",
+          "Doppa i det varma vattnet",
+          "Låt stå i 5 minuter så att pulvret blir genomfuktat"
+        ],
+        "tip": "Blötläggning är viktigt! Det öppnar växtfibrerna och gör Kavalactoner mer tillgängliga."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Knåda",
+        "duration": "10-15 min",
+        "description": "Det viktigaste steget: Kraftig knådning under vatten.",
+        "details": [
+          "Knåda och massera påsen kraftigt under vatten",
+          "Tryck, pressa och vrid rytmiskt",
+          "Vattnet blir alltmer mjölkigt-brunt",
+          "Knåda i minst 10 minuter, helst 15 minuter"
+        ],
+        "tip": "Ju längre och kraftigare du knådar, desto starkare blir Kava. Färgen ska se ut som kaffe med mjölk."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Kräma ur",
+        "duration": "2 min",
+        "description": "Pressa ur påsen helt.",
+        "details": [
+          "Ta upp påsen ur vattnet",
+          "Pressa hårt över skålen",
+          "Vrida flera gånger tills nästan ingen vätska kommer",
+          "Valfritt: För en andra extraktion, upprepa med färskt vatten"
+        ],
+        "tip": "Den andra extraktionen ('Second Wash') är svagare, men fortfarande effektiv. Idealisk för att sträcka ut."
+      },
+      {
+        "id": "schritt6",
+        "number": 6,
+        "title": "Servera",
+        "duration": "Omedelbart",
+        "description": "Njut av din nyberedd Kava!",
+        "details": [
+          "Häll i en kokosnötsskål (Bilo) eller kopp",
+          "Traditionellt dricks Kava i ett svep ('Chug')",
+          "Nyp inte – det förlänger den bittra smaken",
+          "Ha en 'Chaser' (fruktbit) redo"
+        ],
+        "tip": "Klappar en gång i händerna innan du dricker och säger 'Bula!' – det är den traditionella stillahavska metoden."
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Expert tips",
+    "items": [
+      {
+        "name": "Second Wash",
+        "text": "Efter den första extraktionen kan du knåda pulvret igen med färskt vatten. 'Second Wash' är svagare, men idealisk för att sträcka ut eller för nykomlingar."
+      },
+      {
+        "name": "Fett-Boost",
+        "text": "Ät en liten fet måltid 30-60 minuter efter Kava. Detta kan utlösa en 'andra våg' av effekten, eftersom fettet frigör resterande Kavalactoner."
+      },
+      {
+        "name": "Omvänd tolerans",
+        "text": "Många nykomlingar känner lite vid första gången. Kroppen måste först 'vänja sig' vid Kavalactoner. Drick Kava flera dagar i rad för full effekt."
+      },
+      {
+        "name": "Temperaturkontroll",
+        "text": "Testa vattnet med armbågen – det ska kännas behagligt varmt, som badvatten för en baby. För varmt förstör verksamma ämnen!"
+      }
+    ]
+  },
+  "commonMistakes": {
+    "title": "Undvik vanliga misstag",
+    "items": [
+      {
+        "mistake": "Använda kokande vatten",
+        "consequence": "Förstör Kavalactoner och gör Kava verkningslös",
+        "solution": "Använd alltid handvarmt vatten (35-45°C)"
+      },
+      {
+        "mistake": "Knåda för kort",
+        "consequence": "Svag effekt, slösat pulver",
+        "solution": "Knåda tålmodigt i minst 10-15 minuter"
+      },
+      {
+        "mistake": "Brygga Kava som te",
+        "consequence": "Nästan ingen effekt, eftersom Kavalactoner inte är vattenlösliga",
+        "solution": "Mekanisk extraktion genom knådning är väsentlig"
+      },
+      {
+        "mistake": "Dricka efter maten",
+        "consequence": "Starkt minskad effekt",
+        "solution": "Var minst 3-4 timmar på tom mage"
+      },
+      {
+        "mistake": "Knåda för fint pulver (Micronized)",
+        "consequence": "Tätar filtret, dålig textur",
+        "solution": "Använd Medium malning för traditionell metod"
+      }
+    ]
+  },
+  "navigation": {
+    "blender": {
+      "title": "Blender-metod",
+      "subtitle": "Snabbare och ofta starkare",
+      "href": "/de/zubereitung/blender"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Ingen ansträngning, redo att dricka direkt",
+      "href": "/de/zubereitung/instant"
+    },
+    "calculator": {
+      "title": "Doseringsräknare",
+      "subtitle": "Personliga rekommendationer för din sort",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

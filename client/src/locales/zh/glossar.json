@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "词汇表",
+    "title": "Kava 词汇表",
+    "subtitle": "关于 Kava 的 50 多个专业术语 - 从 Kavalactone 到 Kava 仪式"
+  },
+  "intro": "本词汇表解释了与 Kava 相关的主要术语。从化学成分到制备方法，再到文化传统 - 在这里你可以找到所有专业术语的易懂解释。",
+  "search": {
+    "placeholder": "搜索术语...",
+    "noResults": "未找到术语",
+    "clearSearch": "清除搜索",
+    "resultsCount": "找到 {{count}} 个术语"
+  },
+  "categories": {
+    "chemie": "化学与成分",
+    "wirkung": "作用与效果",
+    "kultur": "文化与传统",
+    "sorten": "品种与变种",
+    "zubereitung": "制备",
+    "sicherheit": "安全性"
+  },
+  "toc": {
+    "uebersicht": "概述",
+    "suche": "搜索",
+    "chemie": "化学与成分",
+    "wirkung": "作用与效果",
+    "sorten": "品种与变种",
+    "zubereitung": "制备",
+    "kultur": "文化与传统",
+    "sicherheit": "安全性"
+  },
+  "ui": {
+    "relatedTerms": "相关术语",
+    "relatedLinks": "了解更多",
+    "backToTop": "回到顶部",
+    "showMore": "显示更多",
+    "showLess": "显示更少"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalactone",
+      "shortDefinition": "Kava 中的精神活性成分",
+      "fullExplanation": "Kavalactone 是一组 18 种内酯，负责 Kava 的精神活性作用。**六种主要 Kavalactone** 约占总含量的 96%：Desmethoxyyangonin (DMY)、Dihydrokavain (DHK)、Yangonin (Y)、Kavain (K)、Dihydromethysticin (DHM) 和 Methysticin (M)。每种 Kavalactone 具有独特的作用特征 - 从抗焦虑到肌肉放松再到镇静。根部的总含量通常在 3-20% 之间。",
+      "relatedTerms": [
+        "Chemotyp",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "六种主要 Kavalactone",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "化学类型系统",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Chemotyp",
+      "shortDefinition": "Kava 品种的化学特征",
+      "fullExplanation": "Chemotyp 是一个 **6 位数的代码**，表示六种主要 Kavalactone 按浓度的顺序。每种 Kavalactone 都有一个编号：1=DMY，2=DHK，3=Y，4=K，5=DHM，6=M。像 \"426315\" 这样的 Chemotyp 意味着：Kavain (4) 的浓度最高，其次是 DHK (2) 等等。Chemotyp 在很大程度上决定了一个品种的作用 - 它是 \"头脑型\" (精神兴奋，愉悦) 还是 \"重型\" (身体放松，镇静)。",
+      "relatedTerms": [
+        "Kavalactone",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Chemotyp 计算器",
+          "href": "/de/inhaltsstoffe/rechner"
+        },
+        {
+          "label": "化学类型系统",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "主要的抗焦虑 Kavalactone",
+      "fullExplanation": "Kavain (在化学类型系统中编号为 4) 是研究最透彻的 Kavalactone，被认为是 **抗焦虑作用的主要成分**。它作用于 GABA 受体、dopamine 和 norepinephrine 转运蛋白。高 Kavain 含量的品种 (在化学类型中排在第一或第二位) 被认为是特别优质的，称为 \"头脑型\"。Kavain 还具有神经保护特性。",
+      "relatedTerms": [
+        "Kavalactone",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone 详细信息",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "抗焦虑作用",
+          "href": "/de/wirkung/angst"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "用于肌肉放松的 Kavalactone",
+      "fullExplanation": "Dihydrokavain (DHK，化学类型系统中的编号 2) 是 **最强的肌肉放松 Kavalactone**。它作用于电压门控钠通道，并具有局部麻醉特性 - 因此在饮用后口腔内会有典型的麻木感。DHK 还负责身体的放松。高 DHK 含量的品种 (在第一位) 通常被归类为 \"重型\"。",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heavy",
+        "肌肉放松"
+      ],
+      "relatedLinks": [
+        {
+          "label": "肌肉放松",
+          "href": "/de/wirkung/muskel"
+        },
+        {
+          "label": "Kavalactone 详细信息",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "强镇静的 Kavalactone，主要存在于 Tudei",
+      "fullExplanation": "Dihydromethysticin (DHM，化学类型系统中的编号 5) 是一种 **强镇静的 Kavalactone**。在高浓度下 (在第一位) 它是 Tudei Kava 的典型成分，可能导致持久的副作用。在 Noble Kava 中，DHM 以适量存在，并有助于放松效果。DHM 的半衰期比 Kavain 更长，因此 Tudei 效果可能持续长达两天。",
+      "relatedTerms": [
+        "Kavalactone",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble 与 Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "具有 CB1 受体亲和力的 Kavalactone",
+      "fullExplanation": "Yangonin (Y，化学类型系统中的编号 3) 是一种独特的 Kavalactone，显示出对 **CB1 大麻素受体的亲和力**。这可能有助于 Kava 的情绪提升和轻微愉悦效果。Yangonin 还负责 Kava 提取物的黄色。它具有抗炎特性，并正在研究其治疗潜力。",
+      "relatedTerms": [
+        "Kavalactone",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone 详细信息",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "情绪提升的 Kavalactone",
+      "fullExplanation": "Desmethoxyyangonin (DMY，化学类型系统中的编号 1) 是一种 **情绪提升的 Kavalactone**，具有 MAO-B 抑制特性。它可以增加大脑中多巴胺的可用性，从而有助于其愉悦效果。DMY 还与 Kava 的抗抑郁作用相关联。与 Kavain 结合时，它增强了品种的 \"头脑型\" 特性。",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone 详细信息",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "具有长效镇静作用的 Kavalactone",
+      "fullExplanation": "Methysticin (M，化学类型系统中的编号 6) 是一种 **镇静的 Kavalactone**，具有相对较长的作用时间。它有助于身体放松和促进睡眠。Methysticin 还具有抗痉挛 (解痉) 特性。在大多数 Noble 品种中，Methysticin 以适量存在，并补充其他 Kavalactone 的作用。",
+      "relatedTerms": [
+        "Kavalactone",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactone 详细信息",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "Kava 的科学名称",
+      "fullExplanation": "Piper methysticum 是 Kava 植物的 **科学 (拉丁) 名称**。该名称字面意思是 \"令人陶醉的胡椒\" (来自希腊语 \"methystikos\" = 令人陶醉)。该植物属于 **胡椒科 (Piperaceae)**，与黑胡椒密切相关。Kava 是一种无性繁殖的栽培植物，只能通过营养繁殖 - 这表明它被人类驯化了数千年。",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "植物学"
+      ],
+      "relatedLinks": [
+        {
+          "label": "植物",
+          "href": "/de/botanik/pflanze"
+        },
+        {
+          "label": "植物学概述",
+          "href": "/de/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Kava 植物的野生祖先",
+      "fullExplanation": "Piper wichmannii 是 **Piper methysticum 的野生祖先**。这种野生种分布在巴布亚新几内亚和所罗门群岛，能够进行有性繁殖 (与无性栽培形式相对)。科学家认为 Kava 大约在 3000 年前从 Piper wichmannii **驯化**。野生 Kava 通常含有较高的有害成分，不建议用于消费。",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "历史",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkone",
+      "shortDefinition": "Kava 中的类黄酮化合物",
+      "fullExplanation": "Chalkone 是一类 **类黄酮化合物**，存在于 Kava 中。主要成分是 Flavokavain A、B 和 C。虽然 Flavokavain A 和 C 被认为相对安全，但 **Flavokavain B (FKB)** 与潜在的肝毒性有关。Chalkone 主要存在于地上部分和 Tudei 品种中。来自根部的 Noble Kava 含量很少。",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "安全性",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Extraktion",
+      "shortDefinition": "Kavalacton 提取过程",
+      "fullExplanation": "Extraktion 指的是 **从植物材料中溶解 Kavalactone 的过程**。在传统制备中，通过在水中揉捏来实现 - Kavalactone 是脂溶性的，通过机械力和乳化提取。工业提取通常使用乙醇或丙酮等溶剂。**水提取物** 被认为更安全，因为它们含有较少的有害成分。",
+      "relatedTerms": [
+        "Kavalactone",
+        "揉捏法"
+      ],
+      "relatedLinks": [
+        {
+          "label": "制备",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "伽马氨基丁酸",
+      "shortDefinition": "最重要的抑制性神经递质",
+      "fullExplanation": "GABA (伽马氨基丁酸) 是中枢神经系统中 **最重要的抑制性神经递质**。它减少神经兴奋性，具有镇静、抗焦虑和促进睡眠的作用。Kavalactone - 特别是 Kavain 和 DHK - 调节 GABA 受体，但与苯二氮卓类药物的作用方式 **不同**。这解释了为什么 Kava 可以放松，而没有安眠药的典型副作用 (无依赖性，无认知障碍)。",
+      "relatedTerms": [
+        "Kavalactone",
+        "Kavain",
+        "抗焦虑"
+      ],
+      "relatedLinks": [
+        {
+          "label": "抗焦虑作用",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "科学研究",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Reverse Tolerance",
+      "germanTerm": "反向耐受性",
+      "shortDefinition": "Kava 随时间增强的现象",
+      "fullExplanation": "反向耐受性是 Kava 的 **独特现象**：与大多数精神活性物质不同，后者随着时间的推移需要更多的剂量以获得相同的效果，Kava 是 **相反的**。许多新手在第一次饮用时感到很少或没有效果。经过几次饮用 (通常是 3-7 天的定期消费) 后，身体会 \"打开\" 对 Kavalactone 的接受度，效果明显增强。确切的机制尚未完全理解，但可能与 Kavalactone 在脂肪组织中的积累或受体的敏感化有关。",
+      "relatedTerms": [
+        "Kavalactone",
+        "剂量"
+      ],
+      "relatedLinks": [
+        {
+          "label": "认知效果",
+          "href": "/de/wirkung/kognition"
+        },
+        {
+          "label": "剂量计算器",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxiolyse",
+      "germanTerm": "抗焦虑",
+      "shortDefinition": "Kava 的抗焦虑作用",
+      "fullExplanation": "Anxiolyse 指的是一种物质的 **抗焦虑作用**。Kava 是少数几种植物性物质之一，具有 **一级证据** 的抗焦虑作用 (Cochrane Review)。抗焦虑主要通过调节 GABA 受体和影响边缘系统实现。与苯二氮卓类药物不同，Kava 在低至中等剂量下不会导致 **认知障碍、依赖性或镇静**。",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "抗焦虑作用",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "科学研究",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "深度 Kava 放松状态",
+      "fullExplanation": "\"Krunk\" 是 Kava 社区对饮用足够 Kava 后 **深度放松和幸福感** 状态的俚语。该术语可能源于 \"drunk\"，但描述的是另一种状态：**清晰的思维与放松的身体**。典型的迹象包括和平感、肌肉放松、轻微的愉悦和社交开放 - 没有酒精的影响。",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "效果",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Muskelentspannung",
+      "shortDefinition": "Kava 的身体放松效果",
+      "fullExplanation": "Kava 的 **肌肉放松效果** 是最明显的效果之一。它主要通过 DHK (Dihydrokavain) 实现，作用于肌肉细胞中的钠通道。这种放松 **不伴随虚弱或协调问题** - 你会感到放松，但不会受到影响。因此，Kava 被广泛用于缓解紧张、压力引起的肌肉问题，以及作为肌肉松弛剂的天然替代品。",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "肌肉放松",
+          "href": "/de/wirkung/muskel"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Euphorie",
+      "shortDefinition": "通过 Kava 的愉悦情绪",
+      "fullExplanation": "Kava 可以产生 **轻度到中度的愉悦感**，特别是在高 Kavain 含量的 Heady 品种中。这种愉悦感与酒精或其他物质的效果不同：它是 **清晰的、社交的且不抑制**。情绪提升是通过 Kavain 和 DMY 对多巴胺和血清素系统的作用实现的。像 Kelai、Moi 和 Pouni Ono 这样的 Heady 品种以其愉悦特性而闻名。",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Sedierung",
+      "shortDefinition": "镇静、促进睡眠的效果",
+      "fullExplanation": "Sedierung 指的是 Kava 的 **镇静和促进睡眠的效果**，在 Heavy 品种中尤为明显。它主要通过 DHM、DHK 和 Methysticin 实现。在低至中等剂量下，Kava **不镇静**，保持心理清晰。然而，在较高剂量或 Heavy 品种中，可能会出现明显的疲劳。这使得 Kava 成为解决睡眠问题的天然选择。",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "睡眠"
+      ],
+      "relatedLinks": [
+        {
+          "label": "睡眠与放松",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotektiv",
+      "shortDefinition": "对神经细胞的保护作用",
+      "fullExplanation": "神经保护特性指的是 **保护神经细胞免受损伤的能力**。研究表明，Kavain 和其他 Kavalactone 可能具有神经保护效果 - 它们保护神经元免受氧化压力和兴奋性毒性。这可能使 Kava 成为神经退行性疾病的有趣研究对象。神经保护特性也有助于 Kava 不影响认知功能。",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "科学研究",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgesie",
+      "germanTerm": "止痛",
+      "shortDefinition": "Kava 的止痛效果",
+      "fullExplanation": "Analgesie 指的是一种物质的 **止痛效果**。Kava 具有轻微的镇痛特性，主要通过 DHK 实现。局部麻醉效果 (口腔麻木) 是这一特性的直接证据。Kava 传统上用于 **头痛、牙痛和肌肉疼痛**。然而，止痛效果较轻，不可替代强烈疼痛的医学治疗。",
+      "relatedTerms": [
+        "DHK",
+        "肌肉放松"
+      ],
+      "relatedLinks": [
+        {
+          "label": "效果",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava-Dermopathie",
+      "germanTerm": "Kava 皮疹",
+      "shortDefinition": "过量消费导致的皮肤变化",
+      "fullExplanation": "Kava-Dermopathie 是一种 **可逆的皮肤变化**，可能在长期高剂量 Kava 消费时出现。它表现为干燥、鳞屑状皮肤，带有黄色调，特别是在手掌、脚底和前臂。其原因可能是皮肤中 **胆固醇代谢的紊乱**。在减少或停止消费后，皮肤病完全消失，并不是肝损伤的迹象。",
+      "relatedTerms": [
+        "安全性",
+        "剂量"
+      ],
+      "relatedLinks": [
+        {
+          "label": "安全性",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "优质 Kava",
+      "shortDefinition": "高质量、传统消费的 Kava 品种",
+      "fullExplanation": "Noble Kava 指的是 **经过栽培的 Kava 品种**，这些品种已经被培育了几个世纪以供日常消费。它们的特征是 **均衡的 Kavalactone 组合**，具有高 Kavain 含量和低含量的有害成分，如 Flavokavain B (FKB)。Noble 品种通常在化学类型的前两位中有 4 或 2。它们被认为是安全的，适合定期消费，并且是唯一可以在瓦努阿图合法出口的品种。",
+      "relatedTerms": [
+        "Tudei",
+        "Chemotyp",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble 与 Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "两天 Kava",
+      "shortDefinition": "野生或低质量 Kava 品种",
+      "fullExplanation": "Tudei (来自 \"两天\") 指的是 **野生或低质量 Kava 品种**，其效果和副作用可能持续长达两天。它们含有高浓度的 **Flavokavain B (FKB)** 和 **Dihydromethysticin (DHM)**，与恶心、头痛和可能的肝毒性有关。Tudei 品种通常在化学类型中以 5 (DHM) 排在第一位。在瓦努阿图，Tudei Kava 的出口是 **禁止的**。可靠的商家只销售 Noble Kava。",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble 与 Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "安全性",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "头脑型",
+      "shortDefinition": "具有愉悦、脑部效果的 Kava 品种",
+      "fullExplanation": "\"Heady\" 描述的是 Kava 品种，其效果 **主要是脑部和愉悦的**。这些品种通常在化学类型中 **Kavain (4) 排在第一或第二位**。Heady Kava 促进社交，提升情绪，并可能轻微愉悦，而不会强烈镇静。它们特别适合社交场合、创造性工作或下午时光。著名的 Heady 品种包括 Kelai、Moi、Pouni Ono 和 Silese。",
+      "relatedTerms": [
+        "Heavy",
+        "Balanced",
+        "Kavain",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "品种比较",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "身体型",
+      "shortDefinition": "具有强镇静、身体效果的 Kava 品种",
+      "fullExplanation": "\"Heavy\" 描述的是 Kava 品种，其效果 **主要是身体和镇静的**。这些品种通常在化学类型中 **DHK (2) 或 DHM (5) 排在第一位**。Heavy Kava 强烈放松肌肉，促进睡眠，并可能产生强烈的镇静效果。它们特别适合晚上、睡眠问题或深度放松。著名的 Heavy 品种包括 Loa Waka、Hiwa、Palasa 和 Palarasul。",
+      "relatedTerms": [
+        "Heady",
+        "Balanced",
+        "DHK",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "睡眠与放松",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Balanced",
+      "germanTerm": "均衡型",
+      "shortDefinition": "具有均衡效果的 Kava 品种",
+      "fullExplanation": "\"Balanced\" 描述的是 Kava 品种，提供 **头脑型和重型特性的均衡组合**。这些品种通常在化学类型中同时具有 Kavain (4) 和 DHK (2) 的前列。Balanced Kava 提供心理清晰和身体放松，因此 **用途广泛** - 从下午到晚上。著名的 Balanced 品种包括 Borogu、Melo Melo、Bir Kar 和 Vula Waka。",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "品种比较",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Kultivar",
+      "shortDefinition": "培育的 Kava 变种",
+      "fullExplanation": "Kultivar 是一种 **通过培育产生的植物变种**。Kava 有超过 100 种不同的 Kultivar，它们在化学类型、效果、味道和生长形态上各不相同。由于 Kava 是无性繁殖的，只能通过营养繁殖，因此 Kultivar 是母植物的 **基因克隆**。著名的 Kultivar 包括 Borogu、Kelai、Melo Melo、Palasa 等等。每个 Kultivar 具有独特的 Kavalactone \"指纹\"。",
+      "relatedTerms": [
+        "Noble Kava",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "来自主要根部的 Kava",
+      "fullExplanation": "\"Waka\" 指的是从植物的 **主要根部 (侧根)** 制作的 Kava。Waka 被认为是 **最高质量等级**，因为主要根部具有最高的 Kavalactone 含量。该术语源于斐济和汤加。Waka 的价格高于 Lewena (主根)，但更强效且味道更温和。市场上大多数优质 Kava 都是 Waka 质量。",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "来自根茎的 Kava",
+      "fullExplanation": "\"Lewena\" (也称为 \"Lawena\") 指的是从植物的 **根茎 (根茎)** 制作的 Kava。Lewena 的 **Kavalactone 含量低于 Waka**，但味道更温和且价格更便宜。它通常被推荐作为入门 Kava，或适合那些喜欢温和效果的人。在斐济，Lewena 传统上用于日常消费，而 Waka 则用于特殊场合。",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "品种档案",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Green Kava",
+      "germanTerm": "新鲜 Kava",
+      "shortDefinition": "新鲜采摘的未干燥 Kava",
+      "fullExplanation": "\"Green Kava\" 或 \"Fresh Kava\" 指的是 **新鲜采摘的 Kava 根**，未经过干燥。在太平洋原产国，Kava 传统上是新鲜制备的 - 根被去皮、切碎并立即揉捏。新鲜 Kava 的 **味道和效果** 与干燥的 Kava 不同：通常味道更温和，\"绿色\"，效果更快。即饮 Kava 是由脱水的 Green Kava 果汁制成的。",
+      "relatedTerms": [
+        "即饮 Kava",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "文化",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "夏威夷对 Kava 的称呼",
+      "fullExplanation": "'Awa 是 **夏威夷对 Kava 的称呼**。夏威夷有自己独特的 Kava 传统，拥有独特的 Kultivar，如 Moi、Hiwa、Nene 和 Papa Ele'ele。夏威夷的 'Awa 品种通常特别强效，并具有特征性的作用特征。'Awa 传统上用于 **仪式、医疗和精神目的**。夏威夷的 'Awa 文化目前正在经历复兴，人们对传统品种的兴趣日益增长。",
+      "relatedTerms": [
+        "Kultivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "历史",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Medium Grind",
+      "germanTerm": "中等研磨",
+      "shortDefinition": "传统制备的标准研磨度",
+      "fullExplanation": "Medium Grind 是 **Kava 根粉的标准研磨度**，用于传统的揉捏法和搅拌器制备。该粉末具有 **沙状到面粉状的质地**，必须通过过滤袋 (75-100 微米) 揉捏，以提取 Kavalactone。Medium Grind 的价格低于即饮/微粉化，并在正确制备的情况下提供最佳效力。粗植物纤维会被过滤掉。",
+      "relatedTerms": [
+        "微粉化",
+        "即饮 Kava",
+        "揉捏法"
+      ],
+      "relatedLinks": [
+        {
+          "label": "传统方法",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "搅拌器方法",
+          "href": "/de/zubereitung/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Micronized Kava",
+      "germanTerm": "微粉化 Kava",
+      "shortDefinition": "极细磨的 Kava，无需过滤",
+      "fullExplanation": "Micronized Kava 是 **极细磨的根粉**，粗纤维已被去除。它可以 **直接溶解在水中**，无需揉捏或过滤。颗粒非常细，以至于悬浮在水中并与饮用一起食用。微粉化比中等研磨更方便，但价格更高，可能对敏感胃部更容易引起 **恶心**，因为纤维会被一起食用。",
+      "relatedTerms": [
+        "中等研磨",
+        "即饮 Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "即饮 Kava 制备",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "剂量计算器",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "即饮 Kava",
+      "shortDefinition": "脱水的 Kava 果汁，立即饮用",
+      "fullExplanation": "Instant Kava 是 **脱水的 \"Green Kava\" 果汁** - 新鲜的 Kava 果汁，经过冷冻干燥或喷雾干燥。它是 Kava 的 **最强和最昂贵** 形式，因为 Kavalactone 已经被提取。Instant Kava 立即溶解在水中，无需揉捏或过滤。剂量明显低于中等研磨 (2-6 克，而不是 20-50 克)。它被视为 Kava 制备的 \"王者\"。",
+      "relatedTerms": [
+        "微粉化",
+        "中等研磨",
+        "Green Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "即饮 Kava 制备",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "剂量计算器",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Knetmethode",
+      "shortDefinition": "传统的太平洋制备方式",
+      "fullExplanation": "Knetmethode 是 **传统的太平洋 Kava 制备方式**，已经实践了超过 3000 年。中等研磨的粉末放入过滤袋中，在温水 (35-45°C) 中 **揉捏和拧干 10-15 分钟**。通过机械力，Kavalactone 从植物纤维中释放并乳化到水中。结果是乳白色的棕色 \"Grog\"。这种方法提供了 **最佳的提取和效力**。",
+      "relatedTerms": [
+        "中等研磨",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "传统方法",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "制备概述",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Second Wash",
+      "germanTerm": "第二次冲洗",
+      "shortDefinition": "重复使用 Kava 粉末",
+      "fullExplanation": "\"Second Wash\" 指的是 **重复使用已揉捏的 Kava 粉末** 进行第二次冲洗。第一次揉捏后，粉末仍含有约 **30-50% 的原始 Kavalactone**。第二次冲洗较弱，但仍然有效。有些用户将第一次和第二次冲洗结合在一起，其他人则单独饮用。第三次冲洗通常不再值得。",
+      "relatedTerms": [
+        "揉捏法",
+        "中等研磨"
+      ],
+      "relatedLinks": [
+        {
+          "label": "传统方法",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Strainer Bag",
+      "germanTerm": "过滤袋",
+      "shortDefinition": "用于过滤 Kava 的袋子",
+      "fullExplanation": "Strainer Bag 是一个 **尼龙或棉质的过滤袋**，用于揉捏和过滤 Kava。理想的网眼大小为 **75-100 微米** - 足够细以保留植物纤维，但又足够透气以允许 Kavalactone 乳化。Strainer Bags 可重复使用，使用后应冲洗并晾干。它们是传统制备的必备工具。",
+      "relatedTerms": [
+        "揉捏法",
+        "中等研磨"
+      ],
+      "relatedLinks": [
+        {
+          "label": "传统方法",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "一份 Kava 饮料",
+      "fullExplanation": "\"Shell\" 是对 **一份 Kava 饮料** 的常用称呼，通常为 100-150 毫升。该术语源于传统的椰子壳 (Bilo)，Kava 就是从中饮用的。在 Kava 酒吧，人们会点 \"Shells\" - 一次饮用通常由 3-6 个 Shell 组成，持续数小时。每个 Shell 的剂量因 Grog 的强度和个人偏好而异。\"再来一个 shell\" 是 Kava 社区中的常见呼喊。",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "剂量计算器",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "现代 Kava 制备设备",
+      "fullExplanation": "AluBall 是一种 **现代 Kava 制备设备**，简化了传统的揉捏方法。它由一个带有特殊筛球的摇摇瓶组成。中等研磨的粉末放入球中，加入水，摇动 2-3 分钟。提取速度比传统揉捏快，但可能效率较低。AluBall 在 **外出时和初学者中** 受到欢迎，因为它提供了简单的制备方式。",
+      "relatedTerms": [
+        "揉捏法",
+        "中等研磨"
+      ],
+      "relatedLinks": [
+        {
+          "label": "制备概述",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "完成的 Kava 饮料",
+      "fullExplanation": "\"Grog\" 是对 **完成的 Kava 饮料** 的俚语，特别是在瓦努阿图和斐济。该名称源于殖民时代，被英国海军采用。传统的 Kava Grog 具有 **乳白色的棕色** (像拿铁咖啡) 和泥土般、略微辛辣的味道。在 Kava 酒吧，Grog 通常盛在椰子壳 (Bilos) 中，并一口饮用。",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "揉捏法"
+      ],
+      "relatedLinks": [
+        {
+          "label": "文化",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "制备",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "传统的椰子壳饮用器",
+      "fullExplanation": "Bilo 是一个 **半个椰子壳**，传统上用于盛放和饮用 Kava。在斐济和其他太平洋文化中，从 Bilo 中饮用是 **仪式性仪式** 的一部分。在饮用之前，人们会拍手一次，喊 \"Bula!\" (斐济) 或 \"Mālō!\" (汤加)，一口喝下内容物，然后拍手三次。现代 Kava 爱好者使用 Bilos 来获得真实的体验。",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "文化",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "历史",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "瓦努阿图的传统 Kava 酒吧",
+      "fullExplanation": "Nakamal 是一个 **瓦努阿图的传统 Kava 酒吧**，当地人和游客聚集在一起饮用 Kava。该术语最初指的是村庄中男性的聚会场所。现代的 Nakamal 通常是简单的小屋或开放区域，配有长凳。Kava 是新鲜制备的，并盛在碗中。这里有严格的 **社交规则**：人们要轻声说话，保持尊重，并在黄昏时饮用。Nakamal 是重要的社交聚集地。",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "瓦努阿图"
+      ],
+      "relatedLinks": [
+        {
+          "label": "文化",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "历史",
+          "href": "/de/geschichte/urspruenge"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "传统的木制 Kava 碗",
+      "fullExplanation": "Tanoa 是一个 **大型、扁平的木碗**，传统上用于制备和盛放 Kava。它在斐济、萨摩亚和汤加是典型的，通常由一整块木头雕刻而成，常带有雕刻的腿。Tanoa 是 **Kava 仪式的中心** - Grog 在其中混合，并用 Bilo 分发给参与者。高质量的 Tanoa 是艺术品，并作为家族遗产传承。",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "仪式"
+      ],
+      "relatedLinks": [
+        {
+          "label": "文化",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "斐济人在饮用 Kava 时的问候",
+      "fullExplanation": "\"Bula!\" 是 **传统的斐济问候**，在饮用一份 Kava 时喊出。这个词的意思是 \"生命\"，表达了美好的祝愿。仪式是：拍手一次，喊 \"Bula!\"，一口喝下 Shell，拍手三次。在其他太平洋文化中也有类似的呼喊：汤加的 \"Mālō!\"，瓦努阿图的 \"Taki!\"。这些仪式创造了 **社区和尊重**，是 Kava 文化的重要部分。",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "文化",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Tudei Kava 中的潜在肝毒性化合物",
+      "fullExplanation": "Flavokavain B (FKB) 是一种 **Chalkon**，在 Tudei Kava 和地上植物部分 (茎、叶) 中以较高浓度存在。它与 **潜在的肝毒性** 相关，可能是一些历史性肝损伤的原因。Noble Kava 品种的 **FKB 含量非常低**。这也是为什么只有 Noble Kava 被推荐用于消费，而 Tudei Kava 在瓦努阿图被禁止出口的主要原因之一。",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "肝安全性"
+      ],
+      "relatedLinks": [
+        {
+          "label": "肝安全性",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Noble 与 Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "细胞色素 P450",
+      "shortDefinition": "用于药物代谢的肝酶",
+      "fullExplanation": "CYP450 (细胞色素 P450) 是一组 **肝脏酶**，负责大多数药物的代谢。Kavalactone 可能会 **抑制某些 CYP450 酶**，尤其是 CYP2C9、CYP2C19 和 CYP3A4。这可能会减缓药物的代谢并增强其效果。因此，Kava **不应与通过这些酶代谢的药物结合使用** - 特别是苯二氮卓类药物、抗抑郁药和降压药。",
+      "relatedTerms": [
+        "相互作用",
+        "肝安全性"
+      ],
+      "relatedLinks": [
+        {
+          "label": "相互作用",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "相互作用检查器",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Lebersicherheit",
+      "shortDefinition": "Kava 与肝脏 - 事实与神话",
+      "fullExplanation": "Kava 的 **肝安全性** 问题长期以来备受争议。在 2000 年代初，关于肝损伤的报告导致多个国家的禁令。然而，后来的研究表明，大多数案例与 **Tudei Kava、地上植物部分提取物或既往疾病** 有关。传统制备的 Noble Kava 被认为是安全的。世界卫生组织在 2016 年确认 \"传统制备的 Kava 饮料具有可接受的安全性\"。",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "肝安全性",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "科学研究",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Wechselwirkungen",
+      "shortDefinition": "Kava 与其他物质的相互作用",
+      "fullExplanation": "Kava 可能与 **多种物质发生相互作用**。主要需要避免的组合包括： **酒精** (增强肝毒性)、**苯二氮卓类药物和安眠药** (增强镇静作用)、**抗抑郁药** (CYP450 相互作用)、**帕金森药物** (多巴胺相互作用)。其他中枢神经系统抑制物也应避免。在定期服用药物的情况下，应在 Kava 消费前咨询医生。",
+      "relatedTerms": [
+        "CYP450",
+        "肝安全性"
+      ],
+      "relatedLinks": [
+        {
+          "label": "相互作用",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "相互作用检查器",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Dosierung",
+      "shortDefinition": "安全消费的正确剂量",
+      "fullExplanation": "Kava 的正确 **剂量** 取决于多个因素：体重、经验、品种和制备形式。对于 **中等研磨**，典型的一次饮用为 20-50 克粉末，分为多个 Shell。对于 **即饮 Kava**，通常为 2-6 克。初学者应从低剂量开始，并考虑 **反向耐受性**。建议的每日最高剂量约为 250 毫克 Kavalactone。过量会导致严重疲劳，但不会导致危险状态。",
+      "relatedTerms": [
+        "反向耐受性",
+        "Shell",
+        "Kavalactone"
+      ],
+      "relatedLinks": [
+        {
+          "label": "剂量计算器",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    }
+  }
+}

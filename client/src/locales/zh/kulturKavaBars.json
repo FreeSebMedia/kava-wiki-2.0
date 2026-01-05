@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava酒吧查找器",
+    "description": "在全球范围内查找Kava酒吧 - 从佛罗里达到新西兰。提供地址、评价和营业时间。"
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "kultur": "文化",
+    "current": "Kava酒吧查找器"
+  },
+  "viewToggle": {
+    "list": "列表",
+    "map": "地图"
+  },
+  "search": {
+    "placeholder": "按名称、城市或国家搜索...",
+    "resultsCount": "找到Kava酒吧",
+    "resultSingular": "找到Kava酒吧",
+    "resultPlural": "找到Kava酒吧"
+  },
+  "filter": {
+    "button": "筛选",
+    "country": "国家",
+    "allCountries": "所有国家",
+    "region": "地区/州",
+    "allRegions": "所有地区",
+    "minRating": "最低评分",
+    "allRatings": "所有评分",
+    "rating4Plus": "4+ 星",
+    "rating45Plus": "4.5+ 星",
+    "clearFilters": "重置筛选",
+    "features": "设施"
+  },
+  "featureLabels": {
+    "wifi": "无线网络",
+    "outdoor": "户外区域",
+    "food": "食物",
+    "live-music": "现场音乐",
+    "events": "活动",
+    "traditional": "传统制作",
+    "kratom": "克拉托姆",
+    "cbd": "CBD",
+    "games": "游戏",
+    "parking": "停车位",
+    "accessible": "无障碍",
+    "late-night": "深夜开放"
+  },
+  "countryNames": {
+    "US": "美国",
+    "AU": "澳大利亚",
+    "NZ": "新西兰",
+    "DE": "德国",
+    "UK": "英国",
+    "CA": "加拿大"
+  },
+  "bar": {
+    "verified": "已验证",
+    "address": "地址",
+    "hours": "营业时间",
+    "specialties": "特色",
+    "features": "设施",
+    "reviews": "评价",
+    "call": "拨打电话",
+    "website": "网站",
+    "route": "路线",
+    "routePlan": "规划路线",
+    "backToList": "返回列表"
+  },
+  "empty": {
+    "title": "未找到Kava酒吧",
+    "description": "尝试其他搜索词或筛选条件。",
+    "resetButton": "重置筛选"
+  },
+  "stats": {
+    "title": "Kava酒吧统计",
+    "bars": "Kava酒吧",
+    "countries": "国家",
+    "inUSA": "在美国",
+    "verified": "已验证"
+  },
+  "cta": {
+    "title": "你知道一家Kava酒吧吗？",
+    "description": "帮助我们扩展数据库！如果你知道一家未列出的Kava酒吧，请告诉我们。",
+    "button": "建议Kava酒吧"
+  },
+  "related": {
+    "title": "相关页面",
+    "nakamal": {
+      "title": "Nakamal与Kava酒吧",
+      "subtitle": "Kava饮用文化的历史"
+    },
+    "moderne": {
+      "title": "现代Kava文化",
+      "subtitle": "今天的全球传播"
+    },
+    "weltkarte": {
+      "title": "互动世界地图",
+      "subtitle": "探索Kava地区"
+    }
+  },
+  "navigation": {
+    "nakamal": "/zh/kultur/nakamal",
+    "moderne": "/zh/kultur/moderne",
+    "weltkarte": "/zh/kultur/weltkarte",
+    "kontakt": "/zh/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "佛罗里达最著名的Kava酒吧连锁之一，提供正宗的氛围和来自瓦努阿图和斐济的优质Kava品种。",
+      "specialties": [
+        "瓦努阿图 Borogu",
+        "斐济 Waka",
+        "Kava冰沙"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra使用来自瓦努阿图岛的最高品质Kava。数千年来用于仪式。",
+      "specialties": [
+        "瓦努阿图优质",
+        "Kava飞行"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "本地经营的Kava酒吧，提供一系列传统制作的Kava，氛围轻松。",
+      "specialties": [
+        "传统Kava",
+        "克拉托姆茶"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "位于Las Olas心脏地带的优质Kava酒吧，具有太平洋风情和丰富的Noble Kava品种。",
+      "specialties": [
+        "斐济 Loa Waka",
+        "汤加Kava",
+        "Kava飞行"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "Madeira Beach的第一家Kava酒吧！由Bula Kafe的老板经营，后者是皮内拉斯的第一家Kava酒吧。",
+      "specialties": [
+        "海滩混合",
+        "斐济 Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "轻松的Kava休息室，提供最优质的斐济Kava、烟斗、克拉托姆和Kava喜剧之夜。",
+      "specialties": [
+        "斐济Kava",
+        "Kavaoke",
+        "喜剧之夜"
+      ]
+    },
+    "roots-miami": {
+      "description": "位于Wynwood的城市Kava酒吧，具有艺术氛围和定期的现场音乐活动。",
+      "specialties": [
+        "家庭混合",
+        "Kava鸡尾酒",
+        "克拉托姆茶"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "现代Kava酒吧、休息室和零售地点，位于迈阿密。",
+      "specialties": [
+        "植物混合",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Kava Culture特许经营连锁的总部，提供最多样的Kava品种。",
+      "specialties": [
+        "优质瓦努阿图",
+        "Kava鸡尾酒",
+        "克拉托姆"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "位于Bonita Springs的现代、时尚的室内/室外Kava酒吧。",
+      "specialties": [
+        "瓦努阿图石",
+        "斐济 Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "位于Clearwater的轻松Kava酒吧，提供下午2点到5点的欢乐时光。",
+      "specialties": [
+        "欢乐时光特价",
+        "Kava饮品"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "位于Fort Myers市中心的Kava Culture，提供开放麦克风之夜、艺术活动和美味的Kava鸡尾酒。",
+      "specialties": [
+        "开放麦克风之夜",
+        "艺术活动"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "位于奥兰多市中心的Kava Culture，氛围轻松。",
+      "specialties": [
+        "瓦努阿图Kava",
+        "克拉托姆混合"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB，提供Buddha Blends素食厨房。户外海滩酒吧，台球桌，飞镖，开放麦克风。",
+      "specialties": [
+        "海滩氛围",
+        "素食食品",
+        "现场音乐"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "位于基韦斯特的Kava Culture - 热带氛围和优质Kava。",
+      "specialties": [
+        "岛屿混合",
+        "热带Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "位于坦帕市中心的Kava Culture，具有城市氛围。",
+      "specialties": [
+        "城市混合",
+        "Kava饮品"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "位于南坦帕的Kava Culture，氛围轻松的邻里。",
+      "specialties": [
+        "邻里氛围",
+        "优质Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "位于那不勒斯的Kava Culture，具有高档氛围。",
+      "specialties": [
+        "优质选择",
+        "Kava飞行"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "位于Port Charlotte的Kava Culture，提供海滩氛围，沿运河的户外海滩。",
+      "specialties": [
+        "海滩氛围",
+        "运河景观"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "位于Estero的Kava Culture，方便的位置。",
+      "specialties": [
+        "便利位置",
+        "优质Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "位于Lake Mary的Kava Culture - 氛围轻松。",
+      "specialties": [
+        "轻松氛围",
+        "优质Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze是一家位于塔拉哈西的Kava酒吧，提供Kava、茶和一个轻松的放松场所。",
+      "specialties": [
+        "学生特价",
+        "轻松氛围"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "位于梅尔本市中心的Island Root Kava酒吧。",
+      "specialties": [
+        "传统Kava",
+        "社区活动"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge是Kava-Java-Hookah酒吧，提供咖啡、茶、Kava、克拉托姆和水烟。",
+      "specialties": [
+        "水烟",
+        "Kava",
+        "克拉托姆"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "家庭经营，所有有机植物和茶，旨在实现最佳健康。",
+      "specialties": [
+        "有机植物",
+        "健康茶"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors是一家本地的电子烟商店和休息室，提供Kava和克拉托姆。",
+      "specialties": [
+        "电子烟产品",
+        "Kava",
+        "克拉托姆"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge是一个创意和平和的聚集地。",
+      "specialties": [
+        "创意社区",
+        "现场音乐"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "民族植物茶吧，提供Kava和克拉托姆。",
+      "specialties": [
+        "民族植物",
+        "茶混合"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava、蒸汽和电子水烟，位于收费公路旁。放松、休息和享受！",
+      "specialties": [
+        "蒸汽",
+        "Kava",
+        "电子水烟"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula在轻松的海滩氛围中提供优质Kava。",
+      "specialties": [
+        "海滩氛围",
+        "优质Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava Social是一个社交聚集地，提供Kava、茶和社区活动。",
+      "specialties": [
+        "社交活动",
+        "Kava",
+        "茶"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava为大学城Gainesville提供正宗的Kava。",
+      "specialties": [
+        "大学氛围",
+        "优质Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "位于杰克逊维尔的Peaceful Warrior Kava酒吧，专注于健康和放松。",
+      "specialties": [
+        "健康",
+        "传统Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe提供Kava和一个精神社区氛围。",
+      "specialties": [
+        "精神社区",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "位于彭萨科拉的Kava Tap - 轻松的酒吧氛围，提供自助Kava。",
+      "specialties": [
+        "自助Kava",
+        "酒吧氛围"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala为佛罗里达中部提供优质Kava。",
+      "specialties": [
+        "佛罗里达中部",
+        "优质Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe Orlando将太平洋氛围带到佛罗里达中部。",
+      "specialties": [
+        "太平洋氛围",
+        "优质Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "位于凤凰城的Purple Lotus Kava酒吧 - 亚利桑那州的首选Kava目的地。",
+      "specialties": [
+        "亚利桑那州第一家",
+        "优质Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "位于亚利桑那州Tempe的Kava Culture - 适合亚利桑那州州立大学的学生。",
+      "specialties": [
+        "学生友好",
+        "优质Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "位于图森的The Root提供正宗的Kava和克拉托姆。",
+      "specialties": [
+        "正宗Kava",
+        "克拉托姆"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "位于圣地亚哥的Bula Kava House，提供轻松的海滩氛围。",
+      "specialties": [
+        "海滩氛围",
+        "优质Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "位于旧金山的Kava Roots - 海湾地区第一家Kava酒吧。",
+      "specialties": [
+        "海湾地区第一家",
+        "优质Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava洛杉矶将优质Kava带到好莱坞。",
+      "specialties": [
+        "好莱坞氛围",
+        "优质Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "无酒精，欢迎所有年龄段，提供草药饮品、异国情调和生食的休闲酒吧。",
+      "specialties": [
+        "草药饮品",
+        "生食",
+        "所有年龄段"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "在有趣和社交的氛围中提供最佳传统制作的Kava。最创新的放松场所！",
+      "specialties": [
+        "传统制作",
+        "Kava教育"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "位于南俄勒冈州中心的药店、茶园、艺术画廊和音乐场所！从夏威夷大岛进口Kava。",
+      "specialties": [
+        "Kava康普茶",
+        "艺术画廊",
+        "音乐场所"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "奥斯丁受欢迎的Kava酒吧，氛围轻松，提供游戏和社区活动。",
+      "specialties": [
+        "Kava飞行",
+        "克拉托姆混合",
+        "康普茶"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "位于德克萨斯州路易斯维尔的Kava Culture。",
+      "specialties": [
+        "优质Kava",
+        "德克萨斯氛围"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "位于北福特沃斯的Kava Culture。",
+      "specialties": [
+        "优质Kava",
+        "便利位置"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - 现已在俄亥俄州开放。",
+      "specialties": [
+        "优质Kava",
+        "中西部氛围"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "位于俄亥俄州托莱多的Kava Culture。",
+      "specialties": [
+        "优质Kava",
+        "俄亥俄州位置"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "盐湖城第一家Kava酒吧，提供优质Kava和热情的社区。",
+      "specialties": [
+        "瓦努阿图Kava",
+        "Kava仪式"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Kava是一种来自南太平洋的根。作为一种仪式饮品，用于放松和安抚。",
+      "specialties": [
+        "纽约氛围",
+        "优质Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra是美国最好的Kava酒吧，提供优质Kava和其他草药。",
+      "specialties": [
+        "优质Kava",
+        "草药混合"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia是一家Kava酒吧，专注于Kava饮品和生食甜点，以及盆栽植物。",
+      "specialties": [
+        "生食甜点",
+        "盆栽植物",
+        "Kava饮品"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "提供完整的草药和Kava产品线，果汁吧，烟草，水烟，电子烟产品 - 一切尽在一个屋檐下。",
+      "specialties": [
+        "草药产品",
+        "果汁吧"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "密苏里州第一家Kava酒吧！来看看这里的魅力。每周7天开放。",
+      "specialties": [
+        "密苏里州第一家",
+        "传统Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "位于卡罗尔堡的Krave Kava酒吧。",
+      "specialties": [
+        "优质Kava",
+        "大学城氛围"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "位于威尔明顿的Kat 5 Kava酒吧。",
+      "specialties": [
+        "海岸氛围",
+        "优质Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision是一个独特的联合工作空间和咖啡馆，提供Kava和克拉托姆等特色。",
+      "specialties": [
+        "联合工作空间",
+        "Kava和克拉托姆"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "健康的饮食，健康的身体和Kava！阿拉斯加的Kava目的地。",
+      "specialties": [
+        "阿萨伊碗",
+        "冰沙",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "位于南卡罗来纳州斯巴达堡的Kava Culture。",
+      "specialties": [
+        "优质Kava",
+        "南方款待"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "澳大利亚第一家专门的Kava休息室，提供正宗的斐济Kava和太平洋的热情好客。",
+      "specialties": [
+        "斐济 Waka",
+        "瓦努阿图 Kava",
+        "传统仪式"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "位于太平洋市场的墨尔本Kava酒吧，提供多种Kava和克拉托姆。",
+      "specialties": [
+        "斐济 Kava",
+        "汤加 Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "布里斯班的正宗Kava酒吧，具有斐济装饰和传统制作。",
+      "specialties": [
+        "斐济 Waka",
+        "Kava仪式"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "奥克兰的专用Kava休息室，位于维多利亚公园市场，拥有温暖、友好的社区和来自整个太平洋的Noble Kava。",
+      "specialties": [
+        "汤加 Kava",
+        "斐济 Waka",
+        "瓦努阿图 Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "位于南奥克兰的正宗Kava酒吧，价格实惠，提供多种Kava粉。",
+      "specialties": [
+        "汤加 Kava",
+        "斐济 Kava",
+        "Kava粉销售"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "位于柏林克罗伊茨贝格的第一家Kava休息室，氛围轻松，定期举行Kava仪式。",
+      "specialties": [
+        "瓦努阿图 Kava",
+        "Kava仪式"
+      ]
+    },
+    "kava-club-london": {
+      "description": "位于肖尔迪奇的伦敦第一家Kava俱乐部，具有城市氛围和多种优质Kava。",
+      "specialties": [
+        "斐济优质",
+        "Kava鸡尾酒"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "温哥华舒适的Kava咖啡馆，提供多种Kava和健康食品。",
+      "specialties": [
+        "瓦努阿图 Kava",
+        "Kava冰沙碗"
+      ]
+    }
+  }
+}

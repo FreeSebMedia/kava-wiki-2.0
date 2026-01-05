@@ -1,0 +1,207 @@
+{
+  "page": {
+    "title": "Kaygı Giderme & Anksiyolitik Etki",
+    "subtitle": "Kava'nın doğal yollarla kaygıları nasıl azalttığı – Etki mekanizmaları, çalışmalar ve önerilen çeşitler.",
+    "category": "Etki"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "wirkung": "Etki",
+    "current": "Kaygı Giderme"
+  },
+  "toc": {
+    "einfuehrung": "Giriş",
+    "wirkmechanismus": "Etki Mekanizması",
+    "gabaSystem": "GABA Sistemi",
+    "weitereMechanismen": "Diğer Mekanizmalar",
+    "studienlage": "Bilimsel Çalışmalar",
+    "vergleich": "Kava vs. Benzodiazepinler",
+    "chemotypen": "Önerilen Kimyasal Tipler & Çeşitler",
+    "anwendung": "Pratik Uygulama"
+  },
+  "intro": {
+    "paragraph1": "Kava'nın <strong>kaygı giderici etkisi</strong> (Anksiyolitik) en iyi belgelenmiş ve bilimsel olarak araştırılmış özelliğidir. Pasifik halkları, iç huzuru bulmak için bu bitkiyi binlerce yıldır kullanmaktadır – modern araştırmalar bu geleneksel uygulamayı doğrulamaktadır.",
+    "paragraph2": "Benzodiazepinler gibi farmasötik anksiyolitiklerin aksine, Kava <strong>kognitif kısıtlamalar olmadan</strong> etki eder. Zihin net ve odaklanmış kalırken, gerginlik ve endişeler çözülür. Bu benzersiz durum genellikle \"uyanık gevşeme\" veya \"aktif huzur\" olarak tanımlanır."
+  },
+  "wirkmechanismus": {
+    "title": "Etki Mekanizması",
+    "intro": "Kava'nın anksiyolitik etkisi, birkaç nörobiyolojik mekanizmanın karmaşık bir etkileşimine dayanır. Merkezde <strong>GABA sisteminin</strong> modülasyonu yer alır, ancak diğer nörotransmitter sistemleri de dahil olmaktadır."
+  },
+  "gabaSystem": {
+    "title": "GABA Sistemi",
+    "intro": "GABA (Gamma-Aminobutirik Asit), beyindeki en önemli inhibe edici nörotransmitterdir. GABA, reseptörüne bağlandığında, bir klorid kanalı açılır, negatif iyonlar sinir hücresine akın eder ve bu hücre daha az uyarılabilir hale gelir. Sonuç: <strong>Sakinlik, gevşeme, kaygı giderme</strong>.",
+    "modulationTitle": "GABA Modülasyon Süreci",
+    "steps": [
+      "Kavalakton (örneğin, Kavain) kan dolaşımı aracılığıyla beyne ulaşır",
+      "Sinir hücrelerindeki GABA-A reseptörüne bağlanır (Benzodiazepinlerden farklı bir yerde)",
+      "Klorid kanalının açılması → Cl⁻ iyonlarının artan akışı",
+      "Nöronal hiperpolarizasyon → Nöronun uyarılabilirliği azalır",
+      "Hissedilir etki: Sakinlik, kaygı giderme, kas gevşemesi"
+    ],
+    "difference": "Benzodiazepinlere göre belirleyici fark: Kavalaktonlar, GABA-A reseptörünün <strong>farklı bir yerinde</strong> bağlanır. Bu, Kava'nın bağımlılık yapmadığını ve kognitif fonksiyonları etkilemediğini açıklar."
+  },
+  "weitereMechanismen": {
+    "title": "Diğer Mekanizmalar",
+    "natriumCalcium": {
+      "title": "Sodyum/Kalsiyum Kanalı Blokajı",
+      "description": "Kavalaktonlar, voltaj bağımlı sodyum ve kalsiyum kanallarını bloke eder. Bu, sinir hücrelerinin uyarılabilirliğini azaltır ve sakinleştirici etkiye katkıda bulunur. Bu mekanizma ayrıca <strong>antikonvülsan</strong> (kas gevşetici) etki için de sorumludur."
+    },
+    "maoB": {
+      "title": "MAO-B İnhibisyonu",
+      "description": "Bazı kavalaktonlar (özellikle Desmetoksiyangonin), Monoamin Oksidaz-B enzimini inhibe eder. Bu, dopaminin yıkımını yavaşlatır ve <strong>mood uplifting</strong> (ruh halini iyileştirici) etkiye katkıda bulunur – klasik MAO inhibitörlerinin riskleri olmadan."
+    },
+    "noradrenalin": {
+      "title": "Noradrenalin Geri Alımı",
+      "description": "Noradrenalin geri alımının inhibisyonu, <strong>konsantrasyonu artırmaya</strong> katkıda bulunur, sinirli yapmadan. Bu, Kava'nın sedatif maddelerden ayıran \"uyanık gevşeme\" durumunu açıklar."
+    },
+    "cb1": {
+      "title": "CB1 Reseptör Affinitesi",
+      "description": "Yangonin, Endokannabinoid Sisteminin CB1 reseptörüne kanıtlanmış bir affinite göstermektedir. Bu, Kava etkisinin hafif <strong>euforik</strong> bileşenini açıklar."
+    }
+  },
+  "studienlage": {
+    "title": "Bilimsel Çalışmalar",
+    "intro": "Kava'nın anksiyolitik etkisi, birçok klinik çalışma ile kanıtlanmıştır. 2003 yılına ait bir <strong>Cochrane Meta-Analizi</strong> (2018'de güncellenmiştir) sonuçları özetlemiş ve olumlu bir sonuca ulaşmıştır.",
+    "studiesTitle": "Önemli Çalışma Sonuçları",
+    "studies": [
+      {
+        "name": "Cochrane İncelemesi (Pittler & Ernst, 2003)",
+        "result": "Toplam 645 katılımcıyla 11 randomize kontrollü çalışmanın analizi. Kava, kaygı bozukluklarının tedavisinde plaseboya karşı anlamlı bir üstünlük gösterdi."
+      },
+      {
+        "name": "Sarris ve ark. (2013)",
+        "result": "Genelleştirilmiş anksiyete bozukluğu olan 75 katılımcıyla yapılan çift kör, plasebo kontrollü çalışma. Kava ekstresi (günde 120-240 mg Kavalakton) kaygı semptomlarında anlamlı bir azalma sağladı."
+      },
+      {
+        "name": "Lehrl (2004)",
+        "result": "Kava ve Oksazepam (Benzodiazepin) arasındaki karşılaştırma çalışması. Her ikisi de benzer anksiyolitik etki gösterdi, ancak Kava kognitif bozulma olmadan."
+      }
+    ],
+    "quote": "Kava ile ilgili çalışmalar, kaygı giderme alanında özellikle güçlüdür. Çalışmalar, Kava ekstresi veya geleneksel içeceklerin alınmasından sonra fizyolojik stres belirteçlerinde (örneğin, kalp atış hızı, kortizol) bir azalma göstermektedir.",
+    "quoteSource": "Kava – Huzur Kökü"
+  },
+  "vergleich": {
+    "title": "Kava vs. Benzodiazepinler",
+    "intro": "Kava ve benzodiazepinler arasındaki karşılaştırma, her ikisinin de GABA sistemine etki etmesi nedeniyle özellikle öğreticidir, ancak çok farklı sonuçlarla.",
+    "tableHeaders": {
+      "property": "Özellik",
+      "kava": "Kava",
+      "benzodiazepines": "Benzodiazepinler"
+    },
+    "tableRows": [
+      {
+        "property": "Anksiyolitik Etki",
+        "kava": "Güçlü, ama nazik",
+        "benzo": "Çok güçlü"
+      },
+      {
+        "property": "Kognitif Fonksiyon",
+        "kava": "Korunmuş veya iyileşmiş",
+        "benzo": "Bozulmuş"
+      },
+      {
+        "property": "Sedasyon",
+        "kava": "Düşük ila orta",
+        "benzo": "Güçlü"
+      },
+      {
+        "property": "Bağımlılık Potansiyeli",
+        "kava": "Çok düşük",
+        "benzo": "Yüksek (birkaç hafta içinde)"
+      },
+      {
+        "property": "Tolerans Gelişimi",
+        "kava": "Ters Tolerans",
+        "benzo": "Hızlı tolerans"
+      },
+      {
+        "property": "Yoksunluk Semptomları",
+        "kava": "Bilinen yok",
+        "benzo": "Ağır, potansiyel olarak tehlikeli"
+      },
+      {
+        "property": "Etkileşimler",
+        "kava": "Düşük",
+        "benzo": "Çok sayıda"
+      }
+    ],
+    "advantagesTitle": "Kava'nın Avantajları",
+    "advantages": [
+      "Uzun süreli kullanımda bile bağımlılık gelişimi yok",
+      "Zihinsel netlik korunur – iş ve sosyal durumlar için ideal",
+      "Ertesi gün \"hangover\" veya rebound kaygı yok",
+      "Tolerans geliştirmeden ihtiyaç duyulduğunda alınabilir",
+      "Binlerce yıllık geleneksel bir doğal ürün"
+    ]
+  },
+  "chemotypen": {
+    "title": "Önerilen Kimyasal Tipler & Çeşitler",
+    "intro": "Kava'nın <strong>anksiyolitik etkisi</strong> için, özellikle yüksek kavain içeriğine sahip çeşitler (kimyasal tipte 4. pozisyonda) önerilmektedir. Bu \"Heady\" Kava'lar öncelikle zihinsel olarak etki eder ve zihni net tutar.",
+    "headyLabel": "Heady",
+    "idealFor": "Kaygı Giderme için İdeal",
+    "varieties": [
+      {
+        "name": "Borogu (Vanuatu)",
+        "chemotype": "426531",
+        "description": "Klasik Noble Kava, hafif Heady eğilimi ile dengeli. Yeni başlayanlar için ideal."
+      },
+      {
+        "name": "Kelai (Vanuatu)",
+        "chemotype": "423165",
+        "description": "Güçlü anksiyolitik, çok popüler. Net, odaklanmış gevşeme."
+      },
+      {
+        "name": "Melo Melo (Vanuatu)",
+        "chemotype": "463251",
+        "description": "Heady, hafif eufori ile. Sosyal durumlar için ideal."
+      },
+      {
+        "name": "Pouni Ono (Tonga)",
+        "chemotype": "426315",
+        "description": "Ruh halini iyileştirici ve kaygı giderici. Premium kalite."
+      }
+    ],
+    "warningTitle": "Kaygı Giderme için Önerilmez",
+    "warningText": "<strong>Tudei çeşitleri</strong> (1 veya 2. pozisyonda DHM ile tanınır, örneğin kimyasal tip 526431) kaygı tedavisi için uygun değildir. Güçlü sedatif etki gösterir ve ertesi gün yorgunluğa neden olabilir. Ayrıca, netlik isteniyorsa çok \"Heavy\" çeşitler de olumsuz etkili olabilir."
+  },
+  "anwendung": {
+    "title": "Pratik Uygulama",
+    "intro": "Kaygı durumlarında uygulama için, acil durumlar veya uzun vadeli destek açısından farklı stratejiler vardır.",
+    "akut": {
+      "title": "Acil Kaygı Durumunda",
+      "dosierung": "1-2 Shells (yaklaşık 15-30g toz)",
+      "zubereitung": "Geleneksel olarak suda yoğrulur",
+      "wirkungseintritt": "15-30 dakika",
+      "sorte": "Heady Kava (örneğin, Kelai, Borogu)",
+      "tipp": "Daha hızlı etki için aç karnına alın"
+    },
+    "taeglich": {
+      "title": "Günlük Destek İçin",
+      "dosierung": "100-250 mg Kavalakton/gün",
+      "form": "Geleneksel içecek veya kapsüller",
+      "timing": "Akşam veya ihtiyaç duyulduğunda",
+      "hinweis": "\"Ters Tolerans\" – Etki zamanla artabilir",
+      "pause": "Haftada 1-2 gün ara verilmesi önerilir"
+    },
+    "labels": {
+      "dosierung": "Dozaj",
+      "zubereitung": "Hazırlama",
+      "wirkungseintritt": "Etki Başlangıcı",
+      "sorte": "Çeşit",
+      "tipp": "İpucu",
+      "form": "Form",
+      "timing": "Zamanlama",
+      "hinweis": "Not",
+      "pause": "Ara"
+    },
+    "reverseTolerance": {
+      "title": "Ters Tolerans",
+      "description": "Kava'da benzersiz bir fenomen: Çoğu psikoaktif maddelerin aksine, düzenli kullanımda etki <strong>daha güçlü</strong> hale gelebilir, zayıflamaz. Yeni başlayanlar genellikle daha yüksek dozlar gerektirirken, deneyimli kullanıcılar daha azıyla yetinebilir. Bu, Kava'yı uzun vadeli kaygı yönetimi için sürdürülebilir bir seçenek haline getirir."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Etki bölümünde devam:",
+    "nextTitle": "Uyku & Gevşeme",
+    "nextDescription": "Kava'nın uyku kalitesini nasıl artırdığı ve derin gevşemeyi nasıl teşvik ettiği"
+  }
+}

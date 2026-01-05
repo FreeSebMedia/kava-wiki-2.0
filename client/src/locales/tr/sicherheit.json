@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Güvenlik & Sağlık",
+    "subtitle": "Efsaneler yerine gerçekler: Hepatotoksisite, yan etkiler ve güvenli tüketim üzerine bilimsel bir bakış.",
+    "category": "Güvenlik"
+  },
+  "toc": {
+    "title": "İçindekiler",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Bilimsel Konsensüs",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Bölüm Özeti",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Karaciğer Güvenliği",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Etkileşimler",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Kontrendikasyonlar",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Dozaj Önerileri",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Olası Yan Etkiler",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Güvenlik Kontrol Listesi",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Güncel Bilimsel Konsensüs",
+    "intro": "Kapsamlı analizler sonucunda <strong>WHO</strong>, <strong>EMA</strong> ve bağımsız araştırmacılar tarafından:",
+    "points": [
+      "Geleneksel olarak hazırlanmış Noble türlerinden Kava, uygun şekilde kullanıldığında <strong>güvenlidir</strong>",
+      "Ağır karaciğer hasarları <strong>son derece nadirdir</strong> (tahmini insidans: 1:60.000 ile 1:1.000.000)",
+      "2002'deki AB yasağı, Alman mahkemeleri tarafından <strong>orantısız</strong> olarak değerlendirilmiştir",
+      "Riskler esasen <strong>kalite eksiklikleri</strong>, <strong>yanlış bitki parçaları</strong> veya <strong>karışık tüketim</strong> nedeniyle ortaya çıkar"
+    ]
+  },
+  "kapitel": {
+    "title": "Bölüm Özeti: Güvenlik Ayrıntıları",
+    "intro": "Bu bölüm, Kava'nın tüm güvenlik ile ilgili yönlerinin kapsamlı ve bilimsel bir analizini sunmaktadır. Ayrıntılı bilgiler için alt sayfalara tıklayın:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Karaciğer Güvenliği & Hepatotoksisite",
+        "href": "/de/sicherheit/leber",
+        "description": "2002'deki yasağın bilimsel gerçeği, WHO ve EMA değerlendirmeleri, risk faktörleri ve pratik öneriler.",
+        "highlights": [
+          "WHO Değerlendirmesi 2007",
+          "EMA Raporu 2017",
+          "Mahkeme Kararları",
+          "Risk Faktörleri"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "İlaçlarla Etkileşimler",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalaktonlar CYP450 enzimlerini inhibe eder: Yüksek riskli kombinasyonlar ve orta düzey etkileşimler için kapsamlı bir genel bakış.",
+        "highlights": [
+          "CYP450 Sistemi",
+          "Yüksek Riskli Kombinasyonlar",
+          "Etkileşim Tablosu",
+          "Pratik İpuçları"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Kontrendikasyonlar",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Kava'nın ne zaman kullanılmaması gerektiği: Güvenli bir kullanım için mutlak ve göreceli karşıt göstergeler.",
+        "highlights": [
+          "Karaciğer Hastalıkları",
+          "Hamilelik",
+          "Parkinson",
+          "Karar Yardımı"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Dozaj Önerileri",
+    "intro": "Optimal doz, bireysel toleransa (\"Ters Tolerans\") ve Kava türüne bağlı olarak büyük ölçüde değişir. Her zaman daha düşük dozlarla başlayın.",
+    "boxTitle": "Kavalaktonlar için Referans Değerler",
+    "medical": {
+      "title": "Tıbbi (Kaygı)",
+      "value": "60–240 mg",
+      "unit": "Günde Kavalakton"
+    },
+    "traditional": {
+      "title": "Geleneksel / Eğlencelik",
+      "value": "250–500 mg",
+      "unit": "Oturum başına Kavalakton"
+    },
+    "tableTitle": "Kök Tozu ile Hazırlama (Orta Öğütme)",
+    "table": {
+      "headers": {
+        "level": "Deneyim Seviyesi",
+        "amount": "Miktar",
+        "water": "Su"
+      },
+      "rows": [
+        {
+          "level": "Yeni Başlayan",
+          "amount": "2-3 yemek kaşığı (yaklaşık 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "İleri Düzey",
+          "amount": "4-6 yemek kaşığı (yaklaşık 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Olası Yan Etkiler",
+    "intro": "Kava uygun şekilde kullanıldığında güvenli olmasına rağmen, aşırı tüketim durumunda yan etkiler ortaya çıkabilir.",
+    "frequent": {
+      "title": "Sık (doz bağımlı)",
+      "items": [
+        {
+          "label": "Yorgunluk:",
+          "value": "Özellikle \"Ağır\" türlerde"
+        },
+        {
+          "label": "Bulantı:",
+          "value": "Aç karnına yüksek dozlarda"
+        },
+        {
+          "label": "Dehidratasyon:",
+          "value": "Kava idrar söktürücü etki gösterir"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Kronik Tüketimde",
+      "items": [
+        {
+          "label": "Kava Dermopatisi:",
+          "value": "Kuru, pul pul dökülen cilt (geri dönüşümlü)"
+        },
+        {
+          "label": "GGT Artışı:",
+          "value": "Karaciğer enzimi hafifçe artar (geri dönüşümlü)"
+        },
+        {
+          "label": "Kilo Kaybı:",
+          "value": "Çok yüksek tüketimde"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Güvenlik Kontrol Listesi",
+    "boxTitle": "Güvenli Kava Tüketimi için",
+    "items": [
+      "<strong>Sadece Noble-Kava</strong> güvenilir kaynaklardan kullanın",
+      "<strong>Sadece Kök/Rhizom</strong> – yaprak veya sap yok",
+      "<strong>Geleneksel sulu hazırlama</strong> tercih edin",
+      "<strong>Alkol yok</strong> – en az 24 saat aralık"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>İlaç Kontrolü</strong> – ",
+        "linkText": "Etkileşimleri kontrol et",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Kontrendikasyonlara dikkat edin</strong> – ",
+        "linkText": "Kontrol listesini görüntüle",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Uyarı İşaretlerine Dikkat Edin",
+      "text": "Cilt/gözlerde sararma, koyu idrar, açık dışkı veya alışılmadık yorgunluk durumunda hemen tüketimi durdurun ve bir doktora başvurun."
+    }
+  },
+  "quickLinks": {
+    "title": "Ayrıntılı Bilgiler",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Karaciğer Güvenliği",
+        "description": "Hepatotoksisite & 2002 Yasağı",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Etkileşimler",
+        "description": "İlaçlar & CYP450 Etkileşimleri",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Kontrendikasyonlar",
+        "description": "Kava'nın ne zaman kaçınılması gerektiği",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

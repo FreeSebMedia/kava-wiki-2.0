@@ -1,0 +1,187 @@
+{
+  "page": {
+    "title": "Kas Gevşemesi",
+    "subtitle": "Kavalaktonların gerginlikleri nasıl çözdüğü ve fiziksel gevşemeyi nasıl teşvik ettiği.",
+    "category": "Etkisi"
+  },
+  "breadcrumbs": {
+    "home": "Ana Sayfa",
+    "wirkung": "Etkisi",
+    "current": "Kas Gevşemesi"
+  },
+  "toc": {
+    "einfuehrung": "Giriş",
+    "mechanismen": "Etkileşim Mekanizmaları",
+    "kavalactone": "İlgili Kavalaktonlar",
+    "anwendungen": "Uygulama Alanları",
+    "chemotypen": "Önerilen Kimyasal Türler & Çeşitler",
+    "praxis": "Pratik Uygulama"
+  },
+  "intro": {
+    "paragraph1": "Kava'nın <strong>kas gevşetici etkisi</strong>, en belirgin hissedilen etkilerden biridir. İlk Shell'den sonra, gevşeme dalgası vücutta hareket etmeye başlar - gerginlikler çözülür, beden \"ağır\" ve hoş bir his verir.",
+    "paragraph2": "Pasifik'teki geleneksel uygulamalarda Kava, binlerce yıldır kas ağrılarını ve fiziksel gerginliği hafifletmek için kullanılmaktadır. Modern araştırmalar, temel mekanizmaları aydınlatmıştır."
+  },
+  "mechanismen": {
+    "title": "Etkileşim Mekanizmaları",
+    "intro": "Kava'nın kas gevşetici etkisi, hem merkezi (beyin/omurilik) hem de periferik düzeyde etkili olan birkaç sinerjik mekanizmaya dayanmaktadır.",
+    "natrium": {
+      "title": "Sodyum ve Kalsiyum Kanalı Blokajı",
+      "description": "Kavalaktonlar, sinir hücrelerinde voltaj bağımlı <strong>sodyum ve kalsiyum kanallarını</strong> bloke eder. Bu, motor nöronların (kasları kontrol eden sinir hücreleri) uyarılabilirliğini azaltır ve kas tonusunun düşmesine yol açar. Bu mekanizma, <strong>antikonvülsan</strong> (kramp çözücü) etkiden de sorumludur."
+    },
+    "gaba": {
+      "title": "Merkezi GABA Modülasyonu",
+      "description": "Beyin ve omurilikte GABA etkisinin güçlendirilmesi, <strong>merkezi kas gerginliğini</strong> azaltır. GABA, en önemli inhibe edici nörotransmitterdir ve aynı zamanda omurilik düzeyinde kas tonusunu da düzenler."
+    },
+    "peripher": {
+      "title": "Periferik Etki",
+      "description": "Bazı Kavalaktonlar, <strong>düz kaslara</strong> (örneğin, kan damarlarında) doğrudan etki eder. Bu, hafif bir vazodilatasyona (damar genişlemesi) yol açabilir ve birçok kullanıcının bildirdiği sıcaklık hissini açıklar."
+    },
+    "quote": "Kavalaktonlar, sinir hücreleri düzeyinde voltaj bağımlı sodyum ve kalsiyum kanallarını bloke ederek kas gevşetici etkiye katkıda bulunur.",
+    "quoteSource": "Kava – Sakinliğin Kökü"
+  },
+  "kavalactone": {
+    "title": "İlgili Kavalaktonlar",
+    "intro": "Tüm Kavalaktonlar eşit derecede kas gevşetici etki göstermez. Özellikle iki bileşen öne çıkmaktadır:",
+    "dhk": {
+      "title": "Dihidrokavain (DHK)",
+      "position": "Kimyasal türde 2. pozisyon",
+      "description": "DHK, en <strong>güçlü kas gevşetici</strong> Kavalakton'dur. Öncelikle sodyum kanallarının blokajı yoluyla etki eder ve belirgin bir sedatif bileşene sahiptir.",
+      "profile": "Güçlü kas gevşetici, sedatif, bedensel. Akşam kullanımı ve gerginlikler için idealdir."
+    },
+    "dhm": {
+      "title": "Dihidromethysticin (DHM)",
+      "position": "Kimyasal türde 5. pozisyon",
+      "description": "DHM de güçlü kas gevşetici özelliklere sahiptir, ancak aynı zamanda <strong>en uzun etki süresine</strong> sahip Kavalakton'dur. Yüksek konsantrasyonlarda kalıcı yorgunluğa yol açabilir.",
+      "warning": "Yüksek DHM konsantrasyonları (1-2. pozisyon) Tudei çeşitlerinde tipiktir ve \"sarhoşluk\" belirtilerine yol açabilir."
+    },
+    "tableHeaders": {
+      "kavalacton": "Kavalakton",
+      "muskelentspannung": "Kas Gevşemesi",
+      "sedierung": "Sedasyon",
+      "dauer": "Süre"
+    },
+    "tableData": [
+      {
+        "name": "Dihidrokavain (2)",
+        "muskel": "⭐⭐⭐⭐⭐",
+        "sedierung": "⭐⭐⭐⭐",
+        "dauer": "Orta"
+      },
+      {
+        "name": "Dihidromethysticin (5)",
+        "muskel": "⭐⭐⭐⭐",
+        "sedierung": "⭐⭐⭐⭐⭐",
+        "dauer": "Uzun"
+      },
+      {
+        "name": "Methysticin (3)",
+        "muskel": "⭐⭐⭐",
+        "sedierung": "⭐⭐⭐",
+        "dauer": "Orta"
+      },
+      {
+        "name": "Kavain (4)",
+        "muskel": "⭐⭐",
+        "sedierung": "⭐⭐",
+        "dauer": "Kısa"
+      }
+    ],
+    "profileLabel": "Etki Profili",
+    "warningLabel": "Dikkat"
+  },
+  "anwendungen": {
+    "title": "Uygulama Alanları",
+    "intro": "Kava'nın kas gevşetici etkisi, çeşitli rahatsızlıklarda yardımcı olabilir:",
+    "areas": [
+      {
+        "title": "Boyun/Omuz Bölgesindeki Gerginlikler",
+        "description": "Stres ve ekran başında çalışma sıklıkla kronik gerginliklere yol açar. Kava, bunların çözülmesine yardımcı olabilir ve genel iyilik halini artırabilir."
+      },
+      {
+        "title": "Sırt Ağrıları",
+        "description": "Kas kaynaklı sırt ağrılarında gevşetici etki rahatlama sağlayabilir. Kava, tıbbi tedavinin yerini almaz, ancak destekleyici olabilir."
+      },
+      {
+        "title": "Gerilim Tipi Baş Ağrıları",
+        "description": "Boyun ve baş bölgesindeki kas gerginliklerinden kaynaklanan baş ağrıları, gevşeme ile hafifletilebilir."
+      },
+      {
+        "title": "Adet Dönemi Rahatsızlıkları",
+        "description": "Kramp çözücü etkisi, adet kramplarında yardımcı olabilir. Geleneksel olarak Kava, Pasifik'te bu amaçla da kullanılmıştır."
+      },
+      {
+        "title": "Spor Sonrası",
+        "description": "Yoğun antrenman sonrası iyileşme için Kava, kasları gevşetmeye ve toparlanmayı teşvik etmeye yardımcı olabilir."
+      },
+      {
+        "title": "Huzursuz Bacak Sendromu",
+        "description": "Bazı kullanıcılar huzursuz bacaklarda rahatlama bildirmektedir. Kas gevşemesi ve anksiyolitik etkilerin birleşimi burada etkili olabilir."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Önerilen Kimyasal Türler & Çeşitler",
+    "intro": "Maksimum <strong>Kas Gevşemesi</strong> için, yüksek DHK oranına sahip çeşitler (kimyasal türde 2. veya 1. pozisyonda) seçilmelidir. Bu \"Ağır\" Kava'lar bedensel olup akşam kullanımı için idealdir.",
+    "heavyLabel": "Ağır",
+    "heavyTitle": "Maksimum Kas Gevşemesi",
+    "varieties": [
+      {
+        "name": "Palasa (Vanuatu)",
+        "chemotype": "423651",
+        "description": "Çok bedensel, güçlü kas gevşetici. Gerginlikler için ideal."
+      },
+      {
+        "name": "Ambae (Vanuatu)",
+        "chemotype": "246531",
+        "description": "DHK-dominant, belirgin \"Kanepe Kilidi\" etkisi."
+      },
+      {
+        "name": "Palarasul (Vanuatu)",
+        "chemotype": "426531",
+        "description": "Güçlü sedatif etkisi ile iyi kas gevşetici."
+      },
+      {
+        "name": "Borogu (Vanuatu)",
+        "chemotype": "426531",
+        "description": "Dengeli bedensel etkiye sahip klasik."
+      }
+    ],
+    "tipTitle": "Kimyasal Tür İpucu",
+    "tipText": "Kimyasal türdeki <strong>2. pozisyon (DHK)</strong>’ya dikkat edin. Ne kadar önde olursa, kas gevşetici etki o kadar güçlüdür. <strong>246...</strong> veya <strong>426...</strong> gibi bir kimyasal tür, bedensel bir çeşidi gösterir. Çeşitleri analiz etmek için kimyasal tür hesaplayıcısını kullanın.",
+    "rechnerLink": "Kimyasal Tür Hesaplayıcısı"
+  },
+  "praxis": {
+    "title": "Pratik Uygulama",
+    "intro": "Kas gerginlikleri için bazı öneriler bulunmaktadır:",
+    "empfehlungenTitle": "Kas Gevşemesi için Öneriler",
+    "empfehlungen": [
+      {
+        "label": "Zamanlama",
+        "text": "En iyi akşam, uyumadan 1-2 saat önce. Kas gevşetici çeşitlerin sedatif bileşeni yorgunluk yapabilir."
+      },
+      {
+        "label": "Dozaj",
+        "text": "Belirgin bedensel etki için 2-3 Shell (30-45g toz). Yeni başlayanlar daha az ile başlamalıdır."
+      },
+      {
+        "label": "Kombinasyon",
+        "text": "Sıcaklık (sıcak banyo, sıcak su torbası) gevşetici etkiyi artırır. Hafif esneme hareketleri de faydalı olabilir."
+      },
+      {
+        "label": "Düzenlilik",
+        "text": "Kronik gerginliklerde düzenli akşam uygulaması (ara vererek) mantıklı olabilir."
+      },
+      {
+        "label": "Hidrasyon",
+        "text": "Yeterince su içmek, çünkü Kava hafif dehidratasyona neden olabilir."
+      }
+    ],
+    "gefuehlTitle": "\"Kava Hissi\"",
+    "gefuehlText": "Kava'nın sağladığı bedensel gevşeme genellikle hoş bir \"ağırlık\" olarak tanımlanır. Uzuvlar sıcak ve gevşek hisseder, gerginlikler kendiliğinden çözülür. Bu durum sersemlik ile karıştırılmamalıdır - zihin açık kalır, sadece beden derin bir şekilde gevşer."
+  },
+  "navigation": {
+    "nextChapter": "Etkisi bölümünde devam:",
+    "nextTitle": "Ruh Hali & Sosyal",
+    "nextDescription": "Kava'nın ruh halini nasıl yükselttiği ve sosyal etkileşimleri nasıl teşvik ettiği"
+  }
+}

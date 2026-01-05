@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Yetiştirme & Ekoloji",
+    "subtitle": "Büyüme koşulları, üreme yöntemleri ve geleneksel Kava yetiştiriciliği sanatı.",
+    "category": "Botanik"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanik",
+    "current": "Yetiştirme & Ekoloji"
+  },
+  "toc": {
+    "vermehrung": "Vejetatif Üreme",
+    "stecklinge": "Çelik Üretimi",
+    "klima": "İklim Gereksinimleri",
+    "boden": "Toprak Özellikleri",
+    "pflege": "Bakım & Büyüme",
+    "ernte": "Hasat & Olgunlaşma Süresi",
+    "qualitaet": "Kalite Faktörleri",
+    "anbauregionen": "Önemli Yetiştirme Bölgeleri"
+  },
+  "intro": {
+    "paragraph1": "Kava yetiştiriciliği, binlerce yıldır nesilden nesile aktarılan bir sanattır. <em>Piper methysticum</em> steril olduğu ve tohum üretmediği için, bitki tamamen insana bağımlıdır. Bu eşsiz bağımlılık, Pasifik halkları ile kutsal bitkileri arasında derin bir kültürel bağ oluşturmuştur."
+  },
+  "vermehrung": {
+    "title": "Vejetatif Üreme",
+    "paragraph1": "Kava'nın üremesi yalnızca <strong>çelikler aracılığıyla vejetatif olarak</strong> gerçekleşir. Bu, bitkinin steril olmasının doğrudan bir sonucudur - bu özellik binlerce yıllık evcilleştirme sürecinde ortaya çıkmıştır.",
+    "advantages": {
+      "title": "Vejetatif Üremenin Avantajları",
+      "items": [
+        "Ana bitki ile genetik kimlik",
+        "Kanıtlanmış çeşit özelliklerinin korunması",
+        "Tahmin edilebilir kimyasal profil",
+        "Tohumdan daha hızlı büyüme",
+        "Nesiller boyunca kanıtlanmış kalite"
+      ]
+    },
+    "challenges": {
+      "title": "Zorluklar",
+      "items": [
+        "Genetik varyasyon yok",
+        "Hastalıklar için hassasiyet (klonlar)",
+        "Ana bitkilere bağımlılık",
+        "Sınırlı yayılma hızı",
+        "Çeşit kaybı riski"
+      ]
+    },
+    "stecklinge": {
+      "title": "Çelik Üretimi & Dikim",
+      "paragraph1": "Geleneksel çelik üretim yöntemi, kanıtlanmış bir süreci takip eder:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Seçim",
+          "description": "Kanıtlanmış bir ana bitkiden 2-3 düğüm içeren sağlıklı gövde parçaları"
+        },
+        {
+          "number": "2",
+          "title": "Kesim",
+          "description": "Bir düğümün altında temiz bir kesim, uzunluk yaklaşık 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Hazırlık",
+          "description": "Alt yaprakların çıkarılması, kesim yerinin kısa süreli kurutulması"
+        },
+        {
+          "number": "4",
+          "title": "Dikim",
+          "description": "Gölge altında gevşek, nemli toprağa yerleştirilmesi, düzenli sulama"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "İklim Gereksinimleri",
+    "paragraph1": "Kava, belirli iklim gereksinimlerine sahip bir <strong>tropikal bitki</strong>dir. Sadece çevresel koşulların oldukça dar bir aralığında gelişir.",
+    "table": {
+      "headers": {
+        "parameter": "Parametre",
+        "optimal": "Optimal Aralık",
+        "tolerance": "Tolerans Aralığı",
+        "note": "Not"
+      },
+      "rows": [
+        {
+          "parameter": "Sıcaklık",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Don toleransı yok"
+        },
+        {
+          "parameter": "Yağış",
+          "optimal": "2.000-3.000 mm/Yıl",
+          "tolerance": "1.500-4.000 mm/Yıl",
+          "note": "Dengeli dağılım"
+        },
+        {
+          "parameter": "Hava Nemliliği",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Yüksek nem tercih edilir"
+        },
+        {
+          "parameter": "Yükseklik",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Alçak alan tercih edilir"
+        },
+        {
+          "parameter": "Güneş Işığı",
+          "optimal": "Yarı gölge",
+          "tolerance": "30-70% gölge",
+          "note": "Genç bitkiler: daha fazla gölge"
+        }
+      ]
+    },
+    "alert": "<strong>Gölge İhtiyacı:</strong> Genç Kava bitkileri (0-2 yaş) yaklaşık %70-80 gölgeye ihtiyaç duyar. Yaşlandıkça daha fazla güneş ışığına dayanabilirler, ancak yine de kısmi gölden fayda görürler."
+  },
+  "boden": {
+    "title": "Toprak Özellikleri",
+    "paragraph1": "Toprak özellikleri, başarılı Kava yetiştiriciliği için en kritik faktörlerden biridir. Bitki, drenaj ve besin içeriği konusunda yüksek gereksinimlere sahiptir.",
+    "ideal": {
+      "title": "İdeal Toprak Özellikleri",
+      "items": [
+        {
+          "label": "Yapı:",
+          "value": "Gevşek, granüllü, iyi havalandırılmış"
+        },
+        {
+          "label": "Drenaj:",
+          "value": "Mükemmel - su birikintisi kök çürümesine yol açar"
+        },
+        {
+          "label": "pH Değeri:",
+          "value": "Hafif asidik ile nötr (5,5-6,5)"
+        },
+        {
+          "label": "Organik İçerik:",
+          "value": "Yüksek, humus açısından zengin"
+        },
+        {
+          "label": "Derinlik:",
+          "value": "Kök gelişimi için en az 60 cm"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Kaçınılması Gerekenler",
+      "items": [
+        {
+          "label": "Sıkışmış Topraklar:",
+          "value": "Kök büyümesini engeller"
+        },
+        {
+          "label": "Su Birikintisi:",
+          "value": "Kök çürümesine ve mantar enfeksiyonuna yol açar"
+        },
+        {
+          "label": "Ağır Kil Topraklar:",
+          "value": "Kötü drenaj"
+        },
+        {
+          "label": "Tuzlu Topraklar:",
+          "value": "Kava tuza hassastır"
+        },
+        {
+          "label": "Besin Yetersiz Topraklar:",
+          "value": "Kavalakton içeriğini azaltır"
+        }
+      ]
+    },
+    "paragraph2": "Geleneksel yetiştirme bölgelerinde genellikle <strong>volkanik topraklar</strong> tercih edilmektedir. Bu topraklar, drenaj, mineral içeriği ve yapı açısından ideal bir kombinasyon sunar. Vanuatu ve Fiji'de Kava ekimleri genellikle doğal drenaj sağlamak için hafif eğimli arazilere yerleştirilir."
+  },
+  "pflege": {
+    "title": "Bakım & Büyüme",
+    "paragraph1": "Kava, kurulduktan sonra nispeten az bakım gerektiren bir bitkidir. En önemli bakım önlemleri ilk iki yıla odaklanır.",
+    "table": {
+      "headers": {
+        "phase": "Büyüme Aşaması",
+        "period": "Dönem",
+        "tasks": "Ana Görevler",
+        "notes": "Özellikler"
+      },
+      "rows": [
+        {
+          "phase": "Kurulum",
+          "period": "0-6 Ay",
+          "tasks": "Düzenli sulama, gölge sağlama",
+          "notes": "En kritik aşama"
+        },
+        {
+          "phase": "Gençlik Aşaması",
+          "period": "6-18 Ay",
+          "tasks": "Yabani ot kontrolü, malçlama, gerekirse gübreleme",
+          "notes": "Hızlı büyüme"
+        },
+        {
+          "phase": "Olgunluk Aşaması",
+          "period": "18-36 Ay",
+          "tasks": "Minimum bakım, zararlı kontrolü",
+          "notes": "Kök gelişimi"
+        },
+        {
+          "phase": "Hasat Olgunluğu",
+          "period": "3-5+ Yıl",
+          "tasks": "Kalite değerlendirmesi, hasat hazırlığı",
+          "notes": "Optimal potansiyel"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Hasat & Olgunlaşma Süresi",
+    "paragraph1": "Hasat zamanı, nihai ürünün kalitesi için kritik öneme sahiptir. Kava yetiştiriciliğinde en önemli kurallardan biri: <strong>Bitki ne kadar yaşlıysa, etkisi o kadar güçlü ve dengeli olur.</strong>",
+    "qualitaet": {
+      "title": "Hasatta Kalite Faktörleri",
+      "table": {
+        "headers": {
+          "age": "Hasat Yaşı",
+          "content": "Kavalakton İçeriği",
+          "quality": "Kalite Seviyesi",
+          "usage": "Kullanım"
+        },
+        "rows": [
+          {
+            "age": "< 2 Yıl",
+            "content": "Düşük (3-5%)",
+            "quality": "Olgunlaşmamış",
+            "qualityColor": "red",
+            "usage": "Tavsiye edilmez"
+          },
+          {
+            "age": "2-3 Yıl",
+            "content": "Orta (5-10%)",
+            "quality": "Kabul edilebilir",
+            "qualityColor": "yellow",
+            "usage": "Basit ürünler"
+          },
+          {
+            "age": "3-5 Yıl",
+            "content": "Yüksek (10-15%)",
+            "quality": "İyi",
+            "qualityColor": "green",
+            "usage": "Standart kalite"
+          },
+          {
+            "age": "5-7 Yıl",
+            "content": "Çok yüksek (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Yüksek kaliteli ürünler"
+          },
+          {
+            "age": "> 7 Yıl",
+            "content": "Maksimum (18-25%)",
+            "quality": "Olağanüstü",
+            "qualityColor": "purple",
+            "usage": "Törensel kullanım"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Yüksek kalite ('Noble Kava') için bitkinin en az 3 ila 5 yıl büyümesi gerekir. Bitki ne kadar yaşlıysa, etkisi genellikle o kadar güçlü ve dengeli olur.",
+      "author": "Sebastian Freidank, \"Kava – Huzurun Kökü\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Önemli Yetiştirme Bölgeleri",
+    "paragraph1": "Kava, bugün Pasifik'teki tropikal adalar kuşağında yetiştirilmektedir. Her bölge, kendi çeşitlerini, geleneklerini ve kalite özelliklerini geliştirmiştir.",
+    "table": {
+      "headers": {
+        "region": "Bölge",
+        "varieties": "Bilinen Çeşitler",
+        "characteristics": "Özellikler",
+        "production": "Üretim"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "En büyük çeşit çeşitliliği (80+ kültivar)",
+          "production": "Dünyanın en büyük üreticisi",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "\"Waka\" (Premium kökler) ile ünlü",
+          "production": "İkinci en büyük üretici"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Çok hafif, \"kremalı\" Kava",
+          "production": "Orta üretim"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Geleneksel törenler",
+          "production": "Yerel tüketim"
+        },
+        {
+          "region": "Hawaii",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Geleneksel çeşitlerin yeniden canlandırılması",
+          "production": "Büyüyen"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Sakau çeşitleri",
+          "characteristics": "Taze Kava suyu (\"Sakau\")",
+          "production": "Yerel tüketim"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong>, kültüre alınmış Kava'nın anavatanı olarak kabul edilir ve bugün en büyük genetik çeşitliliğe ev sahipliği yapmaktadır. Buradan, bitki Polinezya denizcileri tarafından Pasifik'in tamamına yayılmıştır - yeni adalara yerleşim sırasında taşınan en önemli \"Kayık Bitkileri\"nden biri olarak."
+  },
+  "navigation": {
+    "nextCategory": "Sonraki kategoriye geç:",
+    "nextTitle": "Tarih & Kökenler",
+    "nextSubtitle": "Kava'nın Pasifik'teki 3000 yıllık yolculuğu"
+  }
+}

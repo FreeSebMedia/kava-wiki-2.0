@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Etkileşim Kontrol Aracı",
+    "subtitle": "İlaçlarınız ve Kava arasındaki potansiyel etkileşimleri kontrol edin",
+    "category": "Güvenlik",
+    "breadcrumbs": {
+      "home": "Ana Sayfa",
+      "sicherheit": "Güvenlik",
+      "wechselwirkungen": "Etkileşimler",
+      "current": "Etkileşim Kontrol Aracı"
+    }
+  },
+  "toc": {
+    "title": "İçerik",
+    "checker": "Etkileşim Kontrol Aracı",
+    "anleitung": "Kılavuz",
+    "kategorien": "Risk Kategorileri",
+    "haeufige": "Sık Kontrol Edilen İlaçlar",
+    "hinweis": "Önemli Not"
+  },
+  "ui": {
+    "disclaimerTitle": "Önemli Not",
+    "disclaimerText": "Bu kontrol aracı yalnızca bilgilendirme amaçlıdır ve doktor tavsiyesinin yerini almaz. Şüphe durumunda veya reçeteli ilaç kullanıyorsanız, her zaman bir doktora veya eczacıya danışın.",
+    "inputTitle": "İlaçları Girin",
+    "inputDescription": "İlaçlarınızın adını girin (etken madde veya ticari isim)",
+    "placeholder": "ör. Diazepam, İbuprofen, Sertralin...",
+    "selectedMeds": "Seçilen İlaçlar:",
+    "checkButton": "Etkileşimleri Kontrol Et",
+    "commonCategories": "Sık Kullanılan İlaç Grupları",
+    "overallAssessment": "Genel Değerlendirme",
+    "detailedAnalysis": "Detaylı Analiz",
+    "category": "Kategori",
+    "mechanism": "Mekanizma",
+    "affectedEnzymes": "Etkilenen CYP Enzimleri",
+    "recommendation": "Tavsiye",
+    "newCheck": "Yeni Kontrol",
+    "moreAbout": "Etkileşimler hakkında daha fazla bilgi",
+    "moreInfo": "Daha Fazla Bilgi",
+    "liverSafety": "Karaciğer Güvenliği & Hepatotoksisite",
+    "contraindications": "Kontrendikasyonlar",
+    "safetyOverview": "Güvenlik & Sağlık Genel Görünümü",
+    "studies": "Bilimsel Çalışmalar"
+  },
+  "intro": {
+    "title": "İlaç Kontrolü",
+    "text": "Kava ile olası etkileşimleri kontrol etmek için ilacınızın veya etken maddesinin adını girin."
+  },
+  "search": {
+    "placeholder": "İlaç veya etken madde girin...",
+    "button": "Kontrol Et",
+    "noResults": "Bu isimde bir ilaç bulunamadı. Lütfen yazımını kontrol edin veya bir doktora danışın."
+  },
+  "result": {
+    "risk": "Risk Seviyesi",
+    "mechanism": "Mekanizma",
+    "recommendation": "Tavsiye",
+    "alternatives": "Olası Alternatifler"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "ÇOK YÜKSEK RİSK",
+      "description": "Kesinlikle kontrendike - kombinasyon asla uygulanmamalıdır"
+    },
+    "high": {
+      "label": "YÜKSEK RİSK",
+      "description": "Kombinasyondan kaçınılmalıdır - önemli sağlık riskleri olabilir"
+    },
+    "moderate": {
+      "label": "ORTA DÜZEY RİSK",
+      "description": "Dikkatli olunmalıdır - yalnızca doktor gözetiminde"
+    },
+    "low": {
+      "label": "DÜŞÜK RİSK",
+      "description": "Normal kullanımda muhtemelen güvenli"
+    },
+    "none": {
+      "label": "BİLİNEN RİSK YOK",
+      "description": "Kaydedilmiş bilinen etkileşim yok"
+    }
+  },
+  "anleitung": {
+    "title": "Kontrol Aracını Nasıl Kullanırsınız",
+    "steps": [
+      "İlacınızın veya etken maddesinin adını girin",
+      "\"Kontrol Et\" butonuna tıklayın veya Enter tuşuna basın",
+      "Risk değerlendirmesini ve tavsiyeleri okuyun",
+      "Şüphe durumunda her zaman bir doktora veya eczacıya danışın"
+    ]
+  },
+  "kategorien": {
+    "title": "Risk Kategorileri Açıklaması",
+    "high": {
+      "title": "Yüksek Risk",
+      "text": "Kombinasyon her durumda kaçınılmalıdır. Ciddi yan etkiler olabilir."
+    },
+    "moderate": {
+      "title": "Orta Düzey Risk",
+      "text": "Kombinasyon yalnızca doktor gözetiminde. Doz ayarlaması gerekebilir."
+    },
+    "low": {
+      "title": "Düşük Risk",
+      "text": "Kombinasyon muhtemelen güvenli, ancak bireysel tepkilere dikkat edilmelidir."
+    },
+    "unknown": {
+      "title": "Bilinmeyen",
+      "text": "Yeterli veri mevcut değil. Dikkatli olunması önerilir."
+    }
+  },
+  "haeufige": {
+    "title": "Sık Kontrol Edilen İlaçlar",
+    "clickToCheck": "Kontrol etmek için bir ilaca tıklayın:"
+  },
+  "hinweis": {
+    "title": "Önemli Not",
+    "text": "Bu kontrol aracı yalnızca genel bilgi amaçlıdır ve doktor tavsiyesinin yerini almaz. Veritabanı tam değildir ve sürekli güncellenmektedir. Şüphe durumunda her zaman bir doktora veya eczacıya danışın.",
+    "disclaimer": "Bilgiler bilimsel literatür ve bilinen etkileşim mekanizmalarına dayanmaktadır. Bireysel tepkiler değişiklik gösterebilir."
+  },
+  "navigation": {
+    "continueTitle": "Güvenlik Bölümüne Devam",
+    "items": [
+      {
+        "title": "Genel Bakış",
+        "href": "/tr/guvenlik",
+        "description": "Güvenlik genel görünümüne geri dön"
+      },
+      {
+        "title": "Etkileşimler",
+        "href": "/tr/guvenlik/etkilesimler",
+        "description": "Etkileşimler hakkında detaylı bilgiler"
+      },
+      {
+        "title": "Kontrendikasyonlar",
+        "href": "/tr/guvenlik/kontrendikasyonlar",
+        "description": "Kava'nın ne zaman kullanılmaması gerektiği"
+      }
+    ]
+  }
+}

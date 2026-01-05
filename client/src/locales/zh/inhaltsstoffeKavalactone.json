@@ -1,0 +1,280 @@
+{
+  "page": {
+    "title": "六种主要的卡瓦内酯",
+    "subtitle": "Piper methysticum中六种主要活性成分的详细作用特征。",
+    "category": "成分"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "inhaltsstoffe": "成分",
+    "current": "卡瓦内酯"
+  },
+  "toc": {
+    "title": "目录",
+    "einfuehrung": "卡瓦内酯简介",
+    "struktur": "化学结构",
+    "uebersicht": "六种主要的卡瓦内酯",
+    "kavain": "卡瓦内酯 (K) – 第4号",
+    "dihydrokavain": "二氢卡瓦内酯 (DHK) – 第2号",
+    "methysticin": "美克斯提辛 (M) – 第6号",
+    "dihydromethysticin": "二氢美克斯提辛 (DHM) – 第5号",
+    "yangonin": "杨戈宁 (Y) – 第3号",
+    "desmethoxyyangonin": "去甲氧基杨戈宁 (DMY) – 第1号",
+    "wirkmechanismen": "作用机制",
+    "synergien": "协同作用与伴随效应"
+  },
+  "einfuehrung": {
+    "paragraph1": "<strong>卡瓦内酯</strong>（也称为卡瓦吡喃）是一组仅存在于<em>Piper</em>属中的内酯。它们负责卡瓦超过96%的药理作用，并与其他精神活性植物如咖啡或茶中的生物碱有根本区别。",
+    "paragraph2": "迄今为止，在<em>Piper methysticum</em>中已识别出<strong>18种不同的卡瓦内酯</strong>，但其中六种占据了总浓度的大部分，并决定了某种卡瓦的作用特征。这些“主要卡瓦内酯”用数字1-6编码，构成了化学类型系统的基础。"
+  },
+  "struktur": {
+    "title": "化学结构",
+    "intro": "所有卡瓦内酯共享一个共同的基础结构：一个<strong>α-吡喃环</strong>（一个六元内酯环），与一个苯环相连。不同卡瓦内酯之间的差异源于：",
+    "items": [
+      {
+        "label": "亚甲基二氧基基团",
+        "text": "美克斯提辛和二氢美克斯提辛具有该基团，这解释了它们较长的作用持续时间。"
+      },
+      {
+        "label": "饱和度",
+        "text": "“二氢”变体（DHK，DHM）具有饱和的侧链，这增加了它们的脂溶性，从而提高了生物利用度。"
+      },
+      {
+        "label": "甲氧基基团",
+        "text": "杨戈宁和去甲氧基杨戈宁通过甲氧基基团的存在或缺失而有所不同。"
+      }
+    ],
+    "tableHeaders": {
+      "number": "编号",
+      "kavalacton": "卡瓦内酯",
+      "formula": "分子式",
+      "mass": "摩尔质量",
+      "feature": "特征"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "去甲氧基杨戈宁",
+        "formula": "C₁₄H₁₂O₃",
+        "mass": "228.24 g/mol",
+        "feature": "无甲氧基基团"
+      },
+      {
+        "number": "2",
+        "name": "二氢卡瓦内酯",
+        "formula": "C₁₄H₁₆O₃",
+        "mass": "248.28 g/mol",
+        "feature": "饱和侧链"
+      },
+      {
+        "number": "3",
+        "name": "杨戈宁",
+        "formula": "C₁₅H₁₄O₄",
+        "mass": "258.27 g/mol",
+        "feature": "含甲氧基基团"
+      },
+      {
+        "number": "4",
+        "name": "卡瓦内酯",
+        "formula": "C₁₄H₁₄O₃",
+        "mass": "230.26 g/mol",
+        "feature": "不饱和侧链"
+      },
+      {
+        "number": "5",
+        "name": "二氢美克斯提辛",
+        "formula": "C₁₅H₁₆O₅",
+        "mass": "292.29 g/mol",
+        "feature": "亚甲基二氧基 + 饱和"
+      },
+      {
+        "number": "6",
+        "name": "美克斯提辛",
+        "formula": "C₁₅H₁₄O₅",
+        "mass": "290.27 g/mol",
+        "feature": "亚甲基二氧基基团"
+      }
+    ]
+  },
+  "uebersicht": {
+    "title": "六种主要的卡瓦内酯详细介绍",
+    "intro": "每种六种主要卡瓦内酯都有独特的药理特征。理解这些个体作用对于根据其化学类型预测某种卡瓦的整体效果至关重要。"
+  },
+  "kavain": {
+    "number": "4",
+    "name": "卡瓦内酯 (K)",
+    "subtitle": "高档卡瓦的“主导卡瓦内酯”",
+    "description": "<strong>卡瓦内酯</strong>被认为是质量评估中最重要的卡瓦内酯。它是特征性“清醒”效果的主要责任者——一种清晰、专注的放松而不致于镇静。高档卡瓦品种几乎总是以卡瓦内酯（4）作为化学类型的第一或第二位。",
+    "effectsTitle": "主要作用",
+    "effects": [
+      "抗焦虑",
+      "提升情绪",
+      "心理集中与清晰",
+      "轻微肌肉放松"
+    ],
+    "mechanismsTitle": "作用机制",
+    "mechanisms": [
+      "调节GABA-A受体",
+      "阻断电压依赖的Na⁺通道",
+      "抑制去甲肾上腺素再摄取",
+      "快速通过血脑屏障"
+    ],
+    "clinicalNote": "<strong>临床相关性：</strong>卡瓦内酯在多项临床研究中作为单一物质进行了测试，显示出显著的抗焦虑作用——与苯二氮卓类药物相当，但没有其成瘾潜力。"
+  },
+  "dihydrokavain": {
+    "number": "2",
+    "name": "二氢卡瓦内酯 (DHK)",
+    "subtitle": "“身体放松剂”",
+    "description": "<strong>二氢卡瓦内酯</strong>是卡瓦内酯的氢化形式，具有特别强的肌肉放松和镇痛作用。它的代谢速度比卡瓦内酯慢，导致更长但更温和的效果。",
+    "effectsTitle": "主要作用",
+    "effects": [
+      "强效肌肉放松",
+      "镇痛",
+      "身体放松",
+      "高剂量时镇静"
+    ],
+    "mechanismsTitle": "作用机制",
+    "mechanisms": [
+      "阻断Ca²⁺通道",
+      "增强GABA-A调节",
+      "抑制谷氨酸释放",
+      "更高的脂溶性 = 更好的吸收"
+    ],
+    "typicalFor": "<strong>典型于：</strong>“重型”卡瓦品种如Borogu或Palarasul，通常在晚上饮用以放松。"
+  },
+  "methysticin": {
+    "number": "6",
+    "name": "美克斯提辛 (M)",
+    "subtitle": "神经保护卡瓦内酯",
+    "description": "<strong>美克斯提辛</strong>以其亚甲基二氧基基团为特征，赋予其特殊的药理性质。它具有强烈的镇静和抗焦虑作用，但在临床前研究中也显示出有趣的神经保护特性。",
+    "effectsTitle": "主要作用",
+    "effects": [
+      "强烈镇静",
+      "抗焦虑",
+      "神经保护",
+      "抗痉挛"
+    ],
+    "researchTitle": "研究兴趣",
+    "research": [
+      "保护免受氧化应激",
+      "在帕金森研究中的潜力",
+      "抗癫痫特性",
+      "抗炎"
+    ]
+  },
+  "dihydromethysticin": {
+    "number": "5",
+    "name": "二氢美克斯提辛 (DHM)",
+    "subtitle": "“Tudei标记”卡瓦内酯",
+    "description": "<strong>二氢美克斯提辛</strong>是半衰期最长的卡瓦内酯，身体代谢非常缓慢。高DHM浓度是“Tudei”（两天）卡瓦的主要特征——这种品种可能导致数天的疲劳和恶心。",
+    "warning": "<strong>重要：</strong>如果DHM（5）在化学类型中位于第一或第二位，则可能是Tudei卡瓦。这些品种在瓦努阿图不允许出口，应避免使用。",
+    "propertiesTitle": "特性",
+    "properties": [
+      "非常长的半衰期（12小时以上）",
+      "强烈镇静",
+      "可能引起恶心",
+      "次日“宿醉”效应"
+    ],
+    "occurrenceTitle": "出现",
+    "occurrence": [
+      "在Tudei品种中高（Isa，Palimanu）",
+      "在Piper wichmannii（野生卡瓦）中高",
+      "在高档卡瓦中低",
+      "质量控制的标记"
+    ]
+  },
+  "yangonin": {
+    "number": "3",
+    "name": "杨戈宁 (Y)",
+    "subtitle": "具有内源性大麻素活性的卡瓦内酯",
+    "description": "<strong>杨戈宁</strong>在卡瓦内酯中独特，因为它对内源性大麻素系统的<strong>CB1受体</strong>具有已知的亲和力。这部分解释了卡瓦的欣快和提升情绪的作用，可能让人联想到大麻——但不会引起精神错乱的效果。",
+    "effectsTitle": "主要作用",
+    "effects": [
+      "轻微欣快",
+      "提升情绪",
+      "调节食欲",
+      "低剂量时刺激"
+    ],
+    "mechanismsTitle": "作用机制",
+    "mechanisms": [
+      "与CB1受体结合",
+      "MAO-B抑制",
+      "多巴胺活性",
+      "与其他卡瓦内酯的协同作用"
+    ]
+  },
+  "desmethoxyyangonin": {
+    "number": "1",
+    "name": "去甲氧基杨戈宁 (DMY)",
+    "subtitle": "多巴胺增强剂",
+    "description": "<strong>去甲氧基杨戈宁</strong>与杨戈宁的不同之处在于缺少甲氧基基团。它对多巴胺系统具有显著作用，并有助于卡瓦作用的集中和激励成分。",
+    "effectsTitle": "主要作用",
+    "effects": [
+      "集中与专注",
+      "多巴胺增加",
+      "轻微欣快",
+      "提升动力"
+    ],
+    "mechanismsTitle": "作用机制",
+    "mechanisms": [
+      "抑制多巴胺再摄取",
+      "MAO-B抑制",
+      "去甲肾上腺素活性",
+      "快速起效"
+    ]
+  },
+  "wirkmechanismen": {
+    "title": "卡瓦内酯的作用机制",
+    "intro": "卡瓦内酯同时在多个层面上影响中枢神经系统。这种多模态性解释了为什么卡瓦的作用如此独特，并与其他抗焦虑药物不同：",
+    "tableHeaders": {
+      "mechanism": "作用机制",
+      "kavalactones": "相关卡瓦内酯",
+      "effect": "结果作用"
+    },
+    "tableData": [
+      {
+        "mechanism": "GABA-A调节",
+        "kavalactones": "卡瓦内酯，DHK，M，DHM",
+        "effect": "抗焦虑，放松，镇静"
+      },
+      {
+        "mechanism": "Na⁺通道阻断",
+        "kavalactones": "卡瓦内酯，DHK",
+        "effect": "镇痛，局部麻醉"
+      },
+      {
+        "mechanism": "Ca²⁺通道阻断",
+        "kavalactones": "DHK，DHM",
+        "effect": "肌肉放松"
+      },
+      {
+        "mechanism": "MAO-B抑制",
+        "kavalactones": "Y，DMY",
+        "effect": "提升情绪，多巴胺能"
+      },
+      {
+        "mechanism": "CB1受体结合",
+        "kavalactones": "杨戈宁",
+        "effect": "欣快，调节食欲"
+      },
+      {
+        "mechanism": "去甲肾上腺素再摄取抑制",
+        "kavalactones": "卡瓦内酯，DMY",
+        "effect": "集中，促进警觉"
+      }
+    ]
+  },
+  "synergien": {
+    "title": "协同作用与伴随效应",
+    "paragraph1": "与大麻（萜烯和大麻素）类似，卡瓦的<strong>整体提取物比单一卡瓦内酯更有效</strong>。这被称为<strong>伴随效应</strong>。",
+    "quote": "单独的卡瓦内酯虽然具有抗焦虑作用，但与杨戈宁（MAO-B抑制）和去甲氧基杨戈宁（多巴胺增加）的结合显著增强了情绪提升的效果。",
+    "paragraph2": "因此，<strong>传统制备</strong>（从整个根部的水提取）或<strong>全谱提取物</strong>比单一活性成分更受欢迎。卡瓦内酯的自然平衡，如高档卡瓦中所见，经过数千年的选择而优化。",
+    "practicalTitle": "实际意义",
+    "practicalText": "在购买卡瓦产品时，应关注<strong>全谱提取物</strong>或<strong>传统制备的卡瓦</strong>。含有单一卡瓦内酯或标准化单一活性成分的产品通常无法提供与天然根相同的作用特征。"
+  },
+  "navigation": {
+    "nextChapter": "继续阅读成分章节：",
+    "chemotypenTitle": "化学类型系统",
+    "chemotypenDescription": "六位数字代码如何预测作用"
+  }
+}

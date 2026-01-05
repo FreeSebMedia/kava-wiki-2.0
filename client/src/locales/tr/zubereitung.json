@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Hazırlama & Uygulama",
+    "subtitle": "Tozdan içeceğe: Kava'nın maksimum etkisini ve en iyi tadını elde etmek için nasıl doğru hazırlanacağı.",
+    "category": "Hazırlama"
+  },
+  "breadcrumbs": {
+    "home": "Anasayfa",
+    "current": "Hazırlama"
+  },
+  "toc": {
+    "title": "İçerik",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Ekstraksiyonun Temelleri",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Geleneksel Yöntem (Yoğurma)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Mikser Yöntemi (Blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Shaker Yöntemi (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Anlık & Mikronize",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "En İyi Etki için İpuçları",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kavalactone'lar <strong>suda çözünmez</strong>, ancak yağda çözünür. Ancak kökün nişasta parçacıklarına mekanik olarak yapışırlar.",
+      "text": "Bu nedenle, her hazırlamanın amacı, bu parçacıkları mekanik güç (yoğurma, karıştırma) ile bitki liflerinden çözmek ve suya emüle etmektir. Saf bir \"çay hazırlama\" (sadece sıcak su dökme) Kava için <strong>etkili değildir</strong>!"
+    },
+    "traditionell": {
+      "title": "Geleneksel Yöntem (Yoğurma)",
+      "intro": "Bu, maksimum potansiyel ve otantik bir deneyim için en iyi yöntemdir.",
+      "materialsTitle": "Gerekli Malzemeler:",
+      "materials": [
+        "Kava kök tozu (Orta Öğütme)",
+        "Bir filtre torbası (Kuruyemiş sütü torbası, 75-100 mikron)",
+        "Sıcak (kaynamayan!) su ile bir kase",
+        "İsteğe bağlı: Bir miktar süt veya hindistancevizi sütü (yağ ekstraksiyona yardımcı olur)"
+      ],
+      "instructionsTitle": "Talimatlar:",
+      "instructions": [
+        "Tozu filtre torbasına koyun (yaklaşık 30-40g 500ml su için).",
+        "Torbayı suya daldırın ve kısa bir süre bekletin.",
+        "<strong>Yoğurma ve Sıkma:</strong> Torbayı suyun altında 10-15 dakika boyunca kuvvetlice yoğurun. Sürekli sıkın. Su sütlü-kahverengi bir renk almalıdır (\"Grog\").",
+        "Torbayı son bir kez sıkıca sıkın.",
+        "Kava'yı kaselere (Shells) dökün. Hızlıca için (\"Chug\"), yudumlamayın!"
+      ]
+    },
+    "blender": {
+      "title": "Mikser Yöntemi (Blender)",
+      "intro": "Daha hızlı ve genellikle daha güçlü, ancak tat biraz daha acı olabilir çünkü daha fazla bitki maddesi parçalanır.",
+      "instructions": [
+        "Bir stand mikserine su, Kava tozu ve bir tatlı kaşığı yağ/yağ koyun.",
+        "Yüksek hızda 3-4 dakika karıştırın.",
+        "Sıvıyı bir filtre torbası veya ince bir süzgeçten bir kaseye dökün.",
+        "Bitki kalıntılarını filtrede iyice sıkın."
+      ]
+    },
+    "shaker": {
+      "title": "Shaker Yöntemi (Aluball)",
+      "intro": "En modern ve en hızlı yöntem, hareket halindeyken ideal.",
+      "text": "Özel shaker şişeleri kullanılır ve içinde bir metal süzgeç bulunan bir top (Aluball) vardır.",
+      "instructions": [
+        "Kava'yı süzgeç topuna doldurun.",
+        "Şişeye su ekleyin.",
+        "Topu ekleyin ve 1-2 dakika kuvvetlice çalkalayın.",
+        "Hazır!"
+      ],
+      "note": "Not: Bu yöntem genellikle geleneksel yoğurmadan biraz daha az etkili olabilir, ancak çok rahattır."
+    },
+    "instant": {
+      "title": "Anlık & Mikronize",
+      "intro": "Hiçbir çaba istemeyenler için.",
+      "items": [
+        {
+          "name": "Anlık Kava",
+          "description": "Dehidre edilmiş \"Yeşil Kava Suyu\". Çok etkili, çok pahalı, suya hemen çözülür. \"Kral sınıfı\"."
+        },
+        {
+          "name": "Mikronize Kava",
+          "description": "Kaba liflerin çıkarıldığı son derece ince öğütülmüş kök tozu. Sadece içilir. Hassas mideye sahip olanlar için filtrelenmiş Kava'dan daha fazla bulantıya neden olabilir."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "En İyi Etki için İpuçları",
+      "alert": {
+        "title": "Altın Kural",
+        "text": "Kava'yı her zaman <strong>boş mideyle</strong> için (son öğünden en az 3-4 saat sonra). Aksi takdirde etkisi belirgin şekilde zayıf olacaktır!"
+      },
+      "tips": [
+        {
+          "name": "Ters Tolerans",
+          "text": "Birçok insan ilk seferde pek bir şey hissetmez. Vücut, Kavalactone'lara \"alışmak\" zorundadır. Birkaç gün üst üste içmeyi deneyin."
+        },
+        {
+          "name": "\"Chaser\"",
+          "text": "Kava topraksı ve acı bir tat verir. İçtikten hemen sonra ısırmak için bir parça meyve (ananas, portakal) bulundurun."
+        },
+        {
+          "name": "Yağ Kaynağı",
+          "text": "Kava seansından sonra küçük, yağlı bir yemek (örneğin pizza, köri) yiyin. Bu, etkide ikinci bir dalga tetikleyebilir."
+        }
+      ]
+    }
+  }
+}

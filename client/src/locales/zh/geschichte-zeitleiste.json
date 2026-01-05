@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "卡瓦的历史",
+    "subtitle": "穿越5000年的卡瓦历史之旅——从美拉尼西亚的驯化到现代世界的全球传播。",
+    "category": "历史"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "geschichte": "历史",
+    "zeitleiste": "时间线"
+  },
+  "ui": {
+    "filter": "过滤器",
+    "allEpochs": "所有时代",
+    "readMore": "了解更多",
+    "loading": "加载中..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "史前与驯化",
+      "description": "美拉尼西亚卡瓦文化的起源"
+    },
+    "classical": {
+      "name": "经典太平洋时代",
+      "description": "通过南岛语扩张的传播"
+    },
+    "colonial": {
+      "name": "殖民时代",
+      "description": "欧洲的接触与传教"
+    },
+    "modern": {
+      "name": "现代时代",
+      "description": "科学研究与去殖民化"
+    },
+    "contemporary": {
+      "name": "当代",
+      "description": "全球传播与文化复兴"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "起源与驯化",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "在太平洋的传播",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "殖民时期",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "科学与研究",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "现代时代",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "当代",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "大约公元前3000年",
+      "title": "卡瓦的驯化",
+      "description": "在巴布亚新几内亚和瓦努阿图的雨林中，开始将Piper wichmannii驯化为栽培的卡瓦植物（Piper methysticum）。",
+      "details": "通过选择性育种和无性繁殖，产生了第一批诺布尔卡瓦品种，其卡瓦内酯含量更高，毒性低于野生原型。",
+      "location": "巴布亚新几内亚 / 瓦努阿图",
+      "links": [
+        {
+          "label": "植物",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "起源",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "大约公元前2500年",
+      "title": "瓦努阿图的第一次卡瓦仪式",
+      "description": "在瓦努阿图的岛屿上，发展出第一次仪式性的卡瓦仪式。Nakamal成为中心聚会地点。",
+      "details": "年轻男性通过咀嚼根部的方式准备卡瓦，形成了一种传统。卡瓦成为与祖先和灵魂沟通的媒介。",
+      "location": "瓦努阿图",
+      "links": [
+        {
+          "label": "仪式",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "大约公元前1500–1000年",
+      "title": "拉皮塔扩张",
+      "description": "拉皮塔文化通过从美拉尼西亚到西波利尼西亚的海洋扩张传播卡瓦。",
+      "details": "拉皮塔陶器的考古发现展示了扩散路线。卡瓦植物作为插枝在独木舟上运输。",
+      "location": "美拉尼西亚 → 波利尼西亚"
+    },
+    "fiji-arrival": {
+      "year": "大约公元前1000年",
+      "title": "卡瓦到达斐济",
+      "description": "卡瓦在斐济被引入，并被称为'Yaqona'。围绕Tanoa（卡瓦碗）发展出独特的仪式。",
+      "details": "最初在斐济，卡瓦是通过磨碎而不是咀嚼来准备的。与祖先崇拜的联系在Būrau（男子房屋）中建立。",
+      "location": "斐济",
+      "links": [
+        {
+          "label": "斐济仪式",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "太平洋品种",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "大约公元前500年",
+      "title": "卡瓦在汤加和萨摩亚",
+      "description": "'Ava仪式在汤加和萨摩亚发展成为一种高度正式的传统，具有严格的等级制度。",
+      "details": "Tou'a（卡瓦调配者）和Matāpule（仪式主持人）成为重要的仪式角色。饮用顺序反映社会秩序。",
+      "location": "汤加 / 萨摩亚",
+      "links": [
+        {
+          "label": "'Ava仪式",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "大约公元300–500年",
+      "title": "卡瓦到达夏威夷",
+      "description": "波利尼西亚航海者将卡瓦带到夏威夷，在那里它被称为'Awa，并与女神Hina相关联。",
+      "details": "在夏威夷，发展出一种独特的卡瓦文化，与Kahuna（祭司）的治愈仪式相关联。'Awa Hiwa品种被保留用于仪式目的。",
+      "location": "夏威夷",
+      "links": [
+        {
+          "label": "夏威夷品种",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "大约公元500年",
+      "title": "波恩佩的Sakau文化",
+      "description": "在密克罗尼西亚的波恩佩，Sakau仪式作为独立的传统发展。",
+      "details": "在平坦的石头上准备和通过木槿纤维压榨成为密克罗尼西亚卡瓦文化的特征。",
+      "location": "波恩佩（密克罗尼西亚）"
+    },
+    "fiji-tongan-influence": {
+      "year": "大约公元1750年",
+      "title": "汤加对斐济的影响",
+      "description": "斐济采纳汤加的卡瓦仪式：咀嚼、Tanoa碗和Bilo杯成为标准。",
+      "details": "Sevusevu仪式作为正式的欢迎仪式建立。基督教传教士偏爱'更文明的'波利尼西亚仪式。",
+      "location": "斐济"
+    },
+    "european-contact": {
+      "year": "1616年",
+      "title": "第一次欧洲接触",
+      "description": "荷兰航海者雅各布·勒梅尔和威廉·肖滕抵达太平洋岛屿，并首次记录卡瓦。",
+      "details": "欧洲人描述了当地人的'奇怪饮料'，但不理解其文化意义。",
+      "location": "太平洋"
+    },
+    "cook-documentation": {
+      "year": "1768–1779年",
+      "title": "库克船长的文献",
+      "description": "詹姆斯·库克在他的太平洋航行中详细记录了卡瓦仪式，并带回样本到欧洲。",
+      "details": "库克关于汤加和夏威夷的'Ava仪式的报告引起了欧洲的科学兴趣。植物学家约翰·乔治·福斯特首次科学描述了该植物。",
+      "location": "汤加 / 夏威夷 / 塔希提",
+      "links": [
+        {
+          "label": "历史",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777年",
+      "title": "科学分类",
+      "description": "约翰·乔治·福斯特将卡瓦分类为Piper methysticum（'令人陶醉的胡椒植物'）。",
+      "details": "该名称源于希腊语'methystikos'（令人陶醉）。福斯特在其著作《南太平洋岛屿的食用植物》中首次描述了该植物。",
+      "location": "欧洲",
+      "links": [
+        {
+          "label": "植物学",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900年",
+      "title": "传教士反对",
+      "description": "基督教传教士将卡瓦视为'异教徒'饮料。在某些地区，仪式被禁止。",
+      "details": "传教士批评咀嚼行为不卫生，仪式被视为'懒惰、腐化，甚至是恶魔的'。在东富图纳，咀嚼在1930年根据传教士的命令停止。",
+      "location": "太平洋",
+      "links": [
+        {
+          "label": "殖民影响",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860年",
+      "title": "卡瓦内酯的发现",
+      "description": "德国化学家首次从卡瓦中分离出活性成分，并称之为'卡瓦因'。",
+      "details": "这一发现为卡瓦效应的科学研究和后来的药物应用奠定了基础。",
+      "location": "德国",
+      "links": [
+        {
+          "label": "卡瓦内酯",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914年",
+      "title": "德国殖民统治",
+      "description": "德国控制太平洋部分地区（德属新几内亚，萨摩亚）。卡瓦被科学研究。",
+      "details": "德国科学家记录卡瓦品种和制备方法。殖民政府在很大程度上容忍卡瓦消费。",
+      "location": "德属新几内亚 / 萨摩亚"
+    },
+    "lewin-research": {
+      "year": "1886年",
+      "title": "路易斯·路因的研究",
+      "description": "德国毒理学家路易斯·路因发布了关于卡瓦的全面研究，并将其分类为'Euphorica'。",
+      "details": "路因的著作《幻觉》成为精神药理学的标准著作。他将卡瓦描述为人类最重要的享乐物质之一。",
+      "location": "德国"
+    },
+    "independence-movements": {
+      "year": "1962–1980年",
+      "title": "独立与文化复兴",
+      "description": "太平洋国家获得独立。卡瓦作为文化身份的象征重新回到公共领域。",
+      "details": "萨摩亚（1962年）、斐济（1970年）、汤加（1970年）、瓦努阿图（1980年）独立。卡瓦仪式在国家成立和正式场合上被庆祝。",
+      "location": "太平洋",
+      "links": [
+        {
+          "label": "现代历史",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980年",
+      "title": "瓦努阿图独立",
+      "description": "瓦努阿图从法英殖民统治中获得独立。卡瓦成为国家象征。",
+      "details": "新国家将卡瓦作为其身份的一部分。Nakamals成为波特维拉和其他城市的重要社会机构。",
+      "location": "瓦努阿图"
+    },
+    "clinical-research": {
+      "year": "1990年代",
+      "title": "关于焦虑的临床研究",
+      "description": "首次控制的临床研究显示卡瓦提取物具有抗焦虑作用。",
+      "details": "荟萃分析证实卡瓦在焦虑症中的有效性。卡瓦制剂在欧洲和美国作为植物药物流行。",
+      "location": "欧洲 / 美国",
+      "links": [
+        {
+          "label": "研究",
+          "url": "/studien"
+        },
+        {
+          "label": "对焦虑的作用",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990年代",
+      "title": "美国的第一家卡瓦酒吧",
+      "description": "在佛罗里达州和加利福尼亚州开设了第一家西方卡瓦酒吧，作为无酒精的替代品。",
+      "details": "卡瓦酒吧运动在拥有太平洋侨民的城市开始。劳德代尔堡成为美国卡瓦文化的中心。",
+      "location": "美国（佛罗里达）",
+      "links": [
+        {
+          "label": "现代卡瓦文化",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal与卡瓦酒吧",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002年",
+      "title": "德国的卡瓦禁令",
+      "description": "德国因关于肝损伤的报告禁止卡瓦制剂。其他欧盟国家随之而来。",
+      "details": "德国联邦药品和医疗器械管理局撤销了所有含卡瓦药物的批准。该决定基于30个肝毒性疑似病例，但后来被批评为过度。",
+      "location": "德国 / 欧盟",
+      "links": [
+        {
+          "label": "肝脏安全",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "法律地位",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002年",
+      "title": "瓦努阿图的诺布尔仅出口政策",
+      "description": "瓦努阿图实施严格的出口政策：仅允许出口诺布尔卡瓦品种。",
+      "details": "该政策旨在确保质量并保护卡瓦的声誉。DHM/DHK含量较高的Tudei品种被排除在出口之外。",
+      "location": "瓦努阿图",
+      "links": [
+        {
+          "label": "诺布尔与Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "瓦努阿图品种",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007年",
+      "title": "WHO风险评估",
+      "description": "世界卫生组织发布全面的风险评估，将传统制备的卡瓦评估为安全。",
+      "details": "评估区分传统制备（安全）和提取物（潜在问题）。使用非根部的部分被识别为风险因素。",
+      "location": "国际",
+      "links": [
+        {
+          "label": "安全",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015年",
+      "title": "德国的复兴",
+      "description": "德国法院取消了卡瓦禁令。原始决定被评估为缺乏科学依据。",
+      "details": "联邦行政法院裁定风险评估存在错误。卡瓦产品可以再次合法销售。",
+      "location": "德国",
+      "links": [
+        {
+          "label": "法律地位",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020年",
+      "title": "食品法典标准",
+      "description": "食品法典通过了国际标准，将卡瓦定义为饮料。",
+      "details": "该标准定义了质量标准、卡瓦内酯限值和标签要求。为国际贸易奠定了里程碑。",
+      "location": "国际"
+    },
+    "global-expansion": {
+      "year": "2020年代",
+      "title": "卡瓦酒吧的全球扩张",
+      "description": "美国开设了超过200家卡瓦酒吧。'清醒好奇'运动推动了增长。",
+      "details": "卡瓦作为社交放松的无酒精替代品变得流行。奥斯汀、丹佛和纽约等城市发展出活跃的卡瓦文化。",
+      "location": "美国 / 欧洲 / 澳大利亚",
+      "links": [
+        {
+          "label": "现代卡瓦文化",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020年代",
+      "title": "气候变化挑战",
+      "description": "太平洋的卡瓦农民面临气候变化对其作物的影响。",
+      "details": "降水模式变化、气旋和气温上升威胁传统种植区。可持续种植方法变得更加重要。",
+      "location": "太平洋",
+      "links": [
+        {
+          "label": "种植",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "今天",
+      "title": "文化复兴",
+      "description": "年轻的太平洋一代创建'卡瓦集体'，并数字化记录传统知识。",
+      "details": "播客、YouTube频道和Instagram账户在全球传播卡瓦文化。传统与现代的结合创造了新的文化身份形式。",
+      "location": "太平洋 / 全球",
+      "links": [
+        {
+          "label": "文化与传统",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "概述",
+    "events": "事件",
+    "epochs": "时代",
+    "yearsOfHistory": "历史年数",
+    "milestones": "里程碑",
+    "keyMilestones": "关键里程碑",
+    "relatedPages": "相关页面",
+    "noEventsFound": "未找到符合这些过滤条件的事件。",
+    "resetFilters": "重置过滤器",
+    "bce": "公元前",
+    "origins": "起源",
+    "spreadPacific": "在太平洋的传播",
+    "modernHistory": "现代历史",
+    "interactiveMap": "互动世界地图"
+  }
+}
