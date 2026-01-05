@@ -1,0 +1,279 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "DM Sans", sans-serif;
+  --font-mono: "Space Mono", monospace;
+}
+
+:root {
+  /* Pacific Modernism Palette */
+  --primary: oklch(0.35 0.08 140); /* Deep Jungle Green */
+  --primary-foreground: oklch(0.98 0.02 95); /* Soft Cream */
+  
+  --secondary: oklch(0.85 0.12 85); /* Sunset Gold */
+  --secondary-foreground: oklch(0.25 0.05 140); /* Dark Green Text */
+  
+  --accent: oklch(0.92 0.04 95); /* Sand / Beige */
+  --accent-foreground: oklch(0.35 0.08 140);
+  
+  --background: oklch(0.99 0.01 95); /* Warm White */
+  --foreground: oklch(0.20 0.03 140); /* Deep Charcoal/Green */
+  
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.20 0.03 140);
+  
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.20 0.03 140);
+  
+  --muted: oklch(0.96 0.01 95);
+  --muted-foreground: oklch(0.50 0.02 140);
+  
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.985 0 0);
+  
+  --border: oklch(0.92 0.01 95);
+  --input: oklch(0.92 0.01 95);
+  --ring: oklch(0.35 0.08 140);
+  
+  --radius: 0.5rem;
+  
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.235 0.015 65);
+  --sidebar-primary: oklch(0.35 0.08 140);
+  --sidebar-primary-foreground: oklch(0.98 0.02 95);
+  --sidebar-accent: oklch(0.967 0.001 286.375);
+  --sidebar-accent-foreground: oklch(0.141 0.005 285.823);
+  --sidebar-border: oklch(0.92 0.004 286.32);
+  --sidebar-ring: oklch(0.623 0.214 259.815);
+}
+
+.dark {
+  --background: oklch(0.15 0.02 140);
+  --foreground: oklch(0.95 0.01 95);
+  --card: oklch(0.20 0.02 140);
+  --card-foreground: oklch(0.95 0.01 95);
+  --popover: oklch(0.20 0.02 140);
+  --popover-foreground: oklch(0.95 0.01 95);
+  --primary: oklch(0.45 0.08 140);
+  --primary-foreground: oklch(0.98 0.02 95);
+  --secondary: oklch(0.85 0.12 85);
+  --secondary-foreground: oklch(0.20 0.02 140);
+  --muted: oklch(0.25 0.02 140);
+  --muted-foreground: oklch(0.70 0.02 140);
+  --accent: oklch(0.25 0.02 140);
+  --accent-foreground: oklch(0.95 0.01 95);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: oklch(0.985 0 0);
+  --border: oklch(0.30 0.02 140);
+  --input: oklch(0.30 0.02 140);
+  --ring: oklch(0.45 0.08 140);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+  
+  /* Typography Hierarchy */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-bold tracking-tight text-primary;
+  }
+  
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl mb-6;
+  }
+  
+  h2 {
+    @apply text-3xl md:text-4xl mt-12 mb-6 pb-2 border-b border-border/60;
+  }
+  
+  h3 {
+    @apply text-2xl mt-8 mb-4;
+  }
+  
+  h4 {
+    @apply text-xl mt-6 mb-3;
+  }
+  
+  p {
+    @apply leading-relaxed mb-6 text-lg text-foreground/90;
+  }
+  
+  /* List Styling */
+  ul {
+    @apply list-none mb-6 pl-2;
+  }
+  
+  ul li {
+    @apply relative pl-6 mb-2 text-lg leading-relaxed;
+  }
+  
+  ul li::before {
+    content: "";
+    @apply absolute left-0 top-[0.6em] w-2 h-2 bg-secondary rounded-full;
+  }
+  
+  /* Custom bullet lists - no default styling */
+  ul.custom-bullets,
+  ul.space-y-1,
+  ul.space-y-2 {
+    @apply pl-0;
+  }
+  
+  ul.custom-bullets li,
+  ul.space-y-1 li,
+  ul.space-y-2 li {
+    @apply pl-0;
+  }
+  
+  ul.custom-bullets li::before,
+  ul.space-y-1 li::before,
+  ul.space-y-2 li::before {
+    content: none;
+  }
+  
+  ol {
+    @apply list-decimal list-inside mb-6 pl-2;
+  }
+  
+  ol li {
+    @apply mb-2 text-lg leading-relaxed pl-2;
+  }
+  
+  /* Table Styling */
+  table {
+    @apply w-full mb-8 border-collapse overflow-hidden rounded-lg shadow-sm border border-border;
+  }
+  
+  thead {
+    @apply bg-muted/50;
+  }
+  
+  th {
+    @apply px-6 py-4 text-left font-bold text-primary border-b border-border text-sm uppercase tracking-wider;
+  }
+  
+  td {
+    @apply px-6 py-4 border-b border-border/50 text-foreground/90;
+  }
+  
+  tr:last-child td {
+    @apply border-b-0;
+  }
+  
+  tr:hover td {
+    @apply bg-muted/20;
+  }
+  
+  strong {
+    @apply font-bold text-primary/90;
+  }
+  
+  /* Links */
+  a {
+    @apply text-primary hover:text-secondary transition-colors duration-200;
+  }
+}
+
+@layer components {
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .container {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .container {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      max-width: 1280px;
+    }
+  }
+  
+  /* Custom Classes for Wiki */
+  .wiki-content {
+    @apply max-w-none;
+  }
+  
+  .wiki-content img {
+    @apply rounded-lg shadow-md my-8;
+  }
+  
+  .wiki-content blockquote {
+    @apply border-l-4 border-secondary pl-6 py-2 my-8 italic text-xl text-muted-foreground bg-muted/30 rounded-r-lg;
+  }
+  
+  /* Custom Scrollbar Styling */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: var(--border);
+    border-radius: 3px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background-color: var(--muted-foreground);
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Chemotypový kalkulátor",
+    "subtitle": "Zadejte 6-místný chemotyp a zjistěte očekávaný účinek a doporučení.",
+    "category": "Interaktivní"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "inhaltsstoffe": "Složení",
+    "current": "Chemotypový kalkulátor"
+  },
+  "toc": {
+    "title": "Obsah",
+    "rechner": "Chemotypový kalkulátor",
+    "anleitung": "Jak to funguje",
+    "beispiele": "Příklad chemotypů",
+    "legende": "Legenda kavalaktonů"
+  },
+  "rechner": {
+    "title": "Zadejte chemotyp",
+    "subtitle": "6 číslic od 1-6, každé přesně jednou",
+    "placeholder": "např. 426531",
+    "analyzeButton": "Analyzovat",
+    "knownVariety": "Známá odrůda"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Fokus & euforie",
+      "description": "Zvyšuje dopamin, podporuje fokus a mírnou euforii"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Uvolnění svalů",
+      "description": "Silná svalová relaxace a analgetický účinek"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "CB1-aktivita",
+      "description": "Působí na endokanabinoidní systém, mírně stimulující"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Anxiolytický",
+      "description": "Hlavní účinná látka pro úlevu od úzkosti a mentální jasnost"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Dlouhodobě sedativní",
+      "description": "Silně sedativní, pomalý rozklad – Tudei marker"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Sedativní",
+      "description": "Sedativní a neuroprotektivní"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Neplatný",
+      "description": "Prosím, zadejte platný 6-místný chemotyp (číslice 1-6, každé přesně jednou)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Tento chemotyp naznačuje Tudei-Kava. DHM (5) na pozici 1 nebo 2 znamená velmi dlouhou dobu účinku s možnými vedlejšími účinky."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Odrůda dominující kavainem s primárně mentálním účinkem. Ideální pro společenské akce a kreativní práci."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Vyvážená odrůda s kavainem a DHK na prvních pozicích. Kombinuje mentální jasnost s tělesnou relaxací."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Odrůda dominující dihydrokavainem s primárně tělesným účinkem. Ideální pro relaxaci a odbourávání stresu."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Vyvážená odrůda s kombinací mentálního a tělesného účinku. Univerzálně použitelná."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) na prominentní pozici – typické pro Tudei-Kava",
+    "tudeiSideEffects": "Možné vedlejší účinky: nevolnost, dlouhá 'kocovina', ospalost",
+    "tudeiNotRecommended": "Není vhodné pro pravidelnou konzumaci",
+    "dhmPosition1": "DHM na pozici 1: Velmi silná, dlouhotrvající sedace",
+    "dhmPosition2": "DHM na pozici 2: Zvýšená sedace, delší doba účinku"
+  },
+  "strengths": {
+    "headyClear": "Jasný, soustředěný účinek bez silné sedace",
+    "headyMood": "Dobré zlepšení nálady a úlevy od úzkosti",
+    "headyBeginner": "Ideální pro začátečníky",
+    "headyBalancedBest": "Ideální kombinace účinků na hlavu a tělo",
+    "headyBalancedMental": "Mentální jasnost s jemnou relaxací",
+    "headyBalancedBody": "Lehká svalová relaxace bez silné sedace",
+    "heavyMuscle": "Silná svalová relaxace",
+    "heavyPain": "Dobré analgetické účinky",
+    "heavyRelax": "Hluboká tělesná relaxace",
+    "balancedBoth": "Vyvážený účinek na tělo a mysl",
+    "balancedVersatile": "Univerzálně použitelná",
+    "balancedDaily": "Dobrá každodenní odrůda",
+    "methysticinNeuro": "Methysticin prominentní: Dobré neuroprotektivní vlastnosti",
+    "yangoninStim": "Yangonin prominentní: Mírně stimulující složka",
+    "dmyDopamine": "DMY prominentní: Zesílený účinek dopaminu, více euforie"
+  },
+  "effects": {
+    "headyEffects": [
+      "Mentální jasnost",
+      "Úleva od úzkosti",
+      "Lehká euforie"
+    ],
+    "headyBalancedEffects": [
+      "Mentální jasnost",
+      "Lehká svalová relaxace",
+      "Zlepšení nálady"
+    ],
+    "heavyEffects": [
+      "Svalová relaxace",
+      "Tělesný klid",
+      "Podpora spánku"
+    ],
+    "balancedEffects": [
+      "Vyvážená relaxace",
+      "Mírná úleva od úzkosti",
+      "Lehká svalová relaxace"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Společenské akce",
+      "Kreativní práce",
+      "Během dne nebo brzy večer"
+    ],
+    "headyBalancedUse": [
+      "Univerzální použití",
+      "Společenské akce s relaxací",
+      "Odpoledne až večer"
+    ],
+    "heavyUse": [
+      "Večerní relaxace",
+      "Po fyzické námaze",
+      "Příprava na spánek"
+    ],
+    "balancedUse": [
+      "Denní použití",
+      "Meditace",
+      "Flexibilní využití"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Pořadí kavalaktonů",
+    "strengthsTitle": "Síly tohoto chemotypu",
+    "dominantEffects": "Dominantní účinky",
+    "recommendedUseTitle": "Doporučené použití"
+  },
+  "anleitung": {
+    "title": "Jak to funguje",
+    "paragraph1": "Chemotyp je 6-místný kód, který uvádí šest hlavních kavalaktonů v sestupném pořadí jejich koncentrace. První číslice představuje kavalakton s nejvyšší koncentrací, poslední s nejnižší.",
+    "rulesTitle": "Nejdůležitější pravidla:",
+    "rules": [
+      {
+        "label": "Pozice 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava – mentální účinek, fokus, úleva od úzkosti"
+      },
+      {
+        "label": "Pozice 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – tělesný účinek, uvolnění svalů"
+      },
+      {
+        "label": "Pozice 1 nebo 2 = 5 (DHM)",
+        "text": "⚠️ Tudei-Kava – velmi dlouhý účinek, možné vedlejší účinky"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Příklad chemotypů",
+    "intro": "Klikněte na příklad chemotypu, abyste jej analyzovali:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Legenda kavalaktonů",
+    "intro": "Přehled všech šesti hlavních kavalaktonů a jejich účinků:"
+  },
+  "hint": {
+    "title": "Poznámka:",
+    "text": "Tato analýza je založena na obecných pokynech. Skutečný účinek se může lišit v závislosti na kvalitě, přípravě a individuální citlivosti. Pro podrobné informace navštivte naši stránku o",
+    "linkText": "chemotypovém systému"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Сравнение на сортове",
+    "subtitle": "Сравнете два сорта Кава директно един до друг"
+  },
+  "breadcrumbs": {
+    "home": "Начало",
+    "sorten": "Сортове",
+    "current": "Сравнение"
+  },
+  "ui": {
+    "selectVariety": "Изберете сорт...",
+    "firstVariety": "Първи сорт",
+    "secondVariety": "Втори сорт",
+    "toProfile": "Към профила на сорта",
+    "potency": "Потенция",
+    "badgeInfo": "Знаците <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> показват разликата спрямо другия сорт"
+  },
+  "categories": {
+    "heady": "Енергичен",
+    "balanced": "Баланс",
+    "heavy": "Тежък"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Сравнение на профила на ефектите"
+    },
+    "basicInfo": {
+      "title": "Основна информация"
+    },
+    "dosage": {
+      "title": "Препоръчителна доза"
+    },
+    "applications": {
+      "title": "Области на приложение"
+    },
+    "usageTimes": {
+      "title": "Времена на прием"
+    },
+    "kavalactones": {
+      "title": "Профил на ковалактони"
+    },
+    "notes": {
+      "title": "Бележки"
+    }
+  },
+  "effects": {
+    "euphoria": "Еуфория",
+    "relaxation": "Релаксация",
+    "sedation": "Седация",
+    "clarity": "Яснота",
+    "sociability": "Социалност",
+    "anxiolysis": "Облекчаване на тревожността"
+  },
+  "info": {
+    "chemotype": "Хемотип",
+    "duration": "Продължителност на действието",
+    "availability": "Наличност",
+    "price": "Цена"
+  },
+  "dosageLabels": {
+    "beginner": "Начинаещ",
+    "regular": "Редовен",
+    "experienced": "Опитен"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Каваин",
+    "dhk": "ДХК",
+    "methysticin": "Метистицин",
+    "dhm": "ДХМ",
+    "yangonin": "Янгонин",
+    "desmethoxyyangonin": "Десметоксиянгонин"
+  },
+  "empty": {
+    "title": "Изберете два сорта за сравнение",
+    "description": "Използвайте падащите менюта по-горе, за да изберете два сорта Кава и да сравните техните свойства, ефекти и препоръки директно един до друг.",
+    "tips": {
+      "title": "Съвети за сравнение",
+      "items": [
+        "Сравнявайте сортове от същата категория за подобни профили на ефектите",
+        "Сравнявайте Енергичен срещу Тежък за противоположни преживявания",
+        "Обърнете внимание на разликите в хемотипа за научни прозрения"
+      ]
+    },
+    "quickSelections": "Бърз избор",
+    "suggestions": [
+      {
+        "label": "Енергичен срещу Тежък",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Класика от Вануату",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Препоръка за начинаещи",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

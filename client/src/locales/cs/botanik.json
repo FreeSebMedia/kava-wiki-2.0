@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "Botanika <em>Piper methysticum</em>",
+    "subtitle": "Hluboký pohled na taxonomii, morfologii a ekologii rostliny Kava.",
+    "category": "Botanika"
+  },
+  "toc": {
+    "einfuehrung": "Úvod",
+    "klassifikation": "Vědecká klasifikace",
+    "ueberblick": "Morfologický přehled",
+    "verbreitung": "Rozšíření a habitat",
+    "vertiefung": "Hlubší články"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>, běžně známý jako Kava nebo Kava-Kava, je tropický keř z čeledi pepřovitých (Piperaceae). Název <em>Piper methysticum</em> se překládá jako \"omamný pepř\" (z řečtiny <em>methystikos</em> = omamný).",
+    "paragraph2": "Na rozdíl od mnoha jiných psychoaktivních rostlin Kava neobsahuje alkaloidy jako hlavní účinné látky, ale unikátní třídu sloučenin známých jako <strong>Kavalaktony</strong>. Rostlina hraje tisíce let centrální roli v kulturách tichomořského regionu a dnes je výsledkem tisíciletého lidského výběru."
+  },
+  "classification": {
+    "title": "Vědecká klasifikace",
+    "headers": {
+      "rank": "Rang",
+      "name": "Vědecký název"
+    },
+    "ranks": {
+      "reich": "Říše",
+      "abteilung": "Oddělení",
+      "ordnung": "Řád",
+      "familie": "Čeleď",
+      "gattung": "Rod",
+      "art": "Druh"
+    },
+    "values": {
+      "reich": "Plantae (rostliny)",
+      "abteilung": "Tracheophyta (cévnaté rostliny)",
+      "ordnung": "Piperales (pepřovité)",
+      "familie": "Piperaceae (pepřovité)",
+      "gattung": "Piper (pepř)",
+      "art": "Piper methysticum G. Forst."
+    },
+    "note": "Nejblíže příbuzným druhem je <em>Piper wichmannii</em>, který je považován za divokou předchůdce dnešní kultivované rostliny Kava. Zatímco <em>P. wichmannii</em> (často označovaný jako \"Divoká Kava\") se může rozmnožovat sexuálně, kultivovaný <em>P. methysticum</em> je sterilní a zcela závislý na člověku."
+  },
+  "morphology": {
+    "title": "Morfologický přehled",
+    "intro": "Kava je vytrvalý, stálezelený keř, který obvykle dosahuje výšky 1,5 až 3 metry, ale za optimálních podmínek může dorůst až 5 metrů.",
+    "aboveGround": {
+      "title": "Nadzemní části",
+      "leaves": "<strong>Listy:</strong> Velké, srdčité (cordat), 20-30 cm široké",
+      "stems": "<strong>Stonky:</strong> Kloubovité, bambusovité, specifická barva podle odrůdy",
+      "flowers": "<strong>Kvety:</strong> Hroznovité, sterilní (bez semen)"
+    },
+    "belowGround": {
+      "title": "Podzemní části",
+      "stump": "<strong>Hlava (Corm):</strong> Tlustý, dřevnatý oddenek",
+      "roots": "<strong>Postranní kořeny (Waka):</strong> Jemnější kořeny, nejvyšší obsah kavalaktonů",
+      "weight": "<strong>Hmotnost:</strong> 5-25 kg u zralých rostlin (3-5+ let)"
+    }
+  },
+  "distribution": {
+    "title": "Rozšíření a habitat",
+    "intro": "Kava je domácí v západním Tichém oceánu. Původní oblast je předpokládána na severním Vanuatu, kde je největší genetická rozmanitost. Odtud byla rostlina rozšířena polynéskými námořníky (\"Canoe Plants\") po celém Tichém oceánu.",
+    "regionsIntro": "Dnes se Kava pěstuje hlavně v následujících regionech:",
+    "regions": {
+      "vanuatu": "<strong>Vanuatu:</strong> Největší producent na světě s více než 80 různými odrůdami.",
+      "fiji": "<strong>Fidži:</strong> Známé pro \"Waka\" (kořeny) a \"Lewena\" (bazální kmen).",
+      "tonga": "<strong>Tonga:</strong> Produkuje velmi jemné, \"krémové\" Kavy (např. Pouni Ono).",
+      "samoa": "<strong>Samoa:</strong> Kava se zde nazývá 'Ava.",
+      "hawaii": "<strong>Havaj:</strong> Kava se zde nazývá 'Awa (např. Moi, Mahakea).",
+      "pohnpei": "<strong>Pohnpei a Mikronésie:</strong> Známé pro konzumaci čerstvého Kava džusu (\"Sakau\")."
+    }
+  },
+  "subpages": {
+    "title": "Hlubší články",
+    "intro": "Prozkoumejte následující podstránky pro podrobné informace o specifických aspektech botaniky Kava.",
+    "pflanze": {
+      "title": "Rostlina",
+      "description": "Taxonomie, nomenklatura a vztah mezi <em>Piper methysticum</em> a jeho divokou předchůdkyní <em>Piper wichmannii</em>.",
+      "topics": [
+        "Taxonomické zařazení",
+        "Význam názvu",
+        "Domestikace a evoluce",
+        "Kava jako živé kulturní dědictví"
+      ]
+    },
+    "morphologie": {
+      "title": "Morfologie",
+      "description": "Podrobná anatomie rostliny Kava se zvláštním zaměřením na ekonomicky významný kořenový systém.",
+      "topics": [
+        "Kořenový systém (Hlava a Waka)",
+        "Distribuce kavalaktonů",
+        "Stonky a listy",
+        "Kvety a sterilita"
+      ]
+    },
+    "anbau": {
+      "title": "Pěstování a ekologie",
+      "description": "Podmínky růstu, metody rozmnožování a umění tradičního pěstování Kava.",
+      "topics": [
+        "Vegetativní rozmnožování",
+        "Klimatické požadavky",
+        "Půdní vlastnosti",
+        "Sklizeň a faktory kvality"
+      ]
+    }
+  }
+}

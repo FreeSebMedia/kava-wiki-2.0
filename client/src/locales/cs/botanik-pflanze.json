@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "Rostlina",
+    "subtitle": "Taxonomie, nomenklatura a vztah mezi Piper methysticum a jeho divokou předchůdkyní.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "pflanze": "Rostlina"
+  },
+  "toc": {
+    "taxonomie": "Taxonomické zařazení",
+    "name": "Význam názvu",
+    "wichmannii": "Piper wichmannii – Divoká předchůdce",
+    "unterschiede": "Rozdíly od kultivované odrůdy",
+    "domestikation": "Domestikace & evoluce",
+    "kulturgut": "Kava jako živé kulturní dědictví"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> není běžná užitková rostlina. Je výsledkem tisíciletého lidského výběru a dnes existuje výhradně jako kultivovaná forma. Divoké populace již neexistují – každá kava na světě je klon, který byl předán lidskou rukou."
+  },
+  "taxonomie": {
+    "title": "Taxonomické zařazení",
+    "intro": "Kava patří do čeledi <strong>Piperaceae</strong> (pepřovité), jedné z nejstarších čeledí kvetoucích rostlin. Tato čeleď zahrnuje přibližně 3 600 druhů v 5 rodech, včetně známého černého pepře (<em>Piper nigrum</em>).",
+    "table": {
+      "headers": {
+        "rank": "Taxonomický rang",
+        "classification": "Klasifikace",
+        "note": "Poznámka"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Říše",
+          "classification": "Plantae",
+          "note": "Rostliny"
+        },
+        "unterreich": {
+          "rank": "Podříše",
+          "classification": "Tracheobionta",
+          "note": "Cévnaté rostliny"
+        },
+        "abteilung": {
+          "rank": "Oddělení",
+          "classification": "Magnoliophyta",
+          "note": "Kryté semena"
+        },
+        "klasse": {
+          "rank": "Třída",
+          "classification": "Magnoliopsida",
+          "note": "Dvouklíčnolisté"
+        },
+        "ordnung": {
+          "rank": "Řád",
+          "classification": "Piperales",
+          "note": "Pepřovité"
+        },
+        "familie": {
+          "rank": "Čeleď",
+          "classification": "Piperaceae",
+          "note": "Pepřovité"
+        },
+        "gattung": {
+          "rank": "Rod",
+          "classification": "<em>Piper</em> L.",
+          "note": "Přibližně 2 000 druhů po celém světě"
+        },
+        "art": {
+          "rank": "Druh",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "První popis 1786"
+        }
+      }
+    },
+    "forster": "První popis byl proveden v roce 1786 <strong>Johannem Georgem Adamem Forsterem</strong>, německým přírodovědcem, který doprovázel Jamese Cooka na jeho druhé plavbě kolem světa. Forster zdokumentoval rostlinu a její použití na pacifických ostrovech."
+  },
+  "name": {
+    "title": "Význam názvu",
+    "intro": "Vědecký název <em>Piper methysticum</em> je kombinací latiny a řečtiny:",
+    "piper": {
+      "title": "Piper",
+      "description": "Latinsky pro \"pepř\". Odkazuje na příslušnost k čeledi pepřovitých a mírně pálivou chuť kořene."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "Z řeckého <em>μεθυστικός</em> (methystikos) = \"omamný\" nebo \"opojný\". Popisuje psychoaktivní účinek rostliny."
+    },
+    "localNames": {
+      "intro": "Název \"Kava\" sám o sobě pochází z austronéských jazyků Tichomoří. V různých regionech existují různé názvy:",
+      "headers": {
+        "region": "Region",
+        "name": "Místní název",
+        "meaning": "Význam"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Hořký\""
+        },
+        "fiji": {
+          "region": "Fidži",
+          "name": "Yaqona",
+          "meaning": "\"Hořký kořen\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Pálivý, hořký\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Hořký\""
+        },
+        "hawaii": {
+          "region": "Havaj",
+          "name": "'Awa",
+          "meaning": "\"Hořký\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Kava-nápoj\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – Divoká předchůdce",
+    "intro": "Nejbližší příbuzný druh <em>Piper methysticum</em> je <strong>Piper wichmannii</strong>, který je považován za divokou předchůdkyni dnešní kultivované kavy. Tento druh se přirozeně vyskytuje v Papui Nové Guineji, na Šalomounových ostrovech a v severním Vanuatu.",
+    "alert": "<strong>Důležité:</strong> <em>Piper wichmannii</em> je někdy označována jako \"Divoká Kava\" a místně se konzumuje. Obsahuje však jiný profil kavalaktonů a považuje se za méně snášenlivou než kultivované odrůdy Edelkava.",
+    "differences": {
+      "title": "Rozdíly mezi P. methysticum a P. wichmannii",
+      "headers": {
+        "feature": "Vlastnost",
+        "methysticum": "<em>P. methysticum</em> (kultivovaná)",
+        "wichmannii": "<em>P. wichmannii</em> (divoká)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Reprodukce",
+          "methysticum": "Sterilní, pouze vegetativní",
+          "wichmannii": "Fertilní, produkuje semena"
+        },
+        "chromosomen": {
+          "feature": "Počet chromozomů",
+          "methysticum": "Dekaploidní (2n = 130)",
+          "wichmannii": "Diploidní (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Obsah kavalaktonů",
+          "methysticum": "Vyšší, optimalizovaný",
+          "wichmannii": "Nižší, variabilní"
+        },
+        "chemotyp": {
+          "feature": "Chemotyp",
+          "methysticum": "Vybráno pro snášenlivost",
+          "wichmannii": "Často podobné \"Tudei\""
+        },
+        "verbreitung": {
+          "feature": "Rozšíření",
+          "methysticum": "Pouze lidmi",
+          "wichmannii": "Přirozené rozšíření"
+        },
+        "nutzung": {
+          "feature": "Tradiční využití",
+          "methysticum": "Tisíciletí dokumentováno",
+          "wichmannii": "Omezené, často se vyhýbá"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Domestikace & evoluce",
+    "intro": "Domestikace kavy pravděpodobně začala před přibližně <strong>3 000 lety</strong> v severním Vanuatu. Genetické studie ukazují, že <em>Piper methysticum</em> vznikla opakovanou hybridizací a polyploidizací z <em>Piper wichmannii</em>.",
+    "changes": "Proces domestikace vedl k několika zásadním změnám:",
+    "cards": {
+      "polyploidie": {
+        "title": "Zvýšená polyploidie",
+        "description": "Zatímco <em>P. wichmannii</em> je diploidní (2n = 26), <em>P. methysticum</em> je dekaploidní (2n = 130). Toto zvýšení počtu chromozomů vedlo k větším kořenům a vyššímu obsahu kavalaktonů."
+      },
+      "fertilitaet": {
+        "title": "Ztráta fertility",
+        "description": "Vysoká polyploidie vedla k sterilnosti. Rostlina sice produkuje květy, ale žádná životaschopná semena. To ji učinilo zcela závislou na člověku."
+      },
+      "wirkprofil": {
+        "title": "Optimalizovaný účinkový profil",
+        "description": "Cíleným výběrem byly preferovány odrůdy s příjemnějším účinkem a lepší snášenlivostí. To vedlo k vzniku dnešních odrůd \"Edelkava\"."
+      },
+      "sortenvielfalt": {
+        "title": "Diverzita odrůd",
+        "description": "Dnes existuje více než 80 zdokumentovaných kultivarů pouze ve Vanuatu. Každá odrůda má jedinečný chemotypový profil a charakteristické účinkové vlastnosti."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "Kava jako živé kulturní dědictví",
+    "paragraph1": "Jelikož se kava nemůže sama rozmnožovat, každá dnes existující rostlina je výsledkem nepřetržitého řetězce lidského předávání. Řezané řízky byly předávány z generace na generaci, z rodiny do rodiny, z vesnice do vesnice.",
+    "quote": {
+      "text": "Kava je tak jedním z nejstarších zdokumentovaných příkladů cíleného selektivního zemědělství v jižním Tichomoří. Rostlina je živým kulturním dědictvím – předávána z generace na generaci.",
+      "author": "Sebastian Freidank, \"Kava – Kořen klidu\""
+    },
+    "paragraph2": "V zemích původu není kava vnímána pouze jako užitková rostlina, ale často také jako <strong>živá bytost</strong> – s názvem, charakterem a příběhem. Není neobvyklé, že jednotlivé rostliny jsou pojmenovány a uctívány v rituálech. Tento hluboký vztah mezi člověkem a rostlinou je to, co činí kavu nejen účinnou, ale také významnou.",
+    "paragraph3": "Závislost na člověku má také temnou stránku: Bez kontinuální kultivace by <em>Piper methysticum</em> během jedné generace vyhynula. To zdůrazňuje odpovědnost, která souvisí s pěstováním a obchodem s kavou."
+  },
+  "navigation": {
+    "nextChapter": "Pokračovat v kapitole Botanika:",
+    "morphologie": {
+      "title": "Morfologie",
+      "description": "Anatomie & kořenový systém rostliny kavy"
+    }
+  }
+}

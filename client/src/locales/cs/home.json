@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Domovská stránka",
+    "description": "Nejrozsáhlejší znalostní portál o Kava (Piper methysticum) na světě. Vědecky podložené, kulturně zakořeněné. Vše o účincích, přípravě, odrůdách a právním postavení."
+  },
+  "hero": {
+    "badge": "Piper methysticum",
+    "title": "Kořen klidu",
+    "subtitle": "Komplexní znalostní portál o pacifickém relaxačním kořenu. Vědecky podložené, kulturně zakořeněné.",
+    "cta": {
+      "studies": "Vědecké studie",
+      "learnMore": "Zjistit více"
+    }
+  },
+  "stats": [
+    {
+      "label": "Tradiční použití",
+      "value": "3000+",
+      "suffix": "let"
+    },
+    {
+      "label": "Hlavní Kavalaktony",
+      "value": "6",
+      "suffix": "účinných látek"
+    },
+    {
+      "label": "Odrůdy na Vanuatu",
+      "value": "80+",
+      "suffix": "kultivary"
+    },
+    {
+      "label": "Vědecké",
+      "value": "100+",
+      "suffix": "studie"
+    }
+  ],
+  "intro": {
+    "title": "Dar přírody,",
+    "titleHighlight": "potvrzený vědou.",
+    "text": "Kava (Piper methysticum) je více než jen rostlina. Po tisíciletí je sociálním a duchovním centrem pacifických ostrovních kultur. Dnes moderní věda potvrzuje to, co obyvatelé ostrovů vždy věděli: Kava uvolňuje tělo a čistí mysl, aniž by narušovala kognitivní schopnosti.",
+    "quote": "Kava je jediná botanická látka s úrovní 1 důkazů pro léčbu úzkostí.",
+    "quoteSource": "— Cochrane Review"
+  },
+  "features": [
+    {
+      "icon": "shield",
+      "title": "Bezpečnost",
+      "text": "Současný výzkum vyvrací staré mýty o hepatotoxicitě při správném použití."
+    },
+    {
+      "icon": "beaker",
+      "title": "Účinek",
+      "text": "Prokázané anxiolytické (protiúzkostné) vlastnosti díky Kavalaktonům."
+    },
+    {
+      "icon": "history",
+      "title": "Kultura",
+      "text": "Hluboce zakořeněné v tradicích Vanuatu, Fiji a Tonga."
+    }
+  ],
+  "categories": {
+    "title": "Znalostní databáze",
+    "subtitle": "Ponořte se hluboko do světa Kava. Vyberte oblast, abyste se dozvěděli více.",
+    "items": [
+      {
+        "title": "Botanika",
+        "desc": "Morfologie, pěstování a rozšíření",
+        "link": "/botanika"
+      },
+      {
+        "title": "Historie",
+        "desc": "Od počátků po současnost",
+        "link": "/historie"
+      },
+      {
+        "title": "Složení",
+        "desc": "Kavalaktony a chemotypy",
+        "link": "/slozeni"
+      },
+      {
+        "title": "Studie",
+        "desc": "Klinický výzkum a důkazy",
+        "link": "/studie"
+      },
+      {
+        "title": "Účinek",
+        "desc": "Účinky na tělo a mysl",
+        "link": "/ucinek"
+      },
+      {
+        "title": "Bezpečnost",
+        "desc": "Dávkování a vedlejší účinky",
+        "link": "/bezpecnost"
+      },
+      {
+        "title": "Odrůdy",
+        "desc": "Noble Kava vs. Tudei",
+        "link": "/odrudy"
+      },
+      {
+        "title": "Příprava",
+        "desc": "Tradiční a moderní metody",
+        "link": "/priprava"
+      }
+    ]
+  },
+  "partner": {
+    "label": "Oficiální partner",
+    "title": "Kava-mode.com",
+    "text": "Vedoucí značka Kava v Evropě a celosvětový velkoobchod s kvalitním Noble-Kava. Ověřená kvalita, přímo z farem v Tichomoří.",
+    "cta": "Navštivte obchod"
+  },
+  "book": {
+    "label": "Doporučené čtení",
+    "title": "\"Kava – Kořen klidu\"",
+    "text": "Komplexní průvodce účinky, použitím, historií a kulturou od Sebastiana Freidanka. Standardní dílo pro každého, kdo se zajímá o Kava.",
+    "cta": "Zobrazit knihu"
+  }
+}

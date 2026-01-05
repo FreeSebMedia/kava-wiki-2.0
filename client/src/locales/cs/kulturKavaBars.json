@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava-Bar Finder",
+    "description": "Najděte Kava bary po celém světě – od Floridy po Nový Zéland. S adresami, hodnoceními a otevíracími hodinami."
+  },
+  "breadcrumb": {
+    "home": "Domov",
+    "kultur": "Kultura",
+    "current": "Kava-Bar Finder"
+  },
+  "viewToggle": {
+    "list": "Seznam",
+    "map": "Mapa"
+  },
+  "search": {
+    "placeholder": "Hledat podle názvu, města nebo země...",
+    "resultsCount": "Nalezeno Kava-Bar(ů)",
+    "resultSingular": "Nalezen Kava-Bar",
+    "resultPlural": "Nalezeny Kava-Bary"
+  },
+  "filter": {
+    "button": "Filtr",
+    "country": "Země",
+    "allCountries": "Všechny země",
+    "region": "Region/Stát",
+    "allRegions": "Všechny regiony",
+    "minRating": "Minimální hodnocení",
+    "allRatings": "Všechna hodnocení",
+    "rating4Plus": "4+ hvězdičky",
+    "rating45Plus": "4.5+ hvězdičky",
+    "clearFilters": "Resetovat filtry",
+    "features": "Vybavení"
+  },
+  "featureLabels": {
+    "wifi": "Wi-Fi",
+    "outdoor": "Venkovní prostor",
+    "food": "Jídlo",
+    "live-music": "Živá hudba",
+    "events": "Akce",
+    "traditional": "Tradiční příprava",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Hry",
+    "parking": "Parkování",
+    "accessible": "Bezbariérový",
+    "late-night": "Noční otevírací doba"
+  },
+  "countryNames": {
+    "US": "USA",
+    "AU": "Austrálie",
+    "NZ": "Nový Zéland",
+    "DE": "Německo",
+    "UK": "Velká Británie",
+    "CA": "Kanada"
+  },
+  "bar": {
+    "verified": "Ověřeno",
+    "address": "Adresa",
+    "hours": "Otevírací hodiny",
+    "specialties": "Speciality",
+    "features": "Vybavení",
+    "reviews": "Hodnocení",
+    "call": "Zavolat",
+    "website": "Webové stránky",
+    "route": "Trasa",
+    "routePlan": "Naplánovat trasu",
+    "backToList": "Zpět na seznam"
+  },
+  "empty": {
+    "title": "Žádné Kava-Bary nenalezeny",
+    "description": "Zkuste jiné vyhledávací termíny nebo filtry.",
+    "resetButton": "Resetovat filtry"
+  },
+  "stats": {
+    "title": "Statistiky Kava-Barů",
+    "bars": "Kava-Bary",
+    "countries": "Země",
+    "inUSA": "v USA",
+    "verified": "Ověřeno"
+  },
+  "cta": {
+    "title": "Znáte nějaký Kava-Bar?",
+    "description": "Pomozte nám rozšířit databázi! Pokud znáte Kava-Bar, který zde není uveden, dejte nám vědět.",
+    "button": "Navrhnout Kava-Bar"
+  },
+  "related": {
+    "title": "Související stránky",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bary",
+      "subtitle": "Historie kultury pití Kava"
+    },
+    "moderne": {
+      "title": "Moderní Kava-Kultura",
+      "subtitle": "Globální rozšíření dnes"
+    },
+    "weltkarte": {
+      "title": "Interaktivní mapa světa",
+      "subtitle": "Objevování Kava-regionů"
+    }
+  },
+  "navigation": {
+    "nakamal": "/cs/kultura/nakamal",
+    "moderne": "/cs/kultura/moderne",
+    "weltkarte": "/cs/kultura/weltkarte",
+    "kontakt": "/cs/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "Jedna z nejznámějších Kava-Barových sítí na Floridě s autentickou atmosférou a kvalitními Kava odrůdami z Vanuatu a Fiji.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Kava Smoothies"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra používá nejkvalitnější Kava z ostrova Vanuatu. Používá se v ceremoniích po tisíciletí.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Kava Flights"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Místně vedená Kava-Bar s výběrem tradičně připravovaných Kavas v uvolněné atmosféře.",
+      "specialties": [
+        "Tradiční Kava",
+        "Kratom Teas"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Prémiová Kava-Bar v srdci Las Olas s pacifickým nádechem a širokým výběrem Noble Kava odrůd.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Tongan Kava",
+        "Kava Flights"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "První Kava-Bar na Madeira Beach! Od majitele Bula Kafe, první Kava-Bar v Pinellas.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "Uvolněná Kava-lounge s nejjemnějším fidschianickým Kava, hookah, kratomem a Kava-komedií v pondělí.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Comedy Nights"
+      ]
+    },
+    "roots-miami": {
+      "description": "Urbánní Kava-Bar v Wynwoodu s uměleckou atmosférou a pravidelnými akcemi živé hudby.",
+      "specialties": [
+        "House Blend",
+        "Kava Cocktails",
+        "Kratom Teas"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Současná Kava-Bar, lounge a maloobchodní místo v Miami.",
+      "specialties": [
+        "Botanické směsi",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Hlavní sídlo franšízy Kava Culture s největším výběrem Kava odrůd.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Kava Cocktails",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Moderní, sofistikovaná Kava-Bar uvnitř/venku v Bonita Springs.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Uvolněná Kava-Bar v Clearwateru s Happy Hour od 14 do 17 hodin.",
+      "specialties": [
+        "Happy Hour Specials",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Kava Culture v centru Fort Myers s Open Mic Nights, uměním a lahodnými Kava koktejly.",
+      "specialties": [
+        "Open Mic Nights",
+        "Art Events"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture v centru Orlanda s uvolněnou atmosférou.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kratom Blends"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB s Buddha Blends Vegan Kitchen. Venkovní plážový bar, kulečník, šipky, Open Mics.",
+      "specialties": [
+        "Beach Vibes",
+        "Vegan Food",
+        "Live Music"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture v Key West - tropické vibrace a prémiové Kava.",
+      "specialties": [
+        "Island Blend",
+        "Tropical Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture v centru Tampy s městskou atmosférou.",
+      "specialties": [
+        "Urban Blend",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture v jižní Tampě s uvolněnou atmosférou sousedství.",
+      "specialties": [
+        "Neighborhood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture v Naples s vysoce kvalitní atmosférou.",
+      "specialties": [
+        "Premium Selection",
+        "Kava Flights"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte s plážovými vibracemi, venkovní pláž u kanálu.",
+      "specialties": [
+        "Beach Vibes",
+        "Canal Views"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture v Estero s pohodlnou polohou.",
+      "specialties": [
+        "Convenient Location",
+        "Quality Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture v Lake Mary - uvolněná atmosféra.",
+      "specialties": [
+        "Relaxed Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze je Kava-Bar v Tallahassee s Kava, čajem a uvolněným místem k relaxaci.",
+      "specialties": [
+        "Student Specials",
+        "Chill Vibes"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Kava Bar Island Root v centru Melbourne FL.",
+      "specialties": [
+        "Tradiční Kava",
+        "Community Events"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge je Kava-Java-Hookah-Lounge s kávou, čaji, Kava, Kratomem a hookah.",
+      "specialties": [
+        "Hookah",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Rodinný podnik, všechny organické botanicals a čaje pro maximální pohodu.",
+      "specialties": [
+        "Organic Botanicals",
+        "Wellness Teas"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors je místní vape obchod a lounge s Kava a Kratom.",
+      "specialties": [
+        "Vape Products",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge je místo pro kreativní a mírumilovné hlavy.",
+      "specialties": [
+        "Creative Community",
+        "Live Music"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Ethnobotanická čajová bar s Kava a Kratom.",
+      "specialties": [
+        "Ethnobotanicals",
+        "Tea Blends"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, Vapor a eHookah přímo u Turnpike. Chill, relaxujte a užijte si!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula nabízí prémiové Kava v uvolněné plážové atmosféře.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava Social je společenské místo s Kava, čajem a komunitními akcemi.",
+      "specialties": [
+        "Social Events",
+        "Kava",
+        "Tea"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava nabízí autentické Kava pro univerzitní město Gainesville.",
+      "specialties": [
+        "University Vibes",
+        "Premium Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Peaceful Warrior Kava Bar v Jacksonville se zaměřením na wellness a relaxaci.",
+      "specialties": [
+        "Wellness",
+        "Tradiční Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe nabízí Kava a duchovní atmosféru komunity.",
+      "specialties": [
+        "Spiritual Community",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "The Kava Tap v Pensacole - uvolněná barová atmosféra s Kava z kohoutku.",
+      "specialties": [
+        "Draft Kava",
+        "Bar Vibes"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala nabízí prémiové Kava pro střed Floridy.",
+      "specialties": [
+        "Central Florida",
+        "Premium Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe Orlando přináší pacifické vibrace do střední Floridy.",
+      "specialties": [
+        "Pacific Vibes",
+        "Premium Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Purple Lotus Kava Bar v Phoenixu - Arizonská prémiová Kava destinace.",
+      "specialties": [
+        "Arizona's First",
+        "Premium Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Kava Culture v Tempe, Arizona - ideální pro studenty ASU.",
+      "specialties": [
+        "Student Friendly",
+        "Premium Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "The Root v Tucsonu nabízí autentické Kava a Kratom.",
+      "specialties": [
+        "Autentické Kava",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "Bula Kava House v San Diegu s uvolněnou plážovou atmosférou.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "Kava Roots v San Franciscu - první Kava-Bar v oblasti Bay.",
+      "specialties": [
+        "Bay Area First",
+        "Premium Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava Los Angeles přináší prémiové Kava do Hollywoodu.",
+      "specialties": [
+        "Hollywood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Alkoholfree, všechny věkové kategorie vítány, bylinná lounge s elixíry, exotikou a syrovou stravou.",
+      "specialties": [
+        "Herbal Elixirs",
+        "Raw Food",
+        "All Ages"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "Servíruje nejlepší tradičně připravené Kava v zábavné a společenské atmosféře. Nejvíce inovativní nápad na chill místo!",
+      "specialties": [
+        "Tradiční příprava",
+        "Kava vzdělávání"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Lékárna, čajová zahrada, umělecká galerie a hudební místo v srdci jižního Oregonu! Importuje Kava z Big Island Hawaii.",
+      "specialties": [
+        "Kava Kombucha",
+        "Art Gallery",
+        "Music Venue"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "Oblíbená Kava-Bar v Austinu s uvolněnou atmosférou, hrami a komunitními akcemi.",
+      "specialties": [
+        "Kava Flights",
+        "Kratom Blends",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture v Lewisville, Texas.",
+      "specialties": [
+        "Premium Kava",
+        "Texas Vibes"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture v North Fort Worth.",
+      "specialties": [
+        "Premium Kava",
+        "Convenient Location"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - NYNÍ OTEVŘENO v Ohiu.",
+      "specialties": [
+        "Premium Kava",
+        "Midwest Vibes"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture v Toledo, Ohio.",
+      "specialties": [
+        "Premium Kava",
+        "Ohio Location"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "První Kava-Bar v Salt Lake City s výběrem prémiového Kava a přívětivou komunitou.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Ceremonies"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Kava je kořen z jižního Pacifiku. Používá se jako ceremoniální nápoj k relaxaci a uklidnění.",
+      "specialties": [
+        "NYC Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra je nejjemnější Kava-Bar v Americe s prémiovým Kava a dalšími bylinami.",
+      "specialties": [
+        "Premium Kava",
+        "Herbal Blends"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia je Kava-Bar specializující se na Kava-infuzované nápoje a syrové dezerty, stejně jako bonsai rostliny.",
+      "specialties": [
+        "Raw Desserts",
+        "Bonsai Plants",
+        "Kava Drinks"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Kompletní řada bylinných a Kava produktů, juice bar, tabák, hookah, vape produkty - vše pod jednou střechou.",
+      "specialties": [
+        "Herbal Products",
+        "Juice Bar"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "První Kava-Bar v Missouri! Přijďte se podívat, o co jde. Otevřeno 7 dní v týdnu.",
+      "specialties": [
+        "Missouri's First",
+        "Tradiční Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar v Carrboro, Severní Karolína.",
+      "specialties": [
+        "Premium Kava",
+        "College Town Vibes"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar v Wilmingtonu, Severní Karolína.",
+      "specialties": [
+        "Coastal Vibes",
+        "Premium Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision je jedinečný co-working prostor a kavárna se specialitami jako Kava & Kratom.",
+      "specialties": [
+        "Co-Working Space",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Zdravé jídlo pro zdravé tělo a Kava! Aljašská Kava destinace.",
+      "specialties": [
+        "Acai Bowls",
+        "Smoothies",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture ve Spartanburgu, Jižní Karolína.",
+      "specialties": [
+        "Premium Kava",
+        "Southern Hospitality"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "První specializovaná Kava-lounge v Austrálii s autentickým fidschianickým Kava a pacifickou pohostinností.",
+      "specialties": [
+        "Fiji Waka",
+        "Vanuatu Kava",
+        "Tradiční ceremonie"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Kava-Bar v Melbourne na Pacific Market s výběrem Kava a Kratom.",
+      "specialties": [
+        "Fiji Kava",
+        "Tongan Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "Autentická Kava-Bar v Brisbane s fidschianickým dekorem a tradiční přípravou.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Ceremonies"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "Aucklandská specializovaná Kava-lounge na Victoria Park Market s teplou, přívětivou komunitou a Noble Kava z celého Pacifiku.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Waka",
+        "Vanuatu Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Autentická Kava-Bar v jižním Aucklandu s cenově dostupnými cenami a širokým výběrem Kava prášku.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Kava",
+        "Kava Powder Sales"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "První Kava-lounge v Berlíně v Kreuzbergu s uvolněnou atmosférou a pravidelnými Kava ceremoniemi.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Ceremonies"
+      ]
+    },
+    "kava-club-london": {
+      "description": "První Kava-klub v Londýně v Shoreditch s městským prostředím a výběrem prémiového Kava.",
+      "specialties": [
+        "Fiji Premium",
+        "Kava Cocktails"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Pohodlné Kava-café ve Vancouveru s výběrem Kava a zdravých jídel.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Smoothie Bowls"
+      ]
+    }
+  }
+}

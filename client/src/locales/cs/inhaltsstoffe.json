@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Složení & Chemie",
+    "subtitle": "Farmakologická tajemství Piper methysticum: Kavalaktony, chemotypy a mechanismy účinku.",
+    "category": "Složení"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "current": "Složení"
+  },
+  "toc": {
+    "title": "Obsah",
+    "uebersicht": "Přehled účinných látek",
+    "kavalactone": "6 hlavních kavalaktonů",
+    "chemotypen": "Chemotypový systém",
+    "synergien": "Synergie & entourage efekt",
+    "weitere": "Další složky",
+    "unterseiten": "Hlubší články"
+  },
+  "uebersicht": {
+    "paragraph1": "Psychoaktivní účinek Kavy je primárně způsoben skupinou sloučenin známých jako <strong>Kavalaktony</strong> (nebo Kava-Pyony). Na rozdíl od mnoha jiných psychoaktivních rostlin (jako je káva nebo čaj) Kava neobsahuje alkaloidy jako hlavní účinné látky.",
+    "paragraph2": "Dosud bylo identifikováno 18 různých kavalaktonů, z nichž však šest odpovídá za více než 96 % farmakologického účinku. Těchto šest \"hlavních kavalaktonů\" tvoří základ pro klasifikaci a určení kvality Kavy."
+  },
+  "kavalactone": {
+    "title": "6 hlavních kavalaktonů",
+    "intro": "Každý kavalakton má jedinečný profil účinku. Celkový účinek odrůdy Kavy vychází ze specifického poměru těchto šesti složek.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "Název",
+      "abbreviation": "Zkratka",
+      "effect": "Primární účinek"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Fokus, zvýšení dopaminu, euforie"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Silná svalová relaxace, analgezie (úleva od bolesti)"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "Stimulující, působí na CB1 receptory (endokanabinoidní systém)"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anxiolytický (úzkost zmírňující), zlepšující náladu, mentální fokus. Odpovědný za \"Heady\" efekt."
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Sedativní, dlouhotrvající. Vysoké koncentrace mohou způsobit nevolnost (typické pro Tudei-Kavu)."
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Silně sedativní, anxiolytický, neuroprotektivní."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Chemotypový systém",
+    "intro": "Pro předpověď účinku odrůdy Kavy se používá 6-místný kód, který uvádí kavalaktony v sestupném pořadí jejich koncentrace. To se nazývá <strong>chemotyp</strong>.",
+    "exampleTitle": "Příklad: Chemotyp 426531",
+    "exampleText": "To znamená, že <strong>Kavain (4)</strong> má nejvyšší koncentraci, následuje <strong>Dihydrokavain (2)</strong>, pak <strong>Methysticin (6)</strong>, atd.",
+    "nobleTudeiTitle": "Noble Kava vs. Tudei Kava",
+    "nobleTudeiIntro": "Chemotyp je nejdůležitější nástroj pro rozlišení kvalitní \"Noble Kava\" (vzácná Kava) a méně kvalitní \"Tudei Kava\" (Kava na dva dny).",
+    "nobleDescription": "<strong>Noble Kava:</strong> Chemotypy obvykle začínají číslem <strong>4</strong> (Kavain) nebo <strong>2</strong> (Dihydrokavain). To zajišťuje příjemný, úzkost zmírňující účinek bez dlouhého \"kocoviny\".",
+    "nobleCodes": "Typické kódy: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Tudei Kava:</strong> Chemotypy často začínají číslem <strong>5</strong> (Dihydromethysticin) nebo <strong>2</strong> s velmi vysokým podílem 5. DHM se velmi pomalu metabolizuje a může vést k několika dnům únavy a nevolnosti.",
+    "tudeiCodes": "Typické kódy: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Synergie & entourage efekt",
+    "paragraph1": "Podobně jako u konopí (terpeny & kanabinoidy) je u Kavy celkový extrakt účinnější než izolované kavalaktony. To se nazývá entourage efekt.",
+    "paragraph2": "Izolovaný kavain sice působí úzkost zmírňující, ale kombinace s yangoninem (inhibice MAO-B) a desmethoxyyangoninem (zvýšení dopaminu) výrazně posiluje účinek zlepšení nálady. Proto jsou tradiční přípravy nebo full-spectrum extrakty preferovány před izolovanými účinnými látkami."
+  },
+  "weitere": {
+    "title": "Další složky",
+    "intro": "Kromě kavalaktonů obsahuje kořen:",
+    "items": [
+      {
+        "label": "Flavokaviny (A, B, C)",
+        "text": "Chalkony s potenciálními antitumorovými vlastnostmi, ale také podezřelé z cytotoxicity při extrémně vysokých dávkách (převážně v Tudei odrůdách)."
+      },
+      {
+        "label": "Alkaloidy",
+        "text": "Pipermethystin se vyskytuje převážně v <strong>listech a stoncích</strong>, nikoli v kořeni. Je toxický a je hlavním důvodem, proč se tradičně konzumují pouze kořeny."
+      },
+      {
+        "label": "Škrob & vláknina",
+        "text": "Tvoří přibližně 43 % suché hmotnosti a zajišťují typickou konzistenci nápoje."
+      },
+      {
+        "label": "Minerální látky",
+        "text": "Draslík, vápník, hořčík."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "Hlubší články",
+    "intro": "Pro podrobnější informace k jednotlivým tématům navštivte naše specializované podstránky:",
+    "kavalactoneTitle": "6 hlavních kavalaktonů",
+    "kavalactoneDescription": "Podrobné profily účinku pro Kavain, Dihydrokavain, Methysticin, Dihydromethysticin, Yangonin a Desmethoxyyangonin.",
+    "chemotypenTitle": "Chemotypový systém",
+    "chemotypenDescription": "Jak 6-místný kód předpovídá účinek a rozlišuje Noble Kava od Tudei.",
+    "learnMore": "Zjistit více"
+  }
+}

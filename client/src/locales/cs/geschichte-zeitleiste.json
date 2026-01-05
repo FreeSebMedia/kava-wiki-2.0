@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "Příběh kávy",
+    "subtitle": "Cesta přes 5 000 let historie kávy – od domestikace v Melanésii po globální rozšíření v moderním světě.",
+    "category": "Historie"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "geschichte": "Historie",
+    "zeitleiste": "Časová osa"
+  },
+  "ui": {
+    "filter": "Filtr",
+    "allEpochs": "Všechny epochy",
+    "readMore": "Zjistit více",
+    "loading": "Načítá se..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Prehistorie a domestikace",
+      "description": "Počátky kultury Kava v Melanésii"
+    },
+    "classical": {
+      "name": "Klasická pacifická éra",
+      "description": "Šíření prostřednictvím austronéské expanze"
+    },
+    "colonial": {
+      "name": "Koloniální doba",
+      "description": "Evropský kontakt a misionářství"
+    },
+    "modern": {
+      "name": "Moderní éra",
+      "description": "Vědecký výzkum a dekolonizace"
+    },
+    "contemporary": {
+      "name": "Současnost",
+      "description": "Globální šíření a kulturní renesance"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Původ a domestikace",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Šíření v Tichomoří",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Koloniální doba",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Věda a výzkum",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Moderní éra",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Současnost",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "přibližně 3000 př. n. l.",
+      "title": "Domestikace Kavy",
+      "description": "V deštných lesích Papua-Nové Guiney a Vanuatu začíná domestikace Piper wichmannii na kultivovanou rostlinu Kava (Piper methysticum).",
+      "details": "Díky selektivnímu šlechtění a vegetativnímu rozmnožování vznikají první odrůdy Noble Kava s vyšším obsahem kavalaktonu a nižší toxicitou než divoká původní forma.",
+      "location": "Papua-Nová Guinea / Vanuatu",
+      "links": [
+        {
+          "label": "Rostlina",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Původy",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "přibližně 2500 př. n. l.",
+      "title": "První Kava ceremoniály ve Vanuatu",
+      "description": "Na ostrovech Vanuatu se vyvíjejí první rituální Kava ceremoniály. Nakamal se stává centrálním místem setkávání.",
+      "details": "Příprava žvýkáním kořene mladými muži se ustavuje jako tradice. Kava se stává médiem komunikace s předky a duchy.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Ceremonie",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "přibližně 1500–1000 př. n. l.",
+      "title": "Lapita expanze",
+      "description": "Lapita kultura šíří Kavu prostřednictvím své námořní expanze z Melanésie do Západní Polynésie.",
+      "details": "Archeologické nálezy lapitské keramiky ukazují trasy šíření. Rostliny Kava jsou přepravovány jako řízky na katamaránech.",
+      "location": "Melanésie → Polynésie"
+    },
+    "fiji-arrival": {
+      "year": "přibližně 1000 př. n. l.",
+      "title": "Kava dorazila na Fiji",
+      "description": "Kava je zavedena na Fiji a známá jako 'Yaqona'. Unikátní ceremoniály se vyvíjejí kolem Tanoa (Kava mísy).",
+      "details": "Původně byla Kava na Fiji připravována mletím, nikoli žvýkáním. Spojení s uctíváním předků v Būrau (mužských domech) se ustavuje.",
+      "location": "Fiji",
+      "links": [
+        {
+          "label": "Fiji ceremoniály",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Odrůdy z Pacifiku",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "přibližně 500 př. n. l.",
+      "title": "Kava na Tonga a Samoa",
+      "description": "Ceremonie 'Ava se vyvíjí na Tonga a Samoa v vysoce formalizovanou tradici s přísnou hierarchií.",
+      "details": "Tou'a (míchací žena Kavy) a Matāpule (mistři ceremonií) se stávají důležitými rituálními rolemi. Pořadí pití odráží sociální pořádek.",
+      "location": "Tonga / Samoa",
+      "links": [
+        {
+          "label": "'Ava ceremoniál",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "přibližně 300–500 n. l.",
+      "title": "Kava dorazila na Hawaii",
+      "description": "Polynésští námořníci přivážejí Kavu na Hawaii, kde je známá jako 'Awa' a je spojována s bohyní Hinou.",
+      "details": "Na Hawaii se vyvíjí unikátní kultura Kavy spojená s léčebnými rituály Kahuna (kněží). Odrůda 'Awa Hiwa je rezervována pro ceremoniální účely.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Odrůdy z Hawaii",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "přibližně 500 n. l.",
+      "title": "Sakau kultura na Pohnpei",
+      "description": "Na Pohnpei v Mikronésii se vyvíjí ceremoniál Sakau jako samostatná tradice.",
+      "details": "Příprava na plochém kameni a lisování pomocí hibiskusových vláken se stává charakteristickou pro mikronéskou kulturu Kavy.",
+      "location": "Pohnpei (Mikronésie)"
+    },
+    "fiji-tongan-influence": {
+      "year": "přibližně 1750",
+      "title": "Tonga vliv na Fiji",
+      "description": "Fiji přebírá tonganské Kava ceremoniály: žvýkání, Tanoa mísy a Bilo šálky se stávají standardem.",
+      "details": "Ceremonie Sevusevu jako formální pozdrav se ustavuje. Křesťanští misionáři preferují 'civilizovanější' polynéské ceremoniály.",
+      "location": "Fiji"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "První evropský kontakt",
+      "description": "Nizozemští námořníci pod vedením Jacoba Le Maire a Willema Schoutena dosahují pacifických ostrovů a poprvé dokumentují Kavu.",
+      "details": "Evropané popisují 'podivný nápoj' domorodců, ale nerozumí jeho kulturnímu významu.",
+      "location": "Pacifik"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Dokumentace kapitána Cooka",
+      "description": "James Cook podrobně dokumentuje Kava ceremoniály během svých pacifických cest a přiváží vzorky do Evropy.",
+      "details": "Cookovy zprávy o 'Ava ceremoniích na Tonga a Hawaii vzbuzují vědecký zájem v Evropě. Botanik Johann Georg Forster poprvé vědecky popisuje rostlinu.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Historie",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Vědecká klasifikace",
+      "description": "Johann Georg Forster klasifikuje Kavu jako Piper methysticum ('omamná pepřová rostlina').",
+      "details": "Název pochází z řeckého 'methystikos' (omamný). Forster popisuje rostlinu ve svém díle 'De Plantis Esculentis Insularum Oceani Australis'.",
+      "location": "Evropa",
+      "links": [
+        {
+          "label": "Botanika",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Misionářský odpor",
+      "description": "Křesťanští misionáři bojují proti Kávě jako 'pohanovskému' nápoji. V některých regionech jsou ceremoniály zakázány.",
+      "details": "Misionáři kritizují žvýkání jako nehygienické a ceremoniály jako 'lenivé, rozkládající se, ba démonické'. Na východní Futuně je žvýkání v roce 1930 na základě misionářského mandátu zastaveno.",
+      "location": "Pacifik",
+      "links": [
+        {
+          "label": "Koloniální vlivy",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "Objev kavalaktonů",
+      "description": "Němečtí chemici poprvé izolují aktivní látky z Kavy a nazývají je 'Kavain'.",
+      "details": "Objev klade základy pro vědecký výzkum účinků Kavy a pozdější farmaceutické aplikace.",
+      "location": "Německo",
+      "links": [
+        {
+          "label": "Kavalaktony",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Německá koloniální nadvláda",
+      "description": "Německo kontroluje části Pacifiku (Německá Nová Guinea, Samoa). Kava je vědecky zkoumána.",
+      "details": "Němečtí vědci dokumentují odrůdy Kavy a metody přípravy. Koloniální správa většinou toleruje konzumaci Kavy.",
+      "location": "Německá Nová Guinea / Samoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Výzkum Louise Lewina",
+      "description": "Německý toxikolog Louis Lewin publikuje rozsáhlé studie o Kávě a klasifikuje ji jako 'Euphorica'.",
+      "details": "Lewinovo dílo 'Phantastica' se stává standardním dílem psychofarmakologie. Popisuje Kavu jako jeden z nejdůležitějších požitků lidstva.",
+      "location": "Německo"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Nezávislost & Kulturní renesance",
+      "description": "Pacifické státy získávají nezávislost. Kava se vrací jako symbol kulturní identity do veřejného prostoru.",
+      "details": "Samoa (1962), Fiji (1970), Tonga (1970), Vanuatu (1980) se stávají nezávislými. Kava ceremoniály se oslavují při zakládání států a oficiálních příležitostech.",
+      "location": "Pacifik",
+      "links": [
+        {
+          "label": "Moderní historie",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu se stává nezávislým",
+      "description": "Vanuatu získává nezávislost od francouzsko-britské koloniální nadvlády. Kava se stává národním symbolem.",
+      "details": "Nový národ činí Kavu součástí své identity. Nakamaly se stávají důležitými sociálními institucemi v Port Vila a dalších městech.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "1990s",
+      "title": "Klinické studie o úzkosti",
+      "description": "První kontrolované klinické studie ukazují anxiolytický účinek extraktů Kavy.",
+      "details": "Meta-analýzy potvrzují účinnost Kavy při úzkostných poruchách. Přípravky Kavy se v Evropě a USA stávají populárními jako rostlinné léky.",
+      "location": "Evropa / USA",
+      "links": [
+        {
+          "label": "Studie",
+          "url": "/studien"
+        },
+        {
+          "label": "Účinek na úzkost",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990s",
+      "title": "První Kava bary v USA",
+      "description": "Na Floridě a v Kalifornii se otevírají první západní Kava bary jako nealkoholická alternativa.",
+      "details": "Hnutí Kava bar začíná ve městech s pacifickou diasporou. Fort Lauderdale se stává centrem americké Kava scény.",
+      "location": "USA (Florida)",
+      "links": [
+        {
+          "label": "Moderní Kava kultura",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal & Kava bary",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Zákaz Kavy v Německu",
+      "description": "Německo zakazuje přípravky Kavy po zprávách o poškození jater. Další země EU následují.",
+      "details": "BfArM odvolává povolení všech léků obsahujících Kavu. Rozhodnutí je založeno na 30 podezřeních na hepatotoxicitu, ale později je kritizováno jako přehnané.",
+      "location": "Německo / EU",
+      "links": [
+        {
+          "label": "Bezpečnost jater",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Právní status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Politika vývozu pouze Noble ve Vanuatu",
+      "description": "Vanuatu zavádí přísné exportní směrnice: pouze odrůdy Noble Kava mohou být vyváženy.",
+      "details": "Politika má zajistit kvalitu a chránit pověst Kavy. Odrůdy Tudei s vyšším obsahem DHM/DHK jsou vyloučeny z exportu.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Noble vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Odrůdy z Vanuatu",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "Hodnocení rizik WHO",
+      "description": "WHO zveřejňuje komplexní hodnocení rizik a klasifikuje tradičně připravovanou Kavu jako bezpečnou.",
+      "details": "Hodnocení rozlišuje mezi tradiční přípravou (bezpečná) a extrakty (potenciálně problematické). Použití částí rostliny, které nejsou kořeny, je identifikováno jako rizikový faktor.",
+      "location": "Mezinárodní",
+      "links": [
+        {
+          "label": "Bezpečnost",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Rehabilitace v Německu",
+      "description": "Německé soudy zrušují zákaz Kavy. Původní rozhodnutí je klasifikováno jako vědecky neopodstatněné.",
+      "details": "Spolkový správní soud rozhoduje, že hodnocení rizik bylo chybné. Produkty Kavy mohou být opět legálně prodávány.",
+      "location": "Německo",
+      "links": [
+        {
+          "label": "Právní status",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Standard Codex Alimentarius",
+      "description": "Codex Alimentarius přijímá mezinárodní standard pro Kavu jako nápoj.",
+      "details": "Standard definuje kvalitativní kritéria, limity kavalaktonů a požadavky na označování. Milník pro mezinárodní obchod.",
+      "location": "Mezinárodní"
+    },
+    "global-expansion": {
+      "year": "2020s",
+      "title": "Globální expanze Kava barů",
+      "description": "Více než 200 Kava barů se otevírá v USA. Hnutí 'Sober Curious' urychluje růst.",
+      "details": "Kava se stává populární jako nealkoholická alternativa pro sociální uvolnění. Města jako Austin, Denver a New York vyvíjejí živé Kava scény.",
+      "location": "USA / Evropa / Austrálie",
+      "links": [
+        {
+          "label": "Moderní Kava kultura",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020s",
+      "title": "Výzvy klimatických změn",
+      "description": "Pacifičtí farmáři Kavy bojují s dopady klimatických změn na své úrody.",
+      "details": "Změněné vzorce srážek, cyklony a rostoucí teploty ohrožují tradiční pěstební oblasti. Udržitelné metody pěstování se stávají důležitějšími.",
+      "location": "Pacifik",
+      "links": [
+        {
+          "label": "Pěstování",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "Dnes",
+      "title": "Kulturní renesance",
+      "description": "Mladé generace z Pacifiku zakládají 'Kava Collectives' a digitálně dokumentují tradiční znalosti.",
+      "details": "Podcasts, YouTube kanály a Instagramové účty šíří Kava kulturu po celém světě. Spojení tradice a moderny vytváří nové formy kulturní identity.",
+      "location": "Pacifik / Globálně",
+      "links": [
+        {
+          "label": "Kultura & Tradice",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Přehled",
+    "events": "Události",
+    "epochs": "Epochy",
+    "yearsOfHistory": "Roky historie",
+    "milestones": "Milníky",
+    "keyMilestones": "Klíčové milníky",
+    "relatedPages": "Související stránky",
+    "noEventsFound": "Žádné události nenalezeny pro tyto filtry.",
+    "resetFilters": "Resetovat filtry",
+    "bce": "př. n. l.",
+    "origins": "Původy",
+    "spreadPacific": "Šíření v Tichém oceánu",
+    "modernHistory": "Moderní historie",
+    "interactiveMap": "Interaktivní světová mapa"
+  }
+}

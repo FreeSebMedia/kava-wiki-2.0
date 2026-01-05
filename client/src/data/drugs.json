@@ -1,0 +1,432 @@
+{
+  "categories": [
+    {
+      "id": "alcohol",
+      "name": "Alkohol",
+      "nameEn": "Alcohol",
+      "riskLevel": "very_high",
+      "mechanism": "Synergistische Sedierung, additive Hepatotoxizität",
+      "mechanismEn": "Synergistic sedation, additive hepatotoxicity",
+      "cypEnzymes": ["CYP2E1"],
+      "recommendation": "Mindestens 24 Stunden Abstand zwischen Alkohol- und Kava-Konsum einhalten. Die Kombination kann zu verstärkter Sedierung und erhöhtem Leberschädigungsrisiko führen.",
+      "recommendationEn": "Maintain at least 24 hours between alcohol and kava consumption. The combination can lead to enhanced sedation and increased liver damage risk.",
+      "drugs": [
+        { "name": "Ethanol", "nameEn": "Ethanol", "aliases": ["Alkohol", "Bier", "Wein", "Schnaps", "Spirituosen", "Beer", "Wine", "Spirits"] }
+      ]
+    },
+    {
+      "id": "benzodiazepines",
+      "name": "Benzodiazepine & Z-Substanzen",
+      "nameEn": "Benzodiazepines & Z-Drugs",
+      "riskLevel": "very_high",
+      "mechanism": "GABA-Rezeptor-Verstärkung, CYP3A4-Hemmung, Atemdepression",
+      "mechanismEn": "GABA receptor enhancement, CYP3A4 inhibition, respiratory depression",
+      "cypEnzymes": ["CYP3A4"],
+      "recommendation": "Niemals kombinieren! Beide Substanzen wirken auf GABA-Rezeptoren und verstärken sich gegenseitig. Risiko für Atemdepression und übermäßige Sedierung.",
+      "recommendationEn": "Never combine! Both substances act on GABA receptors and potentiate each other. Risk of respiratory depression and excessive sedation.",
+      "drugs": [
+        { "name": "Diazepam", "nameEn": "Diazepam", "aliases": ["Valium", "Faustan"] },
+        { "name": "Lorazepam", "nameEn": "Lorazepam", "aliases": ["Tavor", "Ativan", "Temesta"] },
+        { "name": "Alprazolam", "nameEn": "Alprazolam", "aliases": ["Xanax", "Tafil", "Xanor"] },
+        { "name": "Clonazepam", "nameEn": "Clonazepam", "aliases": ["Rivotril", "Klonopin"] },
+        { "name": "Bromazepam", "nameEn": "Bromazepam", "aliases": ["Lexotanil", "Lexotan"] },
+        { "name": "Oxazepam", "nameEn": "Oxazepam", "aliases": ["Adumbran", "Serax"] },
+        { "name": "Temazepam", "nameEn": "Temazepam", "aliases": ["Planum", "Restoril"] },
+        { "name": "Flunitrazepam", "nameEn": "Flunitrazepam", "aliases": ["Rohypnol"] },
+        { "name": "Zolpidem", "nameEn": "Zolpidem", "aliases": ["Stilnox", "Ambien", "Bikalm"] },
+        { "name": "Zopiclon", "nameEn": "Zopiclone", "aliases": ["Ximovan", "Imovane", "Zimovane"] },
+        { "name": "Zaleplon", "nameEn": "Zaleplon", "aliases": ["Sonata"] }
+      ]
+    },
+    {
+      "id": "antipsychotics",
+      "name": "Antipsychotika",
+      "nameEn": "Antipsychotics",
+      "riskLevel": "high",
+      "mechanism": "CYP1A2/CYP2D6-Hemmung, verstärkte Sedierung, extrapyramidale Symptome",
+      "mechanismEn": "CYP1A2/CYP2D6 inhibition, enhanced sedation, extrapyramidal symptoms",
+      "cypEnzymes": ["CYP1A2", "CYP2D6"],
+      "recommendation": "Kombination vermeiden. Erhöhtes Risiko für Bewegungsstörungen und übermäßige Sedierung. Rücksprache mit Arzt erforderlich.",
+      "recommendationEn": "Avoid combination. Increased risk of movement disorders and excessive sedation. Consult physician.",
+      "drugs": [
+        { "name": "Haloperidol", "nameEn": "Haloperidol", "aliases": ["Haldol"] },
+        { "name": "Risperidon", "nameEn": "Risperidone", "aliases": ["Risperdal"] },
+        { "name": "Olanzapin", "nameEn": "Olanzapine", "aliases": ["Zyprexa"] },
+        { "name": "Quetiapin", "nameEn": "Quetiapine", "aliases": ["Seroquel"] },
+        { "name": "Clozapin", "nameEn": "Clozapine", "aliases": ["Leponex", "Clozaril"] },
+        { "name": "Aripiprazol", "nameEn": "Aripiprazole", "aliases": ["Abilify"] },
+        { "name": "Ziprasidon", "nameEn": "Ziprasidone", "aliases": ["Zeldox", "Geodon"] }
+      ]
+    },
+    {
+      "id": "anticoagulants",
+      "name": "Antikoagulantien",
+      "nameEn": "Anticoagulants",
+      "riskLevel": "high",
+      "mechanism": "CYP2C9-Hemmung, erhöhte INR, Blutungsrisiko",
+      "mechanismEn": "CYP2C9 inhibition, increased INR, bleeding risk",
+      "cypEnzymes": ["CYP2C9"],
+      "recommendation": "Kombination kontraindiziert. Kava hemmt den Abbau von Warfarin, was zu gefährlichen Blutungen führen kann. Regelmäßige INR-Kontrollen erforderlich.",
+      "recommendationEn": "Combination contraindicated. Kava inhibits warfarin metabolism, which can lead to dangerous bleeding. Regular INR monitoring required.",
+      "drugs": [
+        { "name": "Warfarin", "nameEn": "Warfarin", "aliases": ["Coumadin", "Marevan"] },
+        { "name": "Phenprocoumon", "nameEn": "Phenprocoumon", "aliases": ["Marcumar", "Falithrom"] },
+        { "name": "Acenocoumarol", "nameEn": "Acenocoumarol", "aliases": ["Sintrom"] }
+      ]
+    },
+    {
+      "id": "ssris",
+      "name": "SSRIs (Antidepressiva)",
+      "nameEn": "SSRIs (Antidepressants)",
+      "riskLevel": "moderate",
+      "mechanism": "CYP2D6-Hemmung, theoretisches Serotonin-Syndrom-Risiko",
+      "mechanismEn": "CYP2D6 inhibition, theoretical serotonin syndrome risk",
+      "cypEnzymes": ["CYP2D6"],
+      "recommendation": "Vorsicht geboten. Mögliche Verstärkung der Sedierung. Rücksprache mit Arzt empfohlen, besonders bei Dosisänderungen.",
+      "recommendationEn": "Caution advised. Possible enhancement of sedation. Consult physician, especially with dose changes.",
+      "drugs": [
+        { "name": "Fluoxetin", "nameEn": "Fluoxetine", "aliases": ["Prozac", "Fluctin"] },
+        { "name": "Sertralin", "nameEn": "Sertraline", "aliases": ["Zoloft", "Gladem"] },
+        { "name": "Paroxetin", "nameEn": "Paroxetine", "aliases": ["Paxil", "Seroxat", "Tagonis"] },
+        { "name": "Citalopram", "nameEn": "Citalopram", "aliases": ["Cipramil"] },
+        { "name": "Escitalopram", "nameEn": "Escitalopram", "aliases": ["Cipralex", "Lexapro"] },
+        { "name": "Fluvoxamin", "nameEn": "Fluvoxamine", "aliases": ["Fevarin", "Luvox"] }
+      ]
+    },
+    {
+      "id": "snris",
+      "name": "SNRIs (Antidepressiva)",
+      "nameEn": "SNRIs (Antidepressants)",
+      "riskLevel": "moderate",
+      "mechanism": "CYP2D6-Hemmung, verstärkte Sedierung möglich",
+      "mechanismEn": "CYP2D6 inhibition, enhanced sedation possible",
+      "cypEnzymes": ["CYP2D6"],
+      "recommendation": "Vorsicht geboten. Ähnliche Interaktionen wie bei SSRIs. Ärztliche Rücksprache empfohlen.",
+      "recommendationEn": "Caution advised. Similar interactions as with SSRIs. Medical consultation recommended.",
+      "drugs": [
+        { "name": "Venlafaxin", "nameEn": "Venlafaxine", "aliases": ["Effexor", "Trevilor"] },
+        { "name": "Duloxetin", "nameEn": "Duloxetine", "aliases": ["Cymbalta"] },
+        { "name": "Milnacipran", "nameEn": "Milnacipran", "aliases": ["Ixel", "Savella"] }
+      ]
+    },
+    {
+      "id": "tricyclics",
+      "name": "Trizyklische Antidepressiva",
+      "nameEn": "Tricyclic Antidepressants",
+      "riskLevel": "moderate",
+      "mechanism": "CYP2D6-Hemmung, verstärkte Sedierung, anticholinerge Effekte",
+      "mechanismEn": "CYP2D6 inhibition, enhanced sedation, anticholinergic effects",
+      "cypEnzymes": ["CYP2D6"],
+      "recommendation": "Kombination mit Vorsicht. Verstärkte sedierende Wirkung möglich. Ärztliche Überwachung empfohlen.",
+      "recommendationEn": "Combine with caution. Enhanced sedative effects possible. Medical supervision recommended.",
+      "drugs": [
+        { "name": "Amitriptylin", "nameEn": "Amitriptyline", "aliases": ["Saroten", "Elavil"] },
+        { "name": "Imipramin", "nameEn": "Imipramine", "aliases": ["Tofranil"] },
+        { "name": "Clomipramin", "nameEn": "Clomipramine", "aliases": ["Anafranil"] },
+        { "name": "Doxepin", "nameEn": "Doxepin", "aliases": ["Aponal", "Sinequan"] },
+        { "name": "Trimipramin", "nameEn": "Trimipramine", "aliases": ["Stangyl"] }
+      ]
+    },
+    {
+      "id": "anticonvulsants",
+      "name": "Antikonvulsiva",
+      "nameEn": "Anticonvulsants",
+      "riskLevel": "moderate",
+      "mechanism": "CYP-Interaktionen, verstärkte Sedierung, veränderte Blutspiegel",
+      "mechanismEn": "CYP interactions, enhanced sedation, altered blood levels",
+      "cypEnzymes": ["CYP3A4", "CYP2C9"],
+      "recommendation": "Vorsicht bei Epilepsie. Mögliche Veränderung der Medikamentenspiegel. Nur unter ärztlicher Aufsicht.",
+      "recommendationEn": "Caution with epilepsy. Possible alteration of medication levels. Only under medical supervision.",
+      "drugs": [
+        { "name": "Phenytoin", "nameEn": "Phenytoin", "aliases": ["Dilantin", "Phenhydan"] },
+        { "name": "Carbamazepin", "nameEn": "Carbamazepine", "aliases": ["Tegretol", "Tegretal"] },
+        { "name": "Valproat", "nameEn": "Valproate", "aliases": ["Depakine", "Ergenyl", "Valproinsäure"] },
+        { "name": "Lamotrigin", "nameEn": "Lamotrigine", "aliases": ["Lamictal"] },
+        { "name": "Levetiracetam", "nameEn": "Levetiracetam", "aliases": ["Keppra"] },
+        { "name": "Topiramat", "nameEn": "Topiramate", "aliases": ["Topamax"] },
+        { "name": "Gabapentin", "nameEn": "Gabapentin", "aliases": ["Neurontin"] },
+        { "name": "Pregabalin", "nameEn": "Pregabalin", "aliases": ["Lyrica"] }
+      ]
+    },
+    {
+      "id": "parkinson",
+      "name": "Parkinson-Medikamente",
+      "nameEn": "Parkinson Medications",
+      "riskLevel": "moderate",
+      "mechanism": "Dopamin-Antagonismus, mögliche Abschwächung der Wirkung",
+      "mechanismEn": "Dopamine antagonism, possible weakening of effect",
+      "cypEnzymes": [],
+      "recommendation": "Kombination vermeiden. Kava kann die Wirkung von Parkinson-Medikamenten abschwächen. Bei Parkinson-Erkrankung ist Kava kontraindiziert.",
+      "recommendationEn": "Avoid combination. Kava may weaken the effect of Parkinson medications. Kava is contraindicated in Parkinson's disease.",
+      "drugs": [
+        { "name": "Levodopa", "nameEn": "Levodopa", "aliases": ["L-Dopa", "Madopar", "Sinemet"] },
+        { "name": "Pramipexol", "nameEn": "Pramipexole", "aliases": ["Sifrol", "Mirapex"] },
+        { "name": "Ropinirol", "nameEn": "Ropinirole", "aliases": ["Requip"] },
+        { "name": "Rotigotin", "nameEn": "Rotigotine", "aliases": ["Neupro"] },
+        { "name": "Rasagilin", "nameEn": "Rasagiline", "aliases": ["Azilect"] },
+        { "name": "Selegilin", "nameEn": "Selegiline", "aliases": ["Eldepryl", "Jumex"] }
+      ]
+    },
+    {
+      "id": "statins",
+      "name": "Statine",
+      "nameEn": "Statins",
+      "riskLevel": "moderate",
+      "mechanism": "CYP3A4-Hemmung, erhöhtes Myopathie-Risiko, additive Hepatotoxizität",
+      "mechanismEn": "CYP3A4 inhibition, increased myopathy risk, additive hepatotoxicity",
+      "cypEnzymes": ["CYP3A4"],
+      "recommendation": "Vorsicht geboten. Erhöhte Statin-Spiegel möglich. Auf Muskelschmerzen achten. Leberwerte kontrollieren.",
+      "recommendationEn": "Caution advised. Increased statin levels possible. Watch for muscle pain. Monitor liver values.",
+      "drugs": [
+        { "name": "Atorvastatin", "nameEn": "Atorvastatin", "aliases": ["Sortis", "Lipitor"] },
+        { "name": "Simvastatin", "nameEn": "Simvastatin", "aliases": ["Zocor", "Simvahexal"] },
+        { "name": "Lovastatin", "nameEn": "Lovastatin", "aliases": ["Mevacor"] },
+        { "name": "Rosuvastatin", "nameEn": "Rosuvastatin", "aliases": ["Crestor"] },
+        { "name": "Pravastatin", "nameEn": "Pravastatin", "aliases": ["Pravachol", "Pravasin"] },
+        { "name": "Fluvastatin", "nameEn": "Fluvastatin", "aliases": ["Lescol"] }
+      ]
+    },
+    {
+      "id": "opioids",
+      "name": "Opioide",
+      "nameEn": "Opioids",
+      "riskLevel": "moderate",
+      "mechanism": "CYP2D6-Hemmung, verstärkte Sedierung, Atemdepression",
+      "mechanismEn": "CYP2D6 inhibition, enhanced sedation, respiratory depression",
+      "cypEnzymes": ["CYP2D6", "CYP3A4"],
+      "recommendation": "Kombination mit Vorsicht. Verstärkte sedierende Wirkung und Atemdepression möglich. Nur unter ärztlicher Aufsicht.",
+      "recommendationEn": "Combine with caution. Enhanced sedation and respiratory depression possible. Only under medical supervision.",
+      "drugs": [
+        { "name": "Codein", "nameEn": "Codeine", "aliases": ["Codicompren"] },
+        { "name": "Tramadol", "nameEn": "Tramadol", "aliases": ["Tramal", "Ultram"] },
+        { "name": "Morphin", "nameEn": "Morphine", "aliases": ["MST", "Oramorph"] },
+        { "name": "Oxycodon", "nameEn": "Oxycodone", "aliases": ["Oxygesic", "OxyContin"] },
+        { "name": "Fentanyl", "nameEn": "Fentanyl", "aliases": ["Durogesic", "Actiq"] },
+        { "name": "Tilidin", "nameEn": "Tilidine", "aliases": ["Valoron"] },
+        { "name": "Dihydrocodein", "nameEn": "Dihydrocodeine", "aliases": ["DHC", "Paracodin"] }
+      ]
+    },
+    {
+      "id": "hepatotoxic",
+      "name": "Hepatotoxische Medikamente",
+      "nameEn": "Hepatotoxic Medications",
+      "riskLevel": "moderate",
+      "mechanism": "Additive Leberbelastung, erhöhtes Hepatotoxizitätsrisiko",
+      "mechanismEn": "Additive liver burden, increased hepatotoxicity risk",
+      "cypEnzymes": [],
+      "recommendation": "Kombination mit Vorsicht. Regelmäßige Leberwertkontrollen empfohlen. Bei bestehender Lebererkrankung kontraindiziert.",
+      "recommendationEn": "Combine with caution. Regular liver value monitoring recommended. Contraindicated with existing liver disease.",
+      "drugs": [
+        { "name": "Paracetamol", "nameEn": "Acetaminophen", "aliases": ["Acetaminophen", "Tylenol", "Ben-u-ron", "Panadol"] },
+        { "name": "Methotrexat", "nameEn": "Methotrexate", "aliases": ["MTX", "Lantarel"] },
+        { "name": "Isoniazid", "nameEn": "Isoniazid", "aliases": ["INH", "Isozid"] },
+        { "name": "Amiodaron", "nameEn": "Amiodarone", "aliases": ["Cordarex", "Cordarone"] }
+      ]
+    },
+    {
+      "id": "caffeine",
+      "name": "Koffein",
+      "nameEn": "Caffeine",
+      "riskLevel": "low",
+      "mechanism": "CYP1A2-Hemmung, verlängerte Koffeinwirkung",
+      "mechanismEn": "CYP1A2 inhibition, prolonged caffeine effect",
+      "cypEnzymes": ["CYP1A2"],
+      "recommendation": "Geringe Interaktion. Koffein kann länger wirken. Bei Schlafproblemen Koffein reduzieren.",
+      "recommendationEn": "Minor interaction. Caffeine may have prolonged effect. Reduce caffeine if experiencing sleep problems.",
+      "drugs": [
+        { "name": "Koffein", "nameEn": "Caffeine", "aliases": ["Kaffee", "Coffee", "Tee", "Tea", "Energy Drinks", "Cola", "Guarana"] }
+      ]
+    },
+    {
+      "id": "nsaids",
+      "name": "NSAIDs (Schmerzmittel)",
+      "nameEn": "NSAIDs (Pain Relievers)",
+      "riskLevel": "low",
+      "mechanism": "Keine direkte Interaktion bekannt, theoretische GI-Belastung",
+      "mechanismEn": "No direct interaction known, theoretical GI burden",
+      "cypEnzymes": [],
+      "recommendation": "Geringe Interaktion. Bei regelmäßiger Einnahme auf Magenbeschwerden achten.",
+      "recommendationEn": "Minor interaction. Watch for stomach discomfort with regular use.",
+      "drugs": [
+        { "name": "Ibuprofen", "nameEn": "Ibuprofen", "aliases": ["Advil", "Motrin", "Nurofen", "Dolormin"] },
+        { "name": "Naproxen", "nameEn": "Naproxen", "aliases": ["Aleve", "Naprosyn", "Dolormin"] },
+        { "name": "Diclofenac", "nameEn": "Diclofenac", "aliases": ["Voltaren", "Diclac"] },
+        { "name": "Aspirin", "nameEn": "Aspirin", "aliases": ["ASS", "Acetylsalicylsäure", "Acetylsalicylic acid"] }
+      ]
+    },
+    {
+      "id": "proton_pump",
+      "name": "Protonenpumpenhemmer",
+      "nameEn": "Proton Pump Inhibitors",
+      "riskLevel": "low",
+      "mechanism": "CYP2C19-Interaktion möglich, klinisch meist unbedeutend",
+      "mechanismEn": "CYP2C19 interaction possible, clinically usually insignificant",
+      "cypEnzymes": ["CYP2C19"],
+      "recommendation": "Geringe Interaktion. Keine besonderen Vorsichtsmaßnahmen erforderlich.",
+      "recommendationEn": "Minor interaction. No special precautions required.",
+      "drugs": [
+        { "name": "Omeprazol", "nameEn": "Omeprazole", "aliases": ["Prilosec", "Antra"] },
+        { "name": "Pantoprazol", "nameEn": "Pantoprazole", "aliases": ["Protonix", "Pantozol"] },
+        { "name": "Esomeprazol", "nameEn": "Esomeprazole", "aliases": ["Nexium"] },
+        { "name": "Lansoprazol", "nameEn": "Lansoprazole", "aliases": ["Prevacid", "Agopton"] }
+      ]
+    },
+    {
+      "id": "antihistamines",
+      "name": "Antihistaminika (sedierend)",
+      "nameEn": "Antihistamines (sedating)",
+      "riskLevel": "moderate",
+      "mechanism": "Verstärkte Sedierung durch additive ZNS-Dämpfung",
+      "mechanismEn": "Enhanced sedation through additive CNS depression",
+      "cypEnzymes": [],
+      "recommendation": "Vorsicht bei sedierenden Antihistaminika. Verstärkte Müdigkeit möglich. Nicht-sedierende Alternativen bevorzugen.",
+      "recommendationEn": "Caution with sedating antihistamines. Enhanced drowsiness possible. Prefer non-sedating alternatives.",
+      "drugs": [
+        { "name": "Diphenhydramin", "nameEn": "Diphenhydramine", "aliases": ["Benadryl", "Emesan", "Vivinox"] },
+        { "name": "Doxylamin", "nameEn": "Doxylamine", "aliases": ["Hoggar Night", "Unisom"] },
+        { "name": "Promethazin", "nameEn": "Promethazine", "aliases": ["Atosil", "Phenergan"] },
+        { "name": "Hydroxyzin", "nameEn": "Hydroxyzine", "aliases": ["Atarax", "Vistaril"] }
+      ]
+    },
+    {
+      "id": "beta_blockers",
+      "name": "Betablocker",
+      "nameEn": "Beta Blockers",
+      "riskLevel": "low",
+      "mechanism": "Keine direkte Interaktion bekannt",
+      "mechanismEn": "No direct interaction known",
+      "cypEnzymes": [],
+      "recommendation": "Keine bekannte Interaktion. Normale Anwendung möglich.",
+      "recommendationEn": "No known interaction. Normal use possible.",
+      "drugs": [
+        { "name": "Metoprolol", "nameEn": "Metoprolol", "aliases": ["Beloc", "Lopressor"] },
+        { "name": "Bisoprolol", "nameEn": "Bisoprolol", "aliases": ["Concor"] },
+        { "name": "Propranolol", "nameEn": "Propranolol", "aliases": ["Inderal", "Dociton"] },
+        { "name": "Atenolol", "nameEn": "Atenolol", "aliases": ["Tenormin"] },
+        { "name": "Carvedilol", "nameEn": "Carvedilol", "aliases": ["Dilatrend", "Coreg"] }
+      ]
+    },
+    {
+      "id": "ace_inhibitors",
+      "name": "ACE-Hemmer",
+      "nameEn": "ACE Inhibitors",
+      "riskLevel": "low",
+      "mechanism": "Keine direkte Interaktion bekannt",
+      "mechanismEn": "No direct interaction known",
+      "cypEnzymes": [],
+      "recommendation": "Keine bekannte Interaktion. Normale Anwendung möglich.",
+      "recommendationEn": "No known interaction. Normal use possible.",
+      "drugs": [
+        { "name": "Ramipril", "nameEn": "Ramipril", "aliases": ["Delix", "Altace"] },
+        { "name": "Enalapril", "nameEn": "Enalapril", "aliases": ["Xanef", "Vasotec"] },
+        { "name": "Lisinopril", "nameEn": "Lisinopril", "aliases": ["Acerbon", "Zestril"] },
+        { "name": "Captopril", "nameEn": "Captopril", "aliases": ["Lopirin", "Capoten"] }
+      ]
+    },
+    {
+      "id": "thyroid",
+      "name": "Schilddrüsenmedikamente",
+      "nameEn": "Thyroid Medications",
+      "riskLevel": "low",
+      "mechanism": "Keine direkte Interaktion bekannt",
+      "mechanismEn": "No direct interaction known",
+      "cypEnzymes": [],
+      "recommendation": "Keine bekannte Interaktion. Normale Anwendung möglich.",
+      "recommendationEn": "No known interaction. Normal use possible.",
+      "drugs": [
+        { "name": "Levothyroxin", "nameEn": "Levothyroxine", "aliases": ["L-Thyroxin", "Euthyrox", "Synthroid"] },
+        { "name": "Liothyronin", "nameEn": "Liothyronine", "aliases": ["Thybon", "Cytomel"] }
+      ]
+    },
+    {
+      "id": "diabetes",
+      "name": "Diabetes-Medikamente",
+      "nameEn": "Diabetes Medications",
+      "riskLevel": "low",
+      "mechanism": "Keine direkte Interaktion bekannt",
+      "mechanismEn": "No direct interaction known",
+      "cypEnzymes": [],
+      "recommendation": "Keine bekannte Interaktion. Blutzucker wie gewohnt kontrollieren.",
+      "recommendationEn": "No known interaction. Monitor blood sugar as usual.",
+      "drugs": [
+        { "name": "Metformin", "nameEn": "Metformin", "aliases": ["Glucophage", "Siofor"] },
+        { "name": "Glibenclamid", "nameEn": "Glyburide", "aliases": ["Euglucon", "Diabeta"] },
+        { "name": "Sitagliptin", "nameEn": "Sitagliptin", "aliases": ["Januvia"] },
+        { "name": "Empagliflozin", "nameEn": "Empagliflozin", "aliases": ["Jardiance"] }
+      ]
+    },
+    {
+      "id": "contraceptives",
+      "name": "Hormonelle Verhütungsmittel",
+      "nameEn": "Hormonal Contraceptives",
+      "riskLevel": "low",
+      "mechanism": "Theoretische CYP3A4-Interaktion, klinisch unbedeutend",
+      "mechanismEn": "Theoretical CYP3A4 interaction, clinically insignificant",
+      "cypEnzymes": ["CYP3A4"],
+      "recommendation": "Geringe Interaktion. Keine Beeinträchtigung der Verhütungswirkung bekannt.",
+      "recommendationEn": "Minor interaction. No impairment of contraceptive effect known.",
+      "drugs": [
+        { "name": "Ethinylestradiol", "nameEn": "Ethinyl estradiol", "aliases": ["Pille", "Birth control pill"] },
+        { "name": "Levonorgestrel", "nameEn": "Levonorgestrel", "aliases": ["Mirena", "Plan B"] },
+        { "name": "Drospirenon", "nameEn": "Drospirenone", "aliases": ["Yasmin", "Yaz"] }
+      ]
+    },
+    {
+      "id": "cannabinoids",
+      "name": "Cannabinoide",
+      "nameEn": "Cannabinoids",
+      "riskLevel": "high",
+      "mechanism": "Verstärkte ZNS-Dämpfung, additive Sedierung, CYP3A4/CYP2C9-Interaktion",
+      "mechanismEn": "Enhanced CNS depression, additive sedation, CYP3A4/CYP2C9 interaction",
+      "cypEnzymes": ["CYP3A4", "CYP2C9", "CYP2C19"],
+      "recommendation": "Kombination mit Vorsicht. Beide Substanzen wirken sedierend und können sich gegenseitig verstärken. THC kann Angstzustände verstärken, während Kava diese reduziert – unvorhersehbare Effekte möglich. CBD hemmt CYP-Enzyme und kann Kavalacton-Spiegel erhöhen.",
+      "recommendationEn": "Combine with caution. Both substances have sedating effects and can potentiate each other. THC may increase anxiety while kava reduces it – unpredictable effects possible. CBD inhibits CYP enzymes and may increase kavalactone levels.",
+      "drugs": [
+        { "name": "THC", "nameEn": "THC", "aliases": ["Tetrahydrocannabinol", "Delta-9-THC", "Delta-9-Tetrahydrocannabinol", "Cannabis", "Cannabis sativa", "Marihuana", "Marijuana", "Hanf", "Gras", "Weed", "Dronabinol", "Marinol"] },
+        { "name": "CBD", "nameEn": "CBD", "aliases": ["Cannabidiol", "Cannabis sativa", "Hanf", "Hemp", "CBD-Öl", "CBD Oil", "Epidiolex"] }
+      ]
+    }
+  ],
+  "riskLevels": {
+    "very_high": {
+      "label": "SEHR HOCH",
+      "labelEn": "VERY HIGH",
+      "color": "bg-destructive",
+      "textColor": "text-destructive-foreground",
+      "description": "Kombination strikt vermeiden. Potenziell lebensbedrohliche Wechselwirkungen möglich.",
+      "descriptionEn": "Strictly avoid combination. Potentially life-threatening interactions possible."
+    },
+    "high": {
+      "label": "HOCH",
+      "labelEn": "HIGH",
+      "color": "bg-destructive",
+      "textColor": "text-destructive-foreground",
+      "description": "Kombination vermeiden. Erhebliche Risiken für die Gesundheit.",
+      "descriptionEn": "Avoid combination. Significant health risks."
+    },
+    "moderate": {
+      "label": "MODERAT",
+      "labelEn": "MODERATE",
+      "color": "bg-amber-500",
+      "textColor": "text-white",
+      "description": "Vorsicht geboten. Nur nach Rücksprache mit einem Arzt.",
+      "descriptionEn": "Caution advised. Only after consulting a physician."
+    },
+    "low": {
+      "label": "GERING",
+      "labelEn": "LOW",
+      "color": "bg-primary/20",
+      "textColor": "text-primary",
+      "description": "Geringe Interaktion. Normale Anwendung in der Regel möglich.",
+      "descriptionEn": "Minor interaction. Normal use generally possible."
+    },
+    "none": {
+      "label": "KEINE",
+      "labelEn": "NONE",
+      "color": "bg-green-500/20",
+      "textColor": "text-green-700",
+      "description": "Keine bekannte Interaktion mit Kava.",
+      "descriptionEn": "No known interaction with kava."
+    }
+  }
+}

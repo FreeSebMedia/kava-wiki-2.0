@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Pěstování & Ekologie",
+    "subtitle": "Podmínky růstu, metody rozmnožování a umění tradičního pěstování Kavy.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "current": "Pěstování & Ekologie"
+  },
+  "toc": {
+    "vermehrung": "Vegetativní rozmnožování",
+    "stecklinge": "Získávání řízků",
+    "klima": "Klimatické požadavky",
+    "boden": "Půdní vlastnosti",
+    "pflege": "Údržba & Růst",
+    "ernte": "Sklizeň & Doba zralosti",
+    "qualitaet": "Faktory kvality",
+    "anbauregionen": "Hlavní pěstební oblasti"
+  },
+  "intro": {
+    "paragraph1": "Pěstování Kavy je umění, které se předává z generace na generaci po tisíciletí. Protože <em>Piper methysticum</em> je sterilní a nevytváří semena, je rostlina zcela závislá na člověku. Tato jedinečná závislost vedla k hlubokému kulturnímu spojení mezi pacifickými národy a jejich posvátnou rostlinou."
+  },
+  "vermehrung": {
+    "title": "Vegetativní rozmnožování",
+    "paragraph1": "Rozmnožování Kavy probíhá výhradně <strong>vegetativně pomocí řízků</strong>. To je přímý důsledek sterility rostliny – vlastnosti, která vznikla dlouhodobou domestikací.",
+    "advantages": {
+      "title": "Výhody vegetativního rozmnožování",
+      "items": [
+        "Genetická identita s mateřskou rostlinou",
+        "Zachování osvědčených vlastností odrůdy",
+        "Předvídatelný chemotypový profil",
+        "Rychlejší růst než ze semen",
+        "Osvědčená kvalita po generace"
+      ]
+    },
+    "challenges": {
+      "title": "Výzvy",
+      "items": [
+        "Žádná genetická variabilita",
+        "Náchylnost k nemocem (klony)",
+        "Závislost na mateřských rostlinách",
+        "Omezená rychlost šíření",
+        "Riziko ztráty odrůdy"
+      ]
+    },
+    "stecklinge": {
+      "title": "Získávání řízků & Výsadba",
+      "paragraph1": "Tradiční metoda získávání řízků následuje osvědčený proces:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Výběr",
+          "description": "Zdravé stonkové úseky s 2-3 uzly z osvědčené mateřské rostliny"
+        },
+        {
+          "number": "2",
+          "title": "Řez",
+          "description": "Čistý řez pod uzlem, délka cca 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Příprava",
+          "description": "Odstranění spodních listů, krátké oschnutí řezu"
+        },
+        {
+          "number": "4",
+          "title": "Výsadba",
+          "description": "Zasazení do volné, vlhké půdy ve stínu, pravidelné zalévání"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Klimatické požadavky",
+    "paragraph1": "Kava je <strong>tropická rostlina</strong> se specifickými klimatickými požadavky. Roste pouze v relativně úzkém rozmezí environmentálních podmínek.",
+    "table": {
+      "headers": {
+        "parameter": "Parametr",
+        "optimal": "Optimální rozmezí",
+        "tolerance": "Tolerance",
+        "note": "Poznámka"
+      },
+      "rows": [
+        {
+          "parameter": "Teplota",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Nesnáší mráz"
+        },
+        {
+          "parameter": "Srážky",
+          "optimal": "2.000-3.000 mm/rok",
+          "tolerance": "1.500-4.000 mm/rok",
+          "note": "Rovnoměrně rozloženo"
+        },
+        {
+          "parameter": "Vlhkost vzduchu",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Preferuje vysokou vlhkost"
+        },
+        {
+          "parameter": "Nadmořská výška",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Preferuje nížiny"
+        },
+        {
+          "parameter": "Sluneční světlo",
+          "optimal": "Polostín",
+          "tolerance": "30-70% stínu",
+          "note": "Mladé rostliny: více stínu"
+        }
+      ]
+    },
+    "alert": "<strong>Potřeba stínu:</strong> Mladé rostliny Kavy (0-2 roky) potřebují přibližně 70-80% stínu. S věkem mohou snášet více slunečního světla, ale stále profitují z částečného stínu."
+  },
+  "boden": {
+    "title": "Půdní vlastnosti",
+    "paragraph1": "Půdní vlastnosti jsou jedním z nejkritičtějších faktorů pro úspěšné pěstování Kavy. Rostlina klade vysoké nároky na odvodnění a obsah živin.",
+    "ideal": {
+      "title": "Ideální půdní vlastnosti",
+      "items": [
+        {
+          "label": "Struktura:",
+          "value": "Volná, drobivá, dobře provzdušněná"
+        },
+        {
+          "label": "Odvodnění:",
+          "value": "Excelentní – stojatá voda rychle vede k hnilobě kořenů"
+        },
+        {
+          "label": "pH:",
+          "value": "Lehce kyselé až neutrální (5,5-6,5)"
+        },
+        {
+          "label": "Organický obsah:",
+          "value": "Vysoký, bohatý na humus"
+        },
+        {
+          "label": "Hloubka:",
+          "value": "Minimálně 60 cm pro vývoj kořenů"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Vyhnout se",
+      "items": [
+        {
+          "label": "Zhutnělé půdy:",
+          "value": "Brání růstu kořenů"
+        },
+        {
+          "label": "Stojatá voda:",
+          "value": "Vede k hnilobě kořenů a plísňovým infekcím"
+        },
+        {
+          "label": "Těžké jílovité půdy:",
+          "value": "Špatné odvodnění"
+        },
+        {
+          "label": "Slané půdy:",
+          "value": "Kava je citlivá na sůl"
+        },
+        {
+          "label": "Chudé půdy na živiny:",
+          "value": "Snižují obsah kavalaktonů"
+        }
+      ]
+    },
+    "paragraph2": "V tradičních pěstebních oblastech se často preferují <strong>vulkanické půdy</strong>. Ty nabízejí ideální kombinaci odvodnění, obsahu minerálů a struktury. Na Vanuatu a Fidži se Kava často pěstuje na mírně svažitých svazích, aby se zajistilo přirozené odvodnění."
+  },
+  "pflege": {
+    "title": "Údržba & Růst",
+    "paragraph1": "Kava je relativně nenáročná rostlina, jakmile se ustálí. Hlavní údržbové činnosti se soustředí na prvních dva roky.",
+    "table": {
+      "headers": {
+        "phase": "Růstová fáze",
+        "period": "Období",
+        "tasks": "Hlavní úkoly",
+        "notes": "Zvláštnosti"
+      },
+      "rows": [
+        {
+          "phase": "Ustálení",
+          "period": "0-6 měsíců",
+          "tasks": "Pravidelné zalévání, zajištění stínu",
+          "notes": "Nejkritičtější fáze"
+        },
+        {
+          "phase": "Mladá fáze",
+          "period": "6-18 měsíců",
+          "tasks": "Kontrola plevele, mulčování, případné hnojení",
+          "notes": "Rychlý růst"
+        },
+        {
+          "phase": "Zralá fáze",
+          "period": "18-36 měsíců",
+          "tasks": "Minimální údržba, kontrola škůdců",
+          "notes": "Vývoj kořenů"
+        },
+        {
+          "phase": "Zralost pro sklizeň",
+          "period": "3-5+ let",
+          "tasks": "Hodnocení kvality, příprava na sklizeň",
+          "notes": "Optimální potenciál"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Sklizeň & Doba zralosti",
+    "paragraph1": "Doba sklizně je rozhodující pro kvalitu konečného produktu. Jedno z nejdůležitějších pravidel v pěstování Kavy zní: <strong>Čím starší rostlina, tím silnější a vyváženější je účinkový profil.</strong>",
+    "qualitaet": {
+      "title": "Faktory kvality při sklizni",
+      "table": {
+        "headers": {
+          "age": "Věk při sklizni",
+          "content": "Obsah kavalaktonů",
+          "quality": "Kvalitní úroveň",
+          "usage": "Použití"
+        },
+        "rows": [
+          {
+            "age": "< 2 roky",
+            "content": "Nízký (3-5%)",
+            "quality": "Nedozrálý",
+            "qualityColor": "red",
+            "usage": "Nedoporučuje se"
+          },
+          {
+            "age": "2-3 roky",
+            "content": "Střední (5-10%)",
+            "quality": "Akceptovatelné",
+            "qualityColor": "yellow",
+            "usage": "Jednoduché produkty"
+          },
+          {
+            "age": "3-5 roky",
+            "content": "Vysoký (10-15%)",
+            "quality": "Dobrý",
+            "qualityColor": "green",
+            "usage": "Standardní kvalita"
+          },
+          {
+            "age": "5-7 roky",
+            "content": "Velmi vysoký (15-20%)",
+            "quality": "Prémiový",
+            "qualityColor": "blue",
+            "usage": "Vysoce kvalitní produkty"
+          },
+          {
+            "age": "> 7 roky",
+            "content": "Maximální (18-25%)",
+            "quality": "Výjimečný",
+            "qualityColor": "purple",
+            "usage": "Ceremonální použití"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Pro vysokou kvalitu ('Noble Kava') musí rostlina růst minimálně 3 až 5 let. Čím starší rostlina, tím silnější a vyváženější je obvykle účinkový profil.",
+      "author": "Sebastian Freidank, \"Kava – Kořen klidu\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Hlavní pěstební oblasti",
+    "paragraph1": "Kava se dnes pěstuje v pásu tropických ostrovů v Tichém oceánu. Každý region vyvinul své vlastní odrůdy, tradice a kvalitativní charakteristiky.",
+    "table": {
+      "headers": {
+        "region": "Region",
+        "varieties": "Známé odrůdy",
+        "characteristics": "Zvláštnosti",
+        "production": "Výroba"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Největší rozmanitost odrůd (80+ kultivarů)",
+          "production": "Největší producent na světě",
+          "highlight": true
+        },
+        {
+          "region": "Fidži",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Známé pro \"Waka\" (prémiové kořeny)",
+          "production": "Druhý největší producent"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Velmi jemné, \"krémové\" Kavy",
+          "production": "Střední výroba"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Tradiční ceremonie",
+          "production": "Místní spotřeba"
+        },
+        {
+          "region": "Havaj",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Obnova tradičních odrůd",
+          "production": "Rostoucí"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Odrůdy Sakau",
+          "characteristics": "Čerstvý kava džus (\"Sakau\")",
+          "production": "Místní spotřeba"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> je považováno za domovinu kultivované Kavy a dodnes hostí největší genetickou rozmanitost. Odtud byla rostlina rozšířena polynéskými námořníky po celém Tichém oceánu – jako jedna z nejdůležitějších \"Canoe Plants\", které byly přenášeny při každém osídlení nových ostrovů."
+  },
+  "navigation": {
+    "nextCategory": "Pokračovat na další kategorii:",
+    "nextTitle": "Historie & Původy",
+    "nextSubtitle": "3000letá cesta Kavy přes Tichý oceán"
+  }
+}

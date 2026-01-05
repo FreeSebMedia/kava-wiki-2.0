@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Kalkulátor dávkování",
+    "subtitle": "Vypočítejte svou optimální dávku Kavy na základě odrůdy, zkušeností a metody přípravy.",
+    "category": "Příprava"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "zubereitung": "Příprava",
+    "current": "Kalkulátor dávkování"
+  },
+  "toc": {
+    "title": "Obsah",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Kalkulátor dávkování",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Vaše doporučení",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Důležité poznámky",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Faktory ovlivňující",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Vyberte odrůdu Kavy",
+    "selectStrainPlaceholder": "-- Vyberte odrůdu --",
+    "potency": "Síla",
+    "experienceLevel": "Úroveň zkušeností",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Začátečník",
+        "desc": "První týdny"
+      },
+      "regular": {
+        "label": "Pravidelný",
+        "desc": "Několik měsíců"
+      },
+      "experienced": {
+        "label": "Zkušený",
+        "desc": "1+ roky"
+      }
+    },
+    "prepMethod": "Metoda přípravy",
+    "methods": {
+      "traditional": {
+        "label": "Tradiční",
+        "desc": "Hnětení"
+      },
+      "blender": {
+        "label": "Mixér",
+        "desc": "Mixér"
+      },
+      "instant": {
+        "label": "Instantní",
+        "desc": "Mikronizovaný"
+      }
+    },
+    "bodyWeight": "Tělesná hmotnost",
+    "kg": "kg",
+    "calculate": "Vypočítat dávku",
+    "instantPowder": "Instantní prášek",
+    "mediumGrind": "Prášek střední mletí",
+    "water": "Voda",
+    "kavalactones": "Kavalaktóny (odhadem)",
+    "prepTime": "Čas přípravy",
+    "min": "Min",
+    "toPrepGuide": "K příručce k přípravě"
+  },
+  "results": {
+    "title": "Vaše osobní doporučení",
+    "bestTime": {
+      "title": "Nejlepší čas k užití",
+      "heady": "Ve dne, na společenské akce nebo kreativní aktivity",
+      "heavy": "Večer, k relaxaci nebo před spaním",
+      "balanced": "Flexibilní, vhodné kdykoliv během dne"
+    },
+    "tip": {
+      "title": "Tip pro tuto odrůdu",
+      "default": "Užívejte tuto odrůdu na lačný žaludek pro nejlepší účinek."
+    }
+  },
+  "notes": {
+    "title": "Důležité poznámky",
+    "safety": {
+      "title": "Obecné bezpečnostní pokyny",
+      "items": [
+        "Vždy pijte Kavu na <strong>lačný žaludek</strong> (3-4 hodiny po jídle)",
+        "Začněte s <strong>nižší dávkou</strong> a pomalu zvyšujte",
+        "<strong>Reverzní tolerance:</strong> První užití může mít slabší účinek",
+        "Kavu <strong>nikdy nekombinujte s alkoholem</strong> nebo léky",
+        "Při onemocnění jater nebo těhotenství: <strong>Žádná Kava</strong>"
+      ]
+    },
+    "about": {
+      "title": "O tomto kalkulátoru",
+      "text": "Vypočítané hodnoty jsou <strong>orientační</strong> na základě průměrného obsahu kavalaktónů a zkušeností. Skutečný účinek se může lišit v závislosti na individuální citlivosti, šarži a výrobci."
+    }
+  },
+  "factors": {
+    "title": "Faktory ovlivňující dávkování",
+    "items": [
+      {
+        "title": "Síla odrůdy",
+        "text": "Různé odrůdy mají různé obsahy kavalaktónů. Odrůda s 5 hvězdičkami jako Loa Waka vyžaduje méně prášku než mírnější odrůda s 3 hvězdičkami jako Pouni Ono."
+      },
+      {
+        "title": "Tělesná hmotnost",
+        "text": "Těžší osoby obvykle potřebují více Kavy pro stejný účinek. Kalkulátor odpovídajícím způsobem upraví doporučení."
+      },
+      {
+        "title": "Metoda přípravy",
+        "text": "Instantní/mikronizovaná Kava je koncentrovanější než prášek střední mletí. Metoda mixéru extrahuje o něco efektivněji než tradiční hnětení."
+      },
+      {
+        "title": "Úroveň zkušeností",
+        "text": "Díky \"reverzní toleranci\" často potřebují zkušení uživatelé méně Kavy pro stejný účinek. Začátečníci by měli začít s nízkými dávkami."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Příručky k přípravě",
+    "traditional": {
+      "title": "Tradiční metoda",
+      "time": "20-25 Min",
+      "href": "/cs/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Metoda mixéru",
+      "time": "8-10 Min",
+      "href": "/cs/zubereitung/blender"
+    },
+    "instant": {
+      "title": "Instantní Kava",
+      "time": "30 Sek",
+      "href": "/cs/zubereitung/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "Považována za jednu z nejlepších Heady Kavas na světě. Omezená dostupnost.",
+    "borogu": "Nejčastěji konzumovaná Kava ve Vanuatu. Velmi spolehlivá.",
+    "pouni-ono": "Velmi oblíbená Kava pro začátečníky s konzistentní kvalitou.",
+    "moi": "Jedna z nejvzácnějších a nejdražších Kavas. Tradičně pro havajské ceremonie.",
+    "melo-melo": "Velmi oblíbená Kava pro začátečníky s silným anxiolytickým účinkem.",
+    "bir-kar": "Známá pro svou sílu a spolehlivost.",
+    "palasa": "Není doporučena pro začátečníky. Velmi potentní.",
+    "loa-waka": "Jedna z nejsilnějších komerčně dostupných Kavas.",
+    "hiwa": "Tradičně používána pouze pro ceremoniální účely. Velmi vzácná.",
+    "vula-waka": "Oblíbený univerzální produkt z Fiji.",
+    "silese": "Jedna z nejvíce euforických odrůd vůbec.",
+    "palarasul": "Dobrý vstup do Heavy Kavas."
+  }
+}

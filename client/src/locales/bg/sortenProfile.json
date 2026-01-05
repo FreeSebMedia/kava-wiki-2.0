@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Профили на сортовете в детайли",
+    "subtitle": "Подробни профили на основните сортове Кава с химотипове, ефекти и препоръки.",
+    "category": "Сортове"
+  },
+  "breadcrumbs": {
+    "home": "Начало",
+    "sorten": "Сортове",
+    "current": "Профили"
+  },
+  "toc": {
+    "title": "Съдържание",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Обзор",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Моите любими",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Филтър на ефектите",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Интензивни сортове",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Балансирани сортове",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Тежки сортове",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Сравнение на сортовете",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Произход",
+    "chemotype": "Химотип",
+    "duration": "Продължителност на действието",
+    "strength": "Сила",
+    "hits": "Резултати",
+    "low": "Нисък",
+    "high": "Висок",
+    "variety": "Сорт",
+    "region": "Регион",
+    "type": "Тип",
+    "bestUse": "Най-добро приложение",
+    "resetFilters": "Нулиране на филтрите",
+    "matchingCriteria": "от {total} сортове отговарят на вашите критерии",
+    "noMatching": "Няма {category} сортове, които да отговарят на текущите филтърни критерии.",
+    "toComparison": "Към интерактивно сравнение на сортовете"
+  },
+  "overview": {
+    "intro": "Тази страница предлага обширен преглед на основните <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Нобле Кава</a> сортове, подредени по техния тип действие. Използвайте тези профили, за да намерите перфектния сорт за вашите нужди.",
+    "categories": [
+      {
+        "name": "Интензивни",
+        "description": "Силно въздействащи, еуфорични, социални. Идеални за деня.",
+        "color": "yellow"
+      },
+      {
+        "name": "Балансирани",
+        "description": "Баланс между ум и тяло. Подходящи за всяко време на деня.",
+        "color": "blue"
+      },
+      {
+        "name": "Тежки",
+        "description": "Тежко въздействащи, успокояващи. Идеални за вечерта.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Филтър на ефектите",
+    "description": "Филтрирайте сортовете според желаните ефекти. Преместете плъзгачите, за да показвате само сортове с поне избраната стойност.",
+    "euphoria": "Еуфория",
+    "relaxation": "Релаксация",
+    "sleepy": "Сънливост"
+  },
+  "sections": {
+    "heady": {
+      "title": "Интензивни сортове",
+      "description": "Интензивните Кава сортове са силно въздействащи и предизвикват еуфория, умствена яснота и социалност. Идеални са за дневна употреба, социални събития и креативна работа. <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Химотипът</a> обикновено започва с 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Кавалин</a>)."
+    },
+    "balanced": {
+      "title": "Балансирани сортове",
+      "description": "Балансирните Кава предлагат равновесие между ум и тяло. Те са многофункционални и са подходящи както за деня, така и за вечерта. Идеални за <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">решаване на тревожност</a> и обща релаксация."
+    },
+    "heavy": {
+      "title": "Тежки сортове",
+      "description": "Тежките Кава сортове са насочени към тялото и предизвикват дълбока <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">мускулна релаксация</a> и успокояване. Идеални са за вечерта, при <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">проблеми със съня</a> и за физическо възстановяване. Химотипът често има DHK (2) на видно място."
+    }
+  },
+  "comparison": {
+    "title": "Сравнение на сортовете",
+    "description": "Тази таблица предлага бърз преглед на всички важни сортове. Използвайте и нашето <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">интерактивно сравнение</a> за подробни сравнения.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Епи, Вануату",
+      "chemotype": "421365",
+      "duration": "2-3 ч.",
+      "strength": 4,
+      "description": "Легендарен еуфоричен Кава, като шампанско сред Кавите.",
+      "recommended": [
+        "Социални събития",
+        "Креативна работа",
+        "Дневна употреба"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Пентекост, Вануату",
+      "chemotype": "243516",
+      "duration": "4-6 ч.",
+      "strength": 4,
+      "description": "Народният Кава на Вануату, многофункционален с интензивен начален ефект.",
+      "recommended": [
+        "Социални събития",
+        "Вечерна употреба",
+        "Начинаещи"
+      ],
+      "badge": "Интензивен / Балансиран",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Тонга",
+      "chemotype": "Смес",
+      "duration": "3-4 ч.",
+      "strength": 3,
+      "description": "Най-популярният дневен Кава, мек и приятелски за начинаещи.",
+      "recommended": [
+        "Начинаещи",
+        "Работа",
+        "Социални събития"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Хавай",
+      "chemotype": "—",
+      "duration": "2-4 ч.",
+      "strength": 4,
+      "description": "Кралският 'Ава, изключително церебрален и умствено проясняващ.",
+      "recommended": [
+        "Медитация",
+        "Креативна работа",
+        "Когниция"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Пентекост, Вануату",
+      "chemotype": "—",
+      "duration": "2-3 ч.",
+      "strength": 3,
+      "description": "Рядък еуфоричен сорт, много ценен.",
+      "recommended": [
+        "Социални събития",
+        "Повдигане на настроението"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Амбей, Вануату",
+      "chemotype": "243156",
+      "duration": "3-5 ч.",
+      "strength": 3,
+      "description": "Перфектният всестранен сорт, нежен и балансиран.",
+      "recommended": [
+        "Начинаещи",
+        "Решаване на тревожност",
+        "Всекидневна употреба"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Balanced)",
+      "origin": "Пентекост, Вануату",
+      "chemotype": "243516",
+      "duration": "4-6 ч.",
+      "strength": 4,
+      "description": "Народният Кава на Вануату, надежден и многофункционален.",
+      "recommended": [
+        "Вечерна употреба",
+        "Релаксация",
+        "Начинаещи"
+      ],
+      "badge": "Интензивен / Балансиран",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Малакула, Вануату",
+      "chemotype": "423561",
+      "duration": "4-5 ч.",
+      "strength": 4,
+      "description": "Силен Кава с добра балансировка между ум и тяло.",
+      "recommended": [
+        "Опитни потребители",
+        "Вечерна употреба"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Фиджи",
+      "chemotype": "—",
+      "duration": "4-5 ч.",
+      "strength": 3,
+      "description": "Балансирен Кава от Фиджи, многофункционален.",
+      "recommended": [
+        "Всекидневна употреба",
+        "Релаксация"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Малакула, Вануату",
+      "chemotype": "423651",
+      "duration": "5-7 ч.",
+      "strength": 5,
+      "description": "Един от най-потентните Тежки Кава, дълбока успокояваща.",
+      "recommended": [
+        "Проблеми със съня",
+        "Мускулна релаксация",
+        "Вечер"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Фиджи",
+      "chemotype": "—",
+      "duration": "5-8 ч.",
+      "strength": 5,
+      "description": "Изключително мощен Кава от Фиджи, силно успокояващ.",
+      "recommended": [
+        "Опитни потребители",
+        "Проблеми със съня"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Малакула, Вануату",
+      "chemotype": "426531",
+      "duration": "5-7 ч.",
+      "strength": 4,
+      "description": "По-малкият брат на Palasa, малко по-мек, но подобен.",
+      "recommended": [
+        "Тежки начинаещи",
+        "Вечерна употреба"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Хавай",
+      "chemotype": "—",
+      "duration": "4-6 ч.",
+      "strength": 5,
+      "description": "Церемониален хавайски 'Ава, много силен.",
+      "recommended": [
+        "Церемонии",
+        "Сън",
+        "Опитни"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Вануату",
+      "type": "Интензивен",
+      "chemotype": "421365",
+      "bestUse": "Социален, Креативен"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Тонга",
+      "type": "Интензивен",
+      "chemotype": "Смес",
+      "bestUse": "Начинаещи, Ден"
+    },
+    {
+      "name": "Moi",
+      "region": "Хавай",
+      "type": "Интензивен",
+      "chemotype": "—",
+      "bestUse": "Медитация, Когниция"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Вануату",
+      "type": "Балансирен",
+      "chemotype": "243156",
+      "bestUse": "Тревожност, Всестранен"
+    },
+    {
+      "name": "Borogu",
+      "region": "Вануату",
+      "type": "Интензивен / Балансиран",
+      "chemotype": "243516",
+      "bestUse": "Вечер, Релаксация"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Вануату",
+      "type": "Балансирен",
+      "chemotype": "423561",
+      "bestUse": "Опитни, Вечер"
+    },
+    {
+      "name": "Palasa",
+      "region": "Вануату",
+      "type": "Тежък",
+      "chemotype": "423651",
+      "bestUse": "Сън, Мускул"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Фиджи",
+      "type": "Тежък",
+      "chemotype": "—",
+      "bestUse": "Опитни, Сън"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Хавай",
+      "type": "Тежък",
+      "chemotype": "—",
+      "bestUse": "Церемонии, Сън"
+    }
+  ]
+}

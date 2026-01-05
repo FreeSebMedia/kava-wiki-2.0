@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Glosář",
+    "title": "Kava-Glosář",
+    "subtitle": "Více než 50 odborných termínů kolem Kavy – od Kavalaktonů po Kava-ceremonii"
+  },
+  "intro": "Tento glosář vysvětluje nejdůležitější pojmy kolem Kavy. Od chemických sloučenin přes metody přípravy až po kulturní tradice – zde najdete všechny odborné termíny srozumitelně vysvětlené.",
+  "search": {
+    "placeholder": "Hledat termín...",
+    "noResults": "Žádné termíny nenalezeny pro",
+    "clearSearch": "Vymazat hledání",
+    "resultsCount": "Nalezeno {{count}} termín(ů)"
+  },
+  "categories": {
+    "chemie": "Chemie & Složení",
+    "wirkung": "Účinky & Efekty",
+    "kultur": "Kultura & Tradice",
+    "sorten": "Odrůdy & Varietety",
+    "zubereitung": "Příprava",
+    "sicherheit": "Bezpečnost"
+  },
+  "toc": {
+    "uebersicht": "Přehled",
+    "suche": "Hledání",
+    "chemie": "Chemie & Složení",
+    "wirkung": "Účinky & Efekty",
+    "sorten": "Odrůdy & Varietety",
+    "zubereitung": "Příprava",
+    "kultur": "Kultura & Tradice",
+    "sicherheit": "Bezpečnost"
+  },
+  "ui": {
+    "relatedTerms": "Související termíny",
+    "relatedLinks": "Zjistit více",
+    "backToTop": "Nahoru",
+    "showMore": "Zobrazit více",
+    "showLess": "Zobrazit méně"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalaktony",
+      "shortDefinition": "Psychoaktivní látky v Kávě",
+      "fullExplanation": "Kavalaktony jsou skupinou 18 laktonů, které jsou zodpovědné za psychoaktivní účinky Kavy. **Šest hlavních kavalaktonů** tvoří přibližně 96 % celkového obsahu: Desmethoxyyangonin (DMY), Dihydrokavain (DHK), Yangonin (Y), Kavain (K), Dihydromethysticin (DHM) a Methysticin (M). Každý kavalakton má svůj vlastní účinkový profil – od úzkost zmírňujícího přes sval relaxační až po sedativní. Celkový obsah v kořeni se obvykle pohybuje mezi 3-20%.",
+      "relatedTerms": [
+        "Chemotyp",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "6 hlavních kavalaktonů",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Chemotypový systém",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Chemotyp",
+      "shortDefinition": "Chemický profil odrůdy Kavy",
+      "fullExplanation": "Chemotyp je **šestimístný kód**, který udává pořadí šesti hlavních kavalaktonů podle koncentrace. Každý kavalakton má své číslo: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. Chemotyp jako \"426315\" znamená: Kavain (4) je nejvíce koncentrovaný, následuje DHK (2) atd. Chemotyp zásadně určuje účinek odrůdy – zda je spíše \"heady\" (hlavně duševní, euforický) nebo \"heavy\" (tělesný, sedativní).",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Chemotypový kalkulátor",
+          "href": "/de/inhaltsstoffe/rechner"
+        },
+        {
+          "label": "Chemotypový systém",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "Nejdůležitější kavalakton pro úzkost zmírňující účinek",
+      "fullExplanation": "Kavain (číslo 4 v chemotypovém systému) je nejlépe prozkoumaný kavalakton a považuje se za **hlavního zodpovědného za anxiolytický (úzkost zmírňující) účinek**. Působí na GABA receptory, dopaminové a noradrenalinové transportéry. Odrůdy s vysokým obsahem Kavainu (4 na prvním nebo druhém místě v chemotypu) se považují za zvlášť kvalitní a označují se jako \"heady\". Kavain má také neuroprotektivní vlastnosti.",
+      "relatedTerms": [
+        "Kavalaktony",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktony podrobně",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Úzkost zmírňující účinek",
+          "href": "/de/wirkung/angst"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "Kavalakton pro svalovou relaxaci",
+      "fullExplanation": "Dihydrokavain (DHK, číslo 2 v chemotypovém systému) je **nejsilnější sval relaxační kavalakton**. Působí na napětím řízené sodíkové kanály a má lokálně anestetické vlastnosti – proto typický pocit znecitlivění v ústech po pití. DHK je také zodpovědný za fyzickou relaxaci. Odrůdy s vysokým obsahem DHK (2 na prvním místě) jsou často klasifikovány jako \"heavy\".",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Heavy",
+        "Svalová relaxace"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Svalová relaxace",
+          "href": "/de/wirkung/muskel"
+        },
+        {
+          "label": "Kavalaktony podrobně",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Silně sedativní kavalakton, dominantní v Tudei",
+      "fullExplanation": "Dihydromethysticin (DHM, číslo 5 v chemotypovém systému) je **silně sedativní kavalakton**. Vysoké koncentrace (5 na prvním místě) jsou typické pro Tudei-Kavu a mohou vést k dlouhotrvajícím vedlejším účinkům. V Noble Kava je DHM přítomen v mírných množstvích a přispívá k relaxačnímu účinku. DHM má delší poločas než Kavain, což znamená, že Tudei efekty mohou trvat až dva dny.",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "Kavalakton s afinitou k CB1 receptorům",
+      "fullExplanation": "Yangonin (Y, číslo 3 v chemotypovém systému) je jedinečný kavalakton, který vykazuje **afinitu k CB1 kanabinoidním receptorům**. To by mohlo přispět k náladu zlepšujícím a mírně euforickým účinkům Kavy. Yangonin je také zodpovědný za žlutou barvu kava extraktů. Má protizánětlivé vlastnosti a je zkoumán pro svůj terapeutický potenciál.",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktony podrobně",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Náladu zlepšující kavalakton",
+      "fullExplanation": "Desmethoxyyangonin (DMY, číslo 1 v chemotypovém systému) je **náladu zlepšující kavalakton** s MAO-B inhibičními vlastnostmi. Může zvyšovat dostupnost dopaminu v mozku, což přispívá k jeho euforickým účinkům. DMY je také zodpovědný za antidepresivní účinek Kavy. V kombinaci s Kavainem zesiluje \"heady\" vlastnosti odrůdy.",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktony podrobně",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Sedativní kavalakton s dlouhou dobou účinku",
+      "fullExplanation": "Methysticin (M, číslo 6 v chemotypovém systému) je **sedativní kavalakton** s relativně dlouhou dobou účinku. Přispívá k fyzické relaxaci a podpoře spánku. Methysticin má také antikonvulzivní (křeče uvolňující) vlastnosti. Většina Noble odrůd obsahuje Methysticin v mírných množstvích a doplňuje účinek ostatních kavalaktonů.",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktony podrobně",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "Vědecký název pro Kavu",
+      "fullExplanation": "Piper methysticum je **vědecký (latinský) název** pro rostlinu Kava. Název doslovně znamená \"omamný pepř\" (z řeckého \"methystikos\" = omamný). Rostlina patří do **rodiny pepřovitých (Piperaceae)** a je blízce příbuzná černému pepři. Kava je sterilní kulturní rostlina, která se může množit pouze vegetativně – což naznačuje její tisíciletou domestikaci lidmi.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botanika"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Rostlina",
+          "href": "/de/botanik/pflanze"
+        },
+        {
+          "label": "Přehled botaniky",
+          "href": "/de/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Divoký předek rostliny Kava",
+      "fullExplanation": "Piper wichmannii je **divoký předek** Piper methysticum. Tento divoký druh se vyskytuje v Papui Nové Guineji a na Šalomounových ostrovech a může se rozmnožovat sexuálně (na rozdíl od sterilní kulturní formy). Vědci se domnívají, že Kava byla před přibližně 3 000 lety **domestikována** z Piper wichmannii. Divoká Kava často obsahuje vyšší množství nežádoucích sloučenin a není doporučována k užívání.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkony",
+      "shortDefinition": "Flavonoidní sloučeniny v Kávě",
+      "fullExplanation": "Chalkony jsou třídou **flavonoidních sloučenin**, které se v Kávě vyskytují. Nejvýznamnější jsou Flavokavain A, B a C. Zatímco Flavokavain A a C se považují za relativně bezpečné, **Flavokavain B (FKB)** je spojován s potenciální hepatotoxicitou. Chalkony se vyskytují převážně v nadzemních částech rostliny a v Tudei odrůdách. Noble Kava z kořene obsahuje pouze malé množství.",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bezpečnost",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Extrakce",
+      "shortDefinition": "Proces získávání kavalaktonů",
+      "fullExplanation": "Extrakce označuje proces, při kterém se **kavalaktony uvolňují z rostlinného materiálu**. Při tradiční přípravě se to děje hnětením ve vodě – kavalaktony jsou rozpustné v tucích a jsou extrahovány mechanickou silou a emulgací. Průmyslové extrakty často používají rozpouštědla jako ethanol nebo aceton. **Vodní extrakty** se považují za bezpečnější, protože obsahují méně nežádoucích sloučenin.",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Hnětací metoda"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Příprava",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobutyrová kyselina",
+      "shortDefinition": "Nejdůležitější inhibiční neurotransmiter",
+      "fullExplanation": "GABA (Gamma-Aminobutyrová kyselina) je **nejdůležitější inhibiční neurotransmiter** v centrálním nervovém systému. Snižuje neuronální vzrušivost a působí uklidňujícím, úzkost zmírňujícím a spánkovou podporující účinkem. Kavalaktony – zejména Kavain a DHK – modulují GABA receptory, avšak **jiným způsobem než benzodiazepiny**. To vysvětluje, proč Kava uvolňuje, aniž by měla typické vedlejší účinky spánkových léků (žádná závislost, žádné kognitivní poškození).",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Kavain",
+        "Anxiolýza"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Úzkost zmírňující účinek",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Vědecké studie",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Reverse Tolerance",
+      "germanTerm": "Opačná tolerance",
+      "shortDefinition": "Fenomen, kdy Kava s časem působí silněji",
+      "fullExplanation": "Reverse Tolerance je **unikátní fenomén u Kavy**: Na rozdíl od většiny psychoaktivních látek, kde je potřeba s časem více pro stejný účinek, je to u Kavy **opačně**. Mnoho nováčků při prvním pokusu cítí málo nebo nic. Po několika sezeních (typicky 3-7 dní pravidelného užívání) se tělo \"otevře\" kavalaktonům a účinek se výrazně zesílí. Přesné mechanismy nejsou dosud plně pochopeny, ale mohly by souviset s akumulací kavalaktonů v tukové tkáni nebo se senzibilizací receptorů.",
+      "relatedTerms": [
+        "Kavalaktony",
+        "Dávkování"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kognitivní efekty",
+          "href": "/de/wirkung/kognition"
+        },
+        {
+          "label": "Dávkovací kalkulátor",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxiolyse",
+      "germanTerm": "Úzkostní úleva",
+      "shortDefinition": "Úzkost zmírňující účinek Kavy",
+      "fullExplanation": "Anxiolyse označuje **úzkost zmírňující účinek** látky. Kava je jednou z mála rostlinných látek s **úrovní 1 důkazů** pro anxiolytický účinek (Cochrane Review). Anxiolyse probíhá především modulací GABA receptorů a ovlivněním limbického systému. Na rozdíl od benzodiazepinů Kava nezpůsobuje **žádné kognitivní poškození, žádnou závislost a žádnou sedaci** v nízkých až středních dávkách.",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalaktony"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Úzkost zmírňující účinek",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Vědecké studie",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Stav hluboké relaxace Kavy",
+      "fullExplanation": "\"Krunk\" je hovorový termín v komunitě Kavy pro stav **hluboké relaxace a pohody** po užití dostatečného množství Kavy. Termín může pocházet od \"drunk\", ale popisuje jiný stav: **čistá mysl při uvolněném těle**. Typické znaky zahrnují pocit míru, svalovou relaxaci, mírnou euforii a sociální otevřenost – bez narušení, které způsobuje alkohol.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Účinky",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Svalová relaxace",
+      "shortDefinition": "Fyzický relaxační účinek Kavy",
+      "fullExplanation": "Účinek **svalové relaxace** Kavy je jedním z nejvíce patrných efektů. Je zprostředkován především DHK (Dihydrokavain), který působí na sodíkové kanály ve svalových buňkách. Tato relaxace **není spojena se slabostí nebo problémy s koordinací** – cítíte se uvolněně, ale ne omezeně. Kava je proto ceněna při napětí, stresových svalových problémech a jako přírodní alternativa k svalovým relaxantům.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalaktony"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Svalová relaxace",
+          "href": "/de/wirkung/muskel"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Euforie",
+      "shortDefinition": "Zvýšená nálada díky Kávě",
+      "fullExplanation": "Kava může vyvolat **mírnou až střední euforii**, zejména u Heady odrůd s vysokým obsahem Kavainu. Tato euforie se liší od té, kterou způsobuje alkohol nebo jiné látky: je **čistá, sociální a nevyvolává neklid**. Zlepšení nálady je zprostředkováno účinky Kavainu a DMY na dopaminové a serotoninové systémy. Heady odrůdy jako Kelai, Moi a Pouni Ono jsou známé svými euforickými vlastnostmi.",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Sedace",
+      "shortDefinition": "Uklidňující, spánek podporující účinek",
+      "fullExplanation": "Sedace označuje **uklidňující a spánek podporující účinek** Kavy, který je zvlášť výrazný u Heavy odrůd. Je zprostředkována především DHM, DHK a Methysticinem. V nízkých až středních dávkách Kava **není sedativní** a udržuje mentální jasnost. V vyšších dávkách nebo u Heavy odrůd může však nastat výrazná únava. To dělá Kavu přírodní volbou při problémech se spánkem.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Spánek"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Spánek & Relaxace",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotektivní",
+      "shortDefinition": "Ochranný účinek na nervové buňky",
+      "fullExplanation": "Neuroprotektivní vlastnosti označují **schopnost chránit nervové buňky před poškozením**. Studie ukazují, že Kavain a další kavalaktony mohou mít neuroprotektivní účinky – chrání neurony před oxidačním stresem a excitační toxicitou. To by mohlo učinit Kavu zajímavým předmětem výzkumu pro neurodegenerativní onemocnění. Neuroprotektivní vlastnosti také přispívají k tomu, že Kava neovlivňuje kognitivní funkci.",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalaktony"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Vědecké studie",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgezie",
+      "germanTerm": "Úleva od bolesti",
+      "shortDefinition": "Účinek Kavy na zmírnění bolesti",
+      "fullExplanation": "Analgezie označuje **účinek zmírnění bolesti** látky. Kava má mírné analgetické vlastnosti, které jsou zprostředkovány především DHK. Lokálně anestetický účinek (znecitlivění v ústech) je přímým důkazem této vlastnosti. Kava se tradičně používá při **bolestech hlavy, zubních bolestech a svalových bolestech**. Úleva od bolesti je však mírná a nenahrazuje lékařskou léčbu při silné bolesti.",
+      "relatedTerms": [
+        "DHK",
+        "Svalová relaxace"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Účinky",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava-Dermopatie",
+      "germanTerm": "Kava-vyrážka",
+      "shortDefinition": "Kožní změna při nadměrném užívání",
+      "fullExplanation": "Kava-Dermopatie je **reverzibilní kožní změna**, která se může objevit při velmi vysokém, dlouhodobém užívání Kavy. Projevuje se jako suchá, šupinatá kůže se žlutým nádechem, zejména na dlaních, chodidlech a předloktích. Příčinou je pravděpodobně **porucha metabolismu cholesterolu** v kůži. Dermopatie zcela vymizí po snížení nebo ukončení užívání a není známkou poškození jater.",
+      "relatedTerms": [
+        "Bezpečnost",
+        "Dávkování"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bezpečnost",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Ušlechtilá Kava",
+      "shortDefinition": "Vysoce kvalitní, tradičně konzumované odrůdy Kavy",
+      "fullExplanation": "Noble Kava označuje **kultivované odrůdy Kavy**, které byly po staletí šlechtěny pro každodenní konzumaci. Vyznačují se **vyváženým profilem kavalaktonů**, s vysokým obsahem Kavainu a nízkým obsahem nežádoucích sloučenin, jako je Flavokavain B (FKB). Noble odrůdy mají typicky 4 nebo 2 na prvních dvou místech chemotypu. Považují se za bezpečné pro pravidelnou konzumaci a jsou jedinými odrůdami, které mohou být legálně exportovány z Vanuatu.",
+      "relatedTerms": [
+        "Tudei",
+        "Chemotyp",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "Dvoudenní Kava",
+      "shortDefinition": "Divoké nebo méně kvalitní odrůdy Kavy",
+      "fullExplanation": "Tudei (z \"two day\") označuje **divoké nebo méně kvalitní odrůdy Kavy**, jejichž účinky a vedlejší účinky mohou trvat až dva dny. Obsahují vysoké množství **Flavokavain B (FKB)** a **Dihydromethysticin (DHM)**, které jsou spojovány s nevolností, bolestmi hlavy a možnou hepatotoxicitou. Tudei odrůdy mají typicky 5 (DHM) na prvním místě chemotypu. Vanuatu zakazuje export Tudei Kavy. Seriózní prodejci prodávají pouze Noble Kavu.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Bezpečnost",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Hlavně duševní",
+      "shortDefinition": "Odrůdy Kavy s euforickým, cerebrálním účinkem",
+      "fullExplanation": "\"Heady\" popisuje odrůdy Kavy, jejichž účinek je **primárně cerebrální a euforický**. Tyto odrůdy mají typicky **Kavain (4) na prvním nebo druhém místě** chemotypu. Heady Kavy podporují společenskost, zlepšují náladu a mohou mírně euforicky působit, aniž by silně sedovaly. Jsou zvlášť vhodné pro společenské akce, kreativní práci nebo odpoledne. Známé Heady odrůdy jsou Kelai, Moi, Pouni Ono a Silese.",
+      "relatedTerms": [
+        "Heavy",
+        "Vyvážené",
+        "Kavain",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Srovnání odrůd",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Tělesně zatěžující",
+      "shortDefinition": "Odrůdy Kavy s výrazně sedativním, tělesným účinkem",
+      "fullExplanation": "\"Heavy\" popisuje odrůdy Kavy, jejichž účinek je **primárně tělesný a sedativní**. Tyto odrůdy mají typicky **DHK (2) nebo DHM (5) na prvním místě** chemotypu. Heavy Kavy silně uvolňují svaly, podporují spánek a mohou mít velmi sedativní účinek. Jsou zvlášť vhodné na večer, při problémech se spánkem nebo pro hlubokou relaxaci. Známé Heavy odrůdy jsou Loa Waka, Hiwa, Palasa a Palarasul.",
+      "relatedTerms": [
+        "Heady",
+        "Vyvážené",
+        "DHK",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Spánek & Relaxace",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Vyvážené",
+      "germanTerm": "Vyvážené",
+      "shortDefinition": "Odrůdy Kavy s vyváženým účinkem",
+      "fullExplanation": "\"Vyvážené\" popisuje odrůdy Kavy, které nabízejí **vyváženou směs heady a heavy vlastností**. Tyto odrůdy mají typicky jak Kavain (4), tak DHK (2) na předních pozicích chemotypu. Vyvážené Kavy nabízejí jak mentální jasnost, tak fyzickou relaxaci a jsou proto **univerzálně použitelné** – od odpoledne po večer. Známé vyvážené odrůdy jsou Borogu, Melo Melo, Bir Kar a Vula Waka.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Srovnání odrůd",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Kultivar",
+      "shortDefinition": "Šlechtěná odrůda Kavy",
+      "fullExplanation": "Kultivar je **rostlinná odrůda vzniklá šlechtěním**. U Kavy existuje více než 100 různých kultivarů, které se liší chemotypem, účinkem, chutí a růstovou formou. Protože Kava je sterilní a může se množit pouze vegetativně, jsou kultivary **genetické klony** mateřské rostliny. Známé kultivary jsou Borogu, Kelai, Melo Melo, Palasa a mnohé další. Každý kultivar má svůj vlastní \"otisk prstu\" z kavalaktonů.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Chemotyp"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava z hlavních kořenů",
+      "fullExplanation": "\"Waka\" označuje Kavu, která se vyrábí z **hlavních kořenů (laterální kořeny)** rostliny. Waka se považuje za **nejvyšší kvalitu**, protože hlavní kořeny mají nejvyšší obsah kavalaktonů. Termín pochází z Fiji a Tonga. Waka je dražší než Lewena (kmenový kořen), ale silnější a chuťově jemnější. Většina prémiových Kavy na trhu je kvality Waka.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava z oddenku",
+      "fullExplanation": "\"Lewena\" (také \"Lawena\") označuje Kavu, která se vyrábí z **oddenku (rhizom)** rostliny. Lewena má **nižší obsah kavalaktonů** než Waka, ale je také jemnější v chuti a levnější. Často se doporučuje jako začátečnická Kava nebo pro ty, kteří preferují jemnější účinek. Na Fiji se Lewena tradičně používá pro každodenní konzumaci, zatímco Waka je vyhrazena pro zvláštní příležitosti.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Profily odrůd",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Zelená Kava",
+      "germanTerm": "Čerstvá Kava",
+      "shortDefinition": "Čerstvě sklizená, nesušená Kava",
+      "fullExplanation": "\"Zelená Kava\" nebo \"Čerstvá Kava\" označuje **čerstvě sklizené kořeny Kavy**, které nebyly sušeny. V pacifických zemích původu se Kava tradičně připravuje čerstvě – kořeny se oloupou, nasekají a okamžitě hnětou. Čerstvá Kava má **jinou chuť a účinek** než sušená: často jemnější, \"zelenější\" v chuti a s rychlejším nástupem účinku. Instantní Kava se vyrábí z dehydratovaného šťávy ze zelené Kavy.",
+      "relatedTerms": [
+        "Instant Kava",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultura",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Havajský název pro Kavu",
+      "fullExplanation": "'Awa je **havajský název pro Kavu**. Hawaii má vlastní tradici Kavy s jedinečnými kultivary jako Moi, Hiwa, Nene a Papa Ele'ele. Havajské 'Awa odrůdy jsou často zvlášť potentní a mají charakteristické účinkové profily. 'Awa se tradičně používala pro **ceremonální, medicínské a spirituální účely**. Havajská kultura 'Awa v současnosti prochází renesancí s rostoucím zájmem o tradiční odrůdy.",
+      "relatedTerms": [
+        "Kultivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Střední mletí",
+      "germanTerm": "Střední mletí",
+      "shortDefinition": "Standardní mletí pro tradiční přípravu",
+      "fullExplanation": "Střední mletí je **standardní mletí pro prášek z kořene Kavy**, které se používá pro tradiční hnětací metodu a přípravu v mixéru. Prášek má **písečnou až moučnou konzistenci** a musí být hněten přes filtrační sáček (75-100 mikronů), aby se extrahovaly kavalaktony. Střední mletí je levnější než Instantní/Mikronizované a poskytuje při správné přípravě nejlepší potenci. Hrubé rostlinné vlákna jsou filtrována.",
+      "relatedTerms": [
+        "Mikronizované",
+        "Instant Kava",
+        "Hnětací metoda"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradiční metoda",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Metoda mixéru",
+          "href": "/de/zubereitung/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Mikronizovaná Kava",
+      "germanTerm": "Mikronizovaná Kava",
+      "shortDefinition": "Extrémně jemně mletá Kava bez filtrace",
+      "fullExplanation": "Mikronizovaná Kava je **extrémně jemně mletý prášek z kořene**, u kterého byly hrubé vlákna již odstraněny. Může být **přímo rozmíchána ve vodě**, bez hnětení nebo filtrace. Částice jsou tak jemné, že zůstávají v suspenzi a mohou být vypity. Mikronizované je pohodlnější než střední mletí, ale dražší a může u citlivých žaludků způsobit **nevolnost**, protože vlákna jsou konzumována.",
+      "relatedTerms": [
+        "Střední mletí",
+        "Instant Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Příprava Instant Kavy",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Dávkovací kalkulátor",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "Sofortní Kava",
+      "shortDefinition": "Dehydratovaná šťáva z Kavy, okamžitě připravená k pití",
+      "fullExplanation": "Instant Kava je **dehydratovaná šťáva z \"Zelené Kavy\"** – čerstvá šťáva z Kavy, která byla zmražena nebo sušena. Je to **nejpotentnější a nejdražší** forma Kavy, protože kavalaktony byly již extrahovány. Instant Kava se okamžitě rozpouští ve vodě a nevyžaduje hnětení nebo filtraci. Dávkování je výrazně nižší než u středního mletí (2-6g místo 20-50g). Považuje se za \"královskou třídu\" přípravy Kavy.",
+      "relatedTerms": [
+        "Mikronizované",
+        "Střední mletí",
+        "Zelená Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Příprava Instant Kavy",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Dávkovací kalkulátor",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Hnětací metoda",
+      "shortDefinition": "Tradiční pacifická metoda přípravy",
+      "fullExplanation": "Hnětací metoda je **tradiční pacifická metoda přípravy Kavy**, která se praktikuje již více než 3 000 let. Prášek středního mletí se vloží do filtračního sáčku a v teplé vodě (35-45 °C) se **hněte a vymačkává 10-15 minut**. Mechanickou silou se kavalaktony uvolňují z rostlinných vláken a emulgují se ve vodě. Výsledkem je mléčně hnědý \"Grog\". Tato metoda poskytuje **nejlepší extrakci a potenci**.",
+      "relatedTerms": [
+        "Střední mletí",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradiční metoda",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Přehled přípravy",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Druhý výplach",
+      "germanTerm": "Druhý vývar",
+      "shortDefinition": "Znovu použití prášku Kavy",
+      "fullExplanation": "\"Druhý výplach\" označuje **znovu použití již hněteného prášku Kavy** pro druhý průchod. Po prvním hnětení obsahuje prášek stále přibližně **30-50 % původních kavalaktonů**. Druhý výplach je slabší, ale stále účinný. Někteří uživatelé kombinují první a druhý výplach, jiní je pijí odděleně. Třetí výplach se většinou nevyplatí.",
+      "relatedTerms": [
+        "Hnětací metoda",
+        "Střední mletí"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradiční metoda",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Filtrační sáček",
+      "germanTerm": "Filtrační sáček",
+      "shortDefinition": "Sáček k filtrování Kavy",
+      "fullExplanation": "Filtrační sáček je **filtrační sáček z nylonu nebo bavlny**, který se používá k hnětení a filtrování Kavy. Ideální velikost ok je **75-100 mikronů** – dostatečně jemná, aby zadržela rostlinná vlákna, ale dostatečně propustná pro emulzi kavalaktonů. Filtrační sáčky jsou opakovaně použitelné a měly by být po každém použití propláchnuty a vysušeny. Jsou nezbytným nástrojem pro tradiční přípravu.",
+      "relatedTerms": [
+        "Hnětací metoda",
+        "Střední mletí"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tradiční metoda",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "Porce Kava nápoje",
+      "fullExplanation": "\"Shell\" je běžný termín pro **porci Kava nápoje**, typicky 100-150ml. Termín pochází z tradiční kokosové skořápky (Bilo), ze které se Kava pije. V Kava barech si objednáváte \"Shells\" – sezení obvykle zahrnuje 3-6 Shells během několika hodin. Dávkování na shell se liší v závislosti na síle Grog a osobních preferencích. \"Ještě jednu shell\" je běžný výkřik v komunitě Kavy.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Dávkovací kalkulátor",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Moderní zařízení na přípravu Kavy",
+      "fullExplanation": "AluBall je **moderní zařízení na přípravu Kavy**, které zjednodušuje tradiční hnětací metodu. Skládá se z láhve na shaker se speciální sítkovou koulí. Prášek středního mletí se vloží do koule, přidá se voda a 2-3 minuty se třese. Extrakce je rychlejší než tradiční hnětení, ale může být méně efektivní. AluBall je oblíbený pro **cestování a pro nováčky**, kteří preferují snadnou přípravu.",
+      "relatedTerms": [
+        "Hnětací metoda",
+        "Střední mletí"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Přehled přípravy",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "Hotový Kava nápoj",
+      "fullExplanation": "\"Grog\" je hovorový termín pro **hotový Kava nápoj**, zejména ve Vanuatu a na Fiji. Název pochází z koloniální doby a byl převzat britským námořnictvem. Tradiční Kava Grog má **mléčně hnědou barvu** (jako káva s mlékem) a zemitou, mírně pepřovou chuť. V Kava barech se Grog často podává v kokosových skořápkách (Bilos) a pije se na jeden zátah.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Hnětací metoda"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultura",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Příprava",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Tradiční kokosová skořápka na pití",
+      "fullExplanation": "Bilo je **polovina kokosové skořápky**, která se tradičně používá k servírování a pití Kavy. Na Fiji a v dalších pacifických kulturách je pití z Bilo součástí **ceremoniálního rituálu**. Před pitím se jednou zatleská, říká se \"Bula!\" (Fiji) nebo \"Mālō!\" (Tonga), obsah se vypije na jeden zátah a poté se zatleskne třikrát. Moderní nadšenci Kavy používají Bilos pro autentický zážitek.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultura",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historie",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Tradiční Kava bar ve Vanuatu",
+      "fullExplanation": "Nakamal je **tradiční Kava bar ve Vanuatu**, kde se scházejí místní obyvatelé a turisté, aby pili Kavu. Původně tento termín označoval shromaždiště mužů ve vesnici. Moderní Nakamals jsou často jednoduché chatky nebo otevřené prostory s lavicemi. Kava se připravuje čerstvě a podává se v miskách. Existují přísná **sociální pravidla**: mluví se tiše, chová se s respektem a pije se za soumraku. Nakamals jsou důležitými sociálními místy.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultura",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historie",
+          "href": "/de/geschichte/urspruenge"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Tradiční dřevěná mísa na Kavu",
+      "fullExplanation": "Tanoa je **velká, plochá dřevěná mísa**, ve které se tradičně připravuje a podává Kava. Je typická pro Fiji, Samoa a Tonga a je vyřezávána z jednoho kusu dřeva, často se vyřezávanýma nohama. Tanoa je **středobodem Kava ceremonie** – Grog se v ní míchá a s pomocí Bilo se rozdává účastníkům. Kvalitní Tanoas jsou umělecká díla a předávají se jako rodinné dědictví.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Ceremonie"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultura",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Fijijský pozdrav při pití Kavy",
+      "fullExplanation": "\"Bula!\" je **tradiční fijijský pozdrav**, který se vyvolává před pitím Shell Kavy. Slovo znamená \"život\" a vyjadřuje dobré přání. Rituál: jednou zatleskat, vyvolat \"Bula!\", vypít Shell na jeden zátah, zatlesknout třikrát. V jiných pacifických kulturách existují podobné výkřiky: \"Mālō!\" v Tonga, \"Taki!\" ve Vanuatu. Tyto rituály vytvářejí **společenství a respekt** a jsou důležitou součástí kultury Kavy.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultura",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Potenciálně hepatotoxická sloučenina v Tudei-Kavě",
+      "fullExplanation": "Flavokavain B (FKB) je **chalkon**, který se vyskytuje ve vyšších koncentracích v Tudei-Kavě a nadzemních částech rostliny (stonky, listy). Je spojován s **potenciální hepatotoxicitou** a mohl by být zodpovědný za některé historické poškození jater. Noble Kava odrůdy mají **velmi nízké obsahy FKB**. To je jeden z hlavních důvodů, proč se doporučuje pouze Noble Kava pro konzumaci a Tudei Kava je ve Vanuatu zakázána pro export.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Bezpečnost jater"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bezpečnost jater",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Cytochrom P450",
+      "shortDefinition": "Jaterní enzymy pro metabolismus léků",
+      "fullExplanation": "CYP450 (Cytochrom P450) je **rodina jaterních enzymů**, které jsou zodpovědné za metabolismus většiny léků. Kavalaktony mohou **inhibovat** určité CYP450 enzymy, zejména CYP2C9, CYP2C19 a CYP3A4. To může zpomalit metabolismus léků a zesílit jejich účinek. Proto by Kava **neměla být kombinována** s léky, které jsou metabolizovány těmito enzymy – zejména benzodiazepiny, antidepresivy a léky na tlak.",
+      "relatedTerms": [
+        "Interakce",
+        "Bezpečnost jater"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interakce",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Kontrolor interakcí",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Bezpečnost jater",
+      "shortDefinition": "Kava a játra – fakta a mýty",
+      "fullExplanation": "Otázka **bezpečnosti jater** Kavy byla dlouho sporná. Na počátku 2000. let vedly zprávy o poškození jater k zákazům v několika zemích. Pozdější vyšetřování však ukázala, že většina případů byla způsobena **Tudei-Kavou, extrakty z nadzemních částí rostlin nebo předchozími onemocněními**. Noble Kava, tradičně připravovaná, se považuje za bezpečnou. WHO potvrdila v roce 2016, že \"tradičně připravované Kava nápoje mají přijatelné bezpečnostní profily\".",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Bezpečnost jater",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Vědecké studie",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Interakce",
+      "shortDefinition": "Interakce Kavy s jinými látkami",
+      "fullExplanation": "Kava může mít **interakce s různými látkami**. Hlavní kombinace, kterým je třeba se vyhnout, jsou: **alkohol** (zvýšená hepatotoxicita), **benzodiazepiny a sedativa** (zvýšená sedace), **antidepresiva** (CYP450 interakce), **léky na Parkinsona** (interakce s dopaminem). Také by se měly vyhýbat další CNS tlumící látky. Při pravidelném užívání léků by měl být před užitím Kavy konzultován lékař.",
+      "relatedTerms": [
+        "CYP450",
+        "Bezpečnost jater"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interakce",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Kontrolor interakcí",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Dávkování",
+      "shortDefinition": "Správné množství pro bezpečnou konzumaci",
+      "fullExplanation": "Správné **dávkování** Kavy závisí na několika faktorech: tělesná hmotnost, zkušenosti, odrůda a forma přípravy. Pro **střední mletí** se typická sezení pohybují mezi 20-50g prášku, rozloženého na několik Shells. Pro **Instant Kava** jsou běžné 2-6g. Nováčci by měli začít s nízkými dávkami a zohlednit **opačnou toleranci**. Doporučená maximální denní dávka je přibližně 250mg kavalaktonů. Předávkování vede k silné únavě, ale ne k nebezpečným stavům.",
+      "relatedTerms": [
+        "Opačná tolerance",
+        "Shell",
+        "Kavalaktony"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Dávkovací kalkulátor",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    }
+  }
+}

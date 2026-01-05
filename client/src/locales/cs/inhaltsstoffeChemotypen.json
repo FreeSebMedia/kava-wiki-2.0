@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "Chemotypový systém",
+    "subtitle": "Jak 6-místný kód předpovídá účinky odrůdy Kava a rozlišuje Noble od Tudei.",
+    "category": "Složení"
+  },
+  "breadcrumbs": {
+    "home": "Domov",
+    "inhaltsstoffe": "Složení",
+    "current": "Chemotypy"
+  },
+  "toc": {
+    "title": "Obsah",
+    "einfuehrung": "Co je chemotyp?",
+    "nummerierung": "Číslování Kavalaktonů",
+    "lesen": "Čtení chemotypu",
+    "beispiele": "Příklady a interpretace",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Rozpoznání Tudei podle chemotypu",
+    "wirkungsprofile": "Účinkové profily podle chemotypu",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Vyvážené Kavas",
+    "qualitaet": "Chemotyp a kontrola kvality"
+  },
+  "einfuehrung": {
+    "paragraph1": "Chemotyp je <strong>6-místný kód</strong>, který uvádí šest hlavních Kavalaktonů v sestupném pořadí jejich koncentrace. Funguje jako \"otisk prstu\" pro každou odrůdu Kava a umožňuje předpovědět očekávaný účinek – ještě předtím, než se napijete.",
+    "paragraph2": "Tento systém byl vyvinut v 80. letech Vincentem Lebotem a dnes je mezinárodním standardem pro klasifikaci a kontrolu kvality Kavy. Je to nejdůležitější nástroj pro rozlišení kvalitní \"Noble Kava\" od méně kvalitní \"Tudei Kava\"."
+  },
+  "nummerierung": {
+    "title": "Číslování Kavalaktonů",
+    "intro": "Každý z šesti hlavních Kavalaktonů je přiřazen k číslu. Toto přiřazení je historicky podmíněno a vychází z pořadí jejich objevení nebo chromatografické eluce:",
+    "tableHeaders": {
+      "digit": "Číslo",
+      "kavalacton": "Kavalakton",
+      "abbreviation": "Zkratka",
+      "effect": "Hlavní účinek"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Fokus, zvýšení dopaminu"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Svalová relaxace, analgezie"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "CB1 aktivita, euforie"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anxiolytický, \"Heady\" efekt"
+      },
+      {
+        "digit": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Dlouhodobě sedativní, Tudei marker"
+      },
+      {
+        "digit": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Sedativní, neuroprotektivní"
+      }
+    ],
+    "mnemonic": "<strong>Pomůcka:</strong> Čísla <strong>4</strong> (Kavain) a <strong>2</strong> (Dihydrokavain) jsou \"dobré\" startovní pozice pro Noble Kava. Číslo <strong>5</strong> (Dihydromethysticin) na prvních dvou místech je varovným signálem pro Tudei Kava."
+  },
+  "lesen": {
+    "title": "Čtení chemotypu",
+    "intro": "Chemotyp je psán jako 6-místné číslo, přičemž každá pozice udává relativní koncentraci:",
+    "positions": [
+      {
+        "rank": "1. místo",
+        "label": "Nejvyšší koncentrace",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "2. místo",
+        "label": "Druhá nejvyšší",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3. místo",
+        "label": "Třetí nejvyšší",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4. místo",
+        "label": "Čtvrtá nejvyšší",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5. místo",
+        "label": "Pátá nejvyšší",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6. místo",
+        "label": "Nejnižší",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Příklady a interpretace",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Typické Noble Kava (např. Borogu)",
+        "description": "<strong>Kavain</strong> dominuje, následováno <strong>Dihydrokavain</strong>. DHM (5) je pouze na 4. místě. Očekávaný účinek: Jasná, soustředěná relaxace s dobrou svalovou relaxací. Žádná \"kocovina\"."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, tělesně zaměřené (např. Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> na prvním místě znamená silnější tělesnou relaxaci. Ideální na večer. Pořád Noble, protože DHM (5) je daleko vzadu."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (např. Isa)",
+        "description": "<strong>DHM (5)</strong> na prvním místě je jasným varovným signálem. Očekávaný účinek: Velmi dlouhá sedace (12+ hodin), možná nevolnost, \"kocovina\" následující den. Není vhodné pro pravidelnou konzumaci."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (např. Palimanu)",
+        "description": "<strong>DHM (5)</strong> na 2. místě je také problematické. I když je DHK (2) vpředu, vysoký podíl DHM činí tuto odrůdu nevhodnou pro export a pravidelnou konzumaci."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "Rozlišení mezi <strong>Noble Kava</strong> (Edelkava) a <strong>Tudei Kava</strong> (Two-Day Kava) je zásadní pro kvalitu Kavy. Název \"Tudei\" pochází z toho, že účinek těchto odrůd může trvat až dva dny – s nepříjemnými vedlejšími účinky.",
+    "tableHeaders": {
+      "criterion": "Kritérium",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Chemotypový začátek",
+        "noble": "Začíná číslem 4 nebo 2, nikdy 5",
+        "tudei": "Často začíná číslem 5 nebo má 5 na 2. místě"
+      },
+      {
+        "criterion": "Nástup účinku",
+        "noble": "Rychlý (10-20 minut)",
+        "tudei": "Zpožděný (30-90 minut)"
+      },
+      {
+        "criterion": "Délka účinku",
+        "noble": "Mírná (3-6 hodin)",
+        "tudei": "Velmi dlouhá (6-12+ hodin)"
+      },
+      {
+        "criterion": "Charakter účinku",
+        "noble": "Jasný, uvolněný, společenský",
+        "tudei": "Otupělý, sedativní, omámený"
+      },
+      {
+        "criterion": "Vedlejší účinky",
+        "noble": "Minimální při správné přípravě",
+        "tudei": "Nevolnost, bolesti hlavy, \"kocovina\""
+      },
+      {
+        "criterion": "Povolení k exportu",
+        "noble": "Ano (regulováno)",
+        "tudei": "Ne (ve Vanuatu zakázáno)"
+      },
+      {
+        "criterion": "Příklad odrůd",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wildkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Rozpoznání Tudei podle chemotypu",
+    "intro": "Nejjednodušší pravidlo pro rozpoznání Tudei Kava:",
+    "warningTitle": "Varovné signály",
+    "warnings": [
+      "<strong>5</strong> na pozici 1 nebo 2",
+      "<strong>5</strong> před <strong>4</strong> v chemotypu",
+      "Velmi vysoký celkový podíl DHM (>15%)"
+    ],
+    "safeTitle": "Bezpečné znaky",
+    "safeIndicators": [
+      "<strong>4</strong> nebo <strong>2</strong> na pozici 1",
+      "<strong>5</strong> na pozici 4, 5 nebo 6",
+      "Dominance Kavain (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Účinkové profily podle chemotypu",
+    "intro": "Na základě chemotypu lze odrůdy Noble Kava rozdělit do tří hlavních kategorií:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavas mají <strong>Kavain (4)</strong> na prvním místě a vyznačují se primárně mentálním účinkem. Podporují fokus, jasnost a příjemné zlepšení nálady, aniž by silně sedovaly.",
+    "idealTitle": "Ideální pro:",
+    "idealFor": [
+      "Sociální akce a rozhovory",
+      "Kreativní práci",
+      "Během dne nebo brzy večer",
+      "Začátečníky (mírnější účinek)"
+    ],
+    "examples": "<strong>Příklad odrůd:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavas mají <strong>Dihydrokavain (2)</strong> na prvním místě a působí primárně na tělo. Nabízejí silnou svalovou relaxaci a jsou ideální pro uvolnění po dlouhém dni.",
+    "idealTitle": "Ideální pro:",
+    "idealFor": [
+      "Večerní relaxaci",
+      "Snížení stresu a svalovou relaxaci",
+      "Přípravu na spánek",
+      "Zkušené pijáky Kavy"
+    ],
+    "examples": "<strong>Příklad odrůd:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Vyvážené Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Vyvážené Kavas mají vyvážené rozložení Kavain a Dihydrokavain a nabízejí jak mentální jasnost, tak tělesnou relaxaci. Jsou nejuniverzálnějšími odrůdami.",
+    "idealTitle": "Ideální pro:",
+    "idealFor": [
+      "Každodenní použití",
+      "Meditaci a mindfulness",
+      "Univerzální použití (den nebo večer)",
+      "Všechny úrovně zkušeností"
+    ],
+    "examples": "<strong>Příklad odrůd:</strong> Bir Kar, Melomelo (podle šarže)"
+  },
+  "qualitaet": {
+    "title": "Chemotyp a kontrola kvality",
+    "intro": "Chemotyp je dnes nejdůležitějším nástrojem pro <strong>kontrolu kvality</strong> v mezinárodním obchodě s Kavou. Ve Vanuatu, největším vývozci Kavy, je analýza chemotypu zákonně vyžadována před tím, než může být Kava exportována.",
+    "lawTitle": "Zákon o Kava ve Vanuatu (2002)",
+    "lawText": "Zákon o Kava ve Vanuatu stanoví, že pouze <strong>Noble Kava odrůdy</strong> jsou povoleny k exportu. Tudei odrůdy a jejich směsi jsou vyloučeny z exportu. Dodržování je kontrolováno analýzami chemotypu.",
+    "lawNote": "To je jeden z důvodů, proč je Kava z Vanuatu považována za zvlášť kvalitní – existují státní kontroly kvality, které mají zabránit kontaminaci Tudei.",
+    "consumerTip": "<strong>Tip pro spotřebitele:</strong> Seriózní prodejci Kavy uvádějí chemotyp svých produktů nebo ho mohou poskytnout na požádání. Pokud prodejce nemůže poskytnout informace o chemotypu, je třeba být opatrný."
+  },
+  "navigation": {
+    "nextCategory": "Pokračovat na další kategorii:",
+    "sortenTitle": "Odrůdy a varianty",
+    "sortenDescription": "Více než 80 zdokumentovaných odrůd Kavy a jejich vlastnosti"
+  }
+}
