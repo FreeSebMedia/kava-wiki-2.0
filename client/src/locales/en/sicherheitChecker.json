@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Interaction Checker",
+    "subtitle": "Check potential interactions between your medications and Kava",
+    "category": "Safety",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Safety",
+      "wechselwirkungen": "Interactions",
+      "current": "Interaction Checker"
+    }
+  },
+  "toc": {
+    "title": "Contents",
+    "checker": "Interaction Checker",
+    "anleitung": "Instructions",
+    "kategorien": "Risk Categories",
+    "haeufige": "Frequently Checked Medications",
+    "hinweis": "Important Note"
+  },
+  "ui": {
+    "disclaimerTitle": "Important Note",
+    "disclaimerText": "This checker is for informational purposes only and does not replace medical advice. If in doubt or if you are taking prescription medications, always consult a doctor or pharmacist.",
+    "inputTitle": "Enter Medications",
+    "inputDescription": "Enter the names of your medications (active ingredient or brand name)",
+    "placeholder": "e.g. Diazepam, Ibuprofen, Sertraline...",
+    "selectedMeds": "Selected Medications:",
+    "checkButton": "Check Interactions",
+    "commonCategories": "Common Medication Groups",
+    "overallAssessment": "Overall Assessment",
+    "detailedAnalysis": "Detailed Analysis",
+    "category": "Category",
+    "mechanism": "Mechanism",
+    "affectedEnzymes": "Affected CYP Enzymes",
+    "recommendation": "Recommendation",
+    "newCheck": "New Check",
+    "moreAbout": "More About Interactions",
+    "moreInfo": "More Information",
+    "liverSafety": "Liver Safety & Hepatotoxicity",
+    "contraindications": "Contraindications",
+    "safetyOverview": "Safety & Health Overview",
+    "studies": "Scientific Studies"
+  },
+  "intro": {
+    "title": "Medication Check",
+    "text": "Enter the name of your medication or active ingredient to check for possible interactions with Kava."
+  },
+  "search": {
+    "placeholder": "Enter medication or active ingredient...",
+    "button": "Check",
+    "noResults": "No medication found with this name. Please check the spelling or consult a doctor."
+  },
+  "result": {
+    "risk": "Risk Level",
+    "mechanism": "Mechanism",
+    "recommendation": "Recommendation",
+    "alternatives": "Possible Alternatives"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "VERY HIGH RISK",
+      "description": "Strictly contraindicated - never use in combination"
+    },
+    "high": {
+      "label": "HIGH RISK",
+      "description": "Avoid combination - significant health risks possible"
+    },
+    "moderate": {
+      "label": "MODERATE RISK",
+      "description": "Caution advised - only under medical supervision"
+    },
+    "low": {
+      "label": "LOW RISK",
+      "description": "Probably safe with normal use"
+    },
+    "none": {
+      "label": "NO KNOWN RISK",
+      "description": "No known interactions documented"
+    }
+  },
+  "anleitung": {
+    "title": "How to Use the Checker",
+    "steps": [
+      "Enter the name of your medication or active ingredient",
+      "Click on 'Check' or press Enter",
+      "Read the risk assessment and recommendations",
+      "When in doubt, always consult a doctor or pharmacist"
+    ]
+  },
+  "kategorien": {
+    "title": "Risk Categories Explained",
+    "high": {
+      "title": "High Risk",
+      "text": "Combination should be avoided under all circumstances. Severe side effects possible."
+    },
+    "moderate": {
+      "title": "Moderate Risk",
+      "text": "Combination only under medical supervision. Dose adjustment may be necessary."
+    },
+    "low": {
+      "title": "Low Risk",
+      "text": "Combination probably safe, but individual reactions should be noted."
+    },
+    "unknown": {
+      "title": "Unknown",
+      "text": "Insufficient data available. Caution recommended."
+    }
+  },
+  "haeufige": {
+    "title": "Frequently Checked Medications",
+    "clickToCheck": "Click on a medication to check it:"
+  },
+  "hinweis": {
+    "title": "Important Note",
+    "text": "This checker is for general information purposes only and does not replace medical advice. The database is not complete and is continuously updated. If in doubt, always consult a doctor or pharmacist.",
+    "disclaimer": "The information is based on scientific literature and known interaction mechanisms. Individual reactions may vary."
+  },
+  "navigation": {
+    "continueTitle": "Continue in the Safety Section",
+    "items": [
+      {
+        "title": "Overview",
+        "href": "/de/sicherheit",
+        "description": "Back to the Safety Overview"
+      },
+      {
+        "title": "Interactions",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Detailed information on interactions"
+      },
+      {
+        "title": "Contraindications",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "When Kava should not be used"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Homepage",
+    "description": "The world's most comprehensive knowledge portal about Kava (Piper methysticum). Scientifically grounded, culturally rooted. Everything about effects, preparation, varieties, and legal status."
+  },
+  "hero": {
+    "badge": "Piper methysticum",
+    "title": "Root of Calm",
+    "subtitle": "The comprehensive knowledge portal about the Pacific relaxation root. Scientifically grounded, culturally rooted.",
+    "cta": {
+      "studies": "Scientific Studies",
+      "learnMore": "Learn More"
+    }
+  },
+  "stats": [
+    {
+      "label": "Traditional Use",
+      "value": "3000+",
+      "suffix": "years"
+    },
+    {
+      "label": "Main Kavalactones",
+      "value": "6",
+      "suffix": "active compounds"
+    },
+    {
+      "label": "Varieties in Vanuatu",
+      "value": "80+",
+      "suffix": "cultivars"
+    },
+    {
+      "label": "Scientific",
+      "value": "100+",
+      "suffix": "studies"
+    }
+  ],
+  "intro": {
+    "title": "A gift from nature,",
+    "titleHighlight": "confirmed by science.",
+    "text": "Kava (Piper methysticum) is more than just a plant. For millennia, it has been the social and spiritual center of Pacific island cultures. Today, modern science confirms what islanders have always known: Kava relaxes the body and clears the mind without impairing cognitive abilities.",
+    "quote": "Kava is the only botanical substance with Level-1 evidence for the treatment of anxiety disorders.",
+    "quoteSource": "— Cochrane Review"
+  },
+  "features": [
+    {
+      "icon": "shield",
+      "title": "Safety",
+      "text": "Current research debunks old myths about liver toxicity with proper use."
+    },
+    {
+      "icon": "beaker",
+      "title": "Effect",
+      "text": "Proven anxiolytic (anxiety-relieving) properties through Kavalactones."
+    },
+    {
+      "icon": "history",
+      "title": "Culture",
+      "text": "Deeply rooted in the traditions of Vanuatu, Fiji, and Tonga."
+    }
+  ],
+  "categories": {
+    "title": "Knowledge Database",
+    "subtitle": "Dive deep into the world of Kava. Choose an area to learn more.",
+    "items": [
+      {
+        "title": "Botany",
+        "desc": "Morphology, cultivation, and distribution",
+        "link": "/botany"
+      },
+      {
+        "title": "History",
+        "desc": "From origins to modern times",
+        "link": "/history"
+      },
+      {
+        "title": "Ingredients",
+        "desc": "Kavalactones and chemotypes",
+        "link": "/ingredients"
+      },
+      {
+        "title": "Studies",
+        "desc": "Clinical research and evidence",
+        "link": "/studies"
+      },
+      {
+        "title": "Effect",
+        "desc": "Effects on body and mind",
+        "link": "/effect"
+      },
+      {
+        "title": "Safety",
+        "desc": "Dosage and side effects",
+        "link": "/safety"
+      },
+      {
+        "title": "Varieties",
+        "desc": "Noble Kava vs. Tudei",
+        "link": "/varieties"
+      },
+      {
+        "title": "Preparation",
+        "desc": "Traditional and modern methods",
+        "link": "/preparation"
+      }
+    ]
+  },
+  "partner": {
+    "label": "Official Partner",
+    "title": "Kava-mode.com",
+    "text": "Europe's leading Kava brand and global wholesaler of high-quality Noble Kava. Verified quality, directly from farms in the Pacific.",
+    "cta": "Visit the Shop"
+  },
+  "book": {
+    "label": "Recommended Reading",
+    "title": "\"Kava – Root of Calm\"",
+    "text": "The comprehensive guide to effects, application, history & culture by Sebastian Freidank. The standard work for anyone interested in Kava.",
+    "cta": "View Book"
+  }
+}

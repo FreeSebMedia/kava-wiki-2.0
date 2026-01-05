@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Safety & Health",
+    "subtitle": "Facts instead of Myths: A scientific look at hepatotoxicity, side effects, and safe consumption.",
+    "category": "Safety"
+  },
+  "toc": {
+    "title": "Contents",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Scientific Consensus",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Chapter Overview",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Liver Safety",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interactions",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Contraindications",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Dosage Recommendations",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Possible Side Effects",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Safety Checklist",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Current Scientific Consensus",
+    "intro": "According to comprehensive analyses by <strong>WHO</strong>, <strong>EMA</strong>, and independent researchers:",
+    "points": [
+      "Traditionally prepared Kava from noble varieties is <strong>safe</strong> when used properly",
+      "Severe liver damage is <strong>extremely rare</strong> (estimated incidence: 1 in 60,000 to 1 in 1,000,000)",
+      "The EU ban of 2002 was deemed <strong>disproportionate</strong> by German courts",
+      "Risks primarily arise from <strong>quality deficiencies</strong>, <strong>incorrect plant parts</strong>, or <strong>mixed consumption</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Chapter Overview: Safety in Detail",
+    "intro": "This chapter provides a comprehensive, scientifically grounded analysis of all safety-related aspects of Kava. Click on the subpages for detailed information:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Liver Safety & Hepatotoxicity",
+        "href": "/de/sicherheit/leber",
+        "description": "The scientific truth about the ban of 2002, WHO and EMA assessments, risk factors, and practical recommendations.",
+        "highlights": [
+          "WHO Assessment 2007",
+          "EMA Report 2017",
+          "Court Rulings",
+          "Risk Factors"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interactions with Medications",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalactones inhibit CYP450 enzymes: Complete overview of high-risk combinations and moderate interactions.",
+        "highlights": [
+          "CYP450 System",
+          "High-Risk Combinations",
+          "Interaction Table",
+          "Practical Tips"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Contraindications",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "When Kava should not be used: Absolute and relative contraindications for safe handling.",
+        "highlights": [
+          "Liver Diseases",
+          "Pregnancy",
+          "Parkinson's",
+          "Decision Aid"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Dosage Recommendations",
+    "intro": "The optimal dose depends heavily on individual tolerance (\"Reverse Tolerance\") and the Kava variety. Always start with lower doses.",
+    "boxTitle": "Guidelines for Kavalactones",
+    "medical": {
+      "title": "Medical (Anxiety)",
+      "value": "60–240 mg",
+      "unit": "Kavalactones per day"
+    },
+    "traditional": {
+      "title": "Traditional / Recreational",
+      "value": "250–500 mg",
+      "unit": "Kavalactones per session"
+    },
+    "tableTitle": "Preparation with Root Powder (Medium Grind)",
+    "table": {
+      "headers": {
+        "level": "Experience Level",
+        "amount": "Amount",
+        "water": "Water"
+      },
+      "rows": [
+        {
+          "level": "Beginner",
+          "amount": "2-3 tablespoons (approx. 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Advanced",
+          "amount": "4-6 tablespoons (approx. 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Possible Side Effects",
+    "intro": "Although Kava is safe when used properly, side effects can occur, especially with excessive consumption.",
+    "frequent": {
+      "title": "Common (dose-dependent)",
+      "items": [
+        {
+          "label": "Fatigue:",
+          "value": "Especially with \"Heavy\" varieties"
+        },
+        {
+          "label": "Nausea:",
+          "value": "With high doses on an empty stomach"
+        },
+        {
+          "label": "Dehydration:",
+          "value": "Kava has a diuretic effect"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "With Chronic Consumption",
+      "items": [
+        {
+          "label": "Kava Dermopathy:",
+          "value": "Dry, scaly skin (reversible)"
+        },
+        {
+          "label": "GGT Increase:",
+          "value": "Liver enzyme slightly elevated (reversible)"
+        },
+        {
+          "label": "Weight Loss:",
+          "value": "With very high consumption"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Safety Checklist",
+    "boxTitle": "For Safe Kava Consumption",
+    "items": [
+      "<strong>Use only Noble Kava</strong> from trusted sources",
+      "<strong>Use only root/rhizome</strong> – no leaves or stems",
+      "<strong>Prefer traditional aqueous preparation</strong>",
+      "<strong>No alcohol</strong> – at least 24 hours apart"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Medication Check</strong> – ",
+        "linkText": "Check for interactions",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Note Contraindications</strong> – ",
+        "linkText": "View checklist",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Pay Attention to Warning Signs",
+      "text": "If you notice yellowing of the skin/eyes, dark urine, light-colored stool, or unusual fatigue, immediately stop consumption and consult a doctor."
+    }
+  },
+  "quickLinks": {
+    "title": "Detailed Information",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Liver Safety",
+        "description": "Hepatotoxicity & the Ban of 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interactions",
+        "description": "Medications & CYP450 Interactions",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Contraindications",
+        "description": "When Kava should be avoided",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

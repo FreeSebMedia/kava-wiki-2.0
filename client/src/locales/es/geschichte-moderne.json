@@ -1,0 +1,256 @@
+{
+  "page": {
+    "title": "Historia Moderna",
+    "subtitle": "Desde la época colonial hasta la prohibición de 2002 y el renacimiento actual.",
+    "category": "Historia"
+  },
+  "breadcrumbs": [
+    {
+      "label": "Inicio",
+      "href": "/"
+    },
+    {
+      "label": "Historia",
+      "href": "/geschichte"
+    },
+    {
+      "label": "Historia Moderna"
+    }
+  ],
+  "toc": [
+    {
+      "id": "kolonialzeit",
+      "title": "Época Colonial & Misionería",
+      "level": 1
+    },
+    {
+      "id": "erster-kontakt",
+      "title": "Primer contacto europeo",
+      "level": 2
+    },
+    {
+      "id": "unterdrueckung",
+      "title": "Represión por parte de misioneros",
+      "level": 2
+    },
+    {
+      "id": "wissenschaft",
+      "title": "Descubrimiento científico",
+      "level": 1
+    },
+    {
+      "id": "boom",
+      "title": "El boom del Kava de los años 90",
+      "level": 1
+    },
+    {
+      "id": "verbot-2002",
+      "title": "La prohibición de 2002",
+      "level": 1
+    },
+    {
+      "id": "hintergrund",
+      "title": "Antecedentes del debate sobre el daño hepático",
+      "level": 2
+    },
+    {
+      "id": "folgen",
+      "title": "Consecuencias de la prohibición",
+      "level": 2
+    },
+    {
+      "id": "rehabilitation",
+      "title": "La rehabilitación",
+      "level": 1
+    },
+    {
+      "id": "gerichtsurteile",
+      "title": "Sentencias judiciales",
+      "level": 2
+    },
+    {
+      "id": "who-stellungnahme",
+      "title": "Declaración de la OMS",
+      "level": 2
+    },
+    {
+      "id": "heute",
+      "title": "Kava hoy",
+      "level": 1
+    },
+    {
+      "id": "dritte-welle",
+      "title": "La 'Tercera Ola'",
+      "level": 2
+    }
+  ],
+  "content": {
+    "lead": "La historia moderna del Kava es una historia de <strong>descubrimiento, represión, boom, crisis y rehabilitación</strong>. Muestra cómo una tradición milenaria fue influenciada por intereses occidentales – y cómo finalmente se ha mantenido.",
+    "kolonialzeit": {
+      "title": "Época Colonial & Misionería",
+      "erster_kontakt": {
+        "title": "Primer contacto europeo",
+        "text": "El primer contacto documentado entre europeos y Kava tuvo lugar durante los <strong>viajes de James Cook</strong> (1768–1779). El naturalista alemán <strong>Johann Georg Adam Forster</strong>, que acompañó a Cook en su segundo viaje alrededor del mundo, describió la planta en detalle y le dio en 1786 el nombre científico <em>Piper methysticum</em> – \"pimienta embriagadora\".",
+        "quote": "La pimienta que embriaga... un remedio contra las preocupaciones de la vida.",
+        "quote_author": "Johann Georg Adam Forster, 1786",
+        "follow_up": "Los primeros observadores europeos estaban fascinados por el efecto de la planta y su papel central en las sociedades del Pacífico. Pero esta fascinación pronto debería ceder ante otra actitud."
+      },
+      "unterdrueckung": {
+        "title": "Represión por parte de misioneros",
+        "text1": "En el siglo XIX, los <strong>misioneros</strong> cristianos comenzaron a actuar sistemáticamente contra el consumo de Kava. Veían en la planta una competencia para la comunión cristiana y un obstáculo para la \"civilización\" de los habitantes de las islas.",
+        "text2": "Los misioneros intentaron reemplazar el Kava con <strong>té y alcohol</strong> – con consecuencias devastadoras. Mientras que el Kava induce paz y fortalece la comunidad, la introducción del alcohol llevó a la violencia, la adicción y problemas sociales que perduran hasta hoy.",
+        "irony_title": "La ironía de la historia",
+        "irony_text": "Los misioneros prohibieron el Kava como \"sustancia del diablo\" y en su lugar introdujeron el alcohol. Hoy sabemos: el Kava no es adictivo y promueve un comportamiento pacífico, mientras que el alcohol puede llevar a la dependencia y la violencia. En muchas comunidades, el Kava se promueve hoy conscientemente como <strong>alternativa al alcohol</strong>.",
+        "conclusion": "En algunas regiones (como partes de Micronesia), el conocimiento sobre el Kava se perdió casi por completo. En Vanuatu y Fiji, sin embargo, la tradición sobrevivió como <strong>símbolo de resistencia cultural</strong> contra el poder colonial."
+      }
+    },
+    "wissenschaft": {
+      "title": "Descubrimiento científico",
+      "text1": "A finales del siglo XIX y principios del XX, los científicos occidentales comenzaron a interesarse por las <strong>propiedades farmacológicas</strong> del Kava. Se aislaron los primeros kavalactonas y se estudió su efecto en el sistema nervioso.",
+      "text2": "En Alemania, la <strong>Comisión E</strong> del Instituto Federal de Medicamentos y Productos Médicos (BfArM) reconoció oficialmente en 1990 la eficacia del Kava para \"estados de ansiedad, tensión y agitación nerviosa\". Esto llevó a la aprobación de numerosos preparados de Kava en farmacias alemanas."
+    },
+    "boom": {
+      "title": "El boom del Kava de los años 90",
+      "text1": "En los años 90, el Kava experimentó un <strong>boom sin precedentes</strong> en el mundo occidental. La planta se comercializó como una alternativa natural a los sedantes sintéticos como el Valium – con la promesa de tener un efecto ansiolítico sin causar adicción.",
+      "text2": "El mercado creció rápidamente. En Alemania, productos como <strong>\"Antares\"</strong>, <strong>\"Kavasporal forte\"</strong> y <strong>\"Laitan\"</strong> eran muy comunes. Al menos 24 empresas farmacéuticas vendían extractos de Kava en Europa. El mercado global del Kava alcanzó un valor de varios cientos de millones de dólares.",
+      "market_title": "El mercado del Kava antes de 2002",
+      "market_stats": [
+        {
+          "value": "24+",
+          "label": "Empresas farmacéuticas en Europa"
+        },
+        {
+          "value": "70+",
+          "label": "Millones de dosis diarias/año (DE)"
+        },
+        {
+          "value": "$200M+",
+          "label": "Valor de mercado global"
+        }
+      ]
+    },
+    "verbot_2002": {
+      "title": "La prohibición de 2002",
+      "alert_title": "El punto de inflexión",
+      "alert_text": "En junio de 2002, el BfArM revocó las autorizaciones para todos los medicamentos que contenían Kava en Alemania. La razón fueron 30 casos sospechosos de daño hepático asociados con el consumo de Kava.",
+      "hintergrund": {
+        "title": "Antecedentes del debate sobre el daño hepático",
+        "text": "La decisión del BfArM se basó en <strong>informes espontáneos</strong> de médicos que habían observado daños hepáticos en pacientes y sospechaban una relación con los preparados de Kava. Sin embargo, la calidad de estos informes fue controvertida desde el principio:",
+        "problems": [
+          {
+            "title": "No se probó causalidad",
+            "detail": "Los informes mostraron solo correlación temporal, sin relación causal"
+          },
+          {
+            "title": "Otros factores de riesgo",
+            "detail": "Muchos pacientes tomaban otros medicamentos al mismo tiempo o consumían alcohol"
+          },
+          {
+            "title": "Calidad del producto",
+            "detail": "Algunos productos contenían partes vegetales de baja calidad (hojas, tallos) en lugar de solo raíces"
+          },
+          {
+            "title": "Métodos de extracción",
+            "detail": "Extractos de acetona y etanol en lugar de la preparación acuosa tradicional"
+          },
+          {
+            "title": "Contaminación por Tudei",
+            "detail": "Es posible que se hayan utilizado variedades \"Tudei\" de baja calidad"
+          }
+        ]
+      },
+      "folgen": {
+        "title": "Consecuencias de la prohibición",
+        "text": "La prohibición tuvo consecuencias de gran alcance – no solo para el mercado europeo, sino también para los <strong>países de origen en el Pacífico</strong>:",
+        "consequences": [
+          {
+            "title": "Daño económico",
+            "text": "Vanuatu perdió de la noche a la mañana su mayor mercado de exportación. Miles de agricultores perdieron su medio de vida."
+          },
+          {
+            "title": "Ofensa cultural",
+            "text": "Las naciones del Pacífico vieron la prohibición como un ataque a su patrimonio cultural."
+          },
+          {
+            "title": "Controversia científica",
+            "text": "Muchos investigadores criticaron la decisión como apresurada y sin fundamento científico."
+          },
+          {
+            "title": "Efecto dominó",
+            "text": "Otros países (Reino Unido, Francia, Canadá) siguieron con sus propias restricciones."
+          }
+        ]
+      }
+    },
+    "rehabilitation": {
+      "title": "La rehabilitación",
+      "text": "En los años posteriores a la prohibición, aumentaron las voces que pedían una <strong>reevaluación</strong>. Estudios científicos mostraron que el Kava preparado tradicionalmente a partir de raíces de alta calidad es seguro.",
+      "gerichtsurteile": {
+        "title": "Sentencias judiciales",
+        "text": "Varios <strong>procedimientos judiciales</strong> en Alemania llevaron a la revocación gradual de la prohibición:",
+        "timeline": [
+          {
+            "year": "2014",
+            "title": "Primeras revocaciones",
+            "text": "El Tribunal Administrativo Superior de Renania del Norte-Westfalia declaró ilegal la revocación general de las autorizaciones. La justificación: la causalidad entre el Kava y el daño hepático no estaba suficientemente probada."
+          },
+          {
+            "year": "2019",
+            "title": "Revocación definitiva",
+            "text": "El Tribunal Administrativo Federal confirmó la revocación. La revocación de las autorizaciones fue declarada definitivamente ilegal. Los medicamentos de Kava podrían teóricamente ser autorizados nuevamente."
+          }
+        ]
+      },
+      "who_stellungnahme": {
+        "title": "Declaración de la OMS",
+        "text": "La <strong>Organización Mundial de la Salud (OMS)</strong> concluyó tras una revisión exhaustiva que el Kava preparado tradicionalmente a partir de variedades de Kava de calidad es seguro con un consumo moderado. Sin embargo, la OMS recomendó estándares de calidad para prevenir el uso de partes vegetales o variedades de baja calidad."
+      },
+      "consensus": {
+        "title": "Consenso científico hoy",
+        "text": "El consenso científico actual es claro: <strong>El Kava preparado tradicionalmente a partir de raíces de Kava de alta calidad es seguro con un consumo moderado.</strong> Los casos de daño hepático de 2002 se atribuyen hoy a productos de baja calidad, métodos de extracción incorrectos e interacciones."
+      }
+    },
+    "heute": {
+      "title": "Kava hoy",
+      "dritte_welle": {
+        "title": "La \"Tercera Ola\"",
+        "text": "Hoy estamos experimentando una <strong>\"Tercera Ola\"</strong> de la cultura del Kava:",
+        "trends": [
+          {
+            "title": "Bares de Kava",
+            "text": "En los EE. UU. ya hay cientos de bares de Kava como puntos de encuentro sociales sin alcohol. Desde Florida hasta California, están surgiendo lugares donde las personas pueden disfrutar del Kava en un ambiente relajado."
+          },
+          {
+            "title": "Conciencia de calidad",
+            "text": "El enfoque hoy está estrictamente en \"Kava Noble\" – variedades de Kava de alta calidad que se cultivan y procesan tradicionalmente."
+          },
+          {
+            "title": "Reconocimiento científico",
+            "text": "El Kava se considera la única sustancia botánica con evidencia de nivel 1 (Revisión Cochrane) para el tratamiento de trastornos de ansiedad."
+          },
+          {
+            "title": "Respeto cultural",
+            "text": "El nuevo movimiento del Kava valora el respeto hacia las culturas de origen y las prácticas comerciales justas."
+          }
+        ]
+      },
+      "today_boxes": [
+        {
+          "title": "En los países de origen",
+          "text": "Vanuatu, Fiji y Tonga han declarado el Kava como un <strong>patrimonio cultural nacional</strong>. Los gobiernos promueven la exportación de Kava de calidad y protegen el conocimiento tradicional a través de leyes y acuerdos internacionales."
+        },
+        {
+          "title": "En Europa",
+          "text": "Según la evaluación legal actual, el Kava en Alemania y la UE <strong>no es un Novel Food</strong> y, por lo tanto, es comercializable como alimento. El mercado crece lenta pero constantemente."
+        }
+      ],
+      "conclusion": "La historia del Kava muestra cómo una tradición milenaria fue influenciada, reprimida y finalmente rehabilitada por intereses occidentales. Hoy el Kava se encuentra en un <strong>punto de inflexión</strong>: la planta tiene el potencial de desempeñar un papel importante en la sociedad moderna como alternativa natural a los sedantes sintéticos – si se trata con el respeto y la conciencia de calidad necesarios."
+    }
+  },
+  "navigation": {
+    "next_label": "Continuar a la siguiente categoría:",
+    "next_title": "Estado legal actual",
+    "next_description": "La situación legal del Kava en Alemania y en todo el mundo",
+    "next_href": "/rechtsstatus"
+  }
+}

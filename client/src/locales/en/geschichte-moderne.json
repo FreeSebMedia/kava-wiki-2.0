@@ -1,0 +1,160 @@
+{
+  "page": {
+    "title": "Modern History",
+    "subtitle": "From colonialism through the 2002 ban to today's renaissance.",
+    "category": "History"
+  },
+  "breadcrumbs": [
+    { "label": "Home", "href": "/" },
+    { "label": "History", "href": "/history" },
+    { "label": "Modern History" }
+  ],
+  "toc": [
+    { "id": "kolonialzeit", "title": "Colonialism & Missionary Work", "level": 1 },
+    { "id": "erster-kontakt", "title": "First European Contact", "level": 2 },
+    { "id": "unterdrueckung", "title": "Suppression by Missionaries", "level": 2 },
+    { "id": "wissenschaft", "title": "Scientific Discovery", "level": 1 },
+    { "id": "boom", "title": "The Kava Boom of the 1990s", "level": 1 },
+    { "id": "verbot-2002", "title": "The 2002 Ban", "level": 1 },
+    { "id": "hintergrund", "title": "Background of the Liver Damage Debate", "level": 2 },
+    { "id": "folgen", "title": "Consequences of the Ban", "level": 2 },
+    { "id": "rehabilitation", "title": "The Rehabilitation", "level": 1 },
+    { "id": "gerichtsurteile", "title": "Court Rulings", "level": 2 },
+    { "id": "who-stellungnahme", "title": "WHO Statement", "level": 2 },
+    { "id": "heute", "title": "Kava Today", "level": 1 },
+    { "id": "dritte-welle", "title": "The 'Third Wave'", "level": 2 }
+  ],
+  "content": {
+    "lead": "The modern history of Kava is a story of <strong>discovery, suppression, boom, crisis, and rehabilitation</strong>. It shows how an ancient tradition was influenced by Western interests – and how it ultimately prevailed.",
+    "kolonialzeit": {
+      "title": "Colonialism & Missionary Work",
+      "erster_kontakt": {
+        "title": "First European Contact",
+        "text": "The first documented contact between Europeans and Kava occurred during the <strong>voyages of James Cook</strong> (1768–1779). German naturalist <strong>Johann Georg Adam Forster</strong>, who accompanied Cook on his second circumnavigation, described the plant in detail and gave it the scientific name <em>Piper methysticum</em> in 1786 – \"intoxicating pepper\".",
+        "quote": "The pepper that intoxicates... a remedy against life's sorrows.",
+        "quote_author": "Johann Georg Adam Forster, 1786",
+        "follow_up": "Early European observers were fascinated by the plant's effects and its central role in Pacific societies. But this fascination would soon give way to a different attitude."
+      },
+      "unterdrueckung": {
+        "title": "Suppression by Missionaries",
+        "text1": "In the 19th century, Christian <strong>missionaries</strong> began systematically opposing Kava consumption. They saw the plant as competition for Christian communion and an obstacle to the \"civilization\" of island inhabitants.",
+        "text2": "Missionaries attempted to replace Kava with <strong>tea and alcohol</strong> – with devastating consequences. While Kava promotes peace and strengthens community, the introduction of alcohol led to violence, addiction, and social problems that persist today.",
+        "irony_title": "The Irony of History",
+        "irony_text": "Missionaries banned Kava as \"devil's work\" and introduced alcohol instead. Today we know: Kava is not addictive and promotes peaceful behavior, while alcohol leads to dependence and violence. In many communities, Kava is now consciously promoted as an <strong>alternative to alcohol</strong>.",
+        "conclusion": "In some regions (such as parts of Micronesia), knowledge of Kava was almost completely lost. In Vanuatu and Fiji, however, the tradition survived as a <strong>symbol of cultural resistance</strong> against colonial power."
+      }
+    },
+    "wissenschaft": {
+      "title": "Scientific Discovery",
+      "text1": "In the late 19th and early 20th centuries, Western scientists began to take interest in Kava's <strong>pharmacological properties</strong>. The first kavalactones were isolated and their effects on the nervous system studied.",
+      "text2": "In Germany, the <strong>Commission E</strong> of the Federal Institute for Drugs and Medical Devices (BfArM) officially recognized Kava's effectiveness for \"nervous anxiety, tension, and restlessness\" in 1990. This led to the approval of numerous Kava preparations in German pharmacies."
+    },
+    "boom": {
+      "title": "The Kava Boom of the 1990s",
+      "text1": "In the 1990s, Kava experienced an <strong>unprecedented boom</strong> in the Western world. The plant was marketed as a natural alternative to synthetic sedatives like Valium – with the promise of reducing anxiety without causing addiction.",
+      "text2": "The market grew rapidly. In Germany, products like <strong>\"Antares\"</strong>, <strong>\"Kavasporal forte\"</strong>, and <strong>\"Laitan\"</strong> were widely available. At least 24 pharmaceutical companies sold Kava extracts in Europe. The global Kava market reached a value of several hundred million dollars.",
+      "market_title": "The Kava Market Before 2002",
+      "market_stats": [
+        { "value": "24+", "label": "Pharmaceutical companies in Europe" },
+        { "value": "70+", "label": "Million daily doses/year (Germany)" },
+        { "value": "$200M+", "label": "Global market value" }
+      ]
+    },
+    "verbot_2002": {
+      "title": "The 2002 Ban",
+      "alert_title": "The Turning Point",
+      "alert_text": "In June 2002, the BfArM revoked approvals for all Kava-containing medicines in Germany. The reason: 30 reported suspected cases of liver damage associated with Kava consumption.",
+      "hintergrund": {
+        "title": "Background of the Liver Damage Debate",
+        "text": "The BfArM's decision was based on <strong>spontaneous reports</strong> from doctors who had observed liver damage in patients and suspected a link to Kava preparations. But the quality of these reports was controversial from the start:",
+        "problems": [
+          { "title": "No causality proven", "detail": "The reports showed only temporal correlation, not causal relationship" },
+          { "title": "Other risk factors", "detail": "Many patients were taking other medications or consuming alcohol simultaneously" },
+          { "title": "Product quality", "detail": "Some products contained inferior plant parts (leaves, stems) instead of roots only" },
+          { "title": "Extraction methods", "detail": "Acetone and ethanol extracts instead of traditional aqueous preparation" },
+          { "title": "Tudei contamination", "detail": "Possibly inferior \"Tudei\" varieties were used" }
+        ]
+      },
+      "folgen": {
+        "title": "Consequences of the Ban",
+        "text": "The ban had far-reaching consequences – not only for the European market, but also for <strong>Pacific island nations</strong>:",
+        "consequences": [
+          { "title": "Economic damage", "text": "Vanuatu lost its largest export market overnight. Thousands of farmers lost their livelihoods." },
+          { "title": "Cultural offense", "text": "Pacific nations saw the ban as an attack on their cultural heritage." },
+          { "title": "Scientific controversy", "text": "Many researchers criticized the decision as premature and scientifically unfounded." },
+          { "title": "Domino effect", "text": "Other countries (UK, France, Canada) followed with their own restrictions." }
+        ]
+      }
+    },
+    "rehabilitation": {
+      "title": "The Rehabilitation",
+      "text": "In the years following the ban, voices calling for <strong>reassessment</strong> grew louder. Scientific studies showed that traditionally prepared Kava from high-quality roots is safe.",
+      "gerichtsurteile": {
+        "title": "Court Rulings",
+        "text": "Several <strong>court proceedings</strong> in Germany led to the gradual lifting of the ban:",
+        "timeline": [
+          {
+            "year": "2014",
+            "title": "First Reversals",
+            "text": "The Higher Administrative Court of North Rhine-Westphalia ruled the blanket revocation of approvals unlawful. The reasoning: the causality between Kava and liver damage was not sufficiently proven."
+          },
+          {
+            "year": "2019",
+            "title": "Final Reversal",
+            "text": "The Federal Administrative Court confirmed the reversal. The revocation of approvals was finally declared unlawful. Kava medicines could theoretically be reapproved."
+          }
+        ]
+      },
+      "who_stellungnahme": {
+        "title": "WHO Statement",
+        "text": "The <strong>World Health Organization (WHO)</strong> concluded after a comprehensive review that traditionally prepared Kava from noble varieties is safe at moderate consumption levels. However, the WHO recommended quality standards to prevent the use of inferior plant parts or varieties."
+      },
+      "consensus": {
+        "title": "Scientific Consensus Today",
+        "text": "The current scientific consensus is clear: <strong>Traditionally prepared Kava from high-quality noble roots is safe at moderate consumption.</strong> The 2002 liver damage cases are now attributed to inferior products, incorrect extraction methods, and drug interactions."
+      }
+    },
+    "heute": {
+      "title": "Kava Today",
+      "dritte_welle": {
+        "title": "The 'Third Wave'",
+        "text": "Today we are experiencing a <strong>\"Third Wave\"</strong> of Kava culture:",
+        "trends": [
+          {
+            "title": "Kava Bars",
+            "text": "In the USA, there are now hundreds of Kava bars as alcohol-free social gathering places. From Florida to California, venues are emerging where people can enjoy Kava in a relaxed atmosphere."
+          },
+          {
+            "title": "Quality Consciousness",
+            "text": "Today's focus is strictly on \"Noble Kava\" – high-quality noble varieties that are traditionally grown and processed."
+          },
+          {
+            "title": "Scientific Recognition",
+            "text": "Kava is the only botanical substance with Level-1 evidence (Cochrane Review) for treating anxiety disorders."
+          },
+          {
+            "title": "Cultural Respect",
+            "text": "The new Kava movement values respect for source cultures and fair trade practices."
+          }
+        ]
+      },
+      "today_boxes": [
+        {
+          "title": "In Source Countries",
+          "text": "Vanuatu, Fiji, and Tonga have declared Kava a <strong>national cultural asset</strong>. Governments promote the export of quality Kava and protect traditional knowledge through laws and international agreements."
+        },
+        {
+          "title": "In Europe",
+          "text": "According to current legal assessment, Kava in Germany and the EU is <strong>not a novel food</strong> and is therefore permissible as a food. The market is growing slowly but steadily."
+        }
+      ],
+      "conclusion": "The history of Kava shows how an ancient tradition was influenced by Western interests, suppressed, and ultimately rehabilitated. Today, Kava stands at a <strong>crossroads</strong>: the plant has the potential to play an important role in modern society as a natural alternative to synthetic sedatives – if treated with the necessary respect and quality consciousness."
+    }
+  },
+  "navigation": {
+    "next_label": "Continue to the next category:",
+    "next_title": "Current Legal Status",
+    "next_description": "The legal situation of Kava in Germany and worldwide",
+    "next_href": "/legal-status"
+  }
+}

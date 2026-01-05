@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Seguridad y Salud",
+    "subtitle": "Hechos en lugar de mitos: Una mirada científica a la hepatotoxicidad, efectos secundarios y consumo seguro.",
+    "category": "Seguridad"
+  },
+  "toc": {
+    "title": "Contenido",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Consenso científico",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Resumen de capítulos",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Seguridad hepática",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Interacciones",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Contraindicaciones",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Recomendaciones de dosificación",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Posibles efectos secundarios",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Lista de verificación de seguridad",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Consenso científico actual",
+    "intro": "Tras amplios análisis por parte de <strong>OMS</strong>, <strong>EMA</strong> e investigadores independientes:",
+    "points": [
+      "El Kava preparado tradicionalmente de variedades nobles es <strong>seguro</strong> cuando se usa adecuadamente",
+      "Los daños hepáticos graves son <strong>extremadamente raros</strong> (incidencia estimada: 1:60,000 a 1:1,000,000)",
+      "La prohibición de la UE de 2002 fue considerada por los tribunales alemanes como <strong>desproporcionada</strong>",
+      "Los riesgos surgen principalmente por <strong>deficiencias de calidad</strong>, <strong>partes de planta incorrectas</strong> o <strong>consumo combinado</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "Resumen de capítulos: Seguridad en detalle",
+    "intro": "Este capítulo ofrece un análisis exhaustivo y fundamentado científicamente de todos los aspectos relacionados con la seguridad del Kava. Haga clic en las subpáginas para obtener información detallada:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Seguridad hepática y hepatotoxicidad",
+        "href": "/de/sicherheit/leber",
+        "description": "La verdad científica sobre la prohibición de 2002, evaluaciones de la OMS y EMA, factores de riesgo y recomendaciones prácticas.",
+        "highlights": [
+          "Evaluación de la OMS 2007",
+          "Informe de la EMA 2017",
+          "Sentencias judiciales",
+          "Factores de riesgo"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Interacciones con medicamentos",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Las Kavalactonas inhiben las enzimas CYP450: Visión completa de combinaciones de alto riesgo e interacciones moderadas.",
+        "highlights": [
+          "Sistema CYP450",
+          "Combinaciones de alto riesgo",
+          "Tabla de interacciones",
+          "Consejos prácticos"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Contraindicaciones",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Cuándo no se debe usar Kava: Contraindicaciones absolutas y relativas para un manejo seguro.",
+        "highlights": [
+          "Enfermedades hepáticas",
+          "Embarazo",
+          "Parkinson",
+          "Ayuda para la toma de decisiones"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Recomendaciones de dosificación",
+    "intro": "La dosis óptima depende en gran medida de la tolerancia individual (\"Tolerancia inversa\") y de la variedad de Kava. Siempre comience con dosis más bajas.",
+    "boxTitle": "Valores de referencia para Kavalactonas",
+    "medical": {
+      "title": "Médico (Ansiedad)",
+      "value": "60–240 mg",
+      "unit": "Kavalactonas por día"
+    },
+    "traditional": {
+      "title": "Tradicional / Recreativo",
+      "value": "250–500 mg",
+      "unit": "Kavalactonas por sesión"
+    },
+    "tableTitle": "Preparación con polvo de raíz (molienda media)",
+    "table": {
+      "headers": {
+        "level": "Nivel de experiencia",
+        "amount": "Cantidad",
+        "water": "Agua"
+      },
+      "rows": [
+        {
+          "level": "Principiante",
+          "amount": "2-3 cucharadas (aprox. 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Intermedio",
+          "amount": "4-6 cucharadas (aprox. 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Posibles efectos secundarios",
+    "intro": "Aunque el Kava es seguro cuando se usa adecuadamente, pueden ocurrir efectos secundarios, especialmente con el consumo excesivo.",
+    "frequent": {
+      "title": "Frecuentes (dependientes de la dosis)",
+      "items": [
+        {
+          "label": "Fatiga:",
+          "value": "Particularmente con variedades \"Heavy\""
+        },
+        {
+          "label": "Náuseas:",
+          "value": "Con dosis altas en ayunas"
+        },
+        {
+          "label": "Deshidratación:",
+          "value": "El Kava tiene un efecto diurético"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Con consumo crónico",
+      "items": [
+        {
+          "label": "Dermopatía por Kava:",
+          "value": "Piel seca y escamosa (reversible)"
+        },
+        {
+          "label": "Aumento de GGT:",
+          "value": "La enzima hepática aumenta ligeramente (reversible)"
+        },
+        {
+          "label": "Pérdida de peso:",
+          "value": "Con consumo muy alto"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Lista de verificación de seguridad",
+    "boxTitle": "Para un consumo seguro de Kava",
+    "items": [
+      "<strong>Usar solo Kava noble</strong> de fuentes confiables",
+      "<strong>Solo raíz/rizoma</strong> – sin hojas ni tallos",
+      "<strong>Preferir la preparación acuosa tradicional</strong>",
+      "<strong>No consumir alcohol</strong> – al menos 24 horas de diferencia"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Verificación de medicamentos</strong> – ",
+        "linkText": "Comprobar interacciones",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Prestar atención a las contraindicaciones</strong> – ",
+        "linkText": "Ver lista de verificación",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Prestar atención a las señales de advertencia",
+      "text": "Si hay coloración amarillenta de la piel/ojos, orina oscura, heces claras o fatiga inusual, interrumpa el consumo de inmediato y consulte a un médico."
+    }
+  },
+  "quickLinks": {
+    "title": "Información detallada",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Seguridad hepática",
+        "description": "Hepatotoxicidad y la prohibición de 2002",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Interacciones",
+        "description": "Medicamentos e interacciones CYP450",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Contraindicaciones",
+        "description": "Cuándo se debe evitar el Kava",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

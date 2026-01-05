@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Contraindications",
+    "subtitle": "When Kava should not be used: Absolute and relative contraindications for safe use.",
+    "category": "Safety",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Safety",
+      "current": "Contraindications"
+    }
+  },
+  "toc": {
+    "title": "Contents",
+    "zusammenfassung": "Summary",
+    "absolute": "Absolute Contraindications",
+    "leber": "Liver Diseases",
+    "schwangerschaft": "Pregnancy & Lactation",
+    "kinder": "Children & Adolescents",
+    "relative": "Relative Contraindications",
+    "parkinson": "Parkinson's Disease",
+    "depression": "Severe Depression",
+    "operation": "Before Surgeries",
+    "fahren": "Driving & Operating Machinery",
+    "vorsicht": "Particular Caution",
+    "genetik": "Genetic Factors",
+    "alter": "Older Adults",
+    "entscheidungshilfe": "Decision Aid",
+    "quellen": "Sources"
+  },
+  "navigation": {
+    "continueTitle": "Continue in the Safety Chapter",
+    "items": [
+      {
+        "title": "Overview",
+        "href": "/de/sicherheit",
+        "description": "Back to the safety overview"
+      },
+      {
+        "title": "Liver Safety",
+        "href": "/de/sicherheit/leber",
+        "description": "Hepatotoxicity & the ban of 2002"
+      },
+      {
+        "title": "Interactions",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Medications & CYP450 interactions"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Important Overview",
+    "intro": "Although Kava is considered safe when used properly, there are certain situations in which its use is not recommended or contraindicated:",
+    "absolut": {
+      "title": "Absolutely contraindicated:",
+      "items": [
+        "Liver diseases",
+        "Pregnancy & lactation",
+        "Children under 18 years"
+      ]
+    },
+    "relativ": {
+      "title": "Relative Contraindications:",
+      "items": [
+        "Parkinson's disease",
+        "Severe depression",
+        "Before planned surgeries"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Absolute Contraindications",
+    "intro": "Kava should <strong>under no circumstances</strong> be used in the following conditions. The risks clearly outweigh any potential benefits."
+  },
+  "leber": {
+    "title": "Liver Diseases",
+    "label": "Strictly contraindicated",
+    "intro": "Individuals with existing liver diseases should completely avoid Kava:",
+    "items": [
+      {
+        "name": "Hepatitis (A, B, C)",
+        "text": "Active or chronic liver inflammation"
+      },
+      {
+        "name": "Liver cirrhosis",
+        "text": "Regardless of the stage"
+      },
+      {
+        "name": "Fatty liver",
+        "text": "Alcoholic and non-alcoholic fatty liver disease"
+      },
+      {
+        "name": "Elevated liver values",
+        "text": "Unexplained increase in ALT, AST, GGT"
+      },
+      {
+        "name": "Previous liver damage",
+        "text": "Even if currently normalized"
+      }
+    ],
+    "reasonLabel": "Reason:",
+    "reason": "The liver is the central organ for the metabolism of Kavalactones. With impaired liver function, metabolites can accumulate and increase the risk of further damage."
+  },
+  "schwangerschaft": {
+    "title": "Pregnancy & Lactation",
+    "label": "Strictly contraindicated",
+    "intro": "Kava should not be used during pregnancy and lactation:",
+    "items": [
+      {
+        "name": "No safety data",
+        "text": "There are no controlled studies on safety during pregnancy"
+      },
+      {
+        "name": "Placental permeability",
+        "text": "Kavalactones can cross the placental barrier"
+      },
+      {
+        "name": "Breast milk",
+        "text": "Kavalactones pass into breast milk"
+      },
+      {
+        "name": "Uterine relaxation",
+        "text": "Kavain can relax uterine muscles"
+      }
+    ],
+    "traditionLabel": "Traditional Practice:",
+    "tradition": "In Pacific cultures, Kava is traditionally not consumed by pregnant or breastfeeding women."
+  },
+  "kinder": {
+    "title": "Children & Adolescents",
+    "label": "Not recommended under 18 years",
+    "intro": "Kava should not be used by children and adolescents:",
+    "items": [
+      {
+        "name": "Development",
+        "text": "Effects on brain development not studied"
+      },
+      {
+        "name": "Metabolism",
+        "text": "Children metabolize substances differently than adults"
+      },
+      {
+        "name": "No studies",
+        "text": "No clinical data for this age group"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Relative Contraindications",
+    "intro": "In the following conditions, particular caution is advised. Use may be possible under certain circumstances but should only be done after careful consideration and ideally after consulting a physician."
+  },
+  "parkinson": {
+    "title": "Parkinson's Disease",
+    "label": "Not recommended",
+    "intro": "Kava may worsen Parkinson's symptoms:",
+    "items": [
+      {
+        "name": "Dopamine antagonism",
+        "text": "Kava may diminish dopaminergic effects"
+      },
+      {
+        "name": "Levodopa interaction",
+        "text": "May reduce the effectiveness of Levodopa"
+      },
+      {
+        "name": "Case reports",
+        "text": "Worsening of symptoms documented under Kava"
+      }
+    ],
+    "caseReportLabel": "Case report:",
+    "caseReport": "Schelosky et al. (1995) reported on a 45-year-old woman with Parkinson's whose symptoms significantly worsened with Kava intake."
+  },
+  "depression": {
+    "title": "Severe Depression",
+    "label": "Caution advised",
+    "intro": "Caution is warranted in cases of severe depression:",
+    "items": [
+      {
+        "name": "CNS depression",
+        "text": "Kava may enhance lethargy"
+      },
+      {
+        "name": "Medication interaction",
+        "text": "Interactions with antidepressants possible"
+      },
+      {
+        "name": "Self-medication",
+        "text": "May delay professional treatment"
+      }
+    ],
+    "noteLabel": "Note:",
+    "note": "In cases of mild to moderate anxiety, Kava may be helpful, but in severe depression, professional treatment should take precedence."
+  },
+  "operation": {
+    "title": "Before Planned Surgeries",
+    "label": "Discontinue 2 weeks prior",
+    "intro": "Kava should be discontinued before planned surgeries:",
+    "items": [
+      {
+        "name": "Anesthesia interaction",
+        "text": "May enhance the effects of anesthetics"
+      },
+      {
+        "name": "Bleeding risk",
+        "text": "Possible interaction with anticoagulant medications"
+      },
+      {
+        "name": "Liver function",
+        "text": "Important for the metabolism of anesthetics"
+      }
+    ],
+    "recommendation": "Recommendation: Discontinue Kava at least 2 weeks before a planned surgery and inform the anesthetist about prior use."
+  },
+  "fahren": {
+    "title": "Driving & Operating Machinery",
+    "label": "Impaired driving ability",
+    "intro": "Kava may impair reaction ability:",
+    "items": [
+      {
+        "name": "Sedation",
+        "text": "Fatigue and slowed reactions possible"
+      },
+      {
+        "name": "Dose-dependent",
+        "text": "Higher doses impair more significantly"
+      },
+      {
+        "name": "Individual differences",
+        "text": "Sensitivity varies widely"
+      }
+    ],
+    "noteLabel": "Note:",
+    "note": "In contrast to benzodiazepines, studies show that Kava affects cognitive function less. Nevertheless, one should be aware of their individual reaction before driving."
+  },
+  "vorsicht": {
+    "title": "Particular Caution",
+    "intro": "In certain groups of people, increased attention is required, even if there is no strict contraindication."
+  },
+  "genetik": {
+    "title": "Genetic Factors (CYP2D6 Polymorphisms)",
+    "label": "Increased sensitivity possible",
+    "intro": "About 5-10% of the European population are \"Poor Metabolizers\" for CYP2D6:",
+    "items": [
+      {
+        "name": "Slower metabolism",
+        "text": "Kavalactones remain in the body longer"
+      },
+      {
+        "name": "Higher blood levels",
+        "text": "Enhanced effects and side effects"
+      },
+      {
+        "name": "Recognition",
+        "text": "Unusually strong reaction to normal doses"
+      }
+    ],
+    "recommendationLabel": "Recommendation:",
+    "recommendation": "If you react unusually sensitively to Kava, a genetic factor may be involved. Start with lower doses."
+  },
+  "alter": {
+    "title": "Older Adults",
+    "label": "Adjusted dosage recommended",
+    "intro": "Particular caution is advised in older adults:",
+    "items": [
+      {
+        "name": "Reduced liver function",
+        "text": "Slower metabolism with age"
+      },
+      {
+        "name": "Polypharmacy",
+        "text": "Higher risk of interactions"
+      },
+      {
+        "name": "Fall risk",
+        "text": "Sedation may increase the risk of falls"
+      }
+    ],
+    "recommendationLabel": "Recommendation:",
+    "recommendation": "Start with half the usual dose and gradually increase."
+  },
+  "entscheidungshilfe": {
+    "title": "Decision Aid: Is Kava Suitable for Me?",
+    "selfCheck": {
+      "title": "Self-Check Before Kava Consumption",
+      "nicht": {
+        "title": "Kava is NOT suitable if you:",
+        "items": [
+          "Have or had a liver disease",
+          "Are pregnant or breastfeeding",
+          "Are under 18 years old",
+          "Drink alcohol regularly",
+          "Take benzodiazepines or antipsychotics",
+          "Take anticoagulants (blood thinners)"
+        ]
+      },
+      "arzt": {
+        "title": "Talk to your doctor if you:",
+        "items": [
+          "Have Parkinson's disease",
+          "Suffer from severe depression",
+          "Take medications regularly",
+          "Have a surgery planned",
+          "Are over 65 years old"
+        ]
+      },
+      "geeignet": {
+        "title": "Kava may be suitable if you:",
+        "items": [
+          "Are healthy and have no liver problems",
+          "Do not take any of the medications listed above",
+          "Drink little or only occasionally",
+          "Are an adult (over 18 years)",
+          "Are not pregnant or breastfeeding"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "General Recommendation",
+      "text": "In case of doubt, consult a doctor or pharmacist before consuming Kava, especially if you regularly take medications or have health limitations."
+    }
+  },
+  "warnzeichen": {
+    "title": "Warning Signs: When You Should Stop Immediately",
+    "intro": "Stop consumption immediately and consult a doctor if you experience:",
+    "items": [
+      {
+        "name": "Yellowing",
+        "text": "of skin or eyes (jaundice)"
+      },
+      {
+        "name": "Dark urine",
+        "text": "(beer-colored)"
+      },
+      {
+        "name": "Pale stool",
+        "text": "(discolored)"
+      },
+      {
+        "name": "Unusual fatigue",
+        "text": "or weakness"
+      },
+      {
+        "name": "Nausea",
+        "text": "or loss of appetite"
+      },
+      {
+        "name": "Pain",
+        "text": "in the upper right abdomen"
+      }
+    ],
+    "note": "These symptoms may indicate liver problems and require immediate medical evaluation."
+  },
+  "quellen": {
+    "title": "Sources",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Assessment Report on Piper methysticum G. Forst., rhizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "Assessment of the Risk of Hepatotoxicity with Kava Products.",
+        "source": "WHO Technical Report."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava and dopamine antagonism.",
+        "source": "Journal of Neurology, Neurosurgery & Psychiatry."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: a comprehensive review of efficacy, safety, and psychopharmacology.",
+        "source": "Australian & New Zealand Journal of Psychiatry."
+      }
+    ],
+    "moreStudies": "A complete list of all cited studies can be found on our",
+    "studiesLink": "Studies page"
+  }
+}

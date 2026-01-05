@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Blender Method",
+    "subtitle": "The quick and effective way to prepare Kava – ideal for modern daily life.",
+    "category": "Preparation"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "zubereitung": "Preparation",
+    "current": "Blender Method"
+  },
+  "toc": {
+    "title": "Contents",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Overview",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Required Materials",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Step-by-Step Instructions",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Comparison to Traditional Method",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Expert Tips",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Total Time",
+    "fast": "Fast",
+    "lowEffort": "Low Effort",
+    "highPotency": "High Potency",
+    "effectiveExtraction": "Effective Extraction",
+    "tip": "Tip",
+    "essential": "Essential",
+    "importantForBestResults": "Important for Best Results",
+    "aspect": "Aspect",
+    "traditional": "Traditional (Kneading)",
+    "blender": "Blender",
+    "otherMethods": "Other Preparation Methods"
+  },
+  "overview": {
+    "intro": "The Blender Method is the <strong>modern alternative</strong> to the traditional kneading method. It is faster, less labor-intensive, and still provides a <strong>very good extraction</strong>.",
+    "alert": {
+      "title": "Ideal for...",
+      "text": "Beginners looking for an easy method, or experienced users who have little time. The Blender Method is also perfect for larger quantities."
+    }
+  },
+  "materials": {
+    "title": "Required Materials",
+    "essential": [
+      {
+        "name": "Stand Mixer / Blender",
+        "note": "At least 500 watts, better 1000+ watts"
+      },
+      {
+        "name": "Kava Root Powder",
+        "type": "Medium Grind",
+        "note": "20-40g depending on experience"
+      },
+      {
+        "name": "Filter Bag",
+        "note": "Nut milk bag or fine sieve"
+      },
+      {
+        "name": "Warm Water",
+        "note": "400-600ml, hand warm (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Coconut Oil or Coconut Milk",
+        "note": "1 tablespoon – essential for good extraction!"
+      },
+      {
+        "name": "Kitchen Scale",
+        "note": "For consistent dosing"
+      },
+      {
+        "name": "Large Bowl",
+        "note": "For catching during filtering"
+      }
+    ],
+    "alert": {
+      "title": "Mixer Requirements",
+      "text": "Use a powerful stand mixer. Hand blenders or weak mixers do not extract effectively and can overheat. High-performance blenders like Vitamix or Blendtec are ideal."
+    }
+  },
+  "steps": {
+    "title": "Step-by-Step Instructions",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Prepare Ingredients",
+        "duration": "2 Min",
+        "description": "Measure and prepare all ingredients.",
+        "details": [
+          "Weigh Kava powder (20-40g depending on experience)",
+          "Measure water (400-600ml)",
+          "Prepare 1 tablespoon of coconut oil or coconut milk",
+          "Set aside filter bag and catching bowl"
+        ],
+        "tip": "The fat is particularly important in the Blender Method as it stabilizes the emulsion."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Add to Blender",
+        "duration": "1 Min",
+        "description": "Fill all ingredients into the stand mixer.",
+        "details": [
+          "First, pour in the water (hand warm, 35-45°C)",
+          "Then add the Kava powder",
+          "Finally, add the fat (coconut oil/coconut milk)",
+          "Seal the lid tightly!"
+        ],
+        "tip": "Warm water improves extraction. Cold water works too, but is less effective."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Blend",
+        "duration": "3-4 Min",
+        "description": "Blend on the highest setting for maximum extraction.",
+        "details": [
+          "Set the mixer to the highest setting",
+          "Blend continuously for 3-4 minutes",
+          "The mixture will become frothy and milky-brown",
+          "Take short breaks if overheating occurs"
+        ],
+        "tip": "Longer blending = stronger Kava. But be careful: some mixers overheat after 4+ minutes."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filter",
+        "duration": "3 Min",
+        "description": "Pour the mixture through a filter bag.",
+        "details": [
+          "Position the filter bag over a large bowl",
+          "Slowly pour in the blender mixture",
+          "Squeeze and wring out the bag",
+          "Press firmly several times until little liquid remains"
+        ],
+        "tip": "This step is important! Without filtering, you will drink coarse fibers that can cause nausea."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Serve",
+        "duration": "Immediately",
+        "description": "Enjoy your Blender Kava!",
+        "details": [
+          "Pour into bowls or cups",
+          "Optional: Chill briefly in the refrigerator for cold Kava",
+          "Drink in one go ('Chug')",
+          "Have a chaser (fruit) ready"
+        ],
+        "tip": "Blender Kava may taste slightly more bitter than traditionally prepared Kava. A good chaser helps!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Comparison to Traditional Method",
+    "conclusion": "<strong>Conclusion:</strong> The Blender Method is ideal for everyday use and beginners. For special occasions or maximum potency, the traditional method is preferable.",
+    "items": [
+      {
+        "aspect": "Preparation Time",
+        "traditional": "20-25 minutes",
+        "blender": "8-10 minutes",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Potency",
+        "traditional": "Very high",
+        "blender": "High to very high",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Taste",
+        "traditional": "Milder, earthier",
+        "blender": "Bitterer, more intense",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Effort",
+        "traditional": "High (physical)",
+        "blender": "Low",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Equipment",
+        "traditional": "Only bag + bowl",
+        "blender": "Stand mixer required",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "For Beginners",
+        "traditional": "Well suited",
+        "blender": "Very well suited",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Expert Tips",
+    "items": [
+      {
+        "name": "Ice Cube Trick",
+        "text": "Add 2-3 ice cubes to the blender. This cools the mixture while blending and prevents overheating during longer blend times."
+      },
+      {
+        "name": "Double Filtering",
+        "text": "Filter twice – first through a coarse bag, then through a fine bag. This results in a smoother Kava without sediment."
+      },
+      {
+        "name": "Lecithin Boost",
+        "text": "A teaspoon of sunflower lecithin improves the emulsion and can increase the bioavailability of Kavalactones."
+      },
+      {
+        "name": "Batch Preparation",
+        "text": "Prepare larger quantities and store the filtered Kava in the refrigerator. Keeps for 2-3 days. Shake well before drinking!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Traditional Kneading Method",
+      "subtitle": "Maximum potency, authentic experience",
+      "href": "/en/preparation/traditional"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "No effort, ready to drink immediately",
+      "href": "/en/preparation/instant"
+    },
+    "calculator": {
+      "title": "Dosage Calculator",
+      "subtitle": "Personalized recommendations for your strain",
+      "href": "/en/preparation/calculator"
+    }
+  }
+}

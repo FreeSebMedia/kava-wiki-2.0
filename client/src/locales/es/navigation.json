@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Cambiar idioma"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Botánica",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Introducción a la botánica"
+        },
+        "pflanze": {
+          "name": "La Planta",
+          "description": "Taxonomía & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Morfología",
+          "description": "Anatomía & sistema radicular"
+        },
+        "anbau": {
+          "name": "Cultivo & Ecología",
+          "description": "Cultivación & reproducción"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "Historia",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Historia del Kava"
+        },
+        "urspruenge": {
+          "name": "Orígenes",
+          "description": "Vanuatu & domesticación"
+        },
+        "verbreitung": {
+          "name": "Distribución",
+          "description": "La expansión del Pacífico"
+        },
+        "moderne": {
+          "name": "Historia Moderna",
+          "description": "Prohibición 2002 & rehabilitación"
+        },
+        "zeitleiste": {
+          "name": "Línea de tiempo interactiva",
+          "description": "5000 años de historia del Kava"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Ingredientes",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Kavalactonas & quimiotipos"
+        },
+        "kavalactone": {
+          "name": "Las 6 Kavalactonas",
+          "description": "Perfiles de acción detallados"
+        },
+        "chemotypen": {
+          "name": "Sistema de quimiotipos",
+          "description": "Reconocer Noble vs. Tudei"
+        },
+        "rechner": {
+          "name": "Calculadora de quimiotipos",
+          "description": "Herramienta de análisis interactiva"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Efecto",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Mecanismos de acción"
+        },
+        "angst": {
+          "name": "Alivio de la ansiedad",
+          "description": "Efecto ansiolítico"
+        },
+        "schlaf": {
+          "name": "Sueño & relajación",
+          "description": "Efectos sedantes"
+        },
+        "muskel": {
+          "name": "Relajación muscular",
+          "description": "Relajación física"
+        },
+        "stimmung": {
+          "name": "Estado de ánimo & social",
+          "description": "Efectos euforizantes"
+        },
+        "kognition": {
+          "name": "Efectos cognitivos",
+          "description": "Enfoque & tolerancia inversa"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Seguridad",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Seguridad & efectos secundarios"
+        },
+        "leber": {
+          "name": "Seguridad hepática",
+          "description": "Hepatotoxicidad & la prohibición de 2002"
+        },
+        "wechselwirkungen": {
+          "name": "Interacciones",
+          "description": "Medicamentos & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Contraindicaciones",
+          "description": "Cuándo evitar el Kava"
+        },
+        "checker": {
+          "name": "Verificador de interacciones",
+          "description": "Verificar medicamentos"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Variedades",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Variedades & cultivares"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "La importante distinción"
+        },
+        "vanuatu": {
+          "name": "Variedades de Vanuatu",
+          "description": "Borogu, Melo Melo, Kelai & más"
+        },
+        "pazifik": {
+          "name": "Variedades del Pacífico",
+          "description": "Fiji, Tonga, Hawaii, Samoa"
+        },
+        "profile": {
+          "name": "Perfiles de variedades",
+          "description": "Fichas detalladas"
+        },
+        "vergleich": {
+          "name": "Comparación de variedades",
+          "description": "Comparar dos variedades"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Preparación",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Métodos de preparación"
+        },
+        "traditionell": {
+          "name": "Método tradicional",
+          "description": "Amasar con tela de colar"
+        },
+        "blender": {
+          "name": "Método de licuadora",
+          "description": "Preparación rápida"
+        },
+        "instant": {
+          "name": "Kava instantáneo",
+          "description": "Kava micronizada"
+        },
+        "rechner": {
+          "name": "Calculadora de dosis",
+          "description": "Calcular la cantidad óptima"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Cultura",
+      "items": {
+        "uebersicht": {
+          "name": "Resumen",
+          "description": "Cultura & tradición"
+        },
+        "zeremonien": {
+          "name": "Ceremonias & rituales",
+          "description": "Yaqona, 'Ava & rituales de Nakamal"
+        },
+        "nakamal": {
+          "name": "Nakamal & bares de Kava",
+          "description": "Lugares tradicionales & modernos"
+        },
+        "moderne": {
+          "name": "Cultura del Kava moderna",
+          "description": "Distribución global & renacimiento"
+        },
+        "weltkarte": {
+          "name": "Mapa mundial interactivo",
+          "description": "Explorar regiones de Kava"
+        },
+        "kava-bars": {
+          "name": "Buscador de bares de Kava",
+          "description": "Encontrar bares de Kava en todo el mundo"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Más",
+      "items": {
+        "faq": {
+          "name": "FAQ",
+          "description": "Preguntas frecuentes"
+        },
+        "studien": {
+          "name": "Estudios",
+          "description": "Investigación científica"
+        },
+        "rechtsstatus": {
+          "name": "Estado legal",
+          "description": "Situación legal"
+        },
+        "glossar": {
+          "name": "Glosario",
+          "description": "Términos técnicos explicados"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "El portal de conocimiento más completo sobre Piper methysticum en el mundo. Científicamente fundamentado, culturalmente respetuoso.",
+    "sections": {
+      "wissen": {
+        "title": "Conocimiento",
+        "links": {
+          "botanik": "Botánica",
+          "geschichte": "Historia",
+          "wissenschaft": "Ciencia",
+          "sicherheit": "Seguridad"
+        }
+      },
+      "praxis": {
+        "title": "Práctica",
+        "links": {
+          "zubereitung": "Preparación",
+          "sorten": "Variedades & quimiotipos",
+          "rechtsstatus": "Estado legal",
+          "faq": "Preguntas frecuentes"
+        }
+      },
+      "partner": {
+        "title": "Socios & Libro",
+        "recommendedReading": "Lectura recomendada:",
+        "bookTitle": "\"Kava – Raíz de la tranquilidad\""
+      }
+    },
+    "copyright": "Todos los derechos reservados.",
+    "legal": {
+      "impressum": "Impresión",
+      "datenschutz": "Protección de datos"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Inicio"
+  },
+  "toc": {
+    "title": "Contenido"
+  },
+  "recommendation": {
+    "label": "Recomendación",
+    "title": "Kava Noble Premium",
+    "text": "Descubra calidad y pureza certificadas con nuestro socio oficial.",
+    "cta": "Visitar Kava-mode.com"
+  }
+}

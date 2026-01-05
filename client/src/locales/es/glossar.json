@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Glosario",
+    "title": "Glosario de Kava",
+    "subtitle": "Más de 50 términos técnicos sobre Kava – desde Kavalactonas hasta la ceremonia de Kava"
+  },
+  "intro": "Este glosario explica los términos más importantes relacionados con Kava. Desde compuestos químicos hasta métodos de preparación y tradiciones culturales, aquí encontrarás todos los términos técnicos explicados de manera comprensible.",
+  "search": {
+    "placeholder": "Buscar término...",
+    "noResults": "No se encontraron términos para",
+    "clearSearch": "Borrar búsqueda",
+    "resultsCount": "{{count}} término(s) encontrado(s)"
+  },
+  "categories": {
+    "chemie": "Química & Componentes",
+    "wirkung": "Efectos & Eficacia",
+    "kultur": "Cultura & Tradición",
+    "sorten": "Variedades & Cultivares",
+    "zubereitung": "Preparación",
+    "sicherheit": "Seguridad"
+  },
+  "toc": {
+    "uebersicht": "Resumen",
+    "suche": "Buscar",
+    "chemie": "Química & Componentes",
+    "wirkung": "Efectos & Eficacia",
+    "sorten": "Variedades & Cultivares",
+    "zubereitung": "Preparación",
+    "kultur": "Cultura & Tradición",
+    "sicherheit": "Seguridad"
+  },
+  "ui": {
+    "relatedTerms": "Términos relacionados",
+    "relatedLinks": "Más información",
+    "backToTop": "Arriba",
+    "showMore": "Mostrar más",
+    "showLess": "Mostrar menos"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalactonas",
+      "shortDefinition": "Los compuestos psicoactivos en Kava",
+      "fullExplanation": "Las Kavalactonas son un grupo de 18 lactonas responsables de los efectos psicoactivos de Kava. Las **seis principales Kavalactonas** constituyen aproximadamente el 96% del contenido total: Desmetoxyyangonina (DMY), Dihidrokavaina (DHK), Yangonina (Y), Kavaina (K), Dihidrometisticina (DHM) y Metisticina (M). Cada Kavalactona tiene su propio perfil de acción, que varía desde ansiolítico hasta relajante muscular y sedante. El contenido total en la raíz suele estar entre el 3% y el 20%.",
+      "relatedTerms": [
+        "Quimiotipo",
+        "Kavaina",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Las 6 principales Kavalactonas",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Sistema de quimiotipo",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Quimiotipo",
+      "shortDefinition": "El perfil químico de una variedad de Kava",
+      "fullExplanation": "El quimiotipo es un **código de 6 dígitos** que indica el orden de las seis principales Kavalactonas según su concentración. Cada Kavalactona tiene un número: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. Un quimiotipo como \"426315\" significa que: Kavaina (4) está más concentrada, seguida de DHK (2), etc. El quimiotipo determina en gran medida el efecto de una variedad, ya sea \"heady\" (cerebral, eufórico) o \"heavy\" (físico, sedante).",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Calculadora de quimiotipo",
+          "href": "/de/inhaltsstoffe/rechner"
+        },
+        {
+          "label": "El sistema de quimiotipo",
+          "href": "/de/inhaltsstoffe/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavaina",
+      "shortDefinition": "La Kavalactona más importante para el efecto ansiolítico",
+      "fullExplanation": "La Kavaina (número 4 en el sistema de quimiotipo) es la Kavalactona más estudiada y se considera **la principal responsable del efecto ansiolítico**. Actúa sobre los receptores GABA, así como en los transportadores de dopamina y noradrenalina. Las variedades con alto contenido de Kavaina (4 en primer o segundo lugar en el quimiotipo) se consideran de alta calidad y se denominan \"heady\". La Kavaina también tiene propiedades neuroprotectoras.",
+      "relatedTerms": [
+        "Kavalactonas",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonas en detalle",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        },
+        {
+          "label": "Efecto ansiolítico",
+          "href": "/de/wirkung/angst"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihidrokavaina)",
+      "shortDefinition": "La Kavalactona para la relajación muscular",
+      "fullExplanation": "La Dihidrokavaina (DHK, número 2 en el sistema de quimiotipo) es la **Kavalactona más potente para la relajación muscular**. Actúa sobre los canales de sodio dependientes de tensión y tiene propiedades anestésicas locales, lo que causa la típica sensación de entumecimiento en la boca después de beber. La DHK también es responsable de la relajación física. Las variedades con alto contenido de DHK (2 en primer lugar) a menudo se clasifican como \"heavy\".",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Heavy",
+        "Relajación muscular"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Relajación muscular",
+          "href": "/de/wirkung/muskel"
+        },
+        {
+          "label": "Kavalactonas en detalle",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihidrometisticina)",
+      "shortDefinition": "Kavalactona altamente sedante, dominante en Tudei",
+      "fullExplanation": "La Dihidrometisticina (DHM, número 5 en el sistema de quimiotipo) es una **Kavalactona altamente sedante**. En altas concentraciones (5 en primer lugar), es típica de Kava Tudei y puede causar efectos secundarios duraderos. En Noble Kava, la DHM está presente en cantidades moderadas y contribuye al efecto relajante. La DHM tiene una vida media más larga que la Kavaina, por lo que los efectos de Tudei pueden durar hasta dos días.",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonina",
+      "shortDefinition": "Kavalactona con afinidad por los receptores CB1",
+      "fullExplanation": "La Yangonina (Y, número 3 en el sistema de quimiotipo) es una Kavalactona única que muestra **afinidad por los receptores cannabinoides CB1**. Esto podría contribuir a los efectos elevadores del estado de ánimo y ligeramente eufóricos de Kava. La Yangonina también es responsable del color amarillo de los extractos de Kava. Tiene propiedades antiinflamatorias y se está investigando su potencial terapéutico.",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Quimiotipo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonas en detalle",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmetoxyyangonina)",
+      "shortDefinition": "Kavalactona elevadora del estado de ánimo",
+      "fullExplanation": "La Desmetoxyyangonina (DMY, número 1 en el sistema de quimiotipo) es una **Kavalactona elevadora del estado de ánimo** con propiedades inhibidoras de MAO-B. Puede aumentar la disponibilidad de dopamina en el cerebro, lo que contribuye a sus efectos eufóricos. La DMY también es responsable del efecto antidepresivo de Kava. En combinación con Kavaina, potencia las propiedades \"heady\" de una variedad.",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Heady",
+        "Kavaina"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonas en detalle",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Metisticina",
+      "shortDefinition": "Kavalactona sedante de larga duración",
+      "fullExplanation": "La Metisticina (M, número 6 en el sistema de quimiotipo) es una **Kavalactona sedante** con una duración de acción relativamente larga. Contribuye a la relajación física y a la promoción del sueño. La Metisticina también tiene propiedades anticonvulsivas. En la mayoría de las variedades Noble, la Metisticina está presente en cantidades moderadas y complementa la acción de las otras Kavalactonas.",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalactonas en detalle",
+          "href": "/de/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "El nombre científico de Kava",
+      "fullExplanation": "Piper methysticum es el **nombre científico (latino)** de la planta de Kava. El nombre significa literalmente \"pimienta embriagadora\" (del griego \"methystikos\" = embriagador). La planta pertenece a la **familia de las Piperáceas (Piperaceae)** y está estrechamente relacionada con la pimienta negra. Kava es una planta cultivada estéril que solo puede reproducirse vegetativamente, lo que indica su domesticación por el ser humano hace miles de años.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botánica"
+      ],
+      "relatedLinks": [
+        {
+          "label": "La planta",
+          "href": "/de/botanik/pflanze"
+        },
+        {
+          "label": "Resumen de Botánica",
+          "href": "/de/botanik"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "Antepasado salvaje de la planta de Kava",
+      "fullExplanation": "Piper wichmannii es el **antepasado salvaje** de Piper methysticum. Esta especie silvestre se encuentra en Papua Nueva Guinea y las Islas Salomón y puede reproducirse sexualmente (a diferencia de la forma cultivada estéril). Los científicos creen que Kava fue **domesticada** a partir de Piper wichmannii hace unos 3,000 años. El Kava salvaje a menudo contiene mayores cantidades de compuestos no deseados y no se recomienda para el consumo.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historia",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalconas",
+      "shortDefinition": "Compuestos flavonoides en Kava",
+      "fullExplanation": "Las Chalconas son una clase de **compuestos flavonoides** que se encuentran en Kava. Los más importantes son Flavokavaina A, B y C. Mientras que Flavokavaina A y C se consideran relativamente seguras, **Flavokavaina B (FKB)** se asocia con potencial toxicidad hepática. Las Chalconas se encuentran principalmente en las partes aéreas de la planta y en las variedades Tudei. Noble Kava de la raíz contiene solo cantidades mínimas.",
+      "relatedTerms": [
+        "Flavokavaina B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Seguridad",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Extracción",
+      "shortDefinition": "Proceso de obtención de Kavalactonas",
+      "fullExplanation": "La extracción se refiere al proceso en el que se **disuelven las Kavalactonas del material vegetal**. En la preparación tradicional, esto se realiza mediante amasado en agua; las Kavalactonas son lipofílicas y se extraen mediante fuerza mecánica y emulsificación. Los extractos industriales a menudo utilizan disolventes como etanol o acetona. Los **extractos acuosos** se consideran más seguros, ya que contienen menos compuestos no deseados.",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Método de amasado"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Preparación",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Ácido gamma-aminobutírico",
+      "shortDefinition": "El principal neurotransmisor inhibidor",
+      "fullExplanation": "El GABA (Ácido gamma-aminobutírico) es el **principal neurotransmisor inhibidor** en el sistema nervioso central. Reduce la excitabilidad neuronal y tiene efectos calmantes, ansiolíticos y promotores del sueño. Las Kavalactonas, especialmente la Kavaina y la DHK, modulan los receptores GABA, pero de una **manera diferente a las benzodiazepinas**. Esto explica por qué Kava relaja sin los efectos secundarios típicos de los somníferos (sin dependencia, sin deterioro cognitivo).",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Kavaina",
+        "Anxiolisis"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efecto ansiolítico",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Estudios científicos",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Tolerancia inversa",
+      "germanTerm": "Tolerancia inversa",
+      "shortDefinition": "Fenómeno en el que Kava actúa más fuerte con el tiempo",
+      "fullExplanation": "La Tolerancia Inversa es un **fenómeno único de Kava**: a diferencia de la mayoría de las sustancias psicoactivas, donde se necesita más para el mismo efecto con el tiempo, en Kava es **lo contrario**. Muchos principiantes sienten poco o nada la primera vez. Después de varias sesiones (típicamente 3-7 días de consumo regular), el cuerpo se \"abre\" a las Kavalactonas y el efecto se vuelve significativamente más fuerte. Los mecanismos exactos aún no se comprenden completamente, pero podrían estar relacionados con la acumulación de Kavalactonas en el tejido graso o una sensibilización de los receptores.",
+      "relatedTerms": [
+        "Kavalactonas",
+        "Dosificación"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efectos cognitivos",
+          "href": "/de/wirkung/kognition"
+        },
+        {
+          "label": "Calculadora de dosificación",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxiolisis",
+      "germanTerm": "Reducción de la ansiedad",
+      "shortDefinition": "El efecto ansiolítico de Kava",
+      "fullExplanation": "La Anxiolisis se refiere al **efecto ansiolítico** de una sustancia. Kava es una de las pocas sustancias vegetales con **evidencia de nivel 1** para el efecto ansiolítico (Revisión Cochrane). La Anxiolisis ocurre principalmente a través de la modulación de los receptores GABA y la influencia en el sistema límbico. A diferencia de las benzodiazepinas, Kava **no causa deterioro cognitivo, dependencia ni sedación** en dosis bajas a medias.",
+      "relatedTerms": [
+        "GABA",
+        "Kavaina",
+        "Kavalactonas"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efecto ansiolítico",
+          "href": "/de/wirkung/angst"
+        },
+        {
+          "label": "Estudios científicos",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "Estado de profunda relajación por Kava",
+      "fullExplanation": "\"Krunk\" es un término coloquial en la comunidad de Kava para el estado de **profunda relajación y bienestar** después de consumir una cantidad suficiente de Kava. El término puede derivar de \"drunk\", pero describe un estado diferente: **mente clara con cuerpo relajado**. Las señales típicas son una sensación de paz, relajación muscular, ligera euforia y apertura social, sin los deterioros del alcohol.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efectos",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Relajación muscular",
+      "shortDefinition": "Efecto de relajación física de Kava",
+      "fullExplanation": "El **efecto relajante muscular** de Kava es uno de los efectos más notables. Se media principalmente a través de la DHK (Dihidrokavaina), que actúa sobre los canales de sodio en las células musculares. Esta relajación **no está asociada con debilidad o problemas de coordinación**; uno se siente relajado, pero no incapacitado. Por lo tanto, Kava es valorado para tensiones, problemas musculares relacionados con el estrés y como una alternativa natural a los relajantes musculares.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalactonas"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Relajación muscular",
+          "href": "/de/wirkung/muskel"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Euforia",
+      "shortDefinition": "Estado de ánimo elevado por Kava",
+      "fullExplanation": "Kava puede generar una **euforia leve a moderada**, especialmente en variedades Heady con alto contenido de Kavaina. Esta euforia se diferencia de la producida por el alcohol u otras sustancias: es **clara, social y no desinhibidora**. La elevación del estado de ánimo se media a través de la acción de la Kavaina y la DMY en los sistemas de dopamina y serotonina. Las variedades Heady como Kelai, Moi y Pouni Ono son conocidas por sus propiedades eufóricas.",
+      "relatedTerms": [
+        "Heady",
+        "Kavaina",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Sedación",
+      "shortDefinition": "Efecto calmante y promotor del sueño",
+      "fullExplanation": "La sedación se refiere al **efecto calmante y promotor del sueño** de Kava, que es especialmente pronunciado en variedades Heavy. Se media principalmente a través de la DHM, DHK y Metisticina. En dosis bajas a medias, Kava **no es sedante** y mantiene la claridad mental. Sin embargo, en dosis más altas o en variedades Heavy, puede ocurrir una notable somnolencia. Esto hace que Kava sea una opción natural para problemas de sueño.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Sueño"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Sueño & Relajación",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotector",
+      "shortDefinition": "Efecto protector sobre las células nerviosas",
+      "fullExplanation": "Las propiedades neuroprotectoras se refieren a la **capacidad de proteger las células nerviosas de daños**. Los estudios muestran que la Kavaina y otras Kavalactonas pueden tener efectos neuroprotectores, protegiendo a las neuronas del estrés oxidativo y la excitotoxicidad. Esto podría hacer que Kava sea un tema de investigación interesante para enfermedades neurodegenerativas. Las propiedades neuroprotectoras también contribuyen a que Kava no afecte la función cognitiva.",
+      "relatedTerms": [
+        "Kavaina",
+        "Kavalactonas"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Estudios científicos",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgesia",
+      "germanTerm": "Alivio del dolor",
+      "shortDefinition": "Efecto analgésico de Kava",
+      "fullExplanation": "La analgesia se refiere al **efecto analgésico** de una sustancia. Kava tiene propiedades analgésicas leves, que se median principalmente a través de la DHK. El efecto anestésico local (entumecimiento en la boca) es una prueba directa de esta propiedad. Kava se utiliza tradicionalmente para **dolores de cabeza, dolor dental y dolor muscular**. Sin embargo, el alivio del dolor es leve y no sustituye el tratamiento médico para dolores intensos.",
+      "relatedTerms": [
+        "DHK",
+        "Relajación muscular"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Efectos",
+          "href": "/de/wirkung"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Dermopatía de Kava",
+      "germanTerm": "Erupción cutánea de Kava",
+      "shortDefinition": "Cambio en la piel por consumo excesivo",
+      "fullExplanation": "La dermopatía de Kava es un **cambio cutáneo reversible** que puede ocurrir con un consumo muy alto y prolongado de Kava. Se manifiesta como piel seca y escamosa con un tono amarillento, especialmente en las palmas de las manos, las plantas de los pies y los antebrazos. La causa es probablemente una **alteración del metabolismo del colesterol** en la piel. La dermopatía desaparece completamente después de reducir o cesar el consumo y no es un signo de daño hepático.",
+      "relatedTerms": [
+        "Seguridad",
+        "Dosificación"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Seguridad",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Kava Noble",
+      "shortDefinition": "Variedades de Kava de alta calidad, consumidas tradicionalmente",
+      "fullExplanation": "Noble Kava se refiere a **variedades de Kava cultivadas** que han sido criadas durante siglos para el consumo diario. Se caracterizan por un **perfil de Kavalactonas equilibrado**, con alto contenido de Kavaina y bajo contenido de compuestos no deseados como Flavokavaina B (FKB). Las variedades Noble típicamente tienen 4 o 2 en las dos primeras posiciones del quimiotipo. Se consideran seguras para el consumo regular y son las únicas variedades que pueden ser exportadas legalmente desde Vanuatu.",
+      "relatedTerms": [
+        "Tudei",
+        "Quimiotipo",
+        "Flavokavaina B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Kava Tudei",
+      "germanTerm": "Kava de dos días",
+      "shortDefinition": "Variedades de Kava salvajes o de baja calidad",
+      "fullExplanation": "Tudei (de \"dos días\") se refiere a **variedades de Kava salvajes o de baja calidad**, cuyos efectos y efectos secundarios pueden durar hasta dos días. Contienen altas cantidades de **Flavokavaina B (FKB)** y **Dihidrometisticina (DHM)**, que se han asociado con náuseas, dolores de cabeza y potencial toxicidad hepática. Las variedades Tudei típicamente tienen 5 (DHM) en primer lugar en el quimiotipo. En Vanuatu, la exportación de Kava Tudei está **prohibida**. Los comerciantes serios venden exclusivamente Kava Noble.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavaina B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        },
+        {
+          "label": "Seguridad",
+          "href": "/de/sicherheit"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Cerebral",
+      "shortDefinition": "Variedades de Kava con efecto eufórico y cerebral",
+      "fullExplanation": "\"Heady\" describe las variedades de Kava cuyo efecto es **principalmente cerebral y eufórico**. Estas variedades típicamente tienen **Kavaina (4) en primer o segundo lugar** en el quimiotipo. Las Kavas Heady fomentan la sociabilidad, elevan el estado de ánimo y pueden tener un ligero efecto eufórico sin sedar fuertemente. Son especialmente adecuadas para ocasiones sociales, trabajo creativo o para la tarde. Variedades Heady conocidas son Kelai, Moi, Pouni Ono y Silese.",
+      "relatedTerms": [
+        "Heavy",
+        "Balanced",
+        "Kavaina",
+        "Quimiotipo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Comparación de variedades",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Físico",
+      "shortDefinition": "Variedades de Kava con efecto sedante y físico fuerte",
+      "fullExplanation": "\"Heavy\" describe las variedades de Kava cuyo efecto es **principalmente físico y sedante**. Estas variedades típicamente tienen **DHK (2) o DHM (5) en primer lugar** en el quimiotipo. Las Kavas Heavy relajan fuertemente los músculos, promueven el sueño y pueden ser muy sedantes. Son especialmente adecuadas para la noche, para problemas de sueño o para una profunda relajación. Variedades Heavy conocidas son Loa Waka, Hiwa, Palasa y Palarasul.",
+      "relatedTerms": [
+        "Heady",
+        "Balanced",
+        "DHK",
+        "Quimiotipo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Sueño & Relajación",
+          "href": "/de/wirkung/schlaf"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Balanced",
+      "germanTerm": "Equilibrado",
+      "shortDefinition": "Variedades de Kava con efecto equilibrado",
+      "fullExplanation": "\"Balanced\" describe las variedades de Kava que ofrecen una **mezcla equilibrada de propiedades heady y heavy**. Estas variedades típicamente tienen tanto Kavaina (4) como DHK (2) en las posiciones delanteras del quimiotipo. Las Kavas Balanced ofrecen tanto claridad mental como relajación física, y son por lo tanto **versátiles** – desde la tarde hasta la noche. Variedades Balanced conocidas son Borogu, Melo Melo, Bir Kar y Vula Waka.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Quimiotipo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        },
+        {
+          "label": "Comparación de variedades",
+          "href": "/de/sorten/vergleich"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Cultivar",
+      "shortDefinition": "Variedad de Kava cultivada",
+      "fullExplanation": "Un cultivar es una **variedad de planta creada por cría**. En Kava hay más de 100 cultivares diferentes que varían en quimiotipo, efecto, sabor y forma de crecimiento. Dado que Kava es estéril y solo puede reproducirse vegetativamente, los cultivares son **clones genéticos** de la planta madre. Cultivares conocidos son Borogu, Kelai, Melo Melo, Palasa y muchos más. Cada cultivar tiene su propia \"huella dactilar\" de Kavalactonas.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Quimiotipo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava de las raíces principales",
+      "fullExplanation": "\"Waka\" se refiere a Kava que se elabora a partir de las **raíces principales (raíces laterales)** de la planta. Waka se considera de **la más alta calidad**, ya que las raíces principales tienen el mayor contenido de Kavalactonas. El término proviene de Fiji y Tonga. Waka es más caro que Lewena (raíz principal), pero más potente y de sabor más suave. La mayoría de las Kavas premium en el mercado son de calidad Waka.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava del rizoma",
+      "fullExplanation": "\"Lewena\" (también \"Lawena\") se refiere a Kava que se elabora a partir del **rizoma** de la planta. Lewena tiene un **contenido de Kavalactonas más bajo** que Waka, pero también es de sabor más suave y más económica. A menudo se recomienda como Kava para principiantes o para aquellos que prefieren un efecto más suave. En Fiji, Lewena se utiliza tradicionalmente para el consumo diario, mientras que Waka se reserva para ocasiones especiales.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Perfiles de variedades",
+          "href": "/de/sorten/profile"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Kava Verde",
+      "germanTerm": "Kava Fresca",
+      "shortDefinition": "Kava recién cosechada, no seca",
+      "fullExplanation": "\"Kava Verde\" o \"Kava Fresca\" se refiere a **raíces de Kava recién cosechadas** que no han sido secadas. En los países de origen del Pacífico, Kava se prepara tradicionalmente fresca: las raíces se pelan, se trituran y se amasan de inmediato. La Kava fresca tiene un **sabor y efecto diferentes** a la seca: a menudo más suave, de sabor \"verde\" y con un inicio de efecto más rápido. La Kava instantánea se elabora a partir del jugo de Kava verde deshidratado.",
+      "relatedTerms": [
+        "Kava Instantánea",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultura",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Término hawaiano para Kava",
+      "fullExplanation": "'Awa es el **término hawaiano para Kava**. Hawaii tiene una tradición propia de Kava con cultivares únicos como Moi, Hiwa, Nene y Papa Ele'ele. Las variedades hawaianas de 'Awa son a menudo especialmente potentes y tienen perfiles de efecto característicos. 'Awa se ha utilizado tradicionalmente para **fines ceremoniales, médicos y espirituales**. La cultura hawaiana del 'Awa está experimentando actualmente un renacimiento con un creciente interés en las variedades tradicionales.",
+      "relatedTerms": [
+        "Cultivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Historia",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Molienda Media",
+      "germanTerm": "Molienda Media",
+      "shortDefinition": "Grado de molienda estándar para la preparación tradicional",
+      "fullExplanation": "La Molienda Media es el **grado de molienda estándar para el polvo de raíz de Kava**, que se utiliza para el método de amasado tradicional y la preparación en licuadora. El polvo tiene una **consistencia arenosa a harinosa** y debe ser amasado a través de una bolsa filtrante (75-100 micrones) para extraer las Kavalactonas. La Molienda Media es más económica que la Instantánea/Micronizada y proporciona la mejor potencia con la preparación adecuada. Las fibras vegetales gruesas se filtran.",
+      "relatedTerms": [
+        "Micronizada",
+        "Kava Instantánea",
+        "Método de amasado"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Método tradicional",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Método de licuadora",
+          "href": "/de/zubereitung/blender"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Kava Micronizada",
+      "germanTerm": "Kava Micronizada",
+      "shortDefinition": "Kava molida extremadamente fina sin filtrado",
+      "fullExplanation": "La Kava Micronizada es **polvo de raíz molido extremadamente fino**, del cual ya se han eliminado las fibras gruesas. Se puede **disolver directamente en agua** sin necesidad de amasado o filtrado. Las partículas son tan finas que permanecen en suspensión y se beben. La Micronizada es más conveniente que la Molienda Media, pero más cara y puede causar **náuseas** en estómagos sensibles, ya que las fibras se consumen.",
+      "relatedTerms": [
+        "Molienda Media",
+        "Kava Instantánea"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Preparación de Kava Instantánea",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Calculadora de dosificación",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Kava Instantánea",
+      "germanTerm": "Kava Instantánea",
+      "shortDefinition": "Jugo de Kava deshidratado, listo para beber",
+      "fullExplanation": "La Kava Instantánea es **jugo de Kava \"Verde\" deshidratado** – jugo fresco de Kava que ha sido liofilizado o secado por pulverización. Es la **forma más potente y cara** de Kava, ya que las Kavalactonas ya han sido extraídas. La Kava Instantánea se disuelve inmediatamente en agua y no requiere amasado ni filtrado. La dosificación es significativamente menor que en la Molienda Media (2-6g en lugar de 20-50g). Se considera la \"clase alta\" de la preparación de Kava.",
+      "relatedTerms": [
+        "Micronizada",
+        "Molienda Media",
+        "Kava Verde"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Preparación de Kava Instantánea",
+          "href": "/de/zubereitung/instant"
+        },
+        {
+          "label": "Calculadora de dosificación",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Método de Amasado",
+      "shortDefinition": "Método tradicional de preparación del Pacífico",
+      "fullExplanation": "El método de amasado es la **forma tradicional de preparación de Kava en el Pacífico**, que se ha practicado durante más de 3,000 años. El polvo de Molienda Media se coloca en una bolsa filtrante y se amasa en agua tibia (35-45°C) durante **10-15 minutos**, estrujando. A través de la fuerza mecánica, las Kavalactonas se disuelven de las fibras vegetales y se emulsifican en el agua. El resultado es un \"Grog\" de color marrón lechoso. Este método proporciona la **mejor extracción y potencia**.",
+      "relatedTerms": [
+        "Molienda Media",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Método tradicional",
+          "href": "/de/zubereitung/traditionell"
+        },
+        {
+          "label": "Resumen de preparación",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Segundo Lavado",
+      "germanTerm": "Segundo Lavado",
+      "shortDefinition": "Reutilización del polvo de Kava",
+      "fullExplanation": "El \"Segundo Lavado\" se refiere a la **reutilización del polvo de Kava ya amasado** para un segundo paso. Después del primer amasado, el polvo aún contiene aproximadamente **30-50% de las Kavalactonas originales**. El segundo lavado es más débil, pero aún efectivo. Algunos usuarios combinan el primer y segundo lavado, otros los beben por separado. Un tercer lavado generalmente no vale la pena.",
+      "relatedTerms": [
+        "Método de Amasado",
+        "Molienda Media"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Método tradicional",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Bolsa Filtrante",
+      "germanTerm": "Bolsa Filtrante",
+      "shortDefinition": "Bolsa para filtrar Kava",
+      "fullExplanation": "Una bolsa filtrante es una **bolsa de nylon o algodón** que se utiliza para amasar y filtrar Kava. El tamaño de malla ideal es de **75-100 micrones** – lo suficientemente fina como para retener las fibras vegetales, pero lo suficientemente permeable para la emulsión de Kavalactonas. Las bolsas filtrantes son reutilizables y deben enjuagarse y secarse después de cada uso. Son una herramienta indispensable para la preparación tradicional.",
+      "relatedTerms": [
+        "Método de Amasado",
+        "Molienda Media"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Método tradicional",
+          "href": "/de/zubereitung/traditionell"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "Una porción de bebida de Kava",
+      "fullExplanation": "\"Shell\" es el término común para **una porción de bebida de Kava**, típicamente de 100-150ml. El término proviene del tradicional cuenco de coco (Bilo) del que se bebe Kava. En los bares de Kava, se piden \"Shells\" – una sesión a menudo consiste en 3-6 Shells durante varias horas. La dosificación por Shell varía según la fuerza del Grog y la preferencia personal. \"Una shell más\" es un grito común en la comunidad de Kava.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Calculadora de dosificación",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Dispositivo moderno para preparar Kava",
+      "fullExplanation": "El AluBall es un **dispositivo moderno para preparar Kava** que simplifica el método tradicional de amasado. Consiste en una botella de batido con una bola de malla especial. Se coloca el polvo de Molienda Media en la bola, se añade agua y se agita durante 2-3 minutos. La extracción es más rápida que el amasado tradicional, pero puede ser menos eficiente. El AluBall es popular para **uso en exteriores y para principiantes** que prefieren una preparación sencilla.",
+      "relatedTerms": [
+        "Método de Amasado",
+        "Molienda Media"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Resumen de preparación",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "La bebida de Kava terminada",
+      "fullExplanation": "\"Grog\" es el término coloquial para la **bebida de Kava terminada**, especialmente en Vanuatu y Fiji. El nombre proviene de la época colonial y fue adoptado por la marina británica. El Kava Grog tradicional tiene un **color marrón lechoso** (como un café con leche) y un sabor terroso y ligeramente picante. En los bares de Kava, el Grog a menudo se sirve en cuencos de coco (Bilos) y se bebe de un solo trago.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Método de Amasado"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultura",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Preparación",
+          "href": "/de/zubereitung"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Cuenco de coco tradicional para beber",
+      "fullExplanation": "Un Bilo es un **cuenco de coco partido** que se utiliza tradicionalmente para servir y beber Kava. En Fiji y otras culturas del Pacífico, beber de un Bilo es parte del **ritual ceremonial**. Antes de beber, se aplaude una vez, se dice \"Bula!\" (Fiji) o \"Mālō!\" (Tonga), se bebe el contenido de un solo trago y luego se aplaude tres veces. Los entusiastas modernos de Kava utilizan Bilos para una experiencia auténtica.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultura",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historia",
+          "href": "/de/geschichte"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Bar tradicional de Kava en Vanuatu",
+      "fullExplanation": "Un Nakamal es una **bar tradicional de Kava en Vanuatu**, donde locales y turistas se reúnen para beber Kava. Originalmente, el término se refería al lugar de reunión de los hombres en la aldea. Los Nakamals modernos son a menudo cabañas simples o áreas abiertas con bancos. El Kava se prepara fresco y se sirve en cuencos. Hay estrictas **reglas sociales**: se habla en voz baja, se actúa con respeto y se bebe al atardecer. Los Nakamals son importantes puntos de encuentro social.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultura",
+          "href": "/de/kultur"
+        },
+        {
+          "label": "Historia",
+          "href": "/de/geschichte/urspruenge"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Cuenco de Kava tradicional de madera",
+      "fullExplanation": "Una Tanoa es un **cuenco grande y plano de madera** en el que se prepara y sirve Kava tradicionalmente. Es típico de Fiji, Samoa y Tonga y se talla de una sola pieza de madera, a menudo con patas talladas. La Tanoa es el **centro de la ceremonia de Kava** – el Grog se mezcla en ella y se distribuye a los participantes con un Bilo. Las Tanoas de alta calidad son obras de arte y se transmiten como herencias familiares.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Ceremonia"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultura",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Saludo fijiano al beber Kava",
+      "fullExplanation": "\"Bula!\" es el **saludo tradicional fijiano** que se pronuncia antes de beber una Shell de Kava. La palabra significa \"vida\" y expresa buenos deseos. El ritual: aplaudir una vez, gritar \"Bula!\", vaciar la Shell de un solo trago y aplaudir tres veces. En otras culturas del Pacífico hay llamados similares: \"Mālō!\" en Tonga, \"Taki!\" en Vanuatu. Estos rituales crean **comunidad y respeto** y son una parte importante de la cultura del Kava.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Cultura",
+          "href": "/de/kultur"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Compuesto potencialmente tóxico para el hígado en Kava Tudei",
+      "fullExplanation": "La Flavokavaina B (FKB) es un **chalcona** que se encuentra en concentraciones más altas en Kava Tudei y en las partes aéreas de la planta (tallos, hojas). Se asocia con **potencial toxicidad hepática** y podría ser responsable de algunos de los daños hepáticos históricos. Las variedades de Kava Noble tienen **niveles de FKB muy bajos**. Esta es una de las principales razones por las que solo se recomienda Kava Noble para el consumo y Kava Tudei está prohibido para la exportación en Vanuatu.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Seguridad hepática"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Seguridad hepática",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/de/sorten/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Citocromo P450",
+      "shortDefinition": "Enzimas hepáticas para la degradación de medicamentos",
+      "fullExplanation": "CYP450 (Citocromo P450) es una **familia de enzimas hepáticas** responsables de la degradación de la mayoría de los medicamentos. Las Kavalactonas pueden **inhibir** ciertas enzimas CYP450, especialmente CYP2C9, CYP2C19 y CYP3A4. Esto puede ralentizar la degradación de los medicamentos y potenciar su efecto. Por lo tanto, Kava **no debe combinarse** con medicamentos que se metabolizan a través de estas enzimas, especialmente benzodiazepinas, antidepresivos y medicamentos para la presión arterial.",
+      "relatedTerms": [
+        "Interacciones",
+        "Seguridad hepática"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interacciones",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Verificador de interacciones",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Seguridad Hepática",
+      "shortDefinition": "Kava y el hígado – hechos y mitos",
+      "fullExplanation": "La cuestión de la **seguridad hepática** de Kava ha sido controvertida durante mucho tiempo. En la década de 2000, los informes sobre daños hepáticos llevaron a prohibiciones en varios países. Sin embargo, investigaciones posteriores mostraron que la mayoría de los casos se debieron a **Kava Tudei, extractos de partes aéreas de la planta o condiciones preexistentes**. Kava Noble, preparado tradicionalmente, se considera seguro. La OMS confirmó en 2016 que \"las bebidas de Kava preparadas tradicionalmente tienen un perfil de seguridad aceptable\".",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavaina B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Seguridad hepática",
+          "href": "/de/sicherheit/leber"
+        },
+        {
+          "label": "Estudios científicos",
+          "href": "/de/studien"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Interacciones",
+      "shortDefinition": "Interacciones de Kava con otras sustancias",
+      "fullExplanation": "Kava puede tener **interacciones con varias sustancias**. Las combinaciones más importantes a evitar son: **alcohol** (aumenta la toxicidad hepática), **benzodiazepinas y somníferos** (aumenta la sedación), **antidepresivos** (interacciones CYP450), **medicamentos para el Parkinson** (interacciones con dopamina). También se deben evitar otras sustancias que deprimen el sistema nervioso central. Si se toman medicamentos regularmente, se debe consultar a un médico antes de consumir Kava.",
+      "relatedTerms": [
+        "CYP450",
+        "Seguridad hepática"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Interacciones",
+          "href": "/de/sicherheit/wechselwirkungen"
+        },
+        {
+          "label": "Verificador de interacciones",
+          "href": "/de/sicherheit/checker"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Dosificación",
+      "shortDefinition": "Cantidad correcta para un consumo seguro",
+      "fullExplanation": "La **dosificación** correcta de Kava depende de varios factores: peso corporal, experiencia, variedad y forma de preparación. Para **Molienda Media**, una sesión típica es de 20-50g de polvo, repartidos en varias Shells. Para **Kava Instantánea**, se suelen usar 2-6g. Los principiantes deben comenzar con dosis bajas y tener en cuenta la **tolerancia inversa**. La dosis máxima recomendada por día es de aproximadamente 250mg de Kavalactonas. La sobredosis provoca una fuerte somnolencia, pero no condiciones peligrosas.",
+      "relatedTerms": [
+        "Tolerancia inversa",
+        "Shell",
+        "Kavalactonas"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Calculadora de dosificación",
+          "href": "/de/zubereitung/rechner"
+        }
+      ]
+    }
+  }
+}

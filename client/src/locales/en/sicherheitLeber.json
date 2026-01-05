@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "title": "Liver Safety & Hepatotoxicity",
+    "subtitle": "A scientific analysis of the Kava liver controversy: facts, myths, and the current state of research.",
+    "category": "Safety",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Safety",
+      "current": "Liver Safety"
+    }
+  },
+  "toc": {
+    "title": "Contents",
+    "zusammenfassung": "Summary",
+    "verbot2002": "The Ban of 2002",
+    "wasWirklichGeschah": "What Really Happened",
+    "rehabilitation": "Rehabilitation & Court Rulings",
+    "wissenschaft": "The Scientific Evidence",
+    "whoBewertung": "WHO Assessment 2007",
+    "emaBewertung": "EMA Assessment 2017",
+    "klinischeStudien": "Clinical Studies",
+    "risikofaktoren": "Identified Risk Factors",
+    "extrakte": "Extract Types",
+    "pflanzenteile": "Plant Parts",
+    "genetik": "Genetic Factors",
+    "komedikation": "Comedication & Alcohol",
+    "mechanismen": "Possible Mechanisms",
+    "empfehlungen": "Practical Recommendations",
+    "quellen": "Sources"
+  },
+  "navigation": {
+    "continueTitle": "Continue in the Safety Chapter",
+    "items": [
+      {
+        "title": "Overview",
+        "href": "/de/sicherheit",
+        "description": "Back to the Safety Overview"
+      },
+      {
+        "title": "Interactions",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Medications & CYP450 Interactions"
+      },
+      {
+        "title": "Contraindications",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "When Kava should be avoided"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Current Scientific Consensus",
+    "intro": "After comprehensive analyses by WHO, EMA, and independent researchers, the following is concluded:",
+    "points": [
+      "Traditionally prepared Kava from Noble varieties is <strong>safe</strong> when used properly",
+      "Severe liver damage is <strong>extremely rare</strong> (estimated incidence: 1:60,000 to 1:1,000,000)",
+      "Most case reports exhibited <strong>significant quality deficiencies</strong> in causality assessment",
+      "The EU ban of 2002 was deemed <strong>disproportionate</strong> by German courts"
+    ]
+  },
+  "verbot2002": {
+    "title": "The Ban of 2002",
+    "intro": "In 2002, Kava was removed from the market in Germany and many other European countries. The Federal Institute for Drugs and Medical Devices (BfArM) revoked the approvals for Kava-containing medicines after reports of severe liver damage were received. This decision had far-reaching consequences for the global Kava market and the Pacific producing countries.",
+    "chronologie": {
+      "title": "Chronology of Events",
+      "note": "For detailed information on the current legal status in various countries, see",
+      "linkText": "Legal Status & Legality",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "First case reports of liver damage in Kava users in Europe"
+        },
+        {
+          "date": "Nov 2001",
+          "text": "BfArM orders phased procedure"
+        },
+        {
+          "date": "Jun 2002",
+          "text": "Revocation of approvals in Germany"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Bans in UK, France, Switzerland, Canada, Australia"
+        },
+        {
+          "date": "2014",
+          "text": "Administrative Court of Cologne declares ban unlawful"
+        },
+        {
+          "date": "2015",
+          "text": "OVG Münster confirms: Ban was disproportionate"
+        },
+        {
+          "date": "2019",
+          "text": "Revocation of drug approvals finally lifted"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "What Really Happened: A Critical Analysis",
+    "intro": "The original case reports that led to the ban were intensively studied in the following years. Significant methodological deficiencies were revealed:",
+    "probleme": {
+      "title": "Problems with the Case Reports",
+      "items": [
+        "Incomplete documentation in over 50% of cases",
+        "No standardized causality assessment (RUCAM)",
+        "Comedication with hepatotoxic substances ignored",
+        "Alcohol consumption often undocumented",
+        "Product quality and plant parts unclear"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Later Findings",
+      "items": [
+        "Many products contained above-ground plant parts",
+        "Acetonic extracts showed higher risk than aqueous ones",
+        "Tudei Kava was sometimes sold as Noble",
+        "Mold contamination detected in some products",
+        "Genetic polymorphisms identified as a risk factor"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Rehabilitation by the Courts",
+    "intro": "After years of legal disputes, German courts reached a clear conclusion. The Administrative Court of Cologne and later the Higher Administrative Court of Münster found that the ban was <strong>disproportionate</strong> and that the authorities had not correctly assessed the scientific evidence.",
+    "quote": "\"The causality assumed by BfArM between the intake of Kava-containing medicines and the occurred liver damage is not sufficiently substantiated. The risk-benefit assessment was conducted incorrectly.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "The Scientific Evidence",
+    "intro": "After the ban, several comprehensive scientific evaluations were conducted, painting a more nuanced picture of Kava safety."
+  },
+  "whoBewertung": {
+    "title": "WHO Assessment 2007",
+    "intro": "The World Health Organization (WHO) conducted a comprehensive analysis of all available case reports in 2007. The results were revealing:",
+    "analysisTitle": "WHO Analysis of 93 Case Reports",
+    "cases": [
+      {
+        "count": "8",
+        "label": "Cases \"probably\" causal",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "Cases \"possible\" causal",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Cases not assessable",
+        "color": "muted"
+      }
+    ],
+    "note": "The WHO found that acetonic and ethanolic extracts posed a higher risk than synthetic Kavalactones, indicating non-Kavalactone components as a possible cause."
+  },
+  "emaBewertung": {
+    "title": "EMA Assessment 2017",
+    "intro": "The European Medicines Agency (EMA) published a 103-page assessment report in 2017 summarizing all available data:",
+    "findings": [
+      {
+        "label": "Clinical Studies",
+        "text": "No significant hepatotoxicity in controlled studies"
+      },
+      {
+        "label": "Side Effects",
+        "text": "Only mild, reversible transaminase elevations in a few subjects"
+      },
+      {
+        "label": "Risk Factors",
+        "text": "Organic extracts, alcohol, pre-existing liver disease, genetic polymorphisms"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Evidence from Clinical Studies",
+    "intro": "A particularly important point: In controlled clinical studies with standardized Kava preparations, <strong>no severe liver damage</strong> was observed. A systematic review by Smith & Leiras (2018) analyzed 11 randomized studies and found no evidence of hepatotoxicity.",
+    "tableTitle": "Summary of Study Findings",
+    "headers": [
+      "Study",
+      "Participants",
+      "Duration",
+      "Liver Damage"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 weeks",
+        "result": "None"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 weeks",
+        "result": "None*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 weeks",
+        "result": "None"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 studies)",
+        "duration": "1-24 weeks",
+        "result": "None"
+      }
+    ],
+    "footnote": "*Mild transaminase elevations in 2 subjects, one had already elevated baseline values"
+  },
+  "risikofaktoren": {
+    "title": "Identified Risk Factors",
+    "intro": "Scientific research has identified several factors that may increase the risk of hepatic side effects. Understanding these factors allows for safe use."
+  },
+  "extrakte": {
+    "title": "Extract Types: Aqueous vs. Organic",
+    "intro": "A central finding of the WHO analysis was the difference between various extraction methods:",
+    "waessrig": {
+      "title": "Aqueous Extracts (traditional)",
+      "items": [
+        "Traditional preparation method",
+        "Primarily extracts Kavalactones",
+        "Contains protective glutathione",
+        "No documented hepatotoxicity in Pacific populations",
+        "Classified as safe by FAO/WHO"
+      ]
+    },
+    "organisch": {
+      "title": "Organic Extracts (acetonic/ethanolic)",
+      "items": [
+        "Industrial extraction method",
+        "Higher Kavalactone concentration",
+        "Also extracts flavokavins",
+        "Glutathione is not extracted",
+        "Higher risk in WHO analysis"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Plant Parts: Root vs. Above-Ground Parts",
+    "intro": "The use of different plant parts has significant implications for safety:",
+    "tableTitle": "Pipermethystin Content by Plant Part",
+    "headers": [
+      "Plant Part",
+      "Pipermethystin",
+      "Safety"
+    ],
+    "rows": [
+      {
+        "part": "Root/Rhizome",
+        "content": "Not detectable",
+        "safety": "Safe",
+        "color": "primary"
+      },
+      {
+        "part": "Stem Sheaths",
+        "content": "Up to 0.85%",
+        "safety": "Problematic",
+        "color": "amber"
+      },
+      {
+        "part": "Leaves",
+        "content": "Approx. 0.2%",
+        "safety": "Toxic",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystin is an alkaloid that is highly cytotoxic in vitro and disrupts mitochondrial function (Nerurkar et al., 2004). It is found exclusively in above-ground plant parts."
+  },
+  "genetik": {
+    "title": "Genetic Factors: CYP2D6 Polymorphisms",
+    "intro": "Kavalactones are primarily metabolized through the cytochrome P450 enzyme system, particularly via CYP2D6. Genetic variants of this enzyme can significantly affect the metabolism rate:",
+    "factors": [
+      {
+        "label": "Poor Metabolizers (PM)",
+        "text": "About 5-10% of Europeans have reduced CYP2D6 activity, which can lead to higher Kavalactone levels"
+      },
+      {
+        "label": "Idiosyncratic Reactions",
+        "text": "Some cases may be due to immune-mediated mechanisms"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Comedication & Alcohol",
+    "warning": {
+      "title": "Critical Risk Factor",
+      "text": "Combining Kava with alcohol or hepatotoxic medications significantly increases the risk of liver damage. In many of the original case reports, alcohol consumption was documented or not excluded."
+    },
+    "intro": "The WHO identified the following comedications as particularly problematic:",
+    "items": [
+      "Alcohol (synergistic hepatotoxicity)",
+      "Paracetamol/Acetaminophen (hepatotoxic)",
+      "Benzodiazepines (CYP interaction)",
+      "Antipsychotics (CYP interaction)",
+      "Statins (hepatotoxic potential)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Possible Mechanisms of Hepatotoxicity",
+    "intro": "The exact mechanisms by which Kava can cause liver damage in rare cases are not yet fully understood. Several hypotheses are being discussed:",
+    "hypotheses": [
+      {
+        "title": "1. Quinone Metabolites",
+        "text": "Kavain and Dihydrokavain can be oxidized to reactive quinone metabolites that can react with cellular proteins and cause oxidative stress (Johnson et al., 2003). Glutathione can neutralize these metabolites – a possible reason why aqueous extracts (which contain glutathione) are safer."
+      },
+      {
+        "title": "2. Flavokavins",
+        "text": "Flavokavin B shows in vitro cytotoxicity and can induce apoptosis in hepatocytes. Organic extracts contain higher concentrations of flavokavins than aqueous preparations."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "This alkaloid from above-ground plant parts is highly hepatotoxic and disrupts mitochondrial function. It is not present in the root but can enter products through contamination."
+      },
+      {
+        "title": "4. Idiosyncratic Reactions",
+        "text": "Some cases may be due to immune-mediated, idiosyncratic reactions that occur independently of dose and are genetically determined."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Practical Recommendations for Safe Consumption",
+    "intro": "Based on the scientific evidence, clear recommendations for safe Kava consumption can be derived:",
+    "checklistTitle": "Checklist for Safe Kava Consumption",
+    "items": [
+      {
+        "label": "Use only Noble Kava",
+        "text": "Pay attention to the variety designation and buy from trusted sources"
+      },
+      {
+        "label": "Use only root/rhizome",
+        "text": "No products with leaves or stem sheaths"
+      },
+      {
+        "label": "Prefer traditional aqueous preparation",
+        "text": "Kneading or blender method with water"
+      },
+      {
+        "label": "Do not consume alcohol",
+        "text": "At least 24 hours before and after Kava consumption"
+      },
+      {
+        "label": "Be aware of medication interactions",
+        "text": "See Interactions"
+      },
+      {
+        "label": "Avoid in liver diseases",
+        "text": "See Contraindications"
+      },
+      {
+        "label": "Maintain moderate dosing",
+        "text": "No more than 250mg Kavalactones per day with regular consumption"
+      }
+    ],
+    "selfObservation": {
+      "title": "Note on Self-Observation",
+      "text": "In case of unusual fatigue, yellowing of the skin or eyes, dark urine, or light-colored stool, Kava consumption should be stopped immediately and a doctor consulted. These symptoms may indicate liver problems."
+    }
+  },
+  "quellen": {
+    "title": "Sources & Further Reading",
+    "officialReports": {
+      "title": "Official Reports",
+      "items": [
+        {
+          "author": "WHO (2007):",
+          "title": "Assessment of the Risk of Hepatotoxicity with Kava Products.",
+          "source": "World Health Organization Technical Report."
+        },
+        {
+          "author": "FAO/WHO (2016):",
+          "title": "Kava: A Review of the Safety of Traditional and Recreational Beverage Consumption.",
+          "source": "FAO/WHO Technical Report."
+        },
+        {
+          "author": "EMA (2017):",
+          "title": "Assessment Report on Piper methysticum G. Forst., rhizoma.",
+          "source": "EMA/HMPC/450589/2016."
+        }
+      ]
+    },
+    "reviews": {
+      "title": "Scientific Reviews",
+      "items": [
+        {
+          "author": "Teschke R. (2010):",
+          "title": "Kava hepatotoxicity - a clinical review.",
+          "source": "Annals of Hepatology."
+        },
+        {
+          "author": "Teschke R., Lebot V. (2011):",
+          "title": "Kava hepatotoxicity in traditional and modern use.",
+          "source": "British Journal of Clinical Pharmacology."
+        },
+        {
+          "author": "Sarris J. et al. (2011):",
+          "title": "Kava: a comprehensive review of efficacy, safety, and psychopharmacology.",
+          "source": "Australian & New Zealand Journal of Psychiatry."
+        }
+      ]
+    },
+    "moreStudies": "A complete list of all cited studies can be found on our",
+    "studiesLink": "Studies page"
+  }
+}

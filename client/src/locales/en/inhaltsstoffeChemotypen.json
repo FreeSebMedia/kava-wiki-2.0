@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "The Chemotype System",
+    "subtitle": "How the 6-digit code predicts the effects of a Kava strain and distinguishes Noble from Tudei.",
+    "category": "Ingredients"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "inhaltsstoffe": "Ingredients",
+    "current": "Chemotypes"
+  },
+  "toc": {
+    "title": "Contents",
+    "einfuehrung": "What is a Chemotype?",
+    "nummerierung": "The Numbering of Kavalactones",
+    "lesen": "Reading a Chemotype",
+    "beispiele": "Examples & Interpretation",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Tudei Recognition by Chemotype",
+    "wirkungsprofile": "Effect Profiles by Chemotype",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Balanced Kavas",
+    "qualitaet": "Chemotype & Quality Control"
+  },
+  "einfuehrung": {
+    "paragraph1": "The <strong>Chemotype</strong> is a 6-digit code that lists the six main Kavalactones in descending order of their concentration. It functions like a \"fingerprint\" for each Kava strain and allows predicting the expected effects – even before taking a sip.",
+    "paragraph2": "This system was developed in the 1980s by Vincent Lebot and is now the international standard for the classification and quality control of Kava. It is the most important tool for distinguishing high-quality \"Noble Kava\" from inferior \"Tudei Kava.\""
+  },
+  "nummerierung": {
+    "title": "The Numbering of Kavalactones",
+    "intro": "Each of the six main Kavalactones is assigned a digit. This assignment is historically based on the order of their discovery or chromatographic elution:",
+    "tableHeaders": {
+      "digit": "Digit",
+      "kavalacton": "Kavalactone",
+      "abbreviation": "Abbreviation",
+      "effect": "Main Effect"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Focus, dopamine increase"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Muscle relaxation, analgesia"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "CB1 activity, euphoria"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anxiolytic, \"Heady\" effect"
+      },
+      {
+        "digit": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Long sedating, Tudei marker"
+      },
+      {
+        "digit": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Sedating, neuroprotective"
+      }
+    ],
+    "mnemonic": "<strong>Mnemonic:</strong> The digits <strong>4</strong> (Kavain) and <strong>2</strong> (Dihydrokavain) are the \"good\" starting positions for Noble Kava. The digit <strong>5</strong> (Dihydromethysticin) in the first two positions is a warning signal for Tudei Kava."
+  },
+  "lesen": {
+    "title": "Reading a Chemotype",
+    "intro": "The chemotype is written as a 6-digit number, with each position indicating the relative concentration:",
+    "positions": [
+      {
+        "rank": "1st Place",
+        "label": "Highest Conc.",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "2nd Place",
+        "label": "Second Highest",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3rd Place",
+        "label": "Third Highest",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4th Place",
+        "label": "Fourth Highest",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5th Place",
+        "label": "Fifth Highest",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6th Place",
+        "label": "Lowest",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Examples & Interpretation",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Typical Noble Kava (e.g., Borogu)",
+        "description": "<strong>Kavain</strong> dominates, followed by <strong>Dihydrokavain</strong>. DHM (5) is only in 4th place. Expected effect: Clear, focused relaxation with good muscle relaxation. No \"hangover.\""
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, body-focused (e.g., Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> in first place means stronger physical relaxation. Ideal for the evening. Still Noble, as DHM (5) is far behind."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (e.g., Isa)",
+        "description": "<strong>DHM (5)</strong> in first place is a clear warning signal. Expected effect: Very long sedation (12+ hours), possible nausea, \"hangover\" the next day. Not suitable for regular consumption."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (e.g., Palimanu)",
+        "description": "<strong>DHM (5)</strong> in 2nd place is also problematic. Even though DHK (2) is in front, the high DHM content makes this strain unsuitable for export and regular consumption."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "The distinction between <strong>Noble Kava</strong> (noble kava) and <strong>Tudei Kava</strong> (two-day kava) is fundamental for Kava quality. The name \"Tudei\" comes from the fact that the effects of these strains can last up to two days – with unpleasant side effects.",
+    "tableHeaders": {
+      "criterion": "Criterion",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Chemotype Start",
+        "noble": "Starts with 4 or 2, never with 5",
+        "tudei": "Often starts with 5 or has 5 in 2nd place"
+      },
+      {
+        "criterion": "Onset of Effects",
+        "noble": "Fast (10-20 minutes)",
+        "tudei": "Delayed (30-90 minutes)"
+      },
+      {
+        "criterion": "Duration of Effects",
+        "noble": "Moderate (3-6 hours)",
+        "tudei": "Very long (6-12+ hours)"
+      },
+      {
+        "criterion": "Character of Effects",
+        "noble": "Clear, relaxed, social",
+        "tudei": "Dull, sedating, groggy"
+      },
+      {
+        "criterion": "Side Effects",
+        "noble": "Minimal with proper preparation",
+        "tudei": "Nausea, headaches, \"hangover\""
+      },
+      {
+        "criterion": "Export Approval",
+        "noble": "Yes (regulated)",
+        "tudei": "No (banned in Vanuatu)"
+      },
+      {
+        "criterion": "Example Strains",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Wild Kava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Tudei Recognition by Chemotype",
+    "intro": "The simplest rule for recognizing Tudei Kava:",
+    "warningTitle": "Warning Signals",
+    "warnings": [
+      "<strong>5</strong> in position 1 or 2",
+      "<strong>5</strong> before <strong>4</strong> in the chemotype",
+      "Very high total DHM percentage (>15%)"
+    ],
+    "safeTitle": "Safe Signs",
+    "safeIndicators": [
+      "<strong>4</strong> or <strong>2</strong> in position 1",
+      "<strong>5</strong> in position 4, 5, or 6",
+      "Kavain dominance (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Effect Profiles by Chemotype",
+    "intro": "Based on the chemotype, Noble Kava strains can be categorized into three main categories:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "Heady Kavas have <strong>Kavain (4)</strong> in first place and are characterized by a primarily mental effect. They promote focus, clarity, and a pleasant mood lift without heavily sedating.",
+    "idealTitle": "Ideal for:",
+    "idealFor": [
+      "Social occasions and conversations",
+      "Creative work",
+      "Daytime or early evening",
+      "Beginners (milder effect)"
+    ],
+    "examples": "<strong>Example Strains:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "Heavy Kavas have <strong>Dihydrokavain (2)</strong> in first place and primarily affect the body. They provide strong muscle relaxation and are ideal for unwinding after a long day.",
+    "idealTitle": "Ideal for:",
+    "idealFor": [
+      "Evening relaxation",
+      "Stress relief and muscle relaxation",
+      "Preparing for sleep",
+      "Experienced Kava drinkers"
+    ],
+    "examples": "<strong>Example Strains:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Balanced Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "Balanced Kavas have an even distribution of Kavain and Dihydrokavain and offer both mental clarity and physical relaxation. They are the most versatile strains.",
+    "idealTitle": "Ideal for:",
+    "idealFor": [
+      "Daily use",
+      "Meditation and mindfulness",
+      "Versatile use (day or evening)",
+      "All experience levels"
+    ],
+    "examples": "<strong>Example Strains:</strong> Bir Kar, Melomelo (depending on batch)"
+  },
+  "qualitaet": {
+    "title": "Chemotype & Quality Control",
+    "intro": "The chemotype is today the most important instrument for <strong>quality control</strong> in the international Kava trade. In Vanuatu, the largest Kava exporter, the analysis of the chemotype is legally required before Kava can be exported.",
+    "lawTitle": "Vanuatu Kava Act (2002)",
+    "lawText": "The Kava Act of Vanuatu stipulates that only <strong>Noble Kava strains</strong> are approved for export. Tudei strains and their mixtures are excluded from export. Compliance is verified through chemotype analyses.",
+    "lawNote": "This is one of the reasons why Kava from Vanuatu is considered particularly high quality – there are government quality controls aimed at preventing Tudei contamination.",
+    "consumerTip": "<strong>Tip for Consumers:</strong> Reputable Kava vendors provide the chemotype of their products or can disclose it upon request. If a vendor cannot provide chemotype information, caution is advised."
+  },
+  "navigation": {
+    "nextCategory": "Continue to the next category:",
+    "sortenTitle": "Strains & Varieties",
+    "sortenDescription": "Over 80 documented Kava strains and their properties"
+  }
+}

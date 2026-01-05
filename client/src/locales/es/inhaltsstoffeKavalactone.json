@@ -1,0 +1,280 @@
+{
+  "page": {
+    "title": "Los 6 principales Kavalactonas",
+    "subtitle": "Perfiles de acción detallados de los seis compuestos más importantes en Piper methysticum.",
+    "category": "Ingredientes"
+  },
+  "breadcrumbs": {
+    "home": "Inicio",
+    "inhaltsstoffe": "Ingredientes",
+    "current": "Kavalactonas"
+  },
+  "toc": {
+    "title": "Contenido",
+    "einfuehrung": "Introducción a las Kavalactonas",
+    "struktur": "Estructura química",
+    "uebersicht": "Los 6 principales Kavalactonas",
+    "kavain": "Kavain (K) – No. 4",
+    "dihydrokavain": "Dihydrokavain (DHK) – No. 2",
+    "methysticin": "Methysticin (M) – No. 6",
+    "dihydromethysticin": "Dihydromethysticin (DHM) – No. 5",
+    "yangonin": "Yangonin (Y) – No. 3",
+    "desmethoxyyangonin": "Desmethoxyyangonin (DMY) – No. 1",
+    "wirkmechanismen": "Mecanismos de acción",
+    "synergien": "Sinergias y efecto de acompañamiento"
+  },
+  "einfuehrung": {
+    "paragraph1": "<strong>Kavalactonas</strong> (también llamadas Kava-Pirona) son un grupo de lactonas que se encuentran exclusivamente en el género <em>Piper</em>. Son responsables de más del 96% del efecto farmacológico de Kava y difieren fundamentalmente de los alcaloides que se encuentran en otras plantas psicoactivas como el café o el té.",
+    "paragraph2": "Hasta ahora se han identificado <strong>18 diferentes Kavalactonas</strong> en <em>Piper methysticum</em>, pero seis de ellas constituyen la mayor parte de la concentración total y determinan el perfil de acción de una variedad de Kava. Estas \"Kavalactonas principales\" están codificadas con los números 1-6 y forman la base del sistema de quimiotipo."
+  },
+  "struktur": {
+    "title": "Estructura química",
+    "intro": "Todas las Kavalactonas comparten un esqueleto básico común: un <strong>anillo α-pirona</strong> (un anillo de lactona de seis miembros) que está unido a un anillo fenilo. Las diferencias entre las distintas Kavalactonas surgen de:",
+    "items": [
+      {
+        "label": "Grupos metilendioxi",
+        "text": "Methysticin y Dihydromethysticin poseen este grupo, lo que explica su mayor duración de acción."
+      },
+      {
+        "label": "Grado de saturación",
+        "text": "Las variantes \"Dihidro\" (DHK, DHM) tienen una cadena lateral saturada, lo que aumenta su lipofilia y, por ende, su biodisponibilidad."
+      },
+      {
+        "label": "Grupos metoxi",
+        "text": "Yangonin y Desmethoxyyangonin difieren por la presencia o ausencia de un grupo metoxi."
+      }
+    ],
+    "tableHeaders": {
+      "number": "No.",
+      "kavalacton": "Kavalactona",
+      "formula": "Fórmula molecular",
+      "mass": "Masa molar",
+      "feature": "Características"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "formula": "C₁₄H₁₂O₃",
+        "mass": "228.24 g/mol",
+        "feature": "Sin grupo metoxi"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "formula": "C₁₄H₁₆O₃",
+        "mass": "248.28 g/mol",
+        "feature": "Cadena lateral saturada"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "formula": "C₁₅H₁₄O₄",
+        "mass": "258.27 g/mol",
+        "feature": "Con grupo metoxi"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "formula": "C₁₄H₁₄O₃",
+        "mass": "230.26 g/mol",
+        "feature": "Cadena lateral insaturada"
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "formula": "C₁₅H₁₆O₅",
+        "mass": "292.29 g/mol",
+        "feature": "Metilendioxi + saturado"
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "formula": "C₁₅H₁₄O₅",
+        "mass": "290.27 g/mol",
+        "feature": "Grupo metilendioxi"
+      }
+    ]
+  },
+  "uebersicht": {
+    "title": "Los 6 principales Kavalactonas en detalle",
+    "intro": "Cada una de las seis principales Kavalactonas tiene un perfil farmacológico único. Comprender estos efectos individuales es crucial para predecir el efecto total de una variedad de Kava según su quimiotipo."
+  },
+  "kavain": {
+    "number": "4",
+    "name": "Kavain (K)",
+    "subtitle": "La \"Kavalactona principal\" para Kava Noble",
+    "description": "<strong>Kavain</strong> se considera la Kavalactona más importante para la determinación de calidad. Es el principal responsable del característico efecto \"Heady\" – una relajación clara y enfocada sin sedación. Las variedades de Kava Noble casi siempre comienzan con Kavain (4) en primer o segundo lugar en el quimiotipo.",
+    "effectsTitle": "Efectos primarios",
+    "effects": [
+      "Ansiolítico",
+      "Elevador del ánimo",
+      "Enfoque mental y claridad",
+      "Ligera relajación muscular"
+    ],
+    "mechanismsTitle": "Mecanismos de acción",
+    "mechanisms": [
+      "Modulación de receptores GABA-A",
+      "Bloqueo de canales de Na⁺ dependientes de voltaje",
+      "Inhibición de la recaptación de noradrenalina",
+      "Rápida penetración en la barrera hematoencefálica"
+    ],
+    "clinicalNote": "<strong>Relevancia clínica:</strong> Kavain ha sido probado en varios estudios clínicos como sustancia única y mostró un efecto ansiolítico significativo – comparable a las benzodiazepinas, pero sin su potencial de dependencia."
+  },
+  "dihydrokavain": {
+    "number": "2",
+    "name": "Dihydrokavain (DHK)",
+    "subtitle": "El \"relajante corporal\"",
+    "description": "<strong>Dihydrokavain</strong> es la forma hidrogenada de Kavain y se caracteriza por un efecto especialmente fuerte de relajación muscular y alivio del dolor. Se descompone más lentamente que Kavain, lo que resulta en un efecto más prolongado pero más suave.",
+    "effectsTitle": "Efectos primarios",
+    "effects": [
+      "Fuerte relajación muscular",
+      "Analgesia",
+      "Relajación corporal",
+      "Sedante en dosis altas"
+    ],
+    "mechanismsTitle": "Mecanismos de acción",
+    "mechanisms": [
+      "Bloqueo de canales de Ca²⁺",
+      "Modulación de GABA-A aumentada",
+      "Inhibición de la liberación de glutamato",
+      "Mayor lipofilia = mejor absorción"
+    ],
+    "typicalFor": "<strong>Típico para:</strong> Variedades de Kava \"Heavy\" como Borogu o Palarasul, que se beben por la noche para relajarse."
+  },
+  "methysticin": {
+    "number": "6",
+    "name": "Methysticin (M)",
+    "subtitle": "La Kavalactona neuroprotectora",
+    "description": "<strong>Methysticin</strong> se caracteriza por su grupo metilendioxi, que le confiere propiedades farmacológicas especiales. Tiene un fuerte efecto sedante y ansiolítico, pero también muestra interesantes propiedades neuroprotectoras en estudios preclínicos.",
+    "effectsTitle": "Efectos primarios",
+    "effects": [
+      "Fuertemente sedante",
+      "Ansiolítico",
+      "Neuroprotector",
+      "Anticonvulsivo"
+    ],
+    "researchTitle": "Interés de investigación",
+    "research": [
+      "Protección contra el estrés oxidativo",
+      "Potencial en la investigación sobre Parkinson",
+      "Propiedades antiepilépticas",
+      "Antiinflamatorio"
+    ]
+  },
+  "dihydromethysticin": {
+    "number": "5",
+    "name": "Dihydromethysticin (DHM)",
+    "subtitle": "La Kavalactona \"Tudei-Marker\"",
+    "description": "<strong>Dihydromethysticin</strong> es la Kavalactona con la vida media más larga y se descompone muy lentamente en el cuerpo. Las altas concentraciones de DHM son la característica principal de Kava \"Tudei\" (Two-Day) – variedades que pueden causar fatiga y náuseas durante días.",
+    "warning": "<strong>Importante:</strong> Si DHM (5) está en primer o segundo lugar en un quimiotipo, probablemente se trate de Kava Tudei. Estas variedades no están permitidas para la exportación en Vanuatu y deben ser evitadas.",
+    "propertiesTitle": "Propiedades",
+    "properties": [
+      "Vida media muy larga (12+ horas)",
+      "Fuertemente sedante",
+      "Puede causar náuseas",
+      "Efecto de \"resaca\" al día siguiente"
+    ],
+    "occurrenceTitle": "Ocurrencia",
+    "occurrence": [
+      "Alto en variedades Tudei (Isa, Palimanu)",
+      "Alto en Piper wichmannii (Kava silvestre)",
+      "Bajo en Kava Noble",
+      "Marcador para control de calidad"
+    ]
+  },
+  "yangonin": {
+    "number": "3",
+    "name": "Yangonin (Y)",
+    "subtitle": "La Kavalactona activa en el endocannabinoide",
+    "description": "<strong>Yangonin</strong> es única entre las Kavalactonas, ya que tiene una afinidad comprobada por el <strong>receptor CB1</strong> del sistema endocannabinoide. Esto explica en parte el efecto eufórico y elevador del ánimo de Kava, que puede recordar al cannabis – sin causar efectos psicotomiméticos.",
+    "effectsTitle": "Efectos primarios",
+    "effects": [
+      "Levemente eufórico",
+      "Elevador del ánimo",
+      "Modulador del apetito",
+      "Estimulante en dosis bajas"
+    ],
+    "mechanismsTitle": "Mecanismos de acción",
+    "mechanisms": [
+      "Unión a receptores CB1",
+      "Inhibición de MAO-B",
+      "Actividad dopaminérgica",
+      "Sinergia con otras Kavalactonas"
+    ]
+  },
+  "desmethoxyyangonin": {
+    "number": "1",
+    "name": "Desmethoxyyangonin (DMY)",
+    "subtitle": "El potenciador de dopamina",
+    "description": "<strong>Desmethoxyyangonin</strong> se diferencia de Yangonin por la ausencia de un grupo metoxi. Muestra un efecto pronunciado en el sistema dopaminérgico y contribuye a la componente de enfoque y motivación del efecto de Kava.",
+    "effectsTitle": "Efectos primarios",
+    "effects": [
+      "Enfoque y concentración",
+      "Aumento de dopamina",
+      "Ligera euforia",
+      "Aumento de motivación"
+    ],
+    "mechanismsTitle": "Mecanismos de acción",
+    "mechanisms": [
+      "Inhibición de la recaptación de dopamina",
+      "Inhibición de MAO-B",
+      "Actividad noradrenérgica",
+      "Inicio de acción rápido"
+    ]
+  },
+  "wirkmechanismen": {
+    "title": "Mecanismos de acción de las Kavalactonas",
+    "intro": "Las Kavalactonas afectan el sistema nervioso central en múltiples niveles simultáneamente. Esta multimodalidad explica por qué el efecto de Kava es tan único y se diferencia de otros ansiolíticos:",
+    "tableHeaders": {
+      "mechanism": "Mecanismo de acción",
+      "kavalactones": "Kavalactonas involucradas",
+      "effect": "Efecto resultante"
+    },
+    "tableData": [
+      {
+        "mechanism": "Modulación de GABA-A",
+        "kavalactones": "Kavain, DHK, M, DHM",
+        "effect": "Ansiolítico, relajante, sedante"
+      },
+      {
+        "mechanism": "Bloqueo de canales de Na⁺",
+        "kavalactones": "Kavain, DHK",
+        "effect": "Analgesico, anestésico local"
+      },
+      {
+        "mechanism": "Bloqueo de canales de Ca²⁺",
+        "kavalactones": "DHK, DHM",
+        "effect": "Relajante muscular"
+      },
+      {
+        "mechanism": "Inhibición de MAO-B",
+        "kavalactones": "Y, DMY",
+        "effect": "Elevador del ánimo, dopaminérgico"
+      },
+      {
+        "mechanism": "Unión a receptores CB1",
+        "kavalactones": "Yangonin",
+        "effect": "Euforizante, modulador del apetito"
+      },
+      {
+        "mechanism": "Inhibición de la recaptación de noradrenalina",
+        "kavalactones": "Kavain, DMY",
+        "effect": "Enfocante, promotor de alerta"
+      }
+    ]
+  },
+  "synergien": {
+    "title": "Sinergias y efecto de acompañamiento",
+    "paragraph1": "Al igual que con el cannabis (terpenos y cannabinoides), en Kava el <strong>extracto total es más efectivo que las Kavalactonas aisladas</strong>. Esto se conoce como <strong>efecto de acompañamiento</strong>.",
+    "quote": "El Kavain aislado es ansiolítico, pero la combinación con Yangonin (inhibición de MAO-B) y Desmethoxyyangonin (aumento de dopamina) potencia significativamente el efecto elevador del ánimo.",
+    "paragraph2": "Por lo tanto, se prefieren <strong>preparaciones tradicionales</strong> (extracción en agua de la raíz entera) o <strong>extractos de espectro completo</strong> sobre compuestos aislados. El equilibrio natural de las Kavalactonas, como se encuentra en Kava Noble, ha sido optimizado a lo largo de milenios a través de la selección.",
+    "practicalTitle": "Consecuencia práctica",
+    "practicalText": "Al comprar productos de Kava, se debe prestar atención a <strong>extractos de espectro completo</strong> o <strong>Kava preparado tradicionalmente</strong>. Los productos con Kavain aislado o ingredientes activos estandarizados a menudo no ofrecen el mismo perfil de acción que la raíz natural."
+  },
+  "navigation": {
+    "nextChapter": "Continuar en el capítulo Ingredientes:",
+    "chemotypenTitle": "El sistema de quimiotipo",
+    "chemotypenDescription": "Cómo el código de 6 dígitos predice la acción"
+  }
+}

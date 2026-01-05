@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Variety Comparison",
+    "subtitle": "Compare two Kava varieties side by side"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Varieties",
+    "current": "Comparison"
+  },
+  "ui": {
+    "selectVariety": "Select variety...",
+    "firstVariety": "First variety",
+    "secondVariety": "Second variety",
+    "toProfile": "To variety profile",
+    "potency": "Potency",
+    "badgeInfo": "The <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> badges indicate the difference to the other variety"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Balanced",
+    "heavy": "Heavy"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Effect Profile Comparison"
+    },
+    "basicInfo": {
+      "title": "Basic Information"
+    },
+    "dosage": {
+      "title": "Recommended Dosage"
+    },
+    "applications": {
+      "title": "Areas of Application"
+    },
+    "usageTimes": {
+      "title": "Times of Use"
+    },
+    "kavalactones": {
+      "title": "Kavalactone Profile"
+    },
+    "notes": {
+      "title": "Notes"
+    }
+  },
+  "effects": {
+    "euphoria": "Euphoria",
+    "relaxation": "Relaxation",
+    "sedation": "Sedation",
+    "clarity": "Clarity",
+    "sociability": "Sociability",
+    "anxiolysis": "Anxiolysis"
+  },
+  "info": {
+    "chemotype": "Chemotype",
+    "duration": "Duration of Effect",
+    "availability": "Availability",
+    "price": "Price"
+  },
+  "dosageLabels": {
+    "beginner": "Beginner",
+    "regular": "Regular",
+    "experienced": "Experienced"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Select two varieties to compare",
+    "description": "Use the dropdown menus above to select two Kava varieties and directly compare their properties, effects, and recommendations.",
+    "tips": {
+      "title": "Comparison Tips",
+      "items": [
+        "Compare varieties of the same category for similar effect profiles",
+        "Compare Heady vs. Heavy for contrasting experiences",
+        "Pay attention to chemotype differences for scientific insights"
+      ]
+    },
+    "quickSelections": "Quick Selections",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu Classic",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Beginner Recommendation",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

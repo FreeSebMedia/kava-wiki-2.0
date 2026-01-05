@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Ingredients & Chemistry",
+    "subtitle": "The pharmacological secrets of Piper methysticum: Kavalactones, chemotypes, and mechanisms of action.",
+    "category": "Ingredients"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "current": "Ingredients"
+  },
+  "toc": {
+    "title": "Contents",
+    "uebersicht": "Overview of Active Ingredients",
+    "kavalactone": "The 6 Main Kavalactones",
+    "chemotypen": "The Chemotype System",
+    "synergien": "Synergies & Entourage Effect",
+    "weitere": "Other Ingredients",
+    "unterseiten": "In-Depth Articles"
+  },
+  "uebersicht": {
+    "paragraph1": "The psychoactive effect of Kava is primarily produced by a group of compounds known as <strong>Kavalactones</strong> (or Kava Pyrones). Unlike many other psychoactive plants (such as coffee or tea), Kava does not contain alkaloids as its main active ingredients.",
+    "paragraph2": "So far, 18 different Kavalactones have been identified, of which six are responsible for over 96% of the pharmacological effect. These six 'Major Kavalactones' form the basis for the classification and quality determination of Kava."
+  },
+  "kavalactone": {
+    "title": "The 6 Main Kavalactones",
+    "intro": "Each Kavalactone has a unique effect profile. The overall effect of a Kava strain results from the specific mixing ratio of these six components.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "Name",
+      "abbreviation": "Abbreviation",
+      "effect": "Primary Effect"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Focus, dopamine increase, euphoria"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Strong muscle relaxation, analgesia (pain relief)"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "Stimulating, acts on CB1 receptors (endocannabinoid system)"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Anxiolytic (anxiety-relieving), mood-enhancing, mental focus. Responsible for the 'Heady' effect."
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Sedating, long-lasting. High concentrations can cause nausea (typical for Tudei Kava)."
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Strongly sedating, anxiolytic, neuroprotective."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "The Chemotype System",
+    "intro": "To predict the effect of a Kava strain, a 6-digit code is used that lists the Kavalactones in descending order of their concentration. This is called the <strong>Chemotype</strong>.",
+    "exampleTitle": "Example: Chemotype 426531",
+    "exampleText": "This means that <strong>Kavain (4)</strong> has the highest concentration, followed by <strong>Dihydrokavain (2)</strong>, then <strong>Methysticin (6)</strong>, and so on.",
+    "nobleTudeiTitle": "Noble Kava vs. Tudei Kava",
+    "nobleTudeiIntro": "The chemotype is the most important tool for distinguishing high-quality 'Noble Kava' (noble kava) from the inferior 'Tudei Kava' (two-day kava).",
+    "nobleDescription": "<strong>Noble Kava:</strong> Chemotypes usually start with <strong>4</strong> (Kavain) or <strong>2</strong> (Dihydrokavain). This provides a pleasant, anxiety-relieving effect without a long 'hangover'.",
+    "nobleCodes": "Typical codes: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Tudei Kava:</strong> Chemotypes often start with <strong>5</strong> (Dihydromethysticin) or <strong>2</strong> with a very high proportion of 5. DHM is broken down very slowly and can lead to days of fatigue and nausea.",
+    "tudeiCodes": "Typical codes: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Synergies & Entourage Effect",
+    "paragraph1": "Similar to cannabis (terpenes & cannabinoids), the total extract of Kava is more effective than isolated Kavalactones. This is referred to as the entourage effect.",
+    "paragraph2": "Isolated Kavain is anxiolytic, but the combination with Yangonin (MAO-B inhibition) and Desmethoxyyangonin (dopamine increase) significantly enhances the mood-lifting effect. Therefore, traditional preparations or full-spectrum extracts are preferred over isolated active ingredients."
+  },
+  "weitere": {
+    "title": "Other Ingredients",
+    "intro": "In addition to the Kavalactones, the root contains:",
+    "items": [
+      {
+        "label": "Flavokavins (A, B, C)",
+        "text": "Chalcones with potential antitumor properties, but also suspected to be cytotoxic at extremely high doses (mainly in Tudei varieties)."
+      },
+      {
+        "label": "Alkaloids",
+        "text": "Pipermethystin is mainly found in the <strong>leaves and stems</strong>, not in the root. It is toxic and a main reason why traditionally only the roots are consumed."
+      },
+      {
+        "label": "Starch & Fiber",
+        "text": "Make up about 43% of the dry mass and provide the typical consistency of the drink."
+      },
+      {
+        "label": "Minerals",
+        "text": "Potassium, calcium, magnesium."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "In-Depth Articles",
+    "intro": "For more detailed information on each topic, visit our specialized subpages:",
+    "kavalactoneTitle": "The 6 Main Kavalactones",
+    "kavalactoneDescription": "Detailed effect profiles for Kavain, Dihydrokavain, Methysticin, Dihydromethysticin, Yangonin, and Desmethoxyyangonin.",
+    "chemotypenTitle": "The Chemotype System",
+    "chemotypenDescription": "How the 6-digit code predicts the effect and distinguishes Noble Kava from Tudei.",
+    "learnMore": "Learn more"
+  }
+}

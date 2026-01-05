@@ -1,0 +1,280 @@
+{
+  "page": {
+    "title": "The 6 Main Kavalactones",
+    "subtitle": "Detailed effect profiles of the six most important active compounds in Piper methysticum.",
+    "category": "Ingredients"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "inhaltsstoffe": "Ingredients",
+    "current": "Kavalactones"
+  },
+  "toc": {
+    "title": "Contents",
+    "einfuehrung": "Introduction to Kavalactones",
+    "struktur": "Chemical Structure",
+    "uebersicht": "The 6 Main Kavalactones",
+    "kavain": "Kavain (K) – No. 4",
+    "dihydrokavain": "Dihydrokavain (DHK) – No. 2",
+    "methysticin": "Methysticin (M) – No. 6",
+    "dihydromethysticin": "Dihydromethysticin (DHM) – No. 5",
+    "yangonin": "Yangonin (Y) – No. 3",
+    "desmethoxyyangonin": "Desmethoxyyangonin (DMY) – No. 1",
+    "wirkmechanismen": "Mechanisms of Action",
+    "synergien": "Synergies & Entourage Effect"
+  },
+  "einfuehrung": {
+    "paragraph1": "<strong>Kavalactones</strong> (also known as Kava-Pyrones) are a group of lactones that occur exclusively in the genus <em>Piper</em>. They are responsible for over 96% of the pharmacological effects of Kava and differ fundamentally from the alkaloids found in other psychoactive plants such as coffee or tea.",
+    "paragraph2": "To date, <strong>18 different kavalactones</strong> have been identified in <em>Piper methysticum</em>, but six of them make up the majority of the total concentration and determine the effect profile of a Kava variety. These \"Major Kavalactones\" are coded with the numbers 1-6 and form the basis of the chemotype system."
+  },
+  "struktur": {
+    "title": "Chemical Structure",
+    "intro": "All kavalactones share a common backbone: a <strong>α-pyron ring</strong> (a six-membered lactone ring) connected to a phenyl ring. The differences between the individual kavalactones arise from:",
+    "items": [
+      {
+        "label": "Methylenedioxy groups",
+        "text": "Methysticin and Dihydromethysticin possess this group, which explains their longer duration of action."
+      },
+      {
+        "label": "Degree of saturation",
+        "text": "The \"Dihydro\" variants (DHK, DHM) have a saturated side chain, which increases their lipophilicity and thus bioavailability."
+      },
+      {
+        "label": "Methoxy groups",
+        "text": "Yangonin and Desmethoxyyangonin differ by the presence or absence of a methoxy group."
+      }
+    ],
+    "tableHeaders": {
+      "number": "No.",
+      "kavalacton": "Kavalactone",
+      "formula": "Molecular Formula",
+      "mass": "Molar Mass",
+      "feature": "Feature"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "formula": "C₁₄H₁₂O₃",
+        "mass": "228.24 g/mol",
+        "feature": "No methoxy group"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "formula": "C₁₄H₁₆O₃",
+        "mass": "248.28 g/mol",
+        "feature": "Saturated side chain"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "formula": "C₁₅H₁₄O₄",
+        "mass": "258.27 g/mol",
+        "feature": "With methoxy group"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "formula": "C₁₄H₁₄O₃",
+        "mass": "230.26 g/mol",
+        "feature": "Unsaturated side chain"
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "formula": "C₁₅H₁₆O₅",
+        "mass": "292.29 g/mol",
+        "feature": "Methylenedioxy + saturated"
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "formula": "C₁₅H₁₄O₅",
+        "mass": "290.27 g/mol",
+        "feature": "Methylenedioxy group"
+      }
+    ]
+  },
+  "uebersicht": {
+    "title": "The 6 Main Kavalactones in Detail",
+    "intro": "Each of the six main kavalactones has a unique pharmacological profile. Understanding these individual effects is crucial for predicting the overall effect of a Kava variety based on its chemotype."
+  },
+  "kavain": {
+    "number": "4",
+    "name": "Kavain (K)",
+    "subtitle": "The \"Lead Kavalactone\" for Noble Kava",
+    "description": "<strong>Kavain</strong> is considered the most important kavalactone for quality assessment. It is the main contributor to the characteristic \"Heady\" effect – a clear, focused relaxation without sedation. Noble Kava varieties almost always start with Kavain (4) in the first or second position of the chemotype.",
+    "effectsTitle": "Primary Effects",
+    "effects": [
+      "Anxiolytic",
+      "Mood-enhancing",
+      "Mental focus & clarity",
+      "Slight muscle relaxation"
+    ],
+    "mechanismsTitle": "Mechanisms of Action",
+    "mechanisms": [
+      "Modulation of GABA-A receptors",
+      "Blockade of voltage-gated Na⁺ channels",
+      "Inhibition of norepinephrine reuptake",
+      "Rapid blood-brain barrier passage"
+    ],
+    "clinicalNote": "<strong>Clinical Relevance:</strong> Kavain has been tested as a single substance in several clinical studies and showed significant anxiolytic effects – comparable to benzodiazepines, but without their potential for dependence."
+  },
+  "dihydrokavain": {
+    "number": "2",
+    "name": "Dihydrokavain (DHK)",
+    "subtitle": "The \"Body Relaxer\"",
+    "description": "<strong>Dihydrokavain</strong> is the hydrogenated form of Kavain and is characterized by a particularly strong muscle-relaxing and analgesic effect. It is metabolized more slowly than Kavain, leading to a longer but gentler effect.",
+    "effectsTitle": "Primary Effects",
+    "effects": [
+      "Strong muscle relaxation",
+      "Analgesia",
+      "Physical relaxation",
+      "Sedating at high doses"
+    ],
+    "mechanismsTitle": "Mechanisms of Action",
+    "mechanisms": [
+      "Blockade of Ca²⁺ channels",
+      "Enhanced GABA-A modulation",
+      "Inhibition of glutamate release",
+      "Higher lipophilicity = better absorption"
+    ],
+    "typicalFor": "<strong>Typical for:</strong> \"Heavy\" Kava varieties like Borogu or Palarasul, which are consumed in the evening for relaxation."
+  },
+  "methysticin": {
+    "number": "6",
+    "name": "Methysticin (M)",
+    "subtitle": "The neuroprotective kavalactone",
+    "description": "<strong>Methysticin</strong> is characterized by its methylenedioxy group, which gives it special pharmacological properties. It acts strongly sedating and anxiolytic, but also shows interesting neuroprotective properties in preclinical studies.",
+    "effectsTitle": "Primary Effects",
+    "effects": [
+      "Strongly sedating",
+      "Anxiolytic",
+      "Neuroprotective",
+      "Anticonvulsant"
+    ],
+    "researchTitle": "Research Interest",
+    "research": [
+      "Protection against oxidative stress",
+      "Potential in Parkinson's research",
+      "Antiepileptic properties",
+      "Anti-inflammatory"
+    ]
+  },
+  "dihydromethysticin": {
+    "number": "5",
+    "name": "Dihydromethysticin (DHM)",
+    "subtitle": "The \"Tudei Marker\" Kavalactone",
+    "description": "<strong>Dihydromethysticin</strong> is the kavalactone with the longest half-life and is metabolized very slowly by the body. High DHM concentrations are the main feature of \"Tudei\" (Two-Day) Kava – varieties that can cause days of fatigue and nausea.",
+    "warning": "<strong>Important:</strong> If DHM (5) is in the first or second position of a chemotype, it is likely Tudei Kava. Such varieties are not permitted for export in Vanuatu and should be avoided.",
+    "propertiesTitle": "Properties",
+    "properties": [
+      "Very long half-life (12+ hours)",
+      "Strongly sedating",
+      "Can cause nausea",
+      "\"Hangover\" effect the next day"
+    ],
+    "occurrenceTitle": "Occurrence",
+    "occurrence": [
+      "High in Tudei varieties (Isa, Palimanu)",
+      "High in Piper wichmannii (Wild Kava)",
+      "Low in Noble Kava",
+      "Marker for quality control"
+    ]
+  },
+  "yangonin": {
+    "number": "3",
+    "name": "Yangonin (Y)",
+    "subtitle": "The endocannabinoid-active kavalactone",
+    "description": "<strong>Yangonin</strong> is unique among the kavalactones as it has a proven affinity for the <strong>CB1 receptor</strong> of the endocannabinoid system. This partially explains the euphoric and mood-enhancing effects of Kava, which can resemble cannabis – without causing psychotomimetic effects.",
+    "effectsTitle": "Primary Effects",
+    "effects": [
+      "Slightly euphoric",
+      "Mood-enhancing",
+      "Appetite-modulating",
+      "Stimulating at low doses"
+    ],
+    "mechanismsTitle": "Mechanisms of Action",
+    "mechanisms": [
+      "Binding to CB1 receptors",
+      "MAO-B inhibition",
+      "Dopaminergic activity",
+      "Synergy with other kavalactones"
+    ]
+  },
+  "desmethoxyyangonin": {
+    "number": "1",
+    "name": "Desmethoxyyangonin (DMY)",
+    "subtitle": "The dopamine booster",
+    "description": "<strong>Desmethoxyyangonin</strong> differs from Yangonin by the absence of a methoxy group. It has a pronounced effect on the dopaminergic system and contributes to the focusing and motivating component of the Kava effect.",
+    "effectsTitle": "Primary Effects",
+    "effects": [
+      "Focus & concentration",
+      "Dopamine increase",
+      "Slight euphoria",
+      "Motivation enhancement"
+    ],
+    "mechanismsTitle": "Mechanisms of Action",
+    "mechanisms": [
+      "Inhibition of dopamine reuptake",
+      "MAO-B inhibition",
+      "Norepinephrine activity",
+      "Rapid onset of action"
+    ]
+  },
+  "wirkmechanismen": {
+    "title": "Mechanisms of Action of Kavalactones",
+    "intro": "Kavalactones affect the central nervous system on multiple levels simultaneously. This multimodality explains why the Kava effect is so unique and differs from other anxiolytics:",
+    "tableHeaders": {
+      "mechanism": "Mechanism of Action",
+      "kavalactones": "Involved Kavalactones",
+      "effect": "Resulting Effect"
+    },
+    "tableData": [
+      {
+        "mechanism": "GABA-A modulation",
+        "kavalactones": "Kavain, DHK, M, DHM",
+        "effect": "Anxiolytic, relaxing, sedating"
+      },
+      {
+        "mechanism": "Na⁺ channel blockade",
+        "kavalactones": "Kavain, DHK",
+        "effect": "Analgesic, local anesthetic"
+      },
+      {
+        "mechanism": "Ca²⁺ channel blockade",
+        "kavalactones": "DHK, DHM",
+        "effect": "Muscle relaxing"
+      },
+      {
+        "mechanism": "MAO-B inhibition",
+        "kavalactones": "Y, DMY",
+        "effect": "Mood-enhancing, dopaminergic"
+      },
+      {
+        "mechanism": "CB1 receptor binding",
+        "kavalactones": "Yangonin",
+        "effect": "Euphoric, appetite-modulating"
+      },
+      {
+        "mechanism": "Norepinephrine reuptake inhibition",
+        "kavalactones": "Kavain, DMY",
+        "effect": "Focusing, alertness-promoting"
+      }
+    ]
+  },
+  "synergien": {
+    "title": "Synergies & Entourage Effect",
+    "paragraph1": "Similar to cannabis (terpenes & cannabinoids), in Kava the <strong>whole extract is more effective than isolated kavalactones</strong>. This is referred to as the <strong>entourage effect</strong>.",
+    "quote": "Isolated Kavain is anxiolytic, but the combination with Yangonin (MAO-B inhibition) and Desmethoxyyangonin (dopamine increase) significantly enhances the mood-lifting effect.",
+    "paragraph2": "Therefore, <strong>traditional preparations</strong> (water extraction from the whole root) or <strong>full-spectrum extracts</strong> are preferred over isolated active ingredients. The natural balance of kavalactones, as found in Noble Kava, has been optimized through selection over millennia.",
+    "practicalTitle": "Practical Consequence",
+    "practicalText": "When purchasing Kava products, attention should be paid to <strong>full-spectrum extracts</strong> or <strong>traditionally prepared Kava</strong>. Products with isolated Kavain or standardized single active ingredients often do not provide the same effect profile as the natural root."
+  },
+  "navigation": {
+    "nextChapter": "Continue in the chapter Ingredients:",
+    "chemotypenTitle": "The Chemotype System",
+    "chemotypenDescription": "How the 6-digit code predicts the effect"
+  }
+}

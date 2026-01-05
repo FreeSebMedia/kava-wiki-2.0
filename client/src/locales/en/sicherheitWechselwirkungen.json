@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Drug Interactions",
+    "subtitle": "Kavalactones inhibit important liver enzymes: What you need to know about CYP450 interactions and safe combinations.",
+    "category": "Safety",
+    "breadcrumbs": {
+      "home": "Home",
+      "sicherheit": "Safety",
+      "current": "Interactions"
+    }
+  },
+  "toc": {
+    "title": "Contents",
+    "zusammenfassung": "Summary",
+    "cyp450": "The CYP450 System",
+    "welcheEnzyme": "Affected Enzymes",
+    "klinischeBedeutung": "Clinical Significance",
+    "hochrisiko": "High-Risk Combinations",
+    "alkohol": "Alcohol",
+    "benzodiazepine": "Benzodiazepines & Sleep Medications",
+    "antipsychotika": "Antipsychotics",
+    "antikoagulantien": "Anticoagulants",
+    "moderatesRisiko": "Moderate Risk",
+    "antidepressiva": "Antidepressants",
+    "antikonvulsiva": "Anticonvulsants",
+    "parkinson": "Parkinson's Medications",
+    "hepatotoxisch": "Hepatotoxic Medications",
+    "tabelle": "Interaction Table",
+    "empfehlungen": "Practical Recommendations",
+    "quellen": "Sources"
+  },
+  "navigation": {
+    "continueTitle": "Continue in the Safety Chapter",
+    "items": [
+      {
+        "title": "Overview",
+        "href": "/de/sicherheit",
+        "description": "Back to the Safety Overview"
+      },
+      {
+        "title": "Liver Safety",
+        "href": "/de/sicherheit/leber",
+        "description": "Hepatotoxicity & the 2002 Ban"
+      },
+      {
+        "title": "Contraindications",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "When Kava should be avoided"
+      },
+      {
+        "title": "Interaction Checker",
+        "href": "/de/sicherheit/checker",
+        "description": "Check your medications"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Important Warning",
+    "intro": "Kava has a <strong>high potential for drug interactions</strong> due to the inhibition of cytochrome P450 enzymes. Never combine Kava with:",
+    "items": [
+      {
+        "name": "Alcohol",
+        "text": "Increased sedation and liver toxicity"
+      },
+      {
+        "name": "Benzodiazepines",
+        "text": "Risk of respiratory depression"
+      },
+      {
+        "name": "Antipsychotics",
+        "text": "Increased sedation, movement disorders"
+      },
+      {
+        "name": "Anticoagulants",
+        "text": "Risk of bleeding"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "The Cytochrome P450 System",
+    "intro": "The cytochrome P450 system (CYP450) is a family of enzymes in the liver responsible for the metabolism of most medications. When a substance inhibits these enzymes, other substances are metabolized more slowly – their effects and side effects can therefore be amplified.",
+    "importance": {
+      "title": "Why is this important?",
+      "text": "About <strong>70-80% of all medications</strong> are metabolized by CYP450 enzymes. When Kava inhibits these enzymes, the concentration of other medications in the blood can increase – sometimes to dangerous levels. This is especially true for medications with a <strong>narrow therapeutic window</strong>, where small changes in dosage can have significant effects."
+    }
+  },
+  "enzyme": {
+    "title": "Which enzymes are inhibited?",
+    "intro": "Studies by Mathews et al. (2002) and other researchers have shown that Kavalactones inhibit several important CYP450 enzymes:",
+    "headers": [
+      "Enzyme",
+      "Inhibition Strength",
+      "Important Substrates (Examples)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Strong",
+        "substrates": "Caffeine, Theophylline, Clozapine, Olanzapine"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Strong",
+        "substrates": "Warfarin, Phenytoin, NSAIDs (Ibuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Moderate",
+        "substrates": "Omeprazole, Diazepam, Clopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Moderate",
+        "substrates": "Codeine, Tramadol, many antidepressants"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Strong",
+        "substrates": "Benzodiazepines, Statins, many antibiotics"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Clinical Significance",
+    "text": "A study by Russmann et al. (2005) showed that traditional aqueous Kava extracts also inhibit CYP1A2 in humans. The inhibition was dose-dependent and clinically relevant. This means that even traditionally prepared Kava can cause interactions.",
+    "positive": {
+      "title": "Positive Side Effect?",
+      "text": "The CYP1A2 inhibition could theoretically provide a protective effect against certain environmental carcinogens that are activated by this enzyme. This could explain why Pacific populations have low cancer rates despite high Kava consumption."
+    }
+  },
+  "hochrisiko": {
+    "title": "High-Risk Combinations",
+    "intro": "The following combinations should <strong>be avoided at all costs</strong>. They can lead to severe, potentially life-threatening side effects."
+  },
+  "alkohol": {
+    "title": "Alcohol",
+    "risk": "VERY HIGH",
+    "intro": "The combination of Kava and alcohol is particularly dangerous for several reasons:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Synergistic Sedation",
+        "text": "Both substances have a sedative effect on the CNS. The combined effect is stronger than the sum of the individual effects."
+      },
+      {
+        "number": "2.",
+        "label": "Additive Hepatotoxicity",
+        "text": "Both substances are metabolized in the liver and can burden it. The combination significantly increases the risk of liver damage."
+      },
+      {
+        "number": "3.",
+        "label": "CYP Interaction",
+        "text": "Alcohol also affects CYP enzymes, which can lead to unpredictable interactions."
+      }
+    ],
+    "recommendation": "Recommendation: At least 24 hours between alcohol and Kava consumption."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepines & Sleep Medications",
+    "risk": "VERY HIGH",
+    "intro": "Benzodiazepines (Diazepam, Lorazepam, Alprazolam, etc.) and Z-Drugs (Zolpidem, Zopiclone) should never be combined with Kava:",
+    "points": [
+      {
+        "label": "Increased Sedation",
+        "text": "Both act on GABA receptors and enhance each other"
+      },
+      {
+        "label": "Respiratory Depression",
+        "text": "The combination can dangerously slow down breathing"
+      },
+      {
+        "label": "CYP3A4 Inhibition",
+        "text": "Kava slows the metabolism of benzodiazepines, prolonging their effect"
+      }
+    ],
+    "caseReportLabel": "Case Report:",
+    "caseReport": "Almeida & Grimsley (1996) reported on a 54-year-old man who fell into a semi-comatose state after combining Kava with Alprazolam."
+  },
+  "antipsychotika": {
+    "title": "Antipsychotics",
+    "risk": "HIGH",
+    "intro": "Antipsychotics such as Haloperidol, Risperidone, Olanzapine, and Clozapine:",
+    "points": [
+      {
+        "label": "Increased Sedation",
+        "text": "Additive CNS depressant effect"
+      },
+      {
+        "label": "Extrapyramidal Symptoms",
+        "text": "Increased risk of movement disorders"
+      },
+      {
+        "label": "CYP1A2/CYP2D6 Inhibition",
+        "text": "Slowed metabolism, higher blood levels"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Anticoagulants (Blood Thinners)",
+    "risk": "HIGH",
+    "intro": "Warfarin and other vitamin K antagonists:",
+    "points": [
+      {
+        "label": "CYP2C9 Inhibition",
+        "text": "Kava inhibits the enzyme that metabolizes Warfarin"
+      },
+      {
+        "label": "Increased INR",
+        "text": "Increased tendency to bleed"
+      },
+      {
+        "label": "Risk of Bleeding",
+        "text": "Can lead to dangerous internal bleeding"
+      }
+    ],
+    "recommendation": "Kava is contraindicated when taking anticoagulants."
+  },
+  "moderatesRisiko": {
+    "title": "Combinations with Moderate Risk",
+    "intro": "The following combinations require caution and should only be undertaken after consulting a physician. A dosage adjustment may be necessary."
+  },
+  "antidepressiva": {
+    "title": "Antidepressants",
+    "risk": "MODERATE",
+    "ssri": {
+      "title": "SSRIs (Fluoxetine, Sertraline, Paroxetine, etc.):",
+      "items": [
+        "CYP2D6 inhibition may slow metabolism",
+        "Theoretical risk of serotonin syndrome (low)",
+        "Increased sedation possible"
+      ]
+    },
+    "snri": {
+      "title": "SNRIs (Venlafaxine, Duloxetine):",
+      "items": [
+        "Similar interactions as SSRIs",
+        "CYP2D6 inhibition relevant for Venlafaxine"
+      ]
+    },
+    "mao": {
+      "title": "MAO Inhibitors:",
+      "items": [
+        "Kava weakly inhibits MAO-B",
+        "Theoretical risk, but clinically poorly documented",
+        "Caution with irreversible MAO inhibitors"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Anticonvulsants (Antiepileptics)",
+    "risk": "MODERATE",
+    "intro": "Phenytoin, Carbamazepine, Valproate, and other anticonvulsants:",
+    "points": [
+      {
+        "label": "CYP Interactions",
+        "text": "Altered blood levels possible"
+      },
+      {
+        "label": "Increased Sedation",
+        "text": "Additive CNS effect"
+      },
+      {
+        "label": "Seizure Control",
+        "text": "May be impaired"
+      }
+    ],
+    "note": "In epilepsy, Kava should only be used under medical supervision."
+  },
+  "parkinson": {
+    "title": "Parkinson's Medications",
+    "risk": "MODERATE to HIGH",
+    "intro": "Levodopa and dopamine agonists:",
+    "points": [
+      {
+        "label": "Dopamine Antagonism",
+        "text": "Kava may reduce the effect of Levodopa"
+      },
+      {
+        "label": "Case Report",
+        "text": "Worsening of Parkinson's symptoms documented under Kava"
+      }
+    ],
+    "recommendation": "Kava is contraindicated in Parkinson's disease."
+  },
+  "hepatotoxisch": {
+    "title": "Hepatotoxic Medications",
+    "risk": "MODERATE",
+    "intro": "Medications with known hepatotoxic potential:",
+    "items": [
+      {
+        "name": "Paracetamol/Acetaminophen",
+        "text": "Especially problematic at higher doses"
+      },
+      {
+        "name": "Statins",
+        "text": "Atorvastatin, Simvastatin, etc. (CYP3A4 substrates)"
+      },
+      {
+        "name": "Methotrexate",
+        "text": "Immunosuppressant with hepatotoxicity"
+      },
+      {
+        "name": "Isoniazid",
+        "text": "Tuberculosis medication"
+      }
+    ],
+    "note": "Combining with hepatotoxic medications increases the risk of liver damage."
+  },
+  "tabelle": {
+    "title": "Overview Table of Interactions",
+    "headers": [
+      "Substance Class",
+      "Examples",
+      "Risk",
+      "Mechanism"
+    ],
+    "rows": [
+      {
+        "class": "Alcohol",
+        "examples": "Ethanol",
+        "risk": "VERY HIGH",
+        "mechanism": "Synergistic sedation, hepatotoxicity"
+      },
+      {
+        "class": "Benzodiazepines",
+        "examples": "Diazepam, Lorazepam, Alprazolam",
+        "risk": "VERY HIGH",
+        "mechanism": "GABA enhancement, CYP3A4 inhibition"
+      },
+      {
+        "class": "Antipsychotics",
+        "examples": "Haloperidol, Olanzapine, Clozapine",
+        "risk": "HIGH",
+        "mechanism": "CYP1A2/2D6 inhibition, sedation"
+      },
+      {
+        "class": "Anticoagulants",
+        "examples": "Warfarin, Phenprocoumon",
+        "risk": "HIGH",
+        "mechanism": "CYP2C9 inhibition, bleeding risk"
+      },
+      {
+        "class": "SSRIs",
+        "examples": "Fluoxetine, Sertraline, Paroxetine",
+        "risk": "MODERATE",
+        "mechanism": "CYP2D6 inhibition"
+      },
+      {
+        "class": "Anticonvulsants",
+        "examples": "Phenytoin, Carbamazepine",
+        "risk": "MODERATE",
+        "mechanism": "CYP interactions, sedation"
+      },
+      {
+        "class": "Parkinson's Medications",
+        "examples": "Levodopa, Dopamine Agonists",
+        "risk": "MODERATE",
+        "mechanism": "Dopamine antagonism"
+      },
+      {
+        "class": "Statins",
+        "examples": "Atorvastatin, Simvastatin",
+        "risk": "MODERATE",
+        "mechanism": "CYP3A4 inhibition, hepatotoxicity"
+      },
+      {
+        "class": "Opioids",
+        "examples": "Codeine, Tramadol, Morphine",
+        "risk": "MODERATE",
+        "mechanism": "CYP2D6 inhibition, sedation"
+      },
+      {
+        "class": "Caffeine",
+        "examples": "Coffee, Energy Drinks",
+        "risk": "LOW",
+        "mechanism": "CYP1A2 inhibition (prolonged effect)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Practical Recommendations",
+    "checklistTitle": "Checklist Before Kava Consumption",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Check Medication List",
+        "text": "Review all current medications for interactions"
+      },
+      {
+        "number": "2.",
+        "label": "Consult a Doctor",
+        "text": "Seek medical advice before Kava consumption if taking medications regularly"
+      },
+      {
+        "number": "3.",
+        "label": "Avoid Alcohol",
+        "text": "Do not drink alcohol at least 24 hours before and after Kava consumption"
+      },
+      {
+        "number": "4.",
+        "label": "Dose Low",
+        "text": "Start with a lower Kava dose when taking medications simultaneously"
+      },
+      {
+        "number": "5.",
+        "label": "Monitor Symptoms",
+        "text": "Watch for unusual fatigue, dizziness, or other symptoms"
+      }
+    ],
+    "professionalNote": {
+      "title": "Note for Physicians and Pharmacists",
+      "text": "In patients consuming Kava, a review of medications for CYP450 substrates should be conducted. Special caution is warranted for medications with a narrow therapeutic window. A dosage adjustment may be necessary."
+    }
+  },
+  "quellen": {
+    "title": "Sources",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Inhibition of Human Cytochrome P450 Activities by Kava Extract and Kavalactones.",
+        "source": "Drug Metabolism and Disposition."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Pharmacokinetic and pharmacodynamic drug interactions with Kava.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "Traditional Aqueous Kava Extracts Inhibit Cytochrome P450 1A2 in Humans.",
+        "source": "Clinical Pharmacology & Therapeutics."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Potential for interaction of kava and St. John's wort with drugs.",
+        "source": "Journal of Ethnopharmacology."
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "Inhibition of Cytochrome P450 3A4 by Extracts and Kavalactones of Piper methysticum.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "A complete list of all cited studies can be found on our",
+    "studiesLink": "Studies Page"
+  }
+}

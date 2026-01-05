@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Varieties from Fiji, Tonga & Hawaii",
+    "subtitle": "Regional Kava specialties from across the Pacific: From Fiji's Yaqona to Hawaii's 'Awa.",
+    "category": "Varieties"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "sorten": "Varieties",
+    "current": "Pacific"
+  },
+  "toc": {
+    "title": "Content",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fiji – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – All Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Other Regions",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Origin",
+    "type": "Type",
+    "composition": "Composition",
+    "duration": "Duration of Effect",
+    "effectProfile": "Effect Profile",
+    "recommendedFor": "Recommended for:",
+    "variety": "Variety",
+    "speciality": "Specialty"
+  },
+  "fiji": {
+    "title": "Fiji – Yaqona",
+    "intro": "<p class=\"lead text-xl\">In <strong>Fiji</strong>, Kava is known as <strong>Yaqona</strong> (pronounced \"Yang-gona\") and is considered the official national drink. The name means \"bitter\" and refers to the characteristic taste. A second name, <strong>Malogu</strong>, means \"to calm\" and describes the effect.</p><p>Fiji has <strong>13 documented Kava varieties</strong> and is known for its high-quality processing. Particularly valued is <strong>Waka</strong> – Kava made exclusively from the lateral roots (not the rootstock) and considered more potent.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Heavy",
+        "speciality": "Very potent, strongly sedating"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Balanced",
+        "speciality": "Balanced, versatile"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Heavy",
+        "speciality": "Long-lasting"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Balanced",
+        "speciality": "Traditional"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Heavy",
+        "speciality": "Rare, highly valued"
+      },
+      {
+        "name": "Yalu",
+        "type": "Balanced",
+        "speciality": "Mild, pleasant"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Heavy",
+      "Very Potent"
+    ],
+    "origin": "Fiji (various islands)",
+    "type": "Waka (lateral roots)",
+    "duration": "5-8 hours",
+    "description": "<strong>Loa Waka</strong> is one of the most potent Kavas on the market. \"Loa\" means \"dark\" in Fijian and refers to the color of the roots. \"Waka\" denotes the high-quality lateral roots. This combination results in an extremely strong, body-focused Kava.",
+    "effects": [
+      {
+        "text": "<strong>Extremely sedating:</strong> One of the strongest \"Heavy\" Kavas"
+      },
+      {
+        "text": "<strong>Deep muscle relaxation:</strong> Ideal for <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">tension</a>"
+      },
+      {
+        "text": "<strong>Sleep-promoting:</strong> Perfect for <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">sleep issues</a>"
+      },
+      {
+        "text": "<strong>Long-lasting:</strong> Effects can last 5-8 hours"
+      }
+    ],
+    "recommendedFor": "Experienced users, evening consumption, severe sleep problems",
+    "warning": "<strong>Warning:</strong> Loa Waka is very potent. Beginners should start with a lower dose and wait for the effects before taking more."
+  },
+  "tonga": {
+    "title": "Tonga – All Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> is unique in the Kava world: <strong>All varieties cultivated there are Noble</strong>. There are no Tudei varieties in Tonga. This makes Tongan Kava particularly safe and predictable.</p><p>Tongan Kava is known for its rather <strong>\"heady\"</strong> effects. The varieties tend to be less sedating than Fiji or Vanuatu Kava and are well-suited for daytime use and social occasions.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Heady",
+        "speciality": "Most popular variety, social"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Heady/Balanced",
+        "speciality": "Mild, pleasant"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Balanced",
+        "speciality": "Traditional"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Balanced",
+        "speciality": "Gentle, good for beginners"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Heady",
+        "speciality": "Euphoric"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Heady",
+      "Beginner-friendly"
+    ],
+    "origin": "Tonga",
+    "composition": "Blend (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 hours",
+    "description": "<strong>Pouni Ono</strong> is perhaps the best-known \"daytime Kava\" and a blend of several Tongan varieties (typically Leka Hina, Kava Kula, and Kava Fulufulu). The name means \"six times\" and refers to the traditional preparation.",
+    "effects": [
+      {
+        "text": "<strong>Euphoric:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Mood-enhancing</a> and social"
+      },
+      {
+        "text": "<strong>Invigorating:</strong> Little sedating, ideal for daytime"
+      },
+      {
+        "text": "<strong>Mild taste:</strong> More pleasant than many other varieties"
+      },
+      {
+        "text": "<strong>Short duration:</strong> Well controllable"
+      }
+    ],
+    "recommendedFor": "Beginners, daytime use, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">social occasions</a>, work",
+    "tip": "<strong>Tip:</strong> Pouni Ono is one of the best varieties for Kava beginners. The mild taste and pleasant, non-overwhelming effects make it easy to start."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">In Hawaii, Kava is called <strong>'Awa</strong>. Hawaii has <strong>13 traditional varieties</strong>, all of which are considered Noble and suitable for consumption. Hawaiian 'Awa is known for its high potency and unique character.</p><p>'Awa has a special cultural significance in Hawaii. Historically, certain 'Awa was reserved for the nobility (Ali'i). Today, Hawaiian Kava is often prepared fresh and is more expensive than Kava from other regions due to high production costs.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Heady",
+        "speciality": "Royal Kava, very cerebral"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Heavy",
+        "speciality": "Ceremonial, strongly sedating"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Balanced",
+        "speciality": "Balanced, versatile"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Heady",
+        "speciality": "Mild, pleasant"
+      },
+      {
+        "name": "Nene",
+        "type": "Balanced",
+        "speciality": "Traditional"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Heavy",
+        "speciality": "Rare, highly valued"
+      }
+    ],
+    "warning": "<strong>Attention:</strong> In Hawaii, two imported Tudei varieties are also grown: <strong>Isa</strong> and <strong>Iwi</strong>. These are not native and should be avoided."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Heady",
+      "Royal"
+    ],
+    "origin": "Hawaii",
+    "type": "Heady / Cerebral",
+    "duration": "2-4 hours",
+    "description": "<strong>Moi</strong> is the legendary \"Kava of Kings\". In Hawaiian history, Moi was reserved for the nobility (Ali'i) and was not to be consumed by commoners. Today, it is known for its exceptionally cerebral, mind-clearing effects.",
+    "effects": [
+      {
+        "text": "<strong>Extremely cerebral:</strong> Promotes mental clarity and focus"
+      },
+      {
+        "text": "<strong>Creativity-enhancing:</strong> Ideal for <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">creative work</a>"
+      },
+      {
+        "text": "<strong>Little sedating:</strong> Does not make you tired"
+      },
+      {
+        "text": "<strong>Spiritual:</strong> Traditionally used for meditation and ceremonies"
+      }
+    ],
+    "recommendedFor": "Creative work, meditation, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">cognitive tasks</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>In <strong>Samoa</strong>, Kava is called <strong>'Ava</strong>. Samoa has only <strong>4 documented varieties</strong>, but a rich ceremonial tradition. The 'Ava ceremony is an important part of Samoan culture and is conducted at official occasions.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Balanced",
+        "speciality": "Traditional, ceremonial"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Heady",
+        "speciality": "Mild, pleasant"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Heavy",
+        "speciality": "Stronger, sedating"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Balanced",
+        "speciality": "Imported from Tonga"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Other Regions",
+    "intro": "In addition to the main growing areas, Kava is also found in some other Pacific regions:",
+    "regions": [
+      {
+        "name": "Papua New Guinea",
+        "description": "PNG has only <strong>one Noble variety</strong>: <strong>Kau kupwe</strong>, which is grown on Baluan Island. Most other PNG varieties are Tudei and should be avoided."
+      },
+      {
+        "name": "Solomon Islands",
+        "description": "The Solomon Islands also have only <strong>one Noble variety</strong>: <strong>Melomelo</strong> (not to be confused with Vanuatu's Melo Melo, although they may be related)."
+      },
+      {
+        "name": "Micronesia",
+        "description": "In the Federated States of Micronesia (Pohnpei), there is the variety <strong>Rahmwahnger</strong>. Kava has significant ceremonial importance there."
+      },
+      {
+        "name": "Wallis and Futuna",
+        "description": "These French territories have their own Kava traditions but few documented unique varieties."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Continue in the chapter Varieties:",
+    "nextTitle": "Variety profiles in detail",
+    "nextDescription": "Detailed profiles of all important varieties with chemotypes, effects, and recommendations",
+    "nextLink": "/de/sorten/profile"
+  }
+}

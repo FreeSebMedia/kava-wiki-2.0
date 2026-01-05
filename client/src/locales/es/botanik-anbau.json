@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Cultivo & Ecología",
+    "subtitle": "Condiciones de crecimiento, métodos de propagación y el arte del cultivo tradicional de Kava.",
+    "category": "Botánica"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botánica",
+    "current": "Cultivo & Ecología"
+  },
+  "toc": {
+    "vermehrung": "Propagación Vegetativa",
+    "stecklinge": "Obtención de Esquejes",
+    "klima": "Requisitos Climáticos",
+    "boden": "Características del Suelo",
+    "pflege": "Cuidado & Crecimiento",
+    "ernte": "Cosecha & Tiempo de Maduración",
+    "qualitaet": "Factores de Calidad",
+    "anbauregionen": "Regiones de Cultivo Importantes"
+  },
+  "intro": {
+    "paragraph1": "El cultivo de Kava es un arte que se ha transmitido de generación en generación durante milenios. Dado que <em>Piper methysticum</em> es estéril y no produce semillas, la planta depende completamente del ser humano. Esta dependencia única ha llevado a una profunda conexión cultural entre los pueblos del Pacífico y su planta sagrada."
+  },
+  "vermehrung": {
+    "title": "Propagación Vegetativa",
+    "paragraph1": "La propagación de Kava se realiza exclusivamente <strong>de manera vegetativa a través de esquejes</strong>. Esto es una consecuencia directa de la esterilidad de la planta, una característica que ha surgido a lo largo de milenios de domesticación.",
+    "advantages": {
+      "title": "Ventajas de la Propagación Vegetativa",
+      "items": [
+        "Identidad genética con la planta madre",
+        "Conservación de características varietales comprobadas",
+        "Perfil químico predecible",
+        "Crecimiento más rápido que a partir de semillas",
+        "Calidad comprobada a lo largo de generaciones"
+      ]
+    },
+    "challenges": {
+      "title": "Desafíos",
+      "items": [
+        "No se permite variación genética",
+        "Susceptibilidad a enfermedades (clones)",
+        "Dependencia de plantas madre",
+        "Velocidad de propagación limitada",
+        "Riesgo de pérdida de variedades"
+      ]
+    },
+    "stecklinge": {
+      "title": "Obtención de Esquejes & Plantación",
+      "paragraph1": "El método tradicional de obtención de esquejes sigue un proceso comprobado:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Selección",
+          "description": "Secciones de tallo sanas con 2-3 nudos de una planta madre comprobada"
+        },
+        {
+          "number": "2",
+          "title": "Corte",
+          "description": "Corte limpio por debajo de un nudo, longitud de aproximadamente 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Preparación",
+          "description": "Eliminación de las hojas inferiores, secado breve de la zona de corte"
+        },
+        {
+          "number": "4",
+          "title": "Plantación",
+          "description": "Colocación en tierra suelta y húmeda a la sombra, riego regular"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Requisitos Climáticos",
+    "paragraph1": "Kava es una <strong>planta tropical</strong> con requisitos climáticos específicos. Solo prospera en un rango relativamente estrecho de condiciones ambientales.",
+    "table": {
+      "headers": {
+        "parameter": "Parámetro",
+        "optimal": "Rango Óptimo",
+        "tolerance": "Rango de Tolerancia",
+        "note": "Nota"
+      },
+      "rows": [
+        {
+          "parameter": "Temperatura",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "No tolera heladas"
+        },
+        {
+          "parameter": "Precipitación",
+          "optimal": "2.000-3.000 mm/año",
+          "tolerance": "1.500-4.000 mm/año",
+          "note": "Distribución uniforme"
+        },
+        {
+          "parameter": "Humedad",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Se prefiere alta humedad"
+        },
+        {
+          "parameter": "Altitud",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Se prefiere tierras bajas"
+        },
+        {
+          "parameter": "Luz Solar",
+          "optimal": "Sombra parcial",
+          "tolerance": "30-70% de sombra",
+          "note": "Plantas jóvenes: más sombra"
+        }
+      ]
+    },
+    "alert": "<strong>Necesidad de Sombra:</strong> Las plantas jóvenes de Kava (0-2 años) requieren aproximadamente 70-80% de sombra. A medida que envejecen, pueden tolerar más luz solar, pero aún se benefician de sombra parcial."
+  },
+  "boden": {
+    "title": "Características del Suelo",
+    "paragraph1": "Las características del suelo son uno de los factores más críticos para el cultivo exitoso de Kava. La planta tiene altas exigencias en cuanto a drenaje y contenido de nutrientes.",
+    "ideal": {
+      "title": "Características Ideales del Suelo",
+      "items": [
+        {
+          "label": "Estructura:",
+          "value": "Suelta, granular, bien aireada"
+        },
+        {
+          "label": "Drenaje:",
+          "value": "Excelente – el encharcamiento conduce rápidamente a la pudrición de raíces"
+        },
+        {
+          "label": "pH:",
+          "value": "Ligeramente ácido a neutro (5,5-6,5)"
+        },
+        {
+          "label": "Contenido Orgánico:",
+          "value": "Alto, rico en humus"
+        },
+        {
+          "label": "Profundidad:",
+          "value": "Mínimo 60 cm para el desarrollo de raíces"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "A Evitar",
+      "items": [
+        {
+          "label": "Suelos Compactados:",
+          "value": "Impedir el crecimiento de raíces"
+        },
+        {
+          "label": "Encharcamiento:",
+          "value": "Conduce a la pudrición de raíces y a infecciones fúngicas"
+        },
+        {
+          "label": "Suelos Arcillosos Pesados:",
+          "value": "Mal drenaje"
+        },
+        {
+          "label": "Suelos Salinos:",
+          "value": "Kava es sensible a la sal"
+        },
+        {
+          "label": "Suelos Pobre en Nutrientes:",
+          "value": "Reducen el contenido de kavalactonas"
+        }
+      ]
+    },
+    "paragraph2": "En las regiones de cultivo tradicionales, a menudo se prefieren <strong>suelos volcánicos</strong>. Estos ofrecen una combinación ideal de drenaje, contenido mineral y estructura. En Vanuatu y Fiji, las plantaciones de Kava se establecen a menudo en laderas ligeramente inclinadas para asegurar un drenaje natural."
+  },
+  "pflege": {
+    "title": "Cuidado & Crecimiento",
+    "paragraph1": "Kava es una planta relativamente fácil de cuidar una vez establecida. Las principales medidas de cuidado se centran en los primeros dos años.",
+    "table": {
+      "headers": {
+        "phase": "Fase de Crecimiento",
+        "period": "Período",
+        "tasks": "Tareas Principales",
+        "notes": "Particularidades"
+      },
+      "rows": [
+        {
+          "phase": "Establecimiento",
+          "period": "0-6 meses",
+          "tasks": "Riego regular, asegurar sombra",
+          "notes": "Fase más crítica"
+        },
+        {
+          "phase": "Fase Juvenil",
+          "period": "6-18 meses",
+          "tasks": "Control de malezas, acolchado, fertilización si es necesario",
+          "notes": "Crecimiento rápido"
+        },
+        {
+          "phase": "Fase de Madurez",
+          "period": "18-36 meses",
+          "tasks": "Cuidado mínimo, control de plagas",
+          "notes": "Desarrollo de raíces"
+        },
+        {
+          "phase": "Madurez para Cosecha",
+          "period": "3-5+ años",
+          "tasks": "Evaluación de calidad, preparación para la cosecha",
+          "notes": "Potencia óptima"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Cosecha & Tiempo de Maduración",
+    "paragraph1": "El momento de la cosecha es crucial para la calidad del producto final. Una de las reglas más importantes en el cultivo de Kava es: <strong>Cuanto mayor es la planta, más potente y equilibrado es el perfil de efectos.</strong>",
+    "qualitaet": {
+      "title": "Factores de Calidad en la Cosecha",
+      "table": {
+        "headers": {
+          "age": "Edad en la Cosecha",
+          "content": "Contenido de Kavalactonas",
+          "quality": "Nivel de Calidad",
+          "usage": "Uso"
+        },
+        "rows": [
+          {
+            "age": "< 2 años",
+            "content": "Bajo (3-5%)",
+            "quality": "Inmaduro",
+            "qualityColor": "red",
+            "usage": "No recomendado"
+          },
+          {
+            "age": "2-3 años",
+            "content": "Medio (5-10%)",
+            "quality": "Aceptable",
+            "qualityColor": "yellow",
+            "usage": "Productos simples"
+          },
+          {
+            "age": "3-5 años",
+            "content": "Alto (10-15%)",
+            "quality": "Bueno",
+            "qualityColor": "green",
+            "usage": "Calidad estándar"
+          },
+          {
+            "age": "5-7 años",
+            "content": "Muy alto (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Productos de alta calidad"
+          },
+          {
+            "age": "> 7 años",
+            "content": "Máximo (18-25%)",
+            "quality": "Excepcional",
+            "qualityColor": "purple",
+            "usage": "Uso ceremonial"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Para una alta calidad ('Noble Kava'), la planta debe crecer al menos de 3 a 5 años. Cuanto mayor es la planta, más potente y equilibrado es generalmente el perfil de efectos.",
+      "author": "Sebastian Freidank, \"Kava – Raíz de la Tranquilidad\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Regiones de Cultivo Importantes",
+    "paragraph1": "Kava se cultiva hoy en un cinturón de islas tropicales en el Pacífico. Cada región ha desarrollado sus propias variedades, tradiciones y características de calidad.",
+    "table": {
+      "headers": {
+        "region": "Región",
+        "varieties": "Variedades Conocidas",
+        "characteristics": "Particularidades",
+        "production": "Producción"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Mayor diversidad varietal (80+ cultivares)",
+          "production": "Mayor productor mundial",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Conocido por \"Waka\" (raíces premium)",
+          "production": "Segundo mayor productor"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Kavas muy suaves, \"cremosos\"",
+          "production": "Producción media"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Ceremonias tradicionales",
+          "production": "Consumo local"
+        },
+        {
+          "region": "Hawái",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Revivificación de variedades tradicionales",
+          "production": "Creciente"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Variedades de Sakau",
+          "characteristics": "Jugo fresco de Kava (\"Sakau\")",
+          "production": "Consumo local"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> se considera el país de origen del Kava cultivado y alberga hasta hoy la mayor diversidad genética. Desde aquí, la planta fue difundida por navegantes polinesios a través de todo el Pacífico, siendo una de las \"Plantas de Canoas\" más importantes que se llevaban en cada asentamiento de nuevas islas."
+  },
+  "navigation": {
+    "nextCategory": "Continuar a la siguiente categoría:",
+    "nextTitle": "Historia & Orígenes",
+    "nextSubtitle": "El viaje de 3000 años de Kava a través del Pacífico"
+  }
+}

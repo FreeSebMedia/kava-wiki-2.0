@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morfología",
+    "subtitle": "Anatomía detallada de la planta de Kava con un enfoque especial en el sistema radicular de importancia económica.",
+    "category": "Botánica"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botánica",
+    "morphologie": "Morfología"
+  },
+  "toc": {
+    "ueberblick": "Resumen morfológico",
+    "wurzelsystem": "El sistema radicular",
+    "stumpf": "El estolón (Cormo)",
+    "seitenwurzeln": "Las raíces laterales (Waka)",
+    "kavalactonVerteilung": "Distribución de Kavalactonas",
+    "staengel": "Tallos & Nudos",
+    "blaetter": "Hojas",
+    "blueten": "Flores & Frutos"
+  },
+  "intro": {
+    "paragraph1": "La morfología de <em>Piper methysticum</em> es el resultado de milenios de selección. Mientras que las partes aéreas de la planta son importantes para la identificación de variedades, el verdadero valor radica en las estructuras subterráneas: el complejo sistema radicular que contiene los deseados Kavalactonas."
+  },
+  "overview": {
+    "title": "Resumen morfológico",
+    "paragraph1": "Kava es un arbusto perenne y siempre verde con una altura de crecimiento típica de <strong>1,5 a 3 metros</strong>. En condiciones óptimas – abundante agua, nutrientes y sombra – algunas plantas pueden alcanzar hasta 5 metros.",
+    "table": {
+      "headers": {
+        "plantPart": "Parte de la planta",
+        "characteristic": "Característica",
+        "kavalactoneContent": "Contenido de Kavalactona"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Rizoma (Rhizoma)",
+          "characteristic": "Grueso, leñoso, ramificado",
+          "content": "Muy alto (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Raíces laterales",
+          "characteristic": "Delgadas, fibrosas, extensas",
+          "content": "Mayor contenido"
+        },
+        "stem": {
+          "name": "Tallo (Tronco)",
+          "characteristic": "Nudos, similar al bambú",
+          "content": "Bajo a medio"
+        },
+        "leaves": {
+          "name": "Hojas",
+          "characteristic": "En forma de corazón, grandes",
+          "content": "Muy bajo"
+        },
+        "flowers": {
+          "name": "Flores",
+          "characteristic": "Pequeñas, en espiga",
+          "content": "No utilizadas"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "El sistema radicular",
+    "paragraph1": "La parte más importante económica y farmacológicamente de la planta de Kava es el sistema radicular subterráneo. Se compone de dos componentes principales que difieren en su composición y calidad.",
+    "qualityAlert": {
+      "title": "Característica de calidad:",
+      "text": "El Kava de alta calidad se produce exclusivamente a partir de las raíces. El uso de partes aéreas de la planta (tallos, hojas) se considera de menor calidad y puede provocar efectos secundarios no deseados."
+    },
+    "stump": {
+      "title": "El estolón (Cormo/Estolón)",
+      "paragraph1": "El <strong>estolón</strong> es la parte gruesa y leñosa justo debajo de la superficie del suelo. Forma la masa central del rizoma y puede alcanzar dimensiones considerables en plantas más viejas.",
+      "properties": {
+        "title": "Propiedades",
+        "items": [
+          "Peso: 5-25 kg en plantas maduras",
+          "Diámetro: 10-30 cm",
+          "Textura: Dura, leñosa, fibrosa",
+          "Color: Marrón claro a marrón oscuro"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Perfil de Kavalactona",
+        "items": [
+          "Contenido total: Medio a alto",
+          "Más Dihidrometisticina (DHM)",
+          "Menos Kavain que las raíces laterales",
+          "Tendencia a ser \"más pesado\" en efecto"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "Las raíces laterales (Raíces laterales / Waka)",
+      "paragraph1": "Las <strong>raíces laterales</strong> son las raíces más finas que se extienden desde el estolón y se dispersan en el suelo. En Fiji, se les llama \"Waka\" y se consideran el componente de mayor calidad.",
+      "properties": {
+        "title": "Propiedades",
+        "items": [
+          "Diámetro: 0,5-3 cm",
+          "Longitud: Hasta varios metros",
+          "Textura: Más suave, menos leñosa",
+          "Color: Marrón claro, amarillento"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Perfil de Kavalactona",
+        "items": [
+          "Contenido total: Mayor de todas las partes de la planta",
+          "Mayor proporción de Kavain",
+          "Perfil de efecto más equilibrado",
+          "Calidad premium (\"Grado Waka\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Distribución de Kavalactonas en la planta",
+      "paragraph1": "La concentración de Kavalactonas varía considerablemente entre las diferentes partes de la planta. Esto tiene efectos directos sobre la calidad y seguridad de los productos de Kava.",
+      "table": {
+        "headers": {
+          "plantPart": "Parte de la planta",
+          "kavalactoneContent": "Contenido de Kavalactona",
+          "usage": "Uso",
+          "qualityLevel": "Nivel de calidad"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Raíces laterales (Waka)",
+            "content": "10-20%",
+            "usage": "Kava premium",
+            "quality": "Máxima"
+          },
+          "stump": {
+            "name": "Estolón (Cormo)",
+            "content": "5-15%",
+            "usage": "Kava estándar",
+            "quality": "Alta"
+          },
+          "basalStem": {
+            "name": "Tronco basal (Lewena)",
+            "content": "3-8%",
+            "usage": "Mezclado o solo",
+            "quality": "Media"
+          },
+          "upperStem": {
+            "name": "Tronco superior",
+            "content": "1-3%",
+            "usage": "No recomendado",
+            "quality": "Baja"
+          },
+          "leaves": {
+            "name": "Hojas",
+            "content": "<1%",
+            "usage": "No utilizadas",
+            "quality": "Inadecuado"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Advertencia:",
+        "text": "El uso de hojas y partes aéreas del tallo se ha relacionado con informes históricos de toxicidad hepática. El Kava de alta calidad utiliza exclusivamente material de raíz."
+      }
+    }
+  },
+  "stems": {
+    "title": "Tallos & Nudos",
+    "paragraph1": "Los tallos (troncos) de Kava son una de las características más importantes para la <strong>identificación de variedades</strong>. Crecen erectos y se ramifican a medida que envejecen.",
+    "structure": {
+      "title": "Estructura",
+      "items": [
+        "<strong>Nudos (Nodos):</strong> Engrosamientos claramente visibles, similares a los del bambú",
+        "<strong>Internodios:</strong> Las secciones entre los nudos, variables en longitud",
+        "<strong>Diámetro:</strong> 2-5 cm, dependiendo de la edad y variedad",
+        "<strong>Altura:</strong> 1,5-3 m (hasta 5 m en condiciones óptimas)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Características de las variedades",
+      "paragraph1": "El color y el patrón de los tallos son una característica clave para distinguir cultivares:",
+      "items": [
+        "<strong>Verde:</strong> Común en muchas variedades estándar",
+        "<strong>Manchado:</strong> Característico de ciertas variedades",
+        "<strong>Rayado:</strong> Rayas longitudinales en varios colores",
+        "<strong>Púrpura oscuro/Negro:</strong> Variedades raras, a menudo especialmente valoradas"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Hojas",
+    "paragraph1": "Las hojas de Kava son grandes, llamativas y sirven principalmente para la fotosíntesis. Tradicionalmente no se utilizan para la preparación de Kava.",
+    "characteristics": {
+      "title": "Características de la hoja",
+      "formSize": {
+        "title": "Forma & Tamaño",
+        "items": [
+          "En forma de corazón (cordado)",
+          "Ancho: 15-30 cm",
+          "Longitud: 20-35 cm",
+          "Dispuestas de forma alterna"
+        ]
+      },
+      "surface": {
+        "title": "Superficie",
+        "items": [
+          "Lisa a ligeramente peluda",
+          "Brillante en la parte superior",
+          "Mate en la parte inferior",
+          "Venas de la hoja prominentes"
+        ]
+      },
+      "color": {
+        "title": "Color",
+        "items": [
+          "Verde claro a verde oscuro",
+          "Matices violetas posibles",
+          "Los pecíolos a menudo están coloreados",
+          "Variaciones específicas de la variedad"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Flores & Frutos",
+    "paragraph1": "Aunque <em>Piper methysticum</em> produce flores, la planta es funcionalmente estéril y no forma semillas viables.",
+    "flowerStructure": {
+      "title": "Estructura de la flor",
+      "items": [
+        "<strong>Tipo:</strong> Inflorescencias en espiga (Espádice)",
+        "<strong>Tamaño:</strong> 3-9 cm de largo",
+        "<strong>Color:</strong> Verde-blanco a amarillento",
+        "<strong>Posición:</strong> Opuestas a las hojas",
+        "<strong>Sexo:</strong> Mayormente unisexuales (dioicas)"
+      ]
+    },
+    "sterility": {
+      "title": "Estéril",
+      "paragraph1": "La esterilidad de <em>P. methysticum</em> es consecuencia de la alta poliploidia (decaploidia). Esto significa:",
+      "items": [
+        "Sin semillas viables",
+        "Reproducción exclusivamente vegetativa",
+        "Dependencia total del ser humano",
+        "Todas las plantas son clones genéticos"
+      ]
+    },
+    "paragraph2": "Esta esterilidad tiene consecuencias de gran alcance: Sin cultivo humano continuo, <em>Piper methysticum</em> se extinguiría en una generación. Cada planta de Kava que existe hoy es el resultado de una cadena ininterrumpida de reproducción por esquejes que se remonta a las primeras domesticaciones hace unos 3.000 años."
+  },
+  "navigation": {
+    "continueText": "Continuar en el capítulo de Botánica:",
+    "nextChapter": {
+      "title": "Cultivo & Ecología",
+      "description": "Cultivación, reproducción & condiciones de crecimiento"
+    }
+  }
+}

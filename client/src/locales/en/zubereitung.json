@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Preparation & Application",
+    "subtitle": "From powder to drink: How to prepare Kava correctly to achieve maximum effect and the best taste.",
+    "category": "Preparation"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "current": "Preparation"
+  },
+  "toc": {
+    "title": "Content",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Basics of Extraction",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Traditional Method (Kneading)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Blender Method",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Shaker Method (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instant & Micronized",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Pro Tips for Best Effect",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kavalactones are <strong>not water-soluble</strong>, but fat-soluble. They mechanically adhere to the starch particles of the root.",
+      "text": "The goal of any preparation is therefore to release these particles from the plant fibers through mechanical force (kneading, mixing) and to emulsify them in water. A pure \"tea preparation\" (just pouring hot water) does <strong>not</strong> work effectively with Kava!"
+    },
+    "traditionell": {
+      "title": "Traditional Method (Kneading)",
+      "intro": "This is the best method for maximum potency and an authentic experience.",
+      "materialsTitle": "What You Need:",
+      "materials": [
+        "Kava root powder (Medium Grind)",
+        "A filter bag (nut milk bag, 75-100 microns)",
+        "A bowl of warm (not boiling!) water",
+        "Optional: A splash of milk or coconut milk (fat helps with extraction)"
+      ],
+      "instructionsTitle": "Instructions:",
+      "instructions": [
+        "Place the powder in the filter bag (about 30-40g per 500ml of water).",
+        "Submerge the bag in the water and let it soak briefly.",
+        "<strong>Knead and Squeeze:</strong> Knead the bag vigorously underwater for 10-15 minutes. Squeeze it out repeatedly. The water should turn milky-brown (\"Grog\").",
+        "Squeeze the bag one last time firmly.",
+        "Serve the Kava in bowls (Shells). Drink quickly (\"Chug\"), do not sip!"
+      ]
+    },
+    "blender": {
+      "title": "Blender Method",
+      "intro": "Faster and often stronger, but the taste can be somewhat more bitter as more plant materials are crushed.",
+      "instructions": [
+        "Add water, Kava powder, and a teaspoon of oil/fat to a stand mixer.",
+        "Blend on high for 3-4 minutes.",
+        "Pour the liquid through a filter bag or fine sieve into a bowl.",
+        "Press the plant residues well in the filter."
+      ]
+    },
+    "shaker": {
+      "title": "Shaker Method (Aluball)",
+      "intro": "The most modern and fastest method, ideal for on-the-go.",
+      "text": "Special shaker bottles with a ball (Aluball) that contains a metal sieve are used.",
+      "instructions": [
+        "Fill the sieve ball with Kava.",
+        "Fill the bottle with water.",
+        "Insert the ball and shake vigorously for 1-2 minutes.",
+        "Done!"
+      ],
+      "note": "Note: This method is often slightly less potent than traditional kneading, but very convenient."
+    },
+    "instant": {
+      "title": "Instant & Micronized",
+      "intro": "For those who want no effort at all.",
+      "items": [
+        {
+          "name": "Instant Kava",
+          "description": "Dehydrated \"Green Kava Juice\". Very potent, very expensive, dissolves instantly in water. The \"royal class\"."
+        },
+        {
+          "name": "Micronized Kava",
+          "description": "Extremely finely ground root powder, with the coarse fibers removed. It is simply consumed as is. It may cause nausea in sensitive stomachs more than filtered Kava."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Pro Tips for Best Effect",
+      "alert": {
+        "title": "The Golden Rule",
+        "text": "Always drink Kava on an <strong>empty stomach</strong> (at least 3-4 hours after the last meal). Otherwise, the effect is significantly weaker!"
+      },
+      "tips": [
+        {
+          "name": "Reverse Tolerance",
+          "text": "Many people feel little the first time. The body needs to \"get used to\" the Kavalactones. Drink it for a few days in a row."
+        },
+        {
+          "name": "The \"Chaser\"",
+          "text": "Kava tastes earthy and bitter. Keep a piece of fruit (pineapple, orange) ready to bite into right after drinking."
+        },
+        {
+          "name": "Source of Fat",
+          "text": "Eat a small, fatty meal (e.g., pizza, curry) after the Kava session. This can trigger a second wave of effect."
+        }
+      ]
+    }
+  }
+}
