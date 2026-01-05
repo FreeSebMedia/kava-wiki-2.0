@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Odling & Ekologi",
+    "subtitle": "Växtförhållanden, förökningsmetoder och konsten att odla traditionell Kava.",
+    "category": "Botanik"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanik",
+    "current": "Odling & Ekologi"
+  },
+  "toc": {
+    "vermehrung": "Vegetativ förökning",
+    "stecklinge": "Skärning av sticklingar",
+    "klima": "Klimatkrav",
+    "boden": "Jordens beskaffenhet",
+    "pflege": "Skötsel & Tillväxt",
+    "ernte": "Skörd & Mognadstid",
+    "qualitaet": "Kvalitetsfaktorer",
+    "anbauregionen": "Viktiga odlingsregioner"
+  },
+  "intro": {
+    "paragraph1": "Odlingen av Kava är en konst som har överförts från generation till generation i tusentals år. Eftersom <em>Piper methysticum</em> är steril och inte producerar frön, är växten helt beroende av människan. Denna unika beroende har lett till en djup kulturell koppling mellan de stillahavska folken och deras heliga växt."
+  },
+  "vermehrung": {
+    "title": "Vegetativ förökning",
+    "paragraph1": "Förökningen av Kava sker uteslutande <strong>vegetativt genom sticklingar</strong>. Detta är en direkt följd av växtens sterilitet – ett kännetecken som har uppstått genom tusentals års domesticering.",
+    "advantages": {
+      "title": "Fördelar med vegetativ förökning",
+      "items": [
+        "Genetisk identitet med moderplantan",
+        "Bevarande av beprövade sortsegenskaper",
+        "Förutsägbart kemotyp-profil",
+        "Snabbare tillväxt än från frön",
+        "Beprövad kvalitet över generationer"
+      ]
+    },
+    "challenges": {
+      "title": "Utmaningar",
+      "items": [
+        "Ingen genetisk variation möjlig",
+        "Mottaglighet för sjukdomar (kloner)",
+        "Beroende av moderplantor",
+        "Begränsad spridningshastighet",
+        "Risk för sortförlust"
+      ]
+    },
+    "stecklinge": {
+      "title": "Skärning av sticklingar & Plantering",
+      "paragraph1": "Den traditionella metoden för skärning av sticklingar följer en beprövad process:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Val",
+          "description": "Friska stängelavsnitt med 2-3 noder från en beprövad moderplanta"
+        },
+        {
+          "number": "2",
+          "title": "Klippning",
+          "description": "Rent snitt under en nod, längd ca 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Förberedelse",
+          "description": "Avlägsnande av de nedre bladen, kort torkning av snittytan"
+        },
+        {
+          "number": "4",
+          "title": "Plantering",
+          "description": "Sätts i lös, fuktig jord i skugga, regelbunden vattning"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Klimatkrav",
+    "paragraph1": "Kava är en <strong>tropisk växt</strong> med specifika klimatkrav. Den trivs endast inom ett relativt snävt spektrum av miljöförhållanden.",
+    "table": {
+      "headers": {
+        "parameter": "Parameter",
+        "optimal": "Optimalt intervall",
+        "tolerance": "Toleransintervall",
+        "note": "Anmärkning"
+      },
+      "rows": [
+        {
+          "parameter": "Temperatur",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Ingen frost tolereras"
+        },
+        {
+          "parameter": "Nederbörd",
+          "optimal": "2.000-3.000 mm/år",
+          "tolerance": "1.500-4.000 mm/år",
+          "note": "Jämnt fördelat"
+        },
+        {
+          "parameter": "Luftfuktighet",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Hög fuktighet föredras"
+        },
+        {
+          "parameter": "Höjd över havet",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Lågland föredras"
+        },
+        {
+          "parameter": "Solsken",
+          "optimal": "Halvskugga",
+          "tolerance": "30-70% skugga",
+          "note": "Unga växter: mer skugga"
+        }
+      ]
+    },
+    "alert": "<strong>Skuggbegär:</strong> Unga Kava-växter (0-2 år) behöver cirka 70-80% skugga. Med åldern kan de tåla mer solsken, men drar fortfarande nytta av partiell skugga."
+  },
+  "boden": {
+    "title": "Jordens beskaffenhet",
+    "paragraph1": "Jordens beskaffenhet är en av de mest kritiska faktorerna för framgångsrik Kava-odling. Växten ställer höga krav på dränering och näringsinnehåll.",
+    "ideal": {
+      "title": "Ideala jordegenskaper",
+      "items": [
+        {
+          "label": "Struktur:",
+          "value": "Lös, smulig, väl ventilerad"
+        },
+        {
+          "label": "Dränering:",
+          "value": "Utmärkt – vattenstagnation leder snabbt till rotrot"
+        },
+        {
+          "label": "pH-värde:",
+          "value": "Lätt sur till neutral (5,5-6,5)"
+        },
+        {
+          "label": "Organiskt innehåll:",
+          "value": "Högt, rikt på humus"
+        },
+        {
+          "label": "Djup:",
+          "value": "Minst 60 cm för rotutveckling"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Att undvika",
+      "items": [
+        {
+          "label": "Kompakterad jord:",
+          "value": "Hämmar rotväxt"
+        },
+        {
+          "label": "Vattenstagnation:",
+          "value": "Orsakar rotrot och svampangrepp"
+        },
+        {
+          "label": "Tunga lerjordar:",
+          "value": "Dålig dränering"
+        },
+        {
+          "label": "Saltrika jordar:",
+          "value": "Kava är känslig för salt"
+        },
+        {
+          "label": "Näringsfattiga jordar:",
+          "value": "Minskar Kavalacton-innehåll"
+        }
+      ]
+    },
+    "paragraph2": "I de traditionella odlingsområdena föredras ofta <strong>vulkaniska jordar</strong>. Dessa erbjuder en idealisk kombination av dränering, mineralinnehåll och struktur. I Vanuatu och Fiji anläggs Kava-odlingar ofta på lätt lutande sluttningar för att säkerställa naturlig dränering."
+  },
+  "pflege": {
+    "title": "Skötsel & Tillväxt",
+    "paragraph1": "Kava är en relativt lättskött växt när den väl är etablerad. De viktigaste skötselåtgärderna fokuserar på de första två åren.",
+    "table": {
+      "headers": {
+        "phase": "Tillväxtfas",
+        "period": "Period",
+        "tasks": "Huvuduppgifter",
+        "notes": "Särskildheter"
+      },
+      "rows": [
+        {
+          "phase": "Etablering",
+          "period": "0-6 månader",
+          "tasks": "Regelbunden vattning, säkerställa skugga",
+          "notes": "Kritiskaste fasen"
+        },
+        {
+          "phase": "Ungdomsfas",
+          "period": "6-18 månader",
+          "tasks": "Ogräsbekämpning, mulching, eventuellt gödsling",
+          "notes": "Snabb tillväxt"
+        },
+        {
+          "phase": "Mognadsfas",
+          "period": "18-36 månader",
+          "tasks": "Minimalt underhåll, skadedjurskontroll",
+          "notes": "Rotutveckling"
+        },
+        {
+          "phase": "Skördemognad",
+          "period": "3-5+ år",
+          "tasks": "Kvalitetsbedömning, skördeförberedelse",
+          "notes": "Optimal potens"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Skörd & Mognadstid",
+    "paragraph1": "Skördetiden är avgörande för kvaliteten på slutprodukten. En av de viktigaste reglerna inom Kava-odling är: <strong>Ju äldre växten, desto mer potent och balanserad är effektprofilen.</strong>",
+    "qualitaet": {
+      "title": "Kvalitetsfaktorer vid skörd",
+      "table": {
+        "headers": {
+          "age": "Ålder vid skörd",
+          "content": "Kavalacton-innehåll",
+          "quality": "Kvalitetsnivå",
+          "usage": "Användning"
+        },
+        "rows": [
+          {
+            "age": "< 2 år",
+            "content": "Låg (3-5%)",
+            "quality": "Omoden",
+            "qualityColor": "red",
+            "usage": "Ej rekommenderad"
+          },
+          {
+            "age": "2-3 år",
+            "content": "Mellan (5-10%)",
+            "quality": "Acceptabel",
+            "qualityColor": "yellow",
+            "usage": "Enkla produkter"
+          },
+          {
+            "age": "3-5 år",
+            "content": "Hög (10-15%)",
+            "quality": "Bra",
+            "qualityColor": "green",
+            "usage": "Standardkvalitet"
+          },
+          {
+            "age": "5-7 år",
+            "content": "Mycket hög (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Högkvalitativa produkter"
+          },
+          {
+            "age": "> 7 år",
+            "content": "Maximal (18-25%)",
+            "quality": "Exceptionell",
+            "qualityColor": "purple",
+            "usage": "Ceremoniell användning"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "För hög kvalitet ('Noble Kava') måste växten växa i minst 3 till 5 år. Ju äldre växten, desto mer potent och balanserad är i regel effektprofilen.",
+      "author": "Sebastian Freidank, \"Kava – Roten till lugnet\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Viktiga odlingsregioner",
+    "paragraph1": "Kava odlas idag i ett bälte av tropiska öar i Stilla havet. Varje region har utvecklat sina egna sorter, traditioner och kvalitetsdrag.",
+    "table": {
+      "headers": {
+        "region": "Region",
+        "varieties": "Kända sorter",
+        "characteristics": "Särskildheter",
+        "production": "Produktion"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "Största sortmångfalden (80+ kultivarer)",
+          "production": "Världens största producent",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Känt för \"Waka\" (premiumrötter)",
+          "production": "Andra största producenten"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Mycket milda, \"krämiga\" Kavas",
+          "production": "Mellanproduktion"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Traditionella ceremonier",
+          "production": "Lokal konsumtion"
+        },
+        {
+          "region": "Hawaii",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Återupplivning av traditionella sorter",
+          "production": "Växande"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Sakau-varieteter",
+          "characteristics": "Färsk Kava-saft (\"Sakau\")",
+          "production": "Lokal konsumtion"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> anses vara ursprungslandet för den odlade Kava och har fortfarande den största genetiska mångfalden. Härifrån spreds växten av polynesiska sjöfarare över hela Stilla havet – som en av de viktigaste \"Canoe Plants\" som togs med vid varje bosättning av nya öar."
+  },
+  "navigation": {
+    "nextCategory": "Fortsätt till nästa kategori:",
+    "nextTitle": "Historia & Ursprunget",
+    "nextSubtitle": "Den 3000-åriga resan av Kava genom Stilla havet"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "page": {
+    "title": "Relaxare musculară",
+    "subtitle": "Cum Kavalactonele eliberează tensiuni și promovează relaxarea corporală.",
+    "category": "Efect"
+  },
+  "toc": {
+    "title": "Cuprins",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Introducere",
+        "level": 1
+      },
+      {
+        "id": "mechanismen",
+        "title": "Mecanisme de acțiune",
+        "level": 1
+      },
+      {
+        "id": "kavalactone",
+        "title": "Kavalactone relevante",
+        "level": 1
+      },
+      {
+        "id": "anwendungen",
+        "title": "Domenii de aplicare",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Tipuri și soiuri recomandate",
+        "level": 1
+      },
+      {
+        "id": "praxis",
+        "title": "Aplicare practică",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "wirkung": "Efect",
+    "current": "Relaxare musculară"
+  },
+  "einfuehrung": {
+    "paragraph1": "Efectul <strong>relaxant muscular</strong> al Kava este unul dintre cele mai evidente efecte resimțite. Deja după prima porție, o undă de relaxare începe să se răspândească prin corp – tensiunile se eliberează, corpul se simte \"greu\" și plăcut.",
+    "paragraph2": "În utilizarea tradițională din Pacific, Kava este folosit de mii de ani pentru a ameliora durerile musculare și tensiunea corporală. Cercetările moderne au elucidat mecanismele subiacente."
+  },
+  "mechanismen": {
+    "title": "Mecanisme de acțiune",
+    "intro": "Efectul relaxant muscular al Kava se bazează pe mai multe mecanisme sinergice, care acționează atât la nivel central (creier/spinal), cât și la nivel periferic.",
+    "items": [
+      {
+        "icon": "zap",
+        "title": "Blocarea canalelor de sodiu și calciu",
+        "text": "Kavalactonele blochează <strong>canalele de sodiu și calciu</strong> dependente de tensiune în celulele nervoase. Acest lucru reduce excitabilitatea neuronilor motori (celule nervoase care controlează mușchii) și duce la o reducere a tonusului muscular. Acest mecanism este, de asemenea, responsabil pentru efectul <strong>anticonvulsivant</strong> (de relaxare a crampelor)."
+      },
+      {
+        "icon": "activity",
+        "title": "Modularea centrală a GABA",
+        "text": "Întărirea efectului GABA în creier și măduva spinării reduce <strong>tensiunea musculară centrală</strong>. GABA este cel mai important neurotransmițător inhibitor și reglează, de asemenea, tonusul muscular la nivel spinal."
+      },
+      {
+        "icon": "heart",
+        "title": "Efect periferic",
+        "text": "Unele Kavalactone acționează, de asemenea, direct asupra <strong>mușchilor netezi</strong> (de exemplu, în vasele de sânge). Acest lucru poate duce la o ușoară vasodilatație (dilatarea vaselor de sânge) și explică senzația de căldură pe care o raportează mulți utilizatori."
+      }
+    ],
+    "quote": {
+      "text": "Kavalactonele blochează canalele de sodiu și calciu dependente de tensiune la nivel neuronal, contribuind la efectul relaxant muscular.",
+      "source": "— Kava – Rădăcina liniștii"
+    }
+  },
+  "kavalactone": {
+    "title": "Kavalactone relevante",
+    "intro": "Nu toate Kavalactonele au același efect relaxant muscular. În special două compuși ies în evidență:",
+    "dhk": {
+      "position": "2",
+      "title": "Dihidrokavain (DHK)",
+      "positionLabel": "Poziția 2 în chimotip",
+      "description": "DHK este <strong>cel mai puternic</strong> Kavalacton relaxant muscular. Acționează în principal prin blocarea canalelor de sodiu și are o componentă sedativă pronunțată.",
+      "profileLabel": "Profil de acțiune:",
+      "profile": "Foarte relaxant muscular, sedativ, centrat pe corp. Ideal pentru utilizarea seara și în caz de tensiuni."
+    },
+    "dhm": {
+      "position": "5",
+      "title": "Dihidromethysticin (DHM)",
+      "positionLabel": "Poziția 5 în chimotip",
+      "description": "DHM are, de asemenea, proprietăți puternice de relaxare musculară, dar este și Kavalactonul cu <strong>cea mai lungă durată de acțiune</strong>. Poate provoca oboseală persistentă la concentrații mari.",
+      "warningLabel": "Atenție:",
+      "warning": "Concentrațiile mari de DHM (Poziția 1-2) sunt tipice pentru soiurile Tudei și pot duce la simptome de \"mahmureală\"."
+    },
+    "table": {
+      "headers": {
+        "kavalacton": "Kavalacton",
+        "relaxation": "Relaxare musculară",
+        "sedation": "Sedare",
+        "duration": "Durată"
+      },
+      "rows": [
+        {
+          "name": "Dihidrokavain (2)",
+          "relaxation": "⭐⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐",
+          "duration": "Medie"
+        },
+        {
+          "name": "Dihidromethysticin (5)",
+          "relaxation": "⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐⭐",
+          "duration": "Lung"
+        },
+        {
+          "name": "Methysticin (3)",
+          "relaxation": "⭐⭐⭐",
+          "sedation": "⭐⭐⭐",
+          "duration": "Medie"
+        },
+        {
+          "name": "Kavain (4)",
+          "relaxation": "⭐⭐",
+          "sedation": "⭐⭐",
+          "duration": "Scurt"
+        }
+      ]
+    }
+  },
+  "anwendungen": {
+    "title": "Domenii de aplicare",
+    "intro": "Efectul relaxant muscular al Kava poate fi util în diverse afecțiuni:",
+    "items": [
+      {
+        "title": "Tensiuni în zona gâtului/umerilor",
+        "text": "Stresul și munca la birou duc adesea la tensiuni cronice. Kava poate ajuta la eliberarea acestora și la îmbunătățirea stării de bine."
+      },
+      {
+        "title": "Dureri de spate",
+        "text": "În cazul durerilor de spate cauzate de mușchi, efectul relaxant poate aduce alinare. Kava nu înlocuiește tratamentul medical, dar poate avea un efect de susținere."
+      },
+      {
+        "title": "Cefalee de tensiune",
+        "text": "Durerile de cap cauzate de tensiuni musculare în zona gâtului și capului pot fi ameliorate prin relaxare."
+      },
+      {
+        "title": "Disconfort menstrual",
+        "text": "Efectul de relaxare a crampelor poate fi util în cazul crampelor menstruale. Tradițional, Kava a fost folosit în Pacific și în acest scop."
+      },
+      {
+        "title": "După sport",
+        "text": "Pentru recuperare după antrenamente intense, Kava poate ajuta la relaxarea mușchilor și la promovarea recuperării."
+      },
+      {
+        "title": "Sindromul picioarelor neliniștite",
+        "text": "Unii utilizatori raportează ameliorare în cazul picioarelor neliniștite. Combinația dintre relaxarea musculară și anxiolitic poate fi eficientă aici."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Tipuri și soiuri recomandate",
+    "intro": "Pentru o <strong>relaxare musculară</strong> maximă, ar trebui alese soiuri cu un conținut ridicat de DHK (Poziția 2 pe primul sau al doilea loc). Aceste Kava \"Heavy\" sunt centrate pe corp și ideale pentru utilizarea seara.",
+    "heavy": {
+      "label": "Heavy",
+      "idealFor": "Relaxare musculară maximă",
+      "varieties": [
+        {
+          "name": "Palasa (Vanuatu)",
+          "chemotype": "423651",
+          "description": "Foarte centrat pe corp, relaxare musculară puternică. Ideal pentru tensiuni."
+        },
+        {
+          "name": "Ambae (Vanuatu)",
+          "chemotype": "246531",
+          "description": "Dominant în DHK, efect pronunțat de \"Couch-Lock\"."
+        },
+        {
+          "name": "Palarasul (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Foarte sedativ cu o bună relaxare musculară."
+        },
+        {
+          "name": "Borogu (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Clasic cu un efect corporal echilibrat."
+        }
+      ]
+    },
+    "tip": {
+      "title": "Sfat despre chimotip",
+      "text": "Acordați atenție <strong>poziției 2 (DHK)</strong> în chimotip. Cu cât este mai în față, cu atât mai puternică este relaxarea musculară. Un chimotip precum <strong>246...</strong> sau <strong>426...</strong> indică un soi centrat pe corp. Utilizați <a href=\"/de/inhaltsstoffe/rechner\" class=\"text-primary hover:underline\">Calculatorul de chimotip</a> pentru a analiza soiurile."
+    }
+  },
+  "praxis": {
+    "title": "Aplicare practică",
+    "intro": "Pentru aplicarea în cazul tensiunilor musculare, există câteva recomandări:",
+    "boxTitle": "Recomandări pentru relaxare musculară",
+    "tips": [
+      {
+        "label": "Timp:",
+        "text": "Cel mai bine seara, cu 1-2 ore înainte de culcare. Componenta sedativă a soiurilor relaxante poate provoca somnolență."
+      },
+      {
+        "label": "Dozare:",
+        "text": "2-3 porții (30-45g pulbere) pentru un efect corporal semnificativ. Începătorii ar trebui să înceapă cu mai puțin."
+      },
+      {
+        "label": "Combinație:",
+        "text": "Căldura (baie caldă, sticlă cu apă caldă) amplifică efectul relaxant. De asemenea, exercițiile ușoare de întindere pot fi utile."
+      },
+      {
+        "label": "Regularitate:",
+        "text": "În cazul tensiunilor cronice, o aplicare regulată seara (cu pauze) poate fi benefică."
+      },
+      {
+        "label": "Hidratare:",
+        "text": "Beți suficientă apă, deoarece Kava poate avea un efect ușor de deshidratare."
+      }
+    ],
+    "feeling": {
+      "title": "Sentimentul \"Kava\"",
+      "text": "Relaxarea corporală prin Kava este adesea descrisă ca o \"greutate\" plăcută. Membrele se simt calde și relaxate, tensiunile se eliberează de la sine. Această stare nu trebuie confundată cu amețeala – mintea rămâne clară, doar corpul se relaxează profund."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Continuare în capitolul Efect:",
+    "next": {
+      "title": "Stare & Socializare",
+      "description": "Cum Kava îmbunătățește starea de spirit și promovează interacțiunile sociale",
+      "href": "/de/wirkung/stimmung"
+    }
+  }
+}

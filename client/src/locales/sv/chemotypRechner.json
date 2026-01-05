@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Chemotyp-kalkylator",
+    "subtitle": "Ange en 6-siffrig chemotyp och ta reda på den förväntade effekten och rekommendationerna.",
+    "category": "Interaktiv"
+  },
+  "breadcrumbs": {
+    "home": "Hem",
+    "inhaltsstoffe": "Innehåll",
+    "current": "Chemotyp-kalkylator"
+  },
+  "toc": {
+    "title": "Innehåll",
+    "rechner": "Chemotyp-kalkylator",
+    "anleitung": "Så här fungerar det",
+    "beispiele": "Exempel på chemotyper",
+    "legende": "Kavalaktone-legenda"
+  },
+  "rechner": {
+    "title": "Ange chemotyp",
+    "subtitle": "6 siffror från 1-6, varje exakt en gång",
+    "placeholder": "t.ex. 426531",
+    "analyzeButton": "Analysera",
+    "knownVariety": "Känd sort"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Fokus & Eufori",
+      "description": "Ökar dopamin, främjar fokus och lätt eufori"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Muskelavslappning",
+      "description": "Stark muskelavslappning och smärtlindrande effekt"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "CB1-aktivitet",
+      "description": "Verkar på endocannabinoid-systemet, lätt stimulerande"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Ångestdämpande",
+      "description": "Huvudkomponenten för ångestlösning och mental klarhet"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Långt sedativ",
+      "description": "Mycket sedativ, långsam nedbrytning – Tudei-markör"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Sedativ",
+      "description": "Sedativ och neuroprotektiv"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Ogiltig",
+      "description": "Vänligen ange en giltig 6-siffrig chemotyp (siffror 1-6, varje exakt en gång)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Denna chemotyp indikerar Tudei-kava. DHM (5) på position 1 eller 2 innebär mycket lång verkan med möjliga biverkningar."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Kavain-dominant sort med primärt mental effekt. Idealisk för sociala tillfällen och kreativt arbete."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Välbalanserad sort med Kavain och DHK i de första positionerna. Kombinerar mental klarhet med fysisk avslappning."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Dihydrokavain-dominant sort med primärt fysisk effekt. Idealisk för avslappning och stressreducering."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Välbalanserad sort med en blandning av mental och fysisk effekt. Mångsidig användning."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) på framträdande position – typiskt för Tudei-kava",
+    "tudeiSideEffects": "Möjliga biverkningar: Illamående, lång 'baksmälla', dåsighet",
+    "tudeiNotRecommended": "Inte lämplig för regelbundet bruk",
+    "dhmPosition1": "DHM på position 1: Mycket stark, långvarig sedation",
+    "dhmPosition2": "DHM på position 2: Ökad sedation, längre verkan"
+  },
+  "strengths": {
+    "headyClear": "Klar, fokuserad effekt utan stark sedation",
+    "headyMood": "Bra stämningshöjande och ångestlösande",
+    "headyBeginner": "Idealisk för nybörjare",
+    "headyBalancedBest": "Idealisk kombination av huvud- och kroppseffekt",
+    "headyBalancedMental": "Mental klarhet med mild avslappning",
+    "headyBalancedBody": "Lätt muskelavslappning utan stark sedation",
+    "heavyMuscle": "Stark muskelavslappning",
+    "heavyPain": "Bra smärtlindrande effekt",
+    "heavyRelax": "Djup fysisk avslappning",
+    "balancedBoth": "Välbalanserad effekt på kropp och sinne",
+    "balancedVersatile": "Mångsidig användning",
+    "balancedDaily": "Bra vardagssort",
+    "methysticinNeuro": "Methysticin framträdande: Bra neuroprotektiva egenskaper",
+    "yangoninStim": "Yangonin framträdande: Lätt stimulerande komponent",
+    "dmyDopamine": "DMY framträdande: Förstärkt dopaminverkan, mer eufori"
+  },
+  "effects": {
+    "headyEffects": [
+      "Mental klarhet",
+      "Ångestlösning",
+      "Lätt eufori"
+    ],
+    "headyBalancedEffects": [
+      "Mental klarhet",
+      "Lätt muskelavslappning",
+      "Stämningshöjande"
+    ],
+    "heavyEffects": [
+      "Muskelavslappning",
+      "Fysisk ro",
+      "Sömnfrämjande"
+    ],
+    "balancedEffects": [
+      "Välbalanserad avslappning",
+      "Måttlig ångestlösning",
+      "Lätt muskelavslappning"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Sociala tillfällen",
+      "Kreativt arbete",
+      "Under dagen eller tidig kväll"
+    ],
+    "headyBalancedUse": [
+      "Mångsidig användning",
+      "Sociala tillfällen med avslappning",
+      "Eftermiddag till kväll"
+    ],
+    "heavyUse": [
+      "Kvällsavslappning",
+      "Efter fysisk ansträngning",
+      "Sömnförberedelse"
+    ],
+    "balancedUse": [
+      "Daglig användning",
+      "Meditation",
+      "Flexibel användning"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalaktone-ordning",
+    "strengthsTitle": "Styrkor hos denna chemotyp",
+    "dominantEffects": "Dominanta effekter",
+    "recommendedUseTitle": "Rekommenderad användning"
+  },
+  "anleitung": {
+    "title": "Så här fungerar det",
+    "paragraph1": "Chemotypen är en 6-siffrig kod som listar de sex huvudsakliga kavalaktone i fallande ordning efter deras koncentration. Den första siffran står för kavalaktone med högst koncentration, den sista för den med lägst.",
+    "rulesTitle": "De viktigaste reglerna:",
+    "rules": [
+      {
+        "label": "Position 1 = 4 (Kavain)",
+        "text": "\"Heady\" Kava – mental effekt, fokus, ångestlösning"
+      },
+      {
+        "label": "Position 1 = 2 (DHK)",
+        "text": "\"Heavy\" Kava – fysisk effekt, muskelavslappning"
+      },
+      {
+        "label": "Position 1 eller 2 = 5 (DHM)",
+        "text": "⚠️ Tudei-kava – mycket lång verkan, möjliga biverkningar"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Exempel på chemotyper",
+    "intro": "Klicka på en exempel-chemotyp för att analysera den:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalaktone-legenda",
+    "intro": "Översikt över alla sex huvudsakliga kavalaktone och deras effekter:"
+  },
+  "hint": {
+    "title": "Notis:",
+    "text": "Denna analys baseras på allmänna riktlinjer. Den faktiska effekten kan variera beroende på kvalitet, beredning och individuell känslighet. För detaljerad information, besök vår sida om",
+    "linkText": "Chemotyp-systemet"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Interaktionskontroll",
+    "subtitle": "Kontrollera potentiella interaktioner mellan dina läkemedel och Kava",
+    "category": "Säkerhet",
+    "breadcrumbs": {
+      "home": "Hem",
+      "sicherheit": "Säkerhet",
+      "wechselwirkungen": "Interaktioner",
+      "current": "Interaktionskontroll"
+    }
+  },
+  "toc": {
+    "title": "Innehåll",
+    "checker": "Interaktionskontroll",
+    "anleitung": "Instruktioner",
+    "kategorien": "Riskkategorier",
+    "haeufige": "Vanligt kontrollerade läkemedel",
+    "hinweis": "Viktig information"
+  },
+  "ui": {
+    "disclaimerTitle": "Viktig information",
+    "disclaimerText": "Denna kontroll är endast informativ och ersätter inte medicinsk rådgivning. Vid osäkerhet eller om du tar receptbelagda läkemedel, konsultera alltid en läkare eller apotekare.",
+    "inputTitle": "Ange läkemedel",
+    "inputDescription": "Ange namnen på dina läkemedel (aktiv substans eller handelsnamn)",
+    "placeholder": "t.ex. Diazepam, Ibuprofen, Sertralin...",
+    "selectedMeds": "Valda läkemedel:",
+    "checkButton": "Kontrollera interaktioner",
+    "commonCategories": "Vanliga läkemedelsgrupper",
+    "overallAssessment": "Övergripande bedömning",
+    "detailedAnalysis": "Detaljerad analys",
+    "category": "Kategori",
+    "mechanism": "Mekanism",
+    "affectedEnzymes": "Påverkade CYP-enzymer",
+    "recommendation": "Rekommendation",
+    "newCheck": "Ny kontroll",
+    "moreAbout": "Mer om interaktioner",
+    "moreInfo": "Mer information",
+    "liverSafety": "Leversäkerhet & Hepatotoxicitet",
+    "contraindications": "Kontraindikationer",
+    "safetyOverview": "Översikt över säkerhet & hälsa",
+    "studies": "Vetenskapliga studier"
+  },
+  "intro": {
+    "title": "Läkemedelskontroll",
+    "text": "Ange namnet på ditt läkemedel eller aktiv substans för att kontrollera möjliga interaktioner med Kava."
+  },
+  "search": {
+    "placeholder": "Ange läkemedel eller aktiv substans...",
+    "button": "Kontrollera",
+    "noResults": "Inget läkemedel med detta namn hittades. Kontrollera stavningen eller konsultera en läkare."
+  },
+  "result": {
+    "risk": "Risknivå",
+    "mechanism": "Mekanism",
+    "recommendation": "Rekommendation",
+    "alternatives": "Möjliga alternativ"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "MYCKET HÖG RISK",
+      "description": "Strikt kontraindicerat - kombinera aldrig"
+    },
+    "high": {
+      "label": "HÖG RISK",
+      "description": "Undvik kombination - betydande hälsorisker möjliga"
+    },
+    "moderate": {
+      "label": "MÅTTLIG RISK",
+      "description": "Försiktighet rekommenderas - endast under medicinsk övervakning"
+    },
+    "low": {
+      "label": "LÅG RISK",
+      "description": "Troligtvis säker vid normal användning"
+    },
+    "none": {
+      "label": "INGEN KÄND RISK",
+      "description": "Inga kända interaktioner dokumenterade"
+    }
+  },
+  "anleitung": {
+    "title": "Så använder du kontrollen",
+    "steps": [
+      "Ange namnet på ditt läkemedel eller aktiv substans",
+      "Klicka på \"Kontrollera\" eller tryck på Enter",
+      "Läs riskbedömningen och rekommendationerna",
+      "Vid osäkerhet, konsultera alltid en läkare eller apotekare"
+    ]
+  },
+  "kategorien": {
+    "title": "Riskkategorier förklarade",
+    "high": {
+      "title": "Hög risk",
+      "text": "Kombinationen bör undvikas under alla omständigheter. Allvarliga biverkningar möjliga."
+    },
+    "moderate": {
+      "title": "Måttlig risk",
+      "text": "Kombinationen endast under medicinsk övervakning. Dosisjustering kan vara nödvändig."
+    },
+    "low": {
+      "title": "Låg risk",
+      "text": "Kombinationen är troligtvis säker, men individuella reaktioner bör beaktas."
+    },
+    "unknown": {
+      "title": "Okänd",
+      "text": "Inga tillräckliga data tillgängliga. Försiktighet rekommenderas."
+    }
+  },
+  "haeufige": {
+    "title": "Vanligt kontrollerade läkemedel",
+    "clickToCheck": "Klicka på ett läkemedel för att kontrollera det:"
+  },
+  "hinweis": {
+    "title": "Viktig information",
+    "text": "Denna kontroll är endast för allmän information och ersätter inte medicinsk rådgivning. Databasen är inte fullständig och uppdateras kontinuerligt. Vid osäkerhet, konsultera alltid en läkare eller apotekare.",
+    "disclaimer": "Informationen baseras på vetenskaplig litteratur och kända interaktionsmekanismer. Individuella reaktioner kan variera."
+  },
+  "navigation": {
+    "continueTitle": "Fortsätt i kapitlet om säkerhet",
+    "items": [
+      {
+        "title": "Översikt",
+        "href": "/de/sicherheit",
+        "description": "Tillbaka till översikten över säkerhet"
+      },
+      {
+        "title": "Interaktioner",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Detaljerad information om interaktioner"
+      },
+      {
+        "title": "Kontraindikationer",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "När Kava inte bör användas"
+      }
+    ]
+  }
+}

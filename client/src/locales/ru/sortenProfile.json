@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Профили сортов в деталях",
+    "subtitle": "Подробные описания основных сортов Кава с химотипами, эффектами и рекомендациями.",
+    "category": "Сорта"
+  },
+  "breadcrumbs": {
+    "home": "Главная",
+    "sorten": "Сорта",
+    "current": "Профили"
+  },
+  "toc": {
+    "title": "Содержание",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Обзор",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Мои фавориты",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Фильтр эффектов",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Эйфорические сорта",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Сбалансированные сорта",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Тяжелые сорта",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Сравнение сортов",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Происхождение",
+    "chemotype": "Химотип",
+    "duration": "Длительность действия",
+    "strength": "Сила",
+    "hits": "Результаты",
+    "low": "Низкий",
+    "high": "Высокий",
+    "variety": "Сорт",
+    "region": "Регион",
+    "type": "Тип",
+    "bestUse": "Лучшее использование",
+    "resetFilters": "Сбросить фильтры",
+    "matchingCriteria": "из {total} сортов соответствуют вашим критериям",
+    "noMatching": "Нет сортов {category}, соответствующих текущим критериям фильтра.",
+    "toComparison": "К интерактивному сравнению сортов"
+  },
+  "overview": {
+    "intro": "Эта страница предлагает всесторонний обзор основных сортов <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a>, отсортированных по типу действия. Используйте эти профили, чтобы найти идеальный сорт для ваших нужд.",
+    "categories": [
+      {
+        "name": "Эйфорические",
+        "description": "Сосредоточены на голове, эйфоричны, социальны. Идеально подходит для дня.",
+        "color": "yellow"
+      },
+      {
+        "name": "Сбалансированные",
+        "description": "Сбалансированные, универсальные. Хороши для любого времени суток.",
+        "color": "blue"
+      },
+      {
+        "name": "Тяжелые",
+        "description": "Сосредоточены на теле, седативные. Идеально подходит для вечера.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Фильтр эффектов",
+    "description": "Отфильтруйте сорта по желаемым эффектам. Перемещайте ползунки, чтобы отображать только сорта с минимальным выбранным значением.",
+    "euphoria": "Эйфория",
+    "relaxation": "Расслабление",
+    "sleepy": "Сонливость"
+  },
+  "sections": {
+    "heady": {
+      "title": "Эйфорические сорта",
+      "description": "Эйфорические Кава сосредоточены на голове и вызывают эйфорию, ясность ума и общительность. Они идеально подходят для дневного потребления, социальных мероприятий и творческой работы. <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">Химотип</a> обычно начинается с 4 (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Кавеин</a>)."
+    },
+    "balanced": {
+      "title": "Сбалансированные сорта",
+      "description": "Сбалансированные Кава предлагают сбалансированное действие между головой и телом. Они универсальны и подходят как для дня, так и для вечера. Идеально для <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">решения проблем с тревогой</a> и общего расслабления."
+    },
+    "heavy": {
+      "title": "Тяжелые сорта",
+      "description": "Тяжелые Кава сосредоточены на теле и вызывают глубокое <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">расслабление мышц</a> и седативный эффект. Они идеально подходят для вечера, при <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">проблемах со сном</a> и для физического восстановления. Химотип часто имеет DHK (2) на видном месте."
+    }
+  },
+  "comparison": {
+    "title": "Сравнение сортов",
+    "description": "Эта таблица предлагает быстрый обзор всех основных сортов. Также воспользуйтесь нашим <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">интерактивным инструментом сравнения</a> для подробных сопоставлений.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Эпи, Вануату",
+      "chemotype": "421365",
+      "duration": "2-3 ч.",
+      "strength": 4,
+      "description": "Легендарный эйфорический Кава, как шампанское среди Кава.",
+      "recommended": [
+        "Социальные мероприятия",
+        "Творческая работа",
+        "Дневное потребление"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Пентекост, Вануату",
+      "chemotype": "243516",
+      "duration": "4-6 ч.",
+      "strength": 4,
+      "description": "Народный Кава Вануату, универсальный с эйфорическим начальным эффектом.",
+      "recommended": [
+        "Социальные мероприятия",
+        "Вечернее потребление",
+        "Начинающие"
+      ],
+      "badge": "Эйфорический / Сбалансированный",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Тонга",
+      "chemotype": "Смешанный",
+      "duration": "3-4 ч.",
+      "strength": 3,
+      "description": "Самый популярный дневной Кава, мягкий и дружелюбный для начинающих.",
+      "recommended": [
+        "Начинающие",
+        "Работа",
+        "Социальные мероприятия"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Гавайи",
+      "chemotype": "—",
+      "duration": "2-4 ч.",
+      "strength": 4,
+      "description": "Королевский 'Ава, крайне интеллектуальный и проясняющий ум.",
+      "recommended": [
+        "Медитация",
+        "Творческая работа",
+        "Когниция"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Пентекост, Вануату",
+      "chemotype": "—",
+      "duration": "2-3 ч.",
+      "strength": 3,
+      "description": "Редкий эйфорический сорт, очень ценится.",
+      "recommended": [
+        "Социальные мероприятия",
+        "Повышение настроения"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Амбей, Вануату",
+      "chemotype": "243156",
+      "duration": "3-5 ч.",
+      "strength": 3,
+      "description": "Идеальный универсальный сорт, мягкий и сбалансированный.",
+      "recommended": [
+        "Начинающие",
+        "Решение проблем с тревогой",
+        "Повседневное использование"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Сбалансированный)",
+      "origin": "Пентекост, Вануату",
+      "chemotype": "243516",
+      "duration": "4-6 ч.",
+      "strength": 4,
+      "description": "Народный Кава Вануату, надежный и универсальный.",
+      "recommended": [
+        "Вечернее потребление",
+        "Расслабление",
+        "Начинающие"
+      ],
+      "badge": "Эйфорический / Сбалансированный",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Малакула, Вануату",
+      "chemotype": "423561",
+      "duration": "4-5 ч.",
+      "strength": 4,
+      "description": "Сильный Кава с хорошим балансом между головой и телом.",
+      "recommended": [
+        "Опытные пользователи",
+        "Вечернее потребление"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Фиджи",
+      "chemotype": "—",
+      "duration": "4-5 ч.",
+      "strength": 3,
+      "description": "Сбалансированный Кава Фиджи, универсальный.",
+      "recommended": [
+        "Повседневное использование",
+        "Расслабление"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Малакула, Вануату",
+      "chemotype": "423651",
+      "duration": "5-7 ч.",
+      "strength": 5,
+      "description": "Один из самых мощных тяжелых Кава, глубокая седативность.",
+      "recommended": [
+        "Проблемы со сном",
+        "Расслабление мышц",
+        "Вечер"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Фиджи",
+      "chemotype": "—",
+      "duration": "5-8 ч.",
+      "strength": 5,
+      "description": "Крайне мощный Кава Фиджи, сильно седативный.",
+      "recommended": [
+        "Опытные пользователи",
+        "Проблемы со сном"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Малакула, Вануату",
+      "chemotype": "426531",
+      "duration": "5-7 ч.",
+      "strength": 4,
+      "description": "Младший брат Palasa, немного мягче, но похожий.",
+      "recommended": [
+        "Начинающие в тяжелых",
+        "Вечернее потребление"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Гавайи",
+      "chemotype": "—",
+      "duration": "4-6 ч.",
+      "strength": 5,
+      "description": "Церемониальный гавайский 'Ава, очень сильный.",
+      "recommended": [
+        "Церемонии",
+        "Сон",
+        "Опытные"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Вануату",
+      "type": "Эйфорический",
+      "chemotype": "421365",
+      "bestUse": "Социальный, Творческий"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Тонга",
+      "type": "Эйфорический",
+      "chemotype": "Смешанный",
+      "bestUse": "Начинающие, День"
+    },
+    {
+      "name": "Moi",
+      "region": "Гавайи",
+      "type": "Эйфорический",
+      "chemotype": "—",
+      "bestUse": "Медитация, Когниция"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Вануату",
+      "type": "Сбалансированный",
+      "chemotype": "243156",
+      "bestUse": "Тревога, Универсальный"
+    },
+    {
+      "name": "Borogu",
+      "region": "Вануату",
+      "type": "Эйфорический / Сбалансированный",
+      "chemotype": "243516",
+      "bestUse": "Вечер, Расслабление"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Вануату",
+      "type": "Сбалансированный",
+      "chemotype": "423561",
+      "bestUse": "Опытные, Вечер"
+    },
+    {
+      "name": "Palasa",
+      "region": "Вануату",
+      "type": "Тяжелый",
+      "chemotype": "423651",
+      "bestUse": "Сон, Мышцы"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Фиджи",
+      "type": "Тяжелый",
+      "chemotype": "—",
+      "bestUse": "Опытные, Сон"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Гавайи",
+      "type": "Тяжелый",
+      "chemotype": "—",
+      "bestUse": "Церемонии, Сон"
+    }
+  ]
+}

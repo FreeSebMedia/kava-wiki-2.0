@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Сравнение сортов",
+    "subtitle": "Сравните два сорта Кава рядом друг с другом"
+  },
+  "breadcrumbs": {
+    "home": "Главная",
+    "sorten": "Сорта",
+    "current": "Сравнение"
+  },
+  "ui": {
+    "selectVariety": "Выберите сорт...",
+    "firstVariety": "Первый сорт",
+    "secondVariety": "Второй сорт",
+    "toProfile": "К профилю сорта",
+    "potency": "Потенция",
+    "badgeInfo": "Значки <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> показывают разницу с другим сортом"
+  },
+  "categories": {
+    "heady": "Эйфорический",
+    "balanced": "Сбалансированный",
+    "heavy": "Тяжелый"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Сравнение профилей эффектов"
+    },
+    "basicInfo": {
+      "title": "Основная информация"
+    },
+    "dosage": {
+      "title": "Рекомендуемая дозировка"
+    },
+    "applications": {
+      "title": "Области применения"
+    },
+    "usageTimes": {
+      "title": "Время приема"
+    },
+    "kavalactones": {
+      "title": "Профиль ковалактонов"
+    },
+    "notes": {
+      "title": "Заметки"
+    }
+  },
+  "effects": {
+    "euphoria": "Эйфория",
+    "relaxation": "Расслабление",
+    "sedation": "Седативный эффект",
+    "clarity": "Ясность",
+    "sociability": "Общительность",
+    "anxiolysis": "Снятие тревожности"
+  },
+  "info": {
+    "chemotype": "Хемотип",
+    "duration": "Длительность действия",
+    "availability": "Доступность",
+    "price": "Цена"
+  },
+  "dosageLabels": {
+    "beginner": "Начинающий",
+    "regular": "Обычный",
+    "experienced": "Опытный"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Каваин",
+    "dhk": "ДГК",
+    "methysticin": "Метистицин",
+    "dhm": "ДГМ",
+    "yangonin": "Янгонин",
+    "desmethoxyyangonin": "Десметоксиянгонин"
+  },
+  "empty": {
+    "title": "Выберите два сорта для сравнения",
+    "description": "Используйте выпадающие меню выше, чтобы выбрать два сорта Кава и сравнить их свойства, эффекты и рекомендации.",
+    "tips": {
+      "title": "Советы по сравнению",
+      "items": [
+        "Сравнивайте сорта одной категории для схожих профилей эффектов",
+        "Сравнивайте Эйфорический и Тяжелый для противоположных ощущений",
+        "Обратите внимание на различия в хемотипах для научных insights"
+      ]
+    },
+    "quickSelections": "Быстрый выбор",
+    "suggestions": [
+      {
+        "label": "Эйфорический против Тяжелого",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Классика Вануату",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Рекомендация для начинающих",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

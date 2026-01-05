@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Startsida",
+    "description": "Det mest omfattande kunskapsportalen om Kava (Piper methysticum) i världen. Vetenskapligt grundad, kulturellt förankrad. Allt om effekter, beredning, sorter och lagstiftning."
+  },
+  "hero": {
+    "badge": "Piper methysticum",
+    "title": "Rötterna av lugn",
+    "subtitle": "Den omfattande kunskapsportalen om den stillsamma rotan från Stilla havet. Vetenskapligt grundad, kulturellt förankrad.",
+    "cta": {
+      "studies": "Vetenskapliga studier",
+      "learnMore": "Läs mer"
+    }
+  },
+  "stats": [
+    {
+      "label": "Traditionell användning",
+      "value": "3000+",
+      "suffix": "år"
+    },
+    {
+      "label": "Huvud-Kavalaktone",
+      "value": "6",
+      "suffix": "verksamma ämnen"
+    },
+    {
+      "label": "Sorter i Vanuatu",
+      "value": "80+",
+      "suffix": "kultivarer"
+    },
+    {
+      "label": "Vetenskapliga",
+      "value": "100+",
+      "suffix": "studier"
+    }
+  ],
+  "intro": {
+    "title": "En gåva från naturen,",
+    "titleHighlight": "bekräftad av vetenskap.",
+    "text": "Kava (Piper methysticum) är mer än bara en växt. I tusentals år har den varit det sociala och spirituella centrumet för de stillahavsöarnas kulturer. Idag bekräftar modern vetenskap vad öborna alltid har vetat: Kava slappnar av kroppen och klarar sinnet utan att påverka de kognitiva förmågorna.",
+    "quote": "Kava är den enda botaniska substansen med nivå-1-bevis för behandling av ångest.",
+    "quoteSource": "— Cochrane Review"
+  },
+  "features": [
+    {
+      "icon": "shield",
+      "title": "Säkerhet",
+      "text": "Aktuell forskning motbevisar gamla myter om leverskador vid korrekt användning."
+    },
+    {
+      "icon": "beaker",
+      "title": "Effekt",
+      "text": "Bevisade anxiolytiska (ångestdämpande) egenskaper genom Kavalaktone."
+    },
+    {
+      "icon": "history",
+      "title": "Kultur",
+      "text": "Djupt förankrad i traditionerna från Vanuatu, Fiji och Tonga."
+    }
+  ],
+  "categories": {
+    "title": "Kunskapsdatabas",
+    "subtitle": "Dyk djupt in i Kavas värld. Välj ett område för att lära dig mer.",
+    "items": [
+      {
+        "title": "Botanik",
+        "desc": "Morfologi, odling och spridning",
+        "link": "/botanik"
+      },
+      {
+        "title": "Historia",
+        "desc": "Från ursprung till nutid",
+        "link": "/geschichte"
+      },
+      {
+        "title": "Innehållsämnen",
+        "desc": "Kavalaktone och kemotyper",
+        "link": "/inhaltsstoffe"
+      },
+      {
+        "title": "Studier",
+        "desc": "Klinisk forskning och bevis",
+        "link": "/studien"
+      },
+      {
+        "title": "Effekt",
+        "desc": "Effekter på kropp och sinne",
+        "link": "/wirkung"
+      },
+      {
+        "title": "Säkerhet",
+        "desc": "Dosering och biverkningar",
+        "link": "/sicherheit"
+      },
+      {
+        "title": "Sorter",
+        "desc": "Noble Kava vs. Tudei",
+        "link": "/sorten"
+      },
+      {
+        "title": "Beredning",
+        "desc": "Traditionella och moderna metoder",
+        "link": "/zubereitung"
+      }
+    ]
+  },
+  "partner": {
+    "label": "Officiell partner",
+    "title": "Kava-mode.com",
+    "text": "Europas ledande Kava-märke och global återförsäljare av högkvalitativ Noble-Kava. Kontrollerad kvalitet, direkt från gårdarna i Stilla havet.",
+    "cta": "Besök butiken"
+  },
+  "book": {
+    "label": "Rekommenderad läsning",
+    "title": "\"Kava – Rötterna av lugn\"",
+    "text": "Den omfattande guiden till effekter, användning, historia & kultur av Sebastian Freidank. Standardverket för alla Kava-intresserade.",
+    "cta": "Se boken"
+  }
+}

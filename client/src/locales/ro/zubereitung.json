@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Preparare & Utilizare",
+    "subtitle": "De la pulbere la băutură: Cum să preparați Kava corect pentru a obține efectul maxim și cel mai bun gust.",
+    "category": "Preparare"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "current": "Preparare"
+  },
+  "toc": {
+    "title": "Conținut",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Bazele extracției",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Metoda tradițională (Frământare)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Metoda mixerului (Blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Metoda shakerului (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instant & Micronizat",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Sfaturi profesionale pentru cel mai bun efect",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Kavalactonele sunt <strong>nesolubile în apă</strong>, ci solubile în grăsimi. Totuși, ele se atașează mecanic de particulele de amidon ale rădăcinii.",
+      "text": "Scopul fiecărei preparări este, prin urmare, de a elibera aceste particule din fibrele vegetale prin forță mecanică (frământare, mixare) și de a le emulga în apă. O \"preparare de ceai\" pură (doar apă fierbinte turnată) nu funcționează <strong>eficient</strong> cu Kava!"
+    },
+    "traditionell": {
+      "title": "Metoda tradițională (Frământare)",
+      "intro": "Aceasta este cea mai bună metodă pentru o potență maximă și o experiență autentică.",
+      "materialsTitle": "Ce aveți nevoie:",
+      "materials": [
+        "Pulbere de rădăcină de Kava (Măcinare medie)",
+        "Un sac filtrant (sac pentru lapte de nuci, 75-100 microni)",
+        "O bol cu apă caldă (nu clocotită!)",
+        "Opțional: Un strop de lapte sau lapte de cocos (grăsimea ajută la extracție)"
+      ],
+      "instructionsTitle": "Instrucțiuni:",
+      "instructions": [
+        "Puneți pulberea în sacul filtrant (aproximativ 30-40g pentru 500ml apă).",
+        "Scufundați sacul în apă și lăsați-l să se înmoaie puțin.",
+        "<strong>Frământare și Stoarcere:</strong> Frământați sacul sub apă energic timp de 10-15 minute. Stoarceți-l din când în când. Apa ar trebui să devină de culoare brun-milky (\"Grog\").",
+        "Stoarceți sacul o ultimă dată.",
+        "Serviți Kava în boluri (Shells). Bea rapid (\"Chug\"), nu sorbi!"
+      ]
+    },
+    "blender": {
+      "title": "Metoda mixerului (Blender)",
+      "intro": "Rapidă și adesea mai puternică, dar gustul poate fi puțin mai amar, deoarece mai multe substanțe vegetale sunt măcinate.",
+      "instructions": [
+        "Puneți apă, pulbere de Kava și o linguriță de ulei/grăsime într-un blender.",
+        "Mixati la viteză mare timp de 3-4 minute.",
+        "Turnați lichidul printr-un sac filtrant sau o sită fină într-un bol.",
+        "Stoarceți bine resturile vegetale din filtru."
+      ]
+    },
+    "shaker": {
+      "title": "Metoda shakerului (Aluball)",
+      "intro": "Cea mai modernă și rapidă metodă, ideală pentru deplasare.",
+      "text": "Se folosesc sticle speciale de shaker cu o bilă (Aluball) care conține o sită metalică.",
+      "instructions": [
+        "Umpleți bila cu Kava.",
+        "Umpleți sticla cu apă.",
+        "Introduceți bila și agitați energic timp de 1-2 minute.",
+        "Gata!"
+      ],
+      "note": "Notă: Această metodă este adesea puțin mai puțin potentă decât frământarea tradițională, dar foarte convenabilă."
+    },
+    "instant": {
+      "title": "Instant & Micronizat",
+      "intro": "Pentru toți cei care nu doresc deloc efort.",
+      "items": [
+        {
+          "name": "Kava Instant",
+          "description": "Suc de Kava \"Green Kava\" deshidratat. Foarte potent, foarte scump, se dizolvă imediat în apă. \"Clasa regală\"."
+        },
+        {
+          "name": "Kava Micronizat",
+          "description": "Pulbere de rădăcină măcinată extrem de fin, din care au fost îndepărtate fibrele grosiere. Se bea pur și simplu. Poate provoca mai degrabă greață la stomacuri sensibile decât Kava filtrat."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Sfaturi profesionale pentru cel mai bun efect",
+      "alert": {
+        "title": "Regula de aur",
+        "text": "Beți Kava întotdeauna pe <strong>stomacul gol</strong> (cel puțin 3-4 ore după ultima masă). Efectul va fi semnificativ mai slab!"
+      },
+      "tips": [
+        {
+          "name": "Toleranța inversă",
+          "text": "Multe persoane simt puțin la prima utilizare. Corpul trebuie să se \"obișnuiască\" cu kavalactonele. Beți timp de câteva zile la rând."
+        },
+        {
+          "name": "Chaser-ul",
+          "text": "Kava are un gust pământos și amar. Țineți o bucată de fruct (ananas, portocală) la îndemână pentru a mușca imediat după ce ați băut."
+        },
+        {
+          "name": "Sursă de grăsime",
+          "text": "După sesiunea de Kava, mâncați o masă mică, bogată în grăsimi (de exemplu, pizza, curry). Acest lucru poate provoca un al doilea val de efect."
+        }
+      ]
+    }
+  }
+}

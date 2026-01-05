@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Сменить язык"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Ботаника",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "Введение в ботанику"
+        },
+        "pflanze": {
+          "name": "Растение",
+          "description": "Таксономия и Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Морфология",
+          "description": "Анатомия и корневая система"
+        },
+        "anbau": {
+          "name": "Выращивание и экология",
+          "description": "Культивирование и размножение"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "История",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "История Кава"
+        },
+        "urspruenge": {
+          "name": "Происхождение",
+          "description": "Вануату и одомашнивание"
+        },
+        "verbreitung": {
+          "name": "Распространение",
+          "description": "Тихоокеанская экспансия"
+        },
+        "moderne": {
+          "name": "Современная история",
+          "description": "Запрет 2002 года и реабилитация"
+        },
+        "zeitleiste": {
+          "name": "Интерактивная временная шкала",
+          "description": "5000 лет истории Кава"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Состав",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "Кавалактоны и химотипы"
+        },
+        "kavalactone": {
+          "name": "6 Кавалактонов",
+          "description": "Подробные профили действия"
+        },
+        "chemotypen": {
+          "name": "Химотипическая система",
+          "description": "Определение Noble и Tudei"
+        },
+        "rechner": {
+          "name": "Химотипный калькулятор",
+          "description": "Интерактивный инструмент анализа"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Эффект",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "Механизмы действия"
+        },
+        "angst": {
+          "name": "Снятие тревоги",
+          "description": "Анксиолитическое действие"
+        },
+        "schlaf": {
+          "name": "Сон и расслабление",
+          "description": "Седативные эффекты"
+        },
+        "muskel": {
+          "name": "Расслабление мышц",
+          "description": "Физическое расслабление"
+        },
+        "stimmung": {
+          "name": "Настроение и социальное взаимодействие",
+          "description": "Эйфорические эффекты"
+        },
+        "kognition": {
+          "name": "Когнитивные эффекты",
+          "description": "Фокус и обратная толерантность"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Безопасность",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "Безопасность и побочные эффекты"
+        },
+        "leber": {
+          "name": "Безопасность печени",
+          "description": "Гепатотоксичность и запрет 2002 года"
+        },
+        "wechselwirkungen": {
+          "name": "Взаимодействия",
+          "description": "Лекарства и CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Противопоказания",
+          "description": "Когда избегать Кава"
+        },
+        "checker": {
+          "name": "Проверка взаимодействий",
+          "description": "Проверка лекарств"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Сорта",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "Сорта и культивары"
+        },
+        "noble-tudei": {
+          "name": "Noble против Tudei",
+          "description": "Важное различие"
+        },
+        "vanuatu": {
+          "name": "Сорта Вануату",
+          "description": "Borogu, Melo Melo, Kelai и другие"
+        },
+        "pazifik": {
+          "name": "Сорта Тихого океана",
+          "description": "Фиджи, Тонга, Гавайи, Самоа"
+        },
+        "profile": {
+          "name": "Профили сортов",
+          "description": "Подробные описания"
+        },
+        "vergleich": {
+          "name": "Сравнение сортов",
+          "description": "Сравнение двух сортов"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Приготовление",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "Методы приготовления"
+        },
+        "traditionell": {
+          "name": "Традиционный метод",
+          "description": "Замешивание с помощью марли"
+        },
+        "blender": {
+          "name": "Метод блендера",
+          "description": "Быстрое приготовление"
+        },
+        "instant": {
+          "name": "Инстант Кава",
+          "description": "Микронизированный Кава"
+        },
+        "rechner": {
+          "name": "Калькулятор дозировки",
+          "description": "Расчет оптимального количества"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Культура",
+      "items": {
+        "uebersicht": {
+          "name": "Обзор",
+          "description": "Культура и традиция"
+        },
+        "zeremonien": {
+          "name": "Церемонии и ритуалы",
+          "description": "Yaqona, 'Ava и ритуалы Nakamal"
+        },
+        "nakamal": {
+          "name": "Nakamal и Кава-бары",
+          "description": "Традиционные и современные места"
+        },
+        "moderne": {
+          "name": "Современная культура Кава",
+          "description": "Глобальное распространение и ренессанс"
+        },
+        "weltkarte": {
+          "name": "Интерактивная карта мира",
+          "description": "Изучение регионов Кава"
+        },
+        "kava-bars": {
+          "name": "Поиск Кава-баров",
+          "description": "Нахождение Кава-баров по всему миру"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Дополнительно",
+      "items": {
+        "faq": {
+          "name": "Часто задаваемые вопросы",
+          "description": "Часто задаваемые вопросы"
+        },
+        "studien": {
+          "name": "Исследования",
+          "description": "Научные исследования"
+        },
+        "rechtsstatus": {
+          "name": "Правовой статус",
+          "description": "Правовая ситуация"
+        },
+        "glossar": {
+          "name": "Глоссарий",
+          "description": "Объяснение терминов"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Самый обширный в мире информационный портал о Piper methysticum. Научно обоснованный, культурно уважительный.",
+    "sections": {
+      "wissen": {
+        "title": "Знания",
+        "links": {
+          "botanik": "Ботаника",
+          "geschichte": "История",
+          "wissenschaft": "Наука",
+          "sicherheit": "Безопасность"
+        }
+      },
+      "praxis": {
+        "title": "Практика",
+        "links": {
+          "zubereitung": "Приготовление",
+          "sorten": "Сорта и химотипы",
+          "rechtsstatus": "Правовой статус",
+          "faq": "Часто задаваемые вопросы"
+        }
+      },
+      "partner": {
+        "title": "Партнеры и книга",
+        "recommendedReading": "Рекомендуемая литература:",
+        "bookTitle": "\"Кава – корень спокойствия\""
+      }
+    },
+    "copyright": "Все права защищены.",
+    "legal": {
+      "impressum": "Импрессум",
+      "datenschutz": "Защита данных"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Главная"
+  },
+  "toc": {
+    "title": "Содержание"
+  },
+  "recommendation": {
+    "label": "Рекомендация",
+    "title": "Премиум Нобл Кава",
+    "text": "Откройте для себя сертифицированное качество и чистоту у нашего официального партнера.",
+    "cta": "На Kava-mode.com"
+  }
+}

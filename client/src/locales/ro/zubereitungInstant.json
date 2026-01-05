@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "title": "Kava Instant",
+    "subtitle": "Cea mai rapidă modalitate de a savura Kava – perfect pentru drum sau când trebuie să te grăbești.",
+    "category": "Preparare"
+  },
+  "breadcrumbs": {
+    "home": "Acasă",
+    "zubereitung": "Preparare",
+    "current": "Kava Instant"
+  },
+  "toc": {
+    "title": "Conținut",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Prezentare generală",
+        "level": 1
+      },
+      {
+        "id": "was-ist",
+        "title": "Ce este Kava Instant?",
+        "level": 1
+      },
+      {
+        "id": "arten",
+        "title": "Tipuri de Kava Instant",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Preparare",
+        "level": 1
+      },
+      {
+        "id": "dosierung",
+        "title": "Recomandări de dozare",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Comparație cu alte metode",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Sfaturi & Trucuri",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "prepTime": "Timp de preparare",
+    "noFilter": "Fără filtru",
+    "justStir": "Pur și simplu amestecați",
+    "practical": "Practic",
+    "idealForTravel": "Ideal pentru drum",
+    "potency": "Potentă",
+    "advantages": "Avantaje",
+    "disadvantages": "Dezavantaje",
+    "productType": "Tip de produs",
+    "beginner": "Începător",
+    "regular": "Regulat",
+    "experienced": "Experimentat",
+    "aspect": "Aspect",
+    "traditional": "Tradițional",
+    "blender": "Blender",
+    "instant": "Instant",
+    "otherMethods": "Alte metode de preparare"
+  },
+  "overview": {
+    "intro": "Kava Instant este cea mai <strong>rapidă și ușoară</strong> modalitate de a savura Kava. Pur și simplu amestecați cu apă, agitați și beți – <strong>fără frământare, fără filtrare</strong>."
+  },
+  "whatIs": {
+    "title": "Ce este Kava Instant?",
+    "text": "\"Kava Instant\" este un termen general pentru produsele Kava care pot fi consumate fără o preparare complicată. Spre deosebire de pulberea tradițională de tip Medium Grind, care trebuie frământată și filtrată, produsele instant se dizolvă direct în apă.",
+    "alert": {
+      "title": "Diferență importantă",
+      "text": "Kava Instant <strong>nu este același lucru</strong> cu capsulele sau tabletele de extract de Kava. Acestea sunt forme de băut care oferă întreaga experiență Kava."
+    }
+  },
+  "types": {
+    "title": "Tipuri de Kava Instant",
+    "items": [
+      {
+        "name": "Kava Micronizată",
+        "description": "Pulbere de rădăcină măcinată ultrafin, care se dizolvă complet în apă.",
+        "pros": [
+          "Cea mai rapidă preparare",
+          "Toate substanțele vegetale",
+          "Fără filtrare necesară"
+        ],
+        "cons": [
+          "Poate provoca probleme digestive",
+          "Textură nisipoasă posibilă",
+          "Mai scumpă decât Medium Grind"
+        ],
+        "potency": "Ridicată",
+        "color": "chihlimbar"
+      },
+      {
+        "name": "Extract de Kava Dehidratat",
+        "description": "Extract concentrat din Kava preparată tradițional, liofilizată.",
+        "pros": [
+          "Foarte potent",
+          "Textură netedă",
+          "Prietenos cu stomacul"
+        ],
+        "cons": [
+          "Cel mai scump",
+          "Gust mai puțin autentic",
+          "Disponibilitate limitată"
+        ],
+        "potency": "Foarte ridicată",
+        "color": "mov"
+      },
+      {
+        "name": "Concentrat de Kava (lichid)",
+        "description": "Solutie de Kava gata preparată, doar diluată cu apă.",
+        "pros": [
+          "Gata de băut imediat",
+          "Putere constantă",
+          "Practic pentru drum"
+        ],
+        "cons": [
+          "Durată de valabilitate limitată",
+          "Mai puține opțiuni",
+          "Adesea cu aditivi"
+        ],
+        "potency": "Medie până la ridicată",
+        "color": "albastru"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Preparare",
+    "intro": "Prepararea Kava Instant este extrem de simplă – de aici și numele!",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Măsurare",
+        "description": "Adăugați cantitatea dorită de Kava Instant într-un pahar sau un bol."
+      },
+      {
+        "number": 2,
+        "title": "Adăugarea apei",
+        "description": "Adăugați 200-300ml apă (rece sau caldă)."
+      },
+      {
+        "number": 3,
+        "title": "Amestecați & Beți",
+        "description": "Amestecați bine până se dizolvă, apoi beți dintr-o dată."
+      }
+    ],
+    "alert": {
+      "title": "Pro-Sfat: Folosiți un shaker",
+      "text": "Un shaker pentru proteine sau un shaker pentru cocktailuri dizolvă Kava Instant mult mai bine decât amestecarea. În special la Kava Micronizată, previne formarea de cocoloașe."
+    }
+  },
+  "dosage": {
+    "title": "Recomandări de dozare",
+    "note": "<strong>Atenție:</strong> Aceste valori sunt orientative. Potența reală variază foarte mult în funcție de producător și de soi. Începeți întotdeauna cu o doză mică!",
+    "items": [
+      {
+        "type": "Micronizată",
+        "beginner": "2-3g",
+        "regular": "4-6g",
+        "experienced": "6-10g"
+      },
+      {
+        "type": "Extract Dehidratat",
+        "beginner": "1-2g",
+        "regular": "2-4g",
+        "experienced": "4-6g"
+      },
+      {
+        "type": "Concentrat (lichid)",
+        "beginner": "15-30ml",
+        "regular": "30-45ml",
+        "experienced": "45-60ml"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Comparație cu alte metode",
+    "items": [
+      {
+        "aspect": "Timp de preparare",
+        "traditional": "20-25 min",
+        "blender": "8-10 min",
+        "instant": "30 secunde"
+      },
+      {
+        "aspect": "Efort",
+        "traditional": "Ridicat",
+        "blender": "Mediu",
+        "instant": "Minimal"
+      },
+      {
+        "aspect": "Potentă",
+        "traditional": "Foarte ridicată",
+        "blender": "Ridicată",
+        "instant": "Medie-Ridicată"
+      },
+      {
+        "aspect": "Gust",
+        "traditional": "Autentic",
+        "blender": "Intens",
+        "instant": "Varietate"
+      },
+      {
+        "aspect": "Cost pe porție",
+        "traditional": "Accesibil",
+        "blender": "Accesibil",
+        "instant": "Scump"
+      },
+      {
+        "aspect": "Pentru drum",
+        "traditional": "Nepotrivit",
+        "blender": "Nepotrivit",
+        "instant": "Ideal"
+      }
+    ]
+  },
+  "tips": {
+    "title": "Sfaturi & Trucuri",
+    "items": [
+      {
+        "name": "Amestecați cu suc",
+        "text": "Amestecați Kava Instant cu suc de fructe în loc de apă. Sucul de ananas sau mango acoperă excelent gustul amar."
+      },
+      {
+        "name": "Boost de lapte de cocos",
+        "text": "Folosiți lapte de cocos în loc de apă. Grăsimea îmbunătățește absorbția Kavalactonelor și face gustul mai cremos."
+      },
+      {
+        "name": "Porții de călătorie",
+        "text": "Porționați Kava Instant în pungi mici de tip zip. Astfel, aveți întotdeauna cantitatea corectă la îndemână în timpul călătoriei."
+      },
+      {
+        "name": "Savurați rece",
+        "text": "Kava Instant are adesea un gust mai bun rece decât cald. Amestecați-l cu apă rece și câteva cuburi de gheață pentru o băutură răcoritoare."
+      }
+    ],
+    "alert": {
+      "title": "Atenție la Kava Micronizată",
+      "text": "Kava Micronizată conține toate fibrele vegetale și poate provoca probleme digestive la persoanele sensibile. Dacă simțiți greață, treceți la extractul dehidratat sau la prepararea tradițională."
+    }
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Metoda tradițională de frământare",
+      "subtitle": "Maximă potență, experiență autentică",
+      "href": "/ro/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "Metoda blenderului",
+      "subtitle": "Rapid și eficient",
+      "href": "/ro/zubereitung/blender"
+    },
+    "calculator": {
+      "title": "Calculator de dozare",
+      "subtitle": "Recomandări personalizate pentru soiul dumneavoastră",
+      "href": "/ro/zubereitung/rechner"
+    }
+  }
+}

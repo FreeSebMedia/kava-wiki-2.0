@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Byt språk"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Botanik",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Introduktion till botanik"
+        },
+        "pflanze": {
+          "name": "Växten",
+          "description": "Taxonomi & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Morfologi",
+          "description": "Anatomi & rotssystem"
+        },
+        "anbau": {
+          "name": "Odling & Ekologi",
+          "description": "Kultivering & förökning"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "Historia",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Historien om Kava"
+        },
+        "urspruenge": {
+          "name": "Ursprung",
+          "description": "Vanuatu & domesticering"
+        },
+        "verbreitung": {
+          "name": "Spridning",
+          "description": "Den stillahavska expansionen"
+        },
+        "moderne": {
+          "name": "Modern historia",
+          "description": "Förbud 2002 & rehabilitering"
+        },
+        "zeitleiste": {
+          "name": "Interaktiv tidslinje",
+          "description": "5000 år av Kava-historia"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Innehållsämnen",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Kavalactoner & kemotyper"
+        },
+        "kavalactone": {
+          "name": "De 6 Kavalactonerna",
+          "description": "Detaljerade effektprofiler"
+        },
+        "chemotypen": {
+          "name": "Kemotyp-system",
+          "description": "Känna igen Noble vs. Tudei"
+        },
+        "rechner": {
+          "name": "Kemotyp-kalkylator",
+          "description": "Interaktiv analysverktyg"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Verkan",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Verkningsmekanismer"
+        },
+        "angst": {
+          "name": "Ångestlösning",
+          "description": "Anxiolytisk verkan"
+        },
+        "schlaf": {
+          "name": "Sömn & avslappning",
+          "description": "Sedativa effekter"
+        },
+        "muskel": {
+          "name": "Muskelavslappning",
+          "description": "Fysisk avslappning"
+        },
+        "stimmung": {
+          "name": "Stämning & socialt",
+          "description": "Euforiska effekter"
+        },
+        "kognition": {
+          "name": "Kognitiva effekter",
+          "description": "Fokus & omvänd tolerans"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Säkerhet",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Säkerhet & biverkningar"
+        },
+        "leber": {
+          "name": "Leversäkerhet",
+          "description": "Hepatotoxicitet & förbudet 2002"
+        },
+        "wechselwirkungen": {
+          "name": "Interaktioner",
+          "description": "Läkemedel & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Kontraindikationer",
+          "description": "När man ska undvika Kava"
+        },
+        "checker": {
+          "name": "Interaktionskontroll",
+          "description": "Kontrollera läkemedel"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Sorterna",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Sorter & kultivarer"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "Den viktiga skillnaden"
+        },
+        "vanuatu": {
+          "name": "Vanuatu-sorter",
+          "description": "Borogu, Melo Melo, Kelai & mer"
+        },
+        "pazifik": {
+          "name": "Stillahavssorter",
+          "description": "Fiji, Tonga, Hawaii, Samoa"
+        },
+        "profile": {
+          "name": "Sortprofiler",
+          "description": "Detaljerade profiler"
+        },
+        "vergleich": {
+          "name": "Sortjämförelse",
+          "description": "Jämföra två sorter"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Bereddning",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Bereddningsmetoder"
+        },
+        "traditionell": {
+          "name": "Traditionell metod",
+          "description": "Kna med silduk"
+        },
+        "blender": {
+          "name": "Blender-metod",
+          "description": "Snabb bereddning"
+        },
+        "instant": {
+          "name": "Instant Kava",
+          "description": "Mikroniserad Kava"
+        },
+        "rechner": {
+          "name": "Doseringskalkylator",
+          "description": "Beräkna optimal mängd"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Kultur",
+      "items": {
+        "uebersicht": {
+          "name": "Översikt",
+          "description": "Kultur & tradition"
+        },
+        "zeremonien": {
+          "name": "Cermonier & ritualer",
+          "description": "Yaqona, 'Ava & Nakamal-ritualer"
+        },
+        "nakamal": {
+          "name": "Nakamal & Kava-barer",
+          "description": "Traditionella & moderna platser"
+        },
+        "moderne": {
+          "name": "Modern Kava-kultur",
+          "description": "Global spridning & renässans"
+        },
+        "weltkarte": {
+          "name": "Interaktiv världskarta",
+          "description": "Utforska Kava-regioner"
+        },
+        "kava-bars": {
+          "name": "Kava-bar sökare",
+          "description": "Hitta Kava-barer världen över"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Mer",
+      "items": {
+        "faq": {
+          "name": "FAQ",
+          "description": "Vanliga frågor"
+        },
+        "studien": {
+          "name": "Studier",
+          "description": "Vetenskaplig forskning"
+        },
+        "rechtsstatus": {
+          "name": "Rättslig status",
+          "description": "Rättslig situation"
+        },
+        "glossar": {
+          "name": "Glossar",
+          "description": "Facktermer förklarade"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "Det mest omfattande kunskapsportalen om Piper methysticum i världen. Vetenskapligt grundad, kulturellt respektfull.",
+    "sections": {
+      "wissen": {
+        "title": "Kunskap",
+        "links": {
+          "botanik": "Botanik",
+          "geschichte": "Historia",
+          "wissenschaft": "Vetenskap",
+          "sicherheit": "Säkerhet"
+        }
+      },
+      "praxis": {
+        "title": "Praxis",
+        "links": {
+          "zubereitung": "Bereddning",
+          "sorten": "Sorter & kemotyper",
+          "rechtsstatus": "Rättslig status",
+          "faq": "Vanliga frågor"
+        }
+      },
+      "partner": {
+        "title": "Partner & bok",
+        "recommendedReading": "Rekommenderad läsning:",
+        "bookTitle": "\"Kava – Roten till lugnet\""
+      }
+    },
+    "copyright": "Alla rättigheter förbehållna.",
+    "legal": {
+      "impressum": "Impressum",
+      "datenschutz": "Dataskydd"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Hem"
+  },
+  "toc": {
+    "title": "Innehåll"
+  },
+  "recommendation": {
+    "label": "Rekommendation",
+    "title": "Premium Noble Kava",
+    "text": "Upptäck certifierad kvalitet och renhet hos vår officiella partner.",
+    "cta": "Till Kava-mode.com"
+  }
+}
