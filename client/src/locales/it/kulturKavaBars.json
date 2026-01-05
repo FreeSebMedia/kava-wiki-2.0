@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Trova Kava-Bar",
+    "description": "Trova Kava-Bar in tutto il mondo – dalla Florida alla Nuova Zelanda. Con indirizzi, recensioni e orari di apertura."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "kultur": "Cultura",
+    "current": "Trova Kava-Bar"
+  },
+  "viewToggle": {
+    "list": "Elenco",
+    "map": "Mappa"
+  },
+  "search": {
+    "placeholder": "Cerca per nome, città o paese...",
+    "resultsCount": "Kava-Bar trovati",
+    "resultSingular": "Kava-Bar trovata",
+    "resultPlural": "Kava-Bars trovati"
+  },
+  "filter": {
+    "button": "Filtri",
+    "country": "Paese",
+    "allCountries": "Tutti i paesi",
+    "region": "Regione/Stato",
+    "allRegions": "Tutte le regioni",
+    "minRating": "Valutazione minima",
+    "allRatings": "Tutte le valutazioni",
+    "rating4Plus": "4+ stelle",
+    "rating45Plus": "4.5+ stelle",
+    "clearFilters": "Ripristina filtri",
+    "features": "Caratteristiche"
+  },
+  "featureLabels": {
+    "wifi": "Wi-Fi",
+    "outdoor": "Spazio all'aperto",
+    "food": "Cibo",
+    "live-music": "Musica dal vivo",
+    "events": "Eventi",
+    "traditional": "Preparazione tradizionale",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Giochi",
+    "parking": "Parcheggio",
+    "accessible": "Accessibile",
+    "late-night": "Apertura tardiva"
+  },
+  "countryNames": {
+    "US": "USA",
+    "AU": "Australia",
+    "NZ": "Nuova Zelanda",
+    "DE": "Germania",
+    "UK": "Regno Unito",
+    "CA": "Canada"
+  },
+  "bar": {
+    "verified": "Verificato",
+    "address": "Indirizzo",
+    "hours": "Orari di apertura",
+    "specialties": "Specialità",
+    "features": "Caratteristiche",
+    "reviews": "Recensioni",
+    "call": "Chiama",
+    "website": "Sito web",
+    "route": "Percorso",
+    "routePlan": "Pianifica percorso",
+    "backToList": "Torna all'elenco"
+  },
+  "empty": {
+    "title": "Nessuna Kava-Bar trovata",
+    "description": "Prova con altre parole chiave o filtri.",
+    "resetButton": "Ripristina filtri"
+  },
+  "stats": {
+    "title": "Statistiche Kava-Bar",
+    "bars": "Kava-Bars",
+    "countries": "Paesi",
+    "inUSA": "negli USA",
+    "verified": "Verificato"
+  },
+  "cta": {
+    "title": "Conosci una Kava-Bar?",
+    "description": "Aiutaci ad ampliare il database! Se conosci una Kava-Bar che non è elencata qui, faccelo sapere.",
+    "button": "Suggerisci Kava-Bar"
+  },
+  "related": {
+    "title": "Pagine correlate",
+    "nakamal": {
+      "title": "Nakamal & Kava-Bars",
+      "subtitle": "Storia della cultura del bere Kava"
+    },
+    "moderne": {
+      "title": "Cultura Kava Moderna",
+      "subtitle": "Diffusione globale oggi"
+    },
+    "weltkarte": {
+      "title": "Mappa del mondo interattiva",
+      "subtitle": "Scopri le regioni del Kava"
+    }
+  },
+  "navigation": {
+    "nakamal": "/it/cultura/nakamal",
+    "moderne": "/it/cultura/moderne",
+    "weltkarte": "/it/cultura/mappa-del-mondo",
+    "kontakt": "/it/contatto"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "Una delle catene di Kava-Bar più famose della Florida con un'atmosfera autentica e varietà di Kava di alta qualità da Vanuatu e Fiji.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Kava Smoothies"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "KavaSutra utilizza Kava di altissima qualità dall'isola di Vanuatu. Utilizzato in cerimonie da millenni.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Kava Flights"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Kava-Bar a conduzione locale con una selezione di Kava preparati tradizionalmente in un'atmosfera rilassata.",
+      "specialties": [
+        "Kava Tradizionale",
+        "Tè di Kratom"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Kava-Bar premium nel cuore di Las Olas con un'atmosfera pacifica e una vasta selezione di varietà di Kava Noble.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Kava Tongan",
+        "Kava Flights"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "La prima Kava-Bar di Madeira Beach! Dal proprietario di Bula Kafe, la prima Kava-Bar a Pinellas.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "Kava-Lounge rilassata con il miglior Kava fidjiano, hookah, kratom e Kava-Comedy-Monday.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Serate di Commedia"
+      ]
+    },
+    "roots-miami": {
+      "description": "Kava-Bar urbana a Wynwood con un'atmosfera artistica e eventi regolari di musica dal vivo.",
+      "specialties": [
+        "House Blend",
+        "Kava Cocktails",
+        "Tè di Kratom"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Kava-Bar contemporanea, lounge e punto vendita al dettaglio a Miami.",
+      "specialties": [
+        "Botanical Blends",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "Il quartier generale della catena Kava Culture con la più ampia selezione di varietà di Kava.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Kava Cocktails",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Kava-Bar moderna e sofisticata all'aperto/interno a Bonita Springs.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Kava-Bar rilassata a Clearwater con Happy Hour dalle 14:00 alle 17:00.",
+      "specialties": [
+        "Offerte Happy Hour",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Kava Culture nel centro di Fort Myers con Open Mic Nights, arte e deliziosi Kava-Cocktails.",
+      "specialties": [
+        "Open Mic Nights",
+        "Eventi Artistici"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture nel centro di Orlando con un'atmosfera rilassata.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Miscele di Kratom"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB con Buddha Blends Vegan Kitchen. Bar sulla spiaggia all'aperto, biliardo, freccette, Open Mics.",
+      "specialties": [
+        "Beach Vibes",
+        "Cibo Vegano",
+        "Musica dal Vivo"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture a Key West - vibrazioni tropicali e Kava premium.",
+      "specialties": [
+        "Island Blend",
+        "Kava Tropicale"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture nel centro di Tampa con un'atmosfera urbana.",
+      "specialties": [
+        "Urban Blend",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture a South Tampa con un'atmosfera di quartiere rilassata.",
+      "specialties": [
+        "Neighborhood Vibes",
+        "Kava Premium"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture a Naples con un'atmosfera raffinata.",
+      "specialties": [
+        "Selezione Premium",
+        "Kava Flights"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte con Beach-Vibes, spiaggia all'aperto lungo il canale.",
+      "specialties": [
+        "Beach Vibes",
+        "Vista sul Canale"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture a Estero con una posizione comoda.",
+      "specialties": [
+        "Posizione Comoda",
+        "Kava di Qualità"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture a Lake Mary - atmosfera rilassata.",
+      "specialties": [
+        "Vibrazioni Rilassate",
+        "Kava Premium"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "Kavakaze è una Kava-Bar a Tallahassee con Kava, tè e un luogo rilassato per rilassarsi.",
+      "specialties": [
+        "Offerte per Studenti",
+        "Vibrazioni Rilassate"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Kava Bar Island Root a Downtown Melbourne FL.",
+      "specialties": [
+        "Kava Tradizionale",
+        "Eventi Comunitari"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "Dharma Hookah Lounge è la Kava-Java-Hookah-Lounge con caffè, tè, Kava, Kratom e hookah.",
+      "specialties": [
+        "Hookah",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Gestito dalla famiglia, tutte le botaniche organiche e tè per il massimo benessere.",
+      "specialties": [
+        "Botaniche Organiche",
+        "Tè per il Benessere"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "Johnny Vapors è un negozio di vape locale e lounge con Kava e Kratom.",
+      "specialties": [
+        "Prodotti Vape",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "Low Tide Lounge è un punto di incontro per menti creative e pacifiche.",
+      "specialties": [
+        "Comunità Creativa",
+        "Musica dal Vivo"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Tè-Bar etnobotanica con Kava e Kratom.",
+      "specialties": [
+        "Etnobotaniche",
+        "Miscele di Tè"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, Vapor e eHookah direttamente all'uscita dell'autostrada. Rilassati, goditi e divertiti!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "Kava Kula offre Kava premium in un'atmosfera rilassata da spiaggia.",
+      "specialties": [
+        "Beach Vibes",
+        "Kava Premium"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "Kava Social è un punto di incontro sociale con Kava, tè ed eventi comunitari.",
+      "specialties": [
+        "Eventi Sociali",
+        "Kava",
+        "Tè"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "NaKava offre Kava autentico per la città universitaria di Gainesville.",
+      "specialties": [
+        "Vibrazioni Universitarie",
+        "Kava Premium"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "Peaceful Warrior Kava Bar a Jacksonville con focus sul benessere e il relax.",
+      "specialties": [
+        "Benessere",
+        "Kava Tradizionale"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "Soul Tribe offre Kava e un'atmosfera comunitaria spirituale.",
+      "specialties": [
+        "Comunità Spirituale",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "The Kava Tap a Pensacola - atmosfera rilassata da bar con Kava alla spina.",
+      "specialties": [
+        "Kava alla Spina",
+        "Atmosfera da Bar"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "NaKava Ocala offre Kava premium per il centro della Florida.",
+      "specialties": [
+        "Florida Centrale",
+        "Kava Premium"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "Bula Kafe Orlando porta vibrazioni pacifiche nella Florida Centrale.",
+      "specialties": [
+        "Vibrazioni Pacifiche",
+        "Kava Premium"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "Purple Lotus Kava Bar a Phoenix - la principale destinazione Kava dell'Arizona.",
+      "specialties": [
+        "Primo dell'Arizona",
+        "Kava Premium"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "Kava Culture a Tempe, Arizona - ideale per gli studenti dell'ASU.",
+      "specialties": [
+        "Amichevole per Studenti",
+        "Kava Premium"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "The Root a Tucson offre Kava e Kratom autentici.",
+      "specialties": [
+        "Kava Autentica",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "Bula Kava House a San Diego con atmosfera rilassata da spiaggia.",
+      "specialties": [
+        "Beach Vibes",
+        "Kava Premium"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "Kava Roots a San Francisco - la prima Kava-Bar della Bay Area.",
+      "specialties": [
+        "Primo della Bay Area",
+        "Kava Premium"
+      ]
+    },
+    "nakava-la": {
+      "description": "NaKava Los Angeles porta Kava premium a Hollywood.",
+      "specialties": [
+        "Vibrazioni di Hollywood",
+        "Kava Premium"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Locale senza alcol, benvenuti tutti, lounge di erbe con elisir, esotici e cibi crudi.",
+      "specialties": [
+        "Elisir Erbali",
+        "Cibo Crudo",
+        "Tutte le Età"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "Serve il miglior Kava preparato tradizionalmente in un'atmosfera divertente e sociale. L'idea più innovativa per un luogo di relax!",
+      "specialties": [
+        "Preparazione Tradizionale",
+        "Educazione sul Kava"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Farmacia, giardino di tè, galleria d'arte & luogo di eventi musicali nel cuore dell'Oregon meridionale! Importa Kava da Big Island Hawaii.",
+      "specialties": [
+        "Kava Kombucha",
+        "Galleria d'Arte",
+        "Luogo di Musica"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "La popolare Kava-Bar di Austin con un'atmosfera rilassata, giochi ed eventi comunitari.",
+      "specialties": [
+        "Kava Flights",
+        "Miscele di Kratom",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture a Lewisville, Texas.",
+      "specialties": [
+        "Kava Premium",
+        "Vibrazioni del Texas"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture a North Fort Worth.",
+      "specialties": [
+        "Kava Premium",
+        "Posizione Comoda"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - ORA APERTO in Ohio.",
+      "specialties": [
+        "Kava Premium",
+        "Vibrazioni del Midwest"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture a Toledo, Ohio.",
+      "specialties": [
+        "Kava Premium",
+        "Posizione in Ohio"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "La prima Kava-Bar di Salt Lake City con una selezione di Kava premium e una comunità accogliente.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Cerimonie di Kava"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "Il Kava è una radice del Sud Pacifico. Utilizzato come bevanda cerimoniale per rilassarsi e calmarsi.",
+      "specialties": [
+        "Vibrazioni di NYC",
+        "Kava Premium"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "KavaSutra è la migliore Kava-Bar d'America con Kava premium e altre erbe.",
+      "specialties": [
+        "Kava Premium",
+        "Miscele Erbali"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "Euphorbia è una Kava-Bar specializzata in bevande infuse di Kava e dessert crudi, oltre a piante bonsai.",
+      "specialties": [
+        "Dessert Crudi",
+        "Piante Bonsai",
+        "Bevande Kava"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Linea completa di prodotti a base di erbe e Kava, Juice Bar, tabacco, hookah, prodotti per vape - tutto sotto lo stesso tetto.",
+      "specialties": [
+        "Prodotti Erbali",
+        "Juice Bar"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "La prima Kava-Bar del Missouri! Vieni a vedere di cosa si tratta. Aperto 7 giorni su 7.",
+      "specialties": [
+        "Primo del Missouri",
+        "Kava Tradizionale"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "Krave Kava Bar a Carrboro, North Carolina.",
+      "specialties": [
+        "Kava Premium",
+        "Vibrazioni da Città Universitaria"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "Kat 5 Kava Bar a Wilmington, North Carolina.",
+      "specialties": [
+        "Vibrazioni Costiere",
+        "Kava Premium"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "InVision è uno spazio di co-working unico e un caffè con specialità come Kava e Kratom.",
+      "specialties": [
+        "Spazio di Co-Working",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Cibo sano per un corpo sano e Kava! La destinazione Kava dell'Alaska.",
+      "specialties": [
+        "Acai Bowls",
+        "Smoothies",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture a Spartanburg, South Carolina.",
+      "specialties": [
+        "Kava Premium",
+        "Ospitalità del Sud"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "La prima Kava-Lounge dedicata dell'Australia con autentico Kava fidjiano e ospitalità pacifica.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Vanuatu",
+        "Cerimonia Tradizionale"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Kava-Bar di Melbourne nel Pacific Market con una selezione di Kava e Kratom.",
+      "specialties": [
+        "Fiji Kava",
+        "Kava Tongan"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "La Kava-Bar autentica di Brisbane con decorazioni fidjiane e preparazione tradizionale.",
+      "specialties": [
+        "Fiji Waka",
+        "Cerimonie di Kava"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "La Kava-Lounge dedicata di Auckland nel Victoria Park Market con una comunità calda e accogliente e Kava Noble da tutto il Pacifico.",
+      "specialties": [
+        "Kava Tongan",
+        "Fiji Waka",
+        "Kava Vanuatu"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Kava-Bar autentica nel South Auckland con prezzi convenienti e una vasta selezione di polveri di Kava.",
+      "specialties": [
+        "Kava Tongan",
+        "Kava Fiji",
+        "Vendita di Polvere di Kava"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "La prima Kava-Lounge di Berlino a Kreuzberg con un'atmosfera rilassata e cerimonie di Kava regolari.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Cerimonie di Kava"
+      ]
+    },
+    "kava-club-london": {
+      "description": "Il primo Kava-Club di Londra a Shoreditch con un'atmosfera urbana e una selezione di Kava premium.",
+      "specialties": [
+        "Fiji Premium",
+        "Kava Cocktails"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Il caffè Kava accogliente di Vancouver con una selezione di Kava e cibi sani.",
+      "specialties": [
+        "Kava Vanuatu",
+        "Kava Smoothie Bowls"
+      ]
+    }
+  }
+}

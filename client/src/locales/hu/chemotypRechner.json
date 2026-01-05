@@ -1,0 +1,228 @@
+{
+  "page": {
+    "title": "Chemotípus-számító",
+    "subtitle": "Adjon meg egy 6 számjegyű chemotípust, és tudja meg a várt hatást és ajánlásokat.",
+    "category": "Interaktív"
+  },
+  "breadcrumbs": {
+    "home": "Főoldal",
+    "inhaltsstoffe": "Összetevők",
+    "current": "Chemotípus-számító"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "rechner": "Chemotípus-számító",
+    "anleitung": "Így működik",
+    "beispiele": "Példa-chemotípusok",
+    "legende": "Kavalaktón-legend"
+  },
+  "rechner": {
+    "title": "Chemotípus megadása",
+    "subtitle": "6 számjegy 1-6 között, mindegyik pontosan egyszer",
+    "placeholder": "pl. 426531",
+    "analyzeButton": "Elemzés",
+    "knownVariety": "Ismert fajta"
+  },
+  "kavalactones": {
+    "1": {
+      "name": "Desmethoxyyangonin",
+      "short": "DMY",
+      "effect": "Fókusz & Eufória",
+      "description": "Növeli a dopaminszintet, elősegíti a fókuszt és a könnyű eufóriát"
+    },
+    "2": {
+      "name": "Dihydrokavain",
+      "short": "DHK",
+      "effect": "Izomlazítás",
+      "description": "Erős izomlazító és fájdalomcsillapító hatás"
+    },
+    "3": {
+      "name": "Yangonin",
+      "short": "Y",
+      "effect": "CB1 aktivitás",
+      "description": "Hat a végső kannabinoid rendszerre, enyhén stimuláló"
+    },
+    "4": {
+      "name": "Kavain",
+      "short": "K",
+      "effect": "Szorongásoldó",
+      "description": "Fő hatóanyag a szorongás csökkentésére és a mentális tisztaságra"
+    },
+    "5": {
+      "name": "Dihydromethysticin",
+      "short": "DHM",
+      "effect": "Hosszan tartó szedáció",
+      "description": "Erősen szedáló, lassú lebontás – Tudei-jelző"
+    },
+    "6": {
+      "name": "Methysticin",
+      "short": "M",
+      "effect": "Szedáló",
+      "description": "Szedáló és neuroprotektív"
+    }
+  },
+  "categories": {
+    "unknown": {
+      "label": "Érvénytelen",
+      "description": "Kérjük, adjon meg egy érvényes 6 számjegyű chemotípust (1-6 számjegyek, mindegyik pontosan egyszer)."
+    },
+    "tudei": {
+      "label": "Tudei",
+      "description": "Ez a chemotípus Tudei-kavára utal. A DHM (5) az 1. vagy 2. helyen nagyon hosszú hatásidőt jelent, lehetséges mellékhatásokkal."
+    },
+    "heady": {
+      "label": "Heady",
+      "description": "Kavain-domináns fajta, amely elsősorban mentális hatással bír. Ideális társasági eseményekhez és kreatív munkához."
+    },
+    "heady_balanced": {
+      "label": "Heady / Balanced",
+      "description": "Kiegyensúlyozott fajta, amelyben a Kavain és a DHK az első helyeken szerepel. Összekapcsolja a mentális tisztaságot a fizikai ellazulással."
+    },
+    "heavy": {
+      "label": "Heavy",
+      "description": "Dihydrokavain-domináns fajta, amely elsősorban fizikai hatással bír. Ideális a relaxációhoz és a stressz csökkentéséhez."
+    },
+    "balanced": {
+      "label": "Balanced",
+      "description": "Kiegyensúlyozott fajta, amely mentális és fizikai hatások keverékét kínálja. Sokoldalúan alkalmazható."
+    }
+  },
+  "warnings": {
+    "tudeiGeneral": "DHM (5) kiemelkedő helyen – jellemző a Tudei-kavára",
+    "tudeiSideEffects": "Lehetséges mellékhatások: hányinger, hosszú 'másnap', álmosság",
+    "tudeiNotRecommended": "Nem alkalmas rendszeres fogyasztásra",
+    "dhmPosition1": "DHM az 1. helyen: Nagyon erős, hosszan tartó szedáció",
+    "dhmPosition2": "DHM a 2. helyen: Megnövelt szedáció, hosszabb hatásidő"
+  },
+  "strengths": {
+    "headyClear": "Tiszta, fókuszált hatás erős szedálás nélkül",
+    "headyMood": "Jó hangulatjavító és szorongásoldó",
+    "headyBeginner": "Ideális kezdőknek",
+    "headyBalancedBest": "Ideális kombináció a fej- és testhatások között",
+    "headyBalancedMental": "Mentális tisztaság enyhe ellazulással",
+    "headyBalancedBody": "Enyhe izomlazítás erős szedálás nélkül",
+    "heavyMuscle": "Erős izomlazítás",
+    "heavyPain": "Jó fájdalomcsillapító hatás",
+    "heavyRelax": "Mély fizikai ellazulás",
+    "balancedBoth": "Kiegyensúlyozott hatás a testre és lélekre",
+    "balancedVersatile": "Sokoldalúan alkalmazható",
+    "balancedDaily": "Jó mindennapi fajta",
+    "methysticinNeuro": "Methysticin kiemelkedő: Jó neuroprotektív tulajdonságok",
+    "yangoninStim": "Yangonin kiemelkedő: Enyhén stimuláló komponens",
+    "dmyDopamine": "DMY kiemelkedő: Fokozott dopamin-hatás, több eufória"
+  },
+  "effects": {
+    "headyEffects": [
+      "Mentális tisztaság",
+      "Szorongásoldás",
+      "Enyhe eufória"
+    ],
+    "headyBalancedEffects": [
+      "Mentális tisztaság",
+      "Enyhe izomlazítás",
+      "Hangulatjavítás"
+    ],
+    "heavyEffects": [
+      "Izomlazítás",
+      "Fizikai nyugalom",
+      "Alvást segítő"
+    ],
+    "balancedEffects": [
+      "Kiegyensúlyozott ellazulás",
+      "Mérsékelt szorongásoldás",
+      "Enyhe izomlazítás"
+    ]
+  },
+  "recommendedUse": {
+    "headyUse": [
+      "Társasági események",
+      "Kreatív munka",
+      "Nappal vagy korai este"
+    ],
+    "headyBalancedUse": [
+      "Sokoldalú alkalmazás",
+      "Társasági események ellazulással",
+      "Délutántól estig"
+    ],
+    "heavyUse": [
+      "Esti ellazulás",
+      "Fizikai megterhelés után",
+      "Alvás előkészítése"
+    ],
+    "balancedUse": [
+      "Napi alkalmazás",
+      "Meditáció",
+      "Rugalmas használat"
+    ]
+  },
+  "result": {
+    "kavalactoneOrder": "Kavalaktónok sorrendje",
+    "strengthsTitle": "E chemotípus erősségei",
+    "dominantEffects": "Domináns hatások",
+    "recommendedUseTitle": "Ajánlott alkalmazás"
+  },
+  "anleitung": {
+    "title": "Így működik",
+    "paragraph1": "A chemotípus egy 6 számjegyű kód, amely a hat fő kavalaktont a koncentrációjuk csökkenő sorrendjében sorolja fel. Az első számjegy a legmagasabb koncentrációjú kavalaktont jelöli, az utolsó pedig a legalacsonyabbat.",
+    "rulesTitle": "A legfontosabb szabályok:",
+    "rules": [
+      {
+        "label": "1. hely = 4 (Kavain)",
+        "text": "\"Heady\" Kava – mentális hatás, fókusz, szorongásoldás"
+      },
+      {
+        "label": "1. hely = 2 (DHK)",
+        "text": "\"Heavy\" Kava – fizikai hatás, izomlazítás"
+      },
+      {
+        "label": "1. vagy 2. hely = 5 (DHM)",
+        "text": "⚠️ Tudei-Kava – nagyon hosszú hatás, lehetséges mellékhatások"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Példa-chemotípusok",
+    "intro": "Kattintson egy példa-chemotípusra az elemzéshez:",
+    "examples": [
+      {
+        "code": "243516",
+        "name": "Borogu (Vanuatu)",
+        "description": "Heady / Balanced Kava"
+      },
+      {
+        "code": "243156",
+        "name": "Melo Melo",
+        "description": "Balanced Kava"
+      },
+      {
+        "code": "426531",
+        "name": "Palarasul",
+        "description": "Heavy Kava"
+      },
+      {
+        "code": "526431",
+        "name": "Isa (Tudei)",
+        "description": "⚠️ Tudei Kava"
+      },
+      {
+        "code": "421365",
+        "name": "Kelai",
+        "description": "Heady Kava"
+      },
+      {
+        "code": "423561",
+        "name": "Bir Kar",
+        "description": "Balanced Kava"
+      }
+    ]
+  },
+  "legende": {
+    "title": "Kavalaktón-legend",
+    "intro": "Áttekintés a hat fő kavalaktónról és hatásaikról:"
+  },
+  "hint": {
+    "title": "Megjegyzés:",
+    "text": "Ez az elemzés általános irányelveken alapul. A tényleges hatás a minőségtől, elkészítéstől és egyéni érzékenységtől függően változhat. Részletes információkért látogasson el a",
+    "linkText": "Chemotípus-rendszer"
+  }
+}

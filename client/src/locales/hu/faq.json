@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "GYIK – Minden a Kava-ról",
+    "badge": "Gyakran ismételt kérdések",
+    "description": "Válaszok a Kava leggyakoribb kérdéseire – a hatásától és adagolásától kezdve a biztonságig és jogi helyzetig. Tudományos alapokon nyugvó, érthetően magyarázva."
+  },
+  "ui": {
+    "searchPlaceholder": "Kérdés keresése...",
+    "categories": "Kategóriák",
+    "all": "Összes",
+    "results": "Eredmények",
+    "clearFilters": "Szűrők visszaállítása",
+    "noResults": "Nincs találat",
+    "noResultsHint": "Próbálj meg más keresési kifejezéseket, vagy válassz egy másik kategóriát.",
+    "showAll": "Összes kérdés megjelenítése",
+    "relatedArticles": "Kapcsolódó cikkek:",
+    "questionNotAnswered": "A kérdésed nem szerepel?",
+    "contactHint": "Lépj kapcsolatba velünk, és szívesen segítünk. Rendszeresen bővítjük a GYIK-et a kérdéseitek alapján.",
+    "getInTouch": "Kapcsolatfelvétel",
+    "viewGlossary": "Glosszárium megtekintése"
+  },
+  "categories": {
+    "grundlagen": {
+      "name": "Alapok",
+      "description": "Alapvető információk a Kava-ról, származásáról és botanikájáról"
+    },
+    "wirkung": {
+      "name": "Hatás & Effektek",
+      "description": "Hogyan hat a Kava, hatástartam és tapasztalatok"
+    },
+    "sicherheit": {
+      "name": "Biztonság & Mellékhatások",
+      "description": "Mellékhatások, kockázatok és kölcsönhatások"
+    },
+    "dosierung": {
+      "name": "Adagolás & Fogyasztás",
+      "description": "Ajánlott mennyiségek és különböző fogyasztási formák"
+    },
+    "zubereitung": {
+      "name": "Elkészítés",
+      "description": "Hagyományos és modern elkészítési módszerek"
+    },
+    "kauf": {
+      "name": "Vásárlás & Jogszerűség",
+      "description": "Beszerzési források és jogi helyzet Németországban és az EU-ban"
+    },
+    "vergleiche": {
+      "name": "Összehasonlítások",
+      "description": "Kava összehasonlítása más táplálékkiegészítőkkel"
+    },
+    "kultur": {
+      "name": "Kultúra & Hagyomány",
+      "description": "Szertartások, hagyományok és kulturális jelentőség"
+    }
+  },
+  "items": {
+    "was-ist-kava": {
+      "question": "Mi az a Kava (Kava-Kava)?",
+      "answer": "A Kava (Piper methysticum) egy növényfaj a borsófélék (Piperaceae) családjából, amelyet több mint 3000 éve termesztenek a Csendes-óceán térségében. A név fordítása \"bódító bors\". A növény gyökerei Kavalactonokat tartalmaznak – bioaktív vegyületek, amelyek lazító, szorongásoldó és hangulatjavító tulajdonságokkal bírnak. A Kava-t hagyományosan ital formájában készítik el, és központi szerepet játszik Vanuatu, Fiji, Tonga, Samoa és Hawaii kultúrájában.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik",
+          "label": "A Piper methysticum botanikája"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "A Kava története"
+        }
+      ]
+    },
+    "was-bedeutet-piper-methysticum": {
+      "question": "Mit jelent a Piper methysticum?",
+      "answer": "A Piper methysticum a Kava növény tudományos (latin) neve. A \"Piper\" borsot jelent, és a borsófélék növénycsaládjára utal. A \"methysticum\" a görög \"methystikos\" szóból származik, ami \"bódító\" vagy \"részegítő\" jelentéssel bír. A nevet 1777-ben Johann Georg Forster adta, aki a növényt James Cook második világkörüli útja során tudományosan leírta.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/pflanze",
+          "label": "A Kava növény"
+        }
+      ]
+    },
+    "woher-kommt-kava": {
+      "question": "Honnan származik eredetileg a Kava?",
+      "answer": "A Kava eredetileg a nyugati Csendes-óceánból származik, ahol Vanuatu a származási régió. Itt található a legnagyobb genetikai sokféleség, több mint 80 különböző fajtával. A növényt körülbelül 3000 évvel ezelőtt a vadon élő Piper wichmannii fajtából háziasították, és polinéz tengerészek terjesztették el a \"Canoe Plant\" néven az egész Csendes-óceán térségében – Fiji, Tonga, Samoa, Hawaii és Pohnpei felé.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/weltkarte",
+          "label": "Interaktív Kava világtérkép"
+        },
+        {
+          "href": "/de/geschichte",
+          "label": "A Kava története"
+        }
+      ]
+    },
+    "kava-wurzel": {
+      "question": "Mi a Kava gyökér?",
+      "answer": "A Kava gyökér az a növényi rész, amelyet az ital elkészítéséhez használnak. Két fő részből áll: a tövéből (más néven \"Corm\" vagy \"Lewena\") – a vastag, fás gyökérzetből – és az oldalsó gyökerekből (\"Waka\"), amelyek a legmagasabb Kavalacton-tartalommal rendelkeznek. Egy érett Kava növény (3-5 éves) 5-25 kg tövet képes kifejleszteni. Csak a föld alatti részeket szabad használni, mivel a levelek és szárak nem kívánt vegyületeket tartalmazhatnak.",
+      "relatedLinks": [
+        {
+          "href": "/de/botanik/morphologie",
+          "label": "A Kava növény morfológiája"
+        }
+      ]
+    },
+    "noble-kava": {
+      "question": "Mi az a Noble Kava?",
+      "answer": "A Noble Kava olyan Kava fajtákat jelöl, amelyeket hagyományosan napi fogyasztásra termesztenek, és kedvező Kavalacton profillal rendelkeznek. Ezek kellemes hatásúak, jól tolerálhatóak és minimális mellékhatásokkal bírnak. Ezzel szemben a \"Tudei\" (Két Nap) fajták erősebb, tartósabb és gyakran kellemetlen hatásokat okoznak. A Noble fajták, mint például Borogu, Melomelo, Palarasul vagy Pouni Ono, alkalmasak a rendszeres használatra. Vásárláskor mindig figyelni kell a \"Noble\" megjelölésre.",
+      "relatedLinks": [
+        {
+          "href": "/de/sorten",
+          "label": "Kava fajták"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei"
+        }
+      ]
+    },
+    "wie-wirkt-kava": {
+      "question": "Hogyan hat a Kava?",
+      "answer": "A Kava főként a Kavalactonjaival hat, amelyek kölcsönhatásba lépnek a GABA-rendszerrel az agyban. A hatás magában foglalja: az izmok ellazulását, a szorongás és stressz csökkentését, enyhe eufóriát és emelkedett hangulatot, javított társasági érzést tiszta fejjel, valamint a pihentető alvás elősegítését. A Kava ellentétben az alkohollal nem befolyásolja a szellemi tisztaságot. A hatás általában 15-30 perccel a bevétel után kezdődik, és 2-4 órán át tart.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung",
+          "label": "A Kava hatása"
+        },
+        {
+          "href": "/de/inhaltsstoffe",
+          "label": "Kavalactonok"
+        }
+      ]
+    },
+    "kava-wirkdauer": {
+      "question": "Mennyi ideig hat a Kava?",
+      "answer": "A Kava hatástartama a dózistól, fajtától és egyéni érzékenységtől függően változik. Általában a hatás 15-30 perccel a bevétel után kezdődik, és körülbelül 1-2 óra múlva éri el a csúcsát. A fő hatás 2-4 órán át tart, bár a kellemes lazító érzés tovább is megmaradhat. Magasabb dózisok vagy erősebb fajták esetén a hatás akár 6 órán át is érezhető lehet. Az alvást elősegítő hatás akár egész éjszaka is fennállhat."
+    },
+    "kava-gegen-angst": {
+      "question": "Segít a Kava a szorongás ellen?",
+      "answer": "Igen, a Kava számos klinikai vizsgálatban szorongásoldó (anxiolytikus) hatásokat mutatott. Egy 2003-as Cochrane meta-analízis megerősítette a hatékonyságát szorongásos zavarok esetén. A Kavalactonok a GABA-receptorokra hatnak, hasonlóan a benzodiazepinekhez, de függőségi potenciál nélkül. A Kava segíthet a generalizált szorongásos zavarban, a szociális szorongásban és a stressz okozta feszültségben. Fontos: Diagnosztizált szorongásos zavarok esetén a használatot orvossal kell megbeszélni.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Tudományos tanulmányok"
+        },
+        {
+          "href": "/de/wirkung/angst",
+          "label": "Kava a szorongás ellen"
+        }
+      ]
+    },
+    "kava-depression": {
+      "question": "Segíthet a Kava a depresszió ellen?",
+      "answer": "Néhány tanulmány arra utal, hogy a Kava hangulatjavító tulajdonságokkal bír. A Melbourne-i Egyetem 2013-as tanulmánya pozitív hatásokat mutatott ki enyhe és közepes súlyosságú depressziók esetén. A hatást a dopamin- és szerotonin-receptorok modulálásának tulajdonítják. Azonban a Kava nem helyettesíti a depresszió professzionális kezelését. Diagnosztizált depressziós zavarok esetén mindig orvossal kell konzultálni, különösen, ha már antidepresszánsokat szednek.",
+      "relatedLinks": [
+        {
+          "href": "/de/studien",
+          "label": "Tudományos tanulmányok"
+        }
+      ]
+    },
+    "kava-schlaf": {
+      "question": "Javítja a Kava az alvást?",
+      "answer": "Igen, a Kava javíthatja az alvás minőségét. A Kavalactonok lazító hatása segít az elalvásban és elősegíti a mélyebb, pihentetőbb alvást. A Kava ellentétben sok altatóval nem okoz \"másnaposságot\" másnap reggel. Tanulmányok azt mutatják, hogy a Kava különösen hatékony a stressz okozta alvászavarok esetén. Az alvás elősegítése érdekében ajánlott a Kava-t 1-2 órával az alvás előtt bevenni. A magasabb DHM- és DHK-tartalmú fajták (mint például Borogu) különösen jótékony hatásúak az alvásra.",
+      "relatedLinks": [
+        {
+          "href": "/de/wirkung/schlaf",
+          "label": "Kava a jobb alvásért"
+        }
+      ]
+    },
+    "kava-nebenwirkungen": {
+      "question": "Milyen mellékhatásai vannak a Kava-nak?",
+      "answer": "A Noble Kava fajták helyes használata esetén a mellékhatások ritkák és enyhék. Lehetséges mellékhatások: átmeneti zsibbadás az ajkakon és a nyelven (normális), enyhe hányinger üres gyomorra történő bevétel esetén, álmosság (különösen magasabb dózisok esetén), és krónikus túlfogyasztás esetén visszafordítható bőrpeeling (\"Kava-Dermopathie\"). Fontos a tiszta gyökérpor használata Noble fajtákból, és az alkohol elkerülése a bevétel során.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit",
+          "label": "A Kava biztonsága"
+        },
+        {
+          "href": "/de/sicherheit/nebenwirkungen",
+          "label": "Mellékhatások részletesen"
+        }
+      ]
+    },
+    "kava-leber": {
+      "question": "Ártalmas a Kava a májra?",
+      "answer": "A májtoxicitás kérdése összetett. A 2002-es német Kava-tilalom a májkárosodásokról szóló jelentések alapján született, amelyek azonban nagyrészt alacsony minőségű termékekre (levelek/szárak használata a gyökerek helyett), Tudei fajtákra (nem napi fogyasztásra alkalmasak), alkoholextraktumokra és gyógyszerekkel való kölcsönhatásokra vezethetők vissza. Tanulmányok azt mutatják, hogy a hagyományosan elkészített Noble Kava egészséges felnőttek számára biztonságos. Ennek ellenére a májbetegségben szenvedőknek el kell kerülniük a Kava-t, és a rendszeres fogyasztóknak ellenőriztetniük kell a májértékeiket.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/leber",
+          "label": "Kava és a máj"
+        },
+        {
+          "href": "/de/sorten/noble-vs-tudei",
+          "label": "Noble vs. Tudei Kava"
+        }
+      ]
+    },
+    "kava-droge": {
+      "question": "A Kava drog?",
+      "answer": "A Kava nem drog a kábítószerekre vonatkozó törvény értelmében. Ez egy hagyományos ital, amely pszichoaktív hatással bír, hasonlóan a kávéhoz vagy teához. A Kava nem okoz függőséget, nem fejleszt ki toleranciát, és nincs visszaélési potenciálja. A WHO a Kava-t \"nem addiktív\" kategóriába sorolta. A legtöbb országban a Kava legálisan kapható. A hatás enyhén lazító, nem bódító az alkohol vagy illegális anyagok értelemében."
+    },
+    "kava-alkohol": {
+      "question": "Lehet a Kava-t alkohollal kombinálni?",
+      "answer": "Nem, a Kava-t nem szabad alkohollal kombinálni. Mindkét anyag a GABA-rendszerre hat, és kölcsönösen felerősíthetik egymást, ami túlzott sedációhoz vezethet. Ezenkívül mindkettőt a máj metabolizálja, ami növeli a terhelést. A hagyományos csendes-óceáni kultúrában a Kava alternatívaként szolgál az alkohol helyett, nem pedig annak kísérőjeként. Legalább 24 órát kell várni az alkohol és a Kava fogyasztása között.",
+      "relatedLinks": [
+        {
+          "href": "/de/sicherheit/wechselwirkungen",
+          "label": "Kölcsönhatások"
+        }
+      ]
+    },
+    "kava-dosierung": {
+      "question": "Hogyan adagoljuk helyesen a Kava-t?",
+      "answer": "A Kava por ajánlott adagolása 2-4 evőkanál (kb. 15-30g) adagonként, 2-3 tálra elosztva. Kezdőknek ajánlott alacsonyabb dózissal (1-2 evőkanál) kezdeni. A Kavalacton adag nem haladhatja meg az 250mg-ot egy adagban. Fontos: A Kava teljes hatása gyakran csak rendszeres bevétel után néhány napon belül érvényesül (\"Fordított tolerancia\"). Ne fogyasszon 300mg Kavalactont naponta hosszabb időszakokban.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Kava elkészítése"
+        }
+      ]
+    },
+    "kava-einnahme": {
+      "question": "Hogyan a legjobb bevenni a Kava-t?",
+      "answer": "A hagyományos módszer az ital elkészítése: a Kava port vízben gyúrják és szűrőn átszűrik. Az italt tálakban (\"Shells\") fogyasztják, jellemzően 2-3 tálat egy ülésben, 10-15 perc szünettel. Alternatívaként létezik instant Kava (csak vízben feloldani), kapszulák vagy tinktúrák. A legjobb hatást üres gyomorra érik el, körülbelül 2-3 órával az utolsó étkezés után. Az ivás után egy kis snack fokozhatja a hatást.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Hagyományos elkészítés"
+        }
+      ]
+    },
+    "kava-taeglich": {
+      "question": "Lehet a Kava-t naponta inni?",
+      "answer": "Igen, a csendes-óceáni kultúrákban a Kava-t hagyományosan naponta fogyasztják. Nyugati használatra ajánlott rendszeres szüneteket tartani (pl. 1-2 nap hetente Kava nélkül). Napi fogyasztás esetén az adagnak mérsékeltnek kell maradnia, és kizárólag Noble Kava fajtákat kell használni. A rendszeres fogyasztóknak évente ellenőriztetniük kell a májértékeiket. Fontos: Igyon elegendő vizet és figyeljen az egészséges táplálkozásra."
+    },
+    "kava-pulver-vs-kapseln": {
+      "question": "Mi a jobb: Kava por vagy kapszulák?",
+      "answer": "A Kava por a legautentikusabb élményt és legjobb hatást nyújtja, de elkészítést igényel. A kapszulák praktikusak útközben, de gyakran kevesebb Kavalactont tartalmaznak és gyengébben hatnak. Az instant Kava jó kompromisszum – csak vízben feloldani, jó hatás. Kezdőknek ajánljuk az instant Kava-t vagy a közepes őrlésű port. A legnagyobb hatás érdekében: hagyományosan elkészített por. A kapszulák alkalmasak alkalmi, alacsony dózisú használatra."
+    },
+    "kava-zubereitung": {
+      "question": "Hogyan készítsük el a Kava-t hagyományosan?",
+      "answer": "Hagyományos elkészítés: 1) 2-4 evőkanál Kava port tegyünk egy szövetzsákba vagy diótejzsákba. 2) Tegyük egy tálba kb. 500ml meleg (nem forró!) vízbe. 3) Gyúrjuk és kicsavarjuk 5-10 percig, amíg a víz tejes-barnás színűvé válik. 4) Nyomjuk ki a zsákot és távolítsuk el. 5) Tálakban szolgáljuk fel és gyorsan igyuk meg. Az íze földes és enyhén keserű – ez normális. Egy darab gyümölcs \"chaser\" segít az íz ellen.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung/traditionell",
+          "label": "Hagyományos elkészítés"
+        },
+        {
+          "href": "/de/zubereitung/instant",
+          "label": "Instant Kava"
+        }
+      ]
+    },
+    "kava-geschmack": {
+      "question": "Milyen íze van a Kava-nak?",
+      "answer": "A Kava jellegzetes, földes ízű, amelyet gyakran \"megszokott íznek\" neveznek. Az íze enyhén keserű, borsos és földes, egy kis csípősséggel. Az ivás után átmeneti zsibbadás lép fel az ajkakon és a nyelven – ez az aktív Kavalactonok jele. Tippek a javításhoz: igyuk hidegen, keverjük kókusztejjel, vagy egy darab ananászt/mangót egy \"chaser\"-ként együnk. Idővel hozzászokunk az ízhez."
+    },
+    "kava-tee": {
+      "question": "Lehet a Kava-t teaként elkészíteni?",
+      "answer": "A Kava-t nem szabad normál teaként forrásban lévő vízzel elkészíteni, mivel a magas hőmérséklet tönkreteheti a Kavalactonokat. Használjunk meleg vizet (kb. 40°C). A kereskedelmi \"Kava-tea\" termékek gyakran csak kis mennyiségű Kava-t tartalmaznak, és kevésbé hatékonyak, mint a hagyományosan elkészített Kava por. A legjobb hatás érdekében ajánljuk a hagyományos gyúrási módszert közepes őrlésű Kava porral vagy kiváló minőségű instant Kava-val.",
+      "relatedLinks": [
+        {
+          "href": "/de/zubereitung",
+          "label": "Elkészítési módszerek"
+        }
+      ]
+    },
+    "kava-legal-deutschland": {
+      "question": "Legális a Kava Németországban?",
+      "answer": "A Kava jogi helyzete Németországban összetett. 2002-ben a Kava-t gyógyszerként betiltották, miután májkárosodásokról szóló jelentések érkeztek. Ezt a tilalmat 2014-ben a Szövetségi Közigazgatási Bíróság eltörölte, mivel a tudományos alapok elégtelenek voltak. Jelenleg a Kava importja és birtoklása személyes használatra legális. Az eladás táplálékkiegészítőként vagy gyógyszerként azonban továbbra is korlátozott. A Kava az EU-ból (pl. Hollandia, Egyesült Királyság) vagy közvetlenül a Csendes-óceánból rendelhető.",
+      "relatedLinks": [
+        {
+          "href": "/de/rechtsstatus",
+          "label": "A Kava jogi státusza"
+        }
+      ]
+    },
+    "kava-kaufen": {
+      "question": "Hol lehet Kava-t vásárolni?",
+      "answer": "A Kava többféleképpen beszerezhető: 1) Online boltokból a Csendes-óceánból (Vanuatu, Fiji) – legmagasabb minőség, de hosszabb szállítási idő. 2) Európai kereskedők (Egyesült Királyság, Hollandia) – gyorsabb szállítás, jó választék. 3) Speciális Kava bárok – helyszíni fogyasztásra. Német drogériákban (DM, Rossmann) vagy gyógyszertárakban jelenleg nem kapható a Kava. Vásárláskor figyeljen: Noble Kava fajták, tiszta gyökér (nincs levél/szár), laboratóriumi elemzések és származási adatok.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/kava-bars",
+          "label": "Kava bár kereső"
+        }
+      ]
+    },
+    "kava-dm-apotheke": {
+      "question": "Kapható Kava a DM-nél vagy gyógyszertárban?",
+      "answer": "Nem, a Kava jelenleg sem a DM-nél, sem a Rossmann-nál, sem német gyógyszertárakban nem kapható. Ennek oka a német szabályozási helyzet, amely korlátozza a Kava eladását táplálékkiegészítőként vagy gyógyszerként. A Piper methysticum-mal készült homeopátiás készítmények (nagyon hígítva) korábban elérhetők voltak a gyógyszertárakban, de ezek is ritkán kaphatók. Az igazi Kava por beszerzéséhez speciális online kereskedőkhöz kell fordulnia."
+    },
+    "kava-wieder-erhaeltlich": {
+      "question": "Újra kapható a Kava?",
+      "answer": "Igen, a Kava újra kapható, bár nem a német kiskereskedelemben. A 2014-es tilalom feloldása után a Kava legálisan importálható személyes használatra. A legjobb beszerzési források a Csendes-óceánból származó speciális online kereskedők (Vanuatu, Fiji, Tonga) vagy európai szolgáltatók (Egyesült Királyság, Hollandia). Az utóbbi években a minőség és elérhetőség jelentősen javult, és egyre növekvő Kava-rajongói közösség alakult ki Németországban."
+    },
+    "kava-vs-ashwagandha": {
+      "question": "Mi a különbség a Kava és az Ashwagandha között?",
+      "answer": "A Kava és az Ashwagandha is adaptogén növények, de jelentősen eltérnek: a Kava gyorsan (15-30 perc) és akut lazító hatású, ideális helyzeti szorongás vagy stressz esetén. Az Ashwagandha hosszú távon, hetek alatt hat, és szabályozza a kortizolszintet. A Kava italként készül, míg az Ashwagandha általában kapszulaként kerül bevételre. A Kava érezhető pszichoaktív hatással bír, míg az Ashwagandha diszkrétebb. Mindkettő kombinálható, a Kava akut helyzetekre, míg az Ashwagandha hosszú távú stresszállóságra alkalmas."
+    },
+    "kava-vs-baldrian": {
+      "question": "Mi a különbség a Kava és a Valerián között?",
+      "answer": "A Kava és a Valerián (Baldrian) is lazító hatásúak, de eltérő profilúak: a Kava erősebben szorongásoldó hatású, és elősegíti a társasági érzést tiszta fejjel. A Valerián elsősorban alvást segítő hatású, és álmosságot okozhat. A Kava hatása gyorsabban jelentkezik (15-30 perc), míg a Valeriánnak gyakran hetek rendszeres bevétele szükséges. A Kava íze földes, míg a Valerián szaga és íze kellemetlen. A Kava jobban megfelel társadalmi helyzetekben, míg a Valerián inkább tiszta altatóként használható."
+    },
+    "kava-vs-kratom": {
+      "question": "Mi a különbség a Kava és a Kratom között?",
+      "answer": "A Kava és a Kratom alapvetően eltérőek, és nem szabad összekeverni őket: a Kava Kavalactonokat tartalmaz, és lazító hatású, függőségi potenciál nélkül. A Kratom alkaloidokat (Mitragynin) tartalmaz, amelyek az opioid receptorokon hatnak, és függőségi potenciáljuk van. A Kava a legtöbb országban legális, míg a Kratom sok országban (beleértve Németországot is) tilos vagy szabályozott. A Kava hosszú hagyománya van a biztonságos használatnak, míg a Kratom egészségügyi kockázatokkal jár. A Kratom használatát nem javasoljuk."
+    },
+    "kava-alternative": {
+      "question": "Mik a Kava alternatívái?",
+      "answer": "A Kava természetes alternatívái a relaxációra és szorongáscsökkentésre: Ashwagandha (adaptogén, hosszú távú), Valerián (alvást segítő), Passionsblume (enyhén szorongásoldó), L-Theanin (teából, elősegíti a relaxációt), Magnézium (izomlazító), CBD (kannabidiol, legális Németországban). Ezen alternatívák közül egyik sem nyújtja a Kava egyedi profilját, amely a relaxáció, társasági érzés és szellemi tisztaság kombinációjából áll. A legjobb alternatíva az alkohol helyett társadalmi helyzetekben a Kava valódi helyettesítője nincs."
+    },
+    "kava-zeremonie": {
+      "question": "Mi az a Kava szertartás?",
+      "answer": "A Kava szertartás egy hagyományos rituálé a Csendes-óceán térségében, ahol a Kava-t közösen készítik el és fogyasztják. A szertartás szigorú protokollok szerint zajlik: Ki készíti el a Kava-t? Ki kapja az első tálat? Milyen sorrendben isznak? Fidji-ban a szertartás neve \"Sevusevu\", és hivatalos állami események része. Tongán és Samoán formálisan szabályozott 'Ava szertartások zajlanak, meghatározott szerepekkel. A szertartás a tisztelet, vendégszeretet és társadalmi kötelék szimbóluma.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/zeremonien",
+          "label": "Szertartások & Rituálék"
+        }
+      ]
+    },
+    "nakamal": {
+      "question": "Mi az a Nakamal?",
+      "answer": "A Nakamal egy hagyományos Kava ivóhely Vanuatuban. Eredetileg férfiak háza volt, ahol a faluközösség összegyűlt az esti Kava ivásra. Ma a \"Nakamal\" modern Kava bárokat is jelent Port Vila-ban és más városokban. A légkör nyugodt és tiszteletteljes – együtt ülnek, több tálat isznak, és csendes beszélgetéseket folytatnak. A Nakamalok társadalmi egyensúlyozó helyek, ahol minden társadalmi réteg emberei összegyűlnek.",
+      "relatedLinks": [
+        {
+          "href": "/de/kultur/nakamal",
+          "label": "Nakamal & Kava bárok"
+        }
+      ]
+    },
+    "kava-namen": {
+      "question": "Milyen nevei vannak a Kava-nak különböző kultúrákban?",
+      "answer": "A Kava-nak különböző csendes-óceáni kultúrákban eltérő nevei vannak: Vanuatu: Kava vagy Malok. Fiji: Yaqona (kiejtve \"Yang-gona\"). Tonga: Kava vagy 'Ava. Samoa: 'Ava. Hawaii: 'Awa. Pohnpei: Sakau. Pápua Új-Guinea: Kava. A tudományos neve, Piper methysticum, jelentése \"bódító bors\". Németországban a Kava, Kava-Kava és Rauschpfeffer elnevezések elterjedtek.",
+      "relatedLinks": [
+        {
+          "href": "/de/glossar",
+          "label": "Glosszárium"
+        }
+      ]
+    }
+  },
+  "itemCategories": {
+    "was-ist-kava": "grundlagen",
+    "was-bedeutet-piper-methysticum": "grundlagen",
+    "woher-kommt-kava": "grundlagen",
+    "kava-wurzel": "grundlagen",
+    "noble-kava": "grundlagen",
+    "wie-wirkt-kava": "wirkung",
+    "kava-wirkdauer": "wirkung",
+    "kava-gegen-angst": "wirkung",
+    "kava-depression": "wirkung",
+    "kava-schlaf": "wirkung",
+    "kava-nebenwirkungen": "sicherheit",
+    "kava-leber": "sicherheit",
+    "kava-droge": "sicherheit",
+    "kava-alkohol": "sicherheit",
+    "kava-dosierung": "dosierung",
+    "kava-einnahme": "dosierung",
+    "kava-taeglich": "dosierung",
+    "kava-pulver-vs-kapseln": "dosierung",
+    "kava-zubereitung": "zubereitung",
+    "kava-geschmack": "zubereitung",
+    "kava-tee": "zubereitung",
+    "kava-legal-deutschland": "kauf",
+    "kava-kaufen": "kauf",
+    "kava-dm-apotheke": "kauf",
+    "kava-wieder-erhaeltlich": "kauf",
+    "kava-vs-ashwagandha": "vergleiche",
+    "kava-vs-baldrian": "vergleiche",
+    "kava-vs-kratom": "vergleiche",
+    "kava-alternative": "vergleiche",
+    "kava-zeremonie": "kultur",
+    "nakamal": "kultur",
+    "kava-namen": "kultur"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Comparaison des variétés",
+    "subtitle": "Comparez deux variétés de Kava côte à côte"
+  },
+  "breadcrumbs": {
+    "home": "Accueil",
+    "sorten": "Variétés",
+    "current": "Comparaison"
+  },
+  "ui": {
+    "selectVariety": "Sélectionner une variété...",
+    "firstVariety": "Première variété",
+    "secondVariety": "Deuxième variété",
+    "toProfile": "Vers le profil de la variété",
+    "potency": "Potence",
+    "badgeInfo": "Les <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> Badges montrent la différence par rapport à l'autre variété"
+  },
+  "categories": {
+    "heady": "Heady",
+    "balanced": "Équilibré",
+    "heavy": "Lourd"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Comparaison des profils d'effet"
+    },
+    "basicInfo": {
+      "title": "Informations de base"
+    },
+    "dosage": {
+      "title": "Dosage recommandé"
+    },
+    "applications": {
+      "title": "Domaines d'application"
+    },
+    "usageTimes": {
+      "title": "Temps de consommation"
+    },
+    "kavalactones": {
+      "title": "Profil des Kavalactones"
+    },
+    "notes": {
+      "title": "Remarques"
+    }
+  },
+  "effects": {
+    "euphoria": "Euphorie",
+    "relaxation": "Détente",
+    "sedation": "Sédation",
+    "clarity": "Clarté",
+    "sociability": "Sociabilité",
+    "anxiolysis": "Anxiolyse"
+  },
+  "info": {
+    "chemotype": "Chémotype",
+    "duration": "Durée d'effet",
+    "availability": "Disponibilité",
+    "price": "Prix"
+  },
+  "dosageLabels": {
+    "beginner": "Débutant",
+    "regular": "Régulier",
+    "experienced": "Expérimenté"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticine",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Sélectionnez deux variétés à comparer",
+    "description": "Utilisez les menus déroulants ci-dessus pour sélectionner deux variétés de Kava et comparer directement leurs caractéristiques, effets et recommandations.",
+    "tips": {
+      "title": "Conseils de comparaison",
+      "items": [
+        "Comparez des variétés de la même catégorie pour des profils d'effet similaires",
+        "Comparez Heady vs. Heavy pour des expériences opposées",
+        "Faites attention aux différences de chémotype pour des aperçus scientifiques"
+      ]
+    },
+    "quickSelections": "Sélections rapides",
+    "suggestions": [
+      {
+        "label": "Heady vs. Heavy",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Classiques de Vanuatu",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Recommandation pour débutants",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

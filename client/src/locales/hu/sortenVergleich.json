@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Fajták összehasonlítása",
+    "subtitle": "Hasonlítsa össze a két Kava fajtát közvetlenül egymás mellett"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "sorten": "Fajták",
+    "current": "Összehasonlítás"
+  },
+  "ui": {
+    "selectVariety": "Válassza ki a fajtát...",
+    "firstVariety": "Első fajta",
+    "secondVariety": "Második fajta",
+    "toProfile": "A fajta profiljára",
+    "potency": "Hatékonyság",
+    "badgeInfo": "A <span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span> jelvények mutatják a különbséget a másik fajtához képest"
+  },
+  "categories": {
+    "heady": "Fejlesztő",
+    "balanced": "Kiegyensúlyozott",
+    "heavy": "Nehezen"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "Hatásprofil összehasonlítása"
+    },
+    "basicInfo": {
+      "title": "Alapvető információk"
+    },
+    "dosage": {
+      "title": "Ajánlott adagolás"
+    },
+    "applications": {
+      "title": "Alkalmazási területek"
+    },
+    "usageTimes": {
+      "title": "Fogyasztási időpontok"
+    },
+    "kavalactones": {
+      "title": "Kavalaktón profil"
+    },
+    "notes": {
+      "title": "Megjegyzések"
+    }
+  },
+  "effects": {
+    "euphoria": "Eufória",
+    "relaxation": "Ellazulás",
+    "sedation": "Nyugtatás",
+    "clarity": "Tisztaság",
+    "sociability": "Társaságiasság",
+    "anxiolysis": "Szorongásoldás"
+  },
+  "info": {
+    "chemotype": "Kémiai típus",
+    "duration": "Hatástartam",
+    "availability": "Elérhetőség",
+    "price": "Ár"
+  },
+  "dosageLabels": {
+    "beginner": "Kezdő",
+    "regular": "Rendszeres",
+    "experienced": "Tapasztalt"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "Válasszon két fajtát az összehasonlításhoz",
+    "description": "Használja a fenti legördülő menüket, hogy két Kava fajtát válasszon ki, és közvetlenül összehasonlítsa azok tulajdonságait, hatásait és ajánlásait.",
+    "tips": {
+      "title": "Összehasonlítási tippek",
+      "items": [
+        "Hasonlítsa össze az azonos kategóriájú fajtákat hasonló hatásprofilokért",
+        "Hasonlítsa össze a Fejlesztő és Nehezen fajtákat ellentétes élményekhez",
+        "Figyeljen a kémiai típusok közötti különbségekre tudományos betekintésért"
+      ]
+    },
+    "quickSelections": "Gyors választások",
+    "suggestions": [
+      {
+        "label": "Fejlesztő vs. Nehezen",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "Vanuatu klasszikusok",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "Kezdő ajánlás",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

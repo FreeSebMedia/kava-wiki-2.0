@@ -1,0 +1,265 @@
+{
+  "page": {
+    "title": "A Kémotípus-rendszer",
+    "subtitle": "Hogyan jósolja meg a 6-jegyű kód egy Kava-fajta hatását és különbözteti meg a Noblet a Tudeitől.",
+    "category": "Összetevők"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "inhaltsstoffe": "Összetevők",
+    "current": "Kémotípusok"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "einfuehrung": "Mi az a kémotípus?",
+    "nummerierung": "A kavalaktónok számozása",
+    "lesen": "Egy kémotípust olvasni",
+    "beispiele": "Példák és értelmezés",
+    "nobleTudei": "Noble Kava vs. Tudei Kava",
+    "erkennung": "Tudei-azonosítás a kémotípus alapján",
+    "wirkungsprofile": "Hatásprofilok kémotípus szerint",
+    "heady": "Heady Kavas",
+    "heavy": "Heavy Kavas",
+    "balanced": "Kiegyensúlyozott Kavas",
+    "qualitaet": "Kémotípus és minőségellenőrzés"
+  },
+  "einfuehrung": {
+    "paragraph1": "A <strong>kémotípus</strong> egy 6-jegyű kód, amely a hat fő kavalaktónt sorolja fel csökkenő koncentrációs sorrendben. Olyan, mint egy \"ujjlenyomat\" minden Kava-fajtához, és lehetővé teszi a várt hatás előrejelzését – még mielőtt egy kortyot innánk.",
+    "paragraph2": "Ezt a rendszert az 1980-as években Vincent Lebot fejlesztette ki, és ma már a Kava osztályozásának és minőségellenőrzésének nemzetközi szabványa. Ez a legfontosabb eszköz a magas minőségű \"Noble Kava\" és az alacsonyabb minőségű \"Tudei Kava\" megkülönböztetésére."
+  },
+  "nummerierung": {
+    "title": "A kavalaktónok számozása",
+    "intro": "Mind a hat fő kavalaktón egy számhoz van rendelve. Ez a besorolás történelmileg alakult ki, és a felfedezésük vagy kromatográfiás elúziójuk sorrendjén alapul:",
+    "tableHeaders": {
+      "digit": "Szám",
+      "kavalacton": "Kavalaktón",
+      "abbreviation": "Rövidítés",
+      "effect": "Fő hatás"
+    },
+    "tableData": [
+      {
+        "digit": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Fókusz, dopaminszint növelés"
+      },
+      {
+        "digit": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Izomlazítás, fájdalomcsillapítás"
+      },
+      {
+        "digit": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "CB1-aktivitás, eufória"
+      },
+      {
+        "digit": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Szorongásoldó, \"Heady\" hatás"
+      },
+      {
+        "digit": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Hosszú távú szedáció, Tudei-jelző"
+      },
+      {
+        "digit": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Szedáló, neuroprotektív"
+      }
+    ],
+    "mnemonic": "<strong>Segítség:</strong> A <strong>4</strong> (Kavain) és a <strong>2</strong> (Dihydrokavain) a \"jó\" kezdő pozíciók a Noble Kava számára. Az <strong>5</strong> (Dihydromethysticin) az első két helyen figyelmeztető jel a Tudei Kava számára."
+  },
+  "lesen": {
+    "title": "Egy kémotípust olvasni",
+    "intro": "A kémotípus 6-jegyű számként van írva, ahol minden pozíció a relatív koncentrációt jelzi:",
+    "positions": [
+      {
+        "rank": "1. hely",
+        "label": "Legmagasabb koncentráció",
+        "example": "4 = Kavain"
+      },
+      {
+        "rank": "2. hely",
+        "label": "Második legmagasabb",
+        "example": "2 = DHK"
+      },
+      {
+        "rank": "3. hely",
+        "label": "Harmadik legmagasabb",
+        "example": "6 = M"
+      },
+      {
+        "rank": "4. hely",
+        "label": "Negyedik legmagasabb",
+        "example": "5 = DHM"
+      },
+      {
+        "rank": "5. hely",
+        "label": "Ötödik legmagasabb",
+        "example": "3 = Y"
+      },
+      {
+        "rank": "6. hely",
+        "label": "Legalacsonyabb",
+        "example": "1 = DMY"
+      }
+    ]
+  },
+  "beispiele": {
+    "title": "Példák és értelmezés",
+    "examples": [
+      {
+        "code": "426531",
+        "type": "noble",
+        "label": "Tipikus Noble Kava (pl. Borogu)",
+        "description": "<strong>Kavain</strong> dominál, amit <strong>Dihydrokavain</strong> követ. A DHM (5) csak a 4. helyen áll. Várt hatás: Tiszta, fókuszált relaxáció jó izomlazítással. Nincs \"másnaposság\"."
+      },
+      {
+        "code": "246531",
+        "type": "noble",
+        "label": "Noble Kava, testközpontú (pl. Palarasul)",
+        "description": "<strong>Dihydrokavain</strong> az első helyen erősebb fizikai relaxációt jelent. Ideális este. Még mindig Noble, mivel a DHM (5) messze hátra van."
+      },
+      {
+        "code": "526431",
+        "type": "tudei",
+        "label": "Tudei Kava (pl. Isa)",
+        "description": "<strong>DHM (5)</strong> az első helyen egyértelmű figyelmeztető jel. Várt hatás: Nagyon hosszú szedáció (12+ óra), lehetséges hányinger, \"másnaposság\" másnap. Nem alkalmas rendszeres fogyasztásra."
+      },
+      {
+        "code": "256431",
+        "type": "bad",
+        "label": "Tudei Kava (pl. Palimanu)",
+        "description": "<strong>DHM (5)</strong> a 2. helyen szintén problémás. Bár a DHK (2) elöl áll, a magas DHM-tartalom miatt ez a fajta nem alkalmas exportálásra és rendszeres fogyasztásra."
+      }
+    ]
+  },
+  "nobleTudei": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "intro": "A <strong>Noble Kava</strong> (Edelkava) és a <strong>Tudei Kava</strong> (Kétnapos Kava) megkülönböztetése alapvető fontosságú a Kava minősége szempontjából. A \"Tudei\" név onnan ered, hogy ezeknek a fajtáknak a hatása akár két napig is eltarthat – kellemetlen mellékhatásokkal.",
+    "tableHeaders": {
+      "criterion": "Kritérium",
+      "noble": "Noble Kava",
+      "tudei": "Tudei Kava"
+    },
+    "tableData": [
+      {
+        "criterion": "Kémotípus kezdete",
+        "noble": "4 vagy 2-vel kezdődik, soha nem 5-tel",
+        "tudei": "Gyakran 5-tel kezdődik vagy 5-öt tartalmaz a 2. helyen"
+      },
+      {
+        "criterion": "Hatáskezdet",
+        "noble": "Gyors (10-20 perc)",
+        "tudei": "Késleltetett (30-90 perc)"
+      },
+      {
+        "criterion": "Hatás időtartama",
+        "noble": "Mérsékelt (3-6 óra)",
+        "tudei": "Nagyon hosszú (6-12+ óra)"
+      },
+      {
+        "criterion": "Hatás jellege",
+        "noble": "Tiszta, ellazult, társaságkedvelő",
+        "tudei": "Tompa, szedáló, zavarodott"
+      },
+      {
+        "criterion": "Mellékhatások",
+        "noble": "Minimális helyes elkészítés esetén",
+        "tudei": "Hányinger, fejfájás, \"másnaposság\""
+      },
+      {
+        "criterion": "Exportengedély",
+        "noble": "Igen (szabályozott)",
+        "tudei": "Nem (Vanuatu-ban tilos)"
+      },
+      {
+        "criterion": "Példa fajták",
+        "noble": "Borogu, Melo Melo, Kelai, Bir Kar",
+        "tudei": "Isa, Palimanu, Vadkava"
+      }
+    ]
+  },
+  "erkennung": {
+    "title": "Tudei-azonosítás a kémotípus alapján",
+    "intro": "A Tudei Kava azonosításának legegyszerűbb szabálya:",
+    "warningTitle": "Figyelmeztető jelek",
+    "warnings": [
+      "<strong>5</strong> az 1. vagy 2. helyen",
+      "<strong>5</strong> a <strong>4</strong> előtt a kémotípusban",
+      "Nagyon magas DHM-összetevő (>15%)"
+    ],
+    "safeTitle": "Biztonságos jelek",
+    "safeIndicators": [
+      "<strong>4</strong> vagy <strong>2</strong> az 1. helyen",
+      "<strong>5</strong> a 4., 5. vagy 6. helyen",
+      "Kavain dominancia (>30%)"
+    ]
+  },
+  "wirkungsprofile": {
+    "title": "Hatásprofilok kémotípus szerint",
+    "intro": "A kémotípus alapján a Noble Kava fajták három fő kategóriába sorolhatók:"
+  },
+  "heady": {
+    "title": "Heady Kavas",
+    "icon": "🧠",
+    "chemotypes": "423xxx, 463xxx",
+    "description": "A Heady Kavas-nak <strong>Kavain (4)</strong> az első helyén, és elsősorban mentális hatásuk van. Fokozzák a fókuszt, a tisztaságot és a kellemes hangulatjavítást anélkül, hogy erősen szedálnának.",
+    "idealTitle": "Ideális:",
+    "idealFor": [
+      "Társasági események és beszélgetések",
+      "Kreatív munka",
+      "Nappal vagy korai estén",
+      "Kezdők (enyhébb hatás)"
+    ],
+    "examples": "<strong>Példa fajták:</strong> Melo Melo, Kelai, Poivré"
+  },
+  "heavy": {
+    "title": "Heavy Kavas",
+    "icon": "💪",
+    "chemotypes": "246xxx, 264xxx",
+    "description": "A Heavy Kavas-nak <strong>Dihydrokavain (2)</strong> az első helyén, és elsősorban a testre hatnak. Erős izomlazítást kínálnak, és ideálisak a kikapcsolódásra egy hosszú nap után.",
+    "idealTitle": "Ideális:",
+    "idealFor": [
+      "Esti relaxáció",
+      "Stresszcsökkentés és izomlazítás",
+      "Alvás előkészítése",
+      "Tapasztalt Kava fogyasztók"
+    ],
+    "examples": "<strong>Példa fajták:</strong> Borogu, Palarasul, Palasa"
+  },
+  "balanced": {
+    "title": "Kiegyensúlyozott Kavas",
+    "icon": "⚖️",
+    "chemotypes": "423615, 426315",
+    "description": "A Kiegyensúlyozott Kavas kiegyensúlyozott eloszlással rendelkeznek Kavain és Dihydrokavain között, és mind mentális tisztaságot, mind fizikai relaxációt kínálnak. Ezek a legváltozatosabb fajták.",
+    "idealTitle": "Ideális:",
+    "idealFor": [
+      "Napi használatra",
+      "Meditáció és tudatosság",
+      "Sokoldalú felhasználás (nap vagy este)",
+      "Minden tapasztalati szinten"
+    ],
+    "examples": "<strong>Példa fajták:</strong> Bir Kar, Melomelo (tételtől függően)"
+  },
+  "qualitaet": {
+    "title": "Kémotípus és minőségellenőrzés",
+    "intro": "A kémotípus ma a legfontosabb eszköz a <strong>minőségellenőrzés</strong> terén a nemzetközi Kava kereskedelemben. Vanuatu-ban, a legnagyobb Kava-exportőr országban, a kémotípus elemzése törvényileg kötelező, mielőtt Kava-t exportálhatnának.",
+    "lawTitle": "Vanuatu Kava Törvény (2002)",
+    "lawText": "A Vanuatu Kava Törvény előírja, hogy csak <strong>Noble Kava fajták</strong> exportálhatók. A Tudei fajták és azok keverékei nem exportálhatók. A megfelelőséget kémotípus-elemzésekkel ellenőrzik.",
+    "lawNote": "Ez az egyik oka annak, hogy a Vanuatu-ból származó Kava különösen magas minőségűnek számít – állami minőségellenőrzések vannak, amelyek a Tudei szennyeződés megelőzésére szolgálnak.",
+    "consumerTip": "<strong>Fogyasztói tipp:</strong> A megbízható Kava kereskedők megadják termékeik kémotípusát, vagy kérésre közlik azt. Ha egy kereskedő nem tud kémotípus-információt adni, akkor érdemes óvatosnak lenni."
+  },
+  "navigation": {
+    "nextCategory": "Tovább a következő kategóriához:",
+    "sortenTitle": "Fajták és változatok",
+    "sortenDescription": "Több mint 80 dokumentált Kava-fajta és azok jellemzői"
+  }
+}

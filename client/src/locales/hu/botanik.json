@@ -1,0 +1,105 @@
+{
+  "page": {
+    "title": "A <em>Piper methysticum</em> botanikája",
+    "subtitle": "Mély betekintés a Kava-növény taxonómiájába, morfológiájába és ökológiájába.",
+    "category": "Botanika"
+  },
+  "toc": {
+    "einfuehrung": "Bevezetés",
+    "klassifikation": "Tudományos osztályozás",
+    "ueberblick": "Morfológiai áttekintés",
+    "verbreitung": "Elterjedés és élőhely",
+    "vertiefung": "Részletes cikkek"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong>, közismert nevén Kava vagy Kava-Kava, egy trópusi cserje a borsfélék családjából (Piperaceae). A <em>Piper methysticum</em> név fordításban \"mámorító borsot\" jelent (görögből <em>methystikos</em> = mámorító).",
+    "paragraph2": "Sok más pszichoaktív növénnyel ellentétben a Kava nem alkaloidokat tartalmaz fő hatóanyagként, hanem egy egyedülálló vegyületosztályt, amelyet <strong>Kavalactonoknak</strong> neveznek. A növény évezredek óta központi szerepet játszik a csendes-óceáni kultúrákban, és ma az évezredes emberi szelekció eredménye."
+  },
+  "classification": {
+    "title": "Tudományos osztályozás",
+    "headers": {
+      "rank": "Rang",
+      "name": "Tudományos név"
+    },
+    "ranks": {
+      "reich": "Ország",
+      "abteilung": "Törzs",
+      "ordnung": "Rend",
+      "familie": "Család",
+      "gattung": "Nemzetség",
+      "art": "Faj"
+    },
+    "values": {
+      "reich": "Plantae (növények)",
+      "abteilung": "Tracheophyta (edényes növények)",
+      "ordnung": "Piperales (borsófélék)",
+      "familie": "Piperaceae (borsfélék)",
+      "gattung": "Piper (bors)",
+      "art": "Piper methysticum G. Forst."
+    },
+    "note": "A legszorosabban rokon faj a <em>Piper wichmannii</em>, amely a mai kultivált Kava-növény vad ősi formájának számít. Míg a <em>P. wichmannii</em> (gyakran \"Vad Kava\" néven emlegetik) szexuálisan szaporodhat, a kultivált <em>P. methysticum</em> steril és teljes mértékben az emberre támaszkodik."
+  },
+  "morphology": {
+    "title": "Morfológiai áttekintés",
+    "intro": "A Kava egy évelő, örökzöld cserje, amely jellemzően 1,5-3 méter magasra nő, optimális körülmények között azonban akár 5 méter magasra is megnőhet.",
+    "aboveGround": {
+      "title": "Föld feletti részek",
+      "leaves": "<strong>Levelek:</strong> Nagy, szív alakú (cordat), 20-30 cm széles",
+      "stems": "<strong>Szárak:</strong> Csomós, bambuszra hasonlító, fajtára jellemző szín",
+      "flowers": "<strong>Virágok:</strong> Füzérszerű, steril (nincs mag)"
+    },
+    "belowGround": {
+      "title": "Föld alatti részek",
+      "stump": "<strong>Képződmény (Corm):</strong> Vastag, fás gyökérzet",
+      "roots": "<strong>Oldalgyökerek (Waka):</strong> Finomabb gyökerek, legmagasabb Kavalacton-tartalommal",
+      "weight": "<strong>Súly:</strong> 5-25 kg érett növényeknél (3-5+ év)"
+    }
+  },
+  "distribution": {
+    "title": "Elterjedés és élőhely",
+    "intro": "A Kava a nyugati Csendes-óceánban őshonos. Az eredeti területét az északi Vanuatu-ban feltételezik, ahol a legnagyobb genetikai sokféleség található. Onnan a növényt polinéz tengerészek (\"Canoe Plants\") terjesztették el az egész Csendes-óceánon.",
+    "regionsIntro": "Ma a Kava főként az alábbi régiókban termesztik:",
+    "regions": {
+      "vanuatu": "<strong>Vanuatu:</strong> A világ legnagyobb termelője, több mint 80 különböző fajtával.",
+      "fiji": "<strong>Fidzsi:</strong> Ismert a \"Waka\" (gyökerek) és \"Lewena\" (alapstam) miatt.",
+      "tonga": "<strong>Tonga:</strong> Nagyon enyhe, \"krémes\" Kava-t termel (pl. Pouni Ono).",
+      "samoa": "<strong>Samoa:</strong> A Kava itt 'Ava.",
+      "hawaii": "<strong>Hawaii:</strong> A Kava itt 'Awa (pl. Moi, Mahakea).",
+      "pohnpei": "<strong>Pohnpei és Mikronézia:</strong> Ismert a friss Kava lé (\"Sakau\") fogyasztásáról."
+    }
+  },
+  "subpages": {
+    "title": "Részletes cikkek",
+    "intro": "Fedezze fel az alábbi aloldalakat a Kava botanikájának specifikus aspektusairól szóló részletes információkért.",
+    "pflanze": {
+      "title": "A növény",
+      "description": "Taxonómia, nomenklatúra és a <em>Piper methysticum</em> és vad ősi formája, a <em>Piper wichmannii</em> közötti kapcsolat.",
+      "topics": [
+        "Taxonómiai besorolás",
+        "A név jelentősége",
+        "Domesztikáció és evolúció",
+        "Kava mint élő kulturális örökség"
+      ]
+    },
+    "morphologie": {
+      "title": "Morfológia",
+      "description": "A Kava növény részletes anatómiája, különös figyelmet fordítva a gazdaságilag jelentős gyökérzetre.",
+      "topics": [
+        "Gyökérzet (Képződmény és Waka)",
+        "Kavalacton eloszlás",
+        "Szárak és levelek",
+        "Virágok és sterilitas"
+      ]
+    },
+    "anbau": {
+      "title": "Termesztés és ökológia",
+      "description": "Növekedési feltételek, szaporítási módszerek és a hagyományos Kava termesztés művészete.",
+      "topics": [
+        "Vegetatív szaporítás",
+        "Éghajlati követelmények",
+        "Talajminőség",
+        "Betakarítás és minőségi tényezők"
+      ]
+    }
+  }
+}

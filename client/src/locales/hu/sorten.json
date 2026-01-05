@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "Fajták és Kultivárok",
+    "subtitle": "Átfogó útmutató a Kava-fajták világában: Borogu-tól Pouni Ono-ig, Heady-től Heavy-ig.",
+    "category": "Fajták",
+    "breadcrumb": {
+      "home": "Főoldal",
+      "current": "Fajták"
+    }
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Bevezetés",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "Noble Kava vs. Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "A három hatástípus",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "Termesztési régiók",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "Melyik fajta illik hozzám?",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "Mélyebb cikkek",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "Ma már <strong>több mint 100 dokumentált Kava-fajta</strong> létezik, amelyek származása, kémiai típusa és hatása jelentősen eltérhet. Csak Vanuatu-ban, a növény feltételezett őshazájában, több mint 80 különböző kultivár ismert. Ez a sokféleség több mint 3000 évnyi célzott szelekció eredménye a csendes-óceáni kultúrák által.",
+      "text": "A fajták közötti különbségek nem csupán tudományos jellegűek – alapvetően meghatározzák, hogy milyen hatást fejt ki egy Kava-ital. Egy <a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Kelai Vanuatu-ból</a> teljesen másképp hat, mint egy <a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Loa Waka Fidzsről</a>. E különbségek megértése a kulcs a tudatos és kielégítő Kava-élményhez."
+    },
+    "nobleTudei": {
+      "title": "Noble Kava vs. Tudei Kava",
+      "intro": "A legfontosabb megkülönböztetés, amelyet minden Kava-fogyasztónak ismernie kell, a <strong>Noble Kava</strong> (nemes kava) és a <strong>Tudei Kava</strong> közötti különbség. Ezt a klasszifikációt Vanuatu kormánya vezette be, és a <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kémiai típus</a> alapján történik.",
+      "noble": {
+        "title": "Noble Kava (nemes kava)",
+        "items": [
+          "Évszázadok óta szelektálva kellemes hatásra",
+          "Kémiai típus  <strong>2</strong>-vel vagy <strong>4</strong>-gyel kezdődik, soha nem 5-tel vagy 6-tal",
+          "Hatáskezdet: 10-20 perc",
+          "Hatásidő: 3-6 óra, tisztán cseng le",
+          "Nincs \"másnaposság\" másnap",
+          "Biztonságos a rendszeres használatra"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava (Két Nap)",
+        "items": [
+          "Kémiai típus <strong>5</strong>-tel vagy <strong>6</strong>-tal kezdődik (DHM-domináns)",
+          "Hatáskezdet: 30-90 perc (késlekedve)",
+          "Hatás rendkívül hosszú ideig tart (akár 2 napig)",
+          "Gyakran hányingert és lethargiát okoz",
+          "\"Másnaposság\" érzés másnap",
+          "Vanuatu-ban exportálni tilos"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "Vásárláskor ügyeljen arra, hogy a kereskedő megadja a kémiai típust és a pontos fajtát. Ez a transzparencia jó jel az autentikus Noble Kava számára.",
+      "linkText": "Tudjon meg többet a Noble és Tudei közötti különbségről"
+    },
+    "wirktypen": {
+      "title": "A három hatástípus",
+      "intro": "A Noble Kava-fajtákat domináló hatásuk alapján három kategóriába sorolják. Ez a besorolás a <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kémiai típus</a> – azaz a hat fő <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalacton</a> relatív koncentrációja alapján történik.",
+      "heady": {
+        "title": "Heady",
+        "description": "Fejdomináló hatás: eufória, mentális tisztaság, társasági kedv. Ideális napközben és társas eseményekhez.",
+        "chemotype": "Gyakran 4-gyel (Kavain) vagy 2-vel (DHK) kezdődik",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "Hangulat & Társaság"
+      },
+      "balanced": {
+        "title": "Balanced",
+        "description": "Kiegyensúlyozott hatás: ellazulás fáradtság nélkül, mentális nyugalom testi jóléttel.",
+        "chemotype": "Kiegyensúlyozott arány 4, 2 és 3 között",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "Szorongásoldás"
+      },
+      "heavy": {
+        "title": "Heavy",
+        "description": "Testdomináló hatás: mély izomlazulás, szedáció, ideális estékre és alváshoz.",
+        "chemotype": "Magas DHK-arány (2) az 1-2. helyen",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "Alvás & Ellazulás"
+      },
+      "calculatorLink": "Kémiai típus kalkulátor: Elemezze minden kémiai típust"
+    },
+    "regionen": {
+      "title": "Termesztési régiók áttekintése",
+      "intro": "A Kava ma különböző csendes-óceáni régiókban kerül termesztésre. Minden régió saját fajtáit fejlesztette ki, amelyek alkalmazkodtak a helyi éghajlathoz és a kulturális preferenciákhoz.",
+      "tableHeaders": {
+        "region": "Régió",
+        "count": "Fajták száma",
+        "localName": "Helyi név",
+        "varieties": "Ismert fajták",
+        "characteristics": "Jellemzők"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "A legnagyobb sokféleség, az őshazája"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "Gyakran nehezebb, jó feldolgozás"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "Mind Noble, inkább heady"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "Nagyon erős, drága"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "Hagyományos, ceremoniális"
+        },
+        {
+          "region": "Pápua Új-Guinea",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "Az egyetlen Noble fajta"
+        }
+      ],
+      "vanuatuLink": "Fajták Vanuatu-ból",
+      "pazifikLink": "Fajták Fidzsről, Tongáról & Hawaii-ról"
+    },
+    "auswahl": {
+      "title": "Melyik fajta illik hozzám?",
+      "intro": "A megfelelő Kava-fajta kiválasztása a kívánt hatástól és a napszaktól függ. Íme egy iránymutatás:",
+      "recommendations": [
+        {
+          "purpose": "Társas eseményekhez",
+          "type": "Heady",
+          "description": "Válasszon egy <strong>Heady</strong> Kava-t:",
+          "varieties": [
+            "Kelai (Vanuatu)",
+            "Pouni Ono (Tonga)",
+            "Moi (Hawaii)"
+          ]
+        },
+        {
+          "purpose": "Stressz és szorongás ellen",
+          "type": "Balanced",
+          "description": "Válasszon egy <strong>Balanced</strong> Kava-t:",
+          "varieties": [
+            "Melo Melo (Vanuatu)",
+            "Bir Kar (Vanuatu)",
+            "Borogu (Vanuatu)"
+          ]
+        },
+        {
+          "purpose": "Izomlazításhoz",
+          "type": "Heavy",
+          "description": "Válasszon egy <strong>Heavy</strong> Kava-t:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Palarasul (Vanuatu)",
+            "Loa Waka (Fiji)"
+          ]
+        },
+        {
+          "purpose": "Alvás segítésére",
+          "type": "Heavy",
+          "description": "Válasszon egy <strong>Heavy</strong> Kava-t:",
+          "varieties": [
+            "Palasa (Vanuatu)",
+            "Loa Waka (Fiji)",
+            "Ambae (Vanuatu)"
+          ]
+        }
+      ],
+      "tip": "Kezdje egy <strong>Balanced</strong> Kava-val, mint a Melo Melo vagy Borogu. Ezek a fajták kellemes, kiegyensúlyozott élményt nyújtanak, anélkül, hogy szélsőséges hatásokat okoznának.",
+      "tipLabel": "Tipp kezdőknek:"
+    },
+    "unterseiten": {
+      "title": "Mélyebb cikkek",
+      "intro": "Fedezze fel a Kava-fajták egyes aspektusait a szakosodott aloldalainkon:"
+    }
+  },
+  "subpages": [
+    {
+      "title": "Noble Kava vs. Tudei",
+      "description": "A legfontosabb megkülönböztetés: Miért biztonságos a Noble Kava, és miért kell kerülni a Tudei-t.",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "Fajták Vanuatu-ból",
+      "description": "Több mint 80 fajta a Kava hazájából: Borogu, Melo Melo, Kelai, Palasa és még sok más.",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "Fajták Fidzsről, Tongáról & Hawaii-ról",
+      "description": "Regionális specialitások: Loa Waka, Pouni Ono, 'Awa Moi és egyedi jellemzőik.",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "Fajták részletesen",
+      "description": "Részletes adatlapok a legfontosabb fajtákról kémiai típusokkal, hatásokkal és ajánlásokkal.",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "Vissza",
+      "title": "Összetevők"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "Tovább",
+      "title": "Elkészítés"
+    }
+  }
+}

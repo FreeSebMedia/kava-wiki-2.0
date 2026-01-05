@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "A növény",
+    "subtitle": "Taxonómia, nomenklatúra és a kapcsolat a Piper methysticum és vad őse között.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "pflanze": "A növény"
+  },
+  "toc": {
+    "taxonomie": "Taxonómiai besorolás",
+    "name": "A név jelentése",
+    "wichmannii": "Piper wichmannii – A vad ősváltozat",
+    "unterschiede": "Különbségek a kultivált fajhoz képest",
+    "domestikation": "Domesztikáció és evolúció",
+    "kulturgut": "A Kava mint élő kulturális örökség"
+  },
+  "intro": {
+    "paragraph1": "<strong>Piper methysticum</strong> nem egy szokványos haszonnövény. Az évezredek óta tartó emberi szelekció eredménye, és ma kizárólag kultivált formában létezik. Vad populációk már nem léteznek – a világ minden Kava növénye egy klón, amelyet emberi kéz továbbított."
+  },
+  "taxonomie": {
+    "title": "Taxonómiai besorolás",
+    "intro": "A Kava a <strong>Piperaceae</strong> családba tartozik, amely a legősibb virágos növénycsaládok egyike. Ez a család körülbelül 3.600 fajt tartalmaz 5 nemzetségben, beleértve a jól ismert fekete borsot (<em>Piper nigrum</em>).",
+    "table": {
+      "headers": {
+        "rank": "Taxonómiai rang",
+        "classification": "Klasszifikáció",
+        "note": "Megjegyzés"
+      },
+      "rows": {
+        "reich": {
+          "rank": "Ország",
+          "classification": "Plantae",
+          "note": "Növények"
+        },
+        "unterreich": {
+          "rank": "Alország",
+          "classification": "Tracheobionta",
+          "note": "Vezetékes növények"
+        },
+        "abteilung": {
+          "rank": "Tanszék",
+          "classification": "Magnoliophyta",
+          "note": "Zárt magvak"
+        },
+        "klasse": {
+          "rank": "Osztály",
+          "classification": "Magnoliopsida",
+          "note": "Kétlevelűek"
+        },
+        "ordnung": {
+          "rank": "Rend",
+          "classification": "Piperales",
+          "note": "Borsfélék"
+        },
+        "familie": {
+          "rank": "Család",
+          "classification": "Piperaceae",
+          "note": "Borsfélék"
+        },
+        "gattung": {
+          "rank": "Nemzetség",
+          "classification": "<em>Piper</em> L.",
+          "note": "Körülbelül 2.000 faj világszerte"
+        },
+        "art": {
+          "rank": "Faj",
+          "classification": "<em>Piper methysticum</em> G. Forst.",
+          "note": "Első leírás 1786"
+        }
+      }
+    },
+    "forster": "Az első leírást 1786-ban <strong>Johann Georg Adam Forster</strong>, egy német természettudós végezte, aki James Cookot kísérte második világkörüli útján. Forster dokumentálta a növényt és annak használatát a csendes-óceáni szigeteken."
+  },
+  "name": {
+    "title": "A név jelentése",
+    "intro": "A tudományos név <em>Piper methysticum</em> egy latin és görög kombináció:",
+    "piper": {
+      "title": "Piper",
+      "description": "Latinul \"bors\". Utal a borsfélék családjába való tartozásra és a gyökér enyhén csípős ízére."
+    },
+    "methysticum": {
+      "title": "methysticum",
+      "description": "A görög <em>μεθυστικός</em> (methystikos) = \"mámoros\" vagy \"ittasító\". Leírja a növény pszichoaktív hatását."
+    },
+    "localNames": {
+      "intro": "A \"Kava\" név maguk az óceániai nyelvekből származik. Különböző régiókban eltérő elnevezések léteznek:",
+      "headers": {
+        "region": "Régió",
+        "name": "Helyi név",
+        "meaning": "Jelentés"
+      },
+      "rows": {
+        "vanuatu": {
+          "region": "Vanuatu",
+          "name": "Kava, Malok",
+          "meaning": "\"Keserű\""
+        },
+        "fiji": {
+          "region": "Fiji",
+          "name": "Yaqona",
+          "meaning": "\"Keserű gyökér\""
+        },
+        "tonga": {
+          "region": "Tonga",
+          "name": "Kava",
+          "meaning": "\"Csípős, keserű\""
+        },
+        "samoa": {
+          "region": "Samoa",
+          "name": "'Ava",
+          "meaning": "\"Keserű\""
+        },
+        "hawaii": {
+          "region": "Hawaii",
+          "name": "'Awa",
+          "meaning": "\"Keserű\""
+        },
+        "pohnpei": {
+          "region": "Pohnpei",
+          "name": "Sakau",
+          "meaning": "\"Kava-ital\""
+        }
+      }
+    }
+  },
+  "wichmannii": {
+    "title": "Piper wichmannii – A vad ősváltozat",
+    "intro": "A <em>Piper methysticum</em> legközelebbi rokonfaja a <strong>Piper wichmannii</strong>, amely a mai kultivált Kava vad ősváltozatának számít. Ez a faj természetesen előfordul Pápua Új-Guineában, a Salamon-szigeteken és Észak-Vanuatun.",
+    "alert": "<strong>Fontos:</strong> A <em>Piper wichmannii</em> néha \"Vad Kava\" néven ismert, és helyben fogyasztják. Azonban más kavalaktontartalommal rendelkezik, és kevésbé tolerálható, mint a kultivált nemes kava fajták.",
+    "differences": {
+      "title": "Különbségek a P. methysticum és P. wichmannii között",
+      "headers": {
+        "feature": "Jellemző",
+        "methysticum": "<em>P. methysticum</em> (kultivált)",
+        "wichmannii": "<em>P. wichmannii</em> (vad)"
+      },
+      "rows": {
+        "fortpflanzung": {
+          "feature": "Szaporodás",
+          "methysticum": "Steril, csak vegetatívan",
+          "wichmannii": "Fertilis, magokat termel"
+        },
+        "chromosomen": {
+          "feature": "Kromoszómaszám",
+          "methysticum": "Dekaploid (2n = 130)",
+          "wichmannii": "Diploid (2n = 26)"
+        },
+        "kavalacton": {
+          "feature": "Kavalacton-tartalom",
+          "methysticum": "Magasabb, optimalizált",
+          "wichmannii": "Alacsonyabb, változó"
+        },
+        "chemotyp": {
+          "feature": "Kémiai típus",
+          "methysticum": "Toleranciára szelektált",
+          "wichmannii": "Gyakran \"Tudei\"-szerű"
+        },
+        "verbreitung": {
+          "feature": "Elterjedés",
+          "methysticum": "Csak emberek által",
+          "wichmannii": "Természetes elterjedés"
+        },
+        "nutzung": {
+          "feature": "Hagyományos használat",
+          "methysticum": "Évezredek óta dokumentált",
+          "wichmannii": "Korlátozott, gyakran kerülendő"
+        }
+      }
+    }
+  },
+  "domestikation": {
+    "title": "Domesztikáció és evolúció",
+    "intro": "A Kava domesztikációja valószínűleg körülbelül <strong>3.000 éve</strong> kezdődött Észak-Vanuatun. Genetikai tanulmányok azt mutatják, hogy a <em>Piper methysticum</em> a <em>Piper wichmannii</em> ismételt hibridizációja és poliploidizációja révén alakult ki.",
+    "changes": "A domesztikáció folyamata számos döntő változást eredményezett:",
+    "cards": {
+      "polyploidie": {
+        "title": "Megnövekedett poliploiditás",
+        "description": "Míg a <em>P. wichmannii</em> diploid (2n = 26), a <em>P. methysticum</em> dekaploid (2n = 130). Ez a kromoszómaszám megduplázódása nagyobb gyökerekhez és magasabb kavalacton-tartalomhoz vezetett."
+      },
+      "fertilitaet": {
+        "title": "Fertilitás elvesztése",
+        "description": "A magas poliploiditás sterilitáshoz vezetett. A növény ugyan virágokat termel, de életképes magokat nem. Ez teljesen az emberre tette őt függővé."
+      },
+      "wirkprofil": {
+        "title": "Optimalizált hatásprofil",
+        "description": "Célzott szelekció révén olyan fajtákat részesítettek előnyben, amelyek kellemesebb hatással és jobb toleranciával rendelkeztek. Ez vezetett a mai \"nemes kava\" fajták megjelenéséhez."
+      },
+      "sortenvielfalt": {
+        "title": "Fajta sokféleség",
+        "description": "Ma több mint 80 dokumentált kultivár létezik csupán Vanuatun. Minden fajta egyedi kémiai profilal és jellegzetes hatásmechanizmussal rendelkezik."
+      }
+    }
+  },
+  "kulturgut": {
+    "title": "A Kava mint élő kulturális örökség",
+    "paragraph1": "Mivel a Kava nem képes önállóan szaporodni, minden ma létező növény az emberi átadás megszakítás nélküli láncolatának eredménye. A dugványokat generációról generációra, családról családra, faluról falura adták tovább.",
+    "quote": {
+      "text": "A Kava így az egyik legősibb dokumentált példája a tudatos szelektív mezőgazdaságnak a Dél-Csendes-óceánban. A növény egy élő kulturális örökség – generációról generációra továbbadva.",
+      "author": "Sebastian Freidank, \"Kava – A nyugalom gyökere\""
+    },
+    "paragraph2": "A származási országokban a Kava nemcsak haszonnövényként van jelen, hanem gyakran egy <strong>élő lényként</strong> is – névvel, karakterrel és történettel. Nem szokatlan, hogy egyes növényeket elneveznek és rituálékban tisztelnek. Ez a mély kapcsolat az ember és a növény között teszi a Kava-t nemcsak hatékonnyá, hanem jelentőségteljesé is.",
+    "paragraph3": "Az emberi függőségnek van árnyoldala is: folyamatos kultiválás nélkül a <em>Piper methysticum</em> egy generáción belül kihalna. Ez hangsúlyozza a Kava termesztésével és kereskedelmével járó felelősséget."
+  },
+  "navigation": {
+    "nextChapter": "Tovább a botanika fejezetben:",
+    "morphologie": {
+      "title": "Morfológia",
+      "description": "A Kava növény anatómiája és gyökérzete"
+    }
+  }
+}

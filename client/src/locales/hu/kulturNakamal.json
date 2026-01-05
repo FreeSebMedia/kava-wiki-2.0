@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Nakamal & Kava-Bárok",
+    "subtitle": "A hagyományos gyülekezeti házaktól a modern Kava-bárokig – a Kava-kultúra társadalmi architektúrája",
+    "category": "Kultúra"
+  },
+  "breadcrumbs": {
+    "home": "Főoldal",
+    "kultur": "Kultúra",
+    "current": "Nakamal"
+  },
+  "toc": {
+    "einfuehrung": "Bevezetés",
+    "traditionell": "Hagyományos Nakamal",
+    "atmosphaere": "Hangulat & Szabályok",
+    "architektur": "Architektúra",
+    "modern": "Modern Kava-bárok",
+    "regionen": "Regionális Különbségek",
+    "etikette": "Nakamal Etikett",
+    "besuch": "Egy Nakamal meglátogatása"
+  },
+  "intro": {
+    "lead": "A <strong>Nakamal</strong> sokkal több, mint egy hely, ahol Kava-t isznak – Vanuatu társadalmi életének szíve és a Kava-bárok modellje világszerte.",
+    "p1": "A melanéz kultúrában a Nakamal gyülekezeti házként, közösségi központként és szellemi helyként szolgál. Itt oldják meg a konfliktusokat, mesélnek történeteket, szövetségeket kötnek és ápolják az ősökkel való kapcsolatot.",
+    "p2": "Ma Vanuatu hagyományos Nakamalai mellett modern Kava-bárok találhatók Port Vilában, Suvában, Aucklandben és még nyugati városokban, mint Melbourne, Los Angeles és Berlin. Mindegyik közös elveket oszt: nyugalom, tisztelet és közösség."
+  },
+  "traditional": {
+    "title": "A hagyományos Nakamal",
+    "intro": "A Vanuatu hagyományos falusi közösségeiben a Nakamal a <strong>központi gyülekezeti hely</strong> – egy hely, amely gyakran csak férfiak számára fenntartott (bár ez a városi területeken változik).",
+    "functionsTitle": "A Nakamal funkciói",
+    "functions": [
+      {
+        "icon": "users",
+        "title": "Közösségi találkozóhely",
+        "desc": "Napi gyülekezeti hely a falusiak számára munka után"
+      },
+      {
+        "icon": "scale",
+        "title": "Konfliktusmegoldás",
+        "desc": "Vita esetén Kava hatása alatt békésen rendezik a nézeteltéréseket"
+      },
+      {
+        "icon": "landmark",
+        "title": "Politikai tanácskozás",
+        "desc": "Fontos falusi döntéseket tárgyalnak a Nakamalban"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Szellemi kapcsolat",
+        "desc": "Kapcsolatfelvétel az ősök szellemeivel rituális Kava-ceremóniákon"
+      },
+      {
+        "icon": "book",
+        "title": "Tudás átadása",
+        "desc": "Szóbeli hagyományok történetek, mítoszok és kastom átadásával"
+      },
+      {
+        "icon": "handshake",
+        "title": "Vendégszeretet",
+        "desc": "Vendégek fogadása és szövetségek megpecsételése"
+      }
+    ],
+    "genderNote": "Hagyományosan a Nakamal egy <strong>férfi tér</strong>. Sok faluban a nők számára tilos belépni a Nakamalba vagy Kava-t inni. Ez a hagyomány azonban szigetről szigetre változik, és a városi területeken egyre inkább enyhül."
+  },
+  "atmosphere": {
+    "title": "Hangulat & Szabályok",
+    "intro": "A Nakamal a <strong>nyugalom és kontempláció</strong> helye. A hangulat alapvetően eltér a nyugati bároktól.",
+    "rulesTitle": "A Nakamal szabályai",
+    "rules": [
+      {
+        "rule": "Csendesen beszélni",
+        "explanation": "A hangos beszélgetések és nevetés nem megfelelőek – halkan beszélnek"
+      },
+      {
+        "rule": "Tompa fény",
+        "explanation": "A Kava fényérzékennyé teszi a szemet (\"Kava-szemek\") – a világos fényt elkerülik"
+      },
+      {
+        "rule": "Nincs hangos zene",
+        "explanation": "A csend vagy halk hagyományos hangok a norma"
+      },
+      {
+        "rule": "Tiszteletteljes bánásmód",
+        "explanation": "A vita és agresszív viselkedés tabu"
+      },
+      {
+        "rule": "Nincs étkezés",
+        "explanation": "Hagyományosan a Nakamalban nem esznek – Kava-t éhgyomorra isszák"
+      },
+      {
+        "rule": "Minimális tartózkodás",
+        "explanation": "Egy ideig ott maradnak és több tálat isznak, mielőtt távoznak"
+      }
+    ],
+    "sensoryBox": {
+      "title": "Az érzéki élmény",
+      "sight": "Szürkület, gyakran csak gyertyák vagy gyenge lámpák",
+      "sound": "Tompa hangok, tücskök ciripelése, a kókuszhéjak halk kopogása",
+      "smell": "Földes Kava illat, trópusi éjszakai levegővel keveredve",
+      "taste": "A friss Kava csípős, földes íze",
+      "feel": "A fokozódó ellazulás, a közösség érzése"
+    }
+  },
+  "architecture": {
+    "title": "A Nakamal architektúrája",
+    "intro": "A hagyományos Nakamalok egyszerű, de funkcionális struktúrák, amelyek alkalmazkodnak a trópusi környezethez.",
+    "elementsTitle": "Tipikus elemek",
+    "elements": [
+      {
+        "element": "Fedett terület",
+        "description": "Pálmalevélből vagy hullámlemezekből készült tető az eső ellen"
+      },
+      {
+        "element": "Nyitott oldalak",
+        "description": "Jó szellőzés nyitott vagy félig nyitott falakon keresztül"
+      },
+      {
+        "element": "Központi tűzhely",
+        "description": "Néhány Nakamalban a melegség és fény érdekében"
+      },
+      {
+        "element": "Padok vagy szőnyegek",
+        "description": "Egyszerű ülőhelyek fából vagy fonott szőnyegekből"
+      },
+      {
+        "element": "Kava-előkészítő terület",
+        "description": "Tér mozsárral, szűrővel és víztartállyal"
+      },
+      {
+        "element": "Köpőhely",
+        "description": "Tér vagy árok a köpéshez a tálak között"
+      }
+    ],
+    "tannaStyle": {
+      "title": "Tanna-stílus",
+      "desc": "Tannán a Nakamalok gyakran kerek, természetes anyagokból készült struktúrák, amelyek harmonikusan illeszkednek a tájba. A szent Banyanfa gyakran a közelben áll."
+    },
+    "urbanStyle": {
+      "title": "Városi stílus",
+      "desc": "Port Vilában a Nakamalok egyszerű kunyhóktól a betonépületekig terjednek neonfényekkel – a hangulat azonban hagyományos marad."
+    }
+  },
+  "modern": {
+    "title": "Modern Kava-bárok",
+    "intro": "Vanuatu-n kívül a Nakamal koncepció modern <strong>Kava-bárokká</strong> fejlődött – olyan helyek, amelyek a hagyományos értékeket a kortárs kényelemmel ötvözik.",
+    "typesTitle": "Kava-bárok típusai",
+    "types": [
+      {
+        "type": "Autentikus-hagyományos",
+        "locations": "Port Vila, Suva, Nukuʻalofa",
+        "description": "Hagyományos hangulat friss Kava-val, egyszerű berendezéssel és helyi közönséggel"
+      },
+      {
+        "type": "Diaszpóra-Nakamalok",
+        "locations": "Auckland, Sydney, Melbourne",
+        "description": "Csendes közösségek üzemeltetik, találkozóhely a külföldieknek, hagyományos és modern elemek"
+      },
+      {
+        "type": "Nyugati Kava-bárok",
+        "locations": "Florida, Kalifornia, New York, Berlin",
+        "description": "Modern környezet, gyakran Kava koktélokkal, kávézó hangulattal, nyugati közönség számára"
+      },
+      {
+        "type": "Kava-kávézók",
+        "locations": "Világszerte",
+        "description": "Kávézó és Kava-bár kombinációja, gyakran teával, kávéval és Kava keverékekkel"
+      }
+    ],
+    "comparisonTitle": "Hagyományos vs. Modern",
+    "comparison": [
+      {
+        "aspect": "Elkészítés",
+        "traditional": "Frissen készítve, gyakran rágva vagy őrölve",
+        "modern": "Gyakran instant Kava vagy előkészített"
+      },
+      {
+        "aspect": "Hangulat",
+        "traditional": "Nagyon csendes, tompa fény",
+        "modern": "Lazább, de gyakran több szórakozással"
+      },
+      {
+        "aspect": "Közönség",
+        "traditional": "Helyi közösség, gyakran csak férfiak",
+        "modern": "Vegyes közönség, minden nem"
+      },
+      {
+        "aspect": "Kiegészítő ajánlat",
+        "traditional": "Csak Kava",
+        "modern": "Gyakran snackek, más italok, néha étkezés"
+      },
+      {
+        "aspect": "Árak",
+        "traditional": "Nagyon olcsó (50-100 Vatu egy tál)",
+        "modern": "Magasabb ($5-15 egy tál)"
+      }
+    ]
+  },
+  "regions": {
+    "title": "Regionális Különbségek",
+    "intro": "A Kava-fogyasztási helyek a régiótól függően változnak hangulatban és hagyományban.",
+    "places": [
+      {
+        "flag": "🇻🇺",
+        "country": "Vanuatu",
+        "name": "Nakamal",
+        "description": "Az eredet – hagyományos falusi Nakamalok és modern városi változatai Port Vilában. Legerősebb Kava, legautentikusabb élmény.",
+        "highlight": "Több mint 400 Nakamal csak Port Vilában"
+      },
+      {
+        "flag": "🇫🇯",
+        "country": "Fiji",
+        "name": "Kava Kör",
+        "description": "Kevesebb intézményesített, mint Vanuatuban – Kava-t házakban, gyűléseken és informális csoportokban isszák.",
+        "highlight": "Tanoa (Kava-tál) a középpontban"
+      },
+      {
+        "flag": "🇹🇴",
+        "country": "Tonga",
+        "name": "Faikava",
+        "description": "Szervezettebb, mint Fijiben – a Tu'i Kava vezeti a ceremóniát. Modern \"Kalapu\" (klubok) keretein belül is fogyasztják.",
+        "highlight": "Szigorú hierarchia a felszolgálás sorrendjében"
+      },
+      {
+        "flag": "🇼🇸",
+        "country": "Samoa",
+        "name": "'Ava Kör",
+        "description": "Formális ceremóniák a Taupou által, modern változatok \"Kava Bárokban\" Apia-ban.",
+        "highlight": "A legmagasabb szintű rituális elkészítés"
+      },
+      {
+        "flag": "🇺🇸",
+        "country": "USA",
+        "name": "Kava Bár",
+        "description": "Nyugati stílus kávézó hangulattal. Különösen népszerű Floridában és Kaliforniában. Gyakran Kratommal kombinálva.",
+        "highlight": "Több mint 300 Kava-bár Floridában"
+      },
+      {
+        "flag": "🇳🇿",
+        "country": "Új-Zéland",
+        "name": "Kava Klub",
+        "description": "Csendes közösségek üzemeltetik. Fontos találkozóhely tongaiak, szamoaiak és fidzsiak számára Aucklandben.",
+        "highlight": "Kapcsolat a hazával a diaszpórában"
+      }
+    ]
+  },
+  "etiquette": {
+    "title": "Nakamal Etikett",
+    "intro": "Akár egy hagyományos Nakamalban Vanuatuban, akár egy Kava-bárban Floridában – bizonyos alapvető etikett szabályok mindenhol érvényesek.",
+    "dosTitle": "Amit tenni érdemes",
+    "dos": [
+      "Csendesen beszélni és tiszteletteljesnek lenni",
+      "A Kava-t egy hajtásra inni (\"High tide\")",
+      "A üres tálat visszaadni",
+      "Időt szánni – a Kava nem gyors ital",
+      "A rituálék során követni az utasításokat",
+      "\"Bula!\" (Fiji) vagy \"Malomalō!\" (Vanuatu) mondani"
+    ],
+    "dontsTitle": "Amit el kell kerülni",
+    "donts": [
+      "Hangoskodni vagy kiabálni",
+      "A Kava-t kis kortyokban inni",
+      "Türelmetlennek lenni",
+      "Meghívás nélkül fényképezni",
+      "Alkoholt hozni vagy keverni",
+      "Árakban alkudozni"
+    ],
+    "tipBox": {
+      "title": "Tipp az első látogatóknak",
+      "text": "Ha először látogat el egy Nakamalba vagy Kava-bárba, kérje a személyzet tanácsát. A legtöbben büszkék arra, hogy elmagyarázzák az újoncoknak a hagyományt, és szívesen segítenek a megfelelő erősség kiválasztásában."
+    }
+  },
+  "visit": {
+    "title": "Egy Nakamal meglátogatása",
+    "intro": "Tervez egy látogatást egy hagyományos Nakamalba vagy egy Kava-bárba? Íme néhány praktikus tipp:",
+    "stepsTitle": "Lépésről lépésre",
+    "steps": [
+      {
+        "step": "Megérkezés",
+        "desc": "A Nakamalok jellemzően naplementekor (17-18 óra) nyitnak. Ne érkezzen túl korán."
+      },
+      {
+        "step": "Rendelés",
+        "desc": "Válasszon a \"High tide\" (teljes tál) és a \"Low tide\" (fél tál) között. Kezdőként válasszon egy fél tálat."
+      },
+      {
+        "step": "Várakozás",
+        "desc": "A friss elkészítés néhány percet vesz igénybe. Használja ki az időt, hogy átélje a hangulatot."
+      },
+      {
+        "step": "Ivás",
+        "desc": "Igyon a tálból egy hajtásra. Ha szeretné, köpje ki utána (gyakran van egy árok)."
+      },
+      {
+        "step": "Várakozás & Érzés",
+        "desc": "Várjon 10-15 percet, mielőtt rendelne egy újabb tálat. Érezze a hatást."
+      },
+      {
+        "step": "Élvezés",
+        "desc": "Maradjon egy ideig, beszélgessen halkan, élvezze a békés hangulatot."
+      }
+    ],
+    "costsTitle": "Tipikus költségek",
+    "costs": [
+      {
+        "location": "Vanuatu (hagyományos)",
+        "price": "50-150 Vatu (~€0,40-1,20)",
+        "note": "Nagyon olcsó, friss Kava"
+      },
+      {
+        "location": "Fiji",
+        "price": "FJ$2-5 (~€0,80-2)",
+        "note": "Kicsit drágább, mint Vanuatu"
+      },
+      {
+        "location": "Új-Zéland/Ausztrália",
+        "price": "NZ$5-15 (~€3-8)",
+        "note": "Diaszpóra árak"
+      },
+      {
+        "location": "USA/Európa",
+        "price": "$8-18 (~€7-16)",
+        "note": "Nyugati Kava-bár árak"
+      }
+    ],
+    "findTitle": "Nakamalok keresése",
+    "findText": "Port Vilában több mint 400 Nakamal található – nem lesz nehéz találni egyet. A Csendes-óceánon kívül használjon Kava-bár jegyzékeket, vagy kérdezze meg a csendes-óceáni közösségeket. A <a href=\"/de/kultur/kava-bars\">Kava-bár térképünk</a> segít megtalálni a közelben lévő helyeket."
+  },
+  "navigation": {
+    "title": "További olvasmányok",
+    "back": {
+      "label": "Előző fejezet",
+      "title": "Ceremóniák & Rituálék",
+      "href": "/de/kultur/zeremonien"
+    },
+    "next": {
+      "label": "Következő fejezet",
+      "title": "Modern Kava-kultúra",
+      "href": "/de/kultur/moderne"
+    }
+  },
+  "related": {
+    "title": "Kapcsolódó témák",
+    "links": [
+      {
+        "label": "Ceremóniák & Rituálék",
+        "href": "/de/kultur/zeremonien"
+      },
+      {
+        "label": "Hagyományos elkészítés",
+        "href": "/de/zubereitung/traditionell"
+      },
+      {
+        "label": "Kava-bár térkép",
+        "href": "/de/kultur/kava-bars"
+      },
+      {
+        "label": "Vanuatu-fajták",
+        "href": "/de/sorten/vanuatu"
+      },
+      {
+        "label": "Szótár: Nakamal",
+        "href": "/de/glossar#nakamal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Coltivazione & Ecologia",
+    "subtitle": "Condizioni di crescita, metodi di propagazione e l'arte della coltivazione tradizionale del Kava.",
+    "category": "Botanica"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanica",
+    "current": "Coltivazione & Ecologia"
+  },
+  "toc": {
+    "vermehrung": "Propagazione vegetativa",
+    "stecklinge": "Raccolta delle talee",
+    "klima": "Requisiti climatici",
+    "boden": "Caratteristiche del suolo",
+    "pflege": "Cura & Crescita",
+    "ernte": "Raccolta & Tempo di maturazione",
+    "qualitaet": "Fattori di qualità",
+    "anbauregionen": "Importanti regioni di coltivazione"
+  },
+  "intro": {
+    "paragraph1": "La coltivazione del Kava è un'arte che viene tramandata da millenni di generazione in generazione. Poiché <em>Piper methysticum</em> è sterile e non produce semi, la pianta dipende completamente dall'uomo. Questa unica dipendenza ha portato a un profondo legame culturale tra i popoli del Pacifico e la loro pianta sacra."
+  },
+  "vermehrung": {
+    "title": "Propagazione vegetativa",
+    "paragraph1": "La propagazione del Kava avviene esclusivamente <strong>vegetativamente tramite talee</strong>. Questo è una conseguenza diretta della sterilità della pianta, una caratteristica emersa a seguito della millenaria domesticazione.",
+    "advantages": {
+      "title": "Vantaggi della propagazione vegetativa",
+      "items": [
+        "Identità genetica con la pianta madre",
+        "Conservazione delle caratteristiche varietali consolidate",
+        "Profilo chimotipico prevedibile",
+        "Crescita più rapida rispetto ai semi",
+        "Qualità collaudata attraverso le generazioni"
+      ]
+    },
+    "challenges": {
+      "title": "Sfide",
+      "items": [
+        "Nessuna variazione genetica possibile",
+        "Vulnerabilità alle malattie (cloni)",
+        "Dipendenza dalle piante madri",
+        "Velocità di diffusione limitata",
+        "Rischio di perdita di varietà"
+      ]
+    },
+    "stecklinge": {
+      "title": "Raccolta delle talee & Piantagione",
+      "paragraph1": "Il metodo tradizionale di raccolta delle talee segue un processo collaudato:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Selezione",
+          "description": "Segmenti di fusto sani con 2-3 nodi da una pianta madre collaudata"
+        },
+        {
+          "number": "2",
+          "title": "Taglio",
+          "description": "Taglio netto sotto un nodo, lunghezza circa 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Preparazione",
+          "description": "Rimozione delle foglie inferiori, breve essiccazione della superficie di taglio"
+        },
+        {
+          "number": "4",
+          "title": "Piantagione",
+          "description": "Inserimento in terreno sciolto e umido all'ombra, irrigazione regolare"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Requisiti climatici",
+    "paragraph1": "Il Kava è una <strong>pianta tropicale</strong> con requisiti climatici specifici. Cresce solo in un intervallo relativamente ristretto di condizioni ambientali.",
+    "table": {
+      "headers": {
+        "parameter": "Parametro",
+        "optimal": "Intervallo ottimale",
+        "tolerance": "Intervallo di tolleranza",
+        "note": "Nota"
+      },
+      "rows": [
+        {
+          "parameter": "Temperatura",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Nessun gelo tollerato"
+        },
+        {
+          "parameter": "Precipitazioni",
+          "optimal": "2.000-3.000 mm/anno",
+          "tolerance": "1.500-4.000 mm/anno",
+          "note": "Distribuzione uniforme"
+        },
+        {
+          "parameter": "Umidità dell'aria",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Preferisce alta umidità"
+        },
+        {
+          "parameter": "Altitudine",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Preferisce le pianure"
+        },
+        {
+          "parameter": "Luce solare",
+          "optimal": "Mezz'ombra",
+          "tolerance": "30-70% ombra",
+          "note": "Piante giovani: più ombra"
+        }
+      ]
+    },
+    "alert": "<strong>Esigenza di ombra:</strong> Le giovani piante di Kava (0-2 anni) necessitano di circa il 70-80% di ombra. Con l'aumentare dell'età, possono tollerare più luce solare, ma continuano a beneficiare di ombra parziale."
+  },
+  "boden": {
+    "title": "Caratteristiche del suolo",
+    "paragraph1": "Le caratteristiche del suolo sono uno dei fattori più critici per il successo della coltivazione del Kava. La pianta ha elevate esigenze di drenaggio e contenuto nutritivo.",
+    "ideal": {
+      "title": "Caratteristiche ideali del suolo",
+      "items": [
+        {
+          "label": "Struttura:",
+          "value": "Sciolta, friabile, ben aerata"
+        },
+        {
+          "label": "Drenaggio:",
+          "value": "Eccellente – il ristagno porta rapidamente a marciume radicale"
+        },
+        {
+          "label": "pH:",
+          "value": "Leggermente acido a neutro (5,5-6,5)"
+        },
+        {
+          "label": "Contenuto organico:",
+          "value": "Alto, ricco di humus"
+        },
+        {
+          "label": "Profondità:",
+          "value": "Almeno 60 cm per lo sviluppo delle radici"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Da evitare",
+      "items": [
+        {
+          "label": "Terreni compattati:",
+          "value": "Ostacolano la crescita delle radici"
+        },
+        {
+          "label": "Ristagno:",
+          "value": "Porta a marciume radicale e infestazioni fungine"
+        },
+        {
+          "label": "Terreni argillosi pesanti:",
+          "value": "Scarsa drenaggio"
+        },
+        {
+          "label": "Terreni salini:",
+          "value": "Il Kava è sensibile al sale"
+        },
+        {
+          "label": "Terreni poveri di nutrienti:",
+          "value": "Riduce il contenuto di kavalattone"
+        }
+      ]
+    },
+    "paragraph2": "Nelle aree di coltivazione tradizionali si preferiscono spesso <strong>terreni vulcanici</strong>. Questi offrono una combinazione ideale di drenaggio, contenuto minerale e struttura. A Vanuatu e nelle Fiji, le piantagioni di Kava vengono spesso realizzate su pendii leggeri per garantire un drenaggio naturale."
+  },
+  "pflege": {
+    "title": "Cura & Crescita",
+    "paragraph1": "Il Kava è una pianta relativamente facile da curare, una volta stabilita. Le principali misure di cura si concentrano sui primi due anni.",
+    "table": {
+      "headers": {
+        "phase": "Fase di crescita",
+        "period": "Periodo",
+        "tasks": "Compiti principali",
+        "notes": "Particolarità"
+      },
+      "rows": [
+        {
+          "phase": "Stabilizzazione",
+          "period": "0-6 mesi",
+          "tasks": "Irrigazione regolare, garantire ombra",
+          "notes": "Fase più critica"
+        },
+        {
+          "phase": "Fase giovanile",
+          "period": "6-18 mesi",
+          "tasks": "Controllo delle erbacce, pacciamatura, eventualmente concimazione",
+          "notes": "Crescita rapida"
+        },
+        {
+          "phase": "Fase di maturità",
+          "period": "18-36 mesi",
+          "tasks": "Cura minima, controllo dei parassiti",
+          "notes": "Sviluppo delle radici"
+        },
+        {
+          "phase": "Maturità per la raccolta",
+          "period": "3-5+ anni",
+          "tasks": "Valutazione della qualità, preparazione alla raccolta",
+          "notes": "Potenza ottimale"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Raccolta & Tempo di maturazione",
+    "paragraph1": "Il momento della raccolta è cruciale per la qualità del prodotto finale. Una delle regole più importanti nella coltivazione del Kava è: <strong>Più vecchia è la pianta, più potente e bilanciato è il profilo degli effetti.</strong>",
+    "qualitaet": {
+      "title": "Fattori di qualità nella raccolta",
+      "table": {
+        "headers": {
+          "age": "Età alla raccolta",
+          "content": "Contenuto di kavalattone",
+          "quality": "Livello di qualità",
+          "usage": "Utilizzo"
+        },
+        "rows": [
+          {
+            "age": "< 2 anni",
+            "content": "Basso (3-5%)",
+            "quality": "Immatura",
+            "qualityColor": "red",
+            "usage": "Non raccomandato"
+          },
+          {
+            "age": "2-3 anni",
+            "content": "Medio (5-10%)",
+            "quality": "Accettabile",
+            "qualityColor": "yellow",
+            "usage": "Prodotti semplici"
+          },
+          {
+            "age": "3-5 anni",
+            "content": "Alto (10-15%)",
+            "quality": "Buono",
+            "qualityColor": "green",
+            "usage": "Qualità standard"
+          },
+          {
+            "age": "5-7 anni",
+            "content": "Molto alto (15-20%)",
+            "quality": "Premium",
+            "qualityColor": "blue",
+            "usage": "Prodotti di alta qualità"
+          },
+          {
+            "age": "> 7 anni",
+            "content": "Massimo (18-25%)",
+            "quality": "Eccezionale",
+            "qualityColor": "purple",
+            "usage": "Uso cerimoniale"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "Per una alta qualità ('Noble Kava') la pianta deve crescere per almeno 3-5 anni. Più vecchia è la pianta, più potente e bilanciato è in genere il profilo degli effetti.",
+      "author": "Sebastian Freidank, \"Kava – Radice della calma\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Importanti regioni di coltivazione",
+    "paragraph1": "Il Kava viene coltivato oggi in una cintura di isole tropicali nel Pacifico. Ogni regione ha sviluppato le proprie varietà, tradizioni e caratteristiche di qualità.",
+    "table": {
+      "headers": {
+        "region": "Regione",
+        "varieties": "Varietà conosciute",
+        "characteristics": "Particolarità",
+        "production": "Produzione"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "La maggiore varietà di cultivar (80+ cultivar)",
+          "production": "Il più grande produttore al mondo",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Famoso per \"Waka\" (radici premium)",
+          "production": "Secondo produttore più grande"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Kava molto delicato e \"cremoso\"",
+          "production": "Produzione media"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Cerimonie tradizionali",
+          "production": "Consumo locale"
+        },
+        {
+          "region": "Hawaii",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Rivitalizzazione delle varietà tradizionali",
+          "production": "In crescita"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Varietà di Sakau",
+          "characteristics": "Succo di Kava fresco (\"Sakau\")",
+          "production": "Consumo locale"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> è considerato il paese d'origine del Kava coltivato e ospita ancora oggi la maggiore diversità genetica. Da qui, la pianta è stata diffusa attraverso i navigatori polinesiani in tutto il Pacifico – come una delle principali \"Canoe Plants\" portate ad ogni nuova colonizzazione di isole."
+  },
+  "navigation": {
+    "nextCategory": "Continua alla prossima categoria:",
+    "nextTitle": "Storia & Origini",
+    "nextSubtitle": "Il viaggio di 3000 anni del Kava attraverso il Pacifico"
+  }
+}

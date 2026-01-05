@@ -1,0 +1,415 @@
+{
+  "page": {
+    "title": "A Kava története",
+    "subtitle": "Utazás 5.000 év Kava-történelemben – a melanéziai háziasítástól a modern világ globális elterjedéséig.",
+    "category": "Történelem"
+  },
+  "breadcrumbs": {
+    "home": "Otthon",
+    "geschichte": "Történelem",
+    "zeitleiste": "Idővonal"
+  },
+  "ui": {
+    "filter": "Szűrő",
+    "allEpochs": "Minden korszak",
+    "readMore": "Tudj meg többet",
+    "loading": "Betöltés..."
+  },
+  "eras": {
+    "prehistory": {
+      "name": "Őskor és háziasítás",
+      "description": "A kava-kultúra kezdetei Melanéziában"
+    },
+    "classical": {
+      "name": "Klasszikus Csendes-óceáni korszak",
+      "description": "Terjedés az ausztronéz expanzió révén"
+    },
+    "colonial": {
+      "name": "Gyarmati időszak",
+      "description": "Európai kapcsolat és misszionálás"
+    },
+    "modern": {
+      "name": "Modern korszak",
+      "description": "Tudományos kutatás és dekolonizáció"
+    },
+    "contemporary": {
+      "name": "Jelenkor",
+      "description": "Globális terjedés és kulturális reneszánsz"
+    }
+  },
+  "categories": {
+    "origin": {
+      "label": "Eredet & Háziállat",
+      "icon": "🌱"
+    },
+    "spread": {
+      "label": "Elterjedés a Csendes-óceánban",
+      "icon": "⛵"
+    },
+    "colonial": {
+      "label": "Gyarmati időszak",
+      "icon": "🚢"
+    },
+    "science": {
+      "label": "Tudomány & Kutatás",
+      "icon": "🔬"
+    },
+    "modern": {
+      "label": "Modern kor",
+      "icon": "🏛️"
+    },
+    "contemporary": {
+      "label": "Jelenkor",
+      "icon": "🌍"
+    }
+  },
+  "events": {
+    "domestication": {
+      "year": "kb. 3000 i.e.",
+      "title": "Kava háziasítása",
+      "description": "Papua Új-Guinea és Vanuatu esőerdőiben megkezdődik a Piper wichmannii háziasítása a kultivált Kava növény (Piper methysticum) érdekében.",
+      "details": "Szelektív tenyésztés és vegetatív szaporítás révén megjelennek az első nemes Kava fajták, amelyek magasabb kavalaktontartalommal és alacsonyabb toxicitással rendelkeznek, mint a vad ősváltozat.",
+      "location": "Papua Új-Guinea / Vanuatu",
+      "links": [
+        {
+          "label": "A növény",
+          "url": "/botanik/pflanze"
+        },
+        {
+          "label": "Eredetek",
+          "url": "/geschichte/urspruenge"
+        }
+      ]
+    },
+    "vanuatu-culture": {
+      "year": "kb. 2500 i.e.",
+      "title": "Első Kava-ceremóniák Vanuatuban",
+      "description": "Vanuatu szigetein megjelennek az első rituális Kava-ceremóniák. A Nakamal a központi gyülekezési hellyé válik.",
+      "details": "A gyökér rágásával történő elkészítés fiatal férfiak által hagyománnyá válik. A Kava a kommunikáció eszközévé válik az ősökkel és szellemekkel.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Ceremóniák",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Nakamal",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "lapita-expansion": {
+      "year": "kb. 1500–1000 i.e.",
+      "title": "Lapita-terjeszkedés",
+      "description": "A Lapita-kultúra a Kava terjesztésével bővül Melanéziából Nyugat-Polinéziába.",
+      "details": "A Lapita-kerámiák régészeti leletei mutatják a terjeszkedési útvonalakat. A Kava növényeket dugványként szállítják a kenukon.",
+      "location": "Melanézia → Polinézia"
+    },
+    "fiji-arrival": {
+      "year": "kb. 1000 i.e.",
+      "title": "Kava eljut Fidzsihez",
+      "description": "A Kava bevezetésre kerül Fidzsiben, ahol 'Yaqona' néven ismert. Egyedi ceremóniák alakulnak ki a Tanoa (Kava-tál) körül.",
+      "details": "Eredetileg a Kava-t Fidzsiben őrléssel készítették, nem rágással. A kapcsolat az ősök tiszteletével a Būrau (férfi házak) keretein belül alakul ki.",
+      "location": "Fidzsi",
+      "links": [
+        {
+          "label": "Fidzsi-ceremóniák",
+          "url": "/kultur/zeremonien"
+        },
+        {
+          "label": "Csendes-óceáni fajták",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "tonga-samoa": {
+      "year": "kb. 500 i.e.",
+      "title": "Kava Tongán és Szamoán",
+      "description": "Az 'Ava-ceremónia Tongán és Szamoán egy magas fokon formalizált hagyománnyá fejlődik, szigorú hierarchiával.",
+      "details": "A Tou'a (Kava keverő) és a Matāpule (ceremóniamester) fontos rituális szerepekké válnak. Az ivási sorrend a társadalmi rendet tükrözi.",
+      "location": "Tonga / Szamoa",
+      "links": [
+        {
+          "label": "'Ava-ceremónia",
+          "url": "/kultur/zeremonien"
+        }
+      ]
+    },
+    "hawaii-arrival": {
+      "year": "kb. 300–500 i.sz.",
+      "title": "Kava eljut Hawaiira",
+      "description": "Polinéz tengerészek hozzák a Kava-t Hawaiira, ahol 'Awa néven ismertté válik és a Hina istennőhöz kapcsolódik.",
+      "details": "Hawaiin egy egyedi Kava-kultúra alakul ki, amely kapcsolatban áll a Kahuna (papok) gyógyító szertartásaival. Az 'Awa Hiwa fajtát ceremoniális célokra tartják fenn.",
+      "location": "Hawaii",
+      "links": [
+        {
+          "label": "Hawaii-fajták",
+          "url": "/sorten/pazifik"
+        }
+      ]
+    },
+    "pohnpei-sakau": {
+      "year": "kb. 500 i.sz.",
+      "title": "Sakau-kultúra Pohnpein",
+      "description": "Pohnpein, Mikronéziában a Sakau-ceremónia önálló hagyományként fejlődik ki.",
+      "details": "A lapos kőn való elkészítés és a hibiszkuszrostokkal való préselés jellemzővé válik a mikronéziai Kava-kultúrára.",
+      "location": "Pohnpei (Mikronézia)"
+    },
+    "fiji-tongan-influence": {
+      "year": "kb. 1750",
+      "title": "Tongai hatás Fidzsire",
+      "description": "Fidzsi átvette a tongai Kava-ceremóniákat: rágás, Tanoa-tálak és Bilo-poharak válnak szabvánnyá.",
+      "details": "A Sevusevu-ceremónia mint formális üdvözlés alakul ki. A keresztény misszionáriusok a 'civilizáltabb' polinéz ceremóniákat részesítik előnyben.",
+      "location": "Fidzsi"
+    },
+    "european-contact": {
+      "year": "1616",
+      "title": "Első európai kapcsolat",
+      "description": "Holland tengerészek, Jacob Le Maire és Willem Schouten, elérik a csendes-óceáni szigeteket és először dokumentálják a Kava-t.",
+      "details": "Az európaiak leírják az őslakosok 'furcsa italát', de nem értik annak kulturális jelentőségét.",
+      "location": "Csendes-óceán"
+    },
+    "cook-documentation": {
+      "year": "1768–1779",
+      "title": "Cook kapitány dokumentációja",
+      "description": "James Cook részletesen dokumentálja a Kava-ceremóniákat csendes-óceáni utazásai során, és mintákat hoz Európába.",
+      "details": "Cook jelentései az 'Ava-ceremóniáról Tongán és Hawaiin tudományos érdeklődést keltenek Európában. A botanikus Johann Georg Forster először tudományosan írja le a növényt.",
+      "location": "Tonga / Hawaii / Tahiti",
+      "links": [
+        {
+          "label": "Történelem",
+          "url": "/geschichte"
+        }
+      ]
+    },
+    "forster-classification": {
+      "year": "1777",
+      "title": "Tudományos osztályozás",
+      "description": "Johann Georg Forster a Kava-t Piper methysticum-ként ('bódító borsnövény') osztályozza.",
+      "details": "A név a görög 'methystikos' (bódító) szóból származik. Forster a 'De Plantis Esculentis Insularum Oceani Australis' című művében írja le a növényt.",
+      "location": "Európa",
+      "links": [
+        {
+          "label": "Botanika",
+          "url": "/botanik"
+        }
+      ]
+    },
+    "missionary-opposition": {
+      "year": "1800–1900",
+      "title": "Misszionáriusi ellenállás",
+      "description": "Keresztény misszionáriusok harcolnak a Kava ellen, mint 'pogány' ital. Néhány régióban a ceremóniákat betiltják.",
+      "details": "A misszionáriusok a rágást higiéniai szempontból kifogásolják, a ceremóniákat pedig 'lusta, bomlasztó, sőt démonikus' jelzőkkel illetik. Kelet-Futunán 1930-ban a rágást misszionáriusi parancsra leállítják.",
+      "location": "Csendes-óceán",
+      "links": [
+        {
+          "label": "Gyarmati hatások",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "kavalactone-discovery": {
+      "year": "1860",
+      "title": "A kavalaktónok felfedezése",
+      "description": "Német vegyészek először izolálják a Kava aktív hatóanyagait, és 'Kavain'-nak nevezik őket.",
+      "details": "A felfedezés megalapozza a Kava hatásának tudományos kutatását és a későbbi gyógyszerészeti alkalmazásokat.",
+      "location": "Németország",
+      "links": [
+        {
+          "label": "Kavalaktónok",
+          "url": "/inhaltsstoffe/kavalactone"
+        }
+      ]
+    },
+    "german-colony": {
+      "year": "1884–1914",
+      "title": "Német gyarmati uralom",
+      "description": "Németország ellenőrzi a Csendes-óceán egyes részeit (Német Új-Guinea, Szamoa). A Kava tudományos kutatás alá kerül.",
+      "details": "Német tudósok dokumentálják a Kava fajtákat és elkészítési módszereket. A gyarmati adminisztráció nagymértékben tolerálja a Kava fogyasztását.",
+      "location": "Német Új-Guinea / Szamoa"
+    },
+    "lewin-research": {
+      "year": "1886",
+      "title": "Louis Lewin kutatása",
+      "description": "A német toxikológus Louis Lewin átfogó tanulmányokat publikál a Kava-ról, és 'Euphorica'-ként osztályozza.",
+      "details": "Lewin munkája, a 'Phantastica' a pszichofarmakológia alapművévé válik. A Kava-t az emberiség egyik legfontosabb élvezeti cikkeként írja le.",
+      "location": "Németország"
+    },
+    "independence-movements": {
+      "year": "1962–1980",
+      "title": "Függetlenség és kulturális reneszánsz",
+      "description": "A csendes-óceáni államok függetlenséget nyernek. A Kava a kulturális identitás szimbólumaként tér vissza a nyilvánosság elé.",
+      "details": "Szamoa (1962), Fidzsi (1970), Tonga (1970), Vanuatu (1980) függetlenné válnak. A Kava-ceremóniákat államalapítások és hivatalos események keretein belül ünneplik.",
+      "location": "Csendes-óceán",
+      "links": [
+        {
+          "label": "Modern történelem",
+          "url": "/geschichte/moderne"
+        }
+      ]
+    },
+    "vanuatu-independence": {
+      "year": "1980",
+      "title": "Vanuatu függetlenné válik",
+      "description": "Vanuatu függetlenséget nyer a francia-brit gyarmati uralomtól. A Kava nemzeti szimbólummá válik.",
+      "details": "Az új nemzet a Kava-t identitásának részévé teszi. A Nakamalok fontos társadalmi intézményekké válnak Port Vilában és más városokban.",
+      "location": "Vanuatu"
+    },
+    "clinical-research": {
+      "year": "1990-es évek",
+      "title": "Klinikai vizsgálatok a szorongásról",
+      "description": "Első kontrollált klinikai vizsgálatok mutatják a Kava kivonatok szorongáscsökkentő hatását.",
+      "details": "Meta-analízisek megerősítik a Kava hatékonyságát a szorongásos zavarok kezelésében. A Kava készítmények Európában és az Egyesült Államokban gyógynövényes gyógyszerekként népszerűvé válnak.",
+      "location": "Európa / USA",
+      "links": [
+        {
+          "label": "Tanulmányok",
+          "url": "/studien"
+        },
+        {
+          "label": "Hatás a szorongásra",
+          "url": "/wirkung/angst"
+        }
+      ]
+    },
+    "first-kava-bars": {
+      "year": "1990-es évek",
+      "title": "Első Kava-bárok az Egyesült Államokban",
+      "description": "Floridában és Kaliforniában nyílnak az első nyugati Kava-bárok alkoholmentes alternatívaként.",
+      "details": "A Kava-bár mozgalom olyan városokban kezdődik, ahol csendes-óceáni diaszpóra él. Fort Lauderdale az amerikai Kava-színtér központjává válik.",
+      "location": "USA (Florida)",
+      "links": [
+        {
+          "label": "Modern Kava-kultúra",
+          "url": "/kultur/moderne"
+        },
+        {
+          "label": "Nakamal és Kava-bárok",
+          "url": "/kultur/nakamal"
+        }
+      ]
+    },
+    "german-ban": {
+      "year": "2002",
+      "title": "Kava-tilalom Németországban",
+      "description": "Németország betiltja a Kava készítményeket májkárosodásokról szóló jelentések után. Más EU-országok követik.",
+      "details": "A BfArM visszavonja az összes Kava-tartalmú gyógyszer engedélyét. A döntés 30 májtoxicitási gyanú esete alapján születik, de később túlzónak minősítik.",
+      "location": "Németország / EU",
+      "links": [
+        {
+          "label": "Májbiztonság",
+          "url": "/sicherheit/leber"
+        },
+        {
+          "label": "Jogi státusz",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "vanuatu-noble-policy": {
+      "year": "2002",
+      "title": "Vanuatu nemes Kava exportpolitikája",
+      "description": "Vanuatu szigorú exportelőírásokat vezet be: csak nemes Kava fajták exportálhatók.",
+      "details": "A politika a minőség biztosítására és a Kava hírnevének védelmére irányul. A magasabb DHM/DHK tartalmú Tudei fajtákat kizárják az exportból.",
+      "location": "Vanuatu",
+      "links": [
+        {
+          "label": "Nemes vs. Tudei",
+          "url": "/sorten/noble-tudei"
+        },
+        {
+          "label": "Vanuatu-fajták",
+          "url": "/sorten/vanuatu"
+        }
+      ]
+    },
+    "who-assessment": {
+      "year": "2007",
+      "title": "WHO-kockázatértékelés",
+      "description": "A WHO átfogó kockázatértékelést tesz közzé, és a hagyományosan elkészített Kava-t biztonságosnak minősíti.",
+      "details": "Az értékelés megkülönbözteti a hagyományos elkészítést (biztonságos) és a kivonatokat (potenciálisan problémás). A nem gyökér részek használatát kockázati tényezőként azonosítják.",
+      "location": "Nemzetközi",
+      "links": [
+        {
+          "label": "Biztonság",
+          "url": "/sicherheit"
+        }
+      ]
+    },
+    "german-rehabilitation": {
+      "year": "2014–2015",
+      "title": "Rehabilitáció Németországban",
+      "description": "Német bíróságok eltörlik a Kava-tilalmat. Az eredeti döntést tudományosan megalapozatlannak minősítik.",
+      "details": "A Szövetségi Közigazgatási Bíróság megállapítja, hogy a kockázatértékelés hibás volt. A Kava termékek ismét legálisan értékesíthetők.",
+      "location": "Németország",
+      "links": [
+        {
+          "label": "Jogi státusz",
+          "url": "/rechtsstatus"
+        }
+      ]
+    },
+    "codex-standard": {
+      "year": "2020",
+      "title": "Codex Alimentarius szabvány",
+      "description": "A Codex Alimentarius nemzetközi szabványt fogad el a Kava italaként.",
+      "details": "A szabvány meghatározza a minőségi kritériumokat, a kavalaktón határértékeket és a címkézési követelményeket. Mérföldkő a nemzetközi kereskedelemben.",
+      "location": "Nemzetközi"
+    },
+    "global-expansion": {
+      "year": "2020-as évek",
+      "title": "A Kava-bárok globális terjeszkedése",
+      "description": "Több mint 200 Kava-bár nyílik az Egyesült Államokban. A 'Sober Curious' mozgalom ösztönzi a növekedést.",
+      "details": "A Kava alkoholfogyasztás nélküli alternatívaként népszerűvé válik a társadalmi kikapcsolódásra. Olyan városok, mint Austin, Denver és New York élénk Kava-színtérrel rendelkeznek.",
+      "location": "USA / Európa / Ausztrália",
+      "links": [
+        {
+          "label": "Modern Kava-kultúra",
+          "url": "/kultur/moderne"
+        }
+      ]
+    },
+    "climate-challenges": {
+      "year": "2020-as évek",
+      "title": "Klímaváltozás kihívásai",
+      "description": "Csendes-óceáni Kava-termelők küzdenek a klímaváltozás hatásaival a terméseikre.",
+      "details": "Megváltozott csapadékminták, ciklonok és emelkedő hőmérsékletek fenyegetik a hagyományos termesztési területeket. Fenntartható termesztési módszerek válnak egyre fontosabbá.",
+      "location": "Csendes-óceán",
+      "links": [
+        {
+          "label": "Termesztés",
+          "url": "/botanik/anbau"
+        }
+      ]
+    },
+    "cultural-renaissance": {
+      "year": "Ma",
+      "title": "Kulturális reneszánsz",
+      "description": "Fiatal csendes-óceáni generációk 'Kava Collectives'-et alapítanak, és digitálisan dokumentálják a hagyományos tudást.",
+      "details": "Podcastok, YouTube-csatornák és Instagram-fiókok terjesztik a Kava-kultúrát világszerte. A hagyomány és a modernitás összekapcsolása új kulturális identitásformákat teremt.",
+      "location": "Csendes-óceán / Globális",
+      "links": [
+        {
+          "label": "Kultúra és hagyomány",
+          "url": "/kultur"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "overview": "Áttekintés",
+    "events": "Események",
+    "epochs": "Korok",
+    "yearsOfHistory": "Történelem Évei",
+    "milestones": "Jelentős Események",
+    "keyMilestones": "Kulcsfontosságú Jelentős Események",
+    "relatedPages": "Kapcsolódó Oldalak",
+    "noEventsFound": "Nincsenek események ezekkel a szűrőkkel.",
+    "resetFilters": "Szűrők visszaállítása",
+    "bce": "Kr.e.",
+    "origins": "Eredetek",
+    "spreadPacific": "Terjedés a Csendes-óceánban",
+    "modernHistory": "Modern Történelem",
+    "interactiveMap": "Interaktív Világtérkép"
+  }
+}

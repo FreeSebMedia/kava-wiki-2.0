@@ -1,0 +1,233 @@
+{
+  "page": {
+    "title": "Izomlazítás",
+    "subtitle": "Hogyan oldják meg a Kavalactonok a feszültségeket és elősegítik a fizikai ellazulást.",
+    "category": "Hatás"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Bevezetés",
+        "level": 1
+      },
+      {
+        "id": "mechanismen",
+        "title": "Hatásmechanizmusok",
+        "level": 1
+      },
+      {
+        "id": "kavalactone",
+        "title": "Releváns Kavalactonok",
+        "level": 1
+      },
+      {
+        "id": "anwendungen",
+        "title": "Alkalmazási területek",
+        "level": 1
+      },
+      {
+        "id": "chemotypen",
+        "title": "Ajánlott kemotípusok és fajták",
+        "level": 1
+      },
+      {
+        "id": "praxis",
+        "title": "Gyakorlati alkalmazás",
+        "level": 1
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "wirkung": "Hatás",
+    "current": "Izomlazítás"
+  },
+  "einfuehrung": {
+    "paragraph1": "A <strong>izomlazító hatás</strong> a Kava egyik legszembetűnőbb hatása. Már az első Shell után egy hullámnyi ellazulás kezd áthatni a testen – a feszültségek oldódnak, a test \"nehéznek\" és kellemesnek érzi magát.",
+    "paragraph2": "A csendes-óceáni hagyományos alkalmazás során a Kava évezredek óta használják az izomfájdalmak és a fizikai feszültség enyhítésére. A modern kutatás feltárta az alapmechanizmusokat."
+  },
+  "mechanismen": {
+    "title": "Hatásmechanizmusok",
+    "intro": "A Kava izomlazító hatása több szinergikus mechanizmusra épül, amelyek központi (agy/gerincvelő) és perifériás szinten egyaránt hatnak.",
+    "items": [
+      {
+        "icon": "zap",
+        "title": "Nátrium- és kalciumcsatorna-blokkolás",
+        "text": "A Kavalactonok blokkolják a feszültségfüggő <strong>nátrium- és kalciumcsatornákat</strong> az idegsejtekben. Ez csökkenti a motoneuronok (az izmokat irányító idegsejtek) ingerlékenységét, és az izomtónus csökkenéséhez vezet. Ez a mechanizmus felelős az <strong>antikonvulzív</strong> (görcsoldó) hatásért is."
+      },
+      {
+        "icon": "activity",
+        "title": "Központi GABA-moduláció",
+        "text": "A GABA hatásának fokozása az agyban és a gerincvelőben csökkenti a <strong>központi izomtónust</strong>. A GABA a legfontosabb gátló neurotranszmitter, és a gerincvelő szintjén is szabályozza az izomtónust."
+      },
+      {
+        "icon": "heart",
+        "title": "Perifériás hatás",
+        "text": "Néhány Kavalacton közvetlenül hat a <strong>simaizomra</strong> (pl. az erekben). Ez enyhe vazodilatációt (érkitágulást) okozhat, és magyarázatot ad arra a melegségérzetre, amelyről sok felhasználó beszámol."
+      }
+    ],
+    "quote": {
+      "text": "A Kavalactonok blokkolják a feszültségfüggő nátrium- és kalciumcsatornákat neuronális szinten, ami hozzájárul az izomlazító hatáshoz.",
+      "source": "— Kava – A nyugalom gyökere"
+    }
+  },
+  "kavalactone": {
+    "title": "Releváns Kavalactonok",
+    "intro": "Nem minden Kavalacton hat egyformán erősen izomlazítóan. Különösen két vegyület emelkedik ki:",
+    "dhk": {
+      "position": "2",
+      "title": "Dihydrokavain (DHK)",
+      "positionLabel": "2. hely a kemotípusban",
+      "description": "A DHK a <strong>legerősebb izomlazító</strong> Kavalacton. Főként a nátriumcsatornák blokkolásán keresztül hat, és kifejezett nyugtató összetevője van.",
+      "profileLabel": "Hatásprofil:",
+      "profile": "Erősen izomlazító, nyugtató, testközeli. Ideális esti alkalmazásra és feszültségek esetén."
+    },
+    "dhm": {
+      "position": "5",
+      "title": "Dihydromethysticin (DHM)",
+      "positionLabel": "5. hely a kemotípusban",
+      "description": "A DHM szintén erős izomlazító tulajdonságokkal bír, de ez a Kavalacton a <strong>leghosszabb hatástartamú</strong>. Magas koncentrációk esetén tartós fáradtságot okozhat.",
+      "warningLabel": "Figyelem:",
+      "warning": "A magas DHM-koncentrációk (1-2. hely) jellemzőek a Tudei-fajtákra, és \"másnaposság\"-szerű tüneteket okozhatnak."
+    },
+    "table": {
+      "headers": {
+        "kavalacton": "Kavalacton",
+        "relaxation": "Izomlazítás",
+        "sedation": "Nyugtatás",
+        "duration": "Időtartam"
+      },
+      "rows": [
+        {
+          "name": "Dihydrokavain (2)",
+          "relaxation": "⭐⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐",
+          "duration": "Közepes"
+        },
+        {
+          "name": "Dihydromethysticin (5)",
+          "relaxation": "⭐⭐⭐⭐",
+          "sedation": "⭐⭐⭐⭐⭐",
+          "duration": "Hosszú"
+        },
+        {
+          "name": "Methysticin (3)",
+          "relaxation": "⭐⭐⭐",
+          "sedation": "⭐⭐⭐",
+          "duration": "Közepes"
+        },
+        {
+          "name": "Kavain (4)",
+          "relaxation": "⭐⭐",
+          "sedation": "⭐⭐",
+          "duration": "Rövid"
+        }
+      ]
+    }
+  },
+  "anwendungen": {
+    "title": "Alkalmazási területek",
+    "intro": "A Kava izomlazító hatása különböző panaszok esetén hasznos lehet:",
+    "items": [
+      {
+        "title": "Feszültségek a nyak-/váll területen",
+        "text": "A stressz és a képernyő előtt végzett munka gyakran krónikus feszültségekhez vezet. A Kava segíthet ezek oldásában és a közérzet javításában."
+      },
+      {
+        "title": "Hátfájás",
+        "text": "Izom eredetű hátfájás esetén a lazító hatás enyhülést hozhat. A Kava nem helyettesíti az orvosi kezelést, de támogató hatású lehet."
+      },
+      {
+        "title": "Feszültségfejfájás",
+        "text": "A nyak- és fejterületen izomfeszültségek által okozott fejfájás a lazítás révén enyhíthető."
+      },
+      {
+        "title": "Menstruációs panaszok",
+        "text": "A görcsoldó hatás segíthet a menstruációs görcsök esetén. Hagyományosan a Kava-t a Csendes-óceánon erre a célra is használták."
+      },
+      {
+        "title": "Sport után",
+        "text": "Intenzív edzés után a Kava segíthet az izmok ellazításában és a regeneráció elősegítésében."
+      },
+      {
+        "title": "Nyugtalan láb szindróma",
+        "text": "Néhány felhasználó enyhülést tapasztal nyugtalan lábak esetén. Az izomlazítás és az anxiolitikus hatás kombinációja itt hatékony lehet."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Ajánlott kemotípusok és fajták",
+    "intro": "Maximális <strong>izomlazítás</strong> érdekében olyan fajtákat kell választani, amelyek magas DHK-tartalommal rendelkeznek (2. vagy 1. helyen). Ezek a \"Heavy\" Kava-k testközeli hatásúak, és ideálisak esti alkalmazásra.",
+    "heavy": {
+      "label": "Heavy",
+      "idealFor": "Maximális izomlazítás",
+      "varieties": [
+        {
+          "name": "Palasa (Vanuatu)",
+          "chemotype": "423651",
+          "description": "Nagyon testközeli, erős izomlazító hatás. Ideális feszültségek esetén."
+        },
+        {
+          "name": "Ambae (Vanuatu)",
+          "chemotype": "246531",
+          "description": "DHK-domináns, kifejezett \"Couch-Lock\" hatás."
+        },
+        {
+          "name": "Palarasul (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Erősen nyugtató, jó izomlazító hatással."
+        },
+        {
+          "name": "Borogu (Vanuatu)",
+          "chemotype": "426531",
+          "description": "Klasszikus, kiegyensúlyozott testközeli hatással."
+        }
+      ]
+    },
+    "tip": {
+      "title": "Kemotípus tipp",
+      "text": "Figyeljen a <strong>2. hely (DHK)</strong> pozícióra a kemotípusban. Minél előrébb van, annál erősebb az izomlazítás. Egy kemotípus, mint például <strong>246...</strong> vagy <strong>426...</strong>, testközeli fajtát jelez. Használja a <a href=\"/de/inhaltsstoffe/rechner\" class=\"text-primary hover:underline\">Kemotípus számítót</a> a fajták elemzésére."
+    }
+  },
+  "praxis": {
+    "title": "Gyakorlati alkalmazás",
+    "intro": "Izomfeszültségek esetén néhány ajánlás van:",
+    "boxTitle": "Ajánlások izomlazításhoz",
+    "tips": [
+      {
+        "label": "Időzítés:",
+        "text": "Legjobb este, 1-2 órával lefekvés előtt. Az izomlazító fajták nyugtató összetevője fáradtságot okozhat."
+      },
+      {
+        "label": "Adagolás:",
+        "text": "2-3 Shell (30-45g por) a kifejezett fizikai hatás érdekében. A kezdőknek érdemes kevesebbel kezdeniük."
+      },
+      {
+        "label": "Kombináció:",
+        "text": "A meleg (meleg fürdő, melegvizes palack) fokozza a lazító hatást. Könnyű nyújtógyakorlatok is hasznosak lehetnek."
+      },
+      {
+        "label": "Rendszeresség:",
+        "text": "Krónikus feszültségek esetén érdemes rendszeresen, esténként alkalmazni (szünetekkel)."
+      },
+      {
+        "label": "Hidratáció:",
+        "text": "Igyon elegendő vizet, mivel a Kava enyhén dehidratáló hatású lehet."
+      }
+    ],
+    "feeling": {
+      "title": "A \"Kava-érzés\"",
+      "text": "A Kava által kiváltott fizikai ellazulást gyakran kellemes \"nehézségként\" írják le. A végtagok melegnek és ellazultnak érzik magukat, a feszültségek maguktól oldódnak. Ez az állapot nem összetévesztendő a kábasággal – az elme tiszta marad, csak a test lazul el mélyen."
+    }
+  },
+  "navigation": {
+    "nextChapter": "Tovább a Hatás fejezetben:",
+    "next": {
+      "title": "Hangulat és szociális kapcsolatok",
+      "description": "Hogyan emeli a Kava a hangulatot és segíti a társas interakciókat",
+      "href": "/de/wirkung/stimmung"
+    }
+  }
+}

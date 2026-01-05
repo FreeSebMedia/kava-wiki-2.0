@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Adagoló kalkulátor",
+    "subtitle": "Számolja ki az optimális Kava-adagját a fajtától, tapasztalattól és elkészítési módszertől függően.",
+    "category": "Elkészítés"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "zubereitung": "Elkészítés",
+    "current": "Adagoló kalkulátor"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "rechner",
+        "title": "Adagoló kalkulátor",
+        "level": 1
+      },
+      {
+        "id": "ergebnis",
+        "title": "Ajánlása",
+        "level": 1
+      },
+      {
+        "id": "hinweise",
+        "title": "Fontos megjegyzések",
+        "level": 1
+      },
+      {
+        "id": "faktoren",
+        "title": "Hatásfaktorok",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "selectStrain": "Kava-fajta kiválasztása",
+    "selectStrainPlaceholder": "-- Válasszon fajtát --",
+    "potency": "Hatékonyság",
+    "experienceLevel": "Tapasztalati szint",
+    "experienceLevels": {
+      "beginner": {
+        "label": "Kezdő",
+        "desc": "Első hetek"
+      },
+      "regular": {
+        "label": "Rendszeres",
+        "desc": "Több hónap"
+      },
+      "experienced": {
+        "label": "Tapasztalt",
+        "desc": "1+ év"
+      }
+    },
+    "prepMethod": "Elkészítési módszer",
+    "methods": {
+      "traditional": {
+        "label": "Hagyományos",
+        "desc": "Gyúrás"
+      },
+      "blender": {
+        "label": "Turmixgép",
+        "desc": "Mixer"
+      },
+      "instant": {
+        "label": "Instant",
+        "desc": "Mikronizált"
+      }
+    },
+    "bodyWeight": "Testsúly",
+    "kg": "kg",
+    "calculate": "Adag kiszámítása",
+    "instantPowder": "Instant por",
+    "mediumGrind": "Közepes őrlésű por",
+    "water": "Víz",
+    "kavalactones": "Kavalacton (becsült)",
+    "prepTime": "Elkészítési idő",
+    "min": "Perc",
+    "toPrepGuide": "Az elkészítési útmutatóhoz"
+  },
+  "results": {
+    "title": "Személyes ajánlása",
+    "bestTime": {
+      "title": "Legjobb használati idő",
+      "heady": "Nappal, társas eseményekhez vagy kreatív tevékenységekhez",
+      "heavy": "Este, pihenéshez vagy alvás előtt",
+      "balanced": "Rugalmas, bármely napszakban alkalmas"
+    },
+    "tip": {
+      "title": "Tipp ehhez a fajtához",
+      "default": "Élvezze ezt a fajtát éhgyomorra a legjobb hatás érdekében."
+    }
+  },
+  "notes": {
+    "title": "Fontos megjegyzések",
+    "safety": {
+      "title": "Általános biztonsági útmutatók",
+      "items": [
+        "Mindig éhgyomorra <strong>Kavát</strong> igyon (3-4 órával étkezés után)",
+        "Kezdje a <strong>alacsonyabb adaggal</strong>, és fokozatosan növelje",
+        "<strong>Fordított tolerancia:</strong> Az első alkalommal a hatás gyengébb lehet",
+        "Kavát <strong>soha ne kombináljon alkohollal</strong> vagy gyógyszerekkel",
+        "Májbetegségek vagy terhesség esetén: <strong>Ne fogyasszon Kavát</strong>"
+      ]
+    },
+    "about": {
+      "title": "Erről a kalkulátorról",
+      "text": "A kiszámított értékek <strong>irányértékek</strong>, amelyek az átlagos kavalacton-tartalom és tapasztalatok alapján készültek. A tényleges hatás egyéni érzékenységtől, tételtől és gyártótól függően változhat."
+    }
+  },
+  "factors": {
+    "title": "Hatásfaktorok az adagolásra",
+    "items": [
+      {
+        "title": "A fajta hatékonysága",
+        "text": "Különböző fajták eltérő kavalacton-tartalommal rendelkeznek. Egy 5 csillagos fajta, mint a Loa Waka, kevesebb port igényel, mint egy enyhébb 3 csillagos fajta, mint a Pouni Ono."
+      },
+      {
+        "title": "Testsúly",
+        "text": "A nehezebb személyek általában több Kavát igényelnek ugyanazon hatás eléréséhez. A kalkulátor ennek megfelelően módosítja az ajánlást."
+      },
+      {
+        "title": "Elkészítési módszer",
+        "text": "Az instant/mikronizált Kava koncentráltabb, mint a közepes őrlésű. A turmixgép módszer hatékonyabban vonja ki az anyagokat, mint a hagyományos gyúrás."
+      },
+      {
+        "title": "Tapasztalati szint",
+        "text": "A \"fordított tolerancia\" miatt a tapasztalt felhasználók gyakran kevesebb Kavát igényelnek ugyanazon hatás eléréséhez. A kezdőknek alacsony adagokkal kell kezdeniük."
+      }
+    ]
+  },
+  "navigation": {
+    "title": "Elkészítési útmutatók",
+    "traditional": {
+      "title": "Hagyományos módszer",
+      "time": "20-25 perc",
+      "href": "/hu/elkepzites/hagyomanyos"
+    },
+    "blender": {
+      "title": "Turmixgép módszer",
+      "time": "8-10 perc",
+      "href": "/hu/elkepzites/turmixgep"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "time": "30 másodperc",
+      "href": "/hu/elkepzites/instant"
+    }
+  },
+  "strainNotes": {
+    "kelai": "A világ egyik legjobb Heady Kava-jának számít. Korlátozott elérhetőség.",
+    "borogu": "A Vanuatu-ban leggyakrabban fogyasztott Kava. Nagyon megbízható.",
+    "pouni-ono": "Nagyon népszerű kezdő Kava, amelynek minősége következetes.",
+    "moi": "Az egyik legritkább és legdrágább Kava. Hagyományosan hawaii szertartásokhoz használják.",
+    "melo-melo": "Nagyon népszerű kezdő Kava, erős szorongásoldó hatással.",
+    "bir-kar": "Ismert erejéről és megbízhatóságáról.",
+    "palasa": "Kezdőknek nem ajánlott. Nagyon erős.",
+    "loa-waka": "Az egyik legerősebb kereskedelmi forgalomban kapható Kava.",
+    "hiwa": "Hagyományosan csak szertartási célokra használt. Nagyon ritka.",
+    "vula-waka": "Népszerű általános Kava Fijiről.",
+    "silese": "Az egyik legeufórikusabb fajta.",
+    "palarasul": "Jó belépő a Heavy Kava-k világába."
+  }
+}

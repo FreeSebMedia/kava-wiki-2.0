@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "Nyelv váltása"
+  },
+  "nav": {
+    "botanik": {
+      "name": "Botanika",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Bevezetés a botanikába"
+        },
+        "pflanze": {
+          "name": "A növény",
+          "description": "Taxonómia & Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "Morfológia",
+          "description": "Anatómia & Gyökérzet"
+        },
+        "anbau": {
+          "name": "Termesztés & Ökológia",
+          "description": "Kultiválás & Szaporítás"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "Történelem",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Kava története"
+        },
+        "urspruenge": {
+          "name": "Eredetek",
+          "description": "Vanuatu & Domesztikáció"
+        },
+        "verbreitung": {
+          "name": "Elterjedés",
+          "description": "A csendes-óceáni terjeszkedés"
+        },
+        "moderne": {
+          "name": "Modern történelem",
+          "description": "2002-es tilalom & rehabilitáció"
+        },
+        "zeitleiste": {
+          "name": "Interaktív idővonal",
+          "description": "5000 év Kava története"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "Hatóanyagok",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Kavalaktónok & Kémiai típusok"
+        },
+        "kavalactone": {
+          "name": "A 6 Kavalaktón",
+          "description": "Részletes hatásprofilok"
+        },
+        "chemotypen": {
+          "name": "Kémiai típus rendszer",
+          "description": "Noble vs. Tudei azonosítása"
+        },
+        "rechner": {
+          "name": "Kémiai típus kalkulátor",
+          "description": "Interaktív elemző eszköz"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "Hatás",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Hatásmechanizmusok"
+        },
+        "angst": {
+          "name": "Szorongásoldás",
+          "description": "Anxiolytikus hatás"
+        },
+        "schlaf": {
+          "name": "Alvás & Relaxáció",
+          "description": "Nyugtató hatások"
+        },
+        "muskel": {
+          "name": "Izomlazítás",
+          "description": "Fizikai relaxáció"
+        },
+        "stimmung": {
+          "name": "Hangulat & Szociális",
+          "description": "Eufórikus hatások"
+        },
+        "kognition": {
+          "name": "Kognitív hatások",
+          "description": "Fókusz & Fordított tolerancia"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "Biztonság",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Biztonság & Mellékhatások"
+        },
+        "leber": {
+          "name": "Májbiztonság",
+          "description": "Hepatotoxicitás & a 2002-es tilalom"
+        },
+        "wechselwirkungen": {
+          "name": "Kölcsönhatások",
+          "description": "Gyógyszerek & CYP450"
+        },
+        "kontraindikationen": {
+          "name": "Ellenjavallatok",
+          "description": "Mikor kerüljük a Kava-t"
+        },
+        "checker": {
+          "name": "Interakció-ellenőrző",
+          "description": "Gyógyszerek ellenőrzése"
+        }
+      }
+    },
+    "sorten": {
+      "name": "Fajták",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Fajták & Kultivárok"
+        },
+        "noble-tudei": {
+          "name": "Noble vs. Tudei",
+          "description": "A fontos megkülönböztetés"
+        },
+        "vanuatu": {
+          "name": "Vanuatu fajták",
+          "description": "Borogu, Melo Melo, Kelai & még több"
+        },
+        "pazifik": {
+          "name": "Csendes-óceáni fajták",
+          "description": "Fiji, Tonga, Hawaii, Samoa"
+        },
+        "profile": {
+          "name": "Fajtaprofilok",
+          "description": "Részletes adatlapok"
+        },
+        "vergleich": {
+          "name": "Fajták összehasonlítása",
+          "description": "Két fajta összehasonlítása"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "Elkészítés",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Elkészítési módszerek"
+        },
+        "traditionell": {
+          "name": "Hagyományos módszer",
+          "description": "Gyúrás szűrőruhával"
+        },
+        "blender": {
+          "name": "Turmixgép módszer",
+          "description": "Gyors elkészítés"
+        },
+        "instant": {
+          "name": "Instant Kava",
+          "description": "Mikronizált Kava"
+        },
+        "rechner": {
+          "name": "Adagolás kalkulátor",
+          "description": "Optimális mennyiség kiszámítása"
+        }
+      }
+    },
+    "kultur": {
+      "name": "Kultúra",
+      "items": {
+        "uebersicht": {
+          "name": "Áttekintés",
+          "description": "Kultúra & Hagyomány"
+        },
+        "zeremonien": {
+          "name": "Zeremóniák & Rituálék",
+          "description": "Yaqona, 'Ava & Nakamal-rituálék"
+        },
+        "nakamal": {
+          "name": "Nakamal & Kava-bárok",
+          "description": "Hagyományos & modern helyszínek"
+        },
+        "moderne": {
+          "name": "Modern Kava-kultúra",
+          "description": "Globális elterjedés & reneszánsz"
+        },
+        "weltkarte": {
+          "name": "Interaktív világtérkép",
+          "description": "Kava régiók felfedezése"
+        },
+        "kava-bars": {
+          "name": "Kava-bár kereső",
+          "description": "Kava-bárok világszerte"
+        }
+      }
+    },
+    "mehr": {
+      "name": "Több",
+      "items": {
+        "faq": {
+          "name": "GYIK",
+          "description": "Gyakori kérdések"
+        },
+        "studien": {
+          "name": "Tanulmányok",
+          "description": "Tudományos kutatás"
+        },
+        "rechtsstatus": {
+          "name": "Jogi státusz",
+          "description": "Jogi helyzet"
+        },
+        "glossar": {
+          "name": "Szótár",
+          "description": "Szakmai kifejezések magyarázata"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "A világ legátfogóbb tudásportálja a Piper methysticum-ról. Tudományosan megalapozott, kulturálisan tiszteletteljes.",
+    "sections": {
+      "wissen": {
+        "title": "Tudás",
+        "links": {
+          "botanik": "Botanika",
+          "geschichte": "Történelem",
+          "wissenschaft": "Tudomány",
+          "sicherheit": "Biztonság"
+        }
+      },
+      "praxis": {
+        "title": "Gyakorlat",
+        "links": {
+          "zubereitung": "Elkészítés",
+          "sorten": "Fajták & Kémiai típusok",
+          "rechtsstatus": "Jogi státusz",
+          "faq": "Gyakori kérdések"
+        }
+      },
+      "partner": {
+        "title": "Partnerek & Könyv",
+        "recommendedReading": "Ajánlott olvasmány:",
+        "bookTitle": "\"Kava – A nyugalom gyökere\""
+      }
+    },
+    "copyright": "Minden jog fenntartva.",
+    "legal": {
+      "impressum": "Impresszum",
+      "datenschutz": "Adatvédelem"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap"
+  },
+  "toc": {
+    "title": "Tartalom"
+  },
+  "recommendation": {
+    "label": "Ajánlás",
+    "title": "Prémium Noble Kava",
+    "text": "Fedezze fel a tanúsított minőséget és tisztaságot hivatalos partnerünknél.",
+    "cta": "A Kava-mode.com oldalra"
+  }
+}

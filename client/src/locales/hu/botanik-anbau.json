@@ -1,0 +1,326 @@
+{
+  "page": {
+    "title": "Termesztés és ökológia",
+    "subtitle": "Növekedési feltételek, szaporítási módszerek és a hagyományos kava termesztés művészete.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "current": "Termesztés és ökológia"
+  },
+  "toc": {
+    "vermehrung": "Vegetatív szaporítás",
+    "stecklinge": "Hajtásgyűjtés",
+    "klima": "Klímával kapcsolatos követelmények",
+    "boden": "Talajminőség",
+    "pflege": "Gondozás és növekedés",
+    "ernte": "Betakarítás és érési idő",
+    "qualitaet": "Minőségi tényezők",
+    "anbauregionen": "Fontos termesztési területek"
+  },
+  "intro": {
+    "paragraph1": "A kava termesztése egy művészet, amely évezredek óta generációról generációra száll. Mivel a <em>Piper methysticum</em> steril és nem termel magokat, a növény teljes mértékben az emberre támaszkodik. Ez az egyedülálló függőség mély kulturális kapcsolatot teremtett a csendes-óceáni népek és szent növényük között."
+  },
+  "vermehrung": {
+    "title": "Vegetatív szaporítás",
+    "paragraph1": "A kava szaporítása kizárólag <strong>vegetatív hajtásokkal</strong> történik. Ez a növény sterilitásának közvetlen következménye – egy olyan jellemző, amely az évezredes háziasítás során alakult ki.",
+    "advantages": {
+      "title": "A vegetatív szaporítás előnyei",
+      "items": [
+        "Genetikai identitás az anyanövénnyel",
+        "J bevált fajtajellemzők megőrzése",
+        "Előre jelezhető kemotípus profil",
+        "Gyorsabb növekedés, mint a magból",
+        "Generációkon át bevált minőség"
+      ]
+    },
+    "challenges": {
+      "title": "Kihívások",
+      "items": [
+        "Nincs genetikai változatosság",
+        "Betegségekre való hajlam (klónok)",
+        "Függőség az anyanövényektől",
+        "Korlátozott terjedési sebesség",
+        "Fajtavesztés kockázata"
+      ]
+    },
+    "stecklinge": {
+      "title": "Hajtásgyűjtés és ültetés",
+      "paragraph1": "A hagyományos hajtásgyűjtési módszer egy bevált folyamatot követ:",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Kiválasztás",
+          "description": "Egészséges szárdarabok 2-3 csomóval egy bevált anyanövényről"
+        },
+        {
+          "number": "2",
+          "title": "Vágás",
+          "description": "Tiszta vágás egy csomó alatt, hossza kb. 20-30 cm"
+        },
+        {
+          "number": "3",
+          "title": "Előkészítés",
+          "description": "Az alsó levelek eltávolítása, a vágási felület rövid szárítása"
+        },
+        {
+          "number": "4",
+          "title": "Ültetés",
+          "description": "Laza, nedves talajba helyezés árnyékban, rendszeres öntözés"
+        }
+      ]
+    }
+  },
+  "klima": {
+    "title": "Klímával kapcsolatos követelmények",
+    "paragraph1": "A kava egy <strong>trópusi növény</strong>, amely specifikus klímával kapcsolatos követelményekkel rendelkezik. Csak viszonylag szűk környezetvédelmi feltételek között fejlődik.",
+    "table": {
+      "headers": {
+        "parameter": "Paraméter",
+        "optimal": "Optimális tartomány",
+        "tolerance": "Tolerancia tartomány",
+        "note": "Megjegyzés"
+      },
+      "rows": [
+        {
+          "parameter": "Hőmérséklet",
+          "optimal": "20-30°C",
+          "tolerance": "15-35°C",
+          "note": "Fagyot nem tolerál"
+        },
+        {
+          "parameter": "Csapadék",
+          "optimal": "2.000-3.000 mm/év",
+          "tolerance": "1.500-4.000 mm/év",
+          "note": "Egyenletesen elosztva"
+        },
+        {
+          "parameter": "Páratartalom",
+          "optimal": "70-90%",
+          "tolerance": "60-95%",
+          "note": "Magas páratartalom kedvező"
+        },
+        {
+          "parameter": "Tengerszint feletti magasság",
+          "optimal": "0-500 m",
+          "tolerance": "0-800 m",
+          "note": "Alacsony terület kedvező"
+        },
+        {
+          "parameter": "Napfény",
+          "optimal": "Félárnyék",
+          "tolerance": "30-70% árnyék",
+          "note": "Fiatal növények: több árnyék"
+        }
+      ]
+    },
+    "alert": "<strong>Árnyékigény:</strong> Fiatal kava növények (0-2 év) körülbelül 70-80% árnyékot igényelnek. Koruk előrehaladtával több napfényt is elviselnek, de továbbra is profitálnak a részleges árnyékolásból."
+  },
+  "boden": {
+    "title": "Talajminőség",
+    "paragraph1": "A talajminőség az egyik legkritikusabb tényező a sikeres kava termesztéshez. A növény magas követelményeket támaszt a vízelvezetés és a tápanyagok tartalma tekintetében.",
+    "ideal": {
+      "title": "Ideális talajjellemzők",
+      "items": [
+        {
+          "label": "Szerkezet:",
+          "value": "Laza, morzsalékos, jól szellőző"
+        },
+        {
+          "label": "Vízelvezetés:",
+          "value": "Kiváló – a pangó víz gyorsan gyökérrothadáshoz vezet"
+        },
+        {
+          "label": "pH-érték:",
+          "value": "Enyhe savas és semleges (5,5-6,5)"
+        },
+        {
+          "label": "Szerves anyag tartalom:",
+          "value": "Magas, humuszban gazdag"
+        },
+        {
+          "label": "Mélység:",
+          "value": "Legalább 60 cm a gyökérfejlődéshez"
+        }
+      ]
+    },
+    "avoid": {
+      "title": "Elkerülendő",
+      "items": [
+        {
+          "label": "Tömörített talajok:",
+          "value": "Gátolják a gyökérnövekedést"
+        },
+        {
+          "label": "Pangó víz:",
+          "value": "Gyökérrothadáshoz és gombás fertőzéshez vezet"
+        },
+        {
+          "label": "Nehéz agyagtalajok:",
+          "value": "Rossz vízelvezetés"
+        },
+        {
+          "label": "Sóval telített talajok:",
+          "value": "A kava érzékeny a sóra"
+        },
+        {
+          "label": "Tápanyagban szegény talajok:",
+          "value": "Csökkentik a kavalaktón tartalmat"
+        }
+      ]
+    },
+    "paragraph2": "A hagyományos termesztési területeken gyakran <strong>vulkanikus talajokat</strong> részesítenek előnyben. Ezek ideális kombinációt kínálnak a vízelvezetés, ásványi anyag tartalom és szerkezet szempontjából. Vanuatu és Fiji területén a kava ültetvényeket gyakran enyhén lejtős területeken alakítják ki a természetes vízelvezetés biztosítása érdekében."
+  },
+  "pflege": {
+    "title": "Gondozás és növekedés",
+    "paragraph1": "A kava viszonylag könnyen gondozható növény, amint megerősödik. A legfontosabb gondozási intézkedések az első két évre összpontosítanak.",
+    "table": {
+      "headers": {
+        "phase": "Növekedési fázis",
+        "period": "Időtartam",
+        "tasks": "Fő feladatok",
+        "notes": "Különlegességek"
+      },
+      "rows": [
+        {
+          "phase": "Megerősítés",
+          "period": "0-6 hónap",
+          "tasks": "Rendszeres öntözés, árnyék biztosítása",
+          "notes": "Legkritikusabb fázis"
+        },
+        {
+          "phase": "Fiatal fázis",
+          "period": "6-18 hónap",
+          "tasks": "Gyomirtás, mulcsozás, szükség esetén trágyázás",
+          "notes": "Gyors növekedés"
+        },
+        {
+          "phase": "Érett fázis",
+          "period": "18-36 hónap",
+          "tasks": "Minimális gondozás, kártevő ellenőrzés",
+          "notes": "Gyökérfejlődés"
+        },
+        {
+          "phase": "Betakarításra érett",
+          "period": "3-5+ év",
+          "tasks": "Minőségértékelés, betakarítás előkészítése",
+          "notes": "Optimális potenciál"
+        }
+      ]
+    }
+  },
+  "ernte": {
+    "title": "Betakarítás és érési idő",
+    "paragraph1": "A betakarítás időpontja döntő fontosságú a végtermék minősége szempontjából. A kava termesztés egyik legfontosabb szabálya: <strong>Minél idősebb a növény, annál erősebb és kiegyensúlyozottabb a hatásprofil.</strong>",
+    "qualitaet": {
+      "title": "Minőségi tényezők a betakarítás során",
+      "table": {
+        "headers": {
+          "age": "Kor a betakarításkor",
+          "content": "Kavalaktón tartalom",
+          "quality": "Minőségi szint",
+          "usage": "Felhasználás"
+        },
+        "rows": [
+          {
+            "age": "< 2 év",
+            "content": "Alacsony (3-5%)",
+            "quality": "Éretlen",
+            "qualityColor": "red",
+            "usage": "Nem ajánlott"
+          },
+          {
+            "age": "2-3 év",
+            "content": "Közepes (5-10%)",
+            "quality": "Elfogadható",
+            "qualityColor": "yellow",
+            "usage": "Egyszerű termékek"
+          },
+          {
+            "age": "3-5 év",
+            "content": "Magas (10-15%)",
+            "quality": "Jó",
+            "qualityColor": "green",
+            "usage": "Standard minőség"
+          },
+          {
+            "age": "5-7 év",
+            "content": "Nagyon magas (15-20%)",
+            "quality": "Prémium",
+            "qualityColor": "blue",
+            "usage": "Magas minőségű termékek"
+          },
+          {
+            "age": "> 7 év",
+            "content": "Maximális (18-25%)",
+            "quality": "Kivételes",
+            "qualityColor": "purple",
+            "usage": "Ceremoniális használat"
+          }
+        ]
+      }
+    },
+    "quote": {
+      "text": "A magas minőség ('Noble Kava') érdekében a növénynek legalább 3-5 évet kell növekednie. Minél idősebb a növény, annál erősebb és kiegyensúlyozottabb általában a hatásprofil.",
+      "author": "Sebastian Freidank, \"Kava – A nyugalom gyökere\""
+    }
+  },
+  "anbauregionen": {
+    "title": "Fontos termesztési területek",
+    "paragraph1": "A kava ma egy trópusi szigetekből álló övben található a Csendes-óceánban. Minden régió saját fajtáit, hagyományait és minőségi jellemzőit alakította ki.",
+    "table": {
+      "headers": {
+        "region": "Régió",
+        "varieties": "Ismert fajták",
+        "characteristics": "Különlegességek",
+        "production": "Termelés"
+      },
+      "rows": [
+        {
+          "region": "Vanuatu",
+          "varieties": "Borogu, Melomelo, Palarasul, Kelai",
+          "characteristics": "A legnagyobb fajtaváltozatosság (80+ kultivár)",
+          "production": "A világ legnagyobb termelője",
+          "highlight": true
+        },
+        {
+          "region": "Fiji",
+          "varieties": "Waka, Lewena, Loa",
+          "characteristics": "Ismert a \"Waka\" (prémium gyökerek) miatt",
+          "production": "A második legnagyobb termelő"
+        },
+        {
+          "region": "Tonga",
+          "varieties": "Pouni Ono, Kava Tonga",
+          "characteristics": "Nagyon enyhe, \"krémes\" kava",
+          "production": "Közepes termelés"
+        },
+        {
+          "region": "Samoa",
+          "varieties": "'Ava Lea, 'Ava Sa'a",
+          "characteristics": "Hagyományos ceremóniák",
+          "production": "Helyi fogyasztás"
+        },
+        {
+          "region": "Hawaii",
+          "varieties": "Moi, Mahakea, Hiwa",
+          "characteristics": "Hagyományos fajták újjáélesztése",
+          "production": "Növekvő"
+        },
+        {
+          "region": "Pohnpei",
+          "varieties": "Sakau fajták",
+          "characteristics": "Friss kava lé (\"Sakau\")",
+          "production": "Helyi fogyasztás"
+        }
+      ]
+    },
+    "paragraph2": "<strong>Vanuatu</strong> a termesztett kava származási helyeként ismert, és ma is a legnagyobb genetikai sokféleséggel rendelkezik. Innen a növényt polinéziai tengerészek terjesztették el az egész Csendes-óceánban – mint az egyik legfontosabb \"Canoe Plants\", amelyeket minden új sziget benépesítésekor magukkal vittek."
+  },
+  "navigation": {
+    "nextCategory": "Tovább a következő kategóriához:",
+    "nextTitle": "Történelem és eredetek",
+    "nextSubtitle": "A kava 3000 éves utazása a Csendes-óceánon"
+  }
+}

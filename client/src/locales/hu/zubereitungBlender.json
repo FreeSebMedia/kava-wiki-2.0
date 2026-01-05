@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Turmix módszer",
+    "subtitle": "A Kava elkészítésének gyors és hatékony módja – ideális a modern mindennapokhoz.",
+    "category": "Elkészítés"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "zubereitung": "Elkészítés",
+    "current": "Turmix módszer"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Áttekintés",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Szükséges anyagok",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Lépésről lépésre útmutató",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Összehasonlítás a hagyományos módszerrel",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Szakértői tippek",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Összes idő",
+    "fast": "Gyors",
+    "lowEffort": "Kis erőfeszítés",
+    "highPotency": "Magas potencia",
+    "effectiveExtraction": "Hatékony kivonás",
+    "tip": "Tipp",
+    "essential": "Lényeges",
+    "importantForBestResults": "Fontos a legjobb eredményekhez",
+    "aspect": "Szempont",
+    "traditional": "Hagyományos (gyúrás)",
+    "blender": "Turmixgép",
+    "otherMethods": "Egyéb elkészítési módszerek"
+  },
+  "overview": {
+    "intro": "A turmix módszer a <strong>modern alternatíva</strong> a hagyományos gyúrási módszerhez. Gyorsabb, kevésbé munkaigényes, és mégis <strong>nagyon jó kivonást</strong> biztosít.",
+    "alert": {
+      "title": "Ideális...",
+      "text": "Kezdőknek, akik egyszerű módszert keresnek, vagy tapasztalt felhasználóknak, akiknek kevés idejük van. A turmix módszer nagyobb mennyiségekhez is tökéletes."
+    }
+  },
+  "materials": {
+    "title": "Szükséges anyagok",
+    "essential": [
+      {
+        "name": "Álló turmixgép",
+        "note": "Legalább 500 Watt, jobb, ha 1000+ Watt"
+      },
+      {
+        "name": "Kava gyökérpor",
+        "type": "Közepes őrlés",
+        "note": "20-40g tapasztalattól függően"
+      },
+      {
+        "name": "Szűrőzsák",
+        "note": "Diótej zsák vagy finom szűrő"
+      },
+      {
+        "name": "Meleg víz",
+        "note": "400-600ml, kézmeleg (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Kókuszolaj vagy kókusztej",
+        "note": "1 evőkanál – lényeges a jó kivonáshoz!"
+      },
+      {
+        "name": "Konyhai mérleg",
+        "note": "Konzisztens adagoláshoz"
+      },
+      {
+        "name": "Nagy tál",
+        "note": "A szűréshez"
+      }
+    ],
+    "alert": {
+      "title": "Turmixgép követelmények",
+      "text": "Használjon egy erőteljes álló turmixgépet. A botmixerek vagy gyenge turmixgépek nem kivonják hatékonyan, és túlmelegedhetnek. Ideálisak a nagy teljesítményű turmixgépek, mint a Vitamix vagy a Blendtec."
+    }
+  },
+  "steps": {
+    "title": "Lépésről lépésre útmutató",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Hozzávalók előkészítése",
+        "duration": "2 perc",
+        "description": "Mérje ki és készítse elő az összes hozzávalót.",
+        "details": [
+          "Kava port mérjen (20-40g tapasztalattól függően)",
+          "Mérje ki a vizet (400-600ml)",
+          "Készítsen elő 1 evőkanál kókuszolajat vagy kókusztejet",
+          "Készítse elő a szűrőzsákot és a felfogó tálat"
+        ],
+        "tip": "A zsiradék különösen fontos a turmix módszernél, mivel stabilizálja az emulziót."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "A turmixgépbe helyezés",
+        "duration": "1 perc",
+        "description": "Töltse meg az összes hozzávalót az álló turmixgépbe.",
+        "details": [
+          "Először öntse bele a vizet (kézmeleg, 35-45°C)",
+          "Ezután adja hozzá a kava port",
+          "Végül adja hozzá a zsiradékot (kókuszolaj/kókusztej)",
+          "Zárja le szorosan a fedelet!"
+        ],
+        "tip": "A meleg víz javítja a kivonást. A hideg víz is működik, de kevésbé hatékony."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Turmixolás",
+        "duration": "3-4 perc",
+        "description": "A maximális kivonás érdekében turmixoljon a legmagasabb fokozaton.",
+        "details": [
+          "Állítsa a turmixgépet a legmagasabb fokozatra",
+          "Turmixoljon folyamatosan 3-4 percig",
+          "A keverék habos és tejszínes-barnás lesz",
+          "Túlmelegedés esetén tartson rövid szünetet"
+        ],
+        "tip": "Hosszabb turmixolás = erősebb kava. De vigyázat: egyes turmixgépek 4+ perc után túlmelegednek."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Szűrés",
+        "duration": "3 perc",
+        "description": "Öntse a keveréket egy szűrőzsákba.",
+        "details": [
+          "Helyezze a szűrőzsákot egy nagy tál fölé",
+          "Lassan öntse bele a turmixolt keveréket",
+          "Nyomja össze a zsákot és csavarja ki",
+          "Többször nyomja meg, amíg alig jön ki folyadék"
+        ],
+        "tip": "Ez a lépés fontos! Szűrés nélkül durva rostokat iszunk, amelyek hányingert okozhatnak."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Tálalás",
+        "duration": "Azonnal",
+        "description": "Élvezze a turmixolt kavaját!",
+        "details": [
+          "Töltse tálakba vagy csészékbe",
+          "Opcionálisan: rövid ideig a hűtőben a hűtött kavaért",
+          "Egyszerre igya meg ('Chug')",
+          "Készüljön fel egy chaser-re (gyümölcs)"
+        ],
+        "tip": "A turmixolt kava kissé keserűbb lehet, mint a hagyományosan elkészített. Egy jó chaser segít!"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Összehasonlítás a hagyományos módszerrel",
+    "conclusion": "<strong>Összegzés:</strong> A turmix módszer ideális a mindennapokhoz és a kezdőknek. Különleges alkalmakra vagy maximális potencia esetén a hagyományos módszert érdemes választani.",
+    "items": [
+      {
+        "aspect": "Elkészítési idő",
+        "traditional": "20-25 perc",
+        "blender": "8-10 perc",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Potencia",
+        "traditional": "Nagyon magas",
+        "blender": "Magas és nagyon magas",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Íz",
+        "traditional": "Enyhébb, földes",
+        "blender": "Keserűbb, intenzívebb",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Erőfeszítés",
+        "traditional": "Magas (fizikai)",
+        "blender": "Alacsony",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Felszerelés",
+        "traditional": "Csak zsák + tál",
+        "blender": "Álló turmixgép szükséges",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Kezdőknek",
+        "traditional": "Jól alkalmas",
+        "blender": "Nagyon jól alkalmas",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Szakértői tippek",
+    "items": [
+      {
+        "name": "Jégkocka trükk",
+        "text": "Adjon 2-3 jégkockát a turmixgéphez. Ez hűti a keveréket turmixolás közben, és megakadályozza a túlmelegedést hosszabb turmixolási idő esetén."
+      },
+      {
+        "name": "Dupla szűrés",
+        "text": "Szűrje le kétszer – először egy durva, majd egy finom zsákon. Ez simább kava-t eredményez üledék nélkül."
+      },
+      {
+        "name": "Lecitin boost",
+        "text": "Egy teáskanál napraforgó lecitin javítja az emulziót, és növelheti a kavalaktónok biohasznosulását."
+      },
+      {
+        "name": "Tömeges elkészítés",
+        "text": "Készítsen elő nagyobb mennyiségeket, és tárolja a szűrt kava-t a hűtőben. 2-3 napig eltartható. Fogyasztás előtt jól rázza fel!"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Hagyományos gyúrási módszer",
+      "subtitle": "Maximális potencia, autentikus élmény",
+      "href": "/hu/zubereitung/traditionell"
+    },
+    "instant": {
+      "title": "Instant Kava",
+      "subtitle": "Nincs erőfeszítés, azonnal fogyasztható",
+      "href": "/hu/zubereitung/instant"
+    },
+    "calculator": {
+      "title": "Adagoló kalkulátor",
+      "subtitle": "Személyre szabott ajánlások az Ön fajtájához",
+      "href": "/hu/zubereitung/rechner"
+    }
+  }
+}

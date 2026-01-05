@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "Májbiztonság & Hepatotoxicitás",
+    "subtitle": "A Kava-májvitával kapcsolatos tudományos elemzés: tények, mítoszok és a jelenlegi kutatási állapot.",
+    "category": "Biztonság",
+    "breadcrumbs": {
+      "home": "Főoldal",
+      "sicherheit": "Biztonság",
+      "current": "Májbiztonság"
+    }
+  },
+  "toc": {
+    "title": "Tartalom",
+    "zusammenfassung": "Összefoglalás",
+    "verbot2002": "A 2002-es tilalom",
+    "wasWirklichGeschah": "Mi történt valójában",
+    "rehabilitation": "Rehabilitáció & Bírósági ítéletek",
+    "wissenschaft": "A tudományos bizonyítékok",
+    "whoBewertung": "WHO-értékelés 2007",
+    "emaBewertung": "EMA-értékelés 2017",
+    "klinischeStudien": "Klinikai tanulmányok",
+    "risikofaktoren": "Azonosított kockázati tényezők",
+    "extrakte": "Kivonattípusok",
+    "pflanzenteile": "Növényi részek",
+    "genetik": "Genetikai tényezők",
+    "komedikation": "Komedikáció & Alkohol",
+    "mechanismen": "Lehetséges mechanizmusok",
+    "empfehlungen": "Gyakorlati ajánlások",
+    "quellen": "Források"
+  },
+  "zusammenfassung": {
+    "title": "Jelenlegi tudományos konszenzus",
+    "intro": "A WHO, az EMA és független kutatók átfogó elemzései alapján megállapítható:",
+    "points": [
+      "A hagyományosan elkészített Kava a Noble-fajtákból megfelelő használat mellett <strong>biztonságos</strong>",
+      "Súlyos májkárosodások <strong>rendkívül ritkák</strong> (becsült előfordulás: 1:60.000-től 1:1.000.000-ig)",
+      "A legtöbb esettanulmány <strong>jelentős minőségi hiányosságokat</strong> mutatott a kauzalitás értékelésében",
+      "A 2002-es EU-tilalmat a német bíróságok <strong>aránytalan</strong> intézkedésnek minősítették"
+    ]
+  },
+  "verbot2002": {
+    "title": "A 2002-es tilalom",
+    "intro": "2002-ben a Kava-t Németországban és sok más európai országban kivonták a forgalomból. A Szövetségi Gyógyszer- és Orvostechnikai Intézet (BfArM) visszavonta a Kava-tartalmú gyógyszerek engedélyeit, miután súlyos májkárosodásokról érkeztek jelentések. Ez a döntés széleskörű következményekkel járt a globális Kava-piacra és a csendes-óceáni termelő országokra.",
+    "chronologie": {
+      "title": "Az események időrendje",
+      "note": "A különböző országokban a jelenlegi jogi státusz részletes információiért lásd",
+      "linkText": "Jogi státusz & Legalitás",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "Első esettanulmányok a Kava-fogyasztók májkárosodásairól Európában"
+        },
+        {
+          "date": "2001. nov.",
+          "text": "BfArM fokozatos intézkedési tervet rendel el"
+        },
+        {
+          "date": "2002. jún.",
+          "text": "Az engedélyek visszavonása Németországban"
+        },
+        {
+          "date": "2002-2003",
+          "text": "Tilos az Egyesült Királyságban, Franciaországban, Svájcban, Kanadában, Ausztráliában"
+        },
+        {
+          "date": "2014",
+          "text": "A kölni közigazgatási bíróság a tilalmat jogellenesnek nyilvánítja"
+        },
+        {
+          "date": "2015",
+          "text": "Az OVG Münster megerősíti: a tilalom aránytalan volt"
+        },
+        {
+          "date": "2019",
+          "text": "A gyógyszerengedélyek véglegesen visszavonva"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "Mi történt valójában: Egy kritikai elemzés",
+    "intro": "A tilalomhoz vezető eredeti esettanulmányokat az azt követő években intenzíven tudományosan vizsgálták. A vizsgálatok során jelentős módszertani hiányosságok mutatkoztak:",
+    "probleme": {
+      "title": "Az esettanulmányok problémái",
+      "items": [
+        "A esetek több mint 50%-ában hiányos dokumentáció",
+        "Nincs standardizált kauzalitásértékelés (RUCAM)",
+        "Hepatotoxikus anyagokkal való komedikáció figyelmen kívül hagyva",
+        "Alkoholfogyasztás gyakran nem dokumentált",
+        "Termékminőség és növényi részek nem világosak"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "Későbbi megállapítások",
+      "items": [
+        "Sok termék tartalmazott föld feletti növényi részeket",
+        "Az acetonos kivonatok magasabb kockázatot mutattak, mint a vizesek",
+        "A Tudei-Kava-t részben Noble-ként értékesítették",
+        "Néhány termékben penészszennyezést mutattak ki",
+        "Genetikai polimorfizmusok mint kockázati tényezők azonosítva"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "Rehabilitáció a bíróságok által",
+    "intro": "Hosszas jogi viták után a német bíróságok egyértelmű eredményre jutottak. A kölni közigazgatási bíróság és később az Obergazdasági Bíróság Münster megállapította, hogy a tilalom <strong>aránytalan</strong> volt, és a hatóságok nem értékelték helyesen a tudományos bizonyítékokat.",
+    "quote": "\"A BfArM által feltételezett kauzalitás a Kava-tartalmú gyógyszerek szedése és a jelentkező májkárosodások között nem kellően alátámasztott. A kockázat-haszon mérlegelése hibásan történt.\"",
+    "quoteSource": "— OVG Münster, 2015"
+  },
+  "wissenschaft": {
+    "title": "A tudományos bizonyítékok",
+    "intro": "A tilalom után több átfogó tudományos értékelést végeztek, amelyek árnyaltabb képet festenek a Kava biztonságáról."
+  },
+  "whoBewertung": {
+    "title": "WHO-értékelés 2007",
+    "intro": "A Világszervezet (WHO) 2007-ben átfogó elemzést végzett az összes rendelkezésre álló esettanulmányról. Az eredmény tanulságos volt:",
+    "analysisTitle": "WHO-elemzés 93 esettanulmányról",
+    "cases": [
+      {
+        "count": "8",
+        "label": "\"valószínűleg\" kauzális esetek",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "\"lehetséges\" kauzális esetek",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "Nem értékelhető esetek",
+        "color": "muted"
+      }
+    ],
+    "note": "A WHO megállapította, hogy az acetonos és etanol alapú kivonatok magasabb kockázatot mutattak, mint a szintetikus Kavalactonok, ami a nem-Kavalacton összetevők lehetséges okára utal."
+  },
+  "emaBewertung": {
+    "title": "EMA-értékelés 2017",
+    "intro": "Az Európai Gyógyszerügynökség (EMA) 2017-ben közzétett egy 103 oldalas értékelő jelentést, amely összefoglalta az összes rendelkezésre álló adatot:",
+    "findings": [
+      {
+        "label": "Klinikai tanulmányok",
+        "text": "Nincs jelentős hepatotoxicitás kontrollált vizsgálatokban"
+      },
+      {
+        "label": "Mellékhatások",
+        "text": "Csak enyhe, reverzibilis transzamináz-emelkedések néhány alanynál"
+      },
+      {
+        "label": "Kockázati tényezők",
+        "text": "Organikus kivonatok, alkohol, előzetes májbetegség, genetikai polimorfizmusok"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "Bizonyítékok klinikai tanulmányokból",
+    "intro": "Különösen fontos pont: Kontrollált klinikai tanulmányokban standardizált Kava készítményekkel <strong>nem figyeltek meg súlyos májkárosodásokat</strong>. Smith & Leiras (2018) egy rendszeres áttekintése 11 randomizált tanulmányt elemezett, és nem talált bizonyítékot a hepatotoxicitásra.",
+    "tableTitle": "A tanulmányok összefoglalása",
+    "headers": [
+      "Tanulmány",
+      "Résztvevők",
+      "Időtartam",
+      "Májkárosodás"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6 hét",
+        "result": "Nincs"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8 hét",
+        "result": "Nincs*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4 hét",
+        "result": "Nincs"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645 (7 tanulmány)",
+        "duration": "1-24 hét",
+        "result": "Nincs"
+      }
+    ],
+    "footnote": "*Enyhe transzamináz-emelkedések 2 alanynál, az egyiknek már voltak emelkedett kiindulási értékei"
+  },
+  "risikofaktoren": {
+    "title": "Azonosított kockázati tényezők",
+    "intro": "A tudományos kutatás több olyan tényezőt azonosított, amelyek növelhetik a máj mellékhatásainak kockázatát. E tényezők megértése lehetővé teszi a biztonságos alkalmazást."
+  },
+  "extrakte": {
+    "title": "Kivonattípusok: Vizes vs. Organikus",
+    "intro": "A WHO-elemzés központi megállapítása a különböző kivonási módszerek közötti különbség volt:",
+    "waessrig": {
+      "title": "Vizes kivonatok (hagyományos)",
+      "items": [
+        "Hagyományos elkészítési módszer",
+        "Elsősorban Kavalactone-t von ki",
+        "Védő glutathiont tartalmaz",
+        "A csendes-óceáni népességek körében nincs dokumentált hepatotoxicitás",
+        "A FAO/WHO biztonságosnak minősítette"
+      ]
+    },
+    "organisch": {
+      "title": "Organikus kivonatok (acetonos/etanolos)",
+      "items": [
+        "Ipari kivonási módszer",
+        "Magasabb Kavalacton-koncentráció",
+        "Flavokavineket is kivon",
+        "Glutathion nem kerül kivonásra",
+        "Magasabb kockázat a WHO-elemzésben"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "Növényi részek: Gyökér vs. föld feletti részek",
+    "intro": "A különböző növényi részek használata jelentős hatással van a biztonságra:",
+    "tableTitle": "Pipermethystin tartalom növényi részek szerint",
+    "headers": [
+      "Növényi rész",
+      "Pipermethystin",
+      "Biztonság"
+    ],
+    "rows": [
+      {
+        "part": "Gyökér/Rhizom",
+        "content": "Nem kimutatható",
+        "safety": "Biztonságos",
+        "color": "primary"
+      },
+      {
+        "part": "Szárhüvelyek",
+        "content": "Akár 0,85%",
+        "safety": "Problémás",
+        "color": "amber"
+      },
+      {
+        "part": "Levelek",
+        "content": "Kb. 0,2%",
+        "safety": "Toxikus",
+        "color": "destructive"
+      }
+    ],
+    "note": "A Pipermethystin egy alkaloid, amely in vitro erősen citotoxikus hatású, és zavarja a mitokondriumok működését (Nerurkar et al., 2004). Csak a föld feletti növényi részekben található."
+  },
+  "genetik": {
+    "title": "Genetikai tényezők: CYP2D6-polimorfizmusok",
+    "intro": "A Kavalactone-ok elsősorban a citokróm-P450 enzimrendszeren keresztül metabolizálódnak, különösen a CYP2D6-on. Ezen enzim genetikai variánsai jelentősen befolyásolhatják a metabolizálási sebességet:",
+    "factors": [
+      {
+        "label": "Gyenge metabolizálók (PM)",
+        "text": "Kb. 5-10% az európaiaknak csökkent CYP2D6 aktivitása van, ami magasabb Kavalacton szintekhez vezethet"
+      },
+      {
+        "label": "Idioszinkratikus reakciók",
+        "text": "Néhány eset immunmediált mechanizmusokra vezethető vissza"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "Komedikáció & Alkohol",
+    "warning": {
+      "title": "Kritikus kockázati tényező",
+      "text": "A Kava alkohollal vagy hepatotoxikus gyógyszerekkel való kombinációja jelentősen növeli a májkárosodás kockázatát. Az eredeti esettanulmányok sok esetében az alkoholfogyasztás dokumentált vagy nem zárható ki."
+    },
+    "intro": "A WHO a következő komedikációkat azonosította különösen problémásnak:",
+    "items": [
+      "Alkohol (szinergikus hepatotoxicitás)",
+      "Paracetamol/Acetaminophen (hepatotoxikus)",
+      "Benzodiazepinek (CYP-interakció)",
+      "Antipszichotikumok (CYP-interakció)",
+      "Statinok (hepatotoxikus potenciál)"
+    ]
+  },
+  "mechanismen": {
+    "title": "Lehetséges hepatotoxicitási mechanizmusok",
+    "intro": "A pontos mechanizmusok, amelyek révén a Kava ritkán májkárosodást okozhat, még nem teljesen tisztázottak. Számos hipotézis kerül megvitatásra:",
+    "hypotheses": [
+      {
+        "title": "1. Chinon-metabolitok",
+        "text": "A kavain és a dihidrokavain reaktív chinon-metabolitokká oxidálódhatnak, amelyek reagálnak a sejtes fehérjékkel és oxidatív stresszt okozhatnak (Johnson et al., 2003). A glutathion képes semlegesíteni ezeket a metabolitokat – ez lehet egy lehetséges ok, amiért a vizes kivonatok (amelyek glutathiont tartalmaznak) biztonságosabbak."
+      },
+      {
+        "title": "2. Flavokavinek",
+        "text": "A Flavokavin B in vitro citotoxicitást mutat, és apoptózist indukálhat a hepatocitákban. Az organikus kivonatok magasabb flavokavin koncentrációt tartalmaznak, mint a vizes készítmények."
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "Ez az alkaloid csak a föld feletti növényi részekben található, és erősen citotoxikus. Gátolja a mitokondriális légzést és sejthalálhoz vezethet."
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Gyakorlati ajánlások a maximális biztonság érdekében",
+    "items": [
+      {
+        "label": "Noble-fajták",
+        "text": "Csak megbízható kereskedőktől vásároljon ellenőrzött Noble Kava fajtákat"
+      },
+      {
+        "label": "Gyökér",
+        "text": "Csak gyökér- és rhizomtermékeket használjon, ne föld feletti növényi részeket"
+      },
+      {
+        "label": "Vizes elkészítés",
+        "text": "Hagyományos elkészítési módszert részesítsen előnyben"
+      },
+      {
+        "label": "Nincs alkohol",
+        "text": "Legalább 24 órás távolság az alkoholfogyasztástól"
+      },
+      {
+        "label": "Májértékek",
+        "text": "Rendszeres fogyasztás esetén évente ellenőrizze a májértékeket"
+      },
+      {
+        "label": "Figyelmeztető jelek",
+        "text": "Sárgaság, sötét vizelet vagy szokatlan fáradtság esetén azonnal hagyja abba"
+      }
+    ]
+  }
+}

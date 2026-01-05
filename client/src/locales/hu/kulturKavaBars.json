@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Kava-Bár Kereső",
+    "description": "Kava-bárokat találj világszerte – Floridától Új-Zélandig. Címekkel, értékelésekkel és nyitvatartási időkkel."
+  },
+  "breadcrumb": {
+    "home": "Kezdőlap",
+    "kultur": "Kultúra",
+    "current": "Kava-Bár Kereső"
+  },
+  "viewToggle": {
+    "list": "Lista",
+    "map": "Térkép"
+  },
+  "search": {
+    "placeholder": "Keresés név, város vagy ország szerint...",
+    "resultsCount": "Kava-bár(okat) találtunk",
+    "resultSingular": "Kava-bárt találtunk",
+    "resultPlural": "Kava-bárokat találtunk"
+  },
+  "filter": {
+    "button": "Szűrő",
+    "country": "Ország",
+    "allCountries": "Minden ország",
+    "region": "Régió/Állam",
+    "allRegions": "Minden régió",
+    "minRating": "Minimális értékelés",
+    "allRatings": "Minden értékelés",
+    "rating4Plus": "4+ csillag",
+    "rating45Plus": "4.5+ csillag",
+    "clearFilters": "Szűrők visszaállítása",
+    "features": "Felszereltség"
+  },
+  "featureLabels": {
+    "wifi": "WLAN",
+    "outdoor": "Kültéri",
+    "food": "Ételek",
+    "live-music": "Élő zene",
+    "events": "Események",
+    "traditional": "Hagyományos elkészítés",
+    "kratom": "Kratom",
+    "cbd": "CBD",
+    "games": "Játékok",
+    "parking": "Parkolás",
+    "accessible": "Akadálymentes",
+    "late-night": "Késői nyitvatartás"
+  },
+  "countryNames": {
+    "US": "USA",
+    "AU": "Ausztrália",
+    "NZ": "Új-Zéland",
+    "DE": "Németország",
+    "UK": "Egyesült Királyság",
+    "CA": "Kanada"
+  },
+  "bar": {
+    "verified": "Ellenőrzött",
+    "address": "Cím",
+    "hours": "Nyitvatartás",
+    "specialties": "Szakspecialitások",
+    "features": "Felszereltség",
+    "reviews": "Értékelések",
+    "call": "Hívás",
+    "website": "Weboldal",
+    "route": "Útvonal",
+    "routePlan": "Útvonal tervezése",
+    "backToList": "Vissza a listához"
+  },
+  "empty": {
+    "title": "Nincs Kava-bár található",
+    "description": "Próbálj meg más keresési kifejezéseket vagy szűrőket.",
+    "resetButton": "Szűrők visszaállítása"
+  },
+  "stats": {
+    "title": "Kava-Bár Statisztikák",
+    "bars": "Kava-bárok",
+    "countries": "Országok",
+    "inUSA": "az Egyesült Államokban",
+    "verified": "Ellenőrzött"
+  },
+  "cta": {
+    "title": "Ismersz egy Kava-bárt?",
+    "description": "Segíts nekünk bővíteni az adatbázist! Ha ismersz egy Kava-bárt, amely itt nincs felsorolva, tudasd velünk.",
+    "button": "Kava-bárt javasolni"
+  },
+  "related": {
+    "title": "Kapcsolódó oldalak",
+    "nakamal": {
+      "title": "Nakamal & Kava-bárok",
+      "subtitle": "A Kava-ivás kultúrájának története"
+    },
+    "moderne": {
+      "title": "Modern Kava-kultúra",
+      "subtitle": "Globális elterjedés ma"
+    },
+    "weltkarte": {
+      "title": "Interaktív világtérkép",
+      "subtitle": "Fedezd fel a Kava-régiókat"
+    }
+  },
+  "navigation": {
+    "nakamal": "/hu/kultura/nakamal",
+    "moderne": "/hu/kultura/modern",
+    "weltkarte": "/hu/kultura/vilagterkep",
+    "kontakt": "/hu/kontakt"
+  },
+  "bars": {
+    "kavasutra-boca": {
+      "description": "Az egyik legismertebb Kava-bár lánc Floridában, autentikus légkörrel és kiváló minőségű Kava-fajtákkal Vanuatu-ból és Fidzsiről.",
+      "specialties": [
+        "Vanuatu Borogu",
+        "Fiji Waka",
+        "Kava Smoothies"
+      ]
+    },
+    "kavasutra-delray": {
+      "description": "A KavaSutra a legmagasabb minőségű Kava-t használja Vanuatu szigetéről. Évezredek óta használják szertartásokban.",
+      "specialties": [
+        "Vanuatu Premium",
+        "Kava Flights"
+      ]
+    },
+    "kavasutra-lake-worth": {
+      "description": "Helyi vezetésű Kava-bár, hagyományosan elkészített Kava választékkal, nyugodt légkörben.",
+      "specialties": [
+        "Hagyományos Kava",
+        "Kratom Teák"
+      ]
+    },
+    "bula-kafe-fort-lauderdale": {
+      "description": "Prémium Kava-bár Las Olas szívében, csendes óceáni hangulattal és széles választékkal a Noble Kava fajtákból.",
+      "specialties": [
+        "Fiji Loa Waka",
+        "Tongan Kava",
+        "Kava Flights"
+      ]
+    },
+    "bula-beach-madeira": {
+      "description": "Madeira Beach első Kava-bára! A Bula Kafe tulajdonosától, aki Pinellas első Kava-bárját üzemelteti.",
+      "specialties": [
+        "Beach Blend",
+        "Fiji Waka"
+      ]
+    },
+    "awa-na-kava": {
+      "description": "Nyugodt Kava-lounge a legfinomabb fidschian Kava-val, hookah-val, kratom-mal és Kava-komédia hétfőn.",
+      "specialties": [
+        "Fiji Kava",
+        "Kavaoke",
+        "Komédia Esték"
+      ]
+    },
+    "roots-miami": {
+      "description": "Városi Kava-bár Wynwoodban művészi légkörrel és rendszeres élő zenei eseményekkel.",
+      "specialties": [
+        "House Blend",
+        "Kava Koktélok",
+        "Kratom Teák"
+      ]
+    },
+    "green-spot-miami": {
+      "description": "Kortárs Kava-bár, lounge és kiskereskedelmi helyszín Miamiban.",
+      "specialties": [
+        "Botanikai keverékek",
+        "CBD Kava"
+      ]
+    },
+    "kavaculture-cape-coral-hq": {
+      "description": "A Kava Culture franchise lánc központja a legnagyobb Kava-választékkal.",
+      "specialties": [
+        "Premium Vanuatu",
+        "Kava Koktélok",
+        "Kratom"
+      ]
+    },
+    "kavaculture-bonita-springs": {
+      "description": "Modern, igényes beltéri/kültéri Kava-bár Bonita Springsben.",
+      "specialties": [
+        "Vanuatu Stone",
+        "Fiji Waka"
+      ]
+    },
+    "kavaculture-clearwater": {
+      "description": "Nyugodt Kava-bár Clearwaterben, Happy Hour 14-17 óra között.",
+      "specialties": [
+        "Happy Hour Akciók",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-downtown-ftmyers": {
+      "description": "Downtown Fort Myers Kava Culture nyílt mikrofon estekkel, művészettel és ízletes Kava-koktélokkal.",
+      "specialties": [
+        "Open Mic Esték",
+        "Művészeti Események"
+      ]
+    },
+    "kavaculture-orlando": {
+      "description": "Kava Culture Downtown Orlando-ban, nyugodt légkörrel.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kratom Keverékek"
+      ]
+    },
+    "kavaculture-fmb": {
+      "description": "Kava Culture FMB Buddha Blends Vegan Kitchen-nel. Kültéri tengerparti bár, billiárd, darts, nyílt mikrofonok.",
+      "specialties": [
+        "Beach Vibes",
+        "Vegán Ételek",
+        "Élő Zene"
+      ]
+    },
+    "kavaculture-key-west": {
+      "description": "Kava Culture Key West-en - trópusi hangulat és prémium Kava.",
+      "specialties": [
+        "Island Blend",
+        "Tropical Kava"
+      ]
+    },
+    "kavaculture-tampa-downtown": {
+      "description": "Kava Culture Downtown Tampa-ban, városi légkörrel.",
+      "specialties": [
+        "Urban Blend",
+        "Kava Shots"
+      ]
+    },
+    "kavaculture-south-tampa": {
+      "description": "Kava Culture South Tampa-ban, nyugodt szomszédsági légkörrel.",
+      "specialties": [
+        "Neighborhood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaculture-naples": {
+      "description": "Kava Culture Naples-ben, elegáns légkörrel.",
+      "specialties": [
+        "Premium Selection",
+        "Kava Flights"
+      ]
+    },
+    "kavaculture-port-charlotte": {
+      "description": "Kava Culture Port Charlotte-ban tengerparti hangulattal, kültéri tengerparti helyszínnel a csatornán.",
+      "specialties": [
+        "Beach Vibes",
+        "Canal Views"
+      ]
+    },
+    "kavaculture-estero": {
+      "description": "Kava Culture Estero-ban kényelmes elhelyezkedéssel.",
+      "specialties": [
+        "Kényelmes Elhelyezkedés",
+        "Minőségi Kava"
+      ]
+    },
+    "kavaculture-lake-mary": {
+      "description": "Kava Culture Lake Mary-ben - nyugodt légkör.",
+      "specialties": [
+        "Relaxed Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavakaze-tallahassee": {
+      "description": "A Kavakaze egy Kava-bár Tallahassee-ben, Kava-val, teával és egy nyugodt helyszínnel a pihenéshez.",
+      "specialties": [
+        "Diák Akciók",
+        "Chill Vibes"
+      ]
+    },
+    "island-root-melbourne": {
+      "description": "Downtown Melbourne FL Island Root Kava Bár.",
+      "specialties": [
+        "Hagyományos Kava",
+        "Közösségi Események"
+      ]
+    },
+    "dharma-hookah-largo": {
+      "description": "A Dharma Hookah Lounge a Kava-Java-Hookah-Lounge kávéval, teákkal, Kava-val, Kratom-mal és hookah-val.",
+      "specialties": [
+        "Hookah",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "hippie-hi-clearwater": {
+      "description": "Családi vállalkozás, minden organikus növényi anyag és tea a maximális jólétért.",
+      "specialties": [
+        "Organikus Növényi Anyagok",
+        "Wellness Teák"
+      ]
+    },
+    "johnny-vapors-stpete": {
+      "description": "A Johnny Vapors egy helyi vape bolt és lounge Kava-val és Kratom-mal.",
+      "specialties": [
+        "Vape Termékek",
+        "Kava",
+        "Kratom"
+      ]
+    },
+    "low-tide-gulfport": {
+      "description": "A Low Tide Lounge egy találkozóhely kreatív és békés elmék számára.",
+      "specialties": [
+        "Kreatív Közösség",
+        "Élő Zene"
+      ]
+    },
+    "mad-hatters-stpete": {
+      "description": "Etno-botanikai tea-bár Kava-val és Kratom-mal.",
+      "specialties": [
+        "Etno-botanikai Anyagok",
+        "Tea Keverékek"
+      ]
+    },
+    "kavapor-kissimmee": {
+      "description": "Kava, Vapor és eHookah közvetlenül a Turnpike mellett. Chill, Relax és Enjoy!",
+      "specialties": [
+        "Vape",
+        "Kava",
+        "eHookah"
+      ]
+    },
+    "kava-kula-ormond": {
+      "description": "A Kava Kula prémium Kava-t kínál egy nyugodt tengerparti légkörben.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kava-social-stpete": {
+      "description": "A Kava Social egy társadalmi találkozóhely Kava-val, teával és közösségi eseményekkel.",
+      "specialties": [
+        "Társadalmi Események",
+        "Kava",
+        "Tea"
+      ]
+    },
+    "nakava-gainesville": {
+      "description": "A NaKava autentikus Kava-t kínál a Gainesville egyetemvárosában.",
+      "specialties": [
+        "Egyetemi Vibes",
+        "Premium Kava"
+      ]
+    },
+    "peaceful-warrior-jacksonville": {
+      "description": "A Peaceful Warrior Kava Bár Jacksonville-ben wellnessre és pihenésre összpontosít.",
+      "specialties": [
+        "Wellness",
+        "Hagyományos Kava"
+      ]
+    },
+    "soul-tribe-jacksonville": {
+      "description": "A Soul Tribe Kava-t és egy spirituális közösségi légkört kínál.",
+      "specialties": [
+        "Spirituális Közösség",
+        "Kava"
+      ]
+    },
+    "the-kava-tap-pensacola": {
+      "description": "A The Kava Tap Pensacolában - nyugodt bár-légkör Kava csapolt formában.",
+      "specialties": [
+        "Draft Kava",
+        "Bár Vibes"
+      ]
+    },
+    "nakava-ocala": {
+      "description": "A NaKava Ocala prémium Kava-t kínál Florida központjában.",
+      "specialties": [
+        "Közép-Florida",
+        "Premium Kava"
+      ]
+    },
+    "bula-kafe-orlando": {
+      "description": "A Bula Kafe Orlando a csendes-óceáni hangulatot hozza Közép-Floridába.",
+      "specialties": [
+        "Csendes-óceáni Vibes",
+        "Premium Kava"
+      ]
+    },
+    "purple-lotus-phoenix": {
+      "description": "A Purple Lotus Kava Bár Phoenixben - Arizona premier Kava célpontja.",
+      "specialties": [
+        "Arizona Első",
+        "Premium Kava"
+      ]
+    },
+    "kava-culture-tempe": {
+      "description": "A Kava Culture Tempe-ben, Arizonában - ideális az ASU hallgatói számára.",
+      "specialties": [
+        "Diákbarát",
+        "Premium Kava"
+      ]
+    },
+    "the-root-tucson": {
+      "description": "A The Root Tucsonban autentikus Kava-t és Kratom-ot kínál.",
+      "specialties": [
+        "Autentikus Kava",
+        "Kratom"
+      ]
+    },
+    "bula-kava-house-san-diego": {
+      "description": "A Bula Kava House San Diegóban nyugodt tengerparti légkörrel.",
+      "specialties": [
+        "Beach Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavaroots-san-francisco": {
+      "description": "A Kava Roots San Franciscóban - a Bay Area első Kava-bára.",
+      "specialties": [
+        "Bay Area Első",
+        "Premium Kava"
+      ]
+    },
+    "nakava-la": {
+      "description": "A NaKava Los Angeles a prémium Kava-t hozza Hollywoodba.",
+      "specialties": [
+        "Hollywood Vibes",
+        "Premium Kava"
+      ]
+    },
+    "elixart-fairfax": {
+      "description": "Alkoholtalan, minden korosztályt váró, gyógynövény-lounge elixírekkel, egzotikumokkal és nyers ételekkel.",
+      "specialties": [
+        "Gyógynövény Elixírek",
+        "Nyers Étel",
+        "Minden Korosztály"
+      ]
+    },
+    "bula-kava-house-portland": {
+      "description": "A legjobb hagyományosan elkészített Kava-t szolgálják fel szórakoztató és társasági légkörben. A leginnovatívabb ötlet egy chill helyszínhez!",
+      "specialties": [
+        "Hagyományos Elkészítés",
+        "Kava Oktatás"
+      ]
+    },
+    "commune-i-tea-cave-junction": {
+      "description": "Gyógyszertár, teázó, művészeti galéria és zenei helyszín Dél-Oregon szívében! Kava importálása a Big Island Hawaii-ról.",
+      "specialties": [
+        "Kava Kombucha",
+        "Művészeti Galéria",
+        "Zenei Helyszín"
+      ]
+    },
+    "squarerut-austin": {
+      "description": "Austin népszerű Kava-bára nyugodt légkörrel, játékokkal és közösségi eseményekkel.",
+      "specialties": [
+        "Kava Flights",
+        "Kratom Keverékek",
+        "Kombucha"
+      ]
+    },
+    "kavaculture-lewisville": {
+      "description": "Kava Culture Lewisville-ben, Texasban.",
+      "specialties": [
+        "Premium Kava",
+        "Texas Vibes"
+      ]
+    },
+    "kavaculture-north-fort-worth": {
+      "description": "Kava Culture North Fort Worth-ben.",
+      "specialties": [
+        "Premium Kava",
+        "Kényelmes Elhelyezkedés"
+      ]
+    },
+    "kavaculture-alliance": {
+      "description": "Kava Culture Alliance - MOST NYITVA Ohio-ban.",
+      "specialties": [
+        "Premium Kava",
+        "Középnyugati Vibes"
+      ]
+    },
+    "kavaculture-toledo": {
+      "description": "Kava Culture Toledo-ban, Ohio-ban.",
+      "specialties": [
+        "Premium Kava",
+        "Ohio Elhelyezkedés"
+      ]
+    },
+    "kava-central-salt-lake": {
+      "description": "Salt Lake City első Kava-bára prémium Kava választékkal és barátságos közösséggel.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Szertartások"
+      ]
+    },
+    "kavasutra-nyc": {
+      "description": "A Kava egy gyökér a Déli-csendes-óceánból. Szertartásos ital a pihenéshez és megnyugtatáshoz.",
+      "specialties": [
+        "NYC Vibes",
+        "Premium Kava"
+      ]
+    },
+    "kavasutra-denver": {
+      "description": "A KavaSutra Amerika legfinomabb Kava-bára prémium Kava-val és más gyógynövényekkel.",
+      "specialties": [
+        "Premium Kava",
+        "Gyógynövény Keverékek"
+      ]
+    },
+    "euphorbia-new-orleans": {
+      "description": "A Euphorbia egy Kava-bár, amely Kava-val ízesített italokra és nyers desszertekre, valamint bonsai növényekre specializálódott.",
+      "specialties": [
+        "Nyers Desszertek",
+        "Bonsai Növények",
+        "Kava Italok"
+      ]
+    },
+    "grind-dat-ash-louisville": {
+      "description": "Teljes vonal gyógynövény- és Kava-termékekből, juice bár, dohány, hookah, vape termékek - minden egy helyen.",
+      "specialties": [
+        "Gyógynövény Termékek",
+        "Juice Bár"
+      ]
+    },
+    "kickin-it-st-charles": {
+      "description": "Az első Kava-bár Missouri-ban! Gyere és nézd meg, miről van szó. 7 nap nyitva.",
+      "specialties": [
+        "Missouri Első",
+        "Hagyományos Kava"
+      ]
+    },
+    "krave-kava-carrboro": {
+      "description": "A Krave Kava Bár Carrboróban, Észak-Karolinában.",
+      "specialties": [
+        "Premium Kava",
+        "Egyetemvárosi Vibes"
+      ]
+    },
+    "kat5-kava-wilmington": {
+      "description": "A Kat 5 Kava Bár Wilmingtonban, Észak-Karolinában.",
+      "specialties": [
+        "Tengerparti Vibes",
+        "Premium Kava"
+      ]
+    },
+    "invision-creative-cafe": {
+      "description": "Az InVision egy egyedi közösségi munkatér és kávézó, olyan specialitásokkal, mint a Kava és Kratom.",
+      "specialties": [
+        "Közösségi Munkatér",
+        "Kava & Kratom"
+      ]
+    },
+    "acai-alaska-anchorage": {
+      "description": "Egészséges ételek egy egészséges testért és Kava! Alaska Kava célpontja.",
+      "specialties": [
+        "Acai Tálak",
+        "Smoothiek",
+        "Kava"
+      ]
+    },
+    "kavaculture-spartanburg": {
+      "description": "Kava Culture Spartanburgban, Dél-Karolinában.",
+      "specialties": [
+        "Premium Kava",
+        "Délies Vendégszeretet"
+      ]
+    },
+    "sydney-kava-lounge": {
+      "description": "Ausztrália első dedikált Kava-lounge-a autentikus fidschian Kava-val és csendes-óceáni vendégszeretettel.",
+      "specialties": [
+        "Fiji Waka",
+        "Vanuatu Kava",
+        "Hagyományos Szertartás"
+      ]
+    },
+    "kava-bar-melbourne": {
+      "description": "Melbourne Kava-bára a Pacific Marketben, Kava és Kratom választékkal.",
+      "specialties": [
+        "Fiji Kava",
+        "Tongan Kava"
+      ]
+    },
+    "island-root-brisbane": {
+      "description": "Brisbane autentikus Kava-bára fidschian dekorral és hagyományos elkészítéssel.",
+      "specialties": [
+        "Fiji Waka",
+        "Kava Szertartások"
+      ]
+    },
+    "four-shells-auckland": {
+      "description": "Auckland dedikált Kava-lounge-a a Victoria Park Marketben, meleg, barátságos közösséggel és Noble Kava-val az egész Csendes-óceánból.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Waka",
+        "Vanuatu Kava"
+      ]
+    },
+    "kava-bar-nz-papatoetoe": {
+      "description": "Autentikus Kava-bár Dél-Aucklandban, kedvező árakkal és széles Kava-por választékkal.",
+      "specialties": [
+        "Tongan Kava",
+        "Fiji Kava",
+        "Kava Por Értékesítés"
+      ]
+    },
+    "kava-lounge-berlin": {
+      "description": "Berlin első Kava-lounge-a Kreuzbergben, nyugodt légkörrel és rendszeres Kava-szertartásokkal.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Szertartások"
+      ]
+    },
+    "kava-club-london": {
+      "description": "London első Kava-klubja Shoreditchben, városi környezettel és prémium Kava választékkal.",
+      "specialties": [
+        "Fiji Premium",
+        "Kava Koktélok"
+      ]
+    },
+    "kava-cafe-vancouver": {
+      "description": "Vancouver hangulatos Kava-kávézója, Kava és egészséges ételek választékával.",
+      "specialties": [
+        "Vanuatu Kava",
+        "Kava Smoothie Tálak"
+      ]
+    }
+  }
+}

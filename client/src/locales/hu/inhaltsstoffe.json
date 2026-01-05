@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Hatóanyagok & Kémia",
+    "subtitle": "A Piper methysticum farmakológiai titkai: Kavalaktone, kémiai típusok és hatásmechanizmusok.",
+    "category": "Hatóanyagok"
+  },
+  "breadcrumbs": {
+    "home": "Főoldal",
+    "current": "Hatóanyagok"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "uebersicht": "A hatóanyagok áttekintése",
+    "kavalactone": "A 6 fő Kavalaktone",
+    "chemotypen": "A kémiai típus rendszer",
+    "synergien": "Szinergiák & Entourage-hatás",
+    "weitere": "További hatóanyagok",
+    "unterseiten": "Részletes cikkek"
+  },
+  "uebersicht": {
+    "paragraph1": "A Kava pszichoaktív hatását elsősorban egy olyan vegyületcsoport idézi elő, amelyet <strong>Kavalaktone</strong> (vagy Kava-Pyone) néven ismerünk. Ellentétben sok más pszichoaktív növénnyel (mint a kávé vagy a tea), a Kava nem tartalmaz alkaloidokat mint fő hatóanyagokat.",
+    "paragraph2": "Eddig 18 különböző Kavalaktont azonosítottak, amelyek közül hat felelős a farmakológiai hatás több mint 96%-áért. Ezek a hat \"fő Kavalaktone\" képezik a Kava osztályozásának és minősítésének alapját."
+  },
+  "kavalactone": {
+    "title": "A 6 fő Kavalaktone",
+    "intro": "Minden Kavalaktone egyedi hatásprofilal rendelkezik. Egy Kava fajta összhatása ezen hat komponens specifikus keverési arányából adódik.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "Név",
+      "abbreviation": "Rövidítés",
+      "effect": "Elsődleges hatás"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmethoxyyangonin",
+        "abbreviation": "DMY",
+        "effect": "Fókusz, dopamin növelés, eufória"
+      },
+      {
+        "number": "2",
+        "name": "Dihydrokavain",
+        "abbreviation": "DHK",
+        "effect": "Erős izomlazítás, analgézia (fájdalomcsillapítás)"
+      },
+      {
+        "number": "3",
+        "name": "Yangonin",
+        "abbreviation": "Y",
+        "effect": "Serkentő, hat a CB1 receptorokra (endokannabinoid rendszer)"
+      },
+      {
+        "number": "4",
+        "name": "Kavain",
+        "abbreviation": "K",
+        "effect": "Szorongásoldó, hangulatjavító, mentális fókusz. Felelős a \"Heady\" hatásért."
+      },
+      {
+        "number": "5",
+        "name": "Dihydromethysticin",
+        "abbreviation": "DHM",
+        "effect": "Nyugtató, hosszan tartó. Magas koncentrációk hányingert okozhatnak (tipikus a Tudei Kava esetében)."
+      },
+      {
+        "number": "6",
+        "name": "Methysticin",
+        "abbreviation": "M",
+        "effect": "Erősen nyugtató, szorongásoldó, neuroprotektív."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "A kémiai típus rendszer",
+    "intro": "A Kava fajta hatásának előrejelzésére egy 6 számjegyű kódot használnak, amely a Kavalaktone-okat csökkenő koncentrációs sorrendben sorolja fel. Ezt hívják <strong>kémiai típusnak</strong>.",
+    "exampleTitle": "Példa: Kémiai típus 426531",
+    "exampleText": "Ez azt jelenti, hogy <strong>Kavain (4)</strong> a legmagasabb koncentrációval bír, ezt követi a <strong>Dihydrokavain (2)</strong>, majd a <strong>Methysticin (6)</strong>, stb.",
+    "nobleTudeiTitle": "Noble Kava vs. Tudei Kava",
+    "nobleTudeiIntro": "A kémiai típus a legfontosabb eszköz a magas minőségű \"Noble Kava\" (nemes kava) és az alacsonyabb minőségű \"Tudei Kava\" (Két Napos Kava) megkülönböztetésére.",
+    "nobleDescription": "<strong>Noble Kava:</strong> A kémiai típusok általában <strong>4</strong>-el (Kavain) vagy <strong>2</strong>-vel (Dihydrokavain) kezdődnek. Ez kellemes, szorongásoldó hatást biztosít hosszú \"másnaposság\" nélkül.",
+    "nobleCodes": "Tipikus kódok: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Tudei Kava:</strong> A kémiai típusok gyakran <strong>5</strong>-tel (Dihydromethysticin) vagy <strong>2</strong>-vel kezdődnek, nagyon magas 5-ös arány mellett. A DHM nagyon lassan bomlik le, és napokig tartó fáradtságot és hányingert okozhat.",
+    "tudeiCodes": "Tipikus kódok: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Szinergiák & Entourage-hatás",
+    "paragraph1": "Hasonlóan a kannabiszhoz (terpének & kannabinoidok), a Kava esetében az összes kivonat hatékonyabb, mint az izolált Kavalaktone-ok. Ezt hívják Entourage-hatásnak.",
+    "paragraph2": "Az izolált Kavain bár szorongásoldó hatású, de a Yangonin (MAO-B gátlás) és a Desmethoxyyangonin (dopamin növelés) kombinációja jelentősen fokozza a hangulatjavító hatást. Ezért a hagyományos elkészítések vagy teljes spektrumú kivonatok előnyben részesülnek az izolált hatóanyagokkal szemben."
+  },
+  "weitere": {
+    "title": "További hatóanyagok",
+    "intro": "A Kavalaktone-okon kívül a gyökér tartalmaz:",
+    "items": [
+      {
+        "label": "Flavokavinok (A, B, C)",
+        "text": "Chalkonok, amelyek potenciális antitumor hatásokkal bírnak, de gyanú merült fel, hogy rendkívül magas dózisokban citotoxikusak lehetnek (főként Tudei fajtákban)."
+      },
+      {
+        "label": "Alkaloidok",
+        "text": "Pipermethystin főként a <strong>levelekben és szárakban</strong> található, nem a gyökérben. Mérgező, és ez az egyik fő oka annak, hogy hagyományosan csak a gyökereket fogyasztják."
+      },
+      {
+        "label": "Keményítő & Rostok",
+        "text": "A száraz tömeg körülbelül 43%-át teszik ki, és biztosítják az ital tipikus állagát."
+      },
+      {
+        "label": "Ásványi anyagok",
+        "text": "Kálium, kalcium, magnézium."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "Részletes cikkek",
+    "intro": "A részletesebb információkért az egyes témákról látogassa meg szakosodott aloldalainkat:",
+    "kavalactoneTitle": "A 6 fő Kavalaktone",
+    "kavalactoneDescription": "Részletes hatásprofilok Kavain, Dihydrokavain, Methysticin, Dihydromethysticin, Yangonin és Desmethoxyyangonin számára.",
+    "chemotypenTitle": "A kémiai típus rendszer",
+    "chemotypenDescription": "Hogyan előrejelzi a 6 számjegyű kód a hatást és különbözteti meg a Noble Kava-t a Tudei-tól.",
+    "learnMore": "Tudjon meg többet"
+  }
+}

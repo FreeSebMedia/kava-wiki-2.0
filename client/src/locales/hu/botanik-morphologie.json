@@ -1,0 +1,252 @@
+{
+  "page": {
+    "title": "Morfológia",
+    "subtitle": "A Kava növény részletes anatómiája, különös figyelmet fordítva a gazdaságilag fontos gyökérzetre.",
+    "category": "Botanika"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "botanik": "Botanika",
+    "morphologie": "Morfológia"
+  },
+  "toc": {
+    "ueberblick": "Morfológiai áttekintés",
+    "wurzelsystem": "A gyökérzet",
+    "stumpf": "A corm (törzs)",
+    "seitenwurzeln": "A oldalgyökerek (Waka)",
+    "kavalactonVerteilung": "Kavalacton eloszlás",
+    "staengel": "Szár & csomók",
+    "blaetter": "Levelek",
+    "blueten": "Virágok & gyümölcsök"
+  },
+  "intro": {
+    "paragraph1": "A <em>Piper methysticum</em> morfológiája évezredeken át tartó szelekció eredménye. Míg a növény föld feletti részei fontosak a fajták azonosításához, a valódi érték a föld alatti struktúrákban rejlik – a komplex gyökérzetben, amely a kívánt kavalaktont tartalmazza."
+  },
+  "overview": {
+    "title": "Morfológiai áttekintés",
+    "paragraph1": "A Kava egy évelő, örökzöld cserje, amelynek tipikus magassága <strong>1,5 és 3 méter</strong> között van. Optimális körülmények között – bőséges víz, tápanyagok és árnyék – az egyes növények akár 5 métert is elérhetnek.",
+    "table": {
+      "headers": {
+        "plantPart": "Növényi rész",
+        "characteristic": "Jellemző",
+        "kavalactoneContent": "Kavalacton tartalom"
+      },
+      "rows": {
+        "rootstock": {
+          "name": "Gyökérzet (rizóma)",
+          "characteristic": "Dús, fás, elágazó",
+          "content": "Nagyon magas (3-20%)"
+        },
+        "lateralRoots": {
+          "name": "Oldalgyökerek",
+          "characteristic": "Finom, rostos, kiterjedt",
+          "content": "Legmagasabb tartalom"
+        },
+        "stem": {
+          "name": "Szár (törzs)",
+          "characteristic": "Csomós, bambuszszerű",
+          "content": "Alacsony és közepes"
+        },
+        "leaves": {
+          "name": "Levelek",
+          "characteristic": "Szív alakú, nagy",
+          "content": "Nagyon alacsony"
+        },
+        "flowers": {
+          "name": "Virágok",
+          "characteristic": "Kicsi, füzérszerű",
+          "content": "Nem használt"
+        }
+      }
+    }
+  },
+  "rootSystem": {
+    "title": "A gyökérzet",
+    "paragraph1": "A Kava növény gazdaságilag és farmakológiailag legfontosabb része a föld alatti gyökérzet. Két fő összetevőből áll, amelyek összetételükben és minőségükben különböznek.",
+    "qualityAlert": {
+      "title": "Minőségi jellemző:",
+      "text": "A kiváló minőségű Kava kizárólag a gyökerekből készül. A föld feletti növényi részek (szár, levelek) használata alsóbbrendűnek számít, és nem kívánt mellékhatásokat okozhat."
+    },
+    "stump": {
+      "title": "A corm (törzs)",
+      "paragraph1": "A <strong>törzs</strong> a vastag, fás rész közvetlenül a földfelszín alatt. Ez alkotja a gyökérzet középső tömegét, és idősebb növények esetén jelentős méreteket érhet el.",
+      "properties": {
+        "title": "Tulajdonságok",
+        "items": [
+          "Súly: 5-25 kg érett növényeknél",
+          "Átmérő: 10-30 cm",
+          "Textúra: Kemény, fás, rostos",
+          "Szín: Világosbarna és sötétbarna között"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalacton profil",
+        "items": [
+          "Összes tartalom: Közepes és magas",
+          "Több Dihydromethysticin (DHM)",
+          "Kevesebb Kavain, mint az oldalgyökerekben",
+          "Tendenciálisan \"nehéz\" hatású"
+        ]
+      }
+    },
+    "lateralRoots": {
+      "title": "A oldalgyökerek (Lateral Roots / Waka)",
+      "paragraph1": "A <strong>oldalgyökerek</strong> a finomabb gyökerek, amelyek a törzsből ágaznak ki és a talajban terjednek. Fidzsi-szigeteken \"Waka\" néven ismertek, és a legmagasabb minőségű összetevőnek számítanak.",
+      "properties": {
+        "title": "Tulajdonságok",
+        "items": [
+          "Átmérő: 0,5-3 cm",
+          "Hossz: Akár több méter",
+          "Textúra: Puha, kevésbé fás",
+          "Szín: Világosbarna, sárgás"
+        ]
+      },
+      "kavalactoneProfile": {
+        "title": "Kavalacton profil",
+        "items": [
+          "Összes tartalom: A legmagasabb az összes növényi rész közül",
+          "Magasabb Kavain arány",
+          "Kiegyensúlyozottabb hatásprofil",
+          "Prémium minőség (\"Waka Grade\")"
+        ]
+      }
+    },
+    "distribution": {
+      "title": "Kavalacton eloszlás a növényben",
+      "paragraph1": "A kavalaktónok koncentrációja erősen változik a különböző növényi részek között. Ennek közvetlen hatása van a Kava termékek minőségére és biztonságára.",
+      "table": {
+        "headers": {
+          "plantPart": "Növényi rész",
+          "kavalactoneContent": "Kavalacton tartalom",
+          "usage": "Felhasználás",
+          "qualityLevel": "Minőségi szint"
+        },
+        "rows": {
+          "lateralRoots": {
+            "name": "Oldalgyökerek (Waka)",
+            "content": "10-20%",
+            "usage": "Prémium Kava",
+            "quality": "Legmagasabb"
+          },
+          "stump": {
+            "name": "Törzs (Corm)",
+            "content": "5-15%",
+            "usage": "Standard Kava",
+            "quality": "Magas"
+          },
+          "basalStem": {
+            "name": "Basalis törzs (Lewena)",
+            "content": "3-8%",
+            "usage": "Keverve vagy önállóan",
+            "quality": "Közepes"
+          },
+          "upperStem": {
+            "name": "Felső törzs",
+            "content": "1-3%",
+            "usage": "Nem ajánlott",
+            "quality": "Alacsony"
+          },
+          "leaves": {
+            "name": "Levelek",
+            "content": "<1%",
+            "usage": "Nem használt",
+            "quality": "Nem alkalmas"
+          }
+        }
+      },
+      "warningAlert": {
+        "title": "Figyelmeztetés:",
+        "text": "A levelek és a föld feletti szár részek használata összefüggésbe hozható a májtoxicitás történelmi jelentéseivel. A kiváló minőségű Kava kizárólag gyökéranyagot használ."
+      }
+    }
+  },
+  "stems": {
+    "title": "Szár & csomók",
+    "paragraph1": "A Kava szárai (törzsei) az egyik legfontosabb jellemző a <strong>fajták azonosításához</strong>. Fennálló helyzetben nőnek és az életkor előrehaladtával elágaznak.",
+    "structure": {
+      "title": "Struktúra",
+      "items": [
+        "<strong>Csomók (Nodes):</strong> Jól látható megvastagodások, hasonlóan a bambuszhoz",
+        "<strong>Internódiumok:</strong> A csomók közötti szakaszok, változó hosszúságúak",
+        "<strong>Átmérő:</strong> 2-5 cm, az életkortól és a fajtától függően",
+        "<strong>Magasság:</strong> 1,5-3 m (akár 5 m optimális körülmények között)"
+      ]
+    },
+    "varietyFeatures": {
+      "title": "Fajta jellemzők",
+      "paragraph1": "A szárak színe és mintázata kulcsfontosságú jellemző a kultivárok megkülönböztetésére:",
+      "items": [
+        "<strong>Zöld:</strong> Gyakori sok standard fajnál",
+        "<strong>Pöttyös:</strong> Jellemző bizonyos fajtákra",
+        "<strong>Sávos:</strong> Hosszirányú csíkok különböző színekben",
+        "<strong>Sötétlila/Fekete:</strong> Ritka, gyakran különösen értékelt fajták"
+      ]
+    }
+  },
+  "leaves": {
+    "title": "Levelek",
+    "paragraph1": "A Kava levelei nagyok, feltűnőek és elsősorban a fotoszintézisre szolgálnak. Hagyományosan nem használják a Kava elkészítéséhez.",
+    "characteristics": {
+      "title": "Levélkarakterisztikák",
+      "formSize": {
+        "title": "Forma & méret",
+        "items": [
+          "Szív alakú (cordat)",
+          "Szélesség: 15-30 cm",
+          "Hossz: 20-35 cm",
+          "Váltakozó elrendezés"
+        ]
+      },
+      "surface": {
+        "title": "Felület",
+        "items": [
+          "Sima vagy enyhén szőrös",
+          "Fényes a felső oldalon",
+          "Matt az alsó oldalon",
+          "Kiemelkedő levélerek"
+        ]
+      },
+      "color": {
+        "title": "Szín",
+        "items": [
+          "Világoszöld és sötétzöld között",
+          "Ibolyás árnyalatok lehetségesek",
+          "Levélstílek gyakran színezettek",
+          "Fajtaspecifikus variációk"
+        ]
+      }
+    }
+  },
+  "flowers": {
+    "title": "Virágok & gyümölcsök",
+    "paragraph1": "Bár a <em>Piper methysticum</em> virágokat termel, a növény funkcionálisan steril, és nem képez életképes magokat.",
+    "flowerStructure": {
+      "title": "Virágstruktúra",
+      "items": [
+        "<strong>Típus:</strong> Füzérszerű virágzatok (spadix)",
+        "<strong>Méret:</strong> 3-9 cm hosszú",
+        "<strong>Szín:</strong> Zöldes-fehér és sárgás",
+        "<strong>Pozíció:</strong> A levelekkel szemben",
+        "<strong>Nem:</strong> Többnyire egyivarú (dioikus)"
+      ]
+    },
+    "sterility": {
+      "title": "Sterilitás",
+      "paragraph1": "A <em>P. methysticum</em> sterilitása a magas poliploidiának (dekáploidia) következménye. Ez azt jelenti:",
+      "items": [
+        "Nincsenek életképes magok",
+        "Csak vegetatív szaporodás",
+        "Teljes mértékben az emberre támaszkodik",
+        "Minden növény genetikai klón"
+      ]
+    },
+    "paragraph2": "Ez a sterilitás széleskörű következményekkel jár: Az állandó emberi termesztés nélkül a <em>Piper methysticum</em> egy generáción belül kihalna. Minden ma létező Kava növény egy megszakítás nélküli dugványozási lánc eredménye, amely körülbelül 3000 évvel ezelőtt kezdődött."
+  },
+  "navigation": {
+    "continueText": "Tovább a Botanika fejezethez:",
+    "nextChapter": {
+      "title": "Termesztés & ökológia",
+      "description": "Termesztés, szaporítás & növekedési feltételek"
+    }
+  }
+}

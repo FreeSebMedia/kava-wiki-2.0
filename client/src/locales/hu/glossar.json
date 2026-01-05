@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "category": "Szótár",
+    "title": "Kava Szótár",
+    "subtitle": "Több mint 50 szakkifejezés a Kava körül – a Kavalaktónoktól a Kava-ceremóniáig"
+  },
+  "intro": "Ez a szótár a Kava körüli legfontosabb kifejezéseket magyarázza el. Kémiai vegyületektől kezdve elkészítési módszereken át kulturális hagyományokig – itt minden szakkifejezést érthetően találsz meg.",
+  "search": {
+    "placeholder": "Kifejezés keresése...",
+    "noResults": "Nincs találat a következőre",
+    "clearSearch": "Keresés törlése",
+    "resultsCount": "{{count}} kifejezés(e) található"
+  },
+  "categories": {
+    "chemie": "Kémia & Összetevők",
+    "wirkung": "Hatás & Effektek",
+    "kultur": "Kultúra & Hagyomány",
+    "sorten": "Fajták & Változatok",
+    "zubereitung": "Elkészítés",
+    "sicherheit": "Biztonság"
+  },
+  "toc": {
+    "uebersicht": "Áttekintés",
+    "suche": "Keresés",
+    "chemie": "Kémia & Összetevők",
+    "wirkung": "Hatás & Effektek",
+    "sorten": "Fajták & Változatok",
+    "zubereitung": "Elkészítés",
+    "kultur": "Kultúra & Hagyomány",
+    "sicherheit": "Biztonság"
+  },
+  "ui": {
+    "relatedTerms": "Kapcsolódó kifejezések",
+    "relatedLinks": "További információk",
+    "backToTop": "Fel",
+    "showMore": "Több megjelenítése",
+    "showLess": "Kevesebb megjelenítése"
+  },
+  "terms": {
+    "kavalactone": {
+      "term": "Kavalaktónok",
+      "shortDefinition": "A Kava pszichoaktív hatóanyagai",
+      "fullExplanation": "A Kavalaktónok egy 18 lactonból álló csoport, amelyek a Kava pszichoaktív hatásaiért felelősek. A **hat fő Kavalaktón** körülbelül 96%-át teszi ki a teljes tartalomnak: Desmethoxyyangonin (DMY), Dihydrokavain (DHK), Yangonin (Y), Kavain (K), Dihydromethysticin (DHM) és Methysticin (M). Minden Kavalaktón saját hatásprofiljával rendelkezik – a szorongásoldótól a izomlazítón át a nyugtatóig. A gyökérben található összesített tartalom jellemzően 3-20% között mozog.",
+      "relatedTerms": [
+        "Chemotípus",
+        "Kavain",
+        "DHK"
+      ],
+      "relatedLinks": [
+        {
+          "label": "A 6 fő Kavalaktón",
+          "href": "/hu/osszetevok/kavalactone"
+        },
+        {
+          "label": "Chemotípus rendszer",
+          "href": "/hu/osszetevok/chemotypen"
+        }
+      ]
+    },
+    "chemotyp": {
+      "term": "Chemotípus",
+      "shortDefinition": "Egy Kava fajta kémiai profilja",
+      "fullExplanation": "A Chemotípus egy **6 számjegyű kód**, amely a hat fő Kavalaktón koncentráció szerinti sorrendjét jelzi. Minden Kavalaktónak van egy száma: 1=DMY, 2=DHK, 3=Y, 4=K, 5=DHM, 6=M. Egy olyan Chemotípus, mint a \"426315\", azt jelenti: Kavain (4) a legmagasabb koncentrációjú, ezt követi a DHK (2), stb. A Chemotípus jelentősen meghatározza egy fajta hatását – hogy inkább \"heady\" (fejben ható, euforikus) vagy \"heavy\" (testi, nyugtató) legyen.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Noble Kava",
+        "Heady",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Chemotípus számító",
+          "href": "/hu/osszetevok/szamito"
+        },
+        {
+          "label": "A Chemotípus rendszer",
+          "href": "/hu/osszetevok/chemotypen"
+        }
+      ]
+    },
+    "kavain": {
+      "term": "Kavain",
+      "shortDefinition": "A legfontosabb Kavalaktón a szorongásoldó hatásért",
+      "fullExplanation": "A Kavain (a Chemotípus rendszer 4. száma) a legjobban kutatott Kavalaktón, és **fő felelőse a szorongásoldó (anxiolytikus) hatásnak**. Hat a GABA-receptorokra, a dopamin- és noradrenalin-transzporterekre. A magas Kavain-tartalmú fajtákat (4 az első vagy második helyen a Chemotípusban) különösen magas színvonalúnak tartják, és \"heady\" néven ismertek. A Kavain neuroprotektív tulajdonságokkal is rendelkezik.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "GABA",
+        "Heady"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktónok részletesen",
+          "href": "/hu/osszetevok/kavalactone"
+        },
+        {
+          "label": "Szorongásoldó hatás",
+          "href": "/hu/hatas/szorongas"
+        }
+      ]
+    },
+    "dhk": {
+      "term": "DHK (Dihydrokavain)",
+      "shortDefinition": "A Kavalaktón az izomlazításhoz",
+      "fullExplanation": "A Dihydrokavain (DHK, a Chemotípus rendszer 2. száma) a **legerősebb izomlazító Kavalaktón**. Hat a feszültség által vezérelt nátriumcsatornákra, és helyi érzéstelenítő tulajdonságokkal rendelkezik – ezért a tipikus zsibbadás érzése a szájban ivás után. A DHK felelős a testi ellazulásért is. A magas DHK-tartalmú fajtákat (2 az első helyen) gyakran \"heavy\" kategóriába sorolják.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Heavy",
+        "Izomlazítás"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Izomlazítás",
+          "href": "/hu/hatas/izom"
+        },
+        {
+          "label": "Kavalaktónok részletesen",
+          "href": "/hu/osszetevok/kavalactone"
+        }
+      ]
+    },
+    "dhm": {
+      "term": "DHM (Dihydromethysticin)",
+      "shortDefinition": "Erősen nyugtató Kavalaktón, dominál a Tudei fajtában",
+      "fullExplanation": "A Dihydromethysticin (DHM, a Chemotípus rendszer 5. száma) egy **erősen nyugtató Kavalaktón**. Magas koncentrációban (5 az első helyen) tipikus a Tudei-Kava esetében, és hosszú távú mellékhatásokat okozhat. A Noble Kava mérsékelt mennyiségben tartalmaz DHM-t, és hozzájárul a relaxáló hatáshoz. A DHM hosszabb felezési idővel rendelkezik, mint a Kavain, ezért a Tudei-hatások akár két napig is eltarthatnak.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Tudei",
+        "Heavy"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/hu/fajták/noble-tudei"
+        }
+      ]
+    },
+    "yangonin": {
+      "term": "Yangonin",
+      "shortDefinition": "Kavalaktón CB1 receptor affinitással",
+      "fullExplanation": "A Yangonin (Y, a Chemotípus rendszer 3. száma) egy egyedi Kavalaktón, amely **affinitást mutat a CB1 kannabinoid receptorokhoz**. Ez hozzájárulhat a Kava hangulatjavító és enyhén euforikus hatásaihoz. A Yangonin felelős a Kava kivonatok sárga színéért is. Gyulladáscsökkentő tulajdonságokkal rendelkezik, és terapeutikus potenciálját vizsgálják.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Chemotípus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktónok részletesen",
+          "href": "/hu/osszetevok/kavalactone"
+        }
+      ]
+    },
+    "dmy": {
+      "term": "DMY (Desmethoxyyangonin)",
+      "shortDefinition": "Hangulatjavító Kavalaktón",
+      "fullExplanation": "A Desmethoxyyangonin (DMY, a Chemotípus rendszer 1. száma) egy **hangulatjavító Kavalaktón**, amely MAO-B gátló tulajdonságokkal rendelkezik. Növelheti a dopamin elérhetőségét az agyban, ami hozzájárul euforikus hatásaihoz. A DMY szintén felelős a Kava antidepresszív hatásáért. Kavainnal kombinálva fokozza egy fajta \"heady\" tulajdonságait.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Heady",
+        "Kavain"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktónok részletesen",
+          "href": "/hu/osszetevok/kavalactone"
+        }
+      ]
+    },
+    "methysticin": {
+      "term": "Methysticin",
+      "shortDefinition": "Nyugtató Kavalaktón hosszú hatástartammal",
+      "fullExplanation": "A Methysticin (M, a Chemotípus rendszer 6. száma) egy **nyugtató Kavalaktón** viszonylag hosszú hatástartammal. Hozzájárul a testi ellazuláshoz és az alvás elősegítéséhez. A Methysticin antikonvulzív (görcsoldó) tulajdonságokkal is rendelkezik. A legtöbb Noble fajtában a Methysticin mérsékelt mennyiségben található, és kiegészíti a többi Kavalaktón hatását.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Heavy",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kavalaktónok részletesen",
+          "href": "/hu/osszetevok/kavalactone"
+        }
+      ]
+    },
+    "piper-methysticum": {
+      "term": "Piper methysticum",
+      "shortDefinition": "A Kava tudományos neve",
+      "fullExplanation": "A Piper methysticum a **tudományos (latin) neve** a Kava növénynek. A név szó szerint \"bódító borsot\" jelent (görög \"methystikos\" = bódító). A növény a **borsófélék családjába (Piperaceae)** tartozik, és szoros rokonságban áll a Fekete borssal. A Kava egy steril kultúrnövény, amely csak vegetatívan szaporítható – ez utal az ember általi több ezer éves háziasítására.",
+      "relatedTerms": [
+        "Piper wichmannii",
+        "Botanika"
+      ],
+      "relatedLinks": [
+        {
+          "label": "A növény",
+          "href": "/hu/botanika/noveny"
+        },
+        {
+          "label": "Botanika áttekintés",
+          "href": "/hu/botanika"
+        }
+      ]
+    },
+    "piper-wichmannii": {
+      "term": "Piper wichmannii",
+      "shortDefinition": "A Kava növény vad ősformája",
+      "fullExplanation": "A Piper wichmannii a **Piper methysticum vad ősformája**. Ez a vad fajta Pápua Új-Guineában és a Salamon-szigeteken található, és szexuálisan szaporodhat (ellentétben a steril kultúraformával). A tudósok úgy vélik, hogy a Kava körülbelül 3000 évvel ezelőtt a Piper wichmannii-ból **háziasították**. A vad Kava gyakran magasabb mennyiségben tartalmaz nem kívánt vegyületeket, és nem ajánlott fogyasztásra.",
+      "relatedTerms": [
+        "Piper methysticum",
+        "Tudei"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Történelem",
+          "href": "/hu/tortenelem"
+        }
+      ]
+    },
+    "chalkon": {
+      "term": "Chalkonok",
+      "shortDefinition": "Flavonoid vegyületek a Kava-ban",
+      "fullExplanation": "A Chalkonok egy osztálya a **flavonoid vegyületeknek**, amelyek a Kava-ban találhatók. A legfontosabbak a Flavokavain A, B és C. Míg a Flavokavain A és C viszonylag ártalmatlannak számítanak, a **Flavokavain B (FKB)** potenciális májtoxicitással hozható összefüggésbe. A Chalkonok főként a föld feletti növényi részekben és a Tudei fajtákban találhatók. A gyökérből származó Noble Kava csak kis mennyiségben tartalmaz.",
+      "relatedTerms": [
+        "Flavokavain B",
+        "Tudei",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Biztonság",
+          "href": "/hu/biztonsag"
+        }
+      ]
+    },
+    "extraktion": {
+      "term": "Kivonás",
+      "shortDefinition": "A Kavalaktónok kinyerési folyamata",
+      "fullExplanation": "A kivonás a folyamat, amely során **a Kavalaktónokat a növényi anyagból oldják ki**. A hagyományos elkészítés során ezt vízben való gyúrással végzik – a Kavalaktónok zsíroldékonyak, és mechanikai erő és emulgeálás révén vonják ki őket. Az ipari kivonatok gyakran használnak oldószereket, mint például etanol vagy acetont. A **vizes kivonatok** biztonságosabbnak számítanak, mivel kevesebb nem kívánt vegyületet tartalmaznak.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Gyúrási módszer"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Elkészítés",
+          "href": "/hu/elkeszites"
+        }
+      ]
+    },
+    "gaba": {
+      "term": "GABA",
+      "germanTerm": "Gamma-Aminobuttersäure",
+      "shortDefinition": "A legfontosabb gátló neurotranszmitter",
+      "fullExplanation": "A GABA (Gamma-Aminobuttersäure) a **legfontosabb gátló neurotranszmitter** a központi idegrendszerben. Csökkenti a neuronális ingerlékenységet, és nyugtató, szorongásoldó és alvást elősegítő hatása van. A Kavalaktónok – különösen a Kavain és a DHK – modulálják a GABA-receptorokat, de **más módon, mint a benzodiazepinek**. Ez magyarázza, hogy a Kava miért nyugtat, anélkül hogy a hagyományos altatók tipikus mellékhatásait okozná (nincs függőség, nincs kognitív károsodás).",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Kavain",
+        "Anxiolysis"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Szorongásoldó hatás",
+          "href": "/hu/hatas/szorongas"
+        },
+        {
+          "label": "Tudományos tanulmányok",
+          "href": "/hu/tanulmanyok"
+        }
+      ]
+    },
+    "reverse-tolerance": {
+      "term": "Fordított Tolerancia",
+      "germanTerm": "Fordított Tolerancia",
+      "shortDefinition": "Jelenség, amikor a Kava idővel erősebben hat",
+      "fullExplanation": "A Fordított Tolerancia egy **egyedi jelenség a Kava esetében**: Ellentétben a legtöbb pszichoaktív anyaggal, ahol idővel egyre többre van szükség a ugyanazon hatás eléréséhez, a Kava esetében **fordítva** van. Sok újonc az első alkalommal keveset vagy semmit sem érez. Több ülés után (jellemzően 3-7 nap rendszeres fogyasztás) a test \"megnyílik\" a Kavalaktónok számára, és a hatás jelentősen erősebbé válik. A pontos mechanizmusok még nem teljesen érthetők, de összefüggésben állhatnak a Kavalaktónok zsírszövetben való felhalmozódásával vagy a receptorok érzékenyebbé válásával.",
+      "relatedTerms": [
+        "Kavalaktónok",
+        "Adagolás"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kognitív hatások",
+          "href": "/hu/hatas/kognicio"
+        },
+        {
+          "label": "Adagolási számító",
+          "href": "/hu/elkeszites/szamito"
+        }
+      ]
+    },
+    "anxiolyse": {
+      "term": "Anxiolysis",
+      "germanTerm": "Szorongásoldás",
+      "shortDefinition": "A Kava szorongásoldó hatása",
+      "fullExplanation": "Az Anxiolysis a **szorongásoldó hatást** jelenti egy anyag esetében. A Kava az egyik kevés növényi anyag, amelynek **1-es szintű bizonyítéka** van a szorongásoldó hatásra (Cochrane Review). Az Anxiolysis főként a GABA-receptorok modulálásán és a limbikus rendszer befolyásolásán keresztül történik. A benzodiazepinekkel ellentétben a Kava **nem okoz kognitív károsodást, nem okoz függőséget és nem nyugtat alacsony és közepes dózisokban**.",
+      "relatedTerms": [
+        "GABA",
+        "Kavain",
+        "Kavalaktónok"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Szorongásoldó hatás",
+          "href": "/hu/hatas/szorongas"
+        },
+        {
+          "label": "Tudományos tanulmányok",
+          "href": "/hu/tanulmanyok"
+        }
+      ]
+    },
+    "krunk": {
+      "term": "Krunk",
+      "shortDefinition": "A Kava mély ellazulásának állapota",
+      "fullExplanation": "\"Krunk\" egy szleng kifejezés a Kava közösségben a **mély ellazulás és jólét** állapotára, amely a Kava elegendő mennyiségű fogyasztása után következik be. A kifejezés valószínűleg a \"drunk\" (részeg) szóból származik, de egy másik állapotot ír le: **tiszta elme, ellazult test**. A tipikus jelek közé tartozik a béke érzése, izomlazulás, enyhe eufória és társasági nyitottság – alkohol melletti zavarok nélkül.",
+      "relatedTerms": [
+        "Shell",
+        "Grog"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hatás",
+          "href": "/hu/hatas"
+        }
+      ]
+    },
+    "muskelentspannung": {
+      "term": "Izomlazítás",
+      "shortDefinition": "A Kava testi ellazító hatása",
+      "fullExplanation": "A Kava **izomlazító hatása** az egyik legszembetűnőbb hatás. Ezt főként a DHK (Dihydrokavain) közvetíti, amely a izomsejtek nátriumcsatornáira hat. Ez az ellazulás **nem jár gyengeséggel vagy koordinációs problémákkal** – az ember ellazultnak érzi magát, de nem korlátozott. A Kava ezért értékes a feszülések, stressz okozta izomproblémák és természetes alternatívaként az izomrelaxánsokhoz.",
+      "relatedTerms": [
+        "DHK",
+        "Heavy",
+        "Kavalaktónok"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Izomlazítás",
+          "href": "/hu/hatas/izom"
+        }
+      ]
+    },
+    "euphorie": {
+      "term": "Eufória",
+      "shortDefinition": "Felemelkedett hangulat a Kava által",
+      "fullExplanation": "A Kava **enyhe vagy mérsékelt eufóriát** okozhat, különösen a magas Kavain-tartalmú Heady fajták esetében. Ez az eufória eltér az alkoholtól vagy más anyagoktól származótól: **tiszta, társasági és nem gátló**. A hangulatjavulás a Kavain és a DMY hatásain keresztül történik a dopamin- és szerotonin rendszerekre. A Heady fajták, mint a Kelai, Moi és Pouni Ono, ismertek euforikus tulajdonságaikról.",
+      "relatedTerms": [
+        "Heady",
+        "Kavain",
+        "DMY"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        }
+      ]
+    },
+    "sedierung": {
+      "term": "Nyugtatás",
+      "shortDefinition": "Nyugtató, alvást elősegítő hatás",
+      "fullExplanation": "A nyugtatás a Kava **nyugtató és alvást elősegítő hatását** jelenti, amely különösen a Heavy fajták esetében kifejezett. Ezt főként a DHM, DHK és Methysticin közvetíti. Alacsony és közepes dózisokban a Kava **nem nyugtat**, és megőrzi a mentális tisztaságot. Magasabb dózisokban vagy Heavy fajták esetében azonban jelentős fáradtság léphet fel. Ezért a Kava természetes lehetőség az alvási problémák kezelésére.",
+      "relatedTerms": [
+        "Heavy",
+        "DHM",
+        "Alvás"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Alvás & Relaxáció",
+          "href": "/hu/hatas/alvas"
+        }
+      ]
+    },
+    "neuroprotektiv": {
+      "term": "Neuroprotektív",
+      "shortDefinition": "Védőhatás az idegsejtekre",
+      "fullExplanation": "A neuroprotektív tulajdonságok a **képességet jelentik, hogy megvédjék az idegsejteket a károsodástól**. Tanulmányok azt mutatják, hogy a Kavain és más Kavalaktónok neuroprotektív hatásai lehetnek – védik a neuronokat az oxidatív stresszel és az excitotoxicitással szemben. Ez érdekes kutatási témává teheti a Kava-t neurodegeneratív betegségek esetén. A neuroprotektív tulajdonságok hozzájárulnak ahhoz is, hogy a Kava ne befolyásolja a kognitív funkciót.",
+      "relatedTerms": [
+        "Kavain",
+        "Kavalaktónok"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Tudományos tanulmányok",
+          "href": "/hu/tanulmanyok"
+        }
+      ]
+    },
+    "analgesie": {
+      "term": "Analgézia",
+      "germanTerm": "Fájdalomcsillapítás",
+      "shortDefinition": "Fájdalomcsillapító hatás a Kava által",
+      "fullExplanation": "Az analgézia a **fájdalomcsillapító hatást** jelenti egy anyag esetében. A Kava enyhe analgetikus tulajdonságokkal rendelkezik, amelyeket főként a DHK közvetít. A helyi érzéstelenítő hatás (zsibbadás a szájban) közvetlen bizonyítéka ennek a tulajdonságnak. A Kava-t hagyományosan **fejfájás, fogfájás és izomfájdalmak** kezelésére használják. A fájdalomcsillapítás azonban enyhe, és nem helyettesíti az orvosi kezelést erős fájdalmak esetén.",
+      "relatedTerms": [
+        "DHK",
+        "Izomlazítás"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hatás",
+          "href": "/hu/hatas"
+        }
+      ]
+    },
+    "kava-dermopathie": {
+      "term": "Kava-Dermopátia",
+      "germanTerm": "Kava-Bőrkiütés",
+      "shortDefinition": "Bőrmegnyilvánulás a túlzott fogyasztás esetén",
+      "fullExplanation": "A Kava-Dermopátia egy **reverzibilis bőrmegnyilvánulás**, amely nagyon magas, hosszú távú Kava-fogyasztás esetén léphet fel. Száraz, pikkelyes bőrként jelentkezik, sárgás árnyalattal, különösen a tenyereken, talpakon és az alkarokon. Az ok valószínűleg a **koleszterin anyagcsere zavarai** a bőrben. A dermopátia teljesen eltűnik a fogyasztás csökkentése vagy leállítása után, és nem jelez májkárosodást.",
+      "relatedTerms": [
+        "Biztonság",
+        "Adagolás"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Biztonság",
+          "href": "/hu/biztonsag"
+        }
+      ]
+    },
+    "noble-kava": {
+      "term": "Noble Kava",
+      "germanTerm": "Nemes Kava",
+      "shortDefinition": "Magas minőségű, hagyományosan fogyasztott Kava fajták",
+      "fullExplanation": "A Noble Kava **kultivált Kava fajtákat** jelöl, amelyeket évszázadok óta a napi fogyasztásra tenyésztenek. Ezeket egy **kiegyensúlyozott Kavalaktón profil** jellemzi, magas Kavain-tartalommal és alacsony nem kívánt vegyületek, például Flavokavain B (FKB) tartalommal. A Noble fajták jellemzően 4 vagy 2 az első két helyen a Chemotípusban. Ezeket biztonságosnak tartják a rendszeres fogyasztásra, és ezek az egyetlen fajták, amelyeket Vanuatu-ban legálisan exportálhatnak.",
+      "relatedTerms": [
+        "Tudei",
+        "Chemotípus",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/hu/fajták/noble-tudei"
+        },
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        }
+      ]
+    },
+    "tudei": {
+      "term": "Tudei Kava",
+      "germanTerm": "Két Napos Kava",
+      "shortDefinition": "Vad vagy alacsonyabb minőségű Kava fajták",
+      "fullExplanation": "A Tudei (a \"két nap\" kifejezésből) **vad vagy alacsonyabb minőségű Kava fajtákat** jelöl, amelyek hatása és mellékhatásai akár két napig is eltarthatnak. Magas mennyiségben tartalmaznak **Flavokavain B (FKB)** és **Dihydromethysticin (DHM)**, amelyek hányingert, fejfájást és esetleg májtoxicitást okozhatnak. A Tudei fajták jellemzően 5 (DHM) az első helyen a Chemotípusban. Vanuatu-ban a Tudei-Kava exportja **tiltott**. A megbízható kereskedők kizárólag Noble Kava-t árusítanak.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Flavokavain B",
+        "DHM"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/hu/fajták/noble-tudei"
+        },
+        {
+          "label": "Biztonság",
+          "href": "/hu/biztonsag"
+        }
+      ]
+    },
+    "heady": {
+      "term": "Heady",
+      "germanTerm": "Fejben Ható",
+      "shortDefinition": "Kava fajták euforikus, zéró hatással",
+      "fullExplanation": "\"Heady\" a Kava fajtákra utal, amelyek hatása **elsősorban zéró és euforikus**. Ezek a fajták jellemzően **Kavain (4) az első vagy második helyen** a Chemotípusban. A Heady Kava-k elősegítik a társaságot, emelik a hangulatot, és enyhén euforikus hatásúak, anélkül hogy erősen nyugtatnának. Különösen alkalmasak társas eseményekre, kreatív munkára vagy délutánra. Ismert Heady fajták a Kelai, Moi, Pouni Ono és Silese.",
+      "relatedTerms": [
+        "Heavy",
+        "Balanced",
+        "Kavain",
+        "Chemotípus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        },
+        {
+          "label": "Fajták összehasonlítása",
+          "href": "/hu/fajták/osszehasonlitas"
+        }
+      ]
+    },
+    "heavy": {
+      "term": "Heavy",
+      "germanTerm": "Testi Hatású",
+      "shortDefinition": "Kava fajták erősen nyugtató, testi hatással",
+      "fullExplanation": "\"Heavy\" a Kava fajtákra utal, amelyek hatása **elsősorban testi és nyugtató**. Ezek a fajták jellemzően **DHK (2) vagy DHM (5) az első helyen** a Chemotípusban. A Heavy Kava-k erősen ellazítják az izmokat, elősegítik az alvást, és nagyon nyugtató hatásúak. Különösen alkalmasak estékre, alvási problémákra vagy mély ellazulásra. Ismert Heavy fajták a Loa Waka, Hiwa, Palasa és Palarasul.",
+      "relatedTerms": [
+        "Heady",
+        "Balanced",
+        "DHK",
+        "Chemotípus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        },
+        {
+          "label": "Alvás & Relaxáció",
+          "href": "/hu/hatas/alvas"
+        }
+      ]
+    },
+    "balanced": {
+      "term": "Kiegyensúlyozott",
+      "germanTerm": "Kiegyensúlyozott",
+      "shortDefinition": "Kava fajták kiegyensúlyozott hatással",
+      "fullExplanation": "\"Kiegyensúlyozott\" a Kava fajtákra utal, amelyek **kiegyensúlyozott keveréket kínálnak heady és heavy tulajdonságokból**. Ezek a fajták jellemzően mind Kavain (4), mind DHK (2) a Chemotípus első helyein találhatók. A Kiegyensúlyozott Kava-k mentális tisztaságot és testi ellazulást kínálnak, ezért **sokoldalúan felhasználhatók** – délutántól estig. Ismert Kiegyensúlyozott fajták a Borogu, Melo Melo, Bir Kar és Vula Waka.",
+      "relatedTerms": [
+        "Heady",
+        "Heavy",
+        "Chemotípus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        },
+        {
+          "label": "Fajták összehasonlítása",
+          "href": "/hu/fajták/osszehasonlitas"
+        }
+      ]
+    },
+    "kultivar": {
+      "term": "Kultivar",
+      "shortDefinition": "Kitenyésztett Kava változat",
+      "fullExplanation": "A kultivar egy **tenyésztés révén létrejött növényi változat**. A Kava esetében több mint 100 különböző kultivar létezik, amelyek eltérnek a Chemotípustól, hatástól, íztől és növekedési formától. Mivel a Kava steril, és csak vegetatívan szaporítható, a kultivárok **genetikai klónok** az anyanövényből. Ismert kultivárok a Borogu, Kelai, Melo Melo, Palasa és még sok más. Minden kultivar saját \"ujjlenyomatával\" rendelkezik a Kavalaktónokból.",
+      "relatedTerms": [
+        "Noble Kava",
+        "Chemotípus"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        }
+      ]
+    },
+    "waka": {
+      "term": "Waka",
+      "shortDefinition": "Kava a főgyökerekből",
+      "fullExplanation": "\"Waka\" a Kava-t jelenti, amely a **főgyökerekből (laterális gyökerek)** készül. A Waka a **legmagasabb minőségi szint**, mivel a főgyökerek a legmagasabb Kavalaktón-tartalommal rendelkeznek. A kifejezés Fidzsi-szigetekről és Tongáról származik. A Waka drágább, mint a Lewena (törzsgyökér), de erősebb és ízben lágyabb. A piacon elérhető legtöbb prémium Kava Waka minőségű.",
+      "relatedTerms": [
+        "Lewena",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        }
+      ]
+    },
+    "lewena": {
+      "term": "Lewena",
+      "shortDefinition": "Kava a gyökérzetből",
+      "fullExplanation": "\"Lewena\" (más néven \"Lawena\") a Kava-t jelenti, amely a **gyökérzetből (rizóma)** készül. A Lewena **alacsonyabb Kavalaktón-tartalommal** rendelkezik, mint a Waka, de ízben is lágyabb és olcsóbb. Gyakran ajánlják kezdő Kava-ként, vagy azok számára, akik enyhébb hatást preferálnak. Fidzsi-szigeteken a Lewenát hagyományosan a napi fogyasztásra használják, míg a Waka különleges alkalmakra van fenntartva.",
+      "relatedTerms": [
+        "Waka",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Fajták profiljai",
+          "href": "/hu/fajták/profilok"
+        }
+      ]
+    },
+    "green-kava": {
+      "term": "Zöld Kava",
+      "germanTerm": "Friss Kava",
+      "shortDefinition": "Frissen betakarított, nem szárított Kava",
+      "fullExplanation": "\"Zöld Kava\" vagy \"Friss Kava\" a **frissen betakarított Kava gyökereket** jelenti, amelyeket nem szárítottak. A csendes-óceáni származási országokban a Kava-t hagyományosan frissen készítik – a gyökereket hámozzák, aprítják és azonnal gyúrják. A friss Kava **más ízű és hatású**, mint a szárított: gyakran enyhébb, \"zöldebb\" ízű, és gyorsabb hatású. Az instant Kava dehidratált Zöld Kava léből készül.",
+      "relatedTerms": [
+        "Instant Kava",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultúra",
+          "href": "/hu/kultura"
+        }
+      ]
+    },
+    "awa": {
+      "term": "'Awa",
+      "shortDefinition": "Hawaiian kifejezés a Kava-ra",
+      "fullExplanation": "'Awa a **hawaii kifejezés a Kava-ra**. Hawaii saját Kava hagyományával rendelkezik, egyedi kultivárokkal, mint a Moi, Hiwa, Nene és Papa Ele'ele. A hawaii 'Awa fajták gyakran különösen erősek, és jellegzetes hatásprofilokkal rendelkeznek. A 'Awa-t hagyományosan **ceremoniális, orvosi és spirituális célokra** használták. A hawaii 'Awa kultúra jelenleg reneszánszát éli, egyre növekvő érdeklődéssel a hagyományos fajták iránt.",
+      "relatedTerms": [
+        "Kultivar",
+        "Noble Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Történelem",
+          "href": "/hu/tortenelem"
+        }
+      ]
+    },
+    "medium-grind": {
+      "term": "Közepes őrlés",
+      "germanTerm": "Közepes őrlés",
+      "shortDefinition": "Szabványos őrlési fok a hagyományos elkészítéshez",
+      "fullExplanation": "A Közepes őrlés a **szabványos őrlési fok a Kava gyökérporhoz**, amelyet a hagyományos gyúrási módszerhez és a turmixgéphez használnak. A por **homokos és lisztes állagú**, és egy szűrőzsákon (75-100 mikron) kell gyúrni, hogy a Kavalaktónokat ki lehessen vonni. A Közepes őrlés olcsóbb, mint az Instant/Mikronizált, és megfelelő elkészítés esetén a legjobb potenciát adja. A durva növényi rostokat kiszűrik.",
+      "relatedTerms": [
+        "Mikronizált",
+        "Instant Kava",
+        "Gyúrási módszer"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hagyományos módszer",
+          "href": "/hu/elkeszites/hagyomanyos"
+        },
+        {
+          "label": "Turmixgép módszer",
+          "href": "/hu/elkeszites/turmixgep"
+        }
+      ]
+    },
+    "micronized": {
+      "term": "Mikronizált Kava",
+      "germanTerm": "Mikronizált Kava",
+      "shortDefinition": "Extrem finomra őrölt Kava szűrés nélkül",
+      "fullExplanation": "A Mikronizált Kava **extrem finomra őrölt gyökérpor**, amelyből a durva rostokat már eltávolították. **Közvetlenül vízbe keverhető**, gyúrás vagy szűrés nélkül. A részecskék annyira finomak, hogy felfüggesztve maradnak és együtt fogyasztják őket. A Mikronizált kényelmesebb, mint a Közepes őrlés, de drágább, és érzékeny gyomrok esetén **hányingert** okozhat, mivel a rostokat is elfogyasztják.",
+      "relatedTerms": [
+        "Közepes őrlés",
+        "Instant Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava elkészítése",
+          "href": "/hu/elkeszites/instant"
+        },
+        {
+          "label": "Adagolási számító",
+          "href": "/hu/elkeszites/szamito"
+        }
+      ]
+    },
+    "instant-kava": {
+      "term": "Instant Kava",
+      "germanTerm": "Azonnali Kava",
+      "shortDefinition": "Dehidratált Kava lé, azonnal fogyasztható",
+      "fullExplanation": "Az Instant Kava **dehidratált \"Zöld Kava\" lé** – friss Kava lé, amelyet fagyasztva szárítottak vagy spray-szárítottak. Ez a **legpotensebb és legdrágább** formája a Kava-nak, mivel a Kavalaktónok már ki lettek vonva. Az Instant Kava azonnal feloldódik vízben, és nem igényel gyúrást vagy szűrést. Az adagolás jelentősen alacsonyabb, mint a Közepes őrlés esetében (2-6g a 20-50g helyett). Ezt a Kava elkészítési \"királyi osztályának\" tartják.",
+      "relatedTerms": [
+        "Mikronizált",
+        "Közepes őrlés",
+        "Zöld Kava"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Instant Kava elkészítése",
+          "href": "/hu/elkeszites/instant"
+        },
+        {
+          "label": "Adagolási számító",
+          "href": "/hu/elkeszites/szamito"
+        }
+      ]
+    },
+    "knetmethode": {
+      "term": "Gyúrási módszer",
+      "shortDefinition": "Hagyományos csendes-óceáni elkészítési mód",
+      "fullExplanation": "A gyúrási módszer a **hagyományos csendes-óceáni Kava elkészítési mód**, amelyet több mint 3000 éve gyakorolnak. A Közepes őrlésű port egy szűrőzsákba helyezik, és meleg vízben (35-45°C) **10-15 percig gyúrják és csavarják**. A mechanikai erő révén a Kavalaktónok kioldódnak a növényi rostokból és emulgeálódnak a vízben. Az eredmény egy tejszínes-barna \"Grog\". Ez a módszer biztosítja a **legjobb kivonást és potenciát**.",
+      "relatedTerms": [
+        "Közepes őrlés",
+        "Grog",
+        "Bilo"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hagyományos módszer",
+          "href": "/hu/elkeszites/hagyomanyos"
+        },
+        {
+          "label": "Elkészítési áttekintés",
+          "href": "/hu/elkeszites"
+        }
+      ]
+    },
+    "second-wash": {
+      "term": "Második áztatás",
+      "germanTerm": "Második áztatás",
+      "shortDefinition": "A Kava por újbóli felhasználása",
+      "fullExplanation": "A \"Második áztatás\" a **már gyúrt Kava por újbóli felhasználását** jelenti egy második körben. Az első gyúrás után a por még körülbelül **30-50%-át tartalmazza az eredeti Kavalaktónoknak**. A második áztatás gyengébb, de még mindig hatékony. Néhány felhasználó kombinálja az első és második áztatást, mások külön fogyasztják őket. A harmadik áztatás általában már nem éri meg.",
+      "relatedTerms": [
+        "Gyúrási módszer",
+        "Közepes őrlés"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hagyományos módszer",
+          "href": "/hu/elkeszites/hagyomanyos"
+        }
+      ]
+    },
+    "strainer-bag": {
+      "term": "Szűrőzsák",
+      "germanTerm": "Szűrőzsák",
+      "shortDefinition": "Zsák a Kava szűrésére",
+      "fullExplanation": "A Szűrőzsák egy **nejlon vagy pamut szűrőzsák**, amelyet Kava gyúrására és szűrésére használnak. Az ideális szálvastagság **75-100 mikron** – elég finom ahhoz, hogy visszatartsa a növényi rostokat, de elég áteresztő a Kavalaktón-emulzióhoz. A Szűrőzsákok újrahasználhatók, és minden használat után ki kell öblíteni és megszárítani. Ezek elengedhetetlen eszközök a hagyományos elkészítéshez.",
+      "relatedTerms": [
+        "Gyúrási módszer",
+        "Közepes őrlés"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Hagyományos módszer",
+          "href": "/hu/elkeszites/hagyomanyos"
+        }
+      ]
+    },
+    "shell": {
+      "term": "Shell",
+      "shortDefinition": "Egy adag Kava ital",
+      "fullExplanation": "\"Shell\" a **Kava ital egy adagját** jelenti, jellemzően 100-150ml. A kifejezés a hagyományos kókuszhéjból (Bilo) származik, amelyből Kava-t isznak. A Kava bárokban \"Shells\"-t rendelnek – egy ülés gyakran 3-6 Shellből áll, több órán keresztül. Az adagolás Shellenként változik a Grog erősségétől és a személyes preferenciától függően. \"Még egy shell\" egy gyakori kiáltás a Kava közösségben.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Krunk"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Adagolási számító",
+          "href": "/hu/elkeszites/szamito"
+        }
+      ]
+    },
+    "aluball": {
+      "term": "AluBall",
+      "shortDefinition": "Modern Kava elkészítő eszköz",
+      "fullExplanation": "Az AluBall egy **modern Kava elkészítő eszköz**, amely egyszerűsíti a hagyományos gyúrási módszert. Egy shaker palackból áll, amelyhez egy speciális szűrőgolyó tartozik. A Közepes őrlésű port a golyóba helyezik, vizet adnak hozzá, és 2-3 percig rázogatják. A kivonás gyorsabb, mint a hagyományos gyúrás, de lehet, hogy kevésbé hatékony. Az AluBall népszerű **útközben és kezdők számára**, akik egyszerű elkészítést preferálnak.",
+      "relatedTerms": [
+        "Gyúrási módszer",
+        "Közepes őrlés"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Elkészítési áttekintés",
+          "href": "/hu/elkeszites"
+        }
+      ]
+    },
+    "grog": {
+      "term": "Grog",
+      "shortDefinition": "A kész Kava ital",
+      "fullExplanation": "\"Grog\" a **kész Kava italt** jelenti, különösen Vanuatu-ban és Fidzsi-szigeteken. A név a gyarmati időkből származik, és a brit haditengerészet vette át. A hagyományos Kava-Grog **tejbarna színű** (mint a tejeskávé) és földes, enyhén borsos ízű. A Kava bárokban a Grogot gyakran kókuszhéjakban (Bilos) szolgálják fel, és egy kortyra isszák.",
+      "relatedTerms": [
+        "Bilo",
+        "Nakamal",
+        "Gyúrási módszer"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultúra",
+          "href": "/hu/kultura"
+        },
+        {
+          "label": "Elkészítés",
+          "href": "/hu/elkeszites"
+        }
+      ]
+    },
+    "bilo": {
+      "term": "Bilo",
+      "shortDefinition": "Hagyományos kókuszhéj ivásra",
+      "fullExplanation": "A Bilo egy **fél kókuszhéj**, amelyet hagyományosan Kava felszolgálására és ivására használnak. Fidzsi-szigeteken és más csendes-óceáni kultúrákban a Bilo-ból való ivás a **ceremoniális rituálé** része. Ivás előtt egyszer tapsolnak, mondják, hogy \"Bula!\" (Fidzsi) vagy \"Mālō!\" (Tonga), egy kortyban megisszák a tartalmát, majd háromszor tapsolnak. A modern Kava-rajongók a Bilo-t használják egy autentikus élményért.",
+      "relatedTerms": [
+        "Grog",
+        "Nakamal",
+        "Tanoa"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultúra",
+          "href": "/hu/kultura"
+        },
+        {
+          "label": "Történelem",
+          "href": "/hu/tortenelem"
+        }
+      ]
+    },
+    "nakamal": {
+      "term": "Nakamal",
+      "shortDefinition": "Hagyományos Kava bár Vanuatu-ban",
+      "fullExplanation": "A Nakamal egy **hagyományos Kava bár Vanuatu-ban**, ahol helyiek és turisták találkoznak, hogy Kava-t igyanak. Eredetileg a kifejezés a falusi férfiak gyülekezőhelyét jelölte. A modern Nakamal gyakran egyszerű kunyhók vagy nyitott területek padokkal. A Kava-t frissen készítik és tálalják. Szigorú **társadalmi szabályok** vannak: halkan kell beszélni, tisztelettel kell viselkedni, és a szürkületben kell inni. A Nakamal fontos társadalmi találkozóhelyek.",
+      "relatedTerms": [
+        "Grog",
+        "Bilo",
+        "Vanuatu"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultúra",
+          "href": "/hu/kultura"
+        },
+        {
+          "label": "Történelem",
+          "href": "/hu/tortenelem/eredetek"
+        }
+      ]
+    },
+    "tanoa": {
+      "term": "Tanoa",
+      "shortDefinition": "Hagyományos Kava tál fából",
+      "fullExplanation": "A Tanoa egy **nagy, lapos fából készült tál**, amelyben a Kava-t hagyományosan készítik és szolgálják fel. Jellemző a Fidzsi-szigetekre, Szamoára és Tongára, és egyetlen fából faragják, gyakran faragott lábakkal. A Tanoa a **Kava-ceremónia középpontja** – a Grogot itt keverik, és egy Bilo-val osztják szét a résztvevők között. A magas minőségű Tanoák műalkotások, és családi örökségként adják át őket.",
+      "relatedTerms": [
+        "Bilo",
+        "Grog",
+        "Ceremónia"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultúra",
+          "href": "/hu/kultura"
+        }
+      ]
+    },
+    "bula": {
+      "term": "Bula",
+      "shortDefinition": "Fidzsi üdvözlés Kava ivásakor",
+      "fullExplanation": "\"Bula!\" a **hagyományos fidzsi üdvözlés**, amelyet Kava Shell ivása előtt mondanak. A szó jelentése \"élet\", és jókívánságokat fejez ki. A rituálé: egyszer tapsolni, kiáltani, hogy \"Bula!\", a Shell-t egy kortyban kiüríteni, majd háromszor tapsolni. Más csendes-óceáni kultúrákban hasonló kiáltások vannak: \"Mālō!\" Tongában, \"Taki!\" Vanuatu-ban. Ezek a rituálék **közösséget és tiszteletet** teremtenek, és fontos részét képezik a Kava kultúrának.",
+      "relatedTerms": [
+        "Bilo",
+        "Shell",
+        "Nakamal"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kultúra",
+          "href": "/hu/kultura"
+        }
+      ]
+    },
+    "flavokavain-b": {
+      "term": "Flavokavain B",
+      "germanTerm": "FKB",
+      "shortDefinition": "Potenciálisan májtoxikus vegyület a Tudei-Kavában",
+      "fullExplanation": "A Flavokavain B (FKB) egy **Chalkon**, amely magasabb koncentrációban található a Tudei-Kavában és a föld feletti növényi részekben (szárak, levelek). A **potenciális májtoxicitással** hozható összefüggésbe, és felelős lehet néhány történelmi májkárosodásért. A Noble Kava fajták **nagyon alacsony FKB-tartalommal** rendelkeznek. Ez az egyik fő oka annak, hogy csak a Noble Kava ajánlott fogyasztásra, és a Tudei-Kava Vanuatu-ban az export tilalma alá esik.",
+      "relatedTerms": [
+        "Tudei",
+        "Noble Kava",
+        "Májbiztonság"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Májbiztonság",
+          "href": "/hu/biztonsag/mag"
+        },
+        {
+          "label": "Noble vs. Tudei",
+          "href": "/hu/fajták/noble-tudei"
+        }
+      ]
+    },
+    "cyp450": {
+      "term": "CYP450",
+      "germanTerm": "Cytochrom P450",
+      "shortDefinition": "Májenzimek a gyógyszerek lebontásához",
+      "fullExplanation": "A CYP450 (Cytochrom P450) egy **májenzim család**, amely a legtöbb gyógyszer lebontásáért felelős. A Kavalaktónok gátolhatják bizonyos CYP450 enzimeket, különösen a CYP2C9, CYP2C19 és CYP3A4-et. Ez lelassíthatja a gyógyszerek lebontását, és fokozhatja azok hatását. Ezért a Kava **nem kombinálható olyan gyógyszerekkel**, amelyeket ezen enzimek bontanak le – különösen benzodiazepinekkel, antidepresszánsokkal és vérnyomáscsökkentőkkel.",
+      "relatedTerms": [
+        "Kölcsönhatások",
+        "Májbiztonság"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kölcsönhatások",
+          "href": "/hu/biztonsag/kolcsonhatasok"
+        },
+        {
+          "label": "Kölcsönhatás-ellenőrző",
+          "href": "/hu/biztonsag/ellenorzo"
+        }
+      ]
+    },
+    "lebersicherheit": {
+      "term": "Májbiztonság",
+      "shortDefinition": "Kava és a máj – tények és mítoszok",
+      "fullExplanation": "A Kava **májbiztonságának** kérdése régóta vitatott. A 2000-es évek elején a májkárosodásról szóló jelentések több országban tilalmakhoz vezettek. Későbbi vizsgálatok azonban azt mutatták, hogy a legtöbb eset **Tudei-Kavához, a föld feletti növényi részekből készült kivonatokhoz vagy előzetes betegségekhez** volt köthető. A Noble Kava, hagyományosan elkészítve, biztonságosnak számít. A WHO 2016-ban megerősítette, hogy \"a hagyományosan elkészített Kava italok elfogadható biztonsági profillal rendelkeznek\".",
+      "relatedTerms": [
+        "Noble Kava",
+        "Tudei",
+        "Flavokavain B"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Májbiztonság",
+          "href": "/hu/biztonsag/mag"
+        },
+        {
+          "label": "Tudományos tanulmányok",
+          "href": "/hu/tanulmanyok"
+        }
+      ]
+    },
+    "wechselwirkungen": {
+      "term": "Kölcsönhatások",
+      "shortDefinition": "A Kava interakciói más anyagokkal",
+      "fullExplanation": "A Kava **kölcsönhatásba léphet különböző anyagokkal**. A legfontosabb kombinációk, amelyeket el kell kerülni: **alkohol** (fokozott májtoxicitás), **benzodiazepinek és altatók** (fokozott nyugtatás), **antidepresszánsok** (CYP450 kölcsönhatások), **Parkinson gyógyszerek** (dopamin kölcsönhatások). Más központi idegrendszert gátló anyagokat is kerülni kell. Rendszeres gyógyszerfogyasztás esetén orvoshoz kell fordulni a Kava fogyasztása előtt.",
+      "relatedTerms": [
+        "CYP450",
+        "Májbiztonság"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Kölcsönhatások",
+          "href": "/hu/biztonsag/kolcsonhatasok"
+        },
+        {
+          "label": "Kölcsönhatás-ellenőrző",
+          "href": "/hu/biztonsag/ellenorzo"
+        }
+      ]
+    },
+    "dosierung": {
+      "term": "Adagolás",
+      "shortDefinition": "Megfelelő mennyiség a biztonságos fogyasztáshoz",
+      "fullExplanation": "A megfelelő **adagolás** a Kava esetében több tényezőtől függ: testsúly, tapasztalat, fajta és elkészítési forma. A **Közepes őrlés** esetében egy tipikus ülés 20-50g porból áll, több Shellre elosztva. **Instant Kava** esetében 2-6g a szokásos. A kezdőknek alacsony dózisokkal kell kezdeniük, és figyelembe kell venniük a **fordított toleranciát**. A javasolt napi maximális adag körülbelül 250mg Kavalaktón. A túladagolás erős fáradtsághoz vezet, de nem okoz veszélyes állapotokat.",
+      "relatedTerms": [
+        "Fordított Tolerancia",
+        "Shell",
+        "Kavalaktónok"
+      ],
+      "relatedLinks": [
+        {
+          "label": "Adagolási számító",
+          "href": "/hu/elkeszites/szamito"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Noble Kava vs. Tudei Kava",
+    "subtitle": "A legfontosabb megkülönböztetés minden Kava-fogyasztó számára: Miért biztonságos a Noble Kava, és miért kell elkerülni a Tudeit.",
+    "category": "Fajták",
+    "breadcrumb": {
+      "home": "Főoldal",
+      "sorten": "Fajták",
+      "current": "Noble vs. Tudei"
+    }
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Bevezetés",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "A klasszifikáció története",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "Kémiai különbségek",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "Hatásbeli különbségek",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "Tudei felismerése",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "Biztonsági szempontok",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "A <strong>Noble Kava</strong> és a <strong>Tudei Kava</strong> közötti megkülönböztetés a Kava világának legalapvetőbb klasszifikációja. Ez határozza meg, hogy egy Kava-élmény kellemes és biztonságos, vagy kellemetlen és potenciálisan káros.",
+      "text": "A \"Tudei\" (más néven \"Two-Day\") kifejezés a Vanuatu kreol nyelvéből, a Bislama-ból származik, és szó szerint \"két napot\" jelent – utalva e fajták rendkívül hosszú hatástartamára. Ezzel szemben a Noble Kava-t évszázadok óta választották ki a csendes-óceáni kultúrák a mindennapi használatra, és kellemes, kontrollálható hatást kínál."
+    },
+    "geschichte": {
+      "title": "A klasszifikáció története",
+      "p1": "A Noble és Tudei Kava közötti hivatalos megkülönböztetést a <strong>Vanuatu Kormány</strong> vezette be az export Kava minőségének szabályozására. 2002-ben Vanuatu elfogadta a <strong>Kava Act</strong>-ot, amely megtiltja a Tudei fajták exportját. Ez a jogszabály válasz volt az Európában jelentett májkárosodásokról szóló jelentésekre, amelyeket alacsony minőségű Kava termékekkel hoztak összefüggésbe.",
+      "p2": "A <strong>Dr. Vincent Lebot</strong>, vezető Kava tudós kutatása döntő fontosságú volt e klasszifikáció kialakításában. Lebot kémiai elemzési módszereket dolgozott ki a Kava fajták számára, és azonosította azokat a <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kémiai típusokat</a>, amelyek megkülönböztetik a Noblet a Tudeitől.",
+      "quote": "A Noble és Tudei közötti klasszifikáció nem szubjektív preferenciákon alapul, hanem mérhető kémiai különbségeken, amelyek közvetlenül kapcsolódnak a biztonsághoz és a tolerálhatósághoz.",
+      "quoteAuthor": "— Dr. Vincent Lebot, Kava kutató"
+    },
+    "chemischeUnterschiede": {
+      "title": "Kémiai különbségek",
+      "intro": "A legfontosabb különbség a Noble és Tudei Kava között a <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kémiai típus</a> – a hat fő <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalacton</a> relatív koncentrációja. A kémiai típust egy hatjegyű számmal adják meg, ahol az első szám a domináló Kavalactont képviseli.",
+      "tableHeaders": {
+        "merkmal": "Jellemző",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "merkmal": "Kémiai típus kezdődik",
+          "noble": "2 (DHK) vagy 4 (Kavain)",
+          "tudei": "5 (DHM) vagy 6 (Methysticin)"
+        },
+        {
+          "merkmal": "Domináló Kavalacton",
+          "noble": "Kavain vagy Dihydrokavain",
+          "tudei": "Dihydromethysticin"
+        },
+        {
+          "merkmal": "Flavokavain B tartalom",
+          "noble": "Alacsony (<0.5%)",
+          "tudei": "Magas (akár 5%)"
+        },
+        {
+          "merkmal": "DHM:Kavain arány",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "Noble kémiai típusok (példák)",
+        "items": [
+          "<strong>246531</strong> – Borogu (Heady)",
+          "<strong>423615</strong> – Melo Melo (Balanced)",
+          "<strong>263451</strong> – Kelai (Heady)",
+          "<strong>423651</strong> – Palasa (Heavy)",
+          "<strong>426531</strong> – Palarasul (Heavy)"
+        ],
+        "note": "Mindegyik 2-vel vagy 4-gyel kezdődik – soha nem 5-tel vagy 6-tal."
+      },
+      "tudeiCard": {
+        "title": "Tudei kémiai típusok (példák)",
+        "items": [
+          "<strong>526341</strong> – Isa (Tudei)",
+          "<strong>562431</strong> – Palimanu (Tudei)",
+          "<strong>526143</strong> – Wildkava"
+        ],
+        "note": "5-tel (DHM) vagy 6-tal (Methysticin) kezdődnek – figyelmeztető jel."
+      },
+      "calculatorLink": "Kémiai típus kalkulátor: Elemezze minden kémiai típust"
+    },
+    "wirkungsunterschiede": {
+      "title": "Hatásbeli különbségek",
+      "intro": "A kémiai különbségek drámai eltéréseket eredményeznek a hatásprofilokban:",
+      "tableHeaders": {
+        "aspekt": "Aspektus",
+        "noble": "Noble Kava",
+        "tudei": "Tudei Kava"
+      },
+      "tableRows": [
+        {
+          "aspekt": "Hatáskezdet",
+          "noble": "Gyors (10-20 perc)",
+          "tudei": "Késleltetett (30-90 perc)"
+        },
+        {
+          "aspekt": "Hatásidő",
+          "noble": "Mérsékelt (3-6 óra)",
+          "tudei": "Extrém hosszú (6-48 óra)"
+        },
+        {
+          "aspekt": "Hatás jellege",
+          "noble": "Tiszta, ellazult, társas",
+          "tudei": "Tompa, ködös, nyugtató"
+        },
+        {
+          "aspekt": "Következő nap",
+          "noble": "Nincs másnaposság",
+          "tudei": "Gyakran lethargia, hányinger"
+        },
+        {
+          "aspekt": "Mellékhatások",
+          "noble": "Ritka, enyhe",
+          "tudei": "Gyakori: hányinger, fejfájás"
+        },
+        {
+          "aspekt": "Napi használat",
+          "noble": "Biztonságos",
+          "tudei": "Nem ajánlott"
+        }
+      ],
+      "nobleExperience": {
+        "title": "Noble Kava élmény",
+        "text": "Egy tipikus Noble Kava élmény egy enyhe bizsergéssel kezdődik az ajkakon, amit egy hullámnyi ellazulás követ. Az elme tiszta marad, miközben a test ellazul. 3-4 óra elteltével a hatás fokozatosan csökken, és az ember felfrissülve érzi magát – készen egy pihentető alvásra vagy további tevékenységekre."
+      },
+      "tudeiExperience": {
+        "title": "Tudei Kava élmény",
+        "text": "A Tudei Kava hatása késleltetett és fokozatos. A hatás gyakran túlságosan nyugtató, \"ködös\" érzéssel jár. Másnap sok fogyasztó még mindig befolyásolt állapotban érzi magát – ezért kapta a \"Two-Day\" nevet. A hányinger és fejfájás gyakori."
+      }
+    },
+    "erkennung": {
+      "title": "Tudei felismerése",
+      "intro": "Sajnos a Tudei Kava-t néha illegálisan keverik vagy Noble-ként árulják. Íme néhány figyelmeztető jel:",
+      "warningTitle": "Figyelmeztető jelek Tudei keverésére",
+      "warnings": [
+        "<strong>Extrém alacsony ár</strong> – A Tudei olcsóbb előállítani",
+        "<strong>Nincs fajtajelzés</strong> – A fajtanevet mindig meg kell adni",
+        "<strong>Nincs kémiai típus</strong> – A kémiai típus információt ad a Kavalacton összetételről",
+        "<strong>Késleltetett hatáskezdet</strong> – A Noble 10-20 perc alatt hat",
+        "<strong>Extrém hányinger</strong> – Több mint enyhe gyomorpanasz",
+        "<strong>Hatás a következő napon</strong> – A Noble 4-6 óra elteltével csökken"
+      ],
+      "acetoneTestTitle": "Aceton-teszt",
+      "acetoneTestText": "Egy egyszerű otthoni teszt segíthet a Tudei azonosításában: az <strong>Aceton-teszt</strong>. Ez magában foglalja a Kava port acetonnal való keverését. A Noble Kava sárgára színezi az acetont, míg a Tudei Kava narancssárga vagy piros színt ad (a magas Flavokavain B tartalom miatt).",
+      "recommendation": "<strong>Ajánlás:</strong> Vásárláskor figyeljen arra, hogy a kereskedő pontosan adja meg a kémiai típust és a fajtát. Ezek az információk azt mutatják, hogy valódi Noble Kava-ról van szó."
+    },
+    "sicherheit": {
+      "title": "Biztonsági szempontok",
+      "intro": "A Noble és Tudei közötti megkülönböztetés nemcsak a kényelem kérdése, hanem a <a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">biztonság</a> kérdése is. A 2000-es évek elején a Kava-val összefüggésbe hozott májkárosodásokat ma már nagyrészt alacsony minőségű termékeknek tulajdonítják:",
+      "causes": [
+        "Felszíni növényi részek (<strong>levelek, szárak</strong>) használata, nem csak gyökerek",
+        "Tudei fajták keverése, magas Flavokavain B tartalommal",
+        "<strong>Aceton-extrakció</strong> a hagyományos víz előkészítés helyett",
+        "Éretlen növények (<strong>3 évnél fiatalabb</strong>) használata"
+      ],
+      "conclusion": "A Noble Kava, amelyet hagyományosan legalább 3-5 éves gyökerekből készítenek, több ezer éves <strong>biztonsági történettel</strong> rendelkezik a csendes-óceáni kultúrákban. A Vanuatu kormány és olyan nemzetközi szervezetek, mint a <strong>WHO</strong> megerősítették, hogy a Noble Kava megfelelő használat mellett biztonságosnak tekinthető.",
+      "moreLink": "Tudjon meg többet a Kava biztonságáról"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Tovább a Fajták fejezetben:",
+    "next": {
+      "title": "Fajták Vanuatuból",
+      "description": "Több mint 80 fajta a Kava hazájából: Borogu, Melo Melo, Kelai és még sok más",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

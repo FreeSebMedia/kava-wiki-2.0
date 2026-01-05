@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Fidzsi, Tonga és Hawaii fajták",
+    "subtitle": "Regionális Kava specialitások az egész Csendes-óceánból: Fidzsi Yaqona-jától Hawaii 'Awa-jáig.",
+    "category": "Fajták"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "sorten": "Fajták",
+    "current": "Csendes-óceán"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "Fidzsi – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "Tonga – Minden Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "Hawaii – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "Samoa – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "Egyéb régiók",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Eredet",
+    "type": "Típus",
+    "composition": "Összetétel",
+    "duration": "Hatásidő",
+    "effectProfile": "Hatásprofil",
+    "recommendedFor": "Ajánlott:",
+    "variety": "Fajta",
+    "speciality": "Különlegesség"
+  },
+  "fiji": {
+    "title": "Fidzsi – Yaqona",
+    "intro": "<p class=\"lead text-xl\">Fidzsiben a Kava <strong>Yaqona</strong> néven ismert (kiejtve \"Yang-gona\") és hivatalos nemzeti italnak számít. A név \"keserűt\" jelent, és a jellegzetes ízére utal. Egy másik név, <strong>Malogu</strong>, a \"megnyugtatni\" jelentésű, és a hatását írja le.</p><p>Fidzsinek <strong>13 dokumentált Kava fajtája</strong> van, és híres a magas színvonalú feldolgozásáról. Különösen nagyra értékelik a <strong>Waka</strong>-t – a Kava-t, amely kizárólag az oldalsó gyökerekből (nem a gyökérgumóból) készül, és erősebbnek számít.</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "Nehéz",
+        "speciality": "Nagyon erős, erősen nyugtató"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Kiegyensúlyozott, sokoldalú"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "Nehéz",
+        "speciality": "Hosszan tartó"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Hagyományos"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "Nehéz",
+        "speciality": "Ritka, nagyon értékelt"
+      },
+      {
+        "name": "Yalu",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Enyhén, kellemes"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "Nehéz",
+      "Nagyon erős"
+    ],
+    "origin": "Fidzsi (különböző szigetek)",
+    "type": "Waka (oldalsó gyökerek)",
+    "duration": "5-8 óra",
+    "description": "<strong>Loa Waka</strong> a piacon elérhető egyik legerősebb Kava. A \"Loa\" fidzsi nyelven \"sötétet\" jelent, és a gyökerek színére utal. A \"Waka\" a magas minőségű oldalsó gyökereket jelenti. Ez a kombináció egy rendkívül erős, testre ható Kava-t eredményez.",
+    "effects": [
+      {
+        "text": "<strong>Extrém nyugtató:</strong> Az egyik legerősebb \"Nehéz\" Kava"
+      },
+      {
+        "text": "<strong>Mélységes izomlazítás:</strong> Ideális <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">feszültségekre</a>"
+      },
+      {
+        "text": "<strong>Alvást segítő:</strong> Tökéletes <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">alvási problémákra</a>"
+      },
+      {
+        "text": "<strong>Hosszan tartó:</strong> A hatás 5-8 órán át tarthat"
+      }
+    ],
+    "recommendedFor": "Tapasztalt felhasználók, esti fogyasztás, súlyos alvási problémák",
+    "warning": "<strong>Figyelem:</strong> A Loa Waka nagyon erős. A kezdőknek alacsonyabb dózissal kell kezdeniük, és meg kell várniuk a hatást, mielőtt újra adagolnának."
+  },
+  "tonga": {
+    "title": "Tonga – Minden Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>Tonga</strong> egyedülálló a Kava világában: <strong>Minden ott termesztett fajta Noble</strong>. Tonga területén nincsenek Tudei fajták. Ez a tongai Kava-t különösen biztonságossá és kiszámíthatóvá teszi.</p><p>A tongai Kava híres inkább <strong>\"heady\"</strong> (fejre ható) hatásáról. A fajták hajlamosak kevésbé nyugtatóak lenni, mint a fidzsi vagy vanuatu-i Kava, és jól alkalmasak a napi fogyasztásra és társasági eseményekre.</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "Fejre ható",
+        "speciality": "Legnépszerűbb fajta, társasági"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "Fejre ható/Kiegyensúlyozott",
+        "speciality": "Enyhén, kellemes"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Hagyományos"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Lágy, kezdőknek jó"
+      },
+      {
+        "name": "Lekakula",
+        "type": "Fejre ható",
+        "speciality": "Eufórikus"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "Fejre ható",
+      "Kezdőbarát"
+    ],
+    "origin": "Tonga",
+    "composition": "Blend (Leka Hina, Kava Kula, Fu'u)",
+    "duration": "3-4 óra",
+    "description": "<strong>Pouni Ono</strong> a legjobban ismert \"napi Kava\", és több tongai fajta keveréke (tipikusan Leka Hina, Kava Kula és Kava Fulufulu). A név \"hat alkalom\"-ot jelent, és a hagyományos elkészítésre utal.",
+    "effects": [
+      {
+        "text": "<strong>Eufórikus:</strong> <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">Hangulatjavító</a> és társasági"
+      },
+      {
+        "text": "<strong>Ébren tartó:</strong> Alig nyugtató, ideális a napra"
+      },
+      {
+        "text": "<strong>Lágy íz:</strong> Kellemesebb, mint sok más fajta"
+      },
+      {
+        "text": "<strong>Rövid hatásidő:</strong> Jól kontrollálható"
+      }
+    ],
+    "recommendedFor": "Kezdők, napi fogyasztás, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">társasági események</a>, munka",
+    "tip": "<strong>Tipp:</strong> A Pouni Ono az egyik legjobb fajta Kava kezdők számára. A lágy íz és a kellemes, nem túlzó hatás megkönnyíti a bevezetést."
+  },
+  "hawaii": {
+    "title": "Hawaii – 'Awa",
+    "intro": "<p class=\"lead text-xl\">Hawain Kava <strong>'Awa</strong> néven ismert. Hawaii-nak <strong>13 hagyományos fajtája</strong> van, amelyek mind Noble-ként ismertek és fogyasztásra alkalmasak. A hawaii 'Awa híres a magas potenciájáról és egyedi karakteréről.</p><p>'Awa különleges kulturális jelentőséggel bír Hawaii-n. Történelmileg bizonyos 'Awa a nemesség (Ali'i) számára volt fenntartva. Ma a hawaii Kava-t gyakran frissen készítik, és a magas termelési költségek miatt drágább, mint más régiókból származó Kava.</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "Fejre ható",
+        "speciality": "Királyi Kava, nagyon szellemi"
+      },
+      {
+        "name": "Hiwa",
+        "type": "Nehéz",
+        "speciality": "Zeremoniális, erősen nyugtató"
+      },
+      {
+        "name": "Mahakea",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Kiegyensúlyozott, sokoldalú"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "Fejre ható",
+        "speciality": "Enyhén, kellemes"
+      },
+      {
+        "name": "Nene",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Hagyományos"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "Nehéz",
+        "speciality": "Ritka, nagyon értékelt"
+      }
+    ],
+    "warning": "<strong>Figyelem:</strong> Hawaii-n két importált Tudei fajtát is termesztenek: <strong>Isa</strong> és <strong>Iwi</strong>. Ezek nem őshonosak, és kerülendők."
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "Fejre ható",
+      "Királyi"
+    ],
+    "origin": "Hawaii",
+    "type": "Fejre ható / Szellemi",
+    "duration": "2-4 óra",
+    "description": "<strong>Moi</strong> a legendás \"Királyok Kava-ja\". A hawaii történelemben a Moi a nemesség (Ali'i) számára volt fenntartva, és a közemberek számára nem volt fogyasztható. Ma különösen szellemi, mentális tisztaságot elősegítő hatásáról ismert.",
+    "effects": [
+      {
+        "text": "<strong>Extrém szellemi:</strong> Elősegíti a mentális tisztaságot és a fókuszt"
+      },
+      {
+        "text": "<strong>Kreativitást serkentő:</strong> Ideális <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kreatív munkához</a>"
+      },
+      {
+        "text": "<strong>Alig nyugtató:</strong> Nem fáraszt"
+      },
+      {
+        "text": "<strong>Spirituális:</strong> Hagyományosan meditációhoz és ceremóniákhoz"
+      }
+    ],
+    "recommendedFor": "Kreatív munka, meditáció, <a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">kognitív feladatok</a>"
+  },
+  "samoa": {
+    "title": "Samoa – 'Ava",
+    "intro": "<p>Fidzsiben a Kava <strong>'Ava</strong> néven ismert. Samoának csak <strong>4 dokumentált fajtája</strong> van, de gazdag ceremoniális hagyománya. Az 'Ava-ceremónia fontos része a szamoai kultúrának, és hivatalos eseményeken tartják.</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Hagyományos, ceremoniális"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "Fejre ható",
+        "speciality": "Enyhén, kellemes"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "Nehéz",
+        "speciality": "Erősebb, nyugtató"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "Kiegyensúlyozott",
+        "speciality": "Tongából importált"
+      }
+    ]
+  },
+  "andere": {
+    "title": "Egyéb régiók",
+    "intro": "A fő termesztési területeken kívül Kava található néhány más csendes-óceáni régióban is:",
+    "regions": [
+      {
+        "name": "Pápua Új-Guinea",
+        "description": "PNG-nek csak <strong>egy Noble fajtája</strong> van: <strong>Kau kupwe</strong>, amelyet Baluan szigetén termesztenek. A legtöbb más PNG-fajta Tudei, és kerülendők."
+      },
+      {
+        "name": "Salamon-szigetek",
+        "description": "A Salamon-szigeteknek is csak <strong>egy Noble fajtája</strong> van: <strong>Melomelo</strong> (nem összekeverendő a Vanuatu-i Melo Melo-val, bár rokonok lehetnek)."
+      },
+      {
+        "name": "Mikronézia",
+        "description": "A Mikronéziai Szövetségi Államokban (Pohnpei) található a <strong>Rahmwahnger</strong> fajta. A Kava-nak ott fontos ceremoniális jelentősége van."
+      },
+      {
+        "name": "Wallis és Futuna",
+        "description": "Ezek a francia területek saját Kava hagyományokkal rendelkeznek, de kevés dokumentált egyedi fajtával."
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "Tovább a Fajták fejezethez:",
+    "nextTitle": "Fajta profilok részletesen",
+    "nextDescription": "Részletes adatlapok minden fontos fajtáról, kémiai típusokkal, hatásokkal és ajánlásokkal",
+    "nextLink": "/de/sorten/profile"
+  }
+}

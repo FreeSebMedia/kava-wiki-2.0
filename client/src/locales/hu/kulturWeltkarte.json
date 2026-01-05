@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Kava-világtérkép",
+    "description": "Fedezze fel a Kava régióit a Csendes-óceánon – a Vanuatu-i eredetektől a modern elterjedésig a nyugati világban. Kattintson egy jelölőre, hogy többet tudjon meg a helyi hagyományokról."
+  },
+  "breadcrumb": {
+    "home": "Kezdőlap",
+    "kultur": "Kultúra",
+    "current": "Világtérkép"
+  },
+  "filter": {
+    "all": "Minden régió",
+    "origin": "Eredeti régió",
+    "major": "Fő termőterület",
+    "secondary": "Másodlagos régió",
+    "diaspora": "Diaszpóra & Nyugat"
+  },
+  "map": {
+    "backToOverview": "Vissza az áttekintéshez"
+  },
+  "detail": {
+    "varietiesTitle": "Kava-fajták",
+    "culturalSignificance": "Kulturális jelentőség",
+    "today": "Ma",
+    "readMore": "Tovább olvasom"
+  },
+  "grid": {
+    "title": "Minden Kava-régió"
+  },
+  "stats": {
+    "originRegions": "Eredeti régiók",
+    "majorAreas": "Fő termőterületek",
+    "totalRegions": "Összes régió",
+    "yearsTradition": "Évek hagyománya"
+  },
+  "related": {
+    "title": "Kapcsolódó témák",
+    "zeremonien": {
+      "title": "Zeremonák",
+      "subtitle": "Rituálék & protokollok"
+    },
+    "nakamal": {
+      "title": "Nakamal",
+      "subtitle": "Kava-bárok világszerte"
+    },
+    "sorten": {
+      "title": "Fajták",
+      "subtitle": "Fajták felfedezése"
+    },
+    "geschichte": {
+      "title": "Történelem",
+      "subtitle": "3000 év Kava"
+    }
+  },
+  "navigation": {
+    "zeremonien": "/hu/kultura/zeremonak",
+    "nakamal": "/hu/kultura/nakamal",
+    "sorten": "/hu/fajtak",
+    "geschichte": "/hu/tortenet"
+  }
+}

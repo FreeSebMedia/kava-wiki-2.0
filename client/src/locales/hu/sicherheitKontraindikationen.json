@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "Ellenjavallatok",
+    "subtitle": "Mikor nem szabad Kava-t használni: Absolút és relatív ellenjavallatok a biztonságos használathoz.",
+    "category": "Biztonság",
+    "breadcrumbs": {
+      "home": "Kezdőlap",
+      "sicherheit": "Biztonság",
+      "current": "Ellenjavallatok"
+    }
+  },
+  "toc": {
+    "title": "Tartalom",
+    "zusammenfassung": "Összefoglaló",
+    "absolute": "Absolút ellenjavallatok",
+    "leber": "Májbetegségek",
+    "schwangerschaft": "Terhesség és szoptatás",
+    "kinder": "Gyermekek és fiatalok",
+    "relative": "Relatív ellenjavallatok",
+    "parkinson": "Parkinson-kór",
+    "depression": "Súlyos depresszió",
+    "operation": "Műtétek előtt",
+    "fahren": "Vezetés és gépek kezelése",
+    "vorsicht": "Különös óvatosság",
+    "genetik": "Genetikai tényezők",
+    "alter": "Idősebb emberek",
+    "entscheidungshilfe": "Döntési segédlet",
+    "quellen": "Források"
+  },
+  "navigation": {
+    "continueTitle": "Tovább a Biztonság fejezetben",
+    "items": [
+      {
+        "title": "Áttekintés",
+        "href": "/hu/biztonsag",
+        "description": "Vissza a biztonsági áttekintéshez"
+      },
+      {
+        "title": "Májbiztonság",
+        "href": "/hu/biztonsag/leber",
+        "description": "Hepatotoxicitás és a 2002-es tilalom"
+      },
+      {
+        "title": "Kölcsönhatások",
+        "href": "/hu/biztonsag/kolcsonhatasok",
+        "description": "Gyógyszerek és CYP450 kölcsönhatások"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Fontos áttekintés",
+    "intro": "Bár a Kava megfelelő alkalmazás esetén biztonságosnak számít, vannak bizonyos helyzetek, amikor a használata nem ajánlott vagy ellenjavallt:",
+    "absolut": {
+      "title": "Absolút ellenjavallt:",
+      "items": [
+        "Májbetegségek",
+        "Terhesség és szoptatás",
+        "18 év alatti gyermekek"
+      ]
+    },
+    "relativ": {
+      "title": "Relatív ellenjavallatok:",
+      "items": [
+        "Parkinson-kór",
+        "Súlyos depresszió",
+        "Tervezett műtétek előtt"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "Absolút ellenjavallatok",
+    "intro": "A következő állapotok esetén a Kava <strong>semmi körülmények között</strong> nem használható. A kockázat egyértelműen felülmúlja a lehetséges előnyöket."
+  },
+  "leber": {
+    "title": "Májbetegségek",
+    "label": "Szigorúan ellenjavallt",
+    "intro": "A meglévő májbetegséggel rendelkező személyeknek teljesen kerülniük kell a Kava-t:",
+    "items": [
+      {
+        "name": "Hepatitis (A, B, C)",
+        "text": "Aktív vagy krónikus májgyulladás"
+      },
+      {
+        "name": "Májcirrózis",
+        "text": "A stádiumtól függetlenül"
+      },
+      {
+        "name": "Zsírmáj",
+        "text": "Alkoholos és nem alkoholos zsírmájbetegség"
+      },
+      {
+        "name": "Megemelkedett májértékek",
+        "text": "Megmagyarázhatatlan emelkedés ALT, AST, GGT"
+      },
+      {
+        "name": "Korábbi májkárosodás",
+        "text": "Még ha jelenleg normalizálódott is"
+      }
+    ],
+    "reasonLabel": "Indoklás:",
+    "reason": "A máj a Kavalactonok lebontásának központi szerve. Csökkent májműködés esetén a metabolitok felhalmozódhatnak, és növelhetik a további károsodás kockázatát."
+  },
+  "schwangerschaft": {
+    "title": "Terhesség és szoptatás",
+    "label": "Szigorúan ellenjavallt",
+    "intro": "A Kava terhesség és szoptatás alatt nem használható:",
+    "items": [
+      {
+        "name": "Nincs biztonsági adat",
+        "text": "Nincsenek kontrollált tanulmányok a terhesség alatti biztonságról"
+      },
+      {
+        "name": "Placenta áthatolás",
+        "text": "A Kavalactonok átjuthatnak a placentán"
+      },
+      {
+        "name": "Anyatej",
+        "text": "A Kavalactonok átkerülnek az anyatejbe"
+      },
+      {
+        "name": "Méhtónus csökkentése",
+        "text": "A Kavain ellazíthatja a méh izmait"
+      }
+    ],
+    "traditionLabel": "Hagyományos gyakorlat:",
+    "tradition": "A csendes-óceáni kultúrákban a Kava-t hagyományosan nem fogyasztják terhes vagy szoptató nők."
+  },
+  "kinder": {
+    "title": "Gyermekek és fiatalok",
+    "label": "Nem ajánlott 18 év alatt",
+    "intro": "A Kava-t nem szabad gyermekeknek és fiataloknak használni:",
+    "items": [
+      {
+        "name": "Fejlődés",
+        "text": "Agyi fejlődésre gyakorolt hatások nem vizsgáltak"
+      },
+      {
+        "name": "Anyagcsere",
+        "text": "A gyermekek másképp metabolizálják az anyagokat, mint a felnőttek"
+      },
+      {
+        "name": "Nincsenek tanulmányok",
+        "text": "Nincsenek klinikai adatok erre a korcsoportra"
+      }
+    ]
+  },
+  "relative": {
+    "title": "Relatív ellenjavallatok",
+    "intro": "A következő állapotok esetén különös óvatosság szükséges. A használat bizonyos körülmények között lehetséges, de csak alapos mérlegelés után, és lehetőleg orvosi konzultációt követően."
+  },
+  "parkinson": {
+    "title": "Parkinson-kór",
+    "label": "Nem ajánlott",
+    "intro": "A Kava ronthatja a Parkinson-szimptómákat:",
+    "items": [
+      {
+        "name": "Dopamin-antagonizmus",
+        "text": "A Kava csökkentheti a dopaminerg hatásokat"
+      },
+      {
+        "name": "Levodopa kölcsönhatás",
+        "text": "Csökkentheti a Levodopa hatékonyságát"
+      },
+      {
+        "name": "Esetjelentések",
+        "text": "A tünetek romlása Kava alatt dokumentált"
+      }
+    ],
+    "caseReportLabel": "Esetjelentés:",
+    "caseReport": "Schelosky et al. (1995) egy 45 éves Parkinson-kóros nő esetét írták le, akinek tünetei Kava szedése alatt jelentősen romlottak."
+  },
+  "depression": {
+    "title": "Súlyos depresszió",
+    "label": "Óvatosan kell eljárni",
+    "intro": "Súlyos depresszió esetén óvatosnak kell lenni:",
+    "items": [
+      {
+        "name": "CNS-depresszió",
+        "text": "A Kava fokozhatja a motiválatlanságot"
+      },
+      {
+        "name": "Gyógyszerkölcsönhatás",
+        "text": "Kölcsönhatások antidepresszánsokkal lehetségesek"
+      },
+      {
+        "name": "Öngyógyítás",
+        "text": "Késleltetheti a szakmai kezelést"
+      }
+    ],
+    "noteLabel": "Megjegyzés:",
+    "note": "Enyhe vagy közepesen súlyos szorongás esetén a Kava hasznos lehet, de súlyos depresszió esetén a szakmai kezelésnek elsőbbséget kell élveznie."
+  },
+  "operation": {
+    "title": "Tervezett műtétek előtt",
+    "label": "2 héttel előbb abbahagyni",
+    "intro": "A Kava-t tervezett műtétek előtt abba kell hagyni:",
+    "items": [
+      {
+        "name": "Anesztézia kölcsönhatás",
+        "text": "Fokozhatja a narkózis hatását"
+      },
+      {
+        "name": "Vérzés kockázata",
+        "text": "Lehetséges kölcsönhatás véralvadásgátló gyógyszerekkel"
+      },
+      {
+        "name": "Májfunkció",
+        "text": "Fontos a narkózis gyógyszerek lebontásához"
+      }
+    ],
+    "recommendation": "Ajánlás: A Kava-t legalább 2 héttel a tervezett műtét előtt abba kell hagyni, és tájékoztatni kell az aneszteziológust az előző fogyasztásról."
+  },
+  "fahren": {
+    "title": "Vezetés és gépek kezelése",
+    "label": "Korlátozott vezetési képesség",
+    "intro": "A Kava befolyásolhatja a reakcióidőt:",
+    "items": [
+      {
+        "name": "Sedáció",
+        "text": "Fáradtság és lassult reakciók lehetségesek"
+      },
+      {
+        "name": "Adagfüggő",
+        "text": "Magasabb dózisok erősebben befolyásolják"
+      },
+      {
+        "name": "Egyéni különbségek",
+        "text": "Az érzékenység széles spektrumon változik"
+      }
+    ],
+    "noteLabel": "Megjegyzés:",
+    "note": "A benzodiazepinekkel ellentétben a tanulmányok azt mutatják, hogy a Kava kevésbé befolyásolja a kognitív funkciót. Ennek ellenére fontos ismerni az egyéni reakciót, mielőtt vezetne."
+  },
+  "vorsicht": {
+    "title": "Különös óvatosság",
+    "intro": "Bizonyos csoportok esetén fokozott figyelem szükséges, még akkor is, ha nincs szigorú ellenjavallat."
+  },
+  "genetik": {
+    "title": "Genetikai tényezők (CYP2D6-polimorfizmusok)",
+    "label": "Fokozott érzékenység lehetséges",
+    "intro": "Az európai lakosság körülbelül 5-10%-a \"Poor Metabolizers\" a CYP2D6-ra:",
+    "items": [
+      {
+        "name": "Lassabb lebontás",
+        "text": "A Kavalactonok hosszabb ideig maradnak a szervezetben"
+      },
+      {
+        "name": "Magasabb vérszint",
+        "text": "Fokozott hatás és mellékhatások"
+      },
+      {
+        "name": "Felismerés",
+        "text": "Szokatlanul erős reakció normál dózisokra"
+      }
+    ],
+    "recommendationLabel": "Ajánlás:",
+    "recommendation": "Ha szokatlanul érzékeny a Kava-ra, genetikai tényező állhat a háttérben. Kezdje alacsonyabb dózisokkal."
+  },
+  "alter": {
+    "title": "Idősebb emberek",
+    "label": "A dózis módosítása ajánlott",
+    "intro": "Idősebb emberek esetén különös óvatosság szükséges:",
+    "items": [
+      {
+        "name": "Csökkent májfunkció",
+        "text": "Lassabb anyagcsere időskorban"
+      },
+      {
+        "name": "Polifarmácia",
+        "text": "Növekvő kockázat a kölcsönhatásokra"
+      },
+      {
+        "name": "Esés kockázata",
+        "text": "A sedáció növelheti az esés kockázatát"
+      }
+    ],
+    "recommendationLabel": "Ajánlás:",
+    "recommendation": "A szokásos dózis felével kezdje, és fokozatosan növelje."
+  },
+  "entscheidungshilfe": {
+    "title": "Döntési segédlet: Alkalmas-e a Kava számomra?",
+    "selfCheck": {
+      "title": "Önellenőrzés a Kava fogyasztása előtt",
+      "nicht": {
+        "title": "A Kava NEM alkalmas, ha Ön:",
+        "items": [
+          "Májbetegsége van vagy volt",
+          "Terhes vagy szoptat",
+          "18 év alatti",
+          "Rendszeresen alkoholt fogyaszt",
+          "Benzodiazepineket vagy antipszichotikumokat szed",
+          "Antikoagulánsokat (véralvadásgátlók) szed"
+        ]
+      },
+      "arzt": {
+        "title": "Beszéljen orvosával, ha Ön:",
+        "items": [
+          "Parkinson-kórban szenved",
+          "Súlyos depresszióval küzd",
+          "Rendszeresen gyógyszereket szed",
+          "Műtétet tervez",
+          "65 év feletti"
+        ]
+      },
+      "geeignet": {
+        "title": "A Kava alkalmas lehet, ha Ön:",
+        "items": [
+          "Egészséges és nincsenek májproblémái",
+          "Nem szed semmilyen fent említett gyógyszert",
+          "Nem vagy csak alkalmanként fogyaszt alkoholt",
+          "Felnőtt (18 év felett)",
+          "Nem terhes vagy szoptat"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "Általános ajánlás",
+      "text": "Kétség esetén konzultáljon orvosával vagy gyógyszerészével a Kava fogyasztása előtt, különösen, ha rendszeresen gyógyszereket szed vagy egészségügyi korlátozásokkal küzd."
+    }
+  },
+  "warnzeichen": {
+    "title": "Figyelmeztető jelek: Mikor kell azonnal abbahagyni",
+    "intro": "Azonnal hagyja abba a fogyasztást és keresse fel orvosát, ha:",
+    "items": [
+      {
+        "name": "Sárgulás",
+        "text": "a bőrön vagy a szemeken (ikterus)"
+      },
+      {
+        "name": "Sötét vizelet",
+        "text": "(sörszínű)"
+      },
+      {
+        "name": "Világos széklet",
+        "text": "(színtelen)"
+      },
+      {
+        "name": "Szokatlan fáradtság",
+        "text": "vagy gyengeség"
+      },
+      {
+        "name": "Hányinger",
+        "text": "vagy étvágytalanság"
+      },
+      {
+        "name": "Fájdalom",
+        "text": "a jobb felső hasban"
+      }
+    ],
+    "note": "Ezek a tünetek májproblémákra utalhatnak, és azonnali orvosi kivizsgálást igényelnek."
+  },
+  "quellen": {
+    "title": "Források",
+    "items": [
+      {
+        "author": "EMA (2017):",
+        "title": "Értékelési jelentés a Piper methysticum G. Forst., rhizoma.",
+        "source": "EMA/HMPC/450589/2016."
+      },
+      {
+        "author": "WHO (2007):",
+        "title": "A Kava termékek hepatotoxicitásának kockázatának értékelése.",
+        "source": "WHO Technikai Jelentés."
+      },
+      {
+        "author": "Schelosky L. et al. (1995):",
+        "title": "Kava és dopamin antagonizmus.",
+        "source": "Neurológia, Neurosebészet és Pszichiátria Folyóirat."
+      },
+      {
+        "author": "Sarris J. et al. (2011):",
+        "title": "Kava: átfogó áttekintés a hatékonyságról, biztonságról és pszichofarmakológiáról.",
+        "source": "Ausztrál és Új-Zélandi Pszichiátriai Folyóirat."
+      }
+    ],
+    "moreStudies": "A hivatkozott tanulmányok teljes listáját megtalálja a",
+    "studiesLink": "Tanulmányok oldalunkon"
+  }
+}

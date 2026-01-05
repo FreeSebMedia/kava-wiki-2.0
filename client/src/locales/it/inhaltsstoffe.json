@@ -1,0 +1,120 @@
+{
+  "page": {
+    "title": "Ingredienti & Chimica",
+    "subtitle": "I segreti farmacologici di Piper methysticum: Kavalactone, Chemotipi e meccanismi d'azione.",
+    "category": "Ingredienti"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "current": "Ingredienti"
+  },
+  "toc": {
+    "title": "Contenuto",
+    "uebersicht": "Panoramica dei principi attivi",
+    "kavalactone": "Le 6 principali Kavalactone",
+    "chemotypen": "Il sistema dei chemotipi",
+    "synergien": "Sinergie & Effetto entourage",
+    "weitere": "Ulteriori ingredienti",
+    "unterseiten": "Articoli di approfondimento"
+  },
+  "uebersicht": {
+    "paragraph1": "L'effetto psicoattivo del Kava è principalmente prodotto da un gruppo di composti noti come <strong>Kavalactone</strong> (o Kava-Pyone). A differenza di molte altre piante psicoattive (come caffè o tè), il Kava non contiene alcaloidi come principi attivi principali.",
+    "paragraph2": "Finora sono state identificate 18 diverse Kavalactone, di cui sei sono responsabili di oltre il 96% dell'effetto farmacologico. Queste sei \"Kavalactone principali\" costituiscono la base per la classificazione e la determinazione della qualità del Kava."
+  },
+  "kavalactone": {
+    "title": "Le 6 principali Kavalactone",
+    "intro": "Ogni Kavalactone ha un profilo d'azione unico. L'effetto complessivo di una varietà di Kava deriva dal rapporto specifico di miscelazione di questi sei componenti.",
+    "tableHeaders": {
+      "number": "#",
+      "name": "Nome",
+      "abbreviation": "Abbreviazione",
+      "effect": "Effetto primario"
+    },
+    "tableData": [
+      {
+        "number": "1",
+        "name": "Desmetossiyangonina",
+        "abbreviation": "DMY",
+        "effect": "Focalizzazione, aumento della dopamina, euforia"
+      },
+      {
+        "number": "2",
+        "name": "Dihidrokavaina",
+        "abbreviation": "DHK",
+        "effect": "Fortissima rilassamento muscolare, analgesia (alleviamento del dolore)"
+      },
+      {
+        "number": "3",
+        "name": "Yangonina",
+        "abbreviation": "Y",
+        "effect": "Stimolante, agisce sui recettori CB1 (sistema endocannabinoide)"
+      },
+      {
+        "number": "4",
+        "name": "Kavaina",
+        "abbreviation": "K",
+        "effect": "Ansiolitico (allevia l'ansia), migliora l'umore, concentrazione mentale. Responsabile dell'effetto \"Heady\"."
+      },
+      {
+        "number": "5",
+        "name": "Dihidrometisticina",
+        "abbreviation": "DHM",
+        "effect": "Sedativa, a lungo termine. Alte concentrazioni possono causare nausea (tipico per il Kava Tudei)."
+      },
+      {
+        "number": "6",
+        "name": "Metisticina",
+        "abbreviation": "M",
+        "effect": "Fortemente sedativa, ansiolitica, neuroprotettiva."
+      }
+    ]
+  },
+  "chemotypen": {
+    "title": "Il sistema dei chemotipi",
+    "intro": "Per prevedere l'effetto di una varietà di Kava, viene utilizzato un codice di 6 cifre che elenca le Kavalactone in ordine decrescente di concentrazione. Questo è chiamato <strong>Chemotipo</strong>.",
+    "exampleTitle": "Esempio: Chemotipo 426531",
+    "exampleText": "Questo significa che <strong>Kavaina (4)</strong> ha la concentrazione più alta, seguita da <strong>Dihidrokavaina (2)</strong>, poi <strong>Metisticina (6)</strong>, ecc.",
+    "nobleTudeiTitle": "Noble Kava vs. Tudei Kava",
+    "nobleTudeiIntro": "Il chemotipo è lo strumento principale per distinguere il \"Noble Kava\" (Kava nobile) di alta qualità dal \"Tudei Kava\" (Kava a due giorni) di qualità inferiore.",
+    "nobleDescription": "<strong>Noble Kava:</strong> I chemotipi iniziano solitamente con <strong>4</strong> (Kavaina) o <strong>2</strong> (Dihidrokavaina). Questo produce un effetto piacevole e ansiolitico senza un lungo \"postumi di una sbornia\".",
+    "nobleCodes": "Codici tipici: 423165, 426531, 246531",
+    "tudeiDescription": "<strong>Tudei Kava:</strong> I chemotipi iniziano spesso con <strong>5</strong> (Dihidrometisticina) o <strong>2</strong> con una percentuale molto alta di 5. DHM viene degradato molto lentamente e può portare a stanchezza e nausea per giorni.",
+    "tudeiCodes": "Codici tipici: 253461, 526431"
+  },
+  "synergien": {
+    "title": "Sinergie & Effetto entourage",
+    "paragraph1": "Simile a quanto avviene con la cannabis (terpeni & cannabinoidi), il totale estratto di Kava è più efficace delle Kavalactone isolate. Questo è noto come effetto entourage.",
+    "paragraph2": "Sebbene la Kavaina isolata abbia un effetto ansiolitico, la combinazione con la Yangonina (inibizione della MAO-B) e la Desmetossiyangonina (aumento della dopamina) amplifica significativamente l'effetto di miglioramento dell'umore. Pertanto, le preparazioni tradizionali o gli estratti a spettro completo sono preferiti rispetto ai principi attivi isolati."
+  },
+  "weitere": {
+    "title": "Ulteriori ingredienti",
+    "intro": "Oltre alle Kavalactone, la radice contiene:",
+    "items": [
+      {
+        "label": "Flavokavine (A, B, C)",
+        "text": "Calkoni con potenziali proprietà antitumorali, ma sospettati di essere citotossici a dosi estremamente elevate (principalmente nelle varietà Tudei)."
+      },
+      {
+        "label": "Alcaloidi",
+        "text": "Pipermetistina si trova principalmente nelle <strong>foglie e nei fusti</strong>, non nella radice. È tossica ed è una delle principali ragioni per cui tradizionalmente vengono consumate solo le radici."
+      },
+      {
+        "label": "Amido & Fibre",
+        "text": "Costituiscono circa il 43% della massa secca e forniscono la consistenza tipica della bevanda."
+      },
+      {
+        "label": "Minerali",
+        "text": "Potassio, Calcio, Magnesio."
+      }
+    ]
+  },
+  "unterseiten": {
+    "title": "Articoli di approfondimento",
+    "intro": "Per informazioni più dettagliate sui singoli argomenti, visitate le nostre sottopagine specializzate:",
+    "kavalactoneTitle": "Le 6 principali Kavalactone",
+    "kavalactoneDescription": "Profili d'azione dettagliati per Kavaina, Dihidrokavaina, Metisticina, Dihidrometisticina, Yangonina e Desmetossiyangonina.",
+    "chemotypenTitle": "Il sistema dei chemotipi",
+    "chemotypenDescription": "Come il codice a 6 cifre prevede l'effetto e distingue il Noble Kava dal Tudei.",
+    "learnMore": "Scopri di più"
+  }
+}

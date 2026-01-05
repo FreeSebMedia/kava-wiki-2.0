@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "title": "Kava Instantané",
+    "subtitle": "Le moyen le plus rapide de profiter du Kava – parfait pour les déplacements ou lorsque vous êtes pressé.",
+    "category": "Préparation"
+  },
+  "breadcrumbs": {
+    "home": "Accueil",
+    "zubereitung": "Préparation",
+    "current": "Kava Instantané"
+  },
+  "toc": {
+    "title": "Contenu",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Aperçu",
+        "level": 1
+      },
+      {
+        "id": "was-ist",
+        "title": "Qu'est-ce que le Kava Instantané ?",
+        "level": 1
+      },
+      {
+        "id": "arten",
+        "title": "Types de Kava Instantané",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Préparation",
+        "level": 1
+      },
+      {
+        "id": "dosierung",
+        "title": "Recommandations de dosage",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Comparaison avec d'autres méthodes",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Conseils & Astuces",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "prepTime": "Temps de préparation",
+    "noFilter": "Pas de filtre",
+    "justStir": "Il suffit de remuer",
+    "practical": "Pratique",
+    "idealForTravel": "Idéal pour les déplacements",
+    "potency": "Puissance",
+    "advantages": "Avantages",
+    "disadvantages": "Inconvénients",
+    "productType": "Type de produit",
+    "beginner": "Débutant",
+    "regular": "Régulier",
+    "experienced": "Expérimenté",
+    "aspect": "Aspect",
+    "traditional": "Traditionnel",
+    "blender": "Mixeur",
+    "instant": "Instantané",
+    "otherMethods": "Autres méthodes de préparation"
+  },
+  "overview": {
+    "intro": "Le Kava Instantané est la <strong>manière la plus rapide et la plus simple</strong> de profiter du Kava. Il suffit de mélanger avec de l'eau, de remuer et de boire – <strong>pas de pétrissage, pas de filtration</strong>."
+  },
+  "whatIs": {
+    "title": "Qu'est-ce que le Kava Instantané ?",
+    "text": "\"Kava Instantané\" est un terme générique pour les produits Kava qui peuvent être consommés sans préparation complexe. Contrairement à la poudre de Kava traditionnelle à mouture moyenne, qui doit être pétrie et filtrée, les produits instantanés se dissolvent directement dans l'eau.",
+    "alert": {
+      "title": "Différence importante",
+      "text": "Le Kava Instantané est <strong>différent</strong> des capsules ou comprimés d'extrait de Kava. Il s'agit de formes buvables qui offrent l'expérience complète du Kava."
+    }
+  },
+  "types": {
+    "title": "Types de Kava Instantané",
+    "items": [
+      {
+        "name": "Kava Micronisé",
+        "description": "Poudre de racine ultra-fine qui se dissout complètement dans l'eau.",
+        "pros": [
+          "Préparation la plus rapide",
+          "Composés végétaux complets",
+          "Pas de filtration nécessaire"
+        ],
+        "cons": [
+          "Peut causer des problèmes d'estomac",
+          "Texture sableuse possible",
+          "Plus cher que la mouture moyenne"
+        ],
+        "potency": "Élevée",
+        "color": "ambre"
+      },
+      {
+        "name": "Extrait de Kava déshydraté",
+        "description": "Extrait concentré de Kava préparé traditionnellement, lyophilisé.",
+        "pros": [
+          "Très puissant",
+          "Texture lisse",
+          "Plus doux pour l'estomac"
+        ],
+        "cons": [
+          "Le plus cher",
+          "Goût moins authentique",
+          "Disponibilité limitée"
+        ],
+        "potency": "Très élevée",
+        "color": "violet"
+      },
+      {
+        "name": "Concentré de Kava (liquide)",
+        "description": "Solution de Kava prête à l'emploi, à diluer uniquement avec de l'eau.",
+        "pros": [
+          "Prêt à boire immédiatement",
+          "Force constante",
+          "Pratique pour les déplacements"
+        ],
+        "cons": [
+          "Durée de conservation limitée",
+          "Moins de choix",
+          "Souvent avec des additifs"
+        ],
+        "potency": "Moyenne à élevée",
+        "color": "bleu"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "Préparation",
+    "intro": "La préparation du Kava Instantané est incroyablement simple – d'où son nom !",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Mesurer",
+        "description": "Verser la quantité désirée de Kava Instantané dans un verre ou un bol."
+      },
+      {
+        "number": 2,
+        "title": "Ajouter de l'eau",
+        "description": "Ajouter 200-300 ml d'eau (froide ou chaude)."
+      },
+      {
+        "number": 3,
+        "title": "Remuer & Boire",
+        "description": "Remuer vigoureusement jusqu'à dissolution, puis boire d'un trait."
+      }
+    ],
+    "alert": {
+      "title": "Astuce Pro : Utiliser un shaker",
+      "text": "Un shaker à protéines ou un shaker à cocktails dissout beaucoup mieux le Kava Instantané que de simplement remuer. Cela évite la formation de grumeaux, surtout avec le Kava Micronisé."
+    }
+  },
+  "dosage": {
+    "title": "Recommandations de dosage",
+    "note": "<strong>Remarque :</strong> Ces valeurs sont indicatives. La puissance réelle varie considérablement selon le fabricant et la variété. Commencez toujours par une faible dose !",
+    "items": [
+      {
+        "type": "Micronisé",
+        "beginner": "2-3g",
+        "regular": "4-6g",
+        "experienced": "6-10g"
+      },
+      {
+        "type": "Extrait déshydraté",
+        "beginner": "1-2g",
+        "regular": "2-4g",
+        "experienced": "4-6g"
+      },
+      {
+        "type": "Concentré (liquide)",
+        "beginner": "15-30ml",
+        "regular": "30-45ml",
+        "experienced": "45-60ml"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Comparaison avec d'autres méthodes",
+    "items": [
+      {
+        "aspect": "Temps de préparation",
+        "traditional": "20-25 min",
+        "blender": "8-10 min",
+        "instant": "30 secondes"
+      },
+      {
+        "aspect": "Effort",
+        "traditional": "Élevé",
+        "blender": "Moyen",
+        "instant": "Minimal"
+      },
+      {
+        "aspect": "Puissance",
+        "traditional": "Très élevée",
+        "blender": "Élevée",
+        "instant": "Moyenne-Élevée"
+      },
+      {
+        "aspect": "Goût",
+        "traditional": "Authentique",
+        "blender": "Intense",
+        "instant": "Varie"
+      },
+      {
+        "aspect": "Coût par portion",
+        "traditional": "Abordable",
+        "blender": "Abordable",
+        "instant": "Cher"
+      },
+      {
+        "aspect": "Pour les déplacements",
+        "traditional": "Inpratique",
+        "blender": "Inpratique",
+        "instant": "Idéal"
+      }
+    ]
+  },
+  "tips": {
+    "title": "Conseils & Astuces",
+    "items": [
+      {
+        "name": "Mélanger avec du jus",
+        "text": "Mélangez le Kava Instantané avec du jus de fruit au lieu de l'eau. Le jus d'ananas ou de mangue masque parfaitement le goût amer."
+      },
+      {
+        "name": "Boost au lait de coco",
+        "text": "Utilisez du lait de coco au lieu de l'eau. La graisse améliore l'absorption des Kavalactones et rend le goût plus crémeux."
+      },
+      {
+        "name": "Portions de voyage",
+        "text": "Préparez des portions de Kava Instantané dans de petits sachets zip. Vous aurez toujours la bonne quantité à emporter."
+      },
+      {
+        "name": "À déguster frais",
+        "text": "Le Kava Instantané a souvent meilleur goût froid que chaud. Mélangez-le avec de l'eau froide et quelques glaçons pour une boisson rafraîchissante."
+      }
+    ],
+    "alert": {
+      "title": "Prudence avec le Kava Micronisé",
+      "text": "Le Kava Micronisé contient toutes les fibres végétales et peut causer des problèmes d'estomac chez les personnes sensibles. Si vous ressentez des nausées, passez à l'extrait déshydraté ou à la préparation traditionnelle."
+    }
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Méthode de pétrissage traditionnelle",
+      "subtitle": "Maximale puissance, expérience authentique",
+      "href": "/fr/preparation/traditionnel"
+    },
+    "blender": {
+      "title": "Méthode du mixeur",
+      "subtitle": "Rapide et efficace",
+      "href": "/fr/preparation/mixeur"
+    },
+    "calculator": {
+      "title": "Calculateur de dosage",
+      "subtitle": "Recommandations personnalisées pour votre variété",
+      "href": "/fr/preparation/calculateur"
+    }
+  }
+}

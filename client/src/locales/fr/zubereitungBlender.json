@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Méthode Blender",
+    "subtitle": "La manière rapide et efficace de préparer le Kava – idéale pour la vie moderne.",
+    "category": "Préparation"
+  },
+  "breadcrumbs": {
+    "home": "Accueil",
+    "zubereitung": "Préparation",
+    "current": "Méthode Blender"
+  },
+  "toc": {
+    "title": "Contenu",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Aperçu",
+        "level": 1
+      },
+      {
+        "id": "material",
+        "title": "Matériaux nécessaires",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "Instructions étape par étape",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Comparaison avec la méthode traditionnelle",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Conseils d'experts",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "totalTime": "Temps total",
+    "fast": "Rapide",
+    "lowEffort": "Peu d'effort",
+    "highPotency": "Haute puissance",
+    "effectiveExtraction": "Extraction efficace",
+    "tip": "Astuce",
+    "essential": "Essentiel",
+    "importantForBestResults": "Important pour de meilleurs résultats",
+    "aspect": "Aspect",
+    "traditional": "Traditionnelle (Pétrissage)",
+    "blender": "Blender",
+    "otherMethods": "Autres méthodes de préparation"
+  },
+  "overview": {
+    "intro": "La méthode Blender est l'<strong>alternative moderne</strong> à la méthode traditionnelle de pétrissage. Elle est plus rapide, moins laborieuse et fournit néanmoins une <strong>extraction très bonne</strong>.",
+    "alert": {
+      "title": "Idéal pour...",
+      "text": "Les débutants à la recherche d'une méthode simple, ou les utilisateurs expérimentés ayant peu de temps. La méthode Blender est également parfaite pour de plus grandes quantités."
+    }
+  },
+  "materials": {
+    "title": "Matériaux nécessaires",
+    "essential": [
+      {
+        "name": "Mixeur / Blender",
+        "note": "Au moins 500 watts, mieux 1000+ watts"
+      },
+      {
+        "name": "Poudre de racine de Kava",
+        "type": "Mouture moyenne",
+        "note": "20-40g selon l'expérience"
+      },
+      {
+        "name": "Sachet filtrant",
+        "note": "Sachets à lait de noix ou tamis fin"
+      },
+      {
+        "name": "Eau chaude",
+        "note": "400-600ml, tiède (35-45°C)"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Huile de coco ou lait de coco",
+        "note": "1 cuillère à soupe – essentiel pour une bonne extraction !"
+      },
+      {
+        "name": "Balance de cuisine",
+        "note": "Pour un dosage cohérent"
+      },
+      {
+        "name": "Grand bol",
+        "note": "Pour recueillir lors du filtrage"
+      }
+    ],
+    "alert": {
+      "title": "Exigences du mixeur",
+      "text": "Utilisez un mixeur puissant. Les mixeurs à main ou les mixeurs faibles n'extraient pas efficacement et peuvent surchauffer. Les mixeurs haute performance comme Vitamix ou Blendtec sont idéaux."
+    }
+  },
+  "steps": {
+    "title": "Instructions étape par étape",
+    "items": [
+      {
+        "id": "schritt1",
+        "number": 1,
+        "title": "Préparer les ingrédients",
+        "duration": "2 min",
+        "description": "Mesurer et préparer tous les ingrédients.",
+        "details": [
+          "Peser la poudre de Kava (20-40g selon l'expérience)",
+          "Mesurer l'eau (400-600ml)",
+          "Préparer 1 cuillère à soupe d'huile de coco ou de lait de coco",
+          "Préparer le sachet filtrant et le bol de collecte"
+        ],
+        "tip": "La graisse est particulièrement importante dans la méthode Blender, car elle stabilise l'émulsion."
+      },
+      {
+        "id": "schritt2",
+        "number": 2,
+        "title": "Mettre dans le mixeur",
+        "duration": "1 min",
+        "description": "Remplir le mixeur avec tous les ingrédients.",
+        "details": [
+          "Verser d'abord l'eau (tiède, 35-45°C)",
+          "Ajouter ensuite la poudre de Kava",
+          "Enfin, ajouter la graisse (huile de coco/lait de coco)",
+          "Fermer le couvercle hermétiquement !"
+        ],
+        "tip": "L'eau tiède améliore l'extraction. L'eau froide fonctionne aussi, mais est moins efficace."
+      },
+      {
+        "id": "schritt3",
+        "number": 3,
+        "title": "Mixer",
+        "duration": "3-4 min",
+        "description": "Mixer à la vitesse maximale pour une extraction maximale.",
+        "details": [
+          "Mettre le mixeur à la vitesse maximale",
+          "Mixer en continu pendant 3-4 minutes",
+          "Le mélange devient mousseux et brun laiteux",
+          "Faire des pauses courtes en cas de surchauffe"
+        ],
+        "tip": "Un mixage plus long = un Kava plus fort. Mais attention : certains mixeurs surchauffent après 4+ minutes."
+      },
+      {
+        "id": "schritt4",
+        "number": 4,
+        "title": "Filtrer",
+        "duration": "3 min",
+        "description": "Verser le mélange à travers un sachet filtrant.",
+        "details": [
+          "Positionner le sachet filtrant au-dessus d'un grand bol",
+          "Verser lentement le mélange du mixeur",
+          "Presser et tordre le sachet",
+          "Presser plusieurs fois jusqu'à ce qu'il ne reste presque plus de liquide"
+        ],
+        "tip": "Cette étape est importante ! Sans filtrage, vous ingérez des fibres grossières qui peuvent provoquer des nausées."
+      },
+      {
+        "id": "schritt5",
+        "number": 5,
+        "title": "Servir",
+        "duration": "Immédiatement",
+        "description": "Profitez de votre Kava Blender !",
+        "details": [
+          "Verser dans des bols ou des tasses",
+          "Optionnel : Mettre au réfrigérateur pour un Kava frais",
+          "Boire d'un trait ('Chug')",
+          "Préparer un chaser (fruit)"
+        ],
+        "tip": "Le Kava Blender peut avoir un goût un peu plus amer que celui préparé traditionnellement. Un bon chaser aide !"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Comparaison avec la méthode traditionnelle",
+    "conclusion": "<strong>Conclusion :</strong> La méthode Blender est idéale pour la vie quotidienne et les débutants. Pour des occasions spéciales ou une puissance maximale, la méthode traditionnelle est préférable.",
+    "items": [
+      {
+        "aspect": "Temps de préparation",
+        "traditional": "20-25 minutes",
+        "blender": "8-10 minutes",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Puissance",
+        "traditional": "Très élevée",
+        "blender": "Élevée à très élevée",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Goût",
+        "traditional": "Plus doux, terreux",
+        "blender": "Plus amer, intense",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Effort",
+        "traditional": "Élevé (physique)",
+        "blender": "Faible",
+        "winner": "blender"
+      },
+      {
+        "aspect": "Équipement",
+        "traditional": "Seulement un sachet + un bol",
+        "blender": "Mixeur nécessaire",
+        "winner": "traditional"
+      },
+      {
+        "aspect": "Pour les débutants",
+        "traditional": "Bien adapté",
+        "blender": "Très bien adapté",
+        "winner": "blender"
+      }
+    ]
+  },
+  "expertTips": {
+    "title": "Conseils d'experts",
+    "items": [
+      {
+        "name": "Astuce des glaçons",
+        "text": "Ajoutez 2-3 glaçons dans le mixeur. Cela refroidit le mélange pendant le mixage et empêche la surchauffe lors de temps de mixage prolongés."
+      },
+      {
+        "name": "Filtration double",
+        "text": "Filtrez deux fois – d'abord à travers un sachet grossier, puis à travers un sachet fin. Cela donne un Kava plus lisse sans sédiment."
+      },
+      {
+        "name": "Boost de lécithine",
+        "text": "Une cuillère à café de lécithine de tournesol améliore l'émulsion et peut augmenter la biodisponibilité des Kavalactones."
+      },
+      {
+        "name": "Préparation en lot",
+        "text": "Préparez de plus grandes quantités et conservez le Kava filtré au réfrigérateur. Se conserve 2-3 jours. Bien secouer avant de boire !"
+      }
+    ]
+  },
+  "navigation": {
+    "traditional": {
+      "title": "Méthode traditionnelle de pétrissage",
+      "subtitle": "Puissance maximale, expérience authentique",
+      "href": "/fr/preparation/traditionnel"
+    },
+    "instant": {
+      "title": "Kava instantané",
+      "subtitle": "Aucun effort, prêt à boire immédiatement",
+      "href": "/fr/preparation/instant"
+    },
+    "calculator": {
+      "title": "Calculateur de dosage",
+      "subtitle": "Recommandations personnalisées pour votre variété",
+      "href": "/fr/preparation/calculateur"
+    }
+  }
+}

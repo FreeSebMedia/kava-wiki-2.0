@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "Fajták Vanuatuból",
+    "subtitle": "Több mint 80 Kava-fajta a növény hazájából: Borogu-tól Kelai-ig, Heavy-től Heady-ig.",
+    "category": "Fajták",
+    "breadcrumb": {
+      "home": "Főoldal",
+      "sorten": "Fajták",
+      "current": "Vanuatu"
+    }
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "Vanuatu – A Kava hazája",
+        "level": 1
+      },
+      {
+        "id": "borogu",
+        "title": "Borogu",
+        "level": 1
+      },
+      {
+        "id": "melo-melo",
+        "title": "Melo Melo",
+        "level": 1
+      },
+      {
+        "id": "kelai",
+        "title": "Kelai",
+        "level": 1
+      },
+      {
+        "id": "palasa",
+        "title": "Palasa",
+        "level": 1
+      },
+      {
+        "id": "palarasul",
+        "title": "Palarasul",
+        "level": 1
+      },
+      {
+        "id": "bir-kar",
+        "title": "Bir Kar",
+        "level": 1
+      },
+      {
+        "id": "weitere",
+        "title": "További fajták",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Származás",
+    "chemotype": "Kémiai típus",
+    "duration": "Hatás időtartama",
+    "hours": "Órák",
+    "effectProfile": "Hatásprofil",
+    "recommendedFor": "Ajánlott",
+    "tip": "Tipp",
+    "note": "Megjegyzés",
+    "variety": "Fajta",
+    "type": "Típus",
+    "characteristic": "Jellemző",
+    "popular": "Népszerű",
+    "legendary": "Legendás"
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "<strong>Vanuatu</strong> a Kava feltételezett őshazája, és több mint 80 dokumentált fajtával a világ legnagyobb változatosságát kínálja. E fajták közül sok egyedülálló a szigetek egyes részein, és évszázadok óta helyi közösségek által termesztett.",
+      "text": "Vanuatu változatosságát a szigetek elszigetelt elhelyezkedése és a vegetatív szaporítás hosszú hagyománya magyarázza. Mivel a Kava nem termel magokat, minden sziget saját kultúráját fejlesztette ki, amely alkalmazkodott a helyi talajhoz, éghajlathoz és kulturális preferenciákhoz. Ma Vanuatu a világon elfogyasztott Kava többségét exportálja, és szigorú minőségi szabványokat állapított meg, amelyek megtiltják a Tudei fajták exportját.",
+      "localNames": "<strong>Helyi nevek:</strong> Vanuatuban a Kava szigettől és nyelvtől függően különböző neveken ismert: <em>Kava</em>, <em>Malok</em>, <em>Malogu</em> vagy <em>Nakamal</em> (az utóbbi a hagyományos Kava-bárokat is jelöli)."
+    },
+    "borogu": {
+      "name": "Borogu",
+      "badge": "Heady / Balanced",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 óra",
+      "description1": "<strong>Borogu</strong> (más néven \"Gorgor\") Vanuatu \"népi Kava\"-ja, és a világ egyik legelterjedtebb fajtája. Eredetileg Pentecost szigetéről származik, és a Port Vila-i Nakamalok (hagyományos Kava-bárok) standardja.",
+      "description2": "A 243516-os kémiai típus kiegyensúlyozott keveréket mutat, ahol a DHK az első helyen áll, ami a testre összpontosító, pihentető hatásért felelős. A második helyen álló Kavain mentális tisztaságot biztosít.",
+      "effects": [
+        "<strong>Fizikai ellazulás:</strong> Kifejezett izomlazítás, ideális egy hosszú nap után",
+        "<strong>Mentális nyugalom:</strong> Megnyugtatja az elmét anélkül, hogy elhomályosítaná",
+        "<strong>Alvást segítő:</strong> Jól alkalmas az estére, elősegíti a pihentető alvást",
+        "<strong>Megbízható:</strong> Konzisztens hatás, kevés tétel-változás"
+      ],
+      "recommendedFor": "Kezdők, esti fogyasztás, <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">izomlazítás</a>, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">alvás elősegítése</a>"
+    },
+    "meloMelo": {
+      "name": "Melo Melo",
+      "badge": "Balanced",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 óra",
+      "description1": "<strong>Melo Melo</strong> nevét \"mellow\" (lágy) hatásáról kapta. Ez a fajta az Ambae szigetről ismert rendkívül kiegyensúlyozott hatásáról, amely sem nem túl nyugtató, sem nem túl stimuláló.",
+      "description2": "A 243156-os kémiai típus minden fő Kavalaktón arányát harmonikusan mutatja. Ez teszi a Melo Melót az egyik legváltozatosabb fajtává, amelyet napközben és este egyaránt élvezni lehet.",
+      "effects": [
+        "<strong>Kiegyensúlyozott:</strong> Tökéletes egyensúly a fej és a test hatása között",
+        "<strong>Szorongásoldó:</strong> Kiválóan hat <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">szorongásos állapotokra</a> és stresszre",
+        "<strong>Társas:</strong> Elősegíti a társasági életet fáradtság nélkül",
+        "<strong>Lágy íz:</strong> Enyhébb, mint sok más fajta"
+      ],
+      "recommendedFor": "Kezdők, <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">szorongásoldás</a>, társas események, mindenre alkalmas",
+      "tip": "A Melo Melo az egyik legjobb fajta Kava-kezdők számára. A lágy, kiegyensúlyozott hatás jó képet ad arról, hogy mit kínál a Kava, anélkül, hogy túlterhelné."
+    },
+    "kelai": {
+      "name": "Kelai",
+      "badge": "Heady",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 óra",
+      "description1": "<strong>Kelai</strong> egy legendás fajta az Epi szigetről, és az egyik \"legheavier\" (fejre ható) Kava. A Kava közösségben gyakran hasonlítják a pezsgőhöz – elegáns, eufórikus és egyfajta kifinomultsággal rendelkezik.",
+      "description2": "A 421365-ös kémiai típus a <a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a> (4) kezdődik, amely a mentális tisztaságért és eufóriáért felelős Kavalaktón. A viszonylag rövid hatásidő (2-3 óra) ideálissá teszi a Kelait a napra vagy kora estére.",
+      "effects": [
+        "<strong>Eufórikus:</strong> Kifejezett <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">hangulatjavító</a> hatás",
+        "<strong>Mentálisan stimuláló:</strong> Elősegíti a kreativitást és a beszédeséget",
+        "<strong>Rövid hatásidő:</strong> Ideális kontrollált élményekhez",
+        "<strong>Alig nyugtató:</strong> Nem fáraszt el, jól használható napközben"
+      ],
+      "recommendedFor": "Tapasztalt felhasználók, <a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">társas események</a>, kreatív munka, napi fogyasztás",
+      "note": "A Kelai gyakran drágább és nehezebben beszerezhető, mint más fajták. Az Epi sziget korlátozott mennyiségeket termel, ami hiányt okozhat."
+    },
+    "palasa": {
+      "name": "Palasa",
+      "badge": "Heavy",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 óra",
+      "description": "<strong>Palasa</strong> a Malakula szigetről az egyik legerősebb \"Heavy\" Kava Vanuatuból. Mély, testre ható hatásáról ismert, és hagyományosan késő este fogyasztják.",
+      "effects": [
+        "<strong>Erősen nyugtató:</strong> Mély fizikai ellazulás",
+        "<strong>Izomlazító:</strong> Ideális <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">feszültségekre</a>",
+        "<strong>Alvást segítő:</strong> Az egyik legjobb Kava <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">pihentető alváshoz</a>",
+        "<strong>Hosszú hatás:</strong> Hatása 5-7 órán át tart"
+      ],
+      "recommendedFor": "Esti fogyasztás, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">alvási problémák</a>, <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">izomlazítás</a>"
+    },
+    "palarasul": {
+      "name": "Palarasul",
+      "badge": "Heavy",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 óra",
+      "description": "<strong>Palarasul</strong> szoros kapcsolatban áll a Palasával, és szintén Malakuláról származik. A név jelentése \"kicsi Palasa\", és egy kicsit enyhébb, de hasonló testre ható változatot ír le.",
+      "effects": [
+        "<strong>Testre ható:</strong> Kifejezett fizikai ellazulás",
+        "<strong>Enyhébb:</strong> Kevésbé megterhelő, mint a Palasa",
+        "<strong>Jó belépő:</strong> Alkalmas Heavy Kava újoncoknak"
+      ]
+    },
+    "birKar": {
+      "name": "Bir Kar",
+      "badge": "Balanced",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 óra",
+      "description": "<strong>Bir Kar</strong> (más néven \"Birkar\") egy kiegyensúlyozott fajta Malakuláról, érdekes hatásprofiljával. A név a helyi nyelvben \"erős Kava\"-t jelent.",
+      "effects": [
+        "<strong>Kiegyensúlyozott:</strong> Jó egyensúly a fej és a test között",
+        "<strong>Erős:</strong> A \"Balanced\" besorolás ellenére meglehetősen erős",
+        "<strong>Változatos:</strong> Napra és estére is alkalmas"
+      ]
+    },
+    "weitere": {
+      "title": "További fajták Vanuatuból",
+      "intro": "A fent leírt főfajták mellett Vanuatuban tucatnyi más Noble-kultúra is megtalálható. Íme egy válogatás:",
+      "tableHeaders": {
+        "variety": "Fajta",
+        "origin": "Származás",
+        "type": "Típus",
+        "characteristic": "Jellemző"
+      },
+      "tableRows": [
+        {
+          "variety": "Ambae",
+          "origin": "Ambae",
+          "type": "Heavy",
+          "characteristic": "Nagyon nyugtató, alváshoz"
+        },
+        {
+          "variety": "Pia",
+          "origin": "Pentecost",
+          "type": "Balanced",
+          "characteristic": "Lágy, jó kezdőknek"
+        },
+        {
+          "variety": "Silese",
+          "origin": "Pentecost",
+          "type": "Heady",
+          "characteristic": "Eufórikus, ritka"
+        },
+        {
+          "variety": "Melmel",
+          "origin": "Diverse",
+          "type": "Balanced",
+          "characteristic": "Hasonló, mint a Melo Melo"
+        },
+        {
+          "variety": "Poivota",
+          "origin": "Tanna",
+          "type": "Heavy",
+          "characteristic": "Hagyományos, ceremoniális"
+        },
+        {
+          "variety": "Ahouia",
+          "origin": "Diverse",
+          "type": "Balanced",
+          "characteristic": "Enyhe, kellemes"
+        }
+      ],
+      "profilesLink": "Minden fajta profilja részletesen"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "Tovább a Fajták fejezetben:",
+    "next": {
+      "title": "Fajták Fijiből, Tongából és Hawaiiból",
+      "description": "Regionális különlegességek: Loa Waka, Pouni Ono, 'Awa Moi és egyedi tulajdonságaik",
+      "href": "/de/sorten/pazifik"
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "Biztonság & Egészség",
+    "subtitle": "Tények a mítoszok helyett: Tudományos áttekintés a hepatotoxicitásról, mellékhatásokról és a biztonságos fogyasztásról.",
+    "category": "Biztonság"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "Tudományos konszenzus",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "Fejezetáttekintés",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "Májbiztonság",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "Kölcsönhatások",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "Ellenjavallatok",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "Adagolási ajánlások",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "Lehetséges mellékhatások",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "Biztonsági ellenőrzőlista",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "Jelenlegi tudományos konszenzus",
+    "intro": "A <strong>WHO</strong>, <strong>EMA</strong> és független kutatók átfogó elemzései alapján:",
+    "points": [
+      "A hagyományosan elkészített Kava a Noble fajtákból megfelelő használat mellett <strong>biztonságos</strong>",
+      "Súlyos májkárosodás <strong>extrém ritka</strong> (becsült előfordulás: 1:60.000-től 1:1.000.000-ig)",
+      "A 2002-es EU-tilalmat a német bíróságok <strong>aránytalan</strong> intézkedésnek minősítették",
+      "A kockázatok elsősorban a <strong>minőségi hiányosságok</strong>, <strong>helytelen növényi részek</strong> vagy <strong>kevert fogyasztás</strong> miatt merülnek fel"
+    ]
+  },
+  "kapitel": {
+    "title": "Fejezetáttekintés: Biztonság részletesen",
+    "intro": "Ez a fejezet átfogó, tudományosan megalapozott elemzést nyújt a Kava biztonsággal kapcsolatos aspektusairól. Kattintson az aloldalakra a részletes információkért:",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "Májbiztonság & Hepatotoxicitás",
+        "href": "/de/sicherheit/leber",
+        "description": "A 2002-es tilalom tudományos igazsága, WHO- és EMA-értékelések, kockázati tényezők és gyakorlati ajánlások.",
+        "highlights": [
+          "WHO-értékelés 2007",
+          "EMA-jelentés 2017",
+          "Bírósági ítéletek",
+          "Kockázati tényezők"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "Kölcsönhatások gyógyszerekkel",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "A Kavalactone gátolja a CYP450 enzimeket: Teljes áttekintés a magas kockázatú kombinációkról és mérsékelt kölcsönhatásokról.",
+        "highlights": [
+          "CYP450 rendszer",
+          "Magas kockázatú kombinációk",
+          "Kölcsönhatási táblázat",
+          "Gyakorlati tippek"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "Ellenjavallatok",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "Mikor ne használja a Kava-t: Absolút és relatív ellenjavallatok a biztonságos használathoz.",
+        "highlights": [
+          "Májbetegségek",
+          "Terhesség",
+          "Parkinson",
+          "Döntéstámogató"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "Adagolási ajánlások",
+    "intro": "Az optimális adag erősen függ az egyéni toleranciától (\"fordított tolerancia\") és a Kava fajtától. Mindig alacsonyabb adagokkal kezdje.",
+    "boxTitle": "Irányértékek a Kavalactone-ra",
+    "medical": {
+      "title": "Orvosi (szorongás)",
+      "value": "60–240 mg",
+      "unit": "Kavalactone naponta"
+    },
+    "traditional": {
+      "title": "Hagyományos / Rekreációs",
+      "value": "250–500 mg",
+      "unit": "Kavalactone alkalmonként"
+    },
+    "tableTitle": "Elkészítés gyökérporral (közepes őrlés)",
+    "table": {
+      "headers": {
+        "level": "Tapasztalati szint",
+        "amount": "Mennyiség",
+        "water": "Víz"
+      },
+      "rows": [
+        {
+          "level": "Kezdő",
+          "amount": "2-3 evőkanál (kb. 20-30g)",
+          "water": "300-400ml"
+        },
+        {
+          "level": "Haladó",
+          "amount": "4-6 evőkanál (kb. 40-60g)",
+          "water": "500-600ml"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "Lehetséges mellékhatások",
+    "intro": "Bár a Kava megfelelő használat mellett biztonságos, mellékhatások léphetnek fel, különösen túlzott fogyasztás esetén.",
+    "frequent": {
+      "title": "Gyakori (adagfüggő)",
+      "items": [
+        {
+          "label": "Fáradtság:",
+          "value": "Különösen a \"Heavy\" fajták esetén"
+        },
+        {
+          "label": "Hányinger:",
+          "value": "Erős adagok esetén éhgyomorra"
+        },
+        {
+          "label": "Dehidratáció:",
+          "value": "A Kava vízhajtó hatású"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "Krónikus fogyasztás esetén",
+      "items": [
+        {
+          "label": "Kava-dermopátia:",
+          "value": "Száraz, pikkelyes bőr (reverzibilis)"
+        },
+        {
+          "label": "GGT-emelkedés:",
+          "value": "A májenzim enyhén emelkedik (reverzibilis)"
+        },
+        {
+          "label": "Súlycsökkenés:",
+          "value": "Nagyon magas fogyasztás esetén"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "Biztonsági ellenőrzőlista",
+    "boxTitle": "A Kava biztonságos fogyasztásához",
+    "items": [
+      "<strong>Csak Noble-Kava</strong> megbízható forrásokból",
+      "<strong>Csak gyökér/rhizóma</strong> – ne levelek vagy szárak",
+      "<strong>Hagyományos vizes elkészítést</strong> részesítsen előnyben",
+      "<strong>Ne fogyasszon alkoholt</strong> – legalább 24 órás távolság"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>Gyógyszer-ellenőrzés</strong> – ",
+        "linkText": "Kölcsönhatások ellenőrzése",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>Ellenjavallatok figyelembevétele</strong> – ",
+        "linkText": "Ellenőrzőlista megtekintése",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "Figyelmeztető jelek figyelembevétele",
+      "text": "Ha a bőr/szem sárgulása, sötét vizelet, világos széklet vagy szokatlan fáradtság lép fel, azonnal hagyja abba a fogyasztást és keressen fel orvost."
+    }
+  },
+  "quickLinks": {
+    "title": "Részletes információk",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "Májbiztonság",
+        "description": "Hepatotoxicitás & a 2002-es tilalom",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "Kölcsönhatások",
+        "description": "Gyógyszerek & CYP450 kölcsönhatások",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "Ellenjavallatok",
+        "description": "Mikor kell kerülni a Kava-t",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

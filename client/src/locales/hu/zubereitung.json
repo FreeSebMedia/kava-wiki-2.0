@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Elkészítés és alkalmazás",
+    "subtitle": "A porból ital: Hogyan készítsük el a Kava-t helyesen a maximális hatás és a legjobb íz elérése érdekében.",
+    "category": "Elkészítés"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "current": "Elkészítés"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Az extrakció alapjai",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Hagyományos módszer (gyúrás)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Turmixgép módszer (Blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Shaker módszer (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instant és mikronizált",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Pro-tanácsok a legjobb hatásért",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "A Kavalactonok <strong>nem vízben oldódnak</strong>, hanem zsírban oldódnak. Mechanikusan tapadnak a gyökér keményítő részecskéhez.",
+      "text": "Ezért minden elkészítés célja, hogy ezeket a részecskéket mechanikai erővel (gyúrás, turmixolás) kioldja a növényi rostokból és vízben emulgeálja. A tiszta \"tea elkészítés\" (csak forró víz öntése) a Kava esetében <strong>nem</strong> hatékony!"
+    },
+    "traditionell": {
+      "title": "Hagyományos módszer (gyúrás)",
+      "intro": "Ez a legjobb módszer a maximális potencia és az autentikus élmény érdekében.",
+      "materialsTitle": "Amire szüksége van:",
+      "materials": [
+        "Kava gyökérpor (közepes őrlés)",
+        "Egy szűrőzsák (diótejzsák, 75-100 mikron)",
+        "Egy tál meleg (nem forrásban lévő!) víz",
+        "Opcionális: Egy löket tej vagy kókusztej (a zsír segít az extrakcióban)"
+      ],
+      "instructionsTitle": "Útmutató:",
+      "instructions": [
+        "Tegye a port a szűrőzsákba (kb. 30-40g 500ml vízhez).",
+        "Mártsa a zsákot a vízbe, és hagyja rövid ideig ázni.",
+        "<strong>Gyúrás és kicsavarás:</strong> Gyúrja a zsákot víz alatt erőteljesen 10-15 percig. Folyamatosan csavarja ki. A víznek tejszínes-barna színűvé kell válnia (\"Grog\").",
+        "Nyomja ki a zsákot utoljára erősen.",
+        "Tálalja a Kava-t tálkákban (Shells). Igyon gyorsan (\"Chug\"), ne kortyoljon!"
+      ]
+    },
+    "blender": {
+      "title": "Turmixgép módszer (Blender)",
+      "intro": "Gyorsabb és gyakran erősebb, de az íz kissé keserűbb lehet, mivel több növényi anyag apróra van vágva.",
+      "instructions": [
+        "Tegyen vizet, Kava port és egy teáskanál olajat/zsírt egy álló turmixgépbe.",
+        "Magas fokozaton turmixolja 3-4 percig.",
+        "A folyadékot szűrőzsákon vagy finom szitán keresztül öntse egy tálba.",
+        "A növényi maradványokat a szűrőben jól nyomja ki."
+      ]
+    },
+    "shaker": {
+      "title": "Shaker módszer (Aluball)",
+      "intro": "A legmodernebb és leggyorsabb módszer, ideális útközben.",
+      "text": "Speciális shaker palackokat használnak, amelyekben egy golyó (Aluball) található, amely fém szűrőt tartalmaz.",
+      "instructions": [
+        "Töltse meg a szűrőgolyót Kava-val.",
+        "Töltse meg a palackot vízzel.",
+        "Helyezze be a golyót, és 1-2 percig erőteljesen rázza.",
+        "Kész!"
+      ],
+      "note": "Megjegyzés: Ez a módszer gyakran kissé gyengébb, mint a hagyományos gyúrás, de nagyon kényelmes."
+    },
+    "instant": {
+      "title": "Instant és mikronizált",
+      "intro": "Mindenkinek, aki semmilyen erőfeszítést nem akar.",
+      "items": [
+        {
+          "name": "Instant Kava",
+          "description": "Dehidratált \"Zöld Kava lé\". Nagyon erős, nagyon drága, azonnal oldódik vízben. A \"királyi osztály\"."
+        },
+        {
+          "name": "Mikronizált Kava",
+          "description": "Extrém finomra őrölt gyökérpor, amelyből a durva rostokat eltávolították. Egyszerűen megissza. Érzékeny gyomrok esetén inkább hányingert okozhat, mint a szűrt Kava."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Pro-tanácsok a legjobb hatásért",
+      "alert": {
+        "title": "Az aranyszabály",
+        "text": "Mindig <strong>éhes gyomorra</strong> igyon Kava-t (legalább 3-4 órával az utolsó étkezés után). Különben a hatás jelentősen gyengébb!"
+      },
+      "tips": [
+        {
+          "name": "Visszafelé tolerancia",
+          "text": "Sokan az első alkalommal keveset éreznek. A testnek először \"hozzá kell szoknia\" a Kavalactonokhoz. Igyon néhány napig egymás után."
+        },
+        {
+          "name": "A \"Chaser\"",
+          "text": "A Kava földes és keserű ízű. Tartsanak készen egy darab gyümölcsöt (ananász, narancs), hogy közvetlenül ivás után beleharaphassanak."
+        },
+        {
+          "name": "Zsírforrás",
+          "text": "A Kava-szekció után egy kis zsíros ételt (pl. pizza, curry) egyen. Ez második hullámot okozhat a hatásban."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "Gyógyszerekkel való kölcsönhatások",
+    "subtitle": "A kavalaktonok gátolják a fontos májenzimeket: Amit tudnia kell a CYP450 kölcsönhatásokról és a biztonságos kombinációkról.",
+    "category": "Biztonság",
+    "breadcrumbs": {
+      "home": "Főoldal",
+      "sicherheit": "Biztonság",
+      "current": "Kölcsönhatások"
+    }
+  },
+  "toc": {
+    "title": "Tartalom",
+    "zusammenfassung": "Összefoglalás",
+    "cyp450": "A CYP450 rendszer",
+    "welcheEnzyme": "Érintett enzimek",
+    "klinischeBedeutung": "Klinikai jelentőség",
+    "hochrisiko": "Magas kockázatú kombinációk",
+    "alkohol": "Alkohol",
+    "benzodiazepine": "Benzodiazepinek és altatók",
+    "antipsychotika": "Antipszichotikumok",
+    "antikoagulantien": "Antikoagulánsok",
+    "moderatesRisiko": "Mérsékelt kockázat",
+    "antidepressiva": "Antidepresszánsok",
+    "antikonvulsiva": "Antikonvulzív szerek",
+    "parkinson": "Parkinson-gyógyszerek",
+    "hepatotoxisch": "Hepatotoxikus gyógyszerek",
+    "tabelle": "Kölcsönhatási táblázat",
+    "empfehlungen": "Gyakorlati ajánlások",
+    "quellen": "Források"
+  },
+  "navigation": {
+    "continueTitle": "Tovább a Biztonság fejezetben",
+    "items": [
+      {
+        "title": "Áttekintés",
+        "href": "/hu/biztonsag",
+        "description": "Vissza a biztonsági áttekintéshez"
+      },
+      {
+        "title": "Máj biztonság",
+        "href": "/hu/biztonsag/leber",
+        "description": "Hepatotoxicitás és a 2002-es tilalom"
+      },
+      {
+        "title": "Ellenjavallatok",
+        "href": "/hu/biztonsag/ellenjavallatok",
+        "description": "Mikor kell kerülni a Kava-t"
+      },
+      {
+        "title": "Kölcsönhatás-ellenőrző",
+        "href": "/hu/biztonsag/checker",
+        "description": "Ellenőrizze a gyógyszereit"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "Fontos figyelmeztetés",
+    "intro": "A Kava <strong>magas potenciállal rendelkezik gyógyszerkölcsönhatásokra</strong> a citokróm P450 enzimek gátlása miatt. Soha ne kombinálja a Kava-t a következőkkel:",
+    "items": [
+      {
+        "name": "Alkohol",
+        "text": "Fokozott szedáció és májtoxicitás"
+      },
+      {
+        "name": "Benzodiazepinekkel",
+        "text": "A légzésdepresszió veszélye"
+      },
+      {
+        "name": "Antipszichotikumok",
+        "text": "Fokozott szedáció, mozgászavarok"
+      },
+      {
+        "name": "Antikoagulánsok",
+        "text": "Vérzésveszély"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "A citokróm P450 rendszer",
+    "intro": "A citokróm P450 rendszer (CYP450) egy enzimek családja a májban, amely a legtöbb gyógyszer lebontásáért felelős. Ha egy anyag gátolja ezeket az enzimeket, más anyagok lebontása lassabbá válik – ezáltal fokozódhat a hatásuk és mellékhatásaik.",
+    "importance": {
+      "title": "Miért fontos ez?",
+      "text": "Körülbelül <strong>70-80% az összes gyógyszer</strong> CYP450 enzimeken keresztül metabolizálódik. Ha a Kava gátolja ezeket az enzimeket, más gyógyszerek koncentrációja a vérben emelkedhet – néha veszélyes szintre. Ez különösen igaz azokra a gyógyszerekre, amelyek <strong>szűk terápiás ablakkal</strong> rendelkeznek, ahol a kis dózismódosítások nagy hatással lehetnek."
+    }
+  },
+  "enzyme": {
+    "title": "Mely enzimek gátlódnak?",
+    "intro": "Mathews et al. (2002) és más kutatók tanulmányai azt mutatták, hogy a kavalaktonok több fontos CYP450 enzimet gátolnak:",
+    "headers": [
+      "Enzim",
+      "Gátlási erősség",
+      "Fontos szubsztrátok (példák)"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "Erős",
+        "substrates": "Koffein, Theophyllin, Clozapin, Olanzapin"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "Erős",
+        "substrates": "Warfarin, Phenytoin, NSAID-ok (Ibuprofen)"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "Mérsékelt",
+        "substrates": "Omeprazol, Diazepam, Clopidogrel"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "Mérsékelt",
+        "substrates": "Kodein, Tramadol, sok antidepresszáns"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "Erős",
+        "substrates": "Benzodiazepinek, sztatinok, sok antibiotikum"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "Klinikai jelentőség",
+    "text": "Russmann et al. (2005) tanulmánya azt mutatta, hogy a hagyományos vizes Kava kivonatok is gátolják a CYP1A2-t az emberekben. A gátlás dózisfüggő és klinikailag releváns volt. Ez azt jelenti, hogy még a hagyományosan elkészített Kava is okozhat kölcsönhatásokat.",
+    "positive": {
+      "title": "Pozitív mellékhatás?",
+      "text": "A CYP1A2 gátlás elméletileg védő hatást nyújthat bizonyos környezeti karcinogének ellen, amelyek ezen az enzimen keresztül aktiválódnak. Ez magyarázhatja, hogy a csendes-óceáni népességek, akik magas Kava-fogyasztással rendelkeznek, alacsony rák előfordulási arányt mutatnak."
+    }
+  },
+  "hochrisiko": {
+    "title": "Magas kockázatú kombinációk",
+    "intro": "A következő kombinációkat <strong>minden körülmények között kerülni kell</strong>. Súlyos, potenciálisan életveszélyes mellékhatásokhoz vezethetnek."
+  },
+  "alkohol": {
+    "title": "Alkohol",
+    "risk": "NAGYON MAGAS",
+    "intro": "A Kava és az alkohol kombinációja különösen veszélyes több okból:",
+    "points": [
+      {
+        "number": "1.",
+        "label": "Szinergikus szedáció",
+        "text": "Mindkét anyag szedáló hatással van a központi idegrendszerre. A kombinált hatás erősebb, mint az egyes hatások összege."
+      },
+      {
+        "number": "2.",
+        "label": "Additív májtoxicitás",
+        "text": "Mindkét anyag a májban bomlik le, és megterhelheti azt. A kombináció jelentősen növeli a májkárosodás kockázatát."
+      },
+      {
+        "number": "3.",
+        "label": "CYP-interakció",
+        "text": "Az alkohol is befolyásolja a CYP enzimeket, ami kiszámíthatatlan kölcsönhatásokhoz vezethet."
+      }
+    ],
+    "recommendation": "Ajánlás: Legalább 24 órás szünet az alkohol- és Kava-fogyasztás között."
+  },
+  "benzodiazepine": {
+    "title": "Benzodiazepinek és altatók",
+    "risk": "NAGYON MAGAS",
+    "intro": "A benzodiazepinek (Diazepam, Lorazepam, Alprazolam stb.) és Z-anyagok (Zolpidem, Zopiclon) soha nem kombinálhatók Kava-val:",
+    "points": [
+      {
+        "label": "Fokozott szedáció",
+        "text": "Mindkettő hat a GABA-receptorokra, és kölcsönösen fokozzák egymás hatását."
+      },
+      {
+        "label": "Légzésdepresszió",
+        "text": "A kombináció veszélyesen lelassíthatja a légzést."
+      },
+      {
+        "label": "CYP3A4 gátlás",
+        "text": "A Kava lelassítja a benzodiazepinek lebontását, ami meghosszabbítja hatásukat."
+      }
+    ],
+    "caseReportLabel": "Esettanulmány:",
+    "caseReport": "Almeida & Grimsley (1996) egy 54 éves férfiról számoltak be, aki Kava és Alprazolam kombinációja után félkomatózus állapotba került."
+  },
+  "antipsychotika": {
+    "title": "Antipszichotikumok",
+    "risk": "MAGAS",
+    "intro": "Antipszichotikumok, mint a Haloperidol, Risperidon, Olanzapin és Clozapin:",
+    "points": [
+      {
+        "label": "Fokozott szedáció",
+        "text": "Additív CNS-depresszív hatás."
+      },
+      {
+        "label": "Extrapiramidális tünetek",
+        "text": "Növekvő mozgászavarok kockázata."
+      },
+      {
+        "label": "CYP1A2/CYP2D6 gátlás",
+        "text": "Lassabb lebontás, magasabb vérszint."
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "Antikoagulánsok (vérhígítók)",
+    "risk": "MAGAS",
+    "intro": "Warfarin és más K-vitamin antagonisták:",
+    "points": [
+      {
+        "label": "CYP2C9 gátlás",
+        "text": "A Kava gátolja a Warfarin lebontásáért felelős enzimet."
+      },
+      {
+        "label": "Megnövekedett INR",
+        "text": "Fokozott vérzésveszély."
+      },
+      {
+        "label": "Vérzésveszély",
+        "text": "Veszélyes belső vérzésekhez vezethet."
+      }
+    ],
+    "recommendation": "Antikoagulánsok szedése esetén a Kava ellenjavallt."
+  },
+  "moderatesRisiko": {
+    "title": "Mérsékelt kockázatú kombinációk",
+    "intro": "A következő kombinációk óvatosságot igényelnek, és csak orvosi konzultáció után alkalmazhatók. Dózismódosítás szükséges lehet."
+  },
+  "antidepressiva": {
+    "title": "Antidepresszánsok",
+    "risk": "MÉRSÉKELT",
+    "ssri": {
+      "title": "SSRI-k (Fluoxetin, Sertralin, Paroxetin stb.):",
+      "items": [
+        "A CYP2D6 gátlás lassíthatja a lebontást.",
+        "Elméleti kockázat a szerotonin-szindrómára (alacsony).",
+        "Fokozott szedáció lehetséges."
+      ]
+    },
+    "snri": {
+      "title": "SNRI-k (Venlafaxin, Duloxetin):",
+      "items": [
+        "Hasonló kölcsönhatások, mint az SSRI-k.",
+        "A CYP2D6 gátlás releváns a Venlafaxin esetében."
+      ]
+    },
+    "mao": {
+      "title": "MAO-gátlók:",
+      "items": [
+        "A Kava gyengén gátolja a MAO-B-t.",
+        "Elméleti kockázat, de klinikailag alig dokumentált.",
+        "Óvatosan kell eljárni a visszafordíthatatlan MAO-gátlókkal."
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "Antikonvulzív szerek (antiepileptikumok)",
+    "risk": "MÉRSÉKELT",
+    "intro": "Phenytoin, Carbamazepin, Valproat és más antikonvulzív szerek:",
+    "points": [
+      {
+        "label": "CYP-kölcsönhatások",
+        "text": "Megváltozott vérszintek lehetségesek."
+      },
+      {
+        "label": "Fokozott szedáció",
+        "text": "Additív CNS-hatás."
+      },
+      {
+        "label": "Rohamkontroll",
+        "text": "Ez károsodhat."
+      }
+    ],
+    "note": "Epilepszia esetén a Kava csak orvosi felügyelet mellett használható."
+  },
+  "parkinson": {
+    "title": "Parkinson-gyógyszerek",
+    "risk": "MÉRSÉKELT és MAGAS",
+    "intro": "Levodopa és dopamin agonisták:",
+    "points": [
+      {
+        "label": "Dopamin-antagonizmus",
+        "text": "A Kava csökkentheti a Levodopa hatását."
+      },
+      {
+        "label": "Esettanulmány",
+        "text": "A Kava alatt a Parkinson-tünetek romlása dokumentált."
+      }
+    ],
+    "recommendation": "Parkinson-betegség esetén a Kava ellenjavallt."
+  },
+  "hepatotoxisch": {
+    "title": "Hepatotoxikus gyógyszerek",
+    "risk": "MÉRSÉKELT",
+    "intro": "Ismert hepatotoxikus potenciállal rendelkező gyógyszerek:",
+    "items": [
+      {
+        "name": "Paracetamol/Acetaminophen",
+        "text": "Különösen magas dózisok esetén problémás."
+      },
+      {
+        "name": "Sztatinok",
+        "text": "Atorvastatin, Simvastatin stb. (CYP3A4 szubsztrátok)"
+      },
+      {
+        "name": "Methotrexat",
+        "text": "Immunmoduláló szer májtoxicitással."
+      },
+      {
+        "name": "Isoniazid",
+        "text": "TBC-gyógyszer."
+      }
+    ],
+    "note": "A hepatotoxikus gyógyszerekkel való kombináció növeli a májkárosodás kockázatát."
+  },
+  "tabelle": {
+    "title": "Kölcsönhatások áttekintő táblázata",
+    "headers": [
+      "Anyagcsoport",
+      "Példák",
+      "Kockázat",
+      "Mechanizmus"
+    ],
+    "rows": [
+      {
+        "class": "Alkohol",
+        "examples": "Ethanol",
+        "risk": "NAGYON MAGAS",
+        "mechanism": "Szinergikus szedáció, májtoxicitás"
+      },
+      {
+        "class": "Benzodiazepinek",
+        "examples": "Diazepam, Lorazepam, Alprazolam",
+        "risk": "NAGYON MAGAS",
+        "mechanism": "GABA fokozás, CYP3A4 gátlás"
+      },
+      {
+        "class": "Antipszichotikumok",
+        "examples": "Haloperidol, Olanzapin, Clozapin",
+        "risk": "MAGAS",
+        "mechanism": "CYP1A2/2D6 gátlás, szedáció"
+      },
+      {
+        "class": "Antikoagulánsok",
+        "examples": "Warfarin, Phenprocoumon",
+        "risk": "MAGAS",
+        "mechanism": "CYP2C9 gátlás, vérzésveszély"
+      },
+      {
+        "class": "SSRI-k",
+        "examples": "Fluoxetin, Sertralin, Paroxetin",
+        "risk": "MÉRSÉKELT",
+        "mechanism": "CYP2D6 gátlás"
+      },
+      {
+        "class": "Antikonvulzív szerek",
+        "examples": "Phenytoin, Carbamazepin",
+        "risk": "MÉRSÉKELT",
+        "mechanism": "CYP-kölcsönhatások, szedáció"
+      },
+      {
+        "class": "Parkinson-gyógyszerek",
+        "examples": "Levodopa, dopamin agonisták",
+        "risk": "MÉRSÉKELT",
+        "mechanism": "Dopamin-antagonizmus"
+      },
+      {
+        "class": "Sztatinok",
+        "examples": "Atorvastatin, Simvastatin",
+        "risk": "MÉRSÉKELT",
+        "mechanism": "CYP3A4 gátlás, májtoxicitás"
+      },
+      {
+        "class": "Opioidok",
+        "examples": "Kodein, Tramadol, Morfin",
+        "risk": "MÉRSÉKELT",
+        "mechanism": "CYP2D6 gátlás, szedáció"
+      },
+      {
+        "class": "Koffein",
+        "examples": "Kávé, energiaitalok",
+        "risk": "ALACSONY",
+        "mechanism": "CYP1A2 gátlás (meghosszabbított hatás)"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "Gyakorlati ajánlások",
+    "checklistTitle": "Ellenőrző lista Kava fogyasztása előtt",
+    "items": [
+      {
+        "number": "1.",
+        "label": "Gyógyszerlista ellenőrzése",
+        "text": "Minden aktuális gyógyszert ellenőrizzen a kölcsönhatások szempontjából."
+      },
+      {
+        "number": "2.",
+        "label": "Orvos konzultálása",
+        "text": "Rendszeres gyógyszerszedés esetén orvosi tanácsot kérjen Kava fogyasztása előtt."
+      },
+      {
+        "number": "3.",
+        "label": "Alkohol kerülése",
+        "text": "Legalább 24 órával Kava fogyasztása előtt és után ne fogyasszon alkoholt."
+      },
+      {
+        "number": "4.",
+        "label": "Alacsony dózisban kezdeni",
+        "text": "Egyidejű gyógyszerszedés esetén alacsonyabb Kava dózissal kezdjen."
+      },
+      {
+        "number": "5.",
+        "label": "Tünetek figyelése",
+        "text": "Figyeljen az szokatlan fáradtságra, szédülésre vagy más tünetekre."
+      }
+    ],
+    "professionalNote": {
+      "title": "Megjegyzés orvosoknak és gyógyszerészeknek",
+      "text": "A Kava-t fogyasztó betegeknél a gyógyszeres kezelés CYP450 szubsztrátok szempontjából történő ellenőrzése szükséges. Különös óvatosság szükséges a szűk terápiás ablakkal rendelkező gyógyszereknél. Dózismódosítás szükséges lehet."
+    }
+  },
+  "quellen": {
+    "title": "Források",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Az emberi citokróm P450 aktivitások gátlása Kava kivonattal és kavalaktonokkal.",
+        "source": "Gyógyszer Metabolizmus és Eloszlás."
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Farmakokinetikai és farmakodinámiás gyógyszerkölcsönhatások Kava-val.",
+        "source": "Etnofarmakológiai Folyóirat."
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "Hagyományos vizes Kava kivonatok gátolják a citokróm P450 1A2-t emberekben.",
+        "source": "Klinikai Farmakológia és Terápiák."
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "A Kava és a Szent János kenyér gyógyszerekkel való kölcsönhatásának potenciálja.",
+        "source": "Etnofarmakológiai Folyóirat."
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "A Piper methysticum kivonatok és kavalaktonok gátolják a citokróm P450 3A4-et.",
+        "source": "Planta Medica."
+      }
+    ],
+    "moreStudies": "A hivatkozott tanulmányok teljes listáját megtalálja a",
+    "studiesLink": "tanulmányok oldalán."
+  }
+}

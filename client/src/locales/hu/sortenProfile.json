@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "Fajták részletes bemutatása",
+    "subtitle": "A legfontosabb Kava-fajták részletes ismertetői, kémiai típusokkal, hatásokkal és ajánlásokkal.",
+    "category": "Fajták"
+  },
+  "breadcrumbs": {
+    "home": "Kezdőlap",
+    "sorten": "Fajták",
+    "current": "Profilok"
+  },
+  "toc": {
+    "title": "Tartalom",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "Áttekintés",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "Kedvenceim",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "Hatás szűrő",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "Fejben ható fajták",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "Kiegyensúlyozott fajták",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "Nehezen ható fajták",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "Fajták összehasonlítása",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "Eredet",
+    "chemotype": "Kémiai típus",
+    "duration": "Hatás időtartama",
+    "strength": "Erősség",
+    "hits": "Találatok",
+    "low": "Alacsony",
+    "high": "Magas",
+    "variety": "Fajta",
+    "region": "Régió",
+    "type": "Típus",
+    "bestUse": "Legjobb felhasználás",
+    "resetFilters": "Szűrők visszaállítása",
+    "matchingCriteria": "a {total} fajtából megfelel az Ön kritériumainak",
+    "noMatching": "Nincs {category} fajta, amely megfelel a jelenlegi szűrési kritériumoknak.",
+    "toComparison": "Az interaktív fajták összehasonlításához"
+  },
+  "overview": {
+    "intro": "Ez az oldal átfogó áttekintést nyújt a legfontosabb <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">Noble Kava</a> fajtákról, hatás típusuk szerint rendezve. Használja ezeket a profilokat, hogy megtalálja a tökéletes fajtát az Ön igényeihez.",
+    "categories": [
+      {
+        "name": "Fejben ható",
+        "description": "Fejben ható, euforikus, társasági. Ideális a nap folyamán.",
+        "color": "yellow"
+      },
+      {
+        "name": "Kiegyensúlyozott",
+        "description": "Kiegyensúlyozott, sokoldalú. Jól használható bármely napszakban.",
+        "color": "blue"
+      },
+      {
+        "name": "Nehezen ható",
+        "description": "Testre ható, nyugtató. Ideális az estére.",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "Hatás szűrő",
+    "description": "Szűrje a fajtákat a kívánt hatások szerint. Mozgassa a csúszkákat, hogy csak azokat a fajtákat lássa, amelyek legalább a választott értékkel rendelkeznek.",
+    "euphoria": "Eufória",
+    "relaxation": "Relaxáció",
+    "sleepy": "Álmos"
+  },
+  "sections": {
+    "heady": {
+      "title": "Fejben ható fajták",
+      "description": "A fejben ható Kava fajták eufóriát, mentális tisztaságot és társasági érzést keltenek. Ideálisak napi fogyasztásra, társas eseményekre és kreatív munkára. A <a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">kémiai típus</a> jellemzően 4-től kezdődik (<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>)."
+    },
+    "balanced": {
+      "title": "Kiegyensúlyozott fajták",
+      "description": "A kiegyensúlyozott Kava fajták egyensúlyt kínálnak a fej és a test között. Sokoldalúan használhatók, és alkalmasak napközben és este is. Ideális <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">szorongáscsökkentésre</a> és általános relaxációra."
+    },
+    "heavy": {
+      "title": "Nehezen ható fajták",
+      "description": "A nehezen ható Kava fajták testre hatnak, és mély <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">izomrelaxációt</a> és nyugtatást okoznak. Ideálisak az estére, <a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">alvási problémákra</a> és a fizikai regenerációra. A kémiai típus gyakran DHK (2) kiemelt helyen található."
+    }
+  },
+  "comparison": {
+    "title": "Fajták összehasonlítása",
+    "description": "Ez a táblázat gyors áttekintést nyújt az összes fontos fajtáról. Használja az <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">interaktív összehasonlító eszközünket</a> a részletes összehasonlításokhoz.",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "Epi, Vanuatu",
+      "chemotype": "421365",
+      "duration": "2-3 óra",
+      "strength": 4,
+      "description": "Legendás euforikus Kava, mint a pezsgő a Kava-k között.",
+      "recommended": [
+        "Társas események",
+        "Kreatív munka",
+        "Napi fogyasztás"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 óra",
+      "strength": 4,
+      "description": "A Vanuatu népi Kava, sokoldalú, fejben ható kezdeti hatással.",
+      "recommended": [
+        "Társas események",
+        "Esti fogyasztás",
+        "Kezdők"
+      ],
+      "badge": "Fejben ható / Kiegyensúlyozott",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "Tonga",
+      "chemotype": "Blend",
+      "duration": "3-4 óra",
+      "strength": 3,
+      "description": "A legnépszerűbb napi Kava, enyhe és kezdőbarát.",
+      "recommended": [
+        "Kezdők",
+        "Munka",
+        "Társas események"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "2-4 óra",
+      "strength": 4,
+      "description": "A királyi 'Awa, rendkívül szellemi és mentálisan tisztító.",
+      "recommended": [
+        "Meditáció",
+        "Kreatív munka",
+        "Kogníció"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "—",
+      "duration": "2-3 óra",
+      "strength": 3,
+      "description": "Ritka euforikus fajta, nagyon értékelt.",
+      "recommended": [
+        "Társas események",
+        "Hangulatjavítás"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "Ambae, Vanuatu",
+      "chemotype": "243156",
+      "duration": "3-5 óra",
+      "strength": 3,
+      "description": "A tökéletes mindenes, lágy és kiegyensúlyozott.",
+      "recommended": [
+        "Kezdők",
+        "Szorongáscsökkentés",
+        "Napi használat"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (Kiegyensúlyozott)",
+      "origin": "Pentecost, Vanuatu",
+      "chemotype": "243516",
+      "duration": "4-6 óra",
+      "strength": 4,
+      "description": "A Vanuatu népi Kava, megbízható és sokoldalú.",
+      "recommended": [
+        "Esti fogyasztás",
+        "Relaxáció",
+        "Kezdők"
+      ],
+      "badge": "Fejben ható / Kiegyensúlyozott",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423561",
+      "duration": "4-5 óra",
+      "strength": 4,
+      "description": "Erős Kava, jó egyensúllyal a fej és a test között.",
+      "recommended": [
+        "Tapasztalt felhasználók",
+        "Esti fogyasztás"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "4-5 óra",
+      "strength": 3,
+      "description": "Kiegyensúlyozott Fiji-Kava, sokoldalúan használható.",
+      "recommended": [
+        "Napi használat",
+        "Relaxáció"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "423651",
+      "duration": "5-7 óra",
+      "strength": 5,
+      "description": "Az egyik legerősebb Heavy Kava, mély nyugtatás.",
+      "recommended": [
+        "Alvási problémák",
+        "Izomrelaxáció",
+        "Este"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "Fiji",
+      "chemotype": "—",
+      "duration": "5-8 óra",
+      "strength": 5,
+      "description": "Rendkívül erős Fiji-Kava, erősen nyugtató.",
+      "recommended": [
+        "Tapasztalt felhasználók",
+        "Alvási problémák"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "Malakula, Vanuatu",
+      "chemotype": "426531",
+      "duration": "5-7 óra",
+      "strength": 4,
+      "description": "Palasa kisöccse, kicsit enyhébb, de hasonló.",
+      "recommended": [
+        "Heavy kezdők",
+        "Esti fogyasztás"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "Hawaii",
+      "chemotype": "—",
+      "duration": "4-6 óra",
+      "strength": 5,
+      "description": "Ceremoniális hawaii 'Awa, nagyon erős.",
+      "recommended": [
+        "Ceremóniák",
+        "Alvás",
+        "Tapasztaltak"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "Vanuatu",
+      "type": "Fejben ható",
+      "chemotype": "421365",
+      "bestUse": "Társas, Kreatív"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "Tonga",
+      "type": "Fejben ható",
+      "chemotype": "Blend",
+      "bestUse": "Kezdők, Nap"
+    },
+    {
+      "name": "Moi",
+      "region": "Hawaii",
+      "type": "Fejben ható",
+      "chemotype": "—",
+      "bestUse": "Meditáció, Kogníció"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "Vanuatu",
+      "type": "Kiegyensúlyozott",
+      "chemotype": "243156",
+      "bestUse": "Szorongás, Mindennapi"
+    },
+    {
+      "name": "Borogu",
+      "region": "Vanuatu",
+      "type": "Fejben ható / Kiegyensúlyozott",
+      "chemotype": "243516",
+      "bestUse": "Este, Relaxáció"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "Vanuatu",
+      "type": "Kiegyensúlyozott",
+      "chemotype": "423561",
+      "bestUse": "Tapasztaltak, Este"
+    },
+    {
+      "name": "Palasa",
+      "region": "Vanuatu",
+      "type": "Nehezen ható",
+      "chemotype": "423651",
+      "bestUse": "Alvás, Izom"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "Fiji",
+      "type": "Nehezen ható",
+      "chemotype": "—",
+      "bestUse": "Tapasztaltak, Alvás"
+    },
+    {
+      "name": "Hiwa",
+      "region": "Hawaii",
+      "type": "Nehezen ható",
+      "chemotype": "—",
+      "bestUse": "Ceremóniák, Alvás"
+    }
+  ]
+}

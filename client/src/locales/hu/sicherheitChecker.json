@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Kölcsönhatás-ellenőrző",
+    "subtitle": "Ellenőrizze a potenciális kölcsönhatásokat a gyógyszerei és a Kava között",
+    "category": "Biztonság",
+    "breadcrumbs": {
+      "home": "Főoldal",
+      "sicherheit": "Biztonság",
+      "wechselwirkungen": "Kölcsönhatások",
+      "current": "Kölcsönhatás-ellenőrző"
+    }
+  },
+  "toc": {
+    "title": "Tartalom",
+    "checker": "Kölcsönhatás-ellenőrző",
+    "anleitung": "Útmutató",
+    "kategorien": "Kockázati kategóriák",
+    "haeufige": "Gyakran ellenőrzött gyógyszerek",
+    "hinweis": "Fontos megjegyzés"
+  },
+  "ui": {
+    "disclaimerTitle": "Fontos megjegyzés",
+    "disclaimerText": "Ez az ellenőrző csak tájékoztató jellegű, és nem helyettesíti az orvosi tanácsot. Kérjük, mindig konzultáljon orvossal vagy gyógyszerésszel, ha bizonytalan, vagy ha vényköteles gyógyszereket szed.",
+    "inputTitle": "Gyógyszerek megadása",
+    "inputDescription": "Adja meg a gyógyszerei nevét (hatóanyag vagy kereskedelmi név)",
+    "placeholder": "pl. Diazepam, Ibuprofen, Sertralin...",
+    "selectedMeds": "Kiválasztott gyógyszerek:",
+    "checkButton": "Kölcsönhatások ellenőrzése",
+    "commonCategories": "Gyakori gyógyszercsoportok",
+    "overallAssessment": "Összesített értékelés",
+    "detailedAnalysis": "Részletes elemzés",
+    "category": "Kategória",
+    "mechanism": "Mechanizmus",
+    "affectedEnzymes": "Érintett CYP-enzimek",
+    "recommendation": "Ajánlás",
+    "newCheck": "Új ellenőrzés",
+    "moreAbout": "Több információ a kölcsönhatásokról",
+    "moreInfo": "További információk",
+    "liverSafety": "Májbiztonság & Hepatotoxicitás",
+    "contraindications": "Ellenjavallatok",
+    "safetyOverview": "Biztonság & Egészség áttekintés",
+    "studies": "Tudományos tanulmányok"
+  },
+  "intro": {
+    "title": "Gyógyszerellenőrzés",
+    "text": "Adja meg a gyógyszere vagy hatóanyaga nevét, hogy ellenőrizze a lehetséges kölcsönhatásokat a Kava-val."
+  },
+  "search": {
+    "placeholder": "Gyógyszer vagy hatóanyag megadása...",
+    "button": "Ellenőrzés",
+    "noResults": "Nincs ilyen nevű gyógyszer. Kérjük, ellenőrizze a helyesírást, vagy konzultáljon orvossal."
+  },
+  "result": {
+    "risk": "Kockázati szint",
+    "mechanism": "Mechanizmus",
+    "recommendation": "Ajánlás",
+    "alternatives": "Lehetséges alternatívák"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "NAGYON MAGAS KOCKÁZAT",
+      "description": "Szigorúan ellenjavallt - kombináció soha nem alkalmazható"
+    },
+    "high": {
+      "label": "MAGAS KOCKÁZAT",
+      "description": "Kombinációt kerülni kell - jelentős egészségügyi kockázatok lehetségesek"
+    },
+    "moderate": {
+      "label": "MÉRSÉKELT KOCKÁZAT",
+      "description": "Óvatosan kell eljárni - csak orvosi felügyelet mellett"
+    },
+    "low": {
+      "label": "ALACSONY KOCKÁZAT",
+      "description": "Valószínűleg biztonságos normál alkalmazás mellett"
+    },
+    "none": {
+      "label": "NINCS ISMERT KOCKÁZAT",
+      "description": "Nincs dokumentált kölcsönhatás"
+    }
+  },
+  "anleitung": {
+    "title": "Így használja az ellenőrzőt",
+    "steps": [
+      "Adja meg a gyógyszere vagy a hatóanyag nevét",
+      "Kattintson az \"Ellenőrzés\" gombra, vagy nyomja meg az Entert",
+      "Olvassa el a kockázati értékelést és az ajánlásokat",
+      "Kérdés esetén mindig konzultáljon orvossal vagy gyógyszerésszel"
+    ]
+  },
+  "kategorien": {
+    "title": "Kockázati kategóriák magyarázata",
+    "high": {
+      "title": "Magas kockázat",
+      "text": "A kombinációt minden körülmények között kerülni kell. Súlyos mellékhatások lehetségesek."
+    },
+    "moderate": {
+      "title": "Mérsékelt kockázat",
+      "text": "A kombináció csak orvosi felügyelet mellett. Dózis módosítás szükséges lehet."
+    },
+    "low": {
+      "title": "Alacsony kockázat",
+      "text": "A kombináció valószínűleg biztonságos, de figyelembe kell venni az egyéni reakciókat."
+    },
+    "unknown": {
+      "title": "Ismeretlen",
+      "text": "Nincs elegendő adat. Óvatosság ajánlott."
+    }
+  },
+  "haeufige": {
+    "title": "Gyakran ellenőrzött gyógyszerek",
+    "clickToCheck": "Kattintson egy gyógyszerre az ellenőrzéshez:"
+  },
+  "hinweis": {
+    "title": "Fontos megjegyzés",
+    "text": "Ez az ellenőrző csak általános tájékoztatásra szolgál, és nem helyettesíti az orvosi tanácsot. Az adatbázis nem teljes, és folyamatosan frissül. Kérjük, mindig konzultáljon orvossal vagy gyógyszerésszel, ha bizonytalan.",
+    "disclaimer": "Az információk tudományos irodalmon és ismert kölcsönhatási mechanizmusokon alapulnak. Az egyéni reakciók eltérhetnek."
+  },
+  "navigation": {
+    "continueTitle": "Tovább a Biztonság fejezethez",
+    "items": [
+      {
+        "title": "Áttekintés",
+        "href": "/hu/biztonsag",
+        "description": "Vissza a biztonsági áttekintéshez"
+      },
+      {
+        "title": "Kölcsönhatások",
+        "href": "/hu/biztonsag/kolcsonhatasok",
+        "description": "Részletes információk a kölcsönhatásokról"
+      },
+      {
+        "title": "Ellenjavallatok",
+        "href": "/hu/biztonsag/ellenjavallatok",
+        "description": "Mikor ne használja a Kava-t"
+      }
+    ]
+  }
+}

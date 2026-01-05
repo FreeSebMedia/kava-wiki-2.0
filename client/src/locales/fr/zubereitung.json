@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Préparation & Application",
+    "subtitle": "De la poudre à la boisson : Comment préparer le Kava correctement pour obtenir un maximum d'effet et le meilleur goût.",
+    "category": "Préparation"
+  },
+  "breadcrumbs": {
+    "home": "Accueil",
+    "current": "Préparation"
+  },
+  "toc": {
+    "title": "Contenu",
+    "items": [
+      {
+        "id": "grundlagen",
+        "title": "Principes de l'extraction",
+        "level": 1
+      },
+      {
+        "id": "traditionell",
+        "title": "Méthode traditionnelle (Pétrissage)",
+        "level": 1
+      },
+      {
+        "id": "blender",
+        "title": "Méthode au mixeur (Blender)",
+        "level": 1
+      },
+      {
+        "id": "shaker",
+        "title": "Méthode au shaker (Aluball)",
+        "level": 1
+      },
+      {
+        "id": "instant",
+        "title": "Instantané & Micronisé",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "Conseils pro pour un meilleur effet",
+        "level": 1
+      }
+    ]
+  },
+  "sections": {
+    "grundlagen": {
+      "intro": "Les Kavalactones sont <strong>non solubles dans l'eau</strong>, mais solubles dans les graisses. Elles adhèrent cependant mécaniquement aux particules d'amidon de la racine.",
+      "text": "L'objectif de chaque préparation est donc de libérer ces particules par une force mécanique (pétrissage, mixage) des fibres végétales et de les émulsifier dans l'eau. Une simple \"préparation de thé\" (verser de l'eau chaude) ne fonctionne <strong>pas</strong> efficacement avec le Kava !"
+    },
+    "traditionell": {
+      "title": "Méthode traditionnelle (Pétrissage)",
+      "intro": "C'est la meilleure méthode pour une puissance maximale et une expérience authentique.",
+      "materialsTitle": "Ce dont vous avez besoin :",
+      "materials": [
+        "Poudre de racine de Kava (Mouture moyenne)",
+        "Un sachet filtrant (sachet à lait de noix, 75-100 microns)",
+        "Un bol avec de l'eau tiède (pas bouillante !)",
+        "Optionnel : Un peu de lait ou de lait de coco (les graisses aident à l'extraction)"
+      ],
+      "instructionsTitle": "Instructions :",
+      "instructions": [
+        "Mettez la poudre dans le sachet filtrant (environ 30-40g pour 500ml d'eau).",
+        "Trempez le sachet dans l'eau et laissez-le s'imbiber brièvement.",
+        "<strong>Pétrissez et essorez :</strong> Pétrissez vigoureusement le sachet sous l'eau pendant 10-15 minutes. Essorez-le plusieurs fois. L'eau devrait devenir laiteuse-brune (\"Grog\").",
+        "Essorez le sachet une dernière fois.",
+        "Servez le Kava dans des bols (Shells). Buvez rapidement (\"Chug\"), ne sirotez pas !"
+      ]
+    },
+    "blender": {
+      "title": "Méthode au mixeur (Blender)",
+      "intro": "Plus rapide et souvent plus puissant, mais le goût peut être un peu plus amer, car plus de matières végétales sont broyées.",
+      "instructions": [
+        "Mettez de l'eau, de la poudre de Kava et une cuillère à café d'huile/graisse dans un mixeur.",
+        "Mixez à haute vitesse pendant 3-4 minutes.",
+        "Versez le liquide à travers un sachet filtrant ou un tamis fin dans un bol.",
+        "Essorez bien les résidus végétaux dans le filtre."
+      ]
+    },
+    "shaker": {
+      "title": "Méthode au shaker (Aluball)",
+      "intro": "La méthode la plus moderne et la plus rapide, idéale pour les déplacements.",
+      "text": "On utilise des bouteilles shaker spéciales avec une boule (Aluball) qui contient un tamis en métal.",
+      "instructions": [
+        "Remplissez la boule de Kava.",
+        "Remplissez la bouteille d'eau.",
+        "Ajoutez la boule et secouez vigoureusement pendant 1-2 minutes.",
+        "C'est prêt !"
+      ],
+      "note": "Remarque : Cette méthode est souvent un peu moins puissante que le pétrissage traditionnel, mais très pratique."
+    },
+    "instant": {
+      "title": "Instantané & Micronisé",
+      "intro": "Pour tous ceux qui ne veulent aucun effort.",
+      "items": [
+        {
+          "name": "Kava Instantané",
+          "description": "Jus de Kava \"vert\" déshydraté. Très puissant, très cher, se dissout immédiatement dans l'eau. La \"classe royale\"."
+        },
+        {
+          "name": "Kava Micronisé",
+          "description": "Poudre de racine extrêmement finement moulue, dont les grosses fibres ont été retirées. On le boit simplement. Peut provoquer plus de nausées chez les estomacs sensibles que le Kava filtré."
+        }
+      ]
+    },
+    "tipps": {
+      "title": "Conseils pro pour un meilleur effet",
+      "alert": {
+        "title": "La règle d'or",
+        "text": "Buvez toujours le Kava sur un <strong>estomac vide</strong> (au moins 3-4 heures après le dernier repas). Sinon, l'effet est nettement plus faible !"
+      },
+      "tips": [
+        {
+          "name": "Tolérance inversée",
+          "text": "Beaucoup de gens ressentent peu d'effet la première fois. Le corps doit d'abord \"s'habituer\" aux Kavalactones. Buvez-le pendant quelques jours consécutifs."
+        },
+        {
+          "name": "Le \"Chaser\"",
+          "text": "Le Kava a un goût terreux et amer. Gardez un morceau de fruit (ananas, orange) à portée de main pour mordre directement après avoir bu."
+        },
+        {
+          "name": "Source de graisse",
+          "text": "Après la session de Kava, mangez un petit repas riche en graisses (par exemple, pizza, curry). Cela peut déclencher une deuxième vague d'effet."
+        }
+      ]
+    }
+  }
+}
