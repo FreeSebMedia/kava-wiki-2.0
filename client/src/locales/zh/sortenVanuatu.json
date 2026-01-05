@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "瓦努阿图的品种",
+    "subtitle": "来自植物故乡的80多种Kava：从Borogu到Kelai，从Heavy到Heady。",
+    "category": "品种",
+    "breadcrumb": {
+      "home": "首页",
+      "sorten": "品种",
+      "current": "瓦努阿图"
+    }
+  },
+  "toc": {
+    "title": "内容",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "瓦努阿图 – Kava的故乡",
+        "level": 1
+      },
+      {
+        "id": "borogu",
+        "title": "Borogu",
+        "level": 1
+      },
+      {
+        "id": "melo-melo",
+        "title": "Melo Melo",
+        "level": 1
+      },
+      {
+        "id": "kelai",
+        "title": "Kelai",
+        "level": 1
+      },
+      {
+        "id": "palasa",
+        "title": "Palasa",
+        "level": 1
+      },
+      {
+        "id": "palarasul",
+        "title": "Palarasul",
+        "level": 1
+      },
+      {
+        "id": "bir-kar",
+        "title": "Bir Kar",
+        "level": 1
+      },
+      {
+        "id": "weitere",
+        "title": "其他品种",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "来源",
+    "chemotype": "化学型",
+    "duration": "效果持续时间",
+    "hours": "小时",
+    "effectProfile": "效果特征",
+    "recommendedFor": "推荐用于",
+    "tip": "提示",
+    "note": "注意",
+    "variety": "品种",
+    "type": "类型",
+    "characteristic": "特点",
+    "popular": "受欢迎",
+    "legendary": "传奇"
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "<strong>瓦努阿图</strong>被认为是Kava的原产地，拥有80多种记录在案的品种，是全球种类最多的地方。许多这些品种是特定岛屿的独特品种，并在数百年间由当地社区培育。",
+      "text": "瓦努阿图的多样性可以归因于各个岛屿的孤立位置和长期的无性繁殖传统。由于Kava不产生种子，每个岛屿都发展出适应当地土壤、气候和文化偏好的独特栽培品种。如今，瓦努阿图出口全球消费的绝大部分Kava，并建立了严格的质量标准，禁止出口Tudei品种。",
+      "localNames": "<strong>地方名称：</strong>在瓦努阿图，Kava根据岛屿和语言的不同而有不同的名称：<em>Kava</em>、<em>Malok</em>、<em>Malogu</em>或<em>Nakamal</em>（后者也指传统的Kava酒吧）。"
+    },
+    "borogu": {
+      "name": "Borogu",
+      "badge": "Heady / Balanced",
+      "origin": "五旬节岛，瓦努阿图",
+      "chemotype": "243516",
+      "duration": "4-6小时",
+      "description1": "<strong>Borogu</strong>（也称为\"Gorgor\"）是瓦努阿图的“人民Kava”，是全球最广泛使用的品种之一。它最初来自五旬节岛，是维拉港许多Nakamals（传统Kava酒吧）的标准。",
+      "description2": "化学型243516显示出一种平衡的混合，以DHK为首，这种成分负责身体放松的效果。第二位的Kavain则提供了心理清晰。",
+      "effects": [
+        "<strong>身体放松：</strong>显著的肌肉放松，适合长时间工作后",
+        "<strong>心理平静：</strong>使心灵平静而不迷糊",
+        "<strong>促进睡眠：</strong>非常适合晚上，有助于获得良好的睡眠",
+        "<strong>可靠：</strong>效果一致，批次变化小"
+      ],
+      "recommendedFor": "初学者，晚间消费，<a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">肌肉放松</a>，<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">促进睡眠</a>"
+    },
+    "meloMelo": {
+      "name": "Melo Melo",
+      "badge": "Balanced",
+      "origin": "安巴岛，瓦努阿图",
+      "chemotype": "243156",
+      "duration": "3-5小时",
+      "description1": "<strong>Melo Melo</strong>因其“温和”的效果而得名。这个来自安巴岛的品种以其异常平衡的效果而闻名，既不过于镇静也不太刺激。",
+      "description2": "化学型243156显示出所有主要Kavalactone的和谐比例。这使得Melo Melo成为最通用的品种之一，既可以在白天享用，也可以在晚上享用。",
+      "effects": [
+        "<strong>平衡：</strong>头部和身体效果之间的完美平衡",
+        "<strong>抗焦虑：</strong>对<a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">焦虑状态</a>和压力非常有效",
+        "<strong>社交：</strong>促进社交而不感到疲倦",
+        "<strong>温和的味道：</strong>比许多其他品种更温和"
+      ],
+      "recommendedFor": "初学者，<a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">抗焦虑</a>，社交场合，全能型",
+      "tip": "Melo Melo是Kava初学者的最佳选择之一。温和、平衡的效果让人对Kava的魅力有一个良好的印象，而不会感到压倒。"
+    },
+    "kelai": {
+      "name": "Kelai",
+      "badge": "Heady",
+      "origin": "埃比岛，瓦努阿图",
+      "chemotype": "421365",
+      "duration": "2-3小时",
+      "description1": "<strong>Kelai</strong>是来自埃比岛的传奇品种，被认为是最“头脑清晰”的Kava之一。在Kava社区中，它常常与香槟相提并论——优雅、愉悦，并带有一定的精致感。",
+      "description2": "化学型421365以<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavain</a>（4）为起点，这种Kavalactone负责心理清晰和愉悦。相对较短的效果持续时间为2-3小时，使Kelai非常适合白天或早晚使用。",
+      "effects": [
+        "<strong>愉悦：</strong>显著的<a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">情绪提升</a>效果",
+        "<strong>心理刺激：</strong>促进创造力和健谈",
+        "<strong>短暂的效果：</strong>适合控制体验",
+        "<strong>几乎不镇静：</strong>不会让人感到疲倦，适合白天"
+      ],
+      "recommendedFor": "经验丰富的用户，<a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">社交场合</a>，创意工作，白天消费",
+      "note": "Kelai通常比其他品种更昂贵且更难找到。埃比岛的产量有限，可能导致短缺。"
+    },
+    "palasa": {
+      "name": "Palasa",
+      "badge": "Heavy",
+      "origin": "马拉库拉，瓦努阿图",
+      "chemotype": "423651",
+      "duration": "5-7小时",
+      "description": "<strong>Palasa</strong>来自马拉库拉，是瓦努阿图最强效的“Heavy” Kava之一。它以其深沉、身体感强的效果而闻名，传统上在晚上饮用。",
+      "effects": [
+        "<strong>强烈镇静：</strong>深度身体放松",
+        "<strong>肌肉放松：</strong>非常适合<a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">肌肉紧张</a>",
+        "<strong>促进睡眠：</strong>是<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">良好睡眠</a>的最佳Kava之一",
+        "<strong>持久：</strong>效果持续5-7小时"
+      ],
+      "recommendedFor": "晚间消费，<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">睡眠问题</a>，<a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">肌肉放松</a>"
+    },
+    "palarasul": {
+      "name": "Palarasul",
+      "badge": "Heavy",
+      "origin": "马拉库拉，瓦努阿图",
+      "chemotype": "426531",
+      "duration": "5-7小时",
+      "description": "<strong>Palarasul</strong>与Palasa密切相关，同样来自马拉库拉。这个名字的意思是“小Palasa”，描述了一种稍微温和但效果相似的变种。",
+      "effects": [
+        "<strong>身体感强：</strong>显著的身体放松",
+        "<strong>稍微温和：</strong>比Palasa不那么压倒",
+        "<strong>良好的入门选择：</strong>适合Heavy Kava新手"
+      ]
+    },
+    "birKar": {
+      "name": "Bir Kar",
+      "badge": "Balanced",
+      "origin": "马拉库拉，瓦努阿图",
+      "chemotype": "423561",
+      "duration": "4-5小时",
+      "description": "<strong>Bir Kar</strong>（也拼作\"Birkar\"）是来自马拉库拉的平衡品种，具有有趣的效果特征。这个名字在当地语言中意为“强Kava”。",
+      "effects": [
+        "<strong>平衡：</strong>头部和身体之间的良好平衡",
+        "<strong>强效：</strong>尽管被归类为“Balanced”，但仍然相当强",
+        "<strong>多功能：</strong>适合白天和晚上"
+      ]
+    },
+    "weitere": {
+      "title": "瓦努阿图的其他品种",
+      "intro": "除了上述主要品种，瓦努阿图还有数十种其他高贵栽培品种。以下是一些选择：",
+      "tableHeaders": {
+        "variety": "品种",
+        "origin": "来源",
+        "type": "类型",
+        "characteristic": "特点"
+      },
+      "tableRows": [
+        {
+          "variety": "安巴",
+          "origin": "安巴岛",
+          "type": "Heavy",
+          "characteristic": "非常镇静，适合睡眠"
+        },
+        {
+          "variety": "皮亚",
+          "origin": "五旬节岛",
+          "type": "Balanced",
+          "characteristic": "温和，适合初学者"
+        },
+        {
+          "variety": "西莱斯",
+          "origin": "五旬节岛",
+          "type": "Heady",
+          "characteristic": "愉悦，稀有"
+        },
+        {
+          "variety": "梅尔梅尔",
+          "origin": "多样",
+          "type": "Balanced",
+          "characteristic": "类似于Melo Melo"
+        },
+        {
+          "variety": "波伊沃塔",
+          "origin": "坦纳岛",
+          "type": "Heavy",
+          "characteristic": "传统，仪式性"
+        },
+        {
+          "variety": "阿霍伊亚",
+          "origin": "多样",
+          "type": "Balanced",
+          "characteristic": "温和，愉快"
+        }
+      ],
+      "profilesLink": "所有品种档案的详细信息"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "继续阅读品种章节：",
+    "next": {
+      "title": "来自斐济、汤加和夏威夷的品种",
+      "description": "地区特色：Loa Waka、Pouni Ono、'Awa Moi及其独特特性",
+      "href": "/de/sorten/pazifik"
+    }
+  }
+}

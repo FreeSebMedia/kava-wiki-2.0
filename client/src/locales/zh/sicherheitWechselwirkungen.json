@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "title": "药物相互作用",
+    "subtitle": "Kavalactone抑制重要的肝酶：您需要了解的CYP450相互作用和安全组合。",
+    "category": "安全性",
+    "breadcrumbs": {
+      "home": "首页",
+      "sicherheit": "安全性",
+      "current": "相互作用"
+    }
+  },
+  "toc": {
+    "title": "内容",
+    "zusammenfassung": "摘要",
+    "cyp450": "CYP450系统",
+    "welcheEnzyme": "受影响的酶",
+    "klinischeBedeutung": "临床意义",
+    "hochrisiko": "高风险组合",
+    "alkohol": "酒精",
+    "benzodiazepine": "苯二氮䓬类药物和安眠药",
+    "antipsychotika": "抗精神病药物",
+    "antikoagulantien": "抗凝血药物",
+    "moderatesRisiko": "中等风险",
+    "antidepressiva": "抗抑郁药",
+    "antikonvulsiva": "抗癫痫药",
+    "parkinson": "帕金森药物",
+    "hepatotoxisch": "肝毒性药物",
+    "tabelle": "相互作用表",
+    "empfehlungen": "实用建议",
+    "quellen": "来源"
+  },
+  "navigation": {
+    "continueTitle": "继续阅读安全性章节",
+    "items": [
+      {
+        "title": "概述",
+        "href": "/de/sicherheit",
+        "description": "返回安全性概述"
+      },
+      {
+        "title": "肝脏安全性",
+        "href": "/de/sicherheit/leber",
+        "description": "肝毒性与2002年禁令"
+      },
+      {
+        "title": "禁忌症",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "何时应避免使用Kava"
+      },
+      {
+        "title": "相互作用检查器",
+        "href": "/de/sicherheit/checker",
+        "description": "检查您的药物"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "重要警告",
+    "intro": "Kava具有<strong>高药物相互作用潜力</strong>，通过抑制细胞色素P450酶。绝不要将Kava与以下物质结合使用：",
+    "items": [
+      {
+        "name": "酒精",
+        "text": "增强的镇静作用和肝毒性"
+      },
+      {
+        "name": "苯二氮䓬类药物",
+        "text": "呼吸抑制的危险"
+      },
+      {
+        "name": "抗精神病药物",
+        "text": "增强的镇静作用，运动障碍"
+      },
+      {
+        "name": "抗凝血药物",
+        "text": "出血风险"
+      }
+    ]
+  },
+  "cyp450": {
+    "title": "细胞色素P450系统",
+    "intro": "细胞色素P450系统（CYP450）是一组在肝脏中负责大多数药物代谢的酶。如果某种物质抑制这些酶，其他物质的代谢速度会减慢——其作用和副作用可能因此增强。",
+    "importance": {
+      "title": "这为什么重要？",
+      "text": "约有<strong>70-80%的药物</strong>通过CYP450酶代谢。如果Kava抑制这些酶，其他药物在血液中的浓度可能会升高——有时达到危险水平。这尤其适用于具有<strong>窄治疗窗口</strong>的药物，其中小剂量变化可能产生重大影响。"
+    }
+  },
+  "enzyme": {
+    "title": "哪些酶被抑制？",
+    "intro": "Mathews等人（2002年）和其他研究人员的研究表明，Kavalactone抑制多种重要的CYP450酶：",
+    "headers": [
+      "酶",
+      "抑制强度",
+      "重要底物（示例）"
+    ],
+    "rows": [
+      {
+        "enzyme": "CYP1A2",
+        "strength": "强",
+        "substrates": "咖啡因，茶碱，氯氮平，奥氮平"
+      },
+      {
+        "enzyme": "CYP2C9",
+        "strength": "强",
+        "substrates": "华法林，苯妥英，非甾体抗炎药（布洛芬）"
+      },
+      {
+        "enzyme": "CYP2C19",
+        "strength": "中等",
+        "substrates": "奥美拉唑，地西泮，氯吡格雷"
+      },
+      {
+        "enzyme": "CYP2D6",
+        "strength": "中等",
+        "substrates": "可待因，曲马多，许多抗抑郁药"
+      },
+      {
+        "enzyme": "CYP3A4",
+        "strength": "强",
+        "substrates": "苯二氮䓬类药物，他汀类药物，许多抗生素"
+      }
+    ]
+  },
+  "klinischeBedeutung": {
+    "title": "临床意义",
+    "text": "Russmann等人（2005年）的研究表明，传统的水溶性Kava提取物也抑制人类的CYP1A2。抑制是剂量依赖的，并且在临床上具有相关性。这意味着即使是传统制备的Kava也可能导致相互作用。",
+    "positive": {
+      "title": "积极的副作用？",
+      "text": "CYP1A2的抑制理论上可能对通过该酶激活的某些环境致癌物提供保护作用。这可能解释了为什么太平洋人群在高Kava消费的情况下仍然具有较低的癌症发生率。"
+    }
+  },
+  "hochrisiko": {
+    "title": "高风险组合",
+    "intro": "以下组合应<strong>在任何情况下避免</strong>。它们可能导致严重的、潜在的危及生命的副作用。"
+  },
+  "alkohol": {
+    "title": "酒精",
+    "risk": "非常高",
+    "intro": "Kava与酒精的结合特别危险，原因有几个：",
+    "points": [
+      {
+        "number": "1.",
+        "label": "协同镇静",
+        "text": "两种物质对中枢神经系统具有镇静作用。联合效果强于单独作用的总和。"
+      },
+      {
+        "number": "2.",
+        "label": "加重肝毒性",
+        "text": "两种物质在肝脏中代谢，可能会对其造成负担。结合使用显著增加肝损伤的风险。"
+      },
+      {
+        "number": "3.",
+        "label": "CYP相互作用",
+        "text": "酒精也影响CYP酶，可能导致不可预测的相互作用。"
+      }
+    ],
+    "recommendation": "建议：在饮用酒精和Kava之间至少间隔24小时。"
+  },
+  "benzodiazepine": {
+    "title": "苯二氮䓬类药物和安眠药",
+    "risk": "非常高",
+    "intro": "苯二氮䓬类药物（地西泮，劳拉西泮，阿普唑仑等）和Z类物质（唑吡坦，佐匹克隆）绝不应与Kava结合使用：",
+    "points": [
+      {
+        "label": "增强的镇静作用",
+        "text": "两者均作用于GABA受体，互相增强"
+      },
+      {
+        "label": "呼吸抑制",
+        "text": "结合使用可能会危险地减慢呼吸"
+      },
+      {
+        "label": "CYP3A4抑制",
+        "text": "Kava减缓苯二氮䓬类药物的代谢，延长其作用"
+      }
+    ],
+    "caseReportLabel": "病例报告：",
+    "caseReport": "Almeida & Grimsley（1996年）报告了一名54岁男性，在将Kava与阿普唑仑结合使用后，陷入半昏迷状态。"
+  },
+  "antipsychotika": {
+    "title": "抗精神病药物",
+    "risk": "高",
+    "intro": "抗精神病药物如氟哌啶醇，利培酮，奥氮平和氯氮平：",
+    "points": [
+      {
+        "label": "增强的镇静作用",
+        "text": "附加的中枢神经系统抑制作用"
+      },
+      {
+        "label": "锥体外症状",
+        "text": "运动障碍的风险增加"
+      },
+      {
+        "label": "CYP1A2/CYP2D6抑制",
+        "text": "代谢减慢，血药浓度升高"
+      }
+    ]
+  },
+  "antikoagulantien": {
+    "title": "抗凝血药物（血液稀释剂）",
+    "risk": "高",
+    "intro": "华法林和其他维生素K拮抗剂：",
+    "points": [
+      {
+        "label": "CYP2C9抑制",
+        "text": "Kava抑制代谢华法林的酶"
+      },
+      {
+        "label": "INR升高",
+        "text": "出血倾向增强"
+      },
+      {
+        "label": "出血风险",
+        "text": "可能导致危险的内出血"
+      }
+    ],
+    "recommendation": "使用抗凝血药物时，Kava是禁忌的。"
+  },
+  "moderatesRisiko": {
+    "title": "中等风险组合",
+    "intro": "以下组合需要谨慎，且仅在医生咨询后进行。可能需要调整剂量。"
+  },
+  "antidepressiva": {
+    "title": "抗抑郁药",
+    "risk": "中等",
+    "ssri": {
+      "title": "SSRIs（氟西汀，舍曲林，帕罗西汀等）：",
+      "items": [
+        "CYP2D6抑制可能减缓代谢",
+        "理论上存在轻微的血清素综合症风险",
+        "可能增强镇静作用"
+      ]
+    },
+    "snri": {
+      "title": "SNRIs（文拉法辛，度洛西汀）：",
+      "items": [
+        "与SSRIs类似的相互作用",
+        "CYP2D6抑制对文拉法辛相关"
+      ]
+    },
+    "mao": {
+      "title": "单胺氧化酶抑制剂：",
+      "items": [
+        "Kava弱抑制MAO-B",
+        "理论风险，但临床文献较少",
+        "对不可逆MAO抑制剂需谨慎"
+      ]
+    }
+  },
+  "antikonvulsiva": {
+    "title": "抗癫痫药",
+    "risk": "中等",
+    "intro": "苯妥英，卡马西平，丙戊酸和其他抗癫痫药：",
+    "points": [
+      {
+        "label": "CYP相互作用",
+        "text": "可能改变血药浓度"
+      },
+      {
+        "label": "增强的镇静作用",
+        "text": "附加的中枢神经系统作用"
+      },
+      {
+        "label": "癫痫控制",
+        "text": "可能受到影响"
+      }
+    ],
+    "note": "在癫痫患者中，Kava仅应在医生监督下使用。"
+  },
+  "parkinson": {
+    "title": "帕金森药物",
+    "risk": "中等至高",
+    "intro": "左旋多巴和多巴胺激动剂：",
+    "points": [
+      {
+        "label": "多巴胺拮抗作用",
+        "text": "Kava可能减弱左旋多巴的效果"
+      },
+      {
+        "label": "病例报告",
+        "text": "在使用Kava时记录到帕金森症状恶化"
+      }
+    ],
+    "recommendation": "在帕金森病患者中，Kava是禁忌的。"
+  },
+  "hepatotoxisch": {
+    "title": "肝毒性药物",
+    "risk": "中等",
+    "intro": "已知具有肝毒性潜力的药物：",
+    "items": [
+      {
+        "name": "对乙酰氨基酚",
+        "text": "在较高剂量时特别有问题"
+      },
+      {
+        "name": "他汀类药物",
+        "text": "阿托伐他汀，辛伐他汀等（CYP3A4底物）"
+      },
+      {
+        "name": "甲氨蝶呤",
+        "text": "具有肝毒性的免疫抑制剂"
+      },
+      {
+        "name": "异烟肼",
+        "text": "抗结核药物"
+      }
+    ],
+    "note": "与肝毒性药物的结合增加了肝损伤的风险。"
+  },
+  "tabelle": {
+    "title": "相互作用概览表",
+    "headers": [
+      "物质类别",
+      "示例",
+      "风险",
+      "机制"
+    ],
+    "rows": [
+      {
+        "class": "酒精",
+        "examples": "乙醇",
+        "risk": "非常高",
+        "mechanism": "协同镇静，肝毒性"
+      },
+      {
+        "class": "苯二氮䓬类药物",
+        "examples": "地西泮，劳拉西泮，阿普唑仑",
+        "risk": "非常高",
+        "mechanism": "GABA增强，CYP3A4抑制"
+      },
+      {
+        "class": "抗精神病药物",
+        "examples": "氟哌啶醇，奥氮平，氯氮平",
+        "risk": "高",
+        "mechanism": "CYP1A2/2D6抑制，镇静"
+      },
+      {
+        "class": "抗凝血药物",
+        "examples": "华法林，苯基丙酮",
+        "risk": "高",
+        "mechanism": "CYP2C9抑制，出血风险"
+      },
+      {
+        "class": "SSRIs",
+        "examples": "氟西汀，舍曲林，帕罗西汀",
+        "risk": "中等",
+        "mechanism": "CYP2D6抑制"
+      },
+      {
+        "class": "抗癫痫药",
+        "examples": "苯妥英，卡马西平",
+        "risk": "中等",
+        "mechanism": "CYP相互作用，镇静"
+      },
+      {
+        "class": "帕金森药物",
+        "examples": "左旋多巴，多巴胺激动剂",
+        "risk": "中等",
+        "mechanism": "多巴胺拮抗作用"
+      },
+      {
+        "class": "他汀类药物",
+        "examples": "阿托伐他汀，辛伐他汀",
+        "risk": "中等",
+        "mechanism": "CYP3A4抑制，肝毒性"
+      },
+      {
+        "class": "阿片类药物",
+        "examples": "可待因，曲马多，吗啡",
+        "risk": "中等",
+        "mechanism": "CYP2D6抑制，镇静"
+      },
+      {
+        "class": "咖啡因",
+        "examples": "咖啡，能量饮料",
+        "risk": "低",
+        "mechanism": "CYP1A2抑制（延长作用）"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "实用建议",
+    "checklistTitle": "Kava消费前检查清单",
+    "items": [
+      {
+        "number": "1.",
+        "label": "检查药物清单",
+        "text": "检查所有当前药物的相互作用"
+      },
+      {
+        "number": "2.",
+        "label": "咨询医生",
+        "text": "在定期服用药物的情况下，Kava消费前咨询医生"
+      },
+      {
+        "number": "3.",
+        "label": "避免饮酒",
+        "text": "在Kava消费前后至少24小时内不饮酒"
+      },
+      {
+        "number": "4.",
+        "label": "低剂量使用",
+        "text": "在同时服用药物时从较低的Kava剂量开始"
+      },
+      {
+        "number": "5.",
+        "label": "观察症状",
+        "text": "注意异常疲劳，头晕或其他症状"
+      }
+    ],
+    "professionalNote": {
+      "title": "医生和药剂师的注意事项",
+      "text": "在使用Kava的患者中，应检查药物是否为CYP450底物。对于具有窄治疗窗口的药物应特别小心。可能需要调整剂量。"
+    }
+  },
+  "quellen": {
+    "title": "来源",
+    "items": [
+      {
+        "author": "Mathews J.M. et al. (2002):",
+        "title": "Kava提取物和Kavalactones对人类细胞色素P450活性的抑制。",
+        "source": "药物代谢与分配。"
+      },
+      {
+        "author": "Anke J., Ramzan I. (2004):",
+        "title": "Kava的药代动力学和药效学药物相互作用。",
+        "source": "民族药理学杂志。"
+      },
+      {
+        "author": "Russmann S. et al. (2005):",
+        "title": "传统水溶性Kava提取物抑制人类的细胞色素P450 1A2。",
+        "source": "临床药理学与治疗学。"
+      },
+      {
+        "author": "Izzo A.A. (2005):",
+        "title": "Kava和圣约翰草与药物的相互作用潜力。",
+        "source": "民族药理学杂志。"
+      },
+      {
+        "author": "Unger M. et al. (2002):",
+        "title": "Piper methysticum的提取物和Kavalactones对细胞色素P450 3A4的抑制。",
+        "source": "植物医学。"
+      }
+    ],
+    "moreStudies": "您可以在我们的",
+    "studiesLink": "研究页面"
+  }
+}

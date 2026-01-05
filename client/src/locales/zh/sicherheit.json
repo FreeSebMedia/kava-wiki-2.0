@@ -1,0 +1,226 @@
+{
+  "page": {
+    "title": "安全与健康",
+    "subtitle": "事实而非神话：对肝毒性、副作用和安全消费的科学视角。",
+    "category": "安全"
+  },
+  "toc": {
+    "title": "内容",
+    "items": [
+      {
+        "id": "konsens",
+        "title": "科学共识",
+        "level": 1
+      },
+      {
+        "id": "kapitel",
+        "title": "章节概览",
+        "level": 1
+      },
+      {
+        "id": "leber",
+        "title": "肝脏安全",
+        "level": 2
+      },
+      {
+        "id": "wechselwirkungen",
+        "title": "相互作用",
+        "level": 2
+      },
+      {
+        "id": "kontraindikationen",
+        "title": "禁忌症",
+        "level": 2
+      },
+      {
+        "id": "dosierung",
+        "title": "剂量建议",
+        "level": 1
+      },
+      {
+        "id": "nebenwirkungen",
+        "title": "可能的副作用",
+        "level": 1
+      },
+      {
+        "id": "checkliste",
+        "title": "安全检查清单",
+        "level": 1
+      }
+    ]
+  },
+  "konsens": {
+    "title": "当前科学共识",
+    "intro": "根据<strong>WHO</strong>、<strong>EMA</strong>和独立研究人员的全面分析：",
+    "points": [
+      "传统制备的来自贵族品种的Kava在适当使用时是<strong>安全</strong>的",
+      "严重肝损伤是<strong>极其罕见</strong>的（估计发生率：1:60,000至1:1,000,000）",
+      "2002年的欧盟禁令被德国法院评估为<strong>不成比例</strong>",
+      "风险主要源于<strong>质量缺陷</strong>、<strong>错误植物部分</strong>或<strong>混合消费</strong>"
+    ]
+  },
+  "kapitel": {
+    "title": "章节概览：安全细节",
+    "intro": "本章提供了关于Kava所有安全相关方面的全面、科学的分析。点击子页面以获取详细信息：",
+    "subpages": [
+      {
+        "icon": "activity",
+        "title": "肝脏安全与肝毒性",
+        "href": "/de/sicherheit/leber",
+        "description": "关于2002年禁令的科学真相，WHO和EMA的评估，风险因素和实用建议。",
+        "highlights": [
+          "WHO评估2007",
+          "EMA报告2017",
+          "法院判决",
+          "风险因素"
+        ]
+      },
+      {
+        "icon": "pill",
+        "title": "与药物的相互作用",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "Kavalactone抑制CYP450酶：高风险组合和中等相互作用的完整概述。",
+        "highlights": [
+          "CYP450系统",
+          "高风险组合",
+          "相互作用表",
+          "实用提示"
+        ]
+      },
+      {
+        "icon": "ban",
+        "title": "禁忌症",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "何时不应使用Kava：安全使用的绝对和相对禁忌。",
+        "highlights": [
+          "肝病",
+          "怀孕",
+          "帕金森病",
+          "决策帮助"
+        ]
+      }
+    ]
+  },
+  "dosierung": {
+    "title": "剂量建议",
+    "intro": "最佳剂量在很大程度上取决于个体耐受性（\"反向耐受性\"）和Kava品种。始终从较低剂量开始。",
+    "boxTitle": "Kavalactone的参考值",
+    "medical": {
+      "title": "医学（焦虑）",
+      "value": "60–240 mg",
+      "unit": "每日Kavalactone"
+    },
+    "traditional": {
+      "title": "传统/娱乐",
+      "value": "250–500 mg",
+      "unit": "每次Kavalactone"
+    },
+    "tableTitle": "用根粉（中磨）制备",
+    "table": {
+      "headers": {
+        "level": "经验水平",
+        "amount": "数量",
+        "water": "水"
+      },
+      "rows": [
+        {
+          "level": "初学者",
+          "amount": "2-3汤匙（约20-30克）",
+          "water": "300-400毫升"
+        },
+        {
+          "level": "进阶",
+          "amount": "4-6汤匙（约40-60克）",
+          "water": "500-600毫升"
+        }
+      ]
+    }
+  },
+  "nebenwirkungen": {
+    "title": "可能的副作用",
+    "intro": "尽管Kava在适当使用时是安全的，但在过量消费时可能会出现副作用。",
+    "frequent": {
+      "title": "常见（依赖于剂量）",
+      "items": [
+        {
+          "label": "疲劳：",
+          "value": "特别是在\"重型\"品种中"
+        },
+        {
+          "label": "恶心：",
+          "value": "在空腹时大量剂量"
+        },
+        {
+          "label": "脱水：",
+          "value": "Kava具有利尿作用"
+        }
+      ]
+    },
+    "chronic": {
+      "title": "在慢性消费中",
+      "items": [
+        {
+          "label": "Kava皮肤病：",
+          "value": "干燥、鳞状皮肤（可逆）"
+        },
+        {
+          "label": "GGT升高：",
+          "value": "肝酶轻微升高（可逆）"
+        },
+        {
+          "label": "体重下降：",
+          "value": "在非常高的消费中"
+        }
+      ]
+    }
+  },
+  "checkliste": {
+    "title": "安全检查清单",
+    "boxTitle": "安全消费Kava",
+    "items": [
+      "<strong>仅使用来自可信来源的贵族Kava</strong>",
+      "<strong>仅使用根/根茎</strong> – 不要使用叶子或茎",
+      "<strong>优先选择传统水制备</strong>",
+      "<strong>不喝酒精</strong> – 至少间隔24小时"
+    ],
+    "linkItems": [
+      {
+        "text": "<strong>药物检查</strong> – ",
+        "linkText": "检查相互作用",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "text": "<strong>注意禁忌症</strong> – ",
+        "linkText": "查看检查清单",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ],
+    "warning": {
+      "title": "注意警告信号",
+      "text": "如皮肤/眼睛发黄、尿液变深、粪便变浅或异常疲劳，请立即停止消费并咨询医生。"
+    }
+  },
+  "quickLinks": {
+    "title": "详细信息",
+    "links": [
+      {
+        "icon": "activity",
+        "title": "肝脏安全",
+        "description": "肝毒性与2002年禁令",
+        "href": "/de/sicherheit/leber"
+      },
+      {
+        "icon": "pill",
+        "title": "相互作用",
+        "description": "药物与CYP450相互作用",
+        "href": "/de/sicherheit/wechselwirkungen"
+      },
+      {
+        "icon": "ban",
+        "title": "禁忌症",
+        "description": "何时应避免Kava",
+        "href": "/de/sicherheit/kontraindikationen"
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "贵族卡瓦与Tudei卡瓦",
+    "subtitle": "每个卡瓦消费者最重要的区别：为什么贵族卡瓦是安全的，而Tudei应避免。",
+    "category": "品种",
+    "breadcrumb": {
+      "home": "主页",
+      "sorten": "品种",
+      "current": "贵族与Tudei"
+    }
+  },
+  "toc": {
+    "title": "内容",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "介绍",
+        "level": 1
+      },
+      {
+        "id": "geschichte",
+        "title": "分类历史",
+        "level": 1
+      },
+      {
+        "id": "chemische-unterschiede",
+        "title": "化学差异",
+        "level": 1
+      },
+      {
+        "id": "wirkungsunterschiede",
+        "title": "效果差异",
+        "level": 1
+      },
+      {
+        "id": "erkennung",
+        "title": "识别Tudei",
+        "level": 1
+      },
+      {
+        "id": "sicherheit",
+        "title": "安全性方面",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "贵族卡瓦与Tudei卡瓦之间的区别是卡瓦世界中最基本的分类。它决定了卡瓦体验是愉快和安全的，还是令人不快和潜在有害的。",
+      "text": "术语“Tudei”（也拼写为“Two-Day”）源自瓦努阿图的比斯拉马语，这是一种克里奥尔语言，字面意思是“两个天”——指的是这些品种的极长效应持续时间。而贵族卡瓦则是经过几个世纪的太平洋文化选择用于日常使用，提供愉快、可控的效果。"
+    },
+    "geschichte": {
+      "title": "分类历史",
+      "p1": "贵族卡瓦与Tudei卡瓦之间的正式区别是由<strong>瓦努阿图政府</strong>引入的，以规范出口卡瓦的质量。在2002年，瓦努阿图颁布了<strong>卡瓦法</strong>，禁止出口Tudei品种。这项立法是对欧洲报告的肝损伤的反应，这些损伤与低质量的卡瓦产品有关。",
+      "p2": "来自<strong>文森特·勒博特博士</strong>的研究，这位领先的卡瓦科学家，对于这一分类的发展至关重要。勒博特开发了卡瓦品种的化学分析方法，并识别了<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学类型</a>，以区分贵族与Tudei。",
+      "quote": "贵族与Tudei的分类并不是基于主观偏好，而是基于可测量的化学差异，这些差异与安全性和耐受性直接相关。",
+      "quoteAuthor": "—— 文森特·勒博特博士，卡瓦研究员"
+    },
+    "chemischeUnterschiede": {
+      "title": "化学差异",
+      "intro": "贵族卡瓦与Tudei卡瓦之间的关键区别在于<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学类型</a>——六种主要<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">卡瓦内酯</a>的相对浓度。化学类型以六位数字表示，第一位数字代表主导的卡瓦内酯。",
+      "tableHeaders": {
+        "merkmal": "特征",
+        "noble": "贵族卡瓦",
+        "tudei": "Tudei卡瓦"
+      },
+      "tableRows": [
+        {
+          "merkmal": "化学类型开始于",
+          "noble": "2（DHK）或4（卡瓦因）",
+          "tudei": "5（DHM）或6（美克斯丁）"
+        },
+        {
+          "merkmal": "主导卡瓦内酯",
+          "noble": "卡瓦因或二氢卡瓦因",
+          "tudei": "二氢美克斯丁"
+        },
+        {
+          "merkmal": "黄酮卡瓦因B含量",
+          "noble": "低（<0.5%）",
+          "tudei": "高（高达5%）"
+        },
+        {
+          "merkmal": "DHM:卡瓦因比例",
+          "noble": "<1",
+          "tudei": ">1"
+        }
+      ],
+      "nobleCard": {
+        "title": "贵族化学类型（示例）",
+        "items": [
+          "<strong>246531</strong> – Borogu（强烈）",
+          "<strong>423615</strong> – Melo Melo（平衡）",
+          "<strong>263451</strong> – Kelai（强烈）",
+          "<strong>423651</strong> – Palasa（重）",
+          "<strong>426531</strong> – Palarasul（重）"
+        ],
+        "note": "所有都以2或4开头——绝不会以5或6开头。"
+      },
+      "tudeiCard": {
+        "title": "Tudei化学类型（示例）",
+        "items": [
+          "<strong>526341</strong> – Isa（Tudei）",
+          "<strong>562431</strong> – Palimanu（Tudei）",
+          "<strong>526143</strong> – 野生卡瓦"
+        ],
+        "note": "以5（DHM）或6（美克斯丁）开头——这是一个警告信号。"
+      },
+      "calculatorLink": "化学类型计算器：分析每种化学类型"
+    },
+    "wirkungsunterschiede": {
+      "title": "效果差异",
+      "intro": "化学差异导致了截然不同的效果特征：",
+      "tableHeaders": {
+        "aspekt": "方面",
+        "noble": "贵族卡瓦",
+        "tudei": "Tudei卡瓦"
+      },
+      "tableRows": [
+        {
+          "aspekt": "效果开始",
+          "noble": "快速（10-20分钟）",
+          "tudei": "延迟（30-90分钟）"
+        },
+        {
+          "aspekt": "效果持续时间",
+          "noble": "适中（3-6小时）",
+          "tudei": "极长（6-48小时）"
+        },
+        {
+          "aspekt": "效果特征",
+          "noble": "清晰、放松、社交",
+          "tudei": "迟钝、迷糊、镇静"
+        },
+        {
+          "aspekt": "第二天",
+          "noble": "没有宿醉",
+          "tudei": "常常感到无精打采、恶心"
+        },
+        {
+          "aspekt": "副作用",
+          "noble": "少见，轻微",
+          "tudei": "常见：恶心、头痛"
+        },
+        {
+          "aspekt": "每日使用",
+          "noble": "安全",
+          "tudei": "不推荐"
+        }
+      ],
+      "nobleExperience": {
+        "title": "贵族卡瓦体验",
+        "text": "典型的贵族卡瓦体验始于嘴唇上的轻微刺痛，随后是一阵放松的感觉。精神保持清晰，而身体则放松。经过3-4小时，效果温和消退，感到精神焕发——准备好享受一个舒适的睡眠或进一步的活动。"
+      },
+      "tudeiExperience": {
+        "title": "Tudei卡瓦体验",
+        "text": "Tudei卡瓦的效果是延迟和渐进的。效果通常是压倒性的镇静，伴有“迷糊”的感觉。第二天，许多消费者仍然感到受影响——这就是“Tudei”这个名字的由来。恶心和头痛是常见的。"
+      }
+    },
+    "erkennung": {
+      "title": "识别Tudei",
+      "intro": "不幸的是，Tudei卡瓦有时会被非法掺入或作为贵族出售。以下是警示信号：",
+      "warningTitle": "Tudei掺入的警示信号",
+      "warnings": [
+        "<strong>极低的价格</strong>——Tudei的生产成本更低",
+        "<strong>没有品种说明</strong>——品种名称应始终说明",
+        "<strong>没有化学类型</strong>——化学类型提供有关卡瓦内酯组成的信息",
+        "<strong>效果开始延迟</strong>——贵族卡瓦在10-20分钟内见效",
+        "<strong>极度恶心</strong>——超过轻微的胃部不适",
+        "<strong>第二天的效果</strong>——贵族卡瓦在4-6小时后消退"
+      ],
+      "acetoneTestTitle": "丙酮测试",
+      "acetoneTestText": "一个简单的家庭测试可以帮助识别Tudei：<strong>丙酮测试</strong>。将卡瓦粉末与丙酮混合。贵族卡瓦会使丙酮变成黄色，而Tudei卡瓦则会产生橙色至红色的颜色（由于高黄酮卡瓦因B含量）。",
+      "recommendation": "<strong>建议：</strong>购买时，请确保商家提供确切的化学类型和品种。这些信息表明它是正宗的贵族卡瓦。"
+    },
+    "sicherheit": {
+      "title": "安全性方面",
+      "intro": "贵族与Tudei之间的区别不仅仅是舒适性的问题，也是<a href=\"/de/sicherheit\" class=\"text-primary hover:underline\">安全性</a>的问题。2000年代初与卡瓦相关的肝损伤如今大多归因于低质量的产品：",
+      "causes": [
+        "使用<strong>地上植物部分</strong>（叶子、茎）而不是仅仅根部",
+        "掺入<strong>Tudei品种</strong>，其黄酮卡瓦因B含量高",
+        "<strong>丙酮提取</strong>而非传统水制备",
+        "使用<strong>未成熟植物</strong>（少于3年）"
+      ],
+      "conclusion": "贵族卡瓦，传统上由至少3-5年老的根制备，具有<strong>数千年的安全历史</strong>在太平洋文化中。瓦努阿图政府和国际组织如<strong>世界卫生组织</strong>已确认，适当使用的贵族卡瓦被认为是安全的。",
+      "moreLink": "了解更多关于卡瓦的安全性"
+    }
+  },
+  "navigation": {
+    "chapterLabel": "继续阅读品种章节：",
+    "next": {
+      "title": "来自瓦努阿图的品种",
+      "description": "来自卡瓦故乡的80多种品种：Borogu、Melo Melo、Kelai等",
+      "href": "/de/sorten/vanuatu"
+    }
+  }
+}

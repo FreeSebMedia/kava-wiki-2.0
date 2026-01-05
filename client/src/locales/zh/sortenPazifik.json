@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "来自斐济、汤加和夏威夷的品种",
+    "subtitle": "来自整个太平洋的地方Kava特色：从斐济的Yaqona到夏威夷的'Awa。",
+    "category": "品种"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "sorten": "品种",
+    "current": "太平洋"
+  },
+  "toc": {
+    "title": "内容",
+    "items": [
+      {
+        "id": "fiji",
+        "title": "斐济 – Yaqona",
+        "level": 1
+      },
+      {
+        "id": "loa-waka",
+        "title": "Loa Waka",
+        "level": 2
+      },
+      {
+        "id": "tonga",
+        "title": "汤加 – 所有Noble",
+        "level": 1
+      },
+      {
+        "id": "pouni-ono",
+        "title": "Pouni Ono",
+        "level": 2
+      },
+      {
+        "id": "hawaii",
+        "title": "夏威夷 – 'Awa",
+        "level": 1
+      },
+      {
+        "id": "moi",
+        "title": "Moi",
+        "level": 2
+      },
+      {
+        "id": "samoa",
+        "title": "萨摩亚 – 'Ava",
+        "level": 1
+      },
+      {
+        "id": "andere",
+        "title": "其他地区",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "来源",
+    "type": "类型",
+    "composition": "成分",
+    "duration": "效果持续时间",
+    "effectProfile": "效果特征",
+    "recommendedFor": "推荐给：",
+    "variety": "品种",
+    "speciality": "特色"
+  },
+  "fiji": {
+    "title": "斐济 – Yaqona",
+    "intro": "<p class=\"lead text-xl\">在<strong>斐济</strong>，Kava被称为<strong>Yaqona</strong>（发音为“Yang-gona”），被视为官方国饮。这个名字的意思是“苦”，指的是其特有的味道。另一个名字<strong>Malogu</strong>意味着“安抚”，描述了其效果。</p><p>斐济有<strong>13种记录在案的Kava品种</strong>，以其高质量的加工而闻名。特别受欢迎的是<strong>Waka</strong>——仅由侧根（而非根茎）制成的Kava，被认为是更强效的。</p>",
+    "varieties": [
+      {
+        "name": "Loa Waka",
+        "type": "重型",
+        "speciality": "非常强效，强烈镇静"
+      },
+      {
+        "name": "Vula Waka",
+        "type": "均衡型",
+        "speciality": "均衡，多功能"
+      },
+      {
+        "name": "Qila Balavu",
+        "type": "重型",
+        "speciality": "持久"
+      },
+      {
+        "name": "Matakaro Balavu",
+        "type": "均衡型",
+        "speciality": "传统"
+      },
+      {
+        "name": "Dokobana Loa",
+        "type": "重型",
+        "speciality": "稀有，非常受重视"
+      },
+      {
+        "name": "Yalu",
+        "type": "均衡型",
+        "speciality": "温和，愉悦"
+      }
+    ]
+  },
+  "loaWaka": {
+    "name": "Loa Waka",
+    "badges": [
+      "重型",
+      "非常强效"
+    ],
+    "origin": "斐济（多个岛屿）",
+    "type": "Waka（侧根）",
+    "duration": "5-8小时",
+    "description": "<strong>Loa Waka</strong>是市场上最强效的Kava之一。“Loa”在斐济语中意为“黑暗”，指的是根的颜色。“Waka”指的是高质量的侧根。这种组合产生了一种极其强烈、以身体为主的Kava。",
+    "effects": [
+      {
+        "text": "<strong>极度镇静：</strong>最强的“重型”Kava之一"
+      },
+      {
+        "text": "<strong>深度肌肉放松：</strong>理想用于<a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">肌肉紧张</a>"
+      },
+      {
+        "text": "<strong>促进睡眠：</strong>完美解决<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">睡眠问题</a>"
+      },
+      {
+        "text": "<strong>持久：</strong>效果可持续5-8小时"
+      }
+    ],
+    "recommendedFor": "经验丰富的用户，晚间消费，严重睡眠问题",
+    "warning": "<strong>注意：</strong>Loa Waka非常强效。初学者应从较低剂量开始，并在补充之前观察效果。"
+  },
+  "tonga": {
+    "title": "汤加 – 所有Noble",
+    "intro": "<p class=\"lead text-xl\"><strong>汤加</strong>在Kava世界中独特：<strong>所有种植的品种都是Noble</strong>。汤加没有Tudei品种。这使得汤加Kava特别安全和可预测。</p><p>汤加Kava以其相对<strong>“头脑型”</strong>的效果而闻名。这些品种通常比斐济或瓦努阿图的Kava镇静性低，更适合日常消费和社交场合。</p>",
+    "varieties": [
+      {
+        "name": "Pouni Ono",
+        "type": "头脑型",
+        "speciality": "最受欢迎的品种，社交型"
+      },
+      {
+        "name": "Leka Hina",
+        "type": "头脑型/均衡型",
+        "speciality": "温和，愉悦"
+      },
+      {
+        "name": "Kava Kula",
+        "type": "均衡型",
+        "speciality": "传统"
+      },
+      {
+        "name": "Kava Fulufulu (Fu'u)",
+        "type": "均衡型",
+        "speciality": "温和，适合初学者"
+      },
+      {
+        "name": "Lekakula",
+        "type": "头脑型",
+        "speciality": "欣快"
+      }
+    ]
+  },
+  "pouniOno": {
+    "name": "Pouni Ono",
+    "badges": [
+      "头脑型",
+      "适合初学者"
+    ],
+    "origin": "汤加",
+    "composition": "混合（Leka Hina, Kava Kula, Fu'u）",
+    "duration": "3-4小时",
+    "description": "<strong>Pouni Ono</strong>是最著名的“日用Kava”，是由多种汤加品种混合而成（通常是Leka Hina, Kava Kula和Kava Fulufulu）。这个名字的意思是“六次”，指的是传统的制备方式。",
+    "effects": [
+      {
+        "text": "<strong>欣快：</strong><a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">提升情绪</a>和社交"
+      },
+      {
+        "text": "<strong>提神：</strong>几乎没有镇静效果，适合白天"
+      },
+      {
+        "text": "<strong>温和的味道：</strong>比许多其他品种更愉悦"
+      },
+      {
+        "text": "<strong>短暂的效果：</strong>易于控制"
+      }
+    ],
+    "recommendedFor": "初学者，日常消费，<a href=\"/de/wirkung/stimmung\" class=\"text-primary hover:underline\">社交场合</a>，工作",
+    "tip": "<strong>提示：</strong>Pouni Ono是Kava初学者的最佳品种之一。温和的味道和愉悦的、不过于强烈的效果使得入门变得容易。"
+  },
+  "hawaii": {
+    "title": "夏威夷 – 'Awa",
+    "intro": "<p class=\"lead text-xl\">在夏威夷，Kava被称为<strong>'Awa</strong>。夏威夷有<strong>13种传统品种</strong>，都被视为Noble，适合消费。夏威夷的'Awa以其高效力和独特的特性而闻名。</p><p>'Awa在夏威夷具有特殊的文化意义。历史上，某些'Awa是贵族（Ali'i）专用的。如今，夏威夷Kava通常是新鲜制备的，由于高生产成本，价格比其他地区的Kava贵。</p>",
+    "varieties": [
+      {
+        "name": "Moi",
+        "type": "头脑型",
+        "speciality": "王室Kava，非常具脑力"
+      },
+      {
+        "name": "Hiwa",
+        "type": "重型",
+        "speciality": "仪式性，强烈镇静"
+      },
+      {
+        "name": "Mahakea",
+        "type": "均衡型",
+        "speciality": "均衡，多功能"
+      },
+      {
+        "name": "Papa Kea",
+        "type": "头脑型",
+        "speciality": "温和，愉悦"
+      },
+      {
+        "name": "Nene",
+        "type": "均衡型",
+        "speciality": "传统"
+      },
+      {
+        "name": "Hanakapi'ai",
+        "type": "重型",
+        "speciality": "稀有，非常受重视"
+      }
+    ],
+    "warning": "<strong>注意：</strong>在夏威夷也种植两种进口的Tudei品种：<strong>Isa</strong>和<strong>Iwi</strong>。这些不是本地品种，应避免使用。"
+  },
+  "moi": {
+    "name": "Moi",
+    "badges": [
+      "头脑型",
+      "王室"
+    ],
+    "origin": "夏威夷",
+    "type": "头脑型 / 具脑力",
+    "duration": "2-4小时",
+    "description": "<strong>Moi</strong>是传奇的“国王Kava”。在夏威夷历史上，Moi是贵族（Ali'i）专用的，平民不得消费。如今，它以其异常的具脑力、精神清晰的效果而闻名。",
+    "effects": [
+      {
+        "text": "<strong>极度具脑力：</strong>促进心理清晰和专注"
+      },
+      {
+        "text": "<strong>促进创造力：</strong>理想用于<a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">创造性工作</a>"
+      },
+      {
+        "text": "<strong>几乎没有镇静效果：</strong>不会让人感到疲倦"
+      },
+      {
+        "text": "<strong>精神性：</strong>传统上用于冥想和仪式"
+      }
+    ],
+    "recommendedFor": "创造性工作，冥想，<a href=\"/de/wirkung/kognition\" class=\"text-primary hover:underline\">认知任务</a>"
+  },
+  "samoa": {
+    "title": "萨摩亚 – 'Ava",
+    "intro": "<p>在<strong>萨摩亚</strong>，Kava被称为<strong>'Ava</strong>。萨摩亚只有<strong>4种记录在案的品种</strong>，但有着丰富的仪式传统。'Ava仪式是萨摩亚文化的重要组成部分，通常在正式场合进行。</p>",
+    "varieties": [
+      {
+        "name": "Ava La'au",
+        "type": "均衡型",
+        "speciality": "传统，仪式性"
+      },
+      {
+        "name": "Ava Lea",
+        "type": "头脑型",
+        "speciality": "温和，愉悦"
+      },
+      {
+        "name": "Ava Loa",
+        "type": "重型",
+        "speciality": "更强，镇静"
+      },
+      {
+        "name": "Ava Tonga",
+        "type": "均衡型",
+        "speciality": "从汤加进口"
+      }
+    ]
+  },
+  "andere": {
+    "title": "其他地区",
+    "intro": "除了主要种植区，Kava还在一些其他太平洋地区存在：",
+    "regions": [
+      {
+        "name": "巴布亚新几内亚",
+        "description": "PNG只有<strong>一种Noble品种</strong>：<strong>Kau kupwe</strong>，在Baluan岛种植。大多数其他PNG品种是Tudei，应该避免使用。"
+      },
+      {
+        "name": "所罗门群岛",
+        "description": "所罗门群岛也只有<strong>一种Noble品种</strong>：<strong>Melomelo</strong>（与瓦努阿图的Melo Melo不同，尽管它们可能是相关的）。"
+      },
+      {
+        "name": "密克罗尼西亚",
+        "description": "在密克罗尼西亚联邦（波恩佩）有<strong>Rahmwahnger</strong>品种。Kava在那里的仪式意义重大。"
+      },
+      {
+        "name": "瓦利斯和富图纳",
+        "description": "这些法国领土有自己的Kava传统，但几乎没有记录在案的独特品种。"
+      }
+    ]
+  },
+  "navigation": {
+    "nextChapter": "继续阅读品种章节：",
+    "nextTitle": "品种详细资料",
+    "nextDescription": "所有主要品种的详细档案，包括化学类型、效果和推荐",
+    "nextLink": "/de/sorten/profile"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "品种比较",
+    "subtitle": "将两种Kava品种并排比较"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "sorten": "品种",
+    "current": "比较"
+  },
+  "ui": {
+    "selectVariety": "选择品种...",
+    "firstVariety": "第一种品种",
+    "secondVariety": "第二种品种",
+    "toProfile": "前往品种资料",
+    "potency": "效力",
+    "badgeInfo": "该<span class=\"bg-muted px-1.5 py-0.5 rounded text-xs font-medium\">+X</span>徽章显示与另一种品种的差异"
+  },
+  "categories": {
+    "heady": "兴奋型",
+    "balanced": "平衡型",
+    "heavy": "沉重型"
+  },
+  "sections": {
+    "effectProfile": {
+      "title": "效应特征比较"
+    },
+    "basicInfo": {
+      "title": "基本信息"
+    },
+    "dosage": {
+      "title": "推荐剂量"
+    },
+    "applications": {
+      "title": "应用领域"
+    },
+    "usageTimes": {
+      "title": "服用时间"
+    },
+    "kavalactones": {
+      "title": "Kavalactone特征"
+    },
+    "notes": {
+      "title": "备注"
+    }
+  },
+  "effects": {
+    "euphoria": "欣快感",
+    "relaxation": "放松",
+    "sedation": "镇静",
+    "clarity": "清晰",
+    "sociability": "社交性",
+    "anxiolysis": "减轻焦虑"
+  },
+  "info": {
+    "chemotype": "化学类型",
+    "duration": "作用持续时间",
+    "availability": "可用性",
+    "price": "价格"
+  },
+  "dosageLabels": {
+    "beginner": "初学者",
+    "regular": "常规",
+    "experienced": "有经验"
+  },
+  "kavalactoneLabels": {
+    "kavain": "Kavain",
+    "dhk": "DHK",
+    "methysticin": "Methysticin",
+    "dhm": "DHM",
+    "yangonin": "Yangonin",
+    "desmethoxyyangonin": "Desmethoxyyangonin"
+  },
+  "empty": {
+    "title": "选择两种品种进行比较",
+    "description": "使用上面的下拉菜单选择两种Kava品种，并直接对比它们的特性、效果和推荐。",
+    "tips": {
+      "title": "比较提示",
+      "items": [
+        "比较同一类别的品种以获得相似的效应特征",
+        "比较兴奋型与沉重型以获得对立的体验",
+        "注意化学类型的差异以获得科学见解"
+      ]
+    },
+    "quickSelections": "快速选择",
+    "suggestions": [
+      {
+        "label": "兴奋型与沉重型",
+        "strain1": "kelai",
+        "strain2": "palasa"
+      },
+      {
+        "label": "瓦努阿图经典",
+        "strain1": "borogu",
+        "strain2": "melo-melo"
+      },
+      {
+        "label": "初学者推荐",
+        "strain1": "melo-melo",
+        "strain2": "pouni-ono"
+      }
+    ]
+  }
+}

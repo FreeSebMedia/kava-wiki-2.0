@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "title": "即时卡瓦",
+    "subtitle": "享受卡瓦的最快方式 - 非常适合外出或需要快速饮用时。",
+    "category": "准备"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "zubereitung": "准备",
+    "current": "即时卡瓦"
+  },
+  "toc": {
+    "title": "内容",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "概述",
+        "level": 1
+      },
+      {
+        "id": "was-ist",
+        "title": "什么是即时卡瓦？",
+        "level": 1
+      },
+      {
+        "id": "arten",
+        "title": "即时卡瓦的种类",
+        "level": 1
+      },
+      {
+        "id": "anleitung",
+        "title": "准备",
+        "level": 1
+      },
+      {
+        "id": "dosierung",
+        "title": "剂量建议",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "与其他方法的比较",
+        "level": 1
+      },
+      {
+        "id": "tipps",
+        "title": "提示与技巧",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "prepTime": "准备时间",
+    "noFilter": "无过滤",
+    "justStir": "只需搅拌",
+    "practical": "实用",
+    "idealForTravel": "适合外出",
+    "potency": "效力",
+    "advantages": "优点",
+    "disadvantages": "缺点",
+    "productType": "产品类型",
+    "beginner": "初学者",
+    "regular": "常规",
+    "experienced": "经验丰富",
+    "aspect": "方面",
+    "traditional": "传统",
+    "blender": "搅拌机",
+    "instant": "即时",
+    "otherMethods": "其他准备方法"
+  },
+  "overview": {
+    "intro": "即时卡瓦是享受卡瓦的<strong>最快和最简单</strong>的方式。只需与水混合，搅拌并饮用 - <strong>无需揉捏，无需过滤</strong>。"
+  },
+  "whatIs": {
+    "title": "什么是即时卡瓦？",
+    "text": "\"即时卡瓦\"是指可以无需复杂准备即可消费的卡瓦产品的统称。与传统的中磨粉末不同，后者需要揉捏和过滤，即时产品可以直接溶解在水中。",
+    "alert": {
+      "title": "重要区别",
+      "text": "即时卡瓦<strong>并不等同</strong>于卡瓦提取物胶囊或片剂。它是可饮用的形式，提供完整的卡瓦体验。"
+    }
+  },
+  "types": {
+    "title": "即时卡瓦的种类",
+    "items": [
+      {
+        "name": "微粉卡瓦",
+        "description": "超细磨制的根粉，完全溶解于水中。",
+        "pros": [
+          "最快的准备",
+          "完整的植物成分",
+          "无需过滤"
+        ],
+        "cons": [
+          "可能引起胃部问题",
+          "可能有沙质口感",
+          "比中磨粉贵"
+        ],
+        "potency": "高",
+        "color": "琥珀色"
+      },
+      {
+        "name": "脱水卡瓦提取物",
+        "description": "从传统制备的卡瓦中提取的浓缩物，经过冷冻干燥处理。",
+        "pros": [
+          "非常有效",
+          "顺滑的口感",
+          "对胃更友好"
+        ],
+        "cons": [
+          "最贵",
+          "口味不够正宗",
+          "供应有限"
+        ],
+        "potency": "非常高",
+        "color": "紫色"
+      },
+      {
+        "name": "卡瓦浓缩液（液体）",
+        "description": "现成的卡瓦溶液，仅需用水稀释。",
+        "pros": [
+          "立即可饮用",
+          "强度一致",
+          "适合外出"
+        ],
+        "cons": [
+          "保质期有限",
+          "选择较少",
+          "通常含有添加剂"
+        ],
+        "potency": "中到高",
+        "color": "蓝色"
+      }
+    ]
+  },
+  "preparation": {
+    "title": "准备",
+    "intro": "准备即时卡瓦非常简单 - 这就是名字的由来！",
+    "steps": [
+      {
+        "number": 1,
+        "title": "称量",
+        "description": "将所需量的即时卡瓦放入杯子或碗中。"
+      },
+      {
+        "number": 2,
+        "title": "添加水",
+        "description": "加入200-300毫升水（冷或热）。"
+      },
+      {
+        "number": 3,
+        "title": "搅拌与饮用",
+        "description": "充分搅拌至溶解，然后一口喝下。"
+      }
+    ],
+    "alert": {
+      "title": "专业提示：使用摇摇杯",
+      "text": "使用蛋白质摇摇杯或鸡尾酒摇摇杯比搅拌更能更好地溶解即时卡瓦。特别是对于微粉卡瓦，可以防止结块。"
+    }
+  },
+  "dosage": {
+    "title": "剂量建议",
+    "note": "<strong>注意：</strong>这些值仅供参考。实际效力因制造商和品种而异。始终从低剂量开始！",
+    "items": [
+      {
+        "type": "微粉",
+        "beginner": "2-3克",
+        "regular": "4-6克",
+        "experienced": "6-10克"
+      },
+      {
+        "type": "脱水提取物",
+        "beginner": "1-2克",
+        "regular": "2-4克",
+        "experienced": "4-6克"
+      },
+      {
+        "type": "浓缩液（液体）",
+        "beginner": "15-30毫升",
+        "regular": "30-45毫升",
+        "experienced": "45-60毫升"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "与其他方法的比较",
+    "items": [
+      {
+        "aspect": "准备时间",
+        "traditional": "20-25分钟",
+        "blender": "8-10分钟",
+        "instant": "30秒"
+      },
+      {
+        "aspect": "工作量",
+        "traditional": "高",
+        "blender": "中等",
+        "instant": "最小"
+      },
+      {
+        "aspect": "效力",
+        "traditional": "非常高",
+        "blender": "高",
+        "instant": "中高"
+      },
+      {
+        "aspect": "口味",
+        "traditional": "正宗",
+        "blender": "浓烈",
+        "instant": "变化"
+      },
+      {
+        "aspect": "每份成本",
+        "traditional": "便宜",
+        "blender": "便宜",
+        "instant": "贵"
+      },
+      {
+        "aspect": "适合外出",
+        "traditional": "不方便",
+        "blender": "不方便",
+        "instant": "理想"
+      }
+    ]
+  },
+  "tips": {
+    "title": "提示与技巧",
+    "items": [
+      {
+        "name": "与果汁混合",
+        "text": "将即时卡瓦与果汁混合，而不是水。菠萝或芒果汁能很好地掩盖苦味。"
+      },
+      {
+        "name": "椰奶增强",
+        "text": "使用椰奶代替水。脂肪可以改善卡瓦内酯的吸收，使口感更加顺滑。"
+      },
+      {
+        "name": "旅行份量",
+        "text": "将即时卡瓦分装在小的拉链袋中。这样您在外出时总能带上正确的量。"
+      },
+      {
+        "name": "冷饮",
+        "text": "即时卡瓦冷饮时通常比热饮更好。将其与冷水和几块冰混合，制成清爽的饮品。"
+      }
+    ],
+    "alert": {
+      "title": "微粉卡瓦需谨慎",
+      "text": "微粉卡瓦含有所有植物纤维，可能会导致敏感人群出现胃部问题。如果您感到恶心，请切换到脱水提取物或传统制备。"
+    }
+  },
+  "navigation": {
+    "traditional": {
+      "title": "传统揉捏法",
+      "subtitle": "最大效力，正宗体验",
+      "href": "/de/zubereitung/traditionell"
+    },
+    "blender": {
+      "title": "搅拌机法",
+      "subtitle": "快速有效",
+      "href": "/de/zubereitung/blender"
+    },
+    "calculator": {
+      "title": "剂量计算器",
+      "subtitle": "为您的品种提供个性化建议",
+      "href": "/de/zubereitung/rechner"
+    }
+  }
+}

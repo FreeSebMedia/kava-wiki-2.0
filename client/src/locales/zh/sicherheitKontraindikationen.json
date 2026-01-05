@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "禁忌症",
+    "subtitle": "何时不应使用Kava：安全使用的绝对和相对禁忌。",
+    "category": "安全",
+    "breadcrumbs": {
+      "home": "首页",
+      "sicherheit": "安全",
+      "current": "禁忌症"
+    }
+  },
+  "toc": {
+    "title": "内容",
+    "zusammenfassung": "摘要",
+    "absolute": "绝对禁忌症",
+    "leber": "肝脏疾病",
+    "schwangerschaft": "怀孕与哺乳期",
+    "kinder": "儿童与青少年",
+    "relative": "相对禁忌症",
+    "parkinson": "帕金森病",
+    "depression": "重度抑郁",
+    "operation": "手术前",
+    "fahren": "驾驶与操作机器",
+    "vorsicht": "特别注意",
+    "genetik": "遗传因素",
+    "alter": "老年人",
+    "entscheidungshilfe": "决策帮助",
+    "quellen": "来源"
+  },
+  "navigation": {
+    "continueTitle": "继续阅读安全章节",
+    "items": [
+      {
+        "title": "概述",
+        "href": "/de/sicherheit",
+        "description": "返回安全概述"
+      },
+      {
+        "title": "肝脏安全",
+        "href": "/de/sicherheit/leber",
+        "description": "肝毒性与2002年禁令"
+      },
+      {
+        "title": "相互作用",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "药物与CYP450相互作用"
+      }
+    ]
+  },
+  "zusammenfassung": {
+    "title": "重要概述",
+    "intro": "尽管Kava在适当使用时被认为是安全的，但在某些情况下不建议或禁忌使用：",
+    "absolut": {
+      "title": "绝对禁忌：",
+      "items": [
+        "肝脏疾病",
+        "怀孕与哺乳期",
+        "18岁以下儿童"
+      ]
+    },
+    "relativ": {
+      "title": "相对禁忌症：",
+      "items": [
+        "帕金森病",
+        "重度抑郁",
+        "计划手术前"
+      ]
+    }
+  },
+  "absolute": {
+    "title": "绝对禁忌症",
+    "intro": "在以下情况下，Kava <strong>绝对不应</strong>使用。风险明显超过任何可能的好处。"
+  },
+  "leber": {
+    "title": "肝脏疾病",
+    "label": "严格禁忌",
+    "intro": "有肝脏疾病的人应完全避免使用Kava：",
+    "items": [
+      {
+        "name": "肝炎（A、B、C）",
+        "text": "急性或慢性肝炎"
+      },
+      {
+        "name": "肝硬化",
+        "text": "无论阶段如何"
+      },
+      {
+        "name": "脂肪肝",
+        "text": "酒精性和非酒精性脂肪肝病"
+      },
+      {
+        "name": "肝功能指标升高",
+        "text": "ALT、AST、GGT的无法解释的升高"
+      },
+      {
+        "name": "既往肝损伤",
+        "text": "即使目前已正常化"
+      }
+    ],
+    "reasonLabel": "理由：",
+    "reason": "肝脏是代谢Kavalactone的中心器官。在肝功能受限的情况下，代谢物可能会积累，增加进一步损伤的风险。"
+  },
+  "schwangerschaft": {
+    "title": "怀孕与哺乳期",
+    "label": "严格禁忌",
+    "intro": "在怀孕和哺乳期不应使用Kava：",
+    "items": [
+      {
+        "name": "没有安全数据",
+        "text": "没有关于怀孕期间安全性的对照研究"
+      },
+      {
+        "name": "胎盘穿透性",
+        "text": "Kavalactone可以穿过胎盘屏障"
+      },
+      {
+        "name": "母乳",
+        "text": "Kavalactone会进入母乳"
+      },
+      {
+        "name": "子宫放松",
+        "text": "Kavain可能会放松子宫肌肉"
+      }
+    ],
+    "traditionLabel": "传统实践：",
+    "tradition": "在太平洋文化中，Kava传统上不被孕妇或哺乳期妇女消费。"
+  },
+  "kinder": {
+    "title": "儿童与青少年",
+    "label": "不推荐18岁以下使用",
+    "intro": "儿童和青少年不应使用Kava：",
+    "items": [
+      {
+        "name": "发展",
+        "text": "对大脑发展的影响尚未研究"
+      },
+      {
+        "name": "代谢",
+        "text": "儿童的物质代谢与成人不同"
+      },
+      {
+        "name": "没有研究",
+        "text": "该年龄组没有临床数据"
+      }
+    ]
+  },
+  "relative": {
+    "title": "相对禁忌症",
+    "intro": "在以下情况下需要特别小心。某些情况下可以使用，但应在仔细权衡后，理想情况下在医生咨询后进行。"
+  },
+  "parkinson": {
+    "title": "帕金森病",
+    "label": "不推荐",
+    "intro": "Kava可能会加重帕金森症状：",
+    "items": [
+      {
+        "name": "多巴胺拮抗作用",
+        "text": "Kava可能会减弱多巴胺能作用"
+      },
+      {
+        "name": "左旋多巴相互作用",
+        "text": "可能会降低左旋多巴的有效性"
+      },
+      {
+        "name": "病例报告",
+        "text": "在使用Kava时症状恶化的情况已被记录"
+      }
+    ],
+    "caseReportLabel": "病例报告：",
+    "caseReport": "Schelosky等（1995）报告了一名45岁女性帕金森患者，在使用Kava后症状明显恶化。"
+  },
+  "depression": {
+    "title": "重度抑郁",
+    "label": "需谨慎",
+    "intro": "在重度抑郁情况下需谨慎：",
+    "items": [
+      {
+        "name": "中枢神经系统抑制",
+        "text": "Kava可能会加重无精打采"
+      },
+      {
+        "name": "药物相互作用",
+        "text": "可能与抗抑郁药物相互作用"
+      },
+      {
+        "name": "自我用药",
+        "text": "可能会延误专业治疗"
+      }
+    ],
+    "noteLabel": "注意：",
+    "note": "在轻度至中度焦虑情况下，Kava可能有帮助，但在重度抑郁情况下，专业治疗应优先考虑。"
+  },
+  "operation": {
+    "title": "计划手术前",
+    "label": "提前2周停用",
+    "intro": "在计划手术前应停用Kava：",
+    "items": [
+      {
+        "name": "麻醉相互作用",
+        "text": "可能增强麻醉药物的效果"
+      },
+      {
+        "name": "出血风险",
+        "text": "可能与抗凝药物相互作用"
+      },
+      {
+        "name": "肝功能",
+        "text": "对麻醉药物的代谢至关重要"
+      }
+    ],
+    "recommendation": "建议：在计划手术前至少停用Kava 2周，并告知麻醉师之前的消费情况。"
+  },
+  "fahren": {
+    "title": "驾驶与操作机器",
+    "label": "驾驶能力受限",
+    "intro": "Kava可能会影响反应能力：",
+    "items": [
+      {
+        "name": "镇静",
+        "text": "可能导致疲劳和反应迟缓"
+      },
+      {
+        "name": "剂量依赖",
+        "text": "较高剂量影响更明显"
+      },
+      {
+        "name": "个体差异",
+        "text": "敏感性差异很大"
+      }
+    ],
+    "noteLabel": "注意：",
+    "note": "与苯二氮卓类药物相比，研究表明Kava对认知功能的影响较小。然而，在驾驶前应了解个人反应。"
+  },
+  "vorsicht": {
+    "title": "特别注意",
+    "intro": "在某些人群中需要提高警惕，即使没有严格的禁忌症。"
+  },
+  "genetik": {
+    "title": "遗传因素（CYP2D6多态性）",
+    "label": "可能增加敏感性",
+    "intro": "约5-10%的欧洲人群为CYP2D6的\"代谢能力差者\"：",
+    "items": [
+      {
+        "name": "代谢缓慢",
+        "text": "Kavalactone在体内停留时间更长"
+      },
+      {
+        "name": "血药浓度升高",
+        "text": "作用和副作用增强"
+      },
+      {
+        "name": "识别",
+        "text": "对正常剂量反应异常强烈"
+      }
+    ],
+    "recommendationLabel": "建议：",
+    "recommendation": "如果您对Kava反应异常敏感，可能存在遗传因素。建议从较低剂量开始。"
+  },
+  "alter": {
+    "title": "老年人",
+    "label": "建议调整剂量",
+    "intro": "对老年人需特别小心：",
+    "items": [
+      {
+        "name": "肝功能降低",
+        "text": "老年人代谢较慢"
+      },
+      {
+        "name": "多药治疗",
+        "text": "相互作用风险更高"
+      },
+      {
+        "name": "跌倒风险",
+        "text": "镇静可能增加跌倒风险"
+      }
+    ],
+    "recommendationLabel": "建议：",
+    "recommendation": "从通常剂量的一半开始，并逐渐增加。"
+  },
+  "entscheidungshilfe": {
+    "title": "决策帮助：Kava适合我吗？",
+    "selfCheck": {
+      "title": "Kava消费前自我检查",
+      "nicht": {
+        "title": "如果您有以下情况，Kava不适合您：",
+        "items": [
+          "有或曾有肝脏疾病",
+          "怀孕或哺乳",
+          "未满18岁",
+          "定期饮酒",
+          "服用苯二氮卓类药物或抗精神病药物",
+          "服用抗凝药物（血液稀释剂）"
+        ]
+      },
+      "arzt": {
+        "title": "如果您有以下情况，请与医生交谈：",
+        "items": [
+          "有帕金森病",
+          "重度抑郁",
+          "定期服用药物",
+          "计划进行手术",
+          "超过65岁"
+        ]
+      },
+      "geeignet": {
+        "title": "如果您有以下情况，Kava可能适合您：",
+        "items": [
+          "身体健康且没有肝脏问题",
+          "不服用上述药物",
+          "不或偶尔饮酒",
+          "成年（18岁以上）",
+          "不怀孕或哺乳"
+        ]
+      }
+    },
+    "generalAdvice": {
+      "title": "一般建议",
+      "text": "如有疑问，请在使用Kava前咨询医生或药剂师，特别是如果您定期服用药物或有健康问题。"
+    }
+  },
+  "warnzeichen": {
+    "title": "警告信号：何时应立即停止",
+    "intro": "如出现以下情况，请立即停止使用并就医：",
+    "items": [
+      {
+        "name": "黄疸",
+        "text": "皮肤或眼睛发黄"
+      },
+      {
+        "name": "深色尿液",
+        "text": "(啤酒色)"
+      },
+      {
+        "name": "浅色大便",
+        "text": "(脱色)"
+      },
+      {
+        "name": "异常疲劳",
+        "text": "或虚弱"
+      },
+      {
+        "name": "恶心",
+        "text": "或食欲不振"
+      },
+      {
+        "name": "右上腹疼痛",
+        "text": ""
+      }
+    ],
+    "note": "这些症状可能表明肝脏问题，需要立即就医。"
+  },
+  "quellen": {
+    "title": "来源",
+    "items": [
+      {
+        "author": "EMA (2017)：",
+        "title": "关于Piper methysticum G. Forst.的评估报告，根茎。",
+        "source": "EMA/HMPC/450589/2016。"
+      },
+      {
+        "author": "WHO (2007)：",
+        "title": "Kava产品肝毒性风险评估。",
+        "source": "世界卫生组织技术报告。"
+      },
+      {
+        "author": "Schelosky L. et al. (1995)：",
+        "title": "Kava与多巴胺拮抗作用。",
+        "source": "神经病学、神经外科与精神病学杂志。"
+      },
+      {
+        "author": "Sarris J. et al. (2011)：",
+        "title": "Kava：关于疗效、安全性和精神药理学的综合评审。",
+        "source": "澳大利亚与新西兰精神病学杂志。"
+      }
+    ],
+    "moreStudies": "您可以在我们的",
+    "studiesLink": "研究页面"
+  }
+}

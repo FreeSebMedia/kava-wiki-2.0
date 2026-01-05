@@ -1,0 +1,277 @@
+{
+  "header": {
+    "languageSwitcher": "切换语言"
+  },
+  "nav": {
+    "botanik": {
+      "name": "植物学",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "植物学简介"
+        },
+        "pflanze": {
+          "name": "植物",
+          "description": "分类学与Piper wichmannii"
+        },
+        "morphologie": {
+          "name": "形态学",
+          "description": "解剖学与根系"
+        },
+        "anbau": {
+          "name": "种植与生态",
+          "description": "栽培与繁殖"
+        }
+      }
+    },
+    "geschichte": {
+      "name": "历史",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "Kava的历史"
+        },
+        "urspruenge": {
+          "name": "起源",
+          "description": "瓦努阿图与驯化"
+        },
+        "verbreitung": {
+          "name": "传播",
+          "description": "太平洋扩张"
+        },
+        "moderne": {
+          "name": "现代历史",
+          "description": "2002年禁令与复兴"
+        },
+        "zeitleiste": {
+          "name": "互动时间线",
+          "description": "5000年的Kava历史"
+        }
+      }
+    },
+    "inhaltsstoffe": {
+      "name": "成分",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "Kavalactone与化学类型"
+        },
+        "kavalactone": {
+          "name": "6种Kavalactone",
+          "description": "详细的作用特征"
+        },
+        "chemotypen": {
+          "name": "化学类型系统",
+          "description": "识别Noble与Tudei"
+        },
+        "rechner": {
+          "name": "化学类型计算器",
+          "description": "互动分析工具"
+        }
+      }
+    },
+    "wirkung": {
+      "name": "作用",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "作用机制"
+        },
+        "angst": {
+          "name": "焦虑缓解",
+          "description": "抗焦虑作用"
+        },
+        "schlaf": {
+          "name": "睡眠与放松",
+          "description": "镇静效果"
+        },
+        "muskel": {
+          "name": "肌肉放松",
+          "description": "身体放松"
+        },
+        "stimmung": {
+          "name": "情绪与社交",
+          "description": "兴奋效果"
+        },
+        "kognition": {
+          "name": "认知效果",
+          "description": "专注与逆耐受性"
+        }
+      }
+    },
+    "sicherheit": {
+      "name": "安全性",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "安全性与副作用"
+        },
+        "leber": {
+          "name": "肝脏安全性",
+          "description": "肝毒性与2002年禁令"
+        },
+        "wechselwirkungen": {
+          "name": "相互作用",
+          "description": "药物与CYP450"
+        },
+        "kontraindikationen": {
+          "name": "禁忌症",
+          "description": "何时避免Kava"
+        },
+        "checker": {
+          "name": "相互作用检查器",
+          "description": "检查药物"
+        }
+      }
+    },
+    "sorten": {
+      "name": "品种",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "品种与栽培品种"
+        },
+        "noble-tudei": {
+          "name": "Noble与Tudei",
+          "description": "重要的区别"
+        },
+        "vanuatu": {
+          "name": "瓦努阿图品种",
+          "description": "Borogu, Melo Melo, Kelai等"
+        },
+        "pazifik": {
+          "name": "太平洋品种",
+          "description": "斐济、汤加、夏威夷、萨摩亚"
+        },
+        "profile": {
+          "name": "品种简介",
+          "description": "详细的品种档案"
+        },
+        "vergleich": {
+          "name": "品种比较",
+          "description": "比较两种品种"
+        }
+      }
+    },
+    "zubereitung": {
+      "name": "制备",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "制备方法"
+        },
+        "traditionell": {
+          "name": "传统方法",
+          "description": "用滤布揉捏"
+        },
+        "blender": {
+          "name": "搅拌机方法",
+          "description": "快速制备"
+        },
+        "instant": {
+          "name": "即溶Kava",
+          "description": "微粉Kava"
+        },
+        "rechner": {
+          "name": "剂量计算器",
+          "description": "计算最佳剂量"
+        }
+      }
+    },
+    "kultur": {
+      "name": "文化",
+      "items": {
+        "uebersicht": {
+          "name": "概述",
+          "description": "文化与传统"
+        },
+        "zeremonien": {
+          "name": "仪式与典礼",
+          "description": "Yaqona, 'Ava与Nakamal仪式"
+        },
+        "nakamal": {
+          "name": "Nakamal与Kava酒吧",
+          "description": "传统与现代场所"
+        },
+        "moderne": {
+          "name": "现代Kava文化",
+          "description": "全球传播与复兴"
+        },
+        "weltkarte": {
+          "name": "互动世界地图",
+          "description": "探索Kava地区"
+        },
+        "kava-bars": {
+          "name": "Kava酒吧查找器",
+          "description": "查找全球Kava酒吧"
+        }
+      }
+    },
+    "mehr": {
+      "name": "更多",
+      "items": {
+        "faq": {
+          "name": "常见问题",
+          "description": "常见问题解答"
+        },
+        "studien": {
+          "name": "研究",
+          "description": "科学研究"
+        },
+        "rechtsstatus": {
+          "name": "法律地位",
+          "description": "法律情况"
+        },
+        "glossar": {
+          "name": "术语表",
+          "description": "专业术语解释"
+        }
+      }
+    }
+  },
+  "footer": {
+    "description": "关于Piper methysticum的全球最大知识门户。科学依据，文化尊重。",
+    "sections": {
+      "wissen": {
+        "title": "知识",
+        "links": {
+          "botanik": "植物学",
+          "geschichte": "历史",
+          "wissenschaft": "科学",
+          "sicherheit": "安全性"
+        }
+      },
+      "praxis": {
+        "title": "实践",
+        "links": {
+          "zubereitung": "制备",
+          "sorten": "品种与化学类型",
+          "rechtsstatus": "法律地位",
+          "faq": "常见问题"
+        }
+      },
+      "partner": {
+        "title": "合作伙伴与书籍",
+        "recommendedReading": "推荐阅读：",
+        "bookTitle": "\"Kava – 安宁之根\""
+      }
+    },
+    "copyright": "版权所有。",
+    "legal": {
+      "impressum": "法律声明",
+      "datenschutz": "隐私政策"
+    }
+  },
+  "breadcrumbs": {
+    "home": "首页"
+  },
+  "toc": {
+    "title": "内容"
+  },
+  "recommendation": {
+    "label": "推荐",
+    "title": "优质Noble Kava",
+    "text": "在我们的官方合作伙伴处发现认证的质量与纯度。",
+    "cta": "前往Kava-mode.com"
+  }
+}

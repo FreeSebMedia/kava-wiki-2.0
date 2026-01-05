@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "肝脏安全性与肝毒性",
+    "subtitle": "对Kava肝脏争议的科学分析：事实、神话与当前研究现状。",
+    "category": "安全性",
+    "breadcrumbs": {
+      "home": "首页",
+      "sicherheit": "安全性",
+      "current": "肝脏安全性"
+    }
+  },
+  "toc": {
+    "title": "目录",
+    "zusammenfassung": "摘要",
+    "verbot2002": "2002年的禁令",
+    "wasWirklichGeschah": "实际发生了什么",
+    "rehabilitation": "法院的恢复与判决",
+    "wissenschaft": "科学证据",
+    "whoBewertung": "2007年WHO评估",
+    "emaBewertung": "2017年EMA评估",
+    "klinischeStudien": "临床研究",
+    "risikofaktoren": "识别的风险因素",
+    "extrakte": "提取物类型",
+    "pflanzenteile": "植物部分",
+    "genetik": "遗传因素",
+    "komedikation": "合并用药与酒精",
+    "mechanismen": "可能的机制",
+    "empfehlungen": "实用建议",
+    "quellen": "来源"
+  },
+  "zusammenfassung": {
+    "title": "当前科学共识",
+    "intro": "根据WHO、EMA和独立研究人员的全面分析，得出以下结论：",
+    "points": [
+      "传统制备的来自优质品种的Kava在适当使用时是<strong>安全</strong>的",
+      "严重肝损伤是<strong>极为罕见</strong>的（估计发生率：1:60,000至1:1,000,000）",
+      "大多数病例报告在因果关系评估中存在<strong>显著的质量缺陷</strong>",
+      "2002年欧盟禁令被德国法院认定为<strong>不成比例</strong>"
+    ]
+  },
+  "verbot2002": {
+    "title": "2002年的禁令",
+    "intro": "2002年，Kava在德国和许多其他欧洲国家被撤回市场。德国药品和医疗器械联邦院（BfArM）在收到关于严重肝损伤的报告后撤销了含Kava药物的批准。这一决定对全球Kava市场及太平洋生产国产生了深远影响。",
+    "chronologie": {
+      "title": "事件时间表",
+      "note": "有关不同国家当前法律地位的详细信息，请参见",
+      "linkText": "法律地位与合法性",
+      "events": [
+        {
+          "date": "1998-2001",
+          "text": "关于Kava使用者肝损伤的首批病例报告在欧洲出现"
+        },
+        {
+          "date": "2001年11月",
+          "text": "BfArM下令进行分阶段程序"
+        },
+        {
+          "date": "2002年6月",
+          "text": "在德国撤销批准"
+        },
+        {
+          "date": "2002-2003",
+          "text": "在英国、法国、瑞士、加拿大、澳大利亚实施禁令"
+        },
+        {
+          "date": "2014年",
+          "text": "科隆行政法院宣布禁令为违法"
+        },
+        {
+          "date": "2015年",
+          "text": "明斯特高级行政法院确认：禁令是不成比例的"
+        },
+        {
+          "date": "2019年",
+          "text": "药品批准的撤销最终被取消"
+        }
+      ]
+    }
+  },
+  "wasWirklichGeschah": {
+    "title": "实际发生了什么：批判性分析",
+    "intro": "导致禁令的最初病例报告在随后的几年中进行了深入的科学研究。结果显示出显著的方法缺陷：",
+    "probleme": {
+      "title": "病例报告的问题",
+      "items": [
+        "超过50%的病例文档不完整",
+        "没有标准化的因果关系评估（RUCAM）",
+        "忽视了与肝毒性物质的合并用药",
+        "酒精消费往往没有记录",
+        "产品质量和植物部分不明确"
+      ]
+    },
+    "erkenntnisse": {
+      "title": "后来的发现",
+      "items": [
+        "许多产品包含地上植物部分",
+        "酮提取物的风险高于水提取物",
+        "Tudei-Kava部分被销售为优质品种",
+        "某些产品中检测到霉菌污染",
+        "遗传多态性被识别为风险因素"
+      ]
+    }
+  },
+  "rehabilitation": {
+    "title": "法院的恢复",
+    "intro": "经过多年的法律争议，德国法院得出了明确的结论。科隆行政法院和后来的明斯特高级行政法院指出，禁令是<strong>不成比例</strong>的，相关部门没有正确评估科学证据。",
+    "quote": "\"BfArM所假定的Kava-Kava含药物与发生的肝损伤之间的因果关系没有充分证据。风险与收益的权衡被错误地进行。\"",
+    "quoteSource": "— 明斯特高级行政法院，2015年"
+  },
+  "wissenschaft": {
+    "title": "科学证据",
+    "intro": "禁令后进行了几项全面的科学评估，描绘了Kava安全性的更复杂图景。"
+  },
+  "whoBewertung": {
+    "title": "2007年WHO评估",
+    "intro": "世界卫生组织（WHO）在2007年对所有可用病例报告进行了全面分析。结果颇具启发性：",
+    "analysisTitle": "WHO对93个病例的分析",
+    "cases": [
+      {
+        "count": "8",
+        "label": "\"可能\"因果关系的病例",
+        "color": "primary"
+      },
+      {
+        "count": "53",
+        "label": "\"可能\"因果关系的病例",
+        "color": "amber"
+      },
+      {
+        "count": "32",
+        "label": "无法评估的病例",
+        "color": "muted"
+      }
+    ],
+    "note": "WHO指出，酮提取物和乙醇提取物的风险高于合成Kavalactone，这表明非Kavalactone成分可能是潜在原因。"
+  },
+  "emaBewertung": {
+    "title": "2017年EMA评估",
+    "intro": "欧洲药品管理局（EMA）在2017年发布了一份103页的评估报告，汇总了所有可用数据：",
+    "findings": [
+      {
+        "label": "临床研究",
+        "text": "在对照研究中没有显著的肝毒性"
+      },
+      {
+        "label": "副作用",
+        "text": "仅在少数受试者中出现轻微、可逆的转氨酶升高"
+      },
+      {
+        "label": "风险因素",
+        "text": "有机提取物、酒精、既往肝病、遗传多态性"
+      }
+    ]
+  },
+  "klinischeStudien": {
+    "title": "来自临床研究的证据",
+    "intro": "一个特别重要的点：在使用标准化Kava制剂的对照临床研究中，没有观察到<strong>严重的肝损伤</strong>。Smith & Leiras（2018）的一项系统综述分析了11项随机研究，未发现肝毒性的迹象。",
+    "tableTitle": "研究现状总结",
+    "headers": [
+      "研究",
+      "参与者",
+      "持续时间",
+      "肝损伤"
+    ],
+    "studies": [
+      {
+        "study": "Sarris et al. (2013)",
+        "participants": "75",
+        "duration": "6周",
+        "result": "无"
+      },
+      {
+        "study": "Boerner et al. (2003)",
+        "participants": "129",
+        "duration": "8周",
+        "result": "无*"
+      },
+      {
+        "study": "Lehrl (2004)",
+        "participants": "40",
+        "duration": "4周",
+        "result": "无"
+      },
+      {
+        "study": "Cochrane Review (2003)",
+        "participants": "645（7项研究）",
+        "duration": "1-24周",
+        "result": "无"
+      }
+    ],
+    "footnote": "*2名受试者出现轻微的转氨酶升高，其中一名受试者已有升高的基线值"
+  },
+  "risikofaktoren": {
+    "title": "识别的风险因素",
+    "intro": "科学研究已识别出多个因素，可能增加肝脏副作用的风险。理解这些因素有助于安全使用。"
+  },
+  "extrakte": {
+    "title": "提取物类型：水提取与有机提取",
+    "intro": "WHO分析的一个核心发现是不同提取方法之间的差异：",
+    "waessrig": {
+      "title": "水提取物（传统）",
+      "items": [
+        "传统制备方法",
+        "主要提取Kavalactone",
+        "含有保护性谷胱甘肽",
+        "在太平洋人群中没有记录的肝毒性",
+        "被FAO/WHO评估为安全"
+      ]
+    },
+    "organisch": {
+      "title": "有机提取物（酮提取/乙醇提取）",
+      "items": [
+        "工业提取方法",
+        "更高的Kavalactone浓度",
+        "也提取Flavokavine",
+        "不提取谷胱甘肽",
+        "在WHO分析中风险更高"
+      ]
+    }
+  },
+  "pflanzenteile": {
+    "title": "植物部分：根部与地上部分",
+    "intro": "使用不同植物部分对安全性有显著影响：",
+    "tableTitle": "根据植物部分的Pipermethystin含量",
+    "headers": [
+      "植物部分",
+      "Pipermethystin",
+      "安全性"
+    ],
+    "rows": [
+      {
+        "part": "根/根茎",
+        "content": "不可检测",
+        "safety": "安全",
+        "color": "primary"
+      },
+      {
+        "part": "茎皮",
+        "content": "高达0.85%",
+        "safety": "有问题",
+        "color": "amber"
+      },
+      {
+        "part": "叶子",
+        "content": "约0.2%",
+        "safety": "有毒",
+        "color": "destructive"
+      }
+    ],
+    "note": "Pipermethystin是一种生物碱，在体外表现出强烈的细胞毒性，并干扰线粒体功能（Nerurkar et al., 2004）。它仅存在于地上植物部分。"
+  },
+  "genetik": {
+    "title": "遗传因素：CYP2D6多态性",
+    "intro": "Kavalactone主要通过细胞色素P450酶系统代谢，特别是通过CYP2D6。该酶的遗传变异可能显著影响代谢速率：",
+    "factors": [
+      {
+        "label": "代谢差（PM）",
+        "text": "约5-10%的欧洲人具有降低的CYP2D6活性，可能导致更高的Kavalactone水平"
+      },
+      {
+        "label": "特异性反应",
+        "text": "某些病例可能与免疫介导的机制有关"
+      }
+    ]
+  },
+  "komedikation": {
+    "title": "合并用药与酒精",
+    "warning": {
+      "title": "关键风险因素",
+      "text": "Kava与酒精或肝毒性药物的结合显著增加肝损伤的风险。在许多最初的病例报告中，酒精消费被记录或未被排除。"
+    },
+    "intro": "WHO识别出以下合并用药为特别问题：",
+    "items": [
+      "酒精（协同肝毒性）",
+      "对乙酰氨基酚（肝毒性）",
+      "苯二氮䓬类药物（CYP相互作用）",
+      "抗精神病药物（CYP相互作用）",
+      "他汀类药物（肝毒性潜力）"
+    ]
+  },
+  "mechanismen": {
+    "title": "肝毒性的可能机制",
+    "intro": "Kava在极少数情况下导致肝损伤的确切机制尚未完全阐明。讨论了几种假设：",
+    "hypotheses": [
+      {
+        "title": "1. 醌代谢物",
+        "text": "Kavain和Dihydrokavain可能被氧化为反应性醌代谢物，这些代谢物可以与细胞蛋白质反应并导致氧化应激（Johnson et al., 2003）。谷胱甘肽可以中和这些代谢物——这可能是水提取物（含谷胱甘肽）更安全的原因。"
+      },
+      {
+        "title": "2. Flavokavine",
+        "text": "Flavokavin B在体外显示出细胞毒性，并可能诱导肝细胞的凋亡。有机提取物含有比水提取制剂更高浓度的Flavokavine。"
+      },
+      {
+        "title": "3. Pipermethystin",
+        "text": "这种生物碱仅存在于地上植物部分，并且具有强烈的细胞毒性。它抑制线粒体呼吸链，并可能导致细胞死亡。"
+      }
+    ]
+  },
+  "empfehlungen": {
+    "title": "最大安全性的实用建议",
+    "items": [
+      {
+        "label": "优质品种",
+        "text": "仅从可靠的商家购买经过验证的优质Kava品种"
+      },
+      {
+        "label": "根部",
+        "text": "仅使用根部和根茎产品，不使用地上植物部分"
+      },
+      {
+        "label": "水提制备",
+        "text": "优先选择传统制备方法"
+      },
+      {
+        "label": "无酒精",
+        "text": "与酒精消费保持至少24小时的间隔"
+      },
+      {
+        "label": "肝功能指标",
+        "text": "定期消费时每年检查肝功能指标"
+      },
+      {
+        "label": "警示信号",
+        "text": "如出现黄疸、深色尿液或异常疲劳，立即停止使用"
+      }
+    ]
+  }
+}

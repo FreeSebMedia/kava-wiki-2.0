@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "title": "品种详细信息",
+    "subtitle": "主要Kava品种的详细资料，包括化学类型、效果和推荐。",
+    "category": "品种"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "sorten": "品种",
+    "current": "档案"
+  },
+  "toc": {
+    "title": "内容",
+    "items": [
+      {
+        "id": "uebersicht",
+        "title": "概述",
+        "level": 1
+      },
+      {
+        "id": "favoriten",
+        "title": "我的最爱",
+        "level": 1
+      },
+      {
+        "id": "filter",
+        "title": "效果过滤",
+        "level": 1
+      },
+      {
+        "id": "heady",
+        "title": "头脑清醒的品种",
+        "level": 1
+      },
+      {
+        "id": "balanced",
+        "title": "平衡的品种",
+        "level": 1
+      },
+      {
+        "id": "heavy",
+        "title": "重型品种",
+        "level": 1
+      },
+      {
+        "id": "vergleich",
+        "title": "品种比较",
+        "level": 1
+      }
+    ]
+  },
+  "ui": {
+    "origin": "来源",
+    "chemotype": "化学类型",
+    "duration": "效果持续时间",
+    "strength": "强度",
+    "hits": "匹配",
+    "low": "低",
+    "high": "高",
+    "variety": "品种",
+    "region": "地区",
+    "type": "类型",
+    "bestUse": "最佳用途",
+    "resetFilters": "重置过滤器",
+    "matchingCriteria": "从 {total} 种品种中符合您的标准",
+    "noMatching": "没有符合当前过滤标准的 {category} 品种。",
+    "toComparison": "进行互动品种比较"
+  },
+  "overview": {
+    "intro": "本页面提供主要的 <a href=\"/de/sorten/noble-tudei\" class=\"text-primary hover:underline\">高贵Kava</a> 品种的全面概述，按其效果类型排序。利用这些资料找到适合您需求的完美品种。",
+    "categories": [
+      {
+        "name": "头脑清醒",
+        "description": "以头脑为主，愉悦，社交。理想用于白天。",
+        "color": "yellow"
+      },
+      {
+        "name": "平衡",
+        "description": "均衡，多功能。适合任何时间。",
+        "color": "blue"
+      },
+      {
+        "name": "重型",
+        "description": "以身体为主，镇静。理想用于晚上。",
+        "color": "purple"
+      }
+    ]
+  },
+  "filter": {
+    "title": "效果过滤",
+    "description": "根据您想要的效果过滤品种。移动滑块以仅显示具有至少所选值的品种。",
+    "euphoria": "愉悦",
+    "relaxation": "放松",
+    "sleepy": "困倦"
+  },
+  "sections": {
+    "heady": {
+      "title": "头脑清醒的品种",
+      "description": "头脑清醒的Kava以头脑为主，产生愉悦、精神清晰和社交性。非常适合日间消费、社交场合和创造性工作。<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学类型</a> 通常以4（<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">卡瓦因</a>）开始。"
+    },
+    "balanced": {
+      "title": "平衡的品种",
+      "description": "平衡的Kava在头脑和身体之间提供均衡的效果。它们用途广泛，适合白天和晚上。理想用于 <a href=\"/de/wirkung/angst\" class=\"text-primary hover:underline\">缓解焦虑</a> 和一般放松。"
+    },
+    "heavy": {
+      "title": "重型品种",
+      "description": "重型Kava以身体为主，产生深度 <a href=\"/de/wirkung/muskel\" class=\"text-primary hover:underline\">肌肉放松</a> 和镇静。非常适合晚上、<a href=\"/de/wirkung/schlaf\" class=\"text-primary hover:underline\">睡眠问题</a> 和身体恢复。化学类型通常以DHK（2）为显著位置。"
+    }
+  },
+  "comparison": {
+    "title": "品种比较",
+    "description": "此表提供所有重要品种的快速概述。还可以使用我们的 <a href=\"/de/sorten/vergleich\" class=\"text-primary hover:underline\">互动比较工具</a> 进行详细对比。",
+    "link": "/de/sorten/vergleich"
+  },
+  "varieties": [
+    {
+      "id": "kelai",
+      "name": "Kelai",
+      "origin": "埃皮，瓦努阿图",
+      "chemotype": "421365",
+      "duration": "2-3小时",
+      "strength": 4,
+      "description": "传奇的愉悦Kava，如同Kava中的香槟。",
+      "recommended": [
+        "社交场合",
+        "创造性工作",
+        "日间消费"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "borogu",
+      "name": "Borogu",
+      "origin": "彭特科斯特，瓦努阿图",
+      "chemotype": "243516",
+      "duration": "4-6小时",
+      "strength": 4,
+      "description": "瓦努阿图的民众Kava，多功能且以头脑为主的初始效果。",
+      "recommended": [
+        "社交场合",
+        "晚间消费",
+        "初学者"
+      ],
+      "badge": "头脑清醒 / 平衡",
+      "category": "heady",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "pouni-ono",
+      "name": "Pouni Ono",
+      "origin": "汤加",
+      "chemotype": "混合",
+      "duration": "3-4小时",
+      "strength": 3,
+      "description": "最受欢迎的日间Kava，温和且适合初学者。",
+      "recommended": [
+        "初学者",
+        "工作",
+        "社交场合"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 3,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "moi",
+      "name": "Moi",
+      "origin": "夏威夷",
+      "chemotype": "—",
+      "duration": "2-4小时",
+      "strength": 4,
+      "description": "皇家'Awa，极其脑力集中和精神清晰。",
+      "recommended": [
+        "冥想",
+        "创造性工作",
+        "认知"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 4,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "silese",
+      "name": "Silese",
+      "origin": "彭特科斯特，瓦努阿图",
+      "chemotype": "—",
+      "duration": "2-3小时",
+      "strength": 3,
+      "description": "稀有的愉悦品种，非常受欢迎。",
+      "recommended": [
+        "社交场合",
+        "提升情绪"
+      ],
+      "category": "heady",
+      "effects": {
+        "euphoria": 5,
+        "relaxation": 2,
+        "sleepy": 1
+      }
+    },
+    {
+      "id": "melo-melo",
+      "name": "Melo Melo",
+      "origin": "安巴埃，瓦努阿图",
+      "chemotype": "243156",
+      "duration": "3-5小时",
+      "strength": 3,
+      "description": "完美的全能型，温和且均衡。",
+      "recommended": [
+        "初学者",
+        "缓解焦虑",
+        "日常使用"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "borogu-balanced",
+      "name": "Borogu (平衡)",
+      "origin": "彭特科斯特，瓦努阿图",
+      "chemotype": "243516",
+      "duration": "4-6小时",
+      "strength": 4,
+      "description": "瓦努阿图的民众Kava，可靠且多功能。",
+      "recommended": [
+        "晚间消费",
+        "放松",
+        "初学者"
+      ],
+      "badge": "头脑清醒 / 平衡",
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "bir-kar",
+      "name": "Bir Kar",
+      "origin": "马拉库拉，瓦努阿图",
+      "chemotype": "423561",
+      "duration": "4-5小时",
+      "strength": 4,
+      "description": "强效Kava，头脑与身体之间的良好平衡。",
+      "recommended": [
+        "经验丰富的用户",
+        "晚间消费"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 3
+      }
+    },
+    {
+      "id": "vula-waka",
+      "name": "Vula Waka",
+      "origin": "斐济",
+      "chemotype": "—",
+      "duration": "4-5小时",
+      "strength": 3,
+      "description": "均衡的斐济Kava，多功能。",
+      "recommended": [
+        "日常使用",
+        "放松"
+      ],
+      "category": "balanced",
+      "effects": {
+        "euphoria": 3,
+        "relaxation": 4,
+        "sleepy": 2
+      }
+    },
+    {
+      "id": "palasa",
+      "name": "Palasa",
+      "origin": "马拉库拉，瓦努阿图",
+      "chemotype": "423651",
+      "duration": "5-7小时",
+      "strength": 5,
+      "description": "最强的重型Kava之一，深度镇静。",
+      "recommended": [
+        "睡眠问题",
+        "肌肉放松",
+        "晚上"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "loa-waka",
+      "name": "Loa Waka",
+      "origin": "斐济",
+      "chemotype": "—",
+      "duration": "5-8小时",
+      "strength": 5,
+      "description": "极其强效的斐济Kava，强烈镇静。",
+      "recommended": [
+        "经验丰富的用户",
+        "睡眠问题"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    },
+    {
+      "id": "palarasul",
+      "name": "Palarasul",
+      "origin": "马拉库拉，瓦努阿图",
+      "chemotype": "426531",
+      "duration": "5-7小时",
+      "strength": 4,
+      "description": "Palasa的小兄弟，稍微温和但相似。",
+      "recommended": [
+        "重型初学者",
+        "晚间消费"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 4,
+        "sleepy": 4
+      }
+    },
+    {
+      "id": "hiwa",
+      "name": "Hiwa",
+      "origin": "夏威夷",
+      "chemotype": "—",
+      "duration": "4-6小时",
+      "strength": 5,
+      "description": "仪式性的夏威夷'Awa，非常强效。",
+      "recommended": [
+        "仪式",
+        "睡眠",
+        "经验丰富的用户"
+      ],
+      "category": "heavy",
+      "effects": {
+        "euphoria": 2,
+        "relaxation": 5,
+        "sleepy": 5
+      }
+    }
+  ],
+  "comparisonTable": [
+    {
+      "name": "Kelai",
+      "region": "瓦努阿图",
+      "type": "头脑清醒",
+      "chemotype": "421365",
+      "bestUse": "社交，创造性"
+    },
+    {
+      "name": "Pouni Ono",
+      "region": "汤加",
+      "type": "头脑清醒",
+      "chemotype": "混合",
+      "bestUse": "初学者，白天"
+    },
+    {
+      "name": "Moi",
+      "region": "夏威夷",
+      "type": "头脑清醒",
+      "chemotype": "—",
+      "bestUse": "冥想，认知"
+    },
+    {
+      "name": "Melo Melo",
+      "region": "瓦努阿图",
+      "type": "平衡",
+      "chemotype": "243156",
+      "bestUse": "焦虑，全能型"
+    },
+    {
+      "name": "Borogu",
+      "region": "瓦努阿图",
+      "type": "头脑清醒 / 平衡",
+      "chemotype": "243516",
+      "bestUse": "晚上，放松"
+    },
+    {
+      "name": "Bir Kar",
+      "region": "瓦努阿图",
+      "type": "平衡",
+      "chemotype": "423561",
+      "bestUse": "经验丰富的用户，晚上"
+    },
+    {
+      "name": "Palasa",
+      "region": "瓦努阿图",
+      "type": "重型",
+      "chemotype": "423651",
+      "bestUse": "睡眠，肌肉"
+    },
+    {
+      "name": "Loa Waka",
+      "region": "斐济",
+      "type": "重型",
+      "chemotype": "—",
+      "bestUse": "经验丰富的用户，睡眠"
+    },
+    {
+      "name": "Hiwa",
+      "region": "夏威夷",
+      "type": "重型",
+      "chemotype": "—",
+      "bestUse": "仪式，睡眠"
+    }
+  ]
+}

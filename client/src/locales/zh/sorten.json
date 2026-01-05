@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "title": "品种与栽培",
+    "subtitle": "全面指南，探索Kava品种的世界：从Borogu到Pouni Ono，从Heady到Heavy。",
+    "category": "品种",
+    "breadcrumb": {
+      "home": "首页",
+      "current": "品种"
+    }
+  },
+  "toc": {
+    "title": "目录",
+    "items": [
+      {
+        "id": "einfuehrung",
+        "title": "介绍",
+        "level": 1
+      },
+      {
+        "id": "noble-vs-tudei",
+        "title": "高贵Kava与Tudei Kava",
+        "level": 1
+      },
+      {
+        "id": "wirktypen",
+        "title": "三种效应类型",
+        "level": 1
+      },
+      {
+        "id": "regionen",
+        "title": "种植区域",
+        "level": 1
+      },
+      {
+        "id": "auswahl",
+        "title": "哪种品种适合我？",
+        "level": 1
+      },
+      {
+        "id": "unterseiten",
+        "title": "深入文章",
+        "level": 1
+      }
+    ]
+  },
+  "content": {
+    "einfuehrung": {
+      "lead": "今天存在<strong>超过100种已记录的Kava品种</strong>，它们在来源、化学类型和效果上有显著差异。仅在Vanuatu，这种植物的假定原产地，已知有超过80种不同的栽培品种。这种多样性是太平洋文化经过3000多年有目的选择的结果。",
+      "text": "品种之间的差异不仅仅是学术上的——它们在很大程度上决定了Kava饮料的效果。来自<a href=\"/de/sorten/vanuatu\" class=\"text-primary hover:underline\">Vanuatu的Kelai</a>与来自<a href=\"/de/sorten/pazifik\" class=\"text-primary hover:underline\">Fiji的Loa Waka</a>的效果截然不同。理解这些差异是获得有意识和令人满意的Kava体验的关键。"
+    },
+    "nobleTudei": {
+      "title": "高贵Kava与Tudei Kava",
+      "intro": "每个Kava消费者必须了解的最重要的区别是<strong>高贵Kava</strong>（Edelkava）与<strong>Tudei Kava</strong>之间的区别。这个分类是由Vanuatu政府引入的，基于各品种的<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学类型</a>。",
+      "noble": {
+        "title": "高贵Kava（Edelkava）",
+        "items": [
+          "经过数百年的选择，具有愉悦的效果",
+          "化学类型以<strong>2</strong>或<strong>4</strong>开头，从不以5或6开头",
+          "效果出现时间：10-20分钟",
+          "效果持续时间：3-6小时，干净消退",
+          "第二天没有\"宿醉\"",
+          "适合定期使用"
+        ],
+        "examples": "Borogu, Melo Melo, Kelai, Palasa, Pouni Ono"
+      },
+      "tudei": {
+        "title": "Tudei Kava（Two-Day）",
+        "items": [
+          "化学类型以<strong>5</strong>或<strong>6</strong>开头（DHM主导）",
+          "效果出现时间：30-90分钟（延迟）",
+          "效果持续时间极长（可达2天）",
+          "常常导致恶心和嗜睡",
+          "\"宿醉\"感觉在第二天",
+          "在Vanuatu禁止出口"
+        ],
+        "examples": "Isa, Palimanu, Wildkava"
+      },
+      "warning": "购买时请注意，商家是否提供化学类型和具体品种的信息。这种透明度是高贵Kava真实的良好标志。",
+      "linkText": "了解更多关于高贵与Tudei的内容"
+    },
+    "wirktypen": {
+      "title": "三种效应类型",
+      "intro": "高贵Kava品种根据其主导效果分为三类。这种分类基于<a href=\"/de/inhaltsstoffe/chemotypen\" class=\"text-primary hover:underline\">化学类型</a>——即六种主要<a href=\"/de/inhaltsstoffe/kavalactone\" class=\"text-primary hover:underline\">Kavalactone</a>的相对浓度。",
+      "heady": {
+        "title": "头脑清晰",
+        "description": "以头脑为主的效果：欣快、思维清晰、社交。适合白天和社交场合。",
+        "chemotype": "通常以4（Kavain）或2（DHK）开头",
+        "varieties": "Kelai, Pouni Ono, Moi",
+        "linkText": "情绪与社交"
+      },
+      "balanced": {
+        "title": "平衡",
+        "description": "平衡的效果：放松而不疲倦，心理平静与身体舒适。",
+        "chemotype": "4、2和3的平衡比例",
+        "varieties": "Melo Melo, Bir Kar, Borogu",
+        "linkText": "缓解焦虑"
+      },
+      "heavy": {
+        "title": "沉重",
+        "description": "以身体为主的效果：深度肌肉放松、镇静，适合晚上和睡眠。",
+        "chemotype": "高DHK含量（2）在第1-2位",
+        "varieties": "Palasa, Palarasul, Loa Waka",
+        "linkText": "睡眠与放松"
+      },
+      "calculatorLink": "化学类型计算器：分析每种化学类型"
+    },
+    "regionen": {
+      "title": "种植区域概览",
+      "intro": "Kava今天在太平洋的不同地区种植。每个地区都发展了适应当地气候和文化偏好的品种。",
+      "tableHeaders": {
+        "region": "地区",
+        "count": "品种数量",
+        "localName": "当地名称",
+        "varieties": "已知品种",
+        "characteristics": "特征"
+      },
+      "tableRows": [
+        {
+          "region": "Vanuatu",
+          "count": "80+",
+          "localName": "Kava, Malok",
+          "varieties": "Borogu, Melo Melo, Kelai, Palasa",
+          "characteristics": "最多样化，原产地"
+        },
+        {
+          "region": "Fiji",
+          "count": "13",
+          "localName": "Yaqona, Malogu",
+          "varieties": "Loa Waka, Qila Balavu",
+          "characteristics": "通常较重，良好的加工"
+        },
+        {
+          "region": "Tonga",
+          "count": "7",
+          "localName": "Kava",
+          "varieties": "Pouni Ono, Leka Hina",
+          "characteristics": "全部为高贵，偏向头脑清晰"
+        },
+        {
+          "region": "Hawaii",
+          "count": "13",
+          "localName": "'Awa",
+          "varieties": "Moi, Hiwa, Papa Kea",
+          "characteristics": "非常强效，价格昂贵"
+        },
+        {
+          "region": "Samoa",
+          "count": "4",
+          "localName": "'Ava",
+          "varieties": "Ava La'au, Ava Tonga",
+          "characteristics": "传统，仪式性"
+        },
+        {
+          "region": "巴布亚新几内亚",
+          "count": "1 Noble",
+          "localName": "Kau",
+          "varieties": "Kau kupwe",
+          "characteristics": "唯一的高贵品种"
+        }
+      ],
+      "vanuatuLink": "来自Vanuatu的品种",
+      "pazifikLink": "来自Fiji、Tonga和Hawaii的品种"
+    },
+    "auswahl": {
+      "title": "哪种品种适合我？",
+      "intro": "选择合适的Kava品种取决于您想要的效果和时间。以下是一些指导：",
+      "recommendations": [
+        {
+          "purpose": "社交场合",
+          "type": "头脑清晰",
+          "description": "选择一个<strong>头脑清晰</strong>的Kava：",
+          "varieties": [
+            "Kelai（Vanuatu）",
+            "Pouni Ono（Tonga）",
+            "Moi（Hawaii）"
+          ]
+        },
+        {
+          "purpose": "缓解压力与焦虑",
+          "type": "平衡",
+          "description": "选择一个<strong>平衡</strong>的Kava：",
+          "varieties": [
+            "Melo Melo（Vanuatu）",
+            "Bir Kar（Vanuatu）",
+            "Borogu（Vanuatu）"
+          ]
+        },
+        {
+          "purpose": "放松肌肉",
+          "type": "沉重",
+          "description": "选择一个<strong>沉重</strong>的Kava：",
+          "varieties": [
+            "Palasa（Vanuatu）",
+            "Palarasul（Vanuatu）",
+            "Loa Waka（Fiji）"
+          ]
+        },
+        {
+          "purpose": "帮助入睡",
+          "type": "沉重",
+          "description": "选择一个<strong>沉重</strong>的Kava：",
+          "varieties": [
+            "Palasa（Vanuatu）",
+            "Loa Waka（Fiji）",
+            "Ambae（Vanuatu）"
+          ]
+        }
+      ],
+      "tip": "从<strong>平衡</strong>的Kava开始，例如Melo Melo或Borogu。这些品种提供愉悦、平衡的体验，而不会在某一方面产生极端效果。",
+      "tipLabel": "新手提示："
+    },
+    "unterseiten": {
+      "title": "深入文章",
+      "intro": "探索我们专门的子页面，了解Kava品种的各个方面："
+    }
+  },
+  "subpages": [
+    {
+      "title": "高贵Kava与Tudei",
+      "description": "最重要的区别：为什么高贵Kava是安全的，而Tudei应该被避免。",
+      "href": "/de/sorten/noble-tudei",
+      "icon": "AlertTriangle"
+    },
+    {
+      "title": "来自Vanuatu的品种",
+      "description": "来自Kava故乡的80多种品种：Borogu、Melo Melo、Kelai、Palasa等。",
+      "href": "/de/sorten/vanuatu",
+      "icon": "Globe"
+    },
+    {
+      "title": "来自Fiji、Tonga和Hawaii的品种",
+      "description": "地方特色：Loa Waka、Pouni Ono、'Awa Moi及其独特特性。",
+      "href": "/de/sorten/pazifik",
+      "icon": "Leaf"
+    },
+    {
+      "title": "品种详细资料",
+      "description": "主要品种的详细档案，包括化学类型、效果和推荐。",
+      "href": "/de/sorten/profile",
+      "icon": "FlaskConical"
+    }
+  ],
+  "navigation": {
+    "previous": {
+      "href": "/de/inhaltsstoffe",
+      "label": "返回",
+      "title": "成分"
+    },
+    "next": {
+      "href": "/de/zubereitung",
+      "label": "继续",
+      "title": "准备"
+    }
+  }
+}

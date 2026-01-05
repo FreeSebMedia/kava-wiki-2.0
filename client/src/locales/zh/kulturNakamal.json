@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Nakamal & Kava-Bars",
+    "subtitle": "从传统的集会屋到现代的Kava酒吧——Kava文化的社会架构",
+    "category": "文化"
+  },
+  "breadcrumbs": {
+    "home": "首页",
+    "kultur": "文化",
+    "current": "Nakamal"
+  },
+  "toc": {
+    "einfuehrung": "介绍",
+    "traditionell": "传统Nakamal",
+    "atmosphaere": "氛围与规则",
+    "architektur": "建筑",
+    "modern": "现代Kava酒吧",
+    "regionen": "地区差异",
+    "etikette": "Nakamal礼仪",
+    "besuch": "访问Nakamal"
+  },
+  "intro": {
+    "lead": "这个<strong>Nakamal</strong>不仅仅是一个喝Kava的地方——它是瓦努阿图社会生活的核心，也是全球Kava酒吧的典范。",
+    "p1": "在美拉尼西亚文化中，Nakamal既是集会屋、社区中心，也是精神场所。在这里解决冲突、讲述故事、建立联盟，并维护与祖先的联系。",
+    "p2": "如今，除了瓦努阿图的传统Nakamal，波特维拉、苏瓦、奥克兰，甚至墨尔本、洛杉矶和柏林等西方城市也有现代Kava酒吧。它们都共享着共同的原则：宁静、尊重和社区。"
+  },
+  "traditional": {
+    "title": "传统Nakamal",
+    "intro": "在瓦努阿图的传统村落社区中，Nakamal是<strong>中心集会地点</strong>——一个通常只供男性使用的地方（尽管在城市地区有所改变）。",
+    "functionsTitle": "Nakamal的功能",
+    "functions": [
+      {
+        "icon": "users",
+        "title": "社区聚会点",
+        "desc": "村民下班后的日常聚会地点"
+      },
+      {
+        "icon": "scale",
+        "title": "冲突解决",
+        "desc": "在Kava的影响下，争端在这里和平解决"
+      },
+      {
+        "icon": "landmark",
+        "title": "政治咨询",
+        "desc": "重要的村庄决策在Nakamal中讨论"
+      },
+      {
+        "icon": "sparkles",
+        "title": "精神连接",
+        "desc": "通过仪式性的Kava仪式与祖先灵魂沟通"
+      },
+      {
+        "icon": "book",
+        "title": "知识传承",
+        "desc": "历史、神话和习俗的口头传承"
+      },
+      {
+        "icon": "handshake",
+        "title": "款待",
+        "desc": "接待客人和缔结联盟"
+      }
+    ],
+    "genderNote": "传统上，Nakamal是一个<strong>男性空间</strong>。在许多村庄，女性被禁止进入Nakamal或饮用Kava。然而，这一传统因岛屿而异，并在城市地区逐渐放宽。"
+  },
+  "atmosphere": {
+    "title": "氛围与规则",
+    "intro": "Nakamal是一个<strong>宁静与沉思</strong>的地方。其氛围与西方酒吧有着根本的不同。",
+    "rulesTitle": "Nakamal的规则",
+    "rules": [
+      {
+        "rule": "轻声交谈",
+        "explanation": "大声交谈和笑声是不合适的——人们轻声交谈"
+      },
+      {
+        "rule": "昏暗的光线",
+        "explanation": "Kava使眼睛对光敏感（\"Kava眼\"）——避免明亮的光线"
+      },
+      {
+        "rule": "没有大声音乐",
+        "explanation": "安静或轻声的传统音乐是常态"
+      },
+      {
+        "rule": "尊重的互动",
+        "explanation": "争吵和攻击性行为是禁忌"
+      },
+      {
+        "rule": "不吃东西",
+        "explanation": "传统上，Nakamal不吃东西——Kava是在空腹时饮用的"
+      },
+      {
+        "rule": "最低停留时间",
+        "explanation": "在离开之前，需停留一段时间并饮用几碗"
+      }
+    ],
+    "sensoryBox": {
+      "title": "感官体验",
+      "sight": "昏暗的光线，通常只有蜡烛或微弱的灯光",
+      "sound": "低声交谈、蟋蟀鸣叫、椰子壳轻声碰撞",
+      "smell": "泥土气息的Kava香味，混合着热带夜晚的空气",
+      "taste": "新鲜Kava的辛辣、泥土味",
+      "feel": "逐渐放松的感觉，社区的归属感"
+    }
+  },
+  "architecture": {
+    "title": "Nakamal的建筑",
+    "intro": "传统的Nakamal是简单而实用的结构，适应热带环境。",
+    "elementsTitle": "典型元素",
+    "elements": [
+      {
+        "element": "有顶区域",
+        "description": "用棕榈叶或波纹铁屋顶保护免受雨淋"
+      },
+      {
+        "element": "开放的侧面",
+        "description": "通过开放或半开放的墙壁良好通风"
+      },
+      {
+        "element": "中央火炉",
+        "description": "在某些Nakamal中提供温暖和光亮"
+      },
+      {
+        "element": "长椅或垫子",
+        "description": "用木头或编织垫子制成的简单座位"
+      },
+      {
+        "element": "Kava准备区",
+        "description": "配有研钵、筛子和水容器的区域"
+      },
+      {
+        "element": "吐口区",
+        "description": "在碗之间吐口的区域或沟槽"
+      }
+    ],
+    "tannaStyle": {
+      "title": "塔纳风格",
+      "desc": "在塔纳，Nakamal通常是由自然材料构成的圆形结构，与景观和谐融合。神圣的榕树通常在附近。"
+    },
+    "urbanStyle": {
+      "title": "城市风格",
+      "desc": "在波特维拉，Nakamal从简单的小屋到混凝土结构，配有霓虹灯——但氛围依然传统。"
+    }
+  },
+  "modern": {
+    "title": "现代Kava酒吧",
+    "intro": "在瓦努阿图之外，Nakamal的概念发展为现代的<strong>Kava酒吧</strong>——这些地方将传统价值观与现代舒适结合在一起。",
+    "typesTitle": "Kava酒吧的类型",
+    "types": [
+      {
+        "type": "正宗传统",
+        "locations": "波特维拉、苏瓦、努库阿洛法",
+        "description": "传统氛围，提供新鲜Kava，简单的装潢和当地人群"
+      },
+      {
+        "type": "侨民Nakamals",
+        "locations": "奥克兰、悉尼、墨尔本",
+        "description": "由太平洋社区运营，外籍人士的聚会点，结合传统与现代元素"
+      },
+      {
+        "type": "西方Kava酒吧",
+        "locations": "佛罗里达、加利福尼亚、纽约、柏林",
+        "description": "现代氛围，常常提供Kava鸡尾酒，咖啡馆氛围，面向西方观众"
+      },
+      {
+        "type": "Kava咖啡馆",
+        "locations": "全球",
+        "description": "结合咖啡馆与Kava酒吧，通常提供茶、咖啡和Kava混合饮品"
+      }
+    ],
+    "comparisonTitle": "传统与现代",
+    "comparison": [
+      {
+        "aspect": "准备",
+        "traditional": "新鲜准备，通常是咀嚼或磨碎",
+        "modern": "通常是速溶Kava或预制"
+      },
+      {
+        "aspect": "氛围",
+        "traditional": "非常安静，光线昏暗",
+        "modern": "轻松，但通常有更多娱乐"
+      },
+      {
+        "aspect": "观众",
+        "traditional": "当地社区，通常只有男性",
+        "modern": "混合观众，所有性别"
+      },
+      {
+        "aspect": "附加产品",
+        "traditional": "仅提供Kava",
+        "modern": "通常提供小吃、其他饮料，有时还有食物"
+      },
+      {
+        "aspect": "价格",
+        "traditional": "非常便宜（每碗50-100瓦图）",
+        "modern": "较高（每碗5-15美元）"
+      }
+    ]
+  },
+  "regions": {
+    "title": "地区差异",
+    "intro": "Kava饮用场所根据地区在氛围和传统上有所不同。",
+    "places": [
+      {
+        "flag": "🇻🇺",
+        "country": "瓦努阿图",
+        "name": "Nakamal",
+        "description": "起源地——传统的村庄Nakamals和波特维拉的现代城市变体。最强的Kava，最真实的体验。",
+        "highlight": "仅在波特维拉就有超过400个Nakamals"
+      },
+      {
+        "flag": "🇫🇯",
+        "country": "斐济",
+        "name": "Kava Circle",
+        "description": "比瓦努阿图的制度化程度低——Kava在家庭、集会和非正式小组中饮用。",
+        "highlight": "Tanoa（Kava碗）作为中心"
+      },
+      {
+        "flag": "🇹🇴",
+        "country": "汤加",
+        "name": "Faikava",
+        "description": "比斐济更有结构——Tu'i Kava主持仪式。也在现代的\"Kalapu\"（俱乐部）中饮用。",
+        "highlight": "严格的服务顺序等级"
+      },
+      {
+        "flag": "🇼🇸",
+        "country": "萨摩亚",
+        "name": "'Ava Circle",
+        "description": "由Taupou作为准备者的正式仪式。在阿皮亚的\"Kava Bars\"中有现代变体。",
+        "highlight": "高度仪式化的准备"
+      },
+      {
+        "flag": "🇺🇸",
+        "country": "美国",
+        "name": "Kava Bar",
+        "description": "西方风格，咖啡馆氛围。在佛罗里达和加利福尼亚特别受欢迎。常与Kratom混合。",
+        "highlight": "佛罗里达有超过300家Kava酒吧"
+      },
+      {
+        "flag": "🇳🇿",
+        "country": "新西兰",
+        "name": "Kava Club",
+        "description": "由太平洋社区运营。是奥克兰汤加人、萨摩亚人和斐济人的重要聚会点。",
+        "highlight": "在侨民中与故乡的联系"
+      }
+    ]
+  },
+  "etiquette": {
+    "title": "Nakamal礼仪",
+    "intro": "无论是在瓦努阿图的传统Nakamal还是佛罗里达的Kava酒吧——某些基本的礼仪规则在任何地方都适用。",
+    "dosTitle": "应该做的事",
+    "dos": [
+      "轻声交谈并保持尊重",
+      "一口气喝完Kava（\"High tide\"）",
+      "归还空碗",
+      "慢慢来——Kava不是快速饮品",
+      "在仪式中遵循指示",
+      "\"Bula!\"（斐济）或\"Malomalō!\"（瓦努阿图）"
+    ],
+    "dontsTitle": "应该避免的事",
+    "donts": [
+      "大声喧哗或尖叫",
+      "小口喝Kava",
+      "变得不耐烦",
+      "未经邀请拍照",
+      "带入或混合酒精",
+      "讨价还价"
+    ],
+    "tipBox": {
+      "title": "首次访问者提示",
+      "text": "如果您第一次访问Nakamal或Kava酒吧，请向工作人员询问建议。大多数人都很自豪能向新来者解释传统，并乐于帮助选择强度。"
+    }
+  },
+  "visit": {
+    "title": "访问Nakamal",
+    "intro": "计划访问传统Nakamal或Kava酒吧吗？以下是实用提示：",
+    "stepsTitle": "逐步指南",
+    "steps": [
+      {
+        "step": "到达",
+        "desc": "Nakamals通常在日落时开放（17-18点）。不要来得太早。"
+      },
+      {
+        "step": "点单",
+        "desc": "选择\"High tide\"（满碗）或\"Low tide\"（半碗）。作为初学者，先从半碗开始。"
+      },
+      {
+        "step": "等待",
+        "desc": "新鲜准备需要几分钟。利用这段时间感受氛围。"
+      },
+      {
+        "step": "饮用",
+        "desc": "一口气喝完碗里的Kava。之后如有需要可以吐出（通常有沟槽）。"
+      },
+      {
+        "step": "等待与感受",
+        "desc": "在点另一碗之前等待10-15分钟。感受效果。"
+      },
+      {
+        "step": "享受",
+        "desc": "待一段时间，轻声交谈，享受宁静的氛围。"
+      }
+    ],
+    "costsTitle": "典型费用",
+    "costs": [
+      {
+        "location": "瓦努阿图（传统）",
+        "price": "50-150瓦图（约€0.40-1.20）",
+        "note": "非常便宜，新鲜Kava"
+      },
+      {
+        "location": "斐济",
+        "price": "FJ$2-5（约€0.80-2）",
+        "note": "比瓦努阿图稍贵"
+      },
+      {
+        "location": "新西兰/澳大利亚",
+        "price": "NZ$5-15（约€3-8）",
+        "note": "侨民价格"
+      },
+      {
+        "location": "美国/欧洲",
+        "price": "$8-18（约€7-16）",
+        "note": "西方Kava酒吧价格"
+      }
+    ],
+    "findTitle": "寻找Nakamals",
+    "findText": "在波特维拉有超过400个Nakamals——您不会难以找到一个。在太平洋以外，使用Kava酒吧目录或在太平洋社区询问。我们的<a href=\"/de/kultur/kava-bars\">Kava酒吧地图</a>可以帮助您找到附近的地方。"
+  },
+  "navigation": {
+    "title": "继续阅读",
+    "back": {
+      "label": "前一章",
+      "title": "仪式与传统",
+      "href": "/de/kultur/zeremonien"
+    },
+    "next": {
+      "label": "下一章",
+      "title": "现代Kava文化",
+      "href": "/de/kultur/moderne"
+    }
+  },
+  "related": {
+    "title": "相关主题",
+    "links": [
+      {
+        "label": "仪式与传统",
+        "href": "/de/kultur/zeremonien"
+      },
+      {
+        "label": "传统准备",
+        "href": "/de/zubereitung/traditionell"
+      },
+      {
+        "label": "Kava酒吧地图",
+        "href": "/de/kultur/kava-bars"
+      },
+      {
+        "label": "瓦努阿图品种",
+        "href": "/de/sorten/vanuatu"
+      },
+      {
+        "label": "词汇表：Nakamal",
+        "href": "/de/glossar#nakamal"
+      }
+    ]
+  }
+}

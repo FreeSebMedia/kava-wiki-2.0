@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "相互作用检查器",
+    "subtitle": "检查您的药物与Kava之间的潜在相互作用",
+    "category": "安全性",
+    "breadcrumbs": {
+      "home": "首页",
+      "sicherheit": "安全性",
+      "wechselwirkungen": "相互作用",
+      "current": "相互作用检查器"
+    }
+  },
+  "toc": {
+    "title": "内容",
+    "checker": "相互作用检查器",
+    "anleitung": "使用说明",
+    "kategorien": "风险类别",
+    "haeufige": "常见药物",
+    "hinweis": "重要提示"
+  },
+  "ui": {
+    "disclaimerTitle": "重要提示",
+    "disclaimerText": "此检查器仅供参考，并不能替代医生的建议。如有疑问或正在服用处方药，请始终咨询医生或药剂师。",
+    "inputTitle": "输入药物",
+    "inputDescription": "输入您的药物名称（有效成分或商品名）",
+    "placeholder": "例如：地西泮，布洛芬，舍曲林...",
+    "selectedMeds": "选择的药物：",
+    "checkButton": "检查相互作用",
+    "commonCategories": "常见药物类别",
+    "overallAssessment": "总体评估",
+    "detailedAnalysis": "详细分析",
+    "category": "类别",
+    "mechanism": "机制",
+    "affectedEnzymes": "受影响的CYP酶",
+    "recommendation": "建议",
+    "newCheck": "新检查",
+    "moreAbout": "更多关于相互作用的信息",
+    "moreInfo": "更多信息",
+    "liverSafety": "肝脏安全性与肝毒性",
+    "contraindications": "禁忌症",
+    "safetyOverview": "安全与健康概述",
+    "studies": "科学研究"
+  },
+  "intro": {
+    "title": "药物检查",
+    "text": "输入您的药物或有效成分的名称，以检查与Kava的潜在相互作用。"
+  },
+  "search": {
+    "placeholder": "输入药物或有效成分...",
+    "button": "检查",
+    "noResults": "未找到该名称的药物。请检查拼写或咨询医生。"
+  },
+  "result": {
+    "risk": "风险级别",
+    "mechanism": "机制",
+    "recommendation": "建议",
+    "alternatives": "可能的替代品"
+  },
+  "riskLevels": {
+    "very_high": {
+      "label": "非常高风险",
+      "description": "严格禁忌 - 永远不要使用组合"
+    },
+    "high": {
+      "label": "高风险",
+      "description": "避免组合 - 可能存在重大健康风险"
+    },
+    "moderate": {
+      "label": "中等风险",
+      "description": "需谨慎 - 仅在医生监督下使用"
+    },
+    "low": {
+      "label": "低风险",
+      "description": "在正常使用情况下可能是安全的"
+    },
+    "none": {
+      "label": "没有已知风险",
+      "description": "没有记录已知的相互作用"
+    }
+  },
+  "anleitung": {
+    "title": "如何使用检查器",
+    "steps": [
+      "输入您的药物或有效成分的名称",
+      "点击“检查”或按回车",
+      "阅读风险评估和建议",
+      "如有疑问，请始终咨询医生或药剂师"
+    ]
+  },
+  "kategorien": {
+    "title": "风险类别解释",
+    "high": {
+      "title": "高风险",
+      "text": "在任何情况下都应避免组合。可能会出现严重副作用。"
+    },
+    "moderate": {
+      "title": "中等风险",
+      "text": "仅在医生监督下使用组合。可能需要调整剂量。"
+    },
+    "low": {
+      "title": "低风险",
+      "text": "组合可能安全，但需注意个体反应。"
+    },
+    "unknown": {
+      "title": "未知",
+      "text": "没有足够的数据可用。建议谨慎使用。"
+    }
+  },
+  "haeufige": {
+    "title": "常见药物",
+    "clickToCheck": "点击药物以进行检查："
+  },
+  "hinweis": {
+    "title": "重要提示",
+    "text": "此检查器仅供一般信息参考，并不能替代医生的建议。数据库并不完整，并会持续更新。如有疑问，请始终咨询医生或药剂师。",
+    "disclaimer": "信息基于科学文献和已知的相互作用机制。个体反应可能会有所不同。"
+  },
+  "navigation": {
+    "continueTitle": "继续安全性章节",
+    "items": [
+      {
+        "title": "概述",
+        "href": "/de/sicherheit",
+        "description": "返回安全性概述"
+      },
+      {
+        "title": "相互作用",
+        "href": "/de/sicherheit/wechselwirkungen",
+        "description": "有关相互作用的详细信息"
+      },
+      {
+        "title": "禁忌症",
+        "href": "/de/sicherheit/kontraindikationen",
+        "description": "何时不应使用Kava"
+      }
+    ]
+  }
+}
